@@ -390,7 +390,7 @@
         },
         {
             "key": "ability.aura_reptile.title",
-            "value": "Reptiles"
+            "value": "Reptiles aliados"
         },
         {
             "key": "ability.aura_reptile_2.desc",
@@ -398,7 +398,7 @@
         },
         {
             "key": "ability.aura_reptile_2.title",
-            "value": "Reptiles"
+            "value": "Reptiles aliados"
         },
         {
             "key": "ability.bypass_trap.desc",

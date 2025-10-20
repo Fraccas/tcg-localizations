@@ -142,7 +142,7 @@
     },
     {
       "key": "ability.activate_roll_send_hand.title",
-      "value": "Charge"
+      "value": "Percée"
     },
     {
       "key": "ability.activate_select_discard_spell.desc",
@@ -158,7 +158,7 @@
     },
     {
       "key": "ability.activate_send_hand.title",
-      "value": "Charge"
+      "value": "Ruée"
     },
     {
       "key": "ability.activate_shadow.desc",
@@ -254,7 +254,7 @@
     },
     {
       "key": "ability.attack_player_mana1.title",
-      "value": "Pillage"
+      "value": "Saccage"
     },
     {
       "key": "ability.attack_player_mana2.desc",
@@ -262,7 +262,7 @@
     },
     {
       "key": "ability.attack_player_mana2.title",
-      "value": "Pillage"
+      "value": "Saccage"
     },
     {
       "key": "ability.attack_player_mana3.desc",
@@ -270,7 +270,7 @@
     },
     {
       "key": "ability.attack_player_mana3.title",
-      "value": "Pillage"
+      "value": "Saccage"
     },
     {
       "key": "ability.attack_poison.desc",
@@ -278,7 +278,7 @@
     },
     {
       "key": "ability.attack_poison.title",
-      "value": "Poison"
+      "value": "Empoisonnement"
     },
     {
       "key": "ability.attack_roll_attack_add_bonus_3.desc",
@@ -390,7 +390,7 @@
     },
     {
       "key": "ability.aura_reptile.title",
-      "value": "Reptiles"
+      "value": "Reptiles alliés"
     },
     {
       "key": "ability.aura_reptile_2.desc",
@@ -398,7 +398,7 @@
     },
     {
       "key": "ability.aura_reptile_2.title",
-      "value": "Reptiles"
+      "value": "Reptiles alliés"
     },
     {
       "key": "ability.bypass_trap.desc",
@@ -930,7 +930,7 @@
     },
     {
       "key": "ability.spell_destroy_all.title",
-      "value": "Armageddon"
+      "value": "Armaguedon"
     },
     {
       "key": "ability.spell_destroy_frozen_all.desc",
@@ -1062,7 +1062,7 @@
     },
     {
       "key": "ability.spell_projectile1_repeat.title",
-      "value": "Projectiles"
+      "value": "Salve de projectiles"
     },
     {
       "key": "ability.spell_return_all.desc",
@@ -1326,7 +1326,7 @@
     },
     {
       "key": "ability.trap_poison.title",
-      "value": "Poison"
+      "value": "Piège empoisonné"
     },
     {
       "key": "ability.trap_shock.desc",
@@ -1534,7 +1534,7 @@
     },
     {
       "key": "status.invincibility.title",
-      "value": "Invincible"
+      "value": "Invincibilité"
     },
     {
       "key": "status.lifesteal.desc",
@@ -1654,7 +1654,7 @@
     },
     {
       "key": "trait.dragon.title",
-      "value": "Dragon"
+      "value": "Dragon ancestral"
     },
     {
       "key": "trait.evolution.title",
@@ -1678,7 +1678,7 @@
     },
     {
       "key": "trait.reptile.title",
-      "value": "Reptile"
+      "value": "Reptilien"
     },
     {
       "key": "trait.spell_damage.title",
