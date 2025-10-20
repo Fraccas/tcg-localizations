@@ -1,0 +1,1156 @@
+{
+    "entries": [
+        {
+            "key": "card.alfrost.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>공격</b>: 대상 몬스터에 저주 걸기"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "이 생물로 다른 캐릭터를 죽이면 2장 카드 뽑기."
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>함정 회피:</b> 공격 시 함정 발동 안 함.\n 각 적 함정당 +1 피해 획득."
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>함정 회피:</b> 공격 시 함정 발동 안 함."
+        },
+        {
+            "key": "card.bay.text",
+            "value": "당신이 소유한 물 생물이 죽으면 카드 1장 뽑기."
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>죽음:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.bora.text",
+            "value": "은폐"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "플레이어 공격 후 2 마나 획득.\n "
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>놓기:</b> 캐릭터가 화상 입고 매 턴 2 피해 받음."
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>놓기:</b> 플레이어 손에서 무작위 카드 버리고 두 장 새 카드 뽑기."
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "은폐"
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "<b>시전:</b> 모든 아군에게 +2 방어막 부여. 5 마나와 행동 사용."
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "각 턴 시작 시 카드 1장 뽑기"
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "사거리: 비행 몬스터는 이 몬스터를 공격해야 함. "
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "주문 피해 +1."
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>놓기</b>: 새끼 Jagur 소환.\n 모든 고양이 +1 공격."
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>죽이기:</b> 카드 2장 뽑기."
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "도발\n 껍데기"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "1 마나 획득."
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "적 캐릭터 공격력 -1.\n 도발 무시 가능."
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "비행 / Cryonix로 진화\n <b>놓기:</b> 적 캐릭터 동결"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "은폐"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>놓기:</b> 저주."
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>놓기</b>: 모든 캐릭터 저주."
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "주문 무효\n 껍데기"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>놓기:</b> 양측 대상 캐릭터 선택 후 상대에게 보내기.\n 행동: 3 마나로 반복."
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>놓기:</b> 이 몬스터를 4 마나 몬스터와 교환. "
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "주문 무효"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>놓기:</b> 대상 몬스터에 독 부여"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>놓기:</b> +2/2 부여"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>공격:</b>D6 굴리기, 4+ 시 턴 끝까지 +3 공격 획득."
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "돌진\n 도발 무시"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "드래곤 발견."
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>놓기</b>: 대상 캐릭터 침묵 후 대상 캐릭터 저주"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>놓기</b>: 모든 캐릭터 저주"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>공격</b>: 대상 몬스터 저주"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "모든 전기 몬스터 2 마나 적게 (적 포함)"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>놓기:</b> 상대 무작위 카드 버리기"
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>놓기:</b> 공격 3 이하 캐릭터 파괴."
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "각 턴 시작 시 상대 손 공개. 최대 3 턴 지속. "
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "착용자 2 방어막과 도발 획득."
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "공격 +1.\n 착용자 공격 시 피해 없음."
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "공격 +2\n 두 번 공격 지속"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "4 턴 동안 턴당 2 마나 추가 획득."
+        },
+        {
+            "key": "card.espe.text",
+            "value": "마나 비용 5+ 적 대상 캐릭터 정신 지배, 이 캐릭터가 판 떠날 때까지"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>놓기:</b> +2/2 부여.\n 피해 주면 플레이어 치유."
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>놓기:</b> 모두에게 2 피해."
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>놓기:</b> 마나 비용 5 이하 적 캐릭터 정신 지배"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>공격:</b> 적 화상. 턴당 2 HP 감소."
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>놓기:</b> 마나 비용 2 이하 대상 캐릭터 정신 지배"
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>놓기:</b> 마나 비용 3 이하 대상 캐릭터 정신 지배"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>놓기:</b> 양측 마나 비용 2 이하 대상 캐릭터 선택 후 상대에게 보내기."
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "상대가 캐릭터 카드 버리면 이 캐릭터가 버린 캐릭터 복제."
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "상대가 주문 버리면 손에 0 마나 복제 생성.\n "
+        },
+        {
+            "key": "card.froster.text",
+            "value": "공격 시 D6 굴리기. 4+ 시 +6 공격."
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "주문 무효\n 능력 무효\n 도발 무시"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "각 턴 시작 시 카드 1장 뽑기"
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "주문 놓은 후 +2 공격 획득.\n <b>비행</b> 도발 무시 가능"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "주문 놓은 후 +2 공격 획득."
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>공격:</b> 저주"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기."
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>공격:</b> 독.\n <b>비행:</b> 도발 무시 가능."
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "주문 놓은 후 +2 공격 획득."
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "각 턴 시작 시 +1 공격 획득."
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "각 턴 시작 시 카드 1장 뽑기"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>놓기:</b> 모두에게 2 피해."
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>놓기:</b> 모든 부정 효과 치유하고 +2 HP 부여"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>시전 (2):</b> 플레이어 3 HP 치유. "
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>놓기:</b> +2/2 부여.\n <b>행동:</b> 충전."
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>놓기:</b> 대상 카드 침묵."
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>도발</b>\n <b>각 턴:</b> 공격 낮은 캐릭터 죽이기.\n "
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>놓기:</b> 대상에 고통의 저주 추가"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "분노\n 각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기.\n 공격력 손실 무효"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "<b>죽음:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "<b>턴:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기."
+        },
+        {
+            "key": "card.hato.text",
+            "value": "치명타"
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "각 턴, +1 공격 획득."
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "전기 몬스터에 추가 행동 부여하는 고대 전기 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "임의 카드나 플레이어에게 1 피해 주는 고대 불 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "임의 카드 1턴 동결하는 고대 얼음 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "캐릭터와 플레이어 2 PV 치유하는 고대 식물 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "상대 손에서 카드 버리게 하는 고대 정신 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "판 위 임의 카드에 +1 방어막 부여하는 고대 바위 Fracctal 요정. "
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "게임 중 임의 카드 저주하는 고대 그림자 Fracctal 요정. "
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "플레이어 추가 카드 뽑게 하는 고대 물 Fracctal 요정. "
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>공격:</b> 적 화상. 턴당 2 PV 감소."
+        },
+        {
+            "key": "card.hito.text",
+            "value": "상대 턴 중 +3 공격."
+        },
+        {
+            "key": "card.ice_town.text",
+            "value": "모든 아군 얼음 생물 +1 공격과 +1 HP."
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>죽음:</b> 적 플레이어에게 2 피해."
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>공격</b>: 대상 몬스터 저주"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "도발 무시"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>놓기:</b> 도발 또는 분노 획득"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>죽이기:</b> 카드 2장 뽑기.\n <b>죽음:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "상대 턴 중 +3 공격."
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "껍데기\n 도발"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>공격:</b> 독."
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "돌진 / 비행"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "치명타"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>놓기</b>: Lizo 소환\n 모든 파충류 +1 공격."
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>놓기</b>: Lizo 소환\n 모든 파충류 +2 공격."
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>놓기:</b> +2/2 부여.\n <b>비행:</b> 도발 무시 가능."
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>놓기:</b> +2/2 부여\n <b>놓기:</b> 플레이어 4 HP 치유\n <b>비행:</b> 도발 무시 가능"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>턴 시작: </b>모든 식물 카드 3 회복."
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "모든 적 캐릭터 공격력 -2."
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "도발\n 껍데기"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "당신의 턴 시작 시 이 생물이 완전히 회복."
+        },
+        {
+            "key": "card.minask.text",
+            "value": "재생"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 2장 뽑기."
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 2장 뽑기."
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "주문 피해 +2.\n <b>공격:</b> 공격된 카드 화상."
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "각 턴 시작 시 +2 공격 획득."
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>놓기:</b> 공격 3 이하 적 대상 캐릭터 정신 지배, 이 생물이 판 떠날 때까지"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>공격</b>: 대상 몬스터 저주"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "과잉 피해 이 생물 HP 차액만큼 치유"
+        },
+        {
+            "key": "card.muni.text",
+            "value": "놓을 때 상대 손 공개"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "당신의 턴 시작 시 이 생물이 완전히 회복."
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "플레이어 공격 시 2 마나 획득."
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "놓을 때 다른 생물에 다음 턴까지 +2 HP 부여."
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>놓기:</b> 상대 손 공개\n <b>행동:</b> 상대 손에서 3 마나 이하 무작위 카드 버리기. 2 마나. "
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>턴 끝:</b> 다른 캐릭터 있으면 은폐."
+        },
+        {
+            "key": "card.operant.text",
+            "value": "<b>놓기:</b> 1 피해 주기."
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "상대 턴 중 +3 공격.\n 도발"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "상대 턴 중 +3 공격.\n 도발"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "공격 시 D6 굴리기. 4+ 시 +3 공격."
+        },
+        {
+            "key": "card.owind.text",
+            "value": "주문 무효\n 도발 무시"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>놓기:</b> 공격 4 이하 캐릭터 파괴."
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>죽음:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "은폐\n <b>놓기:</b> 상대 무작위 카드 버리기\n 상대 버림 시 +1 공격 획득"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "당신의 턴 시작 시 이 생물이 완전히 회복."
+        },
+        {
+            "key": "card.petili.text",
+            "value": "놓을 때 다른 생물에 다음 턴까지 +2/2 부여."
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기."
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>시전 (3):</b> 2 피해 주기.\n <b>죽음:</b> 알 소환."
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "3 턴 후 Phyra로 변신."
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>시전 (2):</b> D6 굴리기, 4+ 시 대상 손으로 돌려보내기."
+        },
+        {
+            "key": "card.picko.text",
+            "value": "<b>놓기:</b> 1 피해 주기."
+        },
+        {
+            "key": "card.plator.text",
+            "value": "이 생물로 다른 캐릭터 죽일 때 카드 2장 뽑기."
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>놓기:</b> +2 HP 부여"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "대상 몬스터 분노 획득. 턴당 두 번 공격 가능."
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "대상 1 공격과 분노 획득."
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "대상이 달콤한 향기에 목욕해 +2 HP와 도발 획득."
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "대상 2 방어막 획득, 캐릭터 직접 피해 2 감소."
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "판 위 마나 비용 3 이하 캐릭터 1턴 정신 지배. 대상 돌진 획득. "
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "대상 2 방어막 획득, 캐릭터 직접 피해 2 감소."
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "대상 고통의 저주 획득, 공격 시 3 피해."
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "대상 껍데기와 완전 치유 획득."
+        },
+        {
+            "key": "card.prido.text",
+            "value": "분노\n 각 턴, +1 공격 획득."
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>놓기:</b> 양측 캐릭터 선택 후 상대에게 보내기.\n 각 턴 시작 시 모든 아군에게 2 피해. "
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>플레이:</b> 자신의 캐릭터 하나를 선택해 상대에게 보냅니다. 능력: 적 캐릭터가 +1/+2를 얻습니다"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>플레이:</b> 자신의 캐릭터 하나를 선택해 상대에게 보냅니다. 능력: 각 턴 시작에 카드 2장을 버립니다"
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>죽음:</b> 알 소환."
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>놓기:</b> 1 피해 주기."
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>놓기:</b> 2 피해 주기."
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>공격</b>: 대상 몬스터 저주"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>각 턴:</b> 공격 낮은 캐릭터 죽이기 (아군과 이 몬스터 포함)."
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "모든 바위 생물: \"1 피해 받아 +1 공격 획득\". 사용당 1 마나."
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "재생"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>공격:</b> 독."
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "재생"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "각 턴, +1 공격 획득.\n <b>비행</b> 도발 무시 가능"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "주문 피해 +1."
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>공격:</b> 독."
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "도발\n "
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>놓기:</b> 캐릭터 손으로 돌려보내기."
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "비행"
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "공격 시 D6 굴리기. 4+ 시 +6 공격."
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "도발 무시"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "도발 무시"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "치명타"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "손에 3 Pyro 소환."
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "판 위 모든 생물 파괴"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "모든 캐릭터 HP 1로 감소."
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "게임 중 모든 전기 몬스터 +2 공격 (적 포함). "
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "대상 파괴."
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "대상 캐릭터 침묵 후 대상 캐릭터 저주"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "대상 카드 \"아군 캐릭터 들어올 때 이 파괴\" 획득."
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "덱 다음 7장 보고 전기 카드 1장 손에 가져가기."
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "대상 카드 \"아군 캐릭터 들어올 때 이 파괴\" 획득."
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "3 피해 주기.\n 카드 1장 뽑기."
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "모든 캐릭터 HP 1로 감소."
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "모든 아군 식물 캐릭터 +2/2 획득"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "손에 3 Hammi 소환."
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "모든 카드 소유자 손으로 돌려보내기."
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "덱 다음 7장 보고 얼음 카드 1장 선택."
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "판 위 모든 동결 카드 파괴"
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "모든 캐릭터에게 2 피해"
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "손에 세 2/1 Lampi 소환."
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "모든 적 몬스터에게 2 피해"
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "대상 +4/4 획득하고 잠듦."
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "무작위 카드에 1 피해.\n X번 반복."
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "상대 손에서 3 무작위 카드 버리기."
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "적 캐릭터 3턴 제어, 또는 진화할 때까지"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "판 위 모든 생물 파괴"
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "게임 중 모든 위치 파괴. "
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "대상 껍데기 획득, 다음 타격 무시."
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "대상 3턴 마비."
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "모든 캐릭터 HP와 공격 1로 감소"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "대상 생물 \"공격 전 3 피해 받음\" 획득."
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "HP 낮은 캐릭터 파괴."
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "대상 생물 \"공격 전 3 피해 받음\" 획득."
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "1 피해 주기.\n 카드 1장 뽑기."
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "모든 카드 소유자 손으로 돌려보내기."
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "대상 카드 \"공격받을 때 상대 무작위 카드 1장 버림\" 획득."
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "게임 중 모든 카드 독 부여"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "덱 다음 7장 보고 물 카드 1장 선택."
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "적 대상 소유자 손으로 돌려보내기."
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "임의 대상 소유자 손으로 돌려보내기, 상대 손 무작위 카드 버림."
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>놓기:</b> 공격 2 이하 캐릭터 파괴."
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>공격:</b> 대상 독 부여. "
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>공격:</b> 대상 독 부여. "
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "적 캐릭터 공격 -1.\n 도발 무시 가능."
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "플레이어 공격 시 1 마나 획득."
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>턴 시작: </b>모든 아군 그림자 카드 +1 공격."
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "은폐\n 모든 고양이 +1 공격."
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "<b>진흙 돌진:</b> 얼음 위치 있으면 돌진 획득."
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "모든 아군 바위 캐릭터 +1 HP.\n 도발"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "<b>놓기:</b> 게임 중 다른 모든 카드에 1 피해."
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "모든 아군 그림자 카드 +2 공격."
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "모든 아군 식물 카드 +2 HP."
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "정신 몬스터 놓거나 상대 몬스터 제어 시 상대 무작위 카드 버림. "
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "모든 아군 바위 생물 +2 HP."
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "모든 아군 불 생물 +2 공격."
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "손의 물 카드 1 적게."
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>함정:</b> 대상 1턴 마비하고 3 피해"
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>함정:</b> 모두에게 2 피해."
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>함정:</b> 물고기로 변신."
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>함정:</b> 대상 1턴 동결하고 3 피해"
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>함정:</b> 다음 공격자 독과 3 피해."
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "다음 적 캐릭터 공격 시 1턴 정신 지배하고 도발 부여. "
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>함정:</b> 다음 공격자 마비."
+        },
+        {
+            "key": "card.trats.text",
+            "value": "주문 놓은 후 +2 공격 획득."
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "돌진\n 도발 무시 가능"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>죽음:</b> 카드 1장 뽑기.\n 도발 무시."
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "주문 무효\n 도발 무시"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>놓기</b>: 대상 카드 공격 3으로 설정"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "놓을 때 게임 중 모든 카드 독 부여."
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "모든 전기 몬스터 2 마나 적게 "
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "은폐\n 공격: 독"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "공격 불가. 당신 턴 시작 시 무작위 아군 잠들게 함."
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "모든 불 생물: \"1 피해 받아 +1 공격 획득\". 사용당 1 마나."
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>놓기</b>: 대상 카드 공격 1로 설정"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>놓기:</b> 모두에게 1 피해."
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>놓기:</b> 대상 카드 침묵."
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.waru.text",
+            "value": "상대 턴 중 +3 공격."
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "적 캐릭터 공격 -1.\n <b>행동:</b> 아군 +1 공격."
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>턴 끝:</b> 다른 캐릭터 있으면 은폐."
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>턴 끝:</b> 다른 캐릭터 있으면 은폐."
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>놓기:</b> 캐릭터 손으로 돌려보내기."
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>놓기:</b> 도발 또는 분노 획득"
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "플레이어 공격 시 1 마나 획득."
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>위치 할인</b>: 같은 원소 타입 위치 마나 1 할인. "
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "같은 원소 타입 게임 중 위치당 +2 HP. "
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "주문 무효"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "주문 무효"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "도발\n 껍데기"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "주문 무효"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>놓기:</b> 저주"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 2장 뽑기."
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "돌진 / 비행"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "각 턴 시작 시 카드 1장 뽑기."
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "다른 아군 파충류 +2 공격 획득."
+        }
+    ]
+}

@@ -1,0 +1,1156 @@
+{
+    "entries": [
+        {
+            "key": "card.alfrost.text",
+            "value": "CORRIDA"
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "Fúria"
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "A cada turno, ganhe +1 armadura."
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>Ataque</b>: Amaldiçoar o monstro alvo"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "Quando você matar outro personagem com esta criatura, compre 2 cartas."
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>Evasão de Armadilha:</b> Não ativa armadilhas ao atacar.\n Ganhe +1 dano por cada armadilha inimiga em jogo."
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>Evasão de Armadilha:</b> Não ativa armadilhas ao atacar."
+        },
+        {
+            "key": "card.bay.text",
+            "value": "Quando uma criatura de Água que você possui morrer, compre uma carta."
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>Morte:</b> Compre uma carta."
+        },
+        {
+            "key": "card.bora.text",
+            "value": "Furtividade"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "Após atacar o jogador, ganhe 2 manas.\n "
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>Jogar:</b> O personagem ganha queima e recebe 2 danos por turno."
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>Jogar:</b> Descarte uma carta aleatória da mão do jogador e compre duas novas cartas."
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "Furtividade"
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "<b>Lançar:</b> Concede +2 armadura a todos os aliados em jogo. Custa 5 manas e usa ação."
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "No início de cada turno, compre 1 carta"
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "Pressa"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "Alcance: Monstros voadores devem atacar este monstro. "
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "Dano de feitiço +1."
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>Jogar</b>: Invoca um bebê Jagur.\n Todos os Gatos +1 ataque."
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>Matar:</b> Compre duas cartas."
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "Provocação\n Casca"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "Ganhe 1 mana."
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "Personagens inimigos têm -1 ataque.\n Pode ignorar provocação."
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "Voador / Evolui para Cryonix\n <b>Jogar:</b> Congela um personagem inimigo"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "Furtividade"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>Jogar:</b> Maldição."
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>Jogar</b>: Amaldiçoa todos os personagens em jogo."
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "Imunidade a Feitiços\n Casca"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>Jogar:</b> Selecione um personagem alvo de qualquer lado e envie-o para o outro jogador.\n Ação: Repita por 3 manas."
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>Jogar:</b> Troque este monstro por um monstro inimigo que custa 4 manas. "
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "Provocação"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "Imunidade a Feitiços"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>Jogar:</b> Envenena um monstro alvo"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>Jogar:</b> Dá +2/2"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>Ataque:</b>Rolar um D6, em 4+ ganhe +3 ataque até o final do turno."
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "Provocação"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "Esmagamento\n Ignorar Provocação"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "Fúria"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "Descubra um Dragão."
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "Provocação"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>Jogar</b>: Silencia um personagem alvo, então amaldiçoa um personagem alvo"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>Jogar</b>: Amaldiçoa todos os personagens em jogo"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>Ataque</b>: Amaldiçoa o monstro alvo"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "Todos os monstros Elétricos custam 2 manas a menos (incluindo inimigos)"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>Jogar:</b> O oponente descarta uma carta aleatória"
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>Jogar:</b> Destrói um personagem com 3 ou menos ataque."
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "No início de cada turno, revela a mão do oponente. Dura até 3 turnos. "
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "O portador ganha 2 armaduras e provocação."
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "Ataque +1.\n O portador não recebe dano ao atacar."
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "Ataque +2\n Dura dois ataques"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "Ganhe 2 manas extras por turno durante 4 turnos."
+        },
+        {
+            "key": "card.espe.text",
+            "value": "Controle mental sobre um personagem inimigo alvo com custo de mana de 5+ até que este personagem saia do campo"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>Jogar:</b> Dá +2/2.\n Cura o jogador ao infligir dano."
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>Jogar:</b> Dano a todos em 2."
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>Jogar:</b> Controle mental sobre um personagem inimigo com custo de mana de 5 ou menos"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>Ataque:</b> Queima o inimigo. Perdem 2 PV por turno."
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>Jogar:</b> Controle mental sobre um personagem alvo que custa 2 manas ou menos"
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>Jogar:</b> Controle mental sobre um personagem alvo que custa 3 manas ou menos"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>Jogar:</b> Selecione um personagem alvo com custo de mana de 2 ou menos de qualquer lado e envie-o para o outro jogador."
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "Quando o oponente descartar uma carta de personagem, esta criatura se torna uma cópia do personagem descartado."
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "Quando o oponente descartar um feitiço, crie uma cópia de custo zero mana em sua mão.\n "
+        },
+        {
+            "key": "card.froster.text",
+            "value": "Ao atacar, role um D6. Em 4+ ganhe +6 ataque."
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "Imunidade a Feitiços\n Imunidade a Habilidades\n Ignorar Provocação"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "No início de cada turno, compre 1 carta"
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "Após jogar um feitiço, ganhe +2 ataque.\n <b>Voador</b> Pode ignorar provocação"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "Após jogar um feitiço, ganhe +2 ataque."
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>Ataque:</b> Maldição"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "A cada turno, ganhe +1 armadura."
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "Sempre que outro personagem morrer, compre 1 carta."
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "Pressa"
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>Ataque:</b> Veneno.\n <b>Voador:</b> Pode ignorar provocação."
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "Após jogar um feitiço, ganhe +2 ataque."
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "No início de cada turno, ganhe +1 ataque."
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "No início de cada turno, compre 1 carta"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>Jogar:</b> Dano a todos em 2."
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>Jogar:</b> Cura um personagem de todos os efeitos negativos e concede +2 PV"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>Lançar (2):</b> Cura o jogador em 3 PV. "
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>Jogar:</b> Dá +2/2.\n <b>Ação:</b> Carga."
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>Jogar:</b> Silencia a carta alvo."
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>Provocação</b>\n <b>A cada turno:</b> Mata personagens com o ataque mais baixo.\n "
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>Jogar:</b> Adiciona Maldição do Sofrimento ao alvo"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "Fúria\n A cada turno, ganhe +1 armadura."
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "Sempre que outro personagem morrer, compre 1 carta.\n Imunidade à Perda de Ataque"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "<b>Morte:</b> Compre uma carta."
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "<b>Turno:</b> Compre uma carta."
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "Sempre que outro personagem morrer, compre 1 carta."
+        },
+        {
+            "key": "card.hato.text",
+            "value": "Toque Mortal"
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "A cada turno, ganhe +1 ataque."
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>Jogar:</b> O ataque do personagem alvo é reduzido para 1."
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "Uma antiga Fada Fracctal Elétrica que concede uma ação extra a um monstro elétrico"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "Uma antiga Fada Fracctal de Fogo que pode infligir 1 dano a qualquer carta ou jogador."
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "Uma antiga Fada Fracctal de Gelo que pode congelar qualquer carta por 1 turno."
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "Uma antiga Fada Fracctal de Planta que cura personagens e jogadores em 2 PV"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "Uma antiga Fada Fracctal Psíquica que pode forçar seu oponente a descartar uma carta de sua mão"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "Uma antiga Fada Fracctal de Rocha que concede +1 Armadura a qualquer carta no campo. "
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "Uma antiga Fada Fracctal de Sombra que pode amaldiçoar qualquer carta em jogo. "
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "Uma antiga Fada Fracctal de Água que permite ao jogador comprar uma carta extra. "
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>Ataque:</b> Queima o inimigo. Perdem 2 PV por turno."
+        },
+        {
+            "key": "card.hito.text",
+            "value": "Tem +3 ataque durante o turno do oponente."
+        },
+        {
+            "key": "card.ice_town.text",
+            "value": "Todas as criaturas de Gelo aliadas têm +1 ataque e +1 PV."
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "Fúria"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>Morte:</b> Inflige 2 danos ao jogador inimigo."
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>Ataque</b>: Amaldiçoa o monstro alvo"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "Ignorar Provocação"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>Jogar:</b> Ganhe Provocação ou Fúria"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>Matar:</b> Compre duas cartas.\n <b>Morte:</b> Compre uma carta."
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "Tem +3 ataque durante o turno do oponente."
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "Casca\n Provocação"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>Ataque:</b> Veneno."
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "Corrida / Voador"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "Toque Mortal"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>Jogar</b>: Invoca um Lizo\n Todos os Répteis +1 ataque."
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>Jogar</b>: Invoca um Lizo\n Todos os Répteis +2 ataque."
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "Provocação"
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>Jogar:</b> O ataque do personagem alvo é reduzido para 1."
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>Jogar:</b> Dá +2/2.\n <b>Voador:</b> Pode ignorar provocação."
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>Jogar:</b> O ataque do personagem alvo é reduzido para 1."
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>Jogar:</b> Dá +2/2\n <b>Jogar:</b> Cura o jogador em 4 PV\n <b>Voador:</b> Pode ignorar provocação"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>Início do turno: </b>Todas as cartas de Planta se curam em 3."
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "Todos os personagens inimigos têm -2 ataque."
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "Provocação\n Casca"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "No início do seu turno, esta criatura se cura completamente."
+        },
+        {
+            "key": "card.minask.text",
+            "value": "Regeneração"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "Sempre que outro personagem morrer, compre 2 cartas."
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "Sempre que outro personagem morrer, compre 2 cartas."
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "Dano de feitiço +2.\n <b>Ataque:</b> Queima a carta atacada."
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "No início de cada turno, ganhe +2 ataque."
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "CORRIDA"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>Jogar:</b> Controle mental sobre um personagem inimigo alvo com ataque de 3 ou menos até que esta criatura saia do campo"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>Ataque</b>: Amaldiçoa o monstro alvo"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "Esmagamento"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "O dano excessivo cura os PV desta criatura pela diferença"
+        },
+        {
+            "key": "card.muni.text",
+            "value": "Ao jogar, revela a mão do oponente"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "No início do seu turno, esta criatura se cura completamente."
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "Fúria"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "Ao atacar um jogador, ganhe 2 manas."
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "Ao jogar, dá +2 PV para outra criatura até o seu próximo turno."
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "Fúria"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>Jogar:</b> Revela a mão do oponente\n <b>Ação:</b> Descarte uma carta aleatória da mão do oponente com custo de 3 ou menos manas. Custa 2 manas. "
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>Fim do Turno:</b> Entra em furtividade se você tiver outros personagens."
+        },
+        {
+            "key": "card.operant.text",
+            "value": "<b>Jogar:</b> Inflige 1 dano."
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "Tem +3 ataque durante o turno do oponente.\n Provocação"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "Tem +3 ataque durante o turno do oponente.\n Provocação"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "Ao atacar, role um D6. Em 4+ ganhe +3 ataque."
+        },
+        {
+            "key": "card.owind.text",
+            "value": "Imunidade a Feitiços\n Ignorar Provocação"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>Jogar:</b> Destrói um personagem com 4 ou menos ataque."
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>Morte:</b> Compre uma carta."
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "Furtividade\n <b>Jogar:</b> O oponente descarta uma carta aleatória\n Ganhe +1 Ataque ao descartar do oponente"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "No início do seu turno, esta criatura se cura completamente."
+        },
+        {
+            "key": "card.petili.text",
+            "value": "Ao jogar, dá +2/2 para outra criatura até o seu próximo turno."
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "Sempre que outro personagem morrer, compre 1 carta."
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>Lançar (3):</b> Inflige 2 danos.\n <b>Morte:</b> Invoca um ovo."
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "Após 3 turnos, transforma-se em uma Phyra."
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>Lançar (2):</b> Role um D6, em 4+ devolva o alvo para a mão."
+        },
+        {
+            "key": "card.picko.text",
+            "value": "<b>Jogar:</b> Inflige 1 dano."
+        },
+        {
+            "key": "card.plator.text",
+            "value": "Quando você matar outro personagem com esta criatura, compre 2 cartas."
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>Jogar:</b> Dá +2 PV"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "O monstro alvo ganha Fúria. Pode atacar duas vezes por turno."
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "O alvo ganha 1 ataque e fúria."
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "O alvo se banha em um aroma doce, ganhando +2 PV e Provocação."
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "O alvo ganha 2 armaduras reduzindo o dano direto de personagens em 2."
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "Alvo em um personagem no campo com custo de mana de 3 ou menos para Controle Mental por 1 turno. O alvo ganha Corrida. "
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "O alvo ganha 2 armaduras reduzindo o dano direto de personagens em 2."
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "O alvo ganha Maldição do Sofrimento que causa 3 danos cada vez que ataca."
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "O alvo ganha casca e se cura completamente."
+        },
+        {
+            "key": "card.prido.text",
+            "value": "Fúria\n A cada turno, ganhe +1 ataque."
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>Jogar:</b> Selecione um personagem de qualquer lado e envie-o para o outro jogador.\n No início de cada turno inflige 2 danos a todos os aliados. "
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>Jogar:</b> Selecione um personagem sob seu controle e envie-o para o outro jogador com a habilidade: personagens inimigos recebem +1/+2"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>Jogar:</b> Selecione um personagem sob seu controle e envie-o para o outro jogador com a habilidade: no início de cada turno descarte 2 cartas"
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>Morte:</b> Invoca um ovo."
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>Jogar:</b> Inflige 1 dano."
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>Jogar:</b> Inflige 2 danos."
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>Ataque</b>: Amaldiçoa o monstro alvo"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>A cada turno:</b> Mata personagens com o ataque mais baixo (incluindo aliados e este monstro)."
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "Todas as criaturas de Rocha ganham: \"Recebe 1 dano para ganhar +1 ataque\". Custo de 1 mana por uso."
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "Regeneração"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>Ataque:</b> Veneno."
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "Regeneração"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "A cada turno, ganhe +1 armadura."
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "A cada turno, ganhe +1 ataque.\n <b>Voador</b> Pode ignorar provocação"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "Dano de feitiço +1."
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>Ataque:</b> Veneno."
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "Provocação\n "
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>Jogar:</b> Devolve um personagem para sua mão."
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "Voador"
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "Ao atacar, role um D6. Em 4+ ganhe +6 ataque."
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "Ignorar Provocação"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "Ignorar Provocação"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "Toque Mortal"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "Invoca 3 Pyro em sua mão."
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "Destrói todas as criaturas no campo"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "Reduz os PV de todos os personagens para 1."
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "Todos os monstros Elétricos em jogo ganham +2 Ataque (incluindo inimigos). "
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "Destrói o alvo."
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "Silencia um personagem alvo, então amaldiçoa um personagem alvo"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "A carta alvo ganha \"Quando um personagem aliado entrar em jogo, destrua isso\"."
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "Veja as próximas 7 cartas do seu baralho e pegue 1 carta Elétrica em sua mão."
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "A carta alvo ganha \"Quando um personagem aliado entrar em jogo, destrua isso\"."
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "Inflige 3 danos.\n Compre uma carta."
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "Reduz os PV de todos os personagens para 1."
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "Todos os personagens de Planta aliados ganham +2/2"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "Invoca 3 Hammi em sua mão."
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "Todas as cartas retornam à mão de seu proprietário."
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "Veja as próximas 7 cartas do seu baralho e escolha 1 carta de Gelo."
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "Destrói todas as cartas congeladas no campo"
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "Inflige 2 danos a todos os personagens"
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "Invoca três Lampi 2/1 em sua mão."
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "Inflige 2 danos a todos os monstros inimigos."
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "O alvo ganha +4/4 e adormece."
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "Inflige 1 dano a uma carta aleatória.\n Repita X vezes."
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "O oponente descarta 3 cartas aleatórias de sua mão."
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "Tome o controle de um personagem inimigo por 3 turnos, ou até que evolua"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "Destrói todas as criaturas no campo"
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "Destrói todos os locais em jogo. "
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "O alvo ganha casca, ignora o próximo golpe."
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "Paralisa o alvo por 3 turnos."
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "Reduz todos os PV e Ataques de personagens para 1"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "A criatura alvo ganha \"Sofre 3 danos antes de atacar\"."
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "Destrói o personagem com os PV mais baixos."
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "A criatura alvo ganha \"Sofre 3 danos antes de atacar\"."
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "Inflige 1 dano.\n Compre uma carta."
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "Todas as cartas retornam à mão de seu proprietário."
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "A carta alvo ganha \"Quando atacada, o oponente deve descartar 1 carta aleatória\"."
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "Envenena todas as cartas em jogo"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "Veja as próximas 7 cartas do seu baralho e escolha 1 carta de Água."
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "Devolve o alvo inimigo para a mão do proprietário."
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "Devolve qualquer alvo para a mão do proprietário, então o oponente descarta uma carta aleatória de sua mão."
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>Jogar:</b> Destrói um personagem com 2 ou menos ataque."
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>Ataque:</b> Envenena o alvo. "
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>Ataque:</b> Envenena o alvo. "
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "Personagens inimigos têm -1 ataque.\n Pode ignorar provocação."
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "Ao atacar um jogador, ganhe 1 mana."
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>Início do turno: </b>Todas as cartas de Sombra aliadas ganham +1 ataque."
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "Furtividade\n Todos os Gatos +1 ataque."
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "<b>Corrida de Lama:</b> Ganhe Corrida se houver um local de Gelo em jogo."
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "Todos os personagens de Rocha aliados têm +1 PV.\n Provocação"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "CORRIDA"
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "Fúria"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "<b>Jogar:</b> Inflige 1 dano a todas as outras cartas em jogo."
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "Todas as cartas de Sombra aliadas têm +2 Ataque."
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "Todas as cartas de Planta aliadas têm +2 PV."
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "Quando você jogar um monstro psíquico ou tomar controle de um monstro do oponente, o oponente descarta uma carta aleatória. "
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "Todas as criaturas de Rocha aliadas têm +2 PV."
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "Todas as criaturas de Fogo aliadas têm +2 ataque."
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "As cartas de Água em sua mão custam 1 a menos."
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>Armadilha:</b> Paralisa o alvo por 1 turno e inflige 3 danos"
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>Armadilha:</b> Dano a todos em 2."
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>Armadilha:</b> Transforma-se em peixe."
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>Armadilha:</b> Congela o alvo por 1 turno e inflige 3 danos"
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>Armadilha:</b> Envenena e inflige 3 danos ao próximo atacante."
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "Quando o próximo personagem inimigo atacar, tome Controle Mental dele por 1 turno e dê provocação. "
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>Armadilha:</b> Paralisa o próximo atacante."
+        },
+        {
+            "key": "card.trats.text",
+            "value": "Após jogar um feitiço, ganhe +2 ataque."
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "Pressa\n Pode Ignorar Provocação"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "Provocação"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>Morte:</b> Compre uma carta.\n Ignora Provocação."
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "Imunidade a Feitiços\n Ignorar Provocação"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>Jogar</b>: Define o ataque da carta alvo em 3"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "Provocação"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "Ao jogar, envenena todas as cartas em jogo."
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "Todos os monstros Elétricos custam 2 manas a menos "
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "Furtividade\n Ataque: Veneno"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "Não pode atacar. No início do seu turno, coloca um aliado aleatório para dormir."
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "Todas as criaturas de Fogo ganham: \"Recebe 1 dano para ganhar +1 ataque\". Custo de 1 mana por uso."
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>Jogar</b>: Define o ataque da carta alvo em 1"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>Jogar:</b> Dano a todos em 1."
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>Jogar:</b> Silencia uma carta alvo."
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "A cada turno, ganhe +1 armadura."
+        },
+        {
+            "key": "card.waru.text",
+            "value": "Tem +3 ataque durante o turno do oponente."
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "Personagens inimigos têm -1 ataque.\n <b>Ação:</b> +1 ataque aos aliados."
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>Fim do Turno:</b> Entra em furtividade se você tiver outros personagens."
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>Fim do Turno:</b> Entra em furtividade se você tiver outros personagens."
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>Jogar:</b> Devolve um personagem para sua mão."
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>Jogar:</b> Ganhe Provocação ou Fúria"
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "Ao atacar um jogador, ganhe 1 mana."
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>Desconto de Localização</b>: Qualquer localização do mesmo tipo elemental tem desconto de mana de 1. "
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "Por cada carta de localização em jogo do mesmo tipo elemental ganhe +2 PV. "
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "Imunidade a Feitiços"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "Imunidade a Feitiços"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "Provocação\n Casca"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "Imunidade a Feitiços"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>Jogar:</b> Maldição"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "Sempre que outro personagem morrer, compre 2 cartas."
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>Jogar:</b> O ataque do personagem alvo é reduzido para 1."
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "Pressa / Voador"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "No início de cada turno, compre 1 carta."
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "Todos os outros répteis aliados ganham +2 ataque."
+        }
+    ]
+}
