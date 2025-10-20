@@ -1,0 +1,3524 @@
+{
+    "entries": [
+        {
+            "key": "--_guild_points",
+            "value": "-- Gildenpunkte"
+        },
+        {
+            "key": "0",
+            "value": "0"
+        },
+        {
+            "key": "1",
+            "value": "1"
+        },
+        {
+            "key": "1.",
+            "value": "1."
+        },
+        {
+            "key": "1._scan_the_qr_code_shown_above_2._choose_your_desired_wallet_account_in_pera_3._enter_0_for_the_algo_amount_to_send_4._sign_the_txn_in_the_pera_mobile_app_5._click_the_confirm_button_to_the_right",
+            "value": "1. SCANNEN SIE DEN OBEN ANGEZEIGTEN QR-CODE\n 2. WÄHLEN SIE IHRE GEWÜNSCHTE WALLET-KONTO IN PERA\n 3. GEBEN SIE 0 FÜR DEN ZU SENDENDEN ALGO-BETRAG EIN\n 4. UNTERZEICHNEN SIE DIE TXN IN DER PERA-MOBILAPP\n 5. Klicken Sie auf die Bestätigen-Schaltfläche rechts"
+        },
+        {
+            "key": "100",
+            "value": "100"
+        },
+        {
+            "key": "100_essence",
+            "value": "100 ESSENZ"
+        },
+        {
+            "key": "1000",
+            "value": "1000"
+        },
+        {
+            "key": "1000_xp",
+            "value": "1000 XP"
+        },
+        {
+            "key": "2",
+            "value": "2"
+        },
+        {
+            "key": "2_rare_packs",
+            "value": "2 seltene Packs"
+        },
+        {
+            "key": "2_standard_packs",
+            "value": "2 Standard-Packs"
+        },
+        {
+            "key": "20",
+            "value": "20"
+        },
+        {
+            "key": "25_xp",
+            "value": "25 XP"
+        },
+        {
+            "key": "250",
+            "value": "250"
+        },
+        {
+            "key": "3",
+            "value": "3"
+        },
+        {
+            "key": "30_essence",
+            "value": "30 ESSENZ"
+        },
+        {
+            "key": "30_xp",
+            "value": "30 XP"
+        },
+        {
+            "key": "300",
+            "value": "300"
+        },
+        {
+            "key": "3000",
+            "value": "3000"
+        },
+        {
+            "key": "333",
+            "value": "333"
+        },
+        {
+            "key": "333_xp",
+            "value": "333 XP"
+        },
+        {
+            "key": "3333",
+            "value": "3333"
+        },
+        {
+            "key": "5",
+            "value": "5"
+        },
+        {
+            "key": "50_essence",
+            "value": "50 ESSENZ"
+        },
+        {
+            "key": "50_xp",
+            "value": "50 XP"
+        },
+        {
+            "key": "500",
+            "value": "500"
+        },
+        {
+            "key": "500_essence",
+            "value": "500 ESSENZ"
+        },
+        {
+            "key": "533",
+            "value": "533"
+        },
+        {
+            "key": "55_guild_pts_70_coins_each_150_xp_each",
+            "value": "55 Gilden-Pts\n 70 Münzen je\n 150 XP je"
+        },
+        {
+            "key": "60",
+            "value": "60"
+        },
+        {
+            "key": "75_xp",
+            "value": "75 XP"
+        },
+        {
+            "key": "9",
+            "value": "9"
+        },
+        {
+            "key": "99",
+            "value": "99"
+        },
+        {
+            "key": "aaaaa",
+            "value": "AAAAA"
+        },
+        {
+            "key": "ability_1",
+            "value": "Fähigkeit 1"
+        },
+        {
+            "key": "accept",
+            "value": "AKZEPTIEREN"
+        },
+        {
+            "key": "account",
+            "value": "Konto"
+        },
+        {
+            "key": "account_address",
+            "value": "Kontenadresse"
+        },
+        {
+            "key": "account_link",
+            "value": "KONTENLINK"
+        },
+        {
+            "key": "account_recovery",
+            "value": "KONTENERHOLUNG"
+        },
+        {
+            "key": "add",
+            "value": "HINZUFÜGEN"
+        },
+        {
+            "key": "admin_team",
+            "value": "Admin-Team"
+        },
+        {
+            "key": "adventure",
+            "value": "ABENTEUER"
+        },
+        {
+            "key": "adventures",
+            "value": "ABENTEUER"
+        },
+        {
+            "key": "antonio_f.",
+            "value": "Antonio F."
+        },
+        {
+            "key": "asset_earnings",
+            "value": "ASSET-EINNAMEN"
+        },
+        {
+            "key": "asset_forger",
+            "value": "ASSET-FÄLSCHER"
+        },
+        {
+            "key": "asstes_total",
+            "value": "ASSETS GESAMT"
+        },
+        {
+            "key": "audio",
+            "value": "Audio"
+        },
+        {
+            "key": "avatars",
+            "value": "AVATARE"
+        },
+        {
+            "key": "backgrounds",
+            "value": "HINTERGRÜNDE"
+        },
+        {
+            "key": "batlepass",
+            "value": "KAMPFPASS"
+        },
+        {
+            "key": "battle_pass",
+            "value": "KAMPF\n PASS"
+        },
+        {
+            "key": "battlepass_rewards",
+            "value": "Kampfpass-Belohnungen"
+        },
+        {
+            "key": "block",
+            "value": "BLOCKIEREN"
+        },
+        {
+            "key": "body",
+            "value": "KÖRPER"
+        },
+        {
+            "key": "bronze_iii",
+            "value": "BRONZE iii"
+        },
+        {
+            "key": "brows",
+            "value": "AUGENBRÄUEN"
+        },
+        {
+            "key": "build_deck",
+            "value": "DECK BAUEN"
+        },
+        {
+            "key": "built_with",
+            "value": "GEBAUT MIT"
+        },
+        {
+            "key": "buy",
+            "value": "KAUFEN"
+        },
+        {
+            "key": "buy_cards",
+            "value": "KARTEN KAUFEN"
+        },
+        {
+            "key": "buy_pack",
+            "value": "PACK KAUFEN"
+        },
+        {
+            "key": "cancel",
+            "value": "ABBRECHEN"
+        },
+        {
+            "key": "cancelled",
+            "value": "ABGEBROCHEN"
+        },
+        {
+            "key": "card",
+            "value": "KARTE"
+        },
+        {
+            "key": "card.alfrost.text",
+            "value": "ANSTURM"
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "Wut"
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "Jeden Zug +1 Rüstung gewinnen."
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>Angriff</b>: Fluch auf das Zielmonster"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "Wenn Sie einen anderen Charakter mit dieser Kreatur töten, ziehen Sie 2 Karten."
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>Fallen-Ausweichen:</b> Aktiviert keine Fallen beim Angreifen.\n +1 Schaden pro Feindefalle im Spiel gewinnen."
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>Fallen-Ausweichen:</b> Aktiviert keine Fallen beim Angreifen."
+        },
+        {
+            "key": "card.bay.text",
+            "value": "Wenn eine Wasser-Kreatur, die Sie besitzen, stirbt, ziehen Sie eine Karte."
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>Tod:</b> Ziehen Sie eine Karte."
+        },
+        {
+            "key": "card.bora.text",
+            "value": "Tarnung"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "Nach dem Angriff auf den Spieler 2 Mana gewinnen.\n "
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>Spielen:</b> Charakter erhält Brand und nimmt 2 Schaden pro Zug."
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>Spielen:</b> Eine zufällige Karte aus der Hand des Spielers verwerfen und zwei neue Karten ziehen."
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "Tarnung"
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "<b>Wirken:</b> +2 Rüstung an alle Verbündeten im Spiel verleihen. Kostet 5 Mana und verwendet Aktion."
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "Zu Beginn jedes Zuges eine Karte ziehen"
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "Eile"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "Reichweite: Fliegende Monster müssen dieses Monster angreifen. "
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "Zauberschaden +1."
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>Spielen</b>: Ein Baby-Jagur beschwören.\n Alle Katzen +1 Angriff."
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>Töten:</b> Zwei Karten ziehen."
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "Spott\n Schale"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "1 Mana gewinnen."
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "Feindliche Charaktere haben -1 Angriff.\n Kann Spott ignorieren."
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "Fliegen / Entwickelt sich zu Cryonix\n <b>Spielen:</b> Einen feindlichen Charakter einfrieren"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "Tarnung"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>Spielen:</b> Fluch."
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>Spielen</b>: Alle Charaktere im Spiel verfluchen."
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "Zauberimmunität\n Schale"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>Spielen:</b> Wählen Sie ein Zielcharakter von jeder Seite und senden Sie sie an den anderen Spieler.\n Aktion: Wiederholen für 3 Mana."
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>Spielen:</b> Tauschen Sie dieses Monster mit einem feindlichen Monster mit Kosten von 4 Mana aus. "
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "Spott"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "Zauberimmunität"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>Spielen:</b> Ein Zielmonster vergiften"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>Spielen:</b> +2/2 geben"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>Angriff:</b> Würfeln Sie einen D6, bei 4+ gewinnen Sie +3 Angriff bis zum Zugende."
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "Spott"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "Stampfen\n Spott ignorieren"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "Wut"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "Einen Drachen entdecken."
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "Spott"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>Spielen</b>: Ein Zielcharakter zum Schweigen bringen, dann ein Zielcharakter verfluchen"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>Spielen</b>: Alle Charaktere im Spiel verfluchen"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>Angriff</b>: Das Zielmonster verfluchen"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "Alle Elektro-Monster kosten 2 Mana weniger (einschließlich Feinde)"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>Spielen:</b> Gegner wirft eine zufällige Karte weg"
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>Spielen:</b> Einen Charakter mit 3 oder weniger Angriff zerstören."
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "Zu Beginn jedes Zuges die Hand des Gegners enthüllen. Hält bis zu 3 Züge. "
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "Träger gewinnt 2 Rüstung und Spott."
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "Angriff +1.\n Träger erhält keinen Schaden beim Angreifen."
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "Angriff +2\n Hält zwei Angriffe"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "2 extra Mana pro Zug für 4 Züge gewinnen."
+        },
+        {
+            "key": "card.espe.text",
+            "value": "Gedankenkontrolle über ein feindliches Zielcharakter mit Mana-Kosten von 5+ bis dieser Charakter das Brett verlässt"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>Spielen:</b> +2/2 geben.\n Spieler heilen, wenn Schaden zugefügt wird."
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>Spielen:</b> Alle um 2 Schaden."
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Charakter mit Mana-Kosten von 5 oder weniger"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>Angriff:</b> Den Feind verbrennen. Sie verlieren 2 LP pro Zug."
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielcharakter mit Kosten von 2 Mana oder weniger"
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielcharakter mit Kosten von 3 Mana oder weniger"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>Spielen:</b> Wählen Sie ein Zielcharakter mit Mana-Kosten von 2 oder weniger von jeder Seite und senden Sie sie an den anderen Spieler."
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "Wenn der Gegner eine Charakterkarte verwirft, wird dieser Charakter eine Kopie des verworfenen Charakters."
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "Wenn der Gegner einen Zauber verwirft, erstellen Sie eine Kopie mit 0 Mana-Kosten in Ihrer Hand.\n "
+        },
+        {
+            "key": "card.froster.text",
+            "value": "Beim Angreifen D6 würfeln. Bei 4+ +6 Angriff gewinnen."
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "Zauberimmunität\n Fähigkeitsimmunität\n Spott ignorieren"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "Zu Beginn jedes Zuges eine Karte ziehen"
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "Nach dem Spielen eines Zaubers +2 Angriff gewinnen.\n <b>Fliegen</b> Kann Spott ignorieren"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "Nach dem Spielen eines Zaubers +2 Angriff gewinnen."
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>Angriff:</b> Fluch"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "Jeden Zug +1 Rüstung gewinnen."
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen."
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "Eile"
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>Angriff:</b> Gift.\n <b>Fliegen:</b> Kann Spott ignorieren."
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "Nach dem Spielen eines Zaubers +2 Angriff gewinnen."
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "Zu Beginn jedes Zuges +1 Angriff gewinnen."
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "Zu Beginn jedes Zuges eine Karte ziehen"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>Spielen:</b> Alle um 2 Schaden."
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>Spielen:</b> Einen Charakter von allen negativen Status-Effekten heilen und +2 LP gewähren"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>Wirken (2):</b> Spieler um 3 LP heilen. "
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>Spielen:</b> +2/2 geben.\n <b>Aktion:</b> Aufladen."
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>Spielen:</b> Zielkarte zum Schweigen bringen."
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>Spott</b>\n <b>Jeden Zug:</b> Charaktere mit dem niedrigsten Angriff töten.\n "
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>Spielen:</b> Fluch des Leidens zum Ziel hinzufügen"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "Wut\n Jeden Zug +1 Rüstung gewinnen."
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen.\n Angriffsverlust-Immunität"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "<b>Tod:</b> Eine Karte ziehen."
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "<b>Zug:</b> Eine Karte ziehen."
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen."
+        },
+        {
+            "key": "card.hato.text",
+            "value": "Todesberührung"
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "Jeden Zug +1 Angriff gewinnen."
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "Eine alte Elektro-Fracctal-Feenkönigin, die einem Elektro-Monster eine extra Aktion gewährt"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "Eine alte Feuer-Fracctal-Feenkönigin, die 1 Schaden an jede Karte oder Spieler zufügen kann."
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "Eine alte Eis-Fracctal-Feenkönigin, die jede Karte für 1 Zug einfrieren kann."
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "Eine alte Pflanzen-Fracctal-Feenkönigin, die Charaktere und Spieler um 2 LP heilt"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "Eine alte Psychische Fracctal-Feenkönigin, die Ihren Gegner zwingt, eine Karte aus seiner Hand zu verwerfen"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "Eine alte Fels-Fracctal-Feenkönigin, die +1 Rüstung an jede Karte auf dem Brett gewährt. "
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "Eine alte Schatten-Fracctal-Feenkönigin, die jede Karte im Spiel verfluchen kann. "
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "Eine alte Wasser-Fracctal-Feenkönigin, die dem Spieler erlaubt, eine extra Karte zu ziehen. "
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>Angriff:</b> Den Feind verbrennen. Sie verlieren 2 LP pro Zug."
+        },
+        {
+            "key": "card.hito.text",
+            "value": "Hat +3 Angriff während des Zuges des Gegners."
+        },
+        {
+            "key": "card.ice_town.text",
+            "value": "Alle verbündeten Eis-Kreaturen haben +1 Angriff und +1 LP."
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "Wut"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>Tod:</b> 2 Schaden dem feindlichen Spieler zufügen."
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>Angriff</b>: Das Zielmonster verfluchen"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "Spott ignorieren"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>Spielen:</b> Spott oder Wut gewinnen"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>Töten:</b> Zwei Karten ziehen.\n <b>Tod:</b> Eine Karte ziehen."
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "Hat +3 Angriff während des Zuges des Gegners."
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "Schale\n Spott"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>Angriff:</b> Gift."
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "Ansturm / Fliegen"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "Todesberührung"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>Spielen</b>: Ein Lizo beschwören\n Alle Reptilien +1 Angriff."
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>Spielen</b>: Ein Lizo beschwören\n Alle Reptilien +2 Angriff."
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "Spott"
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>Spielen:</b> +2/2 geben.\n <b>Fliegen:</b> Kann Spott ignorieren."
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>Spielen:</b> +2/2 geben\n <b>Spielen:</b> Spieler um 4 LP heilen\n <b>Fliegen:</b> Kann Spott ignorieren"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>Zugbeginn: </b>Alle Pflanzenkarten heilen um 3."
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "Alle feindlichen Charaktere haben -2 Angriff."
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "Spott\n Schale"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "Zu Beginn Ihres Zuges heilt diese Kreatur vollständig."
+        },
+        {
+            "key": "card.minask.text",
+            "value": "Regeneration"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "Immer wenn ein anderer Charakter stirbt, zwei Karten ziehen."
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "Immer wenn ein anderer Charakter stirbt, zwei Karten ziehen."
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "Zauberschaden +2.\n <b>Angriff:</b> Die angegriffene Karte verbrennen."
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "Zu Beginn jedes Zuges +2 Angriff gewinnen."
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "ANSTURM"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Zielcharakter mit Angriff von 3 oder weniger bis diese Kreatur das Brett verlässt"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>Angriff</b>: Das Zielmonster verfluchen"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "Stampfen"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "Der überschüssige Schaden heilt die LP dieser Kreatur um die Differenz"
+        },
+        {
+            "key": "card.muni.text",
+            "value": "Beim Spielen die Hand des Gegners enthüllen"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "Zu Beginn Ihres Zuges heilt diese Kreatur vollständig."
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "Wut"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "Beim Angriff auf einen Spieler 2 Mana gewinnen."
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "Beim Spielen +2 LP an eine andere Kreatur bis zu Ihrem nächsten Zug geben."
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "Wut"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>Spielen:</b> Die Hand des Gegners enthüllen\n <b>Aktion:</b> Eine zufällige Karte mit Kosten von 3 oder weniger Mana aus der Hand des Gegners verwerfen. Kostet 2 Mana. "
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>Zugende:</b> Tarnung erhalten, wenn Sie andere Charaktere haben."
+        },
+        {
+            "key": "card.operant.text",
+            "value": "<b>Spielen:</b> 1 Schaden zufügen."
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "Hat +3 Angriff während des Zuges des Gegners.\n Spott"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "Hat +3 Angriff während des Zuges des Gegners.\n Spott"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "Beim Angreifen D6 würfeln. Bei 4+ +3 Angriff gewinnen."
+        },
+        {
+            "key": "card.owind.text",
+            "value": "Zauberimmunität\n Spott ignorieren"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>Spielen:</b> Einen Charakter mit 4 oder weniger Angriff zerstören."
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>Tod:</b> Eine Karte ziehen."
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "Tarnung\n <b>Spielen:</b> Gegner wirft eine zufällige Karte weg\n +1 Angriff beim Verwerfen des Gegners gewinnen"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "Zu Beginn Ihres Zuges heilt diese Kreatur vollständig."
+        },
+        {
+            "key": "card.petili.text",
+            "value": "Beim Spielen +2/2 an eine andere Kreatur bis zu Ihrem nächsten Zug geben."
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen."
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>Wirken (3):</b> 2 Schaden zufügen.\n <b>Tod:</b> Ein Ei beschwören."
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "Nach 3 Zügen in eine Phyra verwandeln."
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>Wirken (2):</b> D6 würfeln, bei 4+ das Ziel in die Hand zurückgeben."
+        },
+        {
+            "key": "card.picko.text",
+            "value": "<b>Spielen:</b> 1 Schaden zufügen."
+        },
+        {
+            "key": "card.plator.text",
+            "value": "Wenn Sie einen anderen Charakter mit dieser Kreatur töten, zwei Karten ziehen."
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>Spielen:</b> +2 LP geben"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "Das Zielmonster gewinnt Wut. Kann pro Zug zweimal angreifen."
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "Das Ziel gewinnt 1 Angriff und Wut."
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "Das Ziel badet in einem süßen Duft und gewinnt +2 LP und Spott."
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "Das Ziel gewinnt 2 Rüstung und reduziert direkten Charakterschaden um 2."
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "Ziel auf ein Charakter auf dem Brett mit Mana-Kosten von 3 oder weniger für Gedankenkontrolle für 1 Zug. Das Ziel gewinnt Ansturm. "
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "Das Ziel gewinnt 2 Rüstung und reduziert direkten Charakterschaden um 2."
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "Das Ziel gewinnt Fluch des Leidens, der 3 Schaden verursacht, wenn es angreift."
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "Das Ziel gewinnt Schale und heilt vollständig."
+        },
+        {
+            "key": "card.prido.text",
+            "value": "Wut\n Jeden Zug +1 Angriff gewinnen."
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>Spielen:</b> Wählen Sie ein Charakter von jeder Seite und senden Sie sie an den anderen Spieler.\n Zu Beginn jedes Zuges 2 Schaden an alle Verbündeten zufügen. "
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>Tod:</b> Ein Ei beschwören."
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>Spielen:</b> 1 Schaden zufügen."
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>Spielen:</b> 2 Schaden zufügen."
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>Angriff</b>: Das Zielmonster verfluchen"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>Jeden Zug:</b> Charaktere mit dem niedrigsten Angriff töten (einschließlich Verbündeter und dieses Monsters)."
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "Alle Fels-Kreaturen gewinnen: \"1 Schaden erleiden, um +1 Angriff zu gewinnen\". Kosten 1 Mana pro Nutzung."
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "Regeneration"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>Angriff:</b> Gift."
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "Regeneration"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "Jeden Zug +1 Rüstung gewinnen."
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "Jeden Zug +1 Angriff gewinnen.\n <b>Fliegen</b> Kann Spott ignorieren"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "Zauberschaden +1."
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>Angriff:</b> Gift."
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "Spott\n "
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>Spielen:</b> Einen Charakter in Ihre Hand zurückgeben."
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "Fliegen"
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "Beim Angreifen D6 würfeln. Bei 4+ +6 Angriff gewinnen."
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "Spott ignorieren"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "Spott ignorieren"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "Todesberührung"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "3 Pyro in Ihrer Hand beschwören."
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "Alle Kreaturen auf dem Brett zerstören"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "Die LP aller Charaktere auf 1 reduzieren."
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "Alle Elektro-Monster im Spiel gewinnen +2 Angriff (einschließlich Feinde). "
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "Das Ziel zerstören."
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "Ein Zielcharakter zum Schweigen bringen, dann ein Zielcharakter verfluchen"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "Die Zielkarte gewinnt \"Wenn ein verbündeter Charakter ins Spiel kommt, dies zerstören\"."
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "Die nächsten 7 Karten Ihres Decks anschauen und 1 Elektro-Karte in Ihre Hand nehmen."
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "Die Zielkarte gewinnt \"Wenn ein verbündeter Charakter ins Spiel kommt, dies zerstören\"."
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "3 Schaden zufügen.\n Eine Karte ziehen."
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "Die LP aller Charaktere auf 1 reduzieren."
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "Alle verbündeten Pflanzen-Charaktere gewinnen +2/2"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "3 Hammi in Ihrer Hand beschwören."
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "Alle Karten in die Hand ihres Besitzers zurückgeben."
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "Die nächsten 7 Karten Ihres Decks anschauen und 1 Eis-Karte wählen."
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "Alle eingefrorenen Karten auf dem Brett zerstören"
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "2 Schaden an alle Charaktere zufügen"
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "Drei 2/1 Lampi in Ihre Hand beschwören."
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "2 Schaden an alle feindlichen Monster zufügen"
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "Das Ziel gewinnt +4/4 und schläft ein."
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "1 Schaden an eine zufällige Karte zufügen.\n X-mal wiederholen."
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "Der Gegner wirft 3 zufällige Karten aus seiner Hand weg."
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "Einen feindlichen Charakter für 3 Züge kontrollieren, oder bis er evolviert"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "Alle Kreaturen auf dem Brett zerstören"
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "Alle Orte im Spiel zerstören. "
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "Das Ziel gewinnt Schale und ignoriert den nächsten Treffer."
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "Das Ziel für 3 Züge lähmen."
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "Alle LP und Angriffe von Charakteren auf 1 reduzieren"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "Die Zielkreatur gewinnt \"3 Schaden erleiden, bevor angegriffen wird\"."
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "Den Charakter mit den niedrigsten LP zerstören."
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "Die Zielkreatur gewinnt \"3 Schaden erleiden, bevor angegriffen wird\"."
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "1 Schaden zufügen.\n Eine Karte ziehen."
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "Alle Karten in die Hand ihres Besitzers zurückgeben."
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "Die Zielkarte gewinnt \"Wenn angegriffen, muss der Gegner 1 zufällige Karte verwerfen\"."
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "Alle Karten im Spiel vergiften"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "Die nächsten 7 Karten Ihres Decks anschauen und 1 Wasser-Karte wählen."
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "Das feindliche Ziel in die Hand des Besitzers zurückgeben."
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "Ein beliebiges Ziel in die Hand des Besitzers zurückgeben, dann wirft der Gegner eine zufällige Karte aus seiner Hand weg."
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>Spielen:</b> Einen Charakter mit 2 oder weniger Angriff zerstören."
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>Angriff:</b> Das Ziel vergiften. "
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>Angriff:</b> Das Ziel vergiften. "
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "Feindliche Charaktere haben -1 Angriff.\n Kann Spott ignorieren."
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "Beim Angriff auf einen Spieler 1 Mana gewinnen."
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>Zugbeginn: </b>Alle verbündeten Schattenkarten gewinnen +1 Angriff."
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "Tarnung\n Alle Katzen +1 Angriff."
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "<b>Schlamm-Ansturm:</b> Ansturm gewinnen, wenn eine Eis-Ort im Spiel ist."
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "Alle verbündeten Fels-Charaktere haben +1 LP.\n Spott"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "ANSTURM"
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "Wut"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "<b>Spielen:</b> 1 Schaden an alle anderen Karten im Spiel zufügen."
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "Alle verbündeten Schattenkarten haben +2 Angriff."
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "Alle verbündeten Pflanzenkarten haben +2 LP."
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "Wenn Sie ein psychisches Monster spielen oder ein Monster des Gegners kontrollieren, wirft der Gegner eine zufällige Karte weg. "
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "Alle verbündeten Fels-Kreaturen haben +2 LP."
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "Alle verbündeten Feuer-Kreaturen haben +2 Angriff."
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "Wasserkarten in Ihrer Hand kosten 1 weniger."
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>Falle:</b> Das Ziel für 1 Zug lähmen und 3 Schaden zufügen"
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>Falle:</b> Alle um 2 Schaden."
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>Falle:</b> In Fisch verwandeln."
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>Falle:</b> Das Ziel für 1 Zug einfrieren und 3 Schaden zufügen"
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>Falle:</b> Den nächsten Angreifer vergiften und 3 Schaden zufügen."
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "Wenn der nächste feindliche Charakter angreift, Gedankenkontrolle für 1 Zug übernehmen und Spott geben. "
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>Falle:</b> Den nächsten Angreifer lähmen."
+        },
+        {
+            "key": "card.trats.text",
+            "value": "Nach dem Spielen eines Zaubers +2 Angriff gewinnen."
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "Eile\n Kann Spott ignorieren"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "Spott"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>Tod:</b> Eine Karte ziehen.\n Spott ignorieren."
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "Zauberimmunität\n Spott ignorieren"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>Spielen</b>: Angriff der Zielkarte auf 3 setzen"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "Spott"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "Beim Spielen alle Karten im Spiel vergiften."
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "Alle Elektro-Monster kosten 2 Mana weniger "
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "Tarnung\n Angriff: Gift"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "Kann nicht angreifen. Zu Beginn Ihres Zuges einen zufälligen Verbündeten einschlafen lassen."
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "Alle Feuer-Kreaturen gewinnen: \"1 Schaden erleiden, um +1 Angriff zu gewinnen\". Kosten 1 Mana pro Nutzung."
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>Spielen</b>: Angriff der Zielkarte auf 1 setzen"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>Spielen:</b> Alle um 1 Schaden."
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>Spielen:</b> Eine Zielkarte zum Schweigen bringen."
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "Jeden Zug +1 Rüstung gewinnen."
+        },
+        {
+            "key": "card.waru.text",
+            "value": "Hat +3 Angriff während des Zuges des Gegners."
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "Feindliche Charaktere haben -1 Angriff.\n <b>Aktion:</b> +1 Angriff an Verbündete."
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>Zugende:</b> Tarnung erhalten, wenn Sie andere Charaktere haben."
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>Zugende:</b> Tarnung erhalten, wenn Sie andere Charaktere haben."
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>Spielen:</b> Einen Charakter in Ihre Hand zurückgeben."
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>Spielen:</b> Spott oder Wut gewinnen"
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "Beim Angriff auf einen Spieler 1 Mana gewinnen."
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>Ortsrabatt</b>: Jeder Ort desselben Elementtyps hat 1 Mana Rabatt. "
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "Pro Ort im Spiel desselben Elementtyps +2 LP. "
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "Zauberimmunität"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "Zauberimmunität"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "Spott\n Schale"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "Zauberimmunität"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>Spielen:</b> Fluch"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "Immer wenn ein anderer Charakter stirbt, zwei Karten ziehen."
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "Eile / Fliegen"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "Zu Beginn jedes Zuges eine Karte ziehen."
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "Alle anderen verbündeten Reptilien gewinnen +2 Angriff."
+        },
+        {
+            "key": "card_artist",
+            "value": "KARTEKÜNSTLER"
+        },
+        {
+            "key": "card_description",
+            "value": "Kartenbeschreibung"
+        },
+        {
+            "key": "card_level",
+            "value": "KARTENSTUFE"
+        },
+        {
+            "key": "cardback",
+            "value": "KARTERÜCKSEITE"
+        },
+        {
+            "key": "cardbacks",
+            "value": "KARTERÜCKSEITEN"
+        },
+        {
+            "key": "cards_owned",
+            "value": "GESEINE KARTEN"
+        },
+        {
+            "key": "challenge",
+            "value": "HERAUSFORDERUNG"
+        },
+        {
+            "key": "character",
+            "value": "CHARAKTER"
+        },
+        {
+            "key": "characters",
+            "value": "Charaktere"
+        },
+        {
+            "key": "chargement",
+            "value": "LADEN..."
+        },
+        {
+            "key": "check_optin",
+            "value": "OPTIN ÜBERPRÜFEN"
+        },
+        {
+            "key": "choose_a_quick_chat_option",
+            "value": "Wählen Sie eine Schnellchat-Option"
+        },
+        {
+            "key": "claim",
+            "value": "ANSPrUCHEN"
+        },
+        {
+            "key": "claim_all",
+            "value": "ALLES ANSPrUCHEN"
+        },
+        {
+            "key": "click_this_button_to_generate_your_code_and_join_discord",
+            "value": "Klicken Sie auf diesen Button, um Ihren Code zu generieren und Discord beizutreten"
+        },
+        {
+            "key": "click_to_chat",
+            "value": "Zum Chatten klicken"
+        },
+        {
+            "key": "client_outdated",
+            "value": "CLIENT VERALTET"
+        },
+        {
+            "key": "clone",
+            "value": "KLONEN"
+        },
+        {
+            "key": "close",
+            "value": "SCHLIESSEN"
+        },
+        {
+            "key": "cloth",
+            "value": "STOFFF"
+        },
+        {
+            "key": "code",
+            "value": "CODE"
+        },
+        {
+            "key": "code...",
+            "value": "Code..."
+        },
+        {
+            "key": "collection",
+            "value": "Sammlung"
+        },
+        {
+            "key": "common",
+            "value": "Gewöhnlich"
+        },
+        {
+            "key": "community_guilds",
+            "value": "COMMUNITY-GILDEN"
+        },
+        {
+            "key": "confirm",
+            "value": "Bestätigen"
+        },
+        {
+            "key": "confirm...",
+            "value": "Bestätigen..."
+        },
+        {
+            "key": "confirm_delete",
+            "value": "LÖSCHEN BESTÄTIGEN"
+        },
+        {
+            "key": "confirm_delete_account",
+            "value": "KONTO LÖSCHEN BESTÄTIGEN"
+        },
+        {
+            "key": "confirm_delete_guild",
+            "value": "GILDE LÖSCHEN BESTÄTIGEN"
+        },
+        {
+            "key": "connecting_to_server...",
+            "value": "Verbinde mit Server..."
+        },
+        {
+            "key": "connecting_to_server....",
+            "value": "Verbinde mit Server...."
+        },
+        {
+            "key": "continue",
+            "value": "FORTSETZEN"
+        },
+        {
+            "key": "cost",
+            "value": "KOSTEN"
+        },
+        {
+            "key": "cost_breakdown",
+            "value": "KOSTENAUFSCHLÜSSELUNG"
+        },
+        {
+            "key": "create",
+            "value": "ERSTELLEN"
+        },
+        {
+            "key": "create_guild",
+            "value": "GILDE ERSTELLEN"
+        },
+        {
+            "key": "create_username",
+            "value": "BENUTZERNAMEN ERSTELLEN"
+        },
+        {
+            "key": "credits",
+            "value": "CREDITS"
+        },
+        {
+            "key": "crueltek",
+            "value": "CRUELTEK"
+        },
+        {
+            "key": "currently_in_the_main_menu",
+            "value": "Derzeit im Hauptmenü"
+        },
+        {
+            "key": "currently_playing_a_solo_match...",
+            "value": "Derzeit ein Solo-Match spielen..."
+        },
+        {
+            "key": "custom_player_decks",
+            "value": "BENUTZERDEFINIERTE SPIELERDECKS"
+        },
+        {
+            "key": "customize",
+            "value": "ANPASSEN"
+        },
+        {
+            "key": "customize_tamer",
+            "value": "ZÄHMER ANPASSEN"
+        },
+        {
+            "key": "daily_rewards",
+            "value": "TÄGLICHE\n BELOHNUNGEN"
+        },
+        {
+            "key": "daily_daily_tournament",
+            "value": "TÄGLICHES TÄGLICHES TURNIE"
+        },
+        {
+            "key": "daily_missions",
+            "value": "TÄGLICHE MISSIONEN"
+        },
+        {
+            "key": "dangocat",
+            "value": "DANGOCAT"
+        },
+        {
+            "key": "dark_forest",
+            "value": "DUNKLER WALD"
+        },
+        {
+            "key": "day_1",
+            "value": "TAG 1"
+        },
+        {
+            "key": "day_2",
+            "value": "TAG 2"
+        },
+        {
+            "key": "day_3",
+            "value": "TAG 3"
+        },
+        {
+            "key": "day_4",
+            "value": "TAG 4"
+        },
+        {
+            "key": "day_5",
+            "value": "TAG 5"
+        },
+        {
+            "key": "day_6",
+            "value": "TAG 6"
+        },
+        {
+            "key": "day_7",
+            "value": "TAG 7"
+        },
+        {
+            "key": "day_text",
+            "value": "Tag-Text"
+        },
+        {
+            "key": "deal_25_damage_with_shadow_monsters",
+            "value": "25 Schaden mit Schattenmonstern zufügen"
+        },
+        {
+            "key": "deal_50_damage_with_shadow_monsters",
+            "value": "50 Schaden mit Schattenmonstern zufügen"
+        },
+        {
+            "key": "deck",
+            "value": "DECK"
+        },
+        {
+            "key": "deck_name",
+            "value": "Deck-Name"
+        },
+        {
+            "key": "deck_select",
+            "value": "DECK-AUSWAHL"
+        },
+        {
+            "key": "deck_title",
+            "value": "Deck-Titel"
+        },
+        {
+            "key": "decks",
+            "value": "DECKS"
+        },
+        {
+            "key": "decline",
+            "value": "ABLEHNEN"
+        },
+        {
+            "key": "defeats",
+            "value": "NIEDERLAGEN"
+        },
+        {
+            "key": "delete",
+            "value": "LÖSCHEN"
+        },
+        {
+            "key": "delete_account",
+            "value": "KONTO LÖSCHEN"
+        },
+        {
+            "key": "delete_guild",
+            "value": "GILDE LÖSCHEN"
+        },
+        {
+            "key": "deny",
+            "value": "VERWEIGERN"
+        },
+        {
+            "key": "desc",
+            "value": "BESCHR."
+        },
+        {
+            "key": "description",
+            "value": "Beschreibung"
+        },
+        {
+            "key": "destroy_5_monsters_using_fire_team",
+            "value": "5 Monster mit Feuer-Team zerstören"
+        },
+        {
+            "key": "detail",
+            "value": "DETAIL"
+        },
+        {
+            "key": "dev_team",
+            "value": "ENTWICKLERTEAM"
+        },
+        {
+            "key": "devfraccas",
+            "value": "DevFraccas"
+        },
+        {
+            "key": "do_not_show_tips",
+            "value": "TIPPS NICHT ANZEIGEN"
+        },
+        {
+            "key": "dogson",
+            "value": "DOGSON"
+        },
+        {
+            "key": "download_pera",
+            "value": "PERA HERUNTERLADEN"
+        },
+        {
+            "key": "earnings",
+            "value": "EINNAMEN"
+        },
+        {
+            "key": "earnings_per_day",
+            "value": "TÄGLICHE EINNAMEN"
+        },
+        {
+            "key": "earnings_per_week",
+            "value": "WOCHENLICHEN EINNAMEN"
+        },
+        {
+            "key": "edit",
+            "value": "BEARBEITEN"
+        },
+        {
+            "key": "elemental_types",
+            "value": "ELEMENTARE TYPEN"
+        },
+        {
+            "key": "elo",
+            "value": "ELO"
+        },
+        {
+            "key": "email",
+            "value": "E-Mail"
+        },
+        {
+            "key": "e-mail",
+            "value": "E-Mail"
+        },
+        {
+            "key": "email...",
+            "value": "E-Mail..."
+        },
+        {
+            "key": "email_was_sent_with_a_code._enter_the_code_here_to_reset_your_password.",
+            "value": "Eine E-Mail mit einem Code wurde gesendet.\n Geben Sie den Code hier ein, um Ihr Passwort zurückzusetzen."
+        },
+        {
+            "key": "emote",
+            "value": "EMOTE"
+        },
+        {
+            "key": "end_turn",
+            "value": "ENDE\n ZUG"
+        },
+        {
+            "key": "enter_discord_code...",
+            "value": "Discord-Code eingeben..."
+        },
+        {
+            "key": "enter_guild_description...",
+            "value": "Gildenbeschreibung eingeben..."
+        },
+        {
+            "key": "enter_guild_name...",
+            "value": "Gildenname eingeben..."
+        },
+        {
+            "key": "enter_your_email",
+            "value": "Geben Sie Ihre E-Mail ein"
+        },
+        {
+            "key": "entry_fee",
+            "value": "EINSTIEGSGEBÜHR"
+        },
+        {
+            "key": "equipment",
+            "value": "Ausrüstung"
+        },
+        {
+            "key": "error",
+            "value": "FEHLER"
+        },
+        {
+            "key": "error_msg",
+            "value": "Fehlermeldung"
+        },
+        {
+            "key": "evolves_to_danish",
+            "value": "ENTWICKELT SICH ZU DANISH"
+        },
+        {
+            "key": "evolves_to_gracelia",
+            "value": "ENTWICKELT SICH ZU GRACELIA"
+        },
+        {
+            "key": "exit_game",
+            "value": "SPIEL VERLASSEN"
+        },
+        {
+            "key": "eyes",
+            "value": "AUGEN"
+        },
+        {
+            "key": "fairy_powers",
+            "value": "FEENKRAFTE"
+        },
+        {
+            "key": "filters",
+            "value": "Filter"
+        },
+        {
+            "key": "finding_opponent...",
+            "value": "Gegner suchen..."
+        },
+        {
+            "key": "fire_deck",
+            "value": "FEUERDECK"
+        },
+        {
+            "key": "flemmy_suit",
+            "value": "FLEMMY-ANZUG"
+        },
+        {
+            "key": "forge",
+            "value": "SCHMIEDEM"
+        },
+        {
+            "key": "forgot_password",
+            "value": "PASSWORT VERGESSEN"
+        },
+        {
+            "key": "fracctal_tcg_squad",
+            "value": "FRACCTAL TCG-TRUPP"
+        },
+        {
+            "key": "free",
+            "value": "KOSTENLOS"
+        },
+        {
+            "key": "friend_list_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "Freundesliste ist im Testmodus nicht verfügbar.\n Installieren Sie den Web-API-Server, um diese Funktion zu nutzen."
+        },
+        {
+            "key": "friends",
+            "value": "FREUNDE"
+        },
+        {
+            "key": "game_artist",
+            "value": "SPIELKÜNSTLER"
+        },
+        {
+            "key": "game_developer",
+            "value": "Spielentwickler"
+        },
+        {
+            "key": "glasses",
+            "value": "BRILLE"
+        },
+        {
+            "key": "gold_3",
+            "value": "GOLD 3"
+        },
+        {
+            "key": "gold_asset",
+            "value": "GOLD-ASSET"
+        },
+        {
+            "key": "graphics",
+            "value": "Grafik"
+        },
+        {
+            "key": "grocelia",
+            "value": "GROCELIA"
+        },
+        {
+            "key": "guide_fairy",
+            "value": "LEITFEEN"
+        },
+        {
+            "key": "guild_description",
+            "value": "GILDENBESCHREIBUNG"
+        },
+        {
+            "key": "guild_leader",
+            "value": "GILDENLEITER"
+        },
+        {
+            "key": "guild_name",
+            "value": "GILDENNAME"
+        },
+        {
+            "key": "guild_requests",
+            "value": "GILDENANFRAGEN"
+        },
+        {
+            "key": "guild_vault_cards",
+            "value": "GILDEN-TRESOR-KARTEN"
+        },
+        {
+            "key": "guilds",
+            "value": "Gilden"
+        },
+        {
+            "key": "hands",
+            "value": "HÄNDE"
+        },
+        {
+            "key": "head",
+            "value": "KOPF"
+        },
+        {
+            "key": "in_progress",
+            "value": "IM GANG"
+        },
+        {
+            "key": "inbox",
+            "value": "POSTEINGANG"
+        },
+        {
+            "key": "james_ward",
+            "value": "James Ward"
+        },
+        {
+            "key": "join",
+            "value": "BEITRETEN"
+        },
+        {
+            "key": "join_discord",
+            "value": "DISCORD BEITRETEN"
+        },
+        {
+            "key": "join_guild",
+            "value": "GILDE BEITRETEN"
+        },
+        {
+            "key": "join_with_code",
+            "value": "MIT CODE BEITRETEN"
+        },
+        {
+            "key": "kick",
+            "value": "RAUSWERFEN"
+        },
+        {
+            "key": "kill_5_monsters_using_fire_monsters",
+            "value": "5 Monster mit Feuer-Monstern töten"
+        },
+        {
+            "key": "kill_5_monsters_using_plant_monsters",
+            "value": "5 Monster mit Pflanzen-Monstern töten"
+        },
+        {
+            "key": "kk_honey",
+            "value": "KK HONEY"
+        },
+        {
+            "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "Rangliste ist im Testmodus nicht verfügbar.\n Installieren Sie den Web-API-Server, um diese Funktion zu nutzen."
+        },
+        {
+            "key": "leave_guild",
+            "value": "GILDE VERLASSEN"
+        },
+        {
+            "key": "level",
+            "value": "STUFE"
+        },
+        {
+            "key": "level_1",
+            "value": "STUFE 1"
+        },
+        {
+            "key": "level_5",
+            "value": "Stufe 5"
+        },
+        {
+            "key": "level_up_10_cards",
+            "value": "10 Karten hochstufen"
+        },
+        {
+            "key": "level_up_5_cards",
+            "value": "5 Karten hochstufen"
+        },
+        {
+            "key": "loading...",
+            "value": "LADEN..."
+        },
+        {
+            "key": "locations",
+            "value": "Orte"
+        },
+        {
+            "key": "login",
+            "value": "ANMELDEN"
+        },
+        {
+            "key": "login_with_immutable",
+            "value": "MIT IMMUTABLE ANMELDEN"
+        },
+        {
+            "key": "logout",
+            "value": "ABMELDEN"
+        },
+        {
+            "key": "marc",
+            "value": "Marc"
+        },
+        {
+            "key": "master",
+            "value": "Meister"
+        },
+        {
+            "key": "max",
+            "value": "Max"
+        },
+        {
+            "key": "menu",
+            "value": "MENÜ"
+        },
+        {
+            "key": "missions",
+            "value": "MISSIONEN"
+        },
+        {
+            "key": "monster",
+            "value": "MONSTER"
+        },
+        {
+            "key": "monster_name",
+            "value": "MONSTERNAMEN"
+        },
+        {
+            "key": "monsters",
+            "value": "MONSTER"
+        },
+        {
+            "key": "mouth",
+            "value": "MUND"
+        },
+        {
+            "key": "mulligan",
+            "value": "Mulligan"
+        },
+        {
+            "key": "multiplayer",
+            "value": "MULTIPLAYER"
+        },
+        {
+            "key": "music",
+            "value": "Musik"
+        },
+        {
+            "key": "mythic",
+            "value": "Mythisch"
+        },
+        {
+            "key": "name",
+            "value": "Name"
+        },
+        {
+            "key": "new_password",
+            "value": "NEUES PASSWORT"
+        },
+        {
+            "key": "new_password...",
+            "value": "Neues Passwort..."
+        },
+        {
+            "key": "new_text",
+            "value": "Neuer Text"
+        },
+        {
+            "key": "next",
+            "value": "NÄCHSTER"
+        },
+        {
+            "key": "nicolas_oliver",
+            "value": "NICOLAS OLIVER"
+        },
+        {
+            "key": "nodejs",
+            "value": "NODEJS"
+        },
+        {
+            "key": "nose",
+            "value": "NASE"
+        },
+        {
+            "key": "not_enrolled",
+            "value": "NICHT ANGEMELDET"
+        },
+        {
+            "key": "not_owned",
+            "value": "Nicht besessen"
+        },
+        {
+            "key": "ok",
+            "value": "OK"
+        },
+        {
+            "key": "ongoing",
+            "value": "LAUFEND"
+        },
+        {
+            "key": "online_players",
+            "value": "ONLINE-SPIELER"
+        },
+        {
+            "key": "open_packs",
+            "value": "PACKS ÖFFNEN"
+        },
+        {
+            "key": "optin",
+            "value": "OPTIN"
+        },
+        {
+            "key": "optin_asa_txn",
+            "value": "OPTIN ASA TXN"
+        },
+        {
+            "key": "option_a",
+            "value": "Option A"
+        },
+        {
+            "key": "owned",
+            "value": "Besessen"
+        },
+        {
+            "key": "owned_assets",
+            "value": "GESEINE ASSETS"
+        },
+        {
+            "key": "ownership",
+            "value": "BESITZ"
+        },
+        {
+            "key": "pack",
+            "value": "PACK"
+        },
+        {
+            "key": "pack_description",
+            "value": "Pack-Beschreibung"
+        },
+        {
+            "key": "packs",
+            "value": "PACKS"
+        },
+        {
+            "key": "partners",
+            "value": "PARTNER"
+        },
+        {
+            "key": "password",
+            "value": "Passwort"
+        },
+        {
+            "key": "password_recovery",
+            "value": "PASSWORTERHOLUNG"
+        },
+        {
+            "key": "per_day",
+            "value": "pro Tag"
+        },
+        {
+            "key": "pera_account_uid",
+            "value": "PERA-KONTEN-UID"
+        },
+        {
+            "key": "pets",
+            "value": "HAUSTIERE"
+        },
+        {
+            "key": "plant_starter",
+            "value": "Pflanzen-Starter"
+        },
+        {
+            "key": "play",
+            "value": "SPIELEN"
+        },
+        {
+            "key": "play_a_match_to_re-activate",
+            "value": "Ein Match spielen, um zu reaktivieren"
+        },
+        {
+            "key": "play_with_code",
+            "value": "MIT CODE SPIELEN"
+        },
+        {
+            "key": "player",
+            "value": "Spieler"
+        },
+        {
+            "key": "players",
+            "value": "SPIELER"
+        },
+        {
+            "key": "practice",
+            "value": "ÜBUNG"
+        },
+        {
+            "key": "premium",
+            "value": "PREMIUM"
+        },
+        {
+            "key": "preview",
+            "value": "VORSCHAU"
+        },
+        {
+            "key": "previous",
+            "value": "Vorherige"
+        },
+        {
+            "key": "previous_password",
+            "value": "VORHERIGES PASSWORT"
+        },
+        {
+            "key": "prismatic",
+            "value": "Prismatisch"
+        },
+        {
+            "key": "private",
+            "value": "PRIVAT"
+        },
+        {
+            "key": "prizes",
+            "value": "PREISE"
+        },
+        {
+            "key": "profile",
+            "value": "PROFIL"
+        },
+        {
+            "key": "promote",
+            "value": "FÖRDERN"
+        },
+        {
+            "key": "purchase_pack",
+            "value": "PACK KAUFTEN"
+        },
+        {
+            "key": "quality",
+            "value": "Qualität"
+        },
+        {
+            "key": "quantity",
+            "value": "MENGE"
+        },
+        {
+            "key": "quit",
+            "value": "BEENDEN"
+        },
+        {
+            "key": "rafael_santos",
+            "value": "Rafael Santos"
+        },
+        {
+            "key": "random",
+            "value": "ZUFÄLLIG"
+        },
+        {
+            "key": "random_rare_reward",
+            "value": "ZUFÄLLIGE SELTENE BELOHNUNG"
+        },
+        {
+            "key": "rank",
+            "value": "RANG"
+        },
+        {
+            "key": "rankings",
+            "value": "RANGListen"
+        },
+        {
+            "key": "rare",
+            "value": "Selten"
+        },
+        {
+            "key": "rare_avatar",
+            "value": "SELTENER AVATAR"
+        },
+        {
+            "key": "rarity",
+            "value": "Seltenheit"
+        },
+        {
+            "key": "raz",
+            "value": "RaZ"
+        },
+        {
+            "key": "recover_username",
+            "value": "BENUTZERNAMEN WIEDERERLANGEN"
+        },
+        {
+            "key": "register",
+            "value": "REGISTRIEREN"
+        },
+        {
+            "key": "remove",
+            "value": "ENTFERNEN"
+        },
+        {
+            "key": "requests",
+            "value": "ANFRAGEN"
+        },
+        {
+            "key": "resend_confirmation",
+            "value": "BESTÄTIGUNG NEU SENDEN"
+        },
+        {
+            "key": "resolution",
+            "value": "Auflösung"
+        },
+        {
+            "key": "result",
+            "value": "Ergebnis"
+        },
+        {
+            "key": "resume",
+            "value": "FORTSETZEN"
+        },
+        {
+            "key": "retype",
+            "value": "WIEDEREINGEBEN"
+        },
+        {
+            "key": "rewards",
+            "value": "BELOHNUNGEN"
+        },
+        {
+            "key": "round",
+            "value": "Runde"
+        },
+        {
+            "key": "round_3",
+            "value": "RUNDE 3"
+        },
+        {
+            "key": "save",
+            "value": "SPEICHERN"
+        },
+        {
+            "key": "save_changes",
+            "value": "ÄNDERUNGEN SPEICHERN"
+        },
+        {
+            "key": "save_success",
+            "value": "SPEICHERN ERFOLGREICH"
+        },
+        {
+            "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
+            "value": "QR-CODE SCANNEN\n TXN IN DER PERA-MOBILAPP UNTERZEICHNEN\n AUF DIE BESTÄTIGUNGSSCHALTFLÄCHE RECHTS KLIKKEN"
+        },
+        {
+            "key": "search",
+            "value": "SUCHEN"
+        },
+        {
+            "key": "search_by_name",
+            "value": "NACH NAMEN SUCHEN"
+        },
+        {
+            "key": "select",
+            "value": "AUSWÄHLEN"
+        },
+        {
+            "key": "select_a_card",
+            "value": "Eine Karte auswählen"
+        },
+        {
+            "key": "select_a_choice",
+            "value": "EINE WAHL AUSSWÄHLEN"
+        },
+        {
+            "key": "select_a_target",
+            "value": "Ein Ziel auswählen"
+        },
+        {
+            "key": "select_card_cost",
+            "value": "KARTENKOSTEN AUSWÄHLEN"
+        },
+        {
+            "key": "select_cards_to_replace",
+            "value": "Zu ersetzende Karten auswählen"
+        },
+        {
+            "key": "select_deck",
+            "value": "DECK AUSWÄHLEN"
+        },
+        {
+            "key": "select_one_starter_deck",
+            "value": "EIN STARTER-DECK AUSWÄHLEN"
+        },
+        {
+            "key": "sell",
+            "value": "VERKAUFEN"
+        },
+        {
+            "key": "sell_duplicate_cards",
+            "value": "Duplikat-Karten verkaufen"
+        },
+        {
+            "key": "sell_duplicates",
+            "value": "Duplikate verkaufen"
+        },
+        {
+            "key": "send",
+            "value": "SENDEN"
+        },
+        {
+            "key": "send_guild",
+            "value": "GILDE SENDEN"
+        },
+        {
+            "key": "settings",
+            "value": "EINSTELLUNGEN"
+        },
+        {
+            "key": "sfx",
+            "value": "SFX"
+        },
+        {
+            "key": "sign_in_with_steam",
+            "value": "mit steam anmelden"
+        },
+        {
+            "key": "silence_target_card.",
+            "value": "Zielkarte zum Schweigen bringen."
+        },
+        {
+            "key": "smokenstein",
+            "value": "SMOKENSTEIN"
+        },
+        {
+            "key": "sort",
+            "value": "SORTIEREN"
+        },
+        {
+            "key": "spectate",
+            "value": "ZUSCHAUEN"
+        },
+        {
+            "key": "spells",
+            "value": "Zauber"
+        },
+        {
+            "key": "standard_pack",
+            "value": "STANDARD-PACK"
+        },
+        {
+            "key": "start",
+            "value": "STARTEN"
+        },
+        {
+            "key": "start_time",
+            "value": "STARTZEIT"
+        },
+        {
+            "key": "status",
+            "value": "STATUS"
+        },
+        {
+            "key": "status_title",
+            "value": "Status-Titel"
+        },
+        {
+            "key": "submit",
+            "value": "ABSENDEN"
+        },
+        {
+            "key": "success",
+            "value": "ERFOLG"
+        },
+        {
+            "key": "tamer_silvo",
+            "value": "ZÄHMER SILVO"
+        },
+        {
+            "key": "tamers",
+            "value": "ZÄHMER"
+        },
+        {
+            "key": "tbd",
+            "value": "TBD"
+        },
+        {
+            "key": "tcg_council",
+            "value": "TCG-RAT"
+        },
+        {
+            "key": "tcg_engine",
+            "value": "TCG-MOTOR"
+        },
+        {
+            "key": "tcgs",
+            "value": "TCGs"
+        },
+        {
+            "key": "test_tournament",
+            "value": "TEST-TURNIER"
+        },
+        {
+            "key": "title",
+            "value": "Titel"
+        },
+        {
+            "key": "total_earnings",
+            "value": "GESAMTE EINNAMEN"
+        },
+        {
+            "key": "tournament",
+            "value": "TURNIER"
+        },
+        {
+            "key": "tournament_confirmation",
+            "value": "TURNIER-BESTÄTIGUNG"
+        },
+        {
+            "key": "tournament_wins",
+            "value": "TURNIER-SIEGE"
+        },
+        {
+            "key": "tournaments",
+            "value": "TURNIERE"
+        },
+        {
+            "key": "traits",
+            "value": "EIGENSCHAFTEN"
+        },
+        {
+            "key": "traps",
+            "value": "Fallen"
+        },
+        {
+            "key": "turn_6",
+            "value": "ZUG 6"
+        },
+        {
+            "key": "type",
+            "value": "Typ"
+        },
+        {
+            "key": "uncommon",
+            "value": "Ungewöhnlich"
+        },
+        {
+            "key": "uncommon_avatar",
+            "value": "UNGEWÖHNLICHER AVATAR"
+        },
+        {
+            "key": "unity_engine",
+            "value": "UNITY-ENGINE"
+        },
+        {
+            "key": "unlink",
+            "value": "VERKNÜPFUNG LÖSEN"
+        },
+        {
+            "key": "update_password",
+            "value": "PASSWORT AKTUALISIEREN"
+        },
+        {
+            "key": "username",
+            "value": "Benutzername"
+        },
+        {
+            "key": "username...",
+            "value": "Benutzername..."
+        },
+        {
+            "key": "vault",
+            "value": "TRESOR"
+        },
+        {
+            "key": "version_1.00",
+            "value": "Version 1.00"
+        },
+        {
+            "key": "victories",
+            "value": "SIEGE"
+        },
+        {
+            "key": "victory",
+            "value": "SIEG"
+        },
+        {
+            "key": "view",
+            "value": "ANSCHAUEN"
+        },
+        {
+            "key": "wallet_confirmation_txn",
+            "value": "WALLET-BESTÄTIGUNG TXN"
+        },
+        {
+            "key": "warning_text",
+            "value": "Warntext"
+        },
+        {
+            "key": "weekly_guild_missions",
+            "value": "WOCHENLICHEN GILDENMISSIONEN"
+        },
+        {
+            "key": "weekly_missions",
+            "value": "WOCHENLICHEN MISSIONEN"
+        },
+        {
+            "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
+            "value": "Wenn ein neuer Spieler Ihren Benutzernamen als Empfehlungscode verwendet, erhält er 1 seltenes Pack und Sie erhalten ein seltenes Pack jedes Mal, wenn er sein Konto hochstuft "
+        },
+        {
+            "key": "win_3_ranked_matches",
+            "value": "3 Ranked-Matches gewinnen"
+        },
+        {
+            "key": "windowed",
+            "value": "Fenster"
+        },
+        {
+            "key": "winner",
+            "value": "SIEGER"
+        },
+        {
+            "key": "winrate",
+            "value": "SIEGESRATE"
+        },
+        {
+            "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
+            "value": "Sie müssen mindestens ein Match alle 24 Stunden spielen, um Belohnungseinnahmen aktiv zu halten. Belohnungen pausieren, bis Sie wieder spielen.\n "
+        },
+        {
+            "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
+            "value": "IHRE DECK WURDE GESPEICHERT UND KANN IM KAMPF VERWENDET WERDEN."
+        },
+        {
+            "key": "zhamster",
+            "value": "ZHAMSTER"
+        },
+        {
+            "key": "statusline.trait_label",
+            "value": "EIGENSCHAFT: {0}"
+        },
+        {
+            "key": "statusline.evolution_title",
+            "value": "EVOLUTION"
+        },
+        {
+            "key": "statusline.evolution_description",
+            "value": "DIE KARTE EVOLVIERT IN {0} ZÜGEN"
+        },
+        {
+            "key": "statusline.mind_control_title",
+            "value": "GEDANKENKONTROLLE"
+        },
+        {
+            "key": "statusline.mind_control.owner_prefix",
+            "value": "<color=orange>Ursprünglicher Besitzer: {0}</color>"
+        },
+        {
+            "key": "statusline.mind_control.release_caster_leaves",
+            "value": "wenn der Werfer das Spiel verlässt"
+        },
+        {
+            "key": "statusline.mind_control.release_if_evolves",
+            "value": "wenn sie evolviert"
+        },
+        {
+            "key": "statusline.mind_control.desc_currently_controlled",
+            "value": "Diese Karte ist derzeit unter Gedankenkontrolle."
+        },
+        {
+            "key": "statusline.mind_control.desc_single_condition",
+            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} zurück."
+        },
+        {
+            "key": "statusline.mind_control.desc_double_condition",
+            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} oder {1} zurück."
+        },
+        {
+            "key": "statusline.mind_control.desc_multiple_conditions",
+            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} oder {1} zurück."
+        },
+        {
+            "key": "statusline.mind_control.desc_fallback_timed",
+            "value": "Diese Karte ist derzeit unter Gedankenkontrolle und kehrt in {0} {1} zurück."
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_zero",
+            "value": "sobald {0} nächster Zug endet"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_remaining",
+            "value": "nach {0} von {1} {2}"
+        },
+        {
+            "key": "statusline.mind_control.turn_singular",
+            "value": "zug"
+        },
+        {
+            "key": "statusline.mind_control.turn_plural",
+            "value": "züge"
+        },
+        {
+            "key": "statusline.mind_control.owner_active",
+            "value": "des aktiven Spielers"
+        },
+        {
+            "key": "statusline.mind_control.owner_your",
+            "value": "dein"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent",
+            "value": "deines Gegners"
+        },
+        {
+            "key": "statusline.mind_control.owner_original",
+            "value": "des ursprünglichen Besitzers"
+        },
+        {
+            "key": "statusline.mind_control.owner_controller",
+            "value": "des Kontrolleurs"
+        },
+        {
+            "key": "statusline.mind_control.owner_you",
+            "value": "Sie"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent_label",
+            "value": "Gegner"
+        },
+        {
+            "key": "statusline.mind_control.owner_player_number",
+            "value": "Spieler {0}"
+        },
+        {
+            "key": "statusline.mind_control.possessive_pronoun",
+            "value": "ihr"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format",
+            "value": "{0}s"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format_s",
+            "value": "{0}s"
+        },
+        {
+            "key": "statusline.mind_control.list_separator",
+            "value": ", "
+        },
+        {
+            "key": "language",
+            "value": "Sprache"
+        },
+        {
+            "key": "warning.not_your_turn",
+            "value": "Du bist nicht am Zug"
+        },
+        {
+            "key": "warning.no_more_actions",
+            "value": "Keine weiteren Aktionen"
+        },
+        {
+            "key": "warning.rush_cant_attack_player",
+            "value": "Rush-Karten können im Zug, in dem sie ausgespielt werden, keine Spieler angreifen"
+        },
+        {
+            "key": "warning.not_enough_mana",
+            "value": "Nicht genug Mana"
+        },
+        {
+            "key": "warning.not_enough_team_points",
+            "value": "Nicht genug Team-Punkte"
+        },
+        {
+            "key": "warning.maximum_traps",
+            "value": "Maximal 5 Fallen"
+        },
+        {
+            "key": "warning.spell_immunity",
+            "value": "Zauberimmunität"
+        },
+        {
+            "key": "warning.invalid_target",
+            "value": "Ungültiges Ziel"
+        },
+        {
+            "key": "quick_chat.placeholder",
+            "value": "Wähle eine Schnellchat-Option..."
+        },
+        {
+            "key": "quick_chat.gm",
+            "value": "GM!"
+        },
+        {
+            "key": "quick_chat.hello",
+            "value": "Hallo!"
+        },
+        {
+            "key": "quick_chat.glhf",
+            "value": "GLHF!"
+        },
+        {
+            "key": "quick_chat.lets_go",
+            "value": "Los geht’s!"
+        },
+        {
+            "key": "quick_chat.lets_battle",
+            "value": "Lasst uns kämpfen!"
+        },
+        {
+            "key": "quick_chat.lets_fight",
+            "value": "Auf in den Kampf!"
+        },
+        {
+            "key": "quick_chat.lets_have_fun",
+            "value": "Lass uns Spaß haben!"
+        },
+        {
+            "key": "quick_chat.nice_move",
+            "value": "Guter Zug!"
+        },
+        {
+            "key": "quick_chat.rip",
+            "value": "RIP"
+        },
+        {
+            "key": "quick_chat.rip_gg",
+            "value": "RIP GG"
+        },
+        {
+            "key": "quick_chat.oops",
+            "value": "Ups!"
+        },
+        {
+            "key": "quick_chat.thanks",
+            "value": "Danke!"
+        },
+        {
+            "key": "quick_chat.good_game",
+            "value": "Gutes Spiel!"
+        },
+        {
+            "key": "quick_chat.well_played",
+            "value": "Gut gespielt!"
+        },
+        {
+            "key": "quick_chat.close_game",
+            "value": "Knappes Spiel!"
+        },
+        {
+            "key": "quick_chat.close_one",
+            "value": "Das war knapp"
+        },
+        {
+            "key": "quick_chat.great_battle",
+            "value": "Großartige Schlacht!"
+        },
+        {
+            "key": "quick_chat.what_a_battle",
+            "value": "Was für eine Schlacht!"
+        },
+        {
+            "key": "quick_chat.respect",
+            "value": "Respekt"
+        },
+        {
+            "key": "collection.create_new_deck",
+            "value": "NEUES DECK ERSTELLEN"
+        },
+        {
+            "key": "tip_mind_control_base",
+            "value": "{0} hat die Kontrolle über {1} übernommen! {1} kämpft bis zum Ende des Effekts für {0}."
+        },
+        {
+            "key": "tip_mind_control_ability",
+            "value": "Quellfähigkeit: {0}"
+        },
+        {
+            "key": "tip_mind_control_evolution_return",
+            "value": "Wenn das kontrollierte Monster sich entwickelt und anschließend zurückverwandelt, kehrt es zu seinem ursprünglichen Besitzer zurück."
+        },
+        {
+            "key": "tip_mind_control_hint_none",
+            "value": "Keine Hinweise zum Lösen verfügbar. Achte auf andere Effekte, die die Kontrolle beenden könnten."
+        },
+        {
+            "key": "tip_mind_control_caster_fallback",
+            "value": "die Quelle des Zaubers"
+        },
+        {
+            "key": "tip_mind_control_hint_caster",
+            "value": "Besiege {0}, um die Gedankenkontrolle zu brechen."
+        },
+        {
+            "key": "tip_mind_control_hint_turns",
+            "value": "Gedankenkontrolle endet nach {0} Zug(en) von {1}."
+        },
+        {
+            "key": "tip_mind_control_turn_owner_original",
+            "value": "der ursprüngliche Besitzer"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_active",
+            "value": "der aktive Spieler"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_controller",
+            "value": "der Kontrollierende"
+        },
+        {
+            "key": "tip_swap_slots_base",
+            "value": "{0} hat die Positionen von {1} und {2} vertauscht."
+        },
+        {
+            "key": "tip_swap_slots_ability",
+            "value": "Eingesetzte Fähigkeit: {0}"
+        },
+        {
+            "key": "tip_unknown_card",
+            "value": "Unbekannte Karte"
+        },
+        {
+            "key": "tip_ability_destroyed",
+            "value": "Dein {0} wurde durch die Fähigkeit von {1} zerstört!\n \n Fähigkeitsbeschreibung: {2}"
+        },
+        {
+            "key": "tip_armor_message",
+            "value": "Der Gegner hat ein gepanzertes Monster ausgespielt! Es erleidet weniger Schaden durch Angriffe."
+        },
+        {
+            "key": "tip_characterabilityimmunity_message",
+            "value": "Der Gegner hat ein fähigkeitsimmunes Monster ausgespielt! Charakterfähigkeiten, die ein Ziel benötigen, können es nicht betreffen, aber Feenkräfte schon."
+        },
+        {
+            "key": "tip_deathtouch_message",
+            "value": "Der Gegner hat ein Monster mit Todesberührung ausgespielt! Jede Figur, die es beschädigt, wird zerstört."
+        },
+        {
+            "key": "tip_flying_message",
+            "value": "Der Gegner hat ein fliegendes Monster ausgespielt! Es kann Spott-Blocker ignorieren."
+        },
+        {
+            "key": "tip_fury_message",
+            "value": "Der Gegner hat ein wütendes Monster ausgespielt! Es kann pro Zug zweimal angreifen."
+        },
+        {
+            "key": "tip_heropower_message",
+            "value": "Der Gegner hat seine Feenkraft mit {0} eingesetzt!\n \n Fähigkeit: {1}"
+        },
+        {
+            "key": "tip_intimidate_message",
+            "value": "Der Gegner hat ein einschüchterndes Monster ausgespielt! Es erleidet beim Angreifen keinen Schaden."
+        },
+        {
+            "key": "tip_invincibility_message",
+            "value": "Der Gegner hat ein unverwundbares Monster ausgespielt! Es kann für ein paar Züge nicht angegriffen werden."
+        },
+        {
+            "key": "tip_lifesteal_message",
+            "value": "Der Gegner hat ein Monster mit Lebensraub ausgespielt! Es heilt sich, wenn es Kampfschaden verursacht."
+        },
+        {
+            "key": "tip_overkill_message",
+            "value": "Der Gegner hat ein Monster mit überschüssigem Schaden ausgespielt! Überschüssiger Schaden heilt es."
+        },
+        {
+            "key": "tip_shell_message",
+            "value": "Der Gegner hat ein Schalen-Monster ausgespielt! Der erste Schaden, den es erhalten würde, wird ignoriert."
+        },
+        {
+            "key": "tip_spellimmunity_message",
+            "value": "Der Gegner hat ein zauberimmunes Monster ausgespielt! Zauber können es weder anvisieren noch verletzen, aber nicht gerichtete Zerstörungszauber wirken weiterhin."
+        },
+        {
+            "key": "tip_status_generic",
+            "value": "Dein Monster wurde {0}!\n \n Beschreibung: {1}"
+        },
+        {
+            "key": "tip_status_sleep",
+            "value": "Dein Monster wurde eingeschläfert!\n \n Beschreibung: {0}"
+        },
+        {
+            "key": "tip_stealth_message",
+            "value": "Der Gegner hat ein Schleich-Monster ausgespielt! Du kannst es nicht angreifen oder anvisieren, bis es handelt."
+        },
+        {
+            "key": "tip_taunt_message",
+            "value": "Der Gegner hat ein Spott-Monster ausgespielt! Du musst es vor anderen Feinden angreifen."
+        },
+        {
+            "key": "tip_trample_message",
+            "value": "Der Gegner hat ein Trampel-Monster ausgespielt! Überschüssiger Schaden an deinen Monstern trifft dich."
+        },
+        {
+            "key": "tip_transform_into_with_trigger",
+            "value": "„Verwandle in“ kopiert die abgeworfene Karte. Die anvisierte Karte ist jetzt {0}, weil sie sich in {1} verwandelt hat."
+        },
+        {
+            "key": "tip_transform_into_without_trigger",
+            "value": "„Verwandle in“ kopiert die abgeworfene Karte. Die anvisierte Karte ist jetzt {0}, weil sie sich in die abgeworfene Karte verwandelt hat, die die Fähigkeit ausgelöst hat."
+        },
+        {
+            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
+            "value": "Greife an, indem du einen deiner Jagur auf einen Gegner ziehst."
+        },
+        {
+            "key": "before_they_destroy_yours",
+            "value": "Bevor sie deines zerstören"
+        },
+        {
+            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
+            "value": "Aber du kannst auf jeden Fall mit den Monstern angreifen, die bereits im Spiel sind."
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>Spielen:</b> Wähle einen Charakter unter deiner Kontrolle und schicke ihn zum anderen Spieler mit der Fähigkeit: feindliche Charaktere erhalten +1/+2"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>Spielen:</b> Wähle einen Charakter unter deiner Kontrolle und schicke ihn zum anderen Spieler mit der Fähigkeit: zu Beginn jedes Zuges 2 Karten abwerfen"
+        },
+        {
+            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
+            "value": "Die Manakosten sind in der Ecke der Karte angegeben."
+        },
+        {
+            "key": "opponent",
+            "value": "Gegner"
+        },
+        {
+            "key": "to_play_cards_you_must_spend_mana",
+            "value": "Um Karten zu spielen, musst du Mana ausgeben."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "Versuche, eine Karte zu spielen, indem du sie auf eines der freien Felder auf dem Brett ziehst."
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Jede Karte in deiner Hand mit grünem Highlight kann gespielt werden."
+        },
+        {
+            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
+            "value": "Wenn du mit deinem Zug fertig bist, klicke auf „Zug beenden“."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "Du hast zwei Möglichkeiten."
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Willkommen beim Fracctal-TCG-Tutorial"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Willkommen beim Fracctal-TCG-Tutorial"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "KÄMPFEN SIE GEGEN ANDERE SPIELER IM RANKED-MULTIPLAYER.\n  \n   Sie können Ihr PvP-Ranking mit dem Button oben in der Navigationsleiste überprüfen. "
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "NEHMEN SIE TÄGLICH AN AUTOMATISIERTEN TURNIEREN IN UNSEREM TURNIERMODUS GEGEN ANDERE SPIELER TEIL.\n  \n  GEWINNEN SIE ESSENZ, KONTEN-XP, PACKS UND GILDENPUNKTE IN DIESEN WETTBEWERBEN!"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Versuche, eine Karte zu spielen, indem du sie auf ein freies Feld auf dem Spielbrett ziehst.\n \n Jede Karte in deiner Hand mit grüner Hervorhebung kann gespielt werden."
+        },
+        {
+            "key": "modal.version_warning_message",
+            "value": "IHRE SPIELVERSION {0} IST VERALTET. NEUESTE VERSION IST {1}."
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_beta!_let's_learn_a_bit_about_the_game.",
+            "value": "Willkommen in der Fracctal TCG-Beta!\n Lass uns das Spiel kurz kennenlernen."
+        },
+        {
+            "key": "in_adventure_mode_you_learn_the_basics_of_the_game_as_well_as_the_different_types_of_cards_and_abilites.you_also_earn_rewards_as_you_defeat_challenges!",
+            "value": "Im Abenteuermodus lernst du die Grundlagen des Spiels sowie die verschiedenen Karten- und Fähigkeitsarten.\n \n Außerdem erhältst du Belohnungen, wenn du Herausforderungen besiegst!"
+        },
+        {
+            "key": "in_practice_mode_you_can_test_your_different_decks,_complete_missions,_and_learn_the_game_wihtout_affecting_your_ranking.",
+            "value": "Im Übungsmodus kannst du verschiedene Decks testen, Missionen abschließen und das Spiel lernen, ohne dein Ranking zu beeinflussen."
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "Kämpfe gegen andere Spieler im gewerteten Mehrspielermodus.\n \n Du kannst dein PvP-Ranking über den Button oben in der Navigationsleiste prüfen."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_mode.win_essence_currency,_account_xp,_packs,_and_guild_points_in_these_competions!",
+            "value": "Tritt täglich in automatisierten Turnieren gegen andere Spieler in unserem Turniermodus an.\n \n Gewinne Essenzwährung, Konto-XP, Packs und Gildenpunkte in diesen Wettbewerben!"
+        },
+        {
+            "key": "missions_are_the_primary_method_of_gaining_currency_to_open_new_packs._there_are_many_more_features_like_match_spectating,_daily_login_streak_rewards,_friends_list,_player_created_guilds,_battlepass_rewards,_and_much_more!we_suggest_you_start_with_adventure_mode._good_luck!",
+            "value": "Missionen sind die wichtigste Methode, um Währung zum Öffnen neuer Packs zu verdienen.\n \n Es gibt viele weitere Funktionen wie Match-Zuschauen, tägliche Login-Serienbelohnungen, Freundesliste, von Spielern erstellte Gilden, Battle-Pass-Belohnungen und vieles mehr!\n \n Wir empfehlen, mit dem Abenteuermodus zu beginnen. Viel Glück!"
+        },
+        {
+            "key": "great_job!_creatures_that_just_entered_play_cannot_attack_in_the_same_turn.",
+            "value": "Gute Arbeit! Kreaturen, die gerade ins Spiel gekommen sind, können im selben Zug nicht angreifen."
+        },
+        {
+            "key": "now_destroy_the_other_monster!",
+            "value": "Zerstöre jetzt das andere Monster!"
+        },
+        {
+            "key": "your_goal_is_to_reduce_your_opponent's_hp_to_0.",
+            "value": "Dein Ziel ist es, die HP deines Gegners auf 0 zu reduzieren."
+        },
+        {
+            "key": "many_monsters_are_quite_strong_because_their_fury_ability_let_them_attack_twice_per_turn!",
+            "value": "Viele Monster sind sehr stark, weil ihre Fähigkeit „Wut“ ihnen erlaubt, pro Zug zweimal anzugreifen!"
+        },
+        {
+            "key": "you_will_probably_want_to_get_rid_of_the_ignitas_this_turn,_otherwise_it_could_damage_most_of_your_hp!",
+            "value": "Du solltest Ignitus wahrscheinlich in diesem Zug loswerden, sonst könnte er einen Großteil deiner HP beschädigen!"
+        },
+        {
+            "key": "your_jagur_can_only_deal_1_damage,_but_you_need_2_to_destroy_the_ignitas.",
+            "value": "Dein Jagur verursacht nur 1 Schaden, aber du brauchst 2, um Ignitus zu zerstören."
+        },
+        {
+            "key": "you_have_two_choices._you_can_either_try_to_paralyze_the_ignitus,_or_play_a_cheetula_to_boost_your_jagur_attack.",
+            "value": "Du hast zwei Möglichkeiten. Du kannst versuchen, Ignitus zu lähmen, oder eine Cheetula spielen, um den Angriff deines Jagur zu erhöhen."
+        },
+        {
+            "key": "great_choice,_the_ignitas_won't_be_able_to_attack_for_the_next_2_turns.",
+            "value": "Gute Wahl, Ignitus kann in den nächsten 2 Zügen nicht angreifen."
+        },
+        {
+            "key": "now_you_could_attack_the_opponent,_or_end_your_turn.",
+            "value": "Jetzt kannst du den Gegner angreifen oder deinen Zug beenden."
+        },
+        {
+            "key": "great_choice,_now_your_jagur_has_2_attack._you_can_attack_and_kill_the_ignitas!",
+            "value": "Gute Wahl, jetzt hat dein Jagur 2 Angriff. Du kannst Ignitus angreifen und besiegen!"
+        },
+        {
+            "key": "to_attack_the_opponent's_hp._drag_one_of_your_characters_in_play_on_top_of_the_opponent's_hand_area.",
+            "value": "Um die HP des Gegners anzugreifen. Ziehe eine deiner Figuren im Spiel auf den Handbereich des Gegners."
+        },
+        {
+            "key": "good_luck!",
+            "value": "Viel Glück!"
+        },
+        {
+            "key": "hero_power_popup.contribution_line1",
+            "value": "Das Ausspielen von {0} Karten lädt deine Feenkraft auf."
+        },
+        {
+            "key": "hero_power_popup.contribution_line2",
+            "value": "Du hast gerade dazu beigetragen! Fortschritt: {0}/{1} Elementpunkte."
+        },
+        {
+            "key": "hero_power_popup.contribution_line3",
+            "value": "Erreiche die erforderlichen Punkte, um sie zu aktivieren."
+        },
+        {
+            "key": "hero_power_popup.fairy_power_label",
+            "value": "Feenkraft: {0}"
+        },
+        {
+            "key": "tip_heropower_electric",
+            "value": "Ziel erhält Stärke zum Angreifen (muss ein elektrisches Monster sein)."
+        },
+        {
+            "key": "tip_heropower_fire",
+            "value": "Füge 1 Schaden zu."
+        },
+        {
+            "key": "tip_heropower_ice",
+            "value": "Friere einen Gegner für 1 Zug ein."
+        },
+        {
+            "key": "tip_heropower_plant",
+            "value": "Heile 2 LP."
+        },
+        {
+            "key": "tip_heropower_psychic",
+            "value": "Der Gegner wirft zufällig eine Karte aus seiner Hand ab."
+        },
+        {
+            "key": "tip_heropower_rock",
+            "value": "Die Ziel-Figur erhält +1 Rüstung."
+        },
+        {
+            "key": "tip_heropower_shadow",
+            "value": "Das Ziel wird verflucht."
+        },
+        {
+            "key": "tip_heropower_water",
+            "value": "Ziehe eine Karte."
+        },
+        {
+            "key": "turn_popup.your_turn",
+            "value": "DEIN ZUG"
+        },
+        {
+            "key": "turn_popup.opponent_turn",
+            "value": "ZUG DES GEGNERS"
+        },
+        {
+            "key": "status.addattack.title",
+            "value": "Angriffsbonus"
+        },
+        {
+            "key": "status.addattack.desc",
+            "value": "Erhält für begrenzte Zeit +<value> Angriff."
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "LP-Bonus"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "Erhält für begrenzte Zeit +<value> LP."
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "Manakosten-Modifikator"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "Manakosten werden für kurze Zeit um <value> angepasst."
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "Tarnung"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "Kann nicht angegriffen oder anvisiert werden, bis es handelt."
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "Unverwundbarkeit"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "Kann für <value> Zug(e) nicht angegriffen werden."
+        },
+        {
+            "key": "status.shell.title",
+            "value": "Hülle"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "Ignoriert die erste Schadensquelle, die es treffen würde."
+        },
+        {
+            "key": "status.protection.title",
+            "value": "Spott"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "Gegner müssen diese Karte vor anderen Verbündeten angreifen."
+        },
+        {
+            "key": "status.protected.title",
+            "value": "Geschützt"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "Kann nicht angegriffen werden, solange ein Spott-Verbündeter schützt."
+        },
+        {
+            "key": "status.armor.title",
+            "value": "Rüstung"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "Verringert erlittenen Schaden um <value>."
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "Zauberimmunität"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "Kann nicht von Zaubern anvisiert oder beschädigt werden."
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "Fähigkeitsimmunität"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "Kann nicht von Charakterfähigkeiten anvisiert werden; Feenkräfte wirken weiterhin."
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "Todesberührung"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "Zerstört jede Figur, der es Schaden zufügt."
+        },
+        {
+            "key": "status.fury.title",
+            "value": "Wut"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "Kann pro Zug zweimal angreifen."
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "Einschüchtern"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "Von diesem Effekt beschädigte Feinde kontern nicht."
+        },
+        {
+            "key": "status.flying.title",
+            "value": "Flug"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "Kann beim Angriff Spott-Blocker ignorieren."
+        },
+        {
+            "key": "status.trample.title",
+            "value": "Überrennen"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "Überschüssiger Schaden an Blockern trifft den gegnerischen Spieler."
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "Overkill"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "Überschüssiger Schaden heilt diese Karte."
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "Lebensraub"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "Heilt den Besitzer um den zugefügten Schaden."
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "Stille"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "Fähigkeiten sind deaktiviert."
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "Gelähmt"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "Kann für <value> Zug(e) nicht handeln."
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "Vergiftet"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "Verliert zu Beginn jedes Zuges <value> LP."
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "Schlaf"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "Wird zu Rundenbeginn nicht bereit."
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "Eingefroren"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "Kann für <value> Zug(e) nicht handeln."
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "Verflucht"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "Verliert zu Beginn des Zuges seines Besitzers <value> Angriff."
+        },
+        {
+            "key": "status.ghost.title",
+            "value": "Geist"
+        },
+        {
+            "key": "status.ghost.desc",
+            "value": "Während des Fluchs erhält diese Karte +5 Angriff."
+        },
+        {
+            "key": "status.burned.title",
+            "value": "Verbrannt"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "Verliert zu Beginn jedes Zuges <value> LP."
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "Fallenumgehung"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "Löst beim Handeln keine feindlichen Fallen aus."
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "Luft-Spott"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "Provoziert nur fliegende Angreifer und schützt alle Verbündeten."
+        },
+        {
+            "key": "status.protectedflying.title",
+            "value": "Vor Fliegern geschützt"
+        },
+        {
+            "key": "status.protectedflying.desc",
+            "value": "Kann nicht von fliegenden Gegnern angegriffen werden, solange ein Luft-Spott-Verbündeter da ist."
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "Immun gegen Angriffsverlust"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "Angriff kann nicht verringert werden."
+        },
+        {
+            "key": "evolves_to",
+            "value": "Entwickelt sich zu"
+        },
+        {
+            "key": "cardzoompanel.trait_label",
+            "value": "EIGENSCHAFT"
+        },
+        {
+            "key": "cardzoompanel.trait_format",
+            "value": "<b>{0}</b>: {1}\n \n "
+        },
+        {
+            "key": "cardzoompanel.evolution_label",
+            "value": "ENTWICKLUNG"
+        },
+        {
+            "key": "cardzoompanel.evolution_description",
+            "value": "Das Monster wird sich in {0} Zügen weiterentwickeln"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minute",
+            "value": "Das nächste Turnier beginnt in 1 Minute"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minutes",
+            "value": "Das nächste Turnier beginnt in {0} Minuten"
+        },
+        {
+            "key": "main_menu.tournament_countdown_second",
+            "value": "Das nächste Turnier beginnt in 1 Sekunde"
+        },
+        {
+            "key": "main_menu.tournament_countdown_seconds",
+            "value": "Das nächste Turnier beginnt in {0} Sekunden"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hour",
+            "value": "Das nächste Turnier beginnt in 1 Stunde"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hours",
+            "value": "Das nächste Turnier beginnt in {0} Stunden"
+        },
+        {
+            "key": "shop",
+            "value": "Shop"
+        },
+        {
+            "key": "tip_hand_limit_message",
+            "value": "Deine Hand ist voll – du kannst nicht mehr als {0} Karten halten. Spiele oder wirf Karten ab, um neue zu ziehen."
+        },
+        {
+            "key": "tip_card_evolution_message",
+            "value": "{0} hat sich gerade weiterentwickelt! Charaktere entwickeln sich, nachdem sie {1} deiner Runden auf dem Spielfeld überlebt haben. Wenn die weiterentwickelte Form noch auf dem Spielfeld ist, wird ihre 'Beim Ausspielen'-Fähigkeit erneut ausgelöst, und alle negativen Statuseffekte werden zuerst entfernt."
+        }
+    ]
+}

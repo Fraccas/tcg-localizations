@@ -1,0 +1,3524 @@
+{
+    "entries": [
+        {
+            "key": "--_guild_points",
+            "value": "-- points de guilde"
+        },
+        {
+            "key": "0",
+            "value": "0"
+        },
+        {
+            "key": "1",
+            "value": "1"
+        },
+        {
+            "key": "1.",
+            "value": "1."
+        },
+        {
+            "key": "1._scan_the_qr_code_shown_above_2._choose_your_desired_wallet_account_in_pera_3._enter_0_for_the_algo_amount_to_send_4._sign_the_txn_in_the_pera_mobile_app_5._click_the_confirm_button_to_the_right",
+            "value": "1. SCANNER LE CODE QR AFFICHÉ CI-DESSUS\n 2. CHOISIR VOTRE COMPTE DE PORTEFEUILLE SOUHAITÉ DANS PERA\n 3. SAISIR 0 POUR LE MONTANT ALGO À ENVOYER\n 4. SIGNER LA TXN DANS L'APPLICATION MOBILE PERA\n 5. CLIQUER SUR LE BOUTON CONFIRMER À DROITE"
+        },
+        {
+            "key": "100",
+            "value": "100"
+        },
+        {
+            "key": "100_essence",
+            "value": "100 ESSENCE"
+        },
+        {
+            "key": "1000",
+            "value": "1000"
+        },
+        {
+            "key": "1000_xp",
+            "value": "1000 XP"
+        },
+        {
+            "key": "2",
+            "value": "2"
+        },
+        {
+            "key": "2_rare_packs",
+            "value": "2 paquets rares"
+        },
+        {
+            "key": "2_standard_packs",
+            "value": "2 paquets standards"
+        },
+        {
+            "key": "20",
+            "value": "20"
+        },
+        {
+            "key": "25_xp",
+            "value": "25 XP"
+        },
+        {
+            "key": "250",
+            "value": "250"
+        },
+        {
+            "key": "3",
+            "value": "3"
+        },
+        {
+            "key": "30_essence",
+            "value": "30 ESSENCE"
+        },
+        {
+            "key": "30_xp",
+            "value": "30 XP"
+        },
+        {
+            "key": "300",
+            "value": "300"
+        },
+        {
+            "key": "3000",
+            "value": "3000"
+        },
+        {
+            "key": "333",
+            "value": "333"
+        },
+        {
+            "key": "333_xp",
+            "value": "333 xp"
+        },
+        {
+            "key": "3333",
+            "value": "3333"
+        },
+        {
+            "key": "5",
+            "value": "5"
+        },
+        {
+            "key": "50_essence",
+            "value": "50 ESSENCE"
+        },
+        {
+            "key": "50_xp",
+            "value": "50 XP"
+        },
+        {
+            "key": "500",
+            "value": "500"
+        },
+        {
+            "key": "500_essence",
+            "value": "500 ESSENCE"
+        },
+        {
+            "key": "533",
+            "value": "533"
+        },
+        {
+            "key": "55_guild_pts_70_coins_each_150_xp_each",
+            "value": "55 pts de guilde\n 70 pièces chacune\n 150 xp chacune"
+        },
+        {
+            "key": "60",
+            "value": "60"
+        },
+        {
+            "key": "75_xp",
+            "value": "75 XP"
+        },
+        {
+            "key": "9",
+            "value": "9"
+        },
+        {
+            "key": "99",
+            "value": "99"
+        },
+        {
+            "key": "aaaaa",
+            "value": "AAAAA"
+        },
+        {
+            "key": "ability_1",
+            "value": "Capacité 1"
+        },
+        {
+            "key": "accept",
+            "value": "ACCEPTER"
+        },
+        {
+            "key": "account",
+            "value": "compte"
+        },
+        {
+            "key": "account_address",
+            "value": "Adresse du compte"
+        },
+        {
+            "key": "account_link",
+            "value": "LIEN DE COMPTE"
+        },
+        {
+            "key": "account_recovery",
+            "value": "RÉCUPÉRATION DE COMPTE"
+        },
+        {
+            "key": "add",
+            "value": "AJOUTER"
+        },
+        {
+            "key": "admin_team",
+            "value": "équipe d'administration"
+        },
+        {
+            "key": "adventure",
+            "value": "AVENTURE"
+        },
+        {
+            "key": "adventures",
+            "value": "AVENTURES"
+        },
+        {
+            "key": "antonio_f.",
+            "value": "Antonio F."
+        },
+        {
+            "key": "asset_earnings",
+            "value": "REVENUS D'ACTIFS"
+        },
+        {
+            "key": "asset_forger",
+            "value": "FORGEUR D'ACTIFS"
+        },
+        {
+            "key": "asstes_total",
+            "value": "TOTAL DES ACTIFS"
+        },
+        {
+            "key": "audio",
+            "value": "Audio"
+        },
+        {
+            "key": "avatars",
+            "value": "AVATARS"
+        },
+        {
+            "key": "backgrounds",
+            "value": "FONDS D'ÉCRAN"
+        },
+        {
+            "key": "batlepass",
+            "value": "PASSES DE BATAILLE"
+        },
+        {
+            "key": "battle_pass",
+            "value": "PASS DE\n BATAILLE"
+        },
+        {
+            "key": "battlepass_rewards",
+            "value": "Récompenses du pass de bataille"
+        },
+        {
+            "key": "block",
+            "value": "BLOQUER"
+        },
+        {
+            "key": "body",
+            "value": "CORPS"
+        },
+        {
+            "key": "bronze_iii",
+            "value": "BRONZE iii"
+        },
+        {
+            "key": "brows",
+            "value": "SOURCILS"
+        },
+        {
+            "key": "build_deck",
+            "value": "CONSTRUIRE UN PAQUET"
+        },
+        {
+            "key": "built_with",
+            "value": "CONSTRUIT AVEC"
+        },
+        {
+            "key": "buy",
+            "value": "ACHETER"
+        },
+        {
+            "key": "buy_cards",
+            "value": "ACHETER DES CARTES"
+        },
+        {
+            "key": "buy_pack",
+            "value": "ACHETER UN PAQUET"
+        },
+        {
+            "key": "cancel",
+            "value": "ANNULER"
+        },
+        {
+            "key": "cancelled",
+            "value": "ANNULÉ"
+        },
+        {
+            "key": "card",
+            "value": "CARTE"
+        },
+        {
+            "key": "card.alfrost.text",
+            "value": "ASSAUT"
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "Furie"
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "Chaque tour, gagnez +1 armure."
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>Attaque</b> : Maudire le monstre cible"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "Lorsque vous tuez un autre personnage avec cette créature, piochez 2 cartes."
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>Évasion de piège :</b> Ne déclenche pas les pièges lors de l'attaque.\n Gagnez +1 dégâts pour chaque piège ennemi en jeu."
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>Évasion de piège :</b> Ne déclenche pas les pièges lors de l'attaque."
+        },
+        {
+            "key": "card.bay.text",
+            "value": "Lorsque une créature d'Eau que vous possédez meurt, piochez une carte."
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>Mort :</b> Piochez une carte."
+        },
+        {
+            "key": "card.bora.text",
+            "value": "Furtivité"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "Après avoir attaqué le joueur, gagnez 2 mana.\n "
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>Jouer :</b> Le personnage gagne brûlure et subit 2 dégâts par tour."
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>Jouer :</b> Défaussez une carte aléatoire de la main du joueur et piochez deux nouvelles cartes."
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "Furtivité"
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "<b>Lancer :</b> Accorde +2 armure à tous les alliés en jeu. Coûte 5 mana et utilise une action."
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "Au début de chaque tour, piochez 1 carte"
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "Hâte"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "Portée : Les monstres volants doivent attaquer ce monstre. "
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "Dégâts de sort +1."
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>Jouer</b> : Invoque un bébé Jagur.\n Toutes les Chats +1 attaque."
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>Tuer :</b> Piochez deux cartes."
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "Provocation\n Coquille"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "Gagnez 1 mana."
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "Les personnages ennemis ont -1 attaque.\n Peut ignorer la provocation."
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "Volant / Évolue en Cryonix\n <b>Jouer :</b> Gèle un personnage ennemi"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "Furtivité"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>Jouer :</b> Malédiction."
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>Jouer</b> : Maudire tous les personnages en jeu."
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "Immunité aux sorts\n Coquille"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>Jouer :</b> Sélectionnez un personnage cible de n'importe quel côté et envoyez-le à l'autre joueur.\n Action : Répétez pour 3 mana."
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>Jouer :</b> Échangez ce monstre avec un monstre ennemi coûtant 4 mana. "
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "Provocation"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "Immunité aux sorts"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>Jouer :</b> Empoisonne un monstre cible"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>Jouer :</b> Donne +2/2"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>Attaque :</b>Lancez un D6, à 4+ gagnez +3 attaque jusqu'à la fin du tour."
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "Provocation"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "Piétinement\n Ignorer la provocation"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "Furie"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "Découvrez un Dragon."
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "Provocation"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>Jouer</b> : Silence un personnage cible, puis maudis un personnage cible"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>Jouer</b> : Maudire tous les personnages en jeu"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>Attaque</b> : Maudire le monstre cible"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "Tous les monstres Électriques coûtent 2 mana de moins (y compris les ennemis)"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>Jouer :</b> L'adversaire défausse une carte aléatoire"
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>Jouer :</b> Détruit un personnage avec 3 attaque ou moins."
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "Au début de chaque tour, révéler la main de l'adversaire. Dure jusqu'à 3 tours. "
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "Le porteur gagne 2 armure et provocation."
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "Attaque +1.\n Le porteur ne subit pas de dégâts lors de l'attaque."
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "Attaque +2\n Dure deux attaques"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "Gagnez 2 mana supplémentaires par tour pendant 4 tours."
+        },
+        {
+            "key": "card.espe.text",
+            "value": "Contrôle mental sur un personnage ennemi cible avec un coût de mana de 5+ jusqu'à ce que ce personnage quitte le plateau"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>Jouer :</b> Donne +2/2.\n Soigne le joueur lorsqu'il inflige des dégâts."
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>Jouer :</b> Dégâts de 2 à tous."
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>Jouer :</b> Contrôle mental sur un personnage ennemi avec un coût de mana de 5 ou moins"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>Attaque :</b> Brûle l'ennemi. Ils perdent 2 PV par tour."
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>Jouer :</b> Contrôle mental sur un personnage cible coûtant 2 mana ou moins"
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>Jouer :</b> Contrôle mental sur un personnage cible coûtant 3 mana ou moins"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>Jouer :</b> Sélectionnez un personnage cible avec un coût de mana de 2 ou moins de n'importe quel côté et envoyez-le à l'autre joueur."
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "Lorsque l'adversaire défausse une carte de personnage, cette créature devient une copie du personnage défaussé."
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "Lorsque l'adversaire défausse un sort, crée une copie à coût zéro mana dans votre main.\n "
+        },
+        {
+            "key": "card.froster.text",
+            "value": "Lors de l'attaque, lancez un D6. À 4+ gagnez +6 attaque."
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "Immunité aux sorts\n Immunité aux capacités\n Ignorer la provocation"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "Au début de chaque tour, piochez 1 carte"
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "Après avoir joué un sort, gagnez +2 attaque.\n <b>Volant</b> Peut ignorer la provocation"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "Après avoir joué un sort, gagnez +2 attaque."
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>Attaque :</b> Malédiction"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "Chaque tour, gagnez +1 armure."
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte."
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "Hâte"
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>Attaque :</b> Poison.\n <b>Volant :</b> Peut ignorer la provocation."
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "Après avoir joué un sort, gagnez +2 attaque."
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "Au début de chaque tour, gagnez +1 attaque."
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "Au début de chaque tour, piochez 1 carte"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>Jouer :</b> Dégâts de 2 à tous."
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>Jouer :</b> Guérit un personnage de tous les effets négatifs et accorde +2 PV"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>Lancer (2) :</b> Guérit le joueur de 3 PV. "
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>Jouer :</b> Donne +2/2.\n <b>Action :</b> Charge."
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>Jouer :</b> Silence la carte cible."
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>Provocation</b>\n <b>Chaque tour :</b> Tue les personnages avec l'attaque la plus basse.\n "
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>Jouer :</b> Ajoute Malédiction de la Souffrance à la cible"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "Furie\n Chaque tour, gagnez +1 armure."
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte.\n Immunité à la perte d'attaque"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "<b>Mort :</b> Piochez une carte."
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "<b>Tour :</b> Piochez une carte."
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte."
+        },
+        {
+            "key": "card.hato.text",
+            "value": "Toucher mortel"
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "Chaque tour, gagnez +1 attaque."
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "Une ancienne Fée Fracctal Électrique qui accorde une action supplémentaire à un monstre électrique"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "Une ancienne Fée Fracctal de Feu qui peut infliger 1 dégât à n'importe quelle carte ou joueur."
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "Une ancienne Fée Fracctal de Glace qui peut geler n'importe quelle carte pendant 1 tour."
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "Une ancienne Fée Fracctal de Plante qui soigne les personnages et les joueurs de 2 PV"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "Une ancienne Fée Fracctal Psychique qui peut forcer votre adversaire à défausser une carte de sa main"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "Une ancienne Fée Fracctal de Roche qui accorde +1 Armure à n'importe quelle carte sur le plateau. "
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "Une ancienne Fée Fracctal d'Ombre qui peut maudire n'importe quelle carte en jeu. "
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "Une ancienne Fée Fracctal d'Eau qui permet au joueur de piocher une carte supplémentaire. "
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>Attaque :</b> Brûle l'ennemi. Ils perdent 2 PV par tour."
+        },
+        {
+            "key": "card.hito.text",
+            "value": "A +3 attaque pendant le tour de l'adversaire."
+        },
+        {
+            "key": "card.ice_town.text",
+            "value": "Toutes les créatures de Glace alliées ont +1 attaque et +1 PV."
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "Furie"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>Mort :</b> Inflige 2 dégâts au joueur ennemi."
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>Attaque</b> : Maudire le monstre cible"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "Ignorer la provocation"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>Jouer :</b> Gagne Provocation ou Furie"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>Tuer :</b> Piochez deux cartes.\n <b>Mort :</b> Piochez une carte."
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "A +3 attaque pendant le tour de l'adversaire."
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "Coquille\n Provocation"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>Attaque :</b> Poison."
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "Assaut / Volant"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "Toucher mortel"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>Jouer</b> : Invoque un Lizo\n Tous les Reptiles +1 attaque."
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>Jouer</b> : Invoque un Lizo\n Tous les Reptiles +2 attaque."
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "Provocation"
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>Jouer :</b> Donne +2/2.\n <b>Volant :</b> Peut ignorer la provocation."
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>Jouer :</b> Donne +2/2\n <b>Jouer :</b> Soigne le joueur de 4 PV\n <b>Volant :</b> Peut ignorer la provocation"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>Début de tour : </b>Toutes les cartes Plante se soignent de 3."
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "Tous les personnages ennemis ont -2 attaque."
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "Provocation\n Coquille"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "Au début de votre tour, cette créature se soigne complètement."
+        },
+        {
+            "key": "card.minask.text",
+            "value": "Régénération"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "À chaque fois qu'un autre personnage meurt, piochez 2 cartes."
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "À chaque fois qu'un autre personnage meurt, piochez 2 cartes."
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "Dégâts de sort +2.\n <b>Attaque :</b> Brûle la carte attaquée."
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "Au début de chaque tour, gagnez +2 attaque."
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "ASSAUT"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>Jouer :</b> Contrôle mental sur un personnage ennemi cible avec une attaque de 3 ou moins jusqu'à ce que cette créature quitte le plateau"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>Attaque</b> : Maudire le monstre cible"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "Piétinement"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "Les dégâts excédentaires soignent les PV de cette créature de la différence"
+        },
+        {
+            "key": "card.muni.text",
+            "value": "Lors du jeu, révéler la main de l'adversaire"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "Au début de votre tour, cette créature se soigne complètement."
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "Furie"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "Lors de l'attaque d'un joueur, gagnez 2 mana."
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "Lors du jeu, donne +2 PV à une autre créature jusqu'à votre prochain tour."
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "Furie"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>Jouer :</b> Révéler la main de l'adversaire\n <b>Action :</b> Défaussez une carte aléatoire de la main de l'adversaire coûtant 3 mana ou moins. Coûte 2 mana. "
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>Fin de tour :</b> Entre en furtivité si vous avez d'autres personnages."
+        },
+        {
+            "key": "card.operant.text",
+            "value": "<b>Jouer :</b> Inflige 1 dégât."
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "A +3 attaque pendant le tour de l'adversaire.\n Provocation"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "A +3 attaque pendant le tour de l'adversaire.\n Provocation"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "Lors de l'attaque, lancez un D6. À 4+ gagnez +3 attaque."
+        },
+        {
+            "key": "card.owind.text",
+            "value": "Immunité aux sorts\n Ignorer la provocation"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>Jouer :</b> Détruit un personnage avec 4 attaque ou moins."
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>Mort :</b> Piochez une carte."
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "Furtivité\n <b>Jouer :</b> L'adversaire défausse une carte aléatoire\n Gagne +1 Attaque lors de la défausse de l'adversaire"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "Au début de votre tour, cette créature se soigne complètement."
+        },
+        {
+            "key": "card.petili.text",
+            "value": "Lors du jeu, donne +2/2 à une autre créature jusqu'à votre prochain tour."
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte."
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>Lancer (3) :</b> Inflige 2 dégâts.\n <b>Mort :</b> Invoque un œuf."
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "Après 3 tours, se transforme en une Phyra."
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>Lancer (2) :</b> Lancez un D6, à 4+ renvoyez la cible dans la main."
+        },
+        {
+            "key": "card.picko.text",
+            "value": "<b>Jouer :</b> Inflige 1 dégât."
+        },
+        {
+            "key": "card.plator.text",
+            "value": "Lorsque vous tuez un autre personnage avec cette créature, piochez 2 cartes."
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>Jouer :</b> Donne +2 PV"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "Le monstre cible gagne Furie. Peut attaquer deux fois par tour."
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "La cible gagne 1 attaque et furie."
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "La cible se baigne dans un arôme doux, gagnant +2 PV et Provocation."
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "La cible gagne 2 armure réduisant les dégâts directs des personnages de 2."
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "Cible un personnage sur le plateau avec un coût de mana de 3 ou moins pour Contrôle Mental pendant 1 tour. La cible gagne Assaut. "
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "La cible gagne 2 armure réduisant les dégâts directs des personnages de 2."
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "La cible gagne Malédiction de la Souffrance causant 3 dégâts à chaque attaque."
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "La cible gagne coquille et se soigne complètement."
+        },
+        {
+            "key": "card.prido.text",
+            "value": "Furie\n Chaque tour, gagnez +1 attaque."
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>Jouer :</b> Sélectionnez un personnage de n'importe quel côté et envoyez-le à l'autre joueur.\n Au début de chaque tour inflige 2 dégâts à tous les alliés. "
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>Mort :</b> Invoque un œuf."
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>Jouer :</b> Inflige 1 dégât."
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>Jouer :</b> Inflige 2 dégâts."
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>Attaque</b> : Maudire le monstre cible"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>Chaque tour :</b> Tue les personnages avec l'attaque la plus basse (y compris les alliés et ce monstre)."
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "Toutes les créatures Roche gagnent : \"Subit 1 dégât pour gagner +1 attaque\". Coût de 1 mana par utilisation."
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "Régénération"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>Attaque :</b> Poison."
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "Régénération"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "Chaque tour, gagnez +1 armure."
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "Chaque tour, gagnez +1 attaque.\n <b>Volant</b> Peut ignorer la provocation"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "Dégâts de sort +1."
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>Attaque :</b> Poison."
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "Provocation\n "
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>Jouer :</b> Renvoie un personnage dans votre main."
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "Volant"
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "Lors de l'attaque, lancez un D6. À 4+ gagnez +6 attaque."
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "Ignorer la provocation"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "Ignorer la provocation"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "Toucher mortel"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "Invoque 3 Pyro dans votre main."
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "Détruit toutes les créatures sur le plateau"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "Réduit les PV de tous les personnages à 1."
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "Tous les monstres Électriques en jeu gagnent +2 Attaque (y compris les ennemis). "
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "Détruit la cible."
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "Silence un personnage cible, puis maudis un personnage cible"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "La carte cible gagne \"Lorsque un personnage allié entre en jeu, détruis ceci\"."
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "Regardez les 7 prochaines cartes de votre deck et prenez 1 carte Électrique dans votre main."
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "La carte cible gagne \"Lorsque un personnage allié entre en jeu, détruis ceci\"."
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "Inflige 3 dégâts.\n Piochez une carte."
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "Réduit les PV de tous les personnages à 1."
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "Tous les personnages Plante alliés gagnent +2/2"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "Invoque 3 Hammi dans votre main."
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "Toutes les cartes retournent dans la main de leur propriétaire."
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "Regardez les 7 prochaines cartes de votre deck et choisissez 1 carte de Glace."
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "Détruit toutes les cartes gelées sur le plateau"
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "Inflige 2 dégâts à tous les personnages"
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "Invoque trois Lampi 2/1 dans votre main."
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "Inflige 2 dégâts à tous les monstres ennemis."
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "La cible gagne +4/4 et s'endort."
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "Inflige 1 dégât à une carte aléatoire.\n Répétez X fois."
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "L'adversaire défausse 3 cartes aléatoires de sa main."
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "Prenez le contrôle d'un personnage ennemi pendant 3 tours, ou jusqu'à ce qu'il évolue"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "Détruit toutes les créatures sur le plateau"
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "Détruit tous les emplacements en jeu. "
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "La cible gagne coquille, ignore le prochain coup."
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "Paralyse la cible pendant 3 tours."
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "Réduit tous les PV et Attaques des personnages à 1"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "La créature cible gagne \"Subit 3 dégâts avant d'attaquer\"."
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "Détruit le personnage avec les PV les plus bas."
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "La créature cible gagne \"Subit 3 dégâts avant d'attaquer\"."
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "Inflige 1 dégât.\n Piochez une carte."
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "Toutes les cartes retournent dans la main de leur propriétaire."
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "La carte cible gagne \"Lorsque attaquée, l'adversaire doit défausser 1 carte aléatoire\"."
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "Empoisonne toutes les cartes en jeu"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "Regardez les 7 prochaines cartes de votre deck et choisissez 1 carte d'Eau."
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "Renvoie la cible ennemie dans la main du propriétaire."
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "Renvoie n'importe quelle cible dans la main du propriétaire, puis l'adversaire défausse une carte aléatoire de sa main."
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>Jouer :</b> Détruit un personnage avec 2 attaque ou moins."
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>Attaque :</b> Empoisonne la cible. "
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>Attaque :</b> Empoisonne la cible. "
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "Les personnages ennemis ont -1 attaque.\n Peut ignorer la provocation."
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "Lors de l'attaque d'un joueur, gagnez 1 mana."
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>Début de tour : </b>Toutes les cartes Ombre alliées gagnent +1 attaque."
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "Furtivité\n Toutes les Chats +1 attaque."
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "<b>Assaut de Boue :</b> Gagne Assaut s'il y a un emplacement de Glace en jeu."
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "Tous les personnages Roche alliés ont +1 PV.\n Provocation"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "ASSAUT"
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "Furie"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "<b>Jouer :</b> Inflige 1 dégât à toutes les autres cartes en jeu."
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "Toutes les cartes Ombre alliées ont +2 Attaque."
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "Toutes les cartes Plante alliées ont +2 PV."
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "Lorsque vous jouez un monstre psychique ou prenez le contrôle d'un monstre de l'adversaire, l'adversaire défausse une carte aléatoire. "
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "Toutes les créatures Roche alliées ont +2 PV."
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "Toutes les créatures de Feu alliées ont +2 attaque."
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "Les cartes d'Eau dans votre main coûtent 1 de moins."
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>Piège :</b> Paralyse la cible pendant 1 tour et inflige 3 dégâts"
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>Piège :</b> Dégâts de 2 à tous."
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>Piège :</b> Se transforme en poisson."
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>Piège :</b> Gèle la cible pendant 1 tour et inflige 3 dégâts"
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>Piège :</b> Empoisonne et inflige 3 dégâts au prochain attaquant."
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "Lorsque le prochain personnage ennemi attaque, prenez le Contrôle Mental de celui-ci pendant 1 tour et donnez-lui provocation. "
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>Piège :</b> Paralyse le prochain attaquant."
+        },
+        {
+            "key": "card.trats.text",
+            "value": "Après avoir joué un sort, gagnez +2 attaque."
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "Hâte\n Peut Ignorer la Provocation"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "Provocation"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>Mort :</b> Piochez une carte.\n Ignore la Provocation."
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "Immunité aux Sorts\n Ignorer la Provocation"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>Jouer</b> : Fixe l'attaque de la carte cible à 3"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "Provocation"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "Lors du jeu, empoisonne toutes les cartes en jeu."
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "Tous les monstres Électriques coûtent 2 mana de moins "
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "Furtivité\n Attaque : Poison"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "Ne peut pas attaquer. Au début de votre tour, met un allié aléatoire en sommeil."
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "Toutes les créatures de Feu gagnent : \"Subit 1 dégât pour gagner +1 attaque\". Coût de 1 mana par utilisation."
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>Jouer</b> : Fixe l'attaque de la carte cible à 1"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>Jouer :</b> Dégâts de 1 à tous."
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>Jouer :</b> Silence une carte cible."
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "Chaque tour, gagnez +1 armure."
+        },
+        {
+            "key": "card.waru.text",
+            "value": "A +3 attaque pendant le tour de l'adversaire."
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "Les personnages ennemis ont -1 attaque.\n <b>Action :</b> +1 attaque aux alliés."
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>Fin de tour :</b> Entre en furtivité si vous avez d'autres personnages."
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>Fin de tour :</b> Entre en furtivité si vous avez d'autres personnages."
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>Jouer :</b> Renvoie un personnage dans votre main."
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>Jouer :</b> Gagne Provocation ou Furie"
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "Lors de l'attaque d'un joueur, gagnez 1 mana."
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>Réduction d'emplacement</b> : Tout emplacement du même type élémentaire a une réduction de mana de 1. "
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "Pour chaque carte d'emplacement en jeu du même type élémentaire gagne +2 PV. "
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "Immunité aux sorts"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "Immunité aux sorts"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "Provocation\n Coquille"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "Immunité aux sorts"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>Jouer :</b> Malédiction"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "À chaque fois qu'un autre personnage meurt, piochez 2 cartes."
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "Hâte / Volant"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "Au début de chaque tour, piochez 1 carte."
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "Tous les autres reptiles alliés gagnent +2 attaque."
+        },
+        {
+            "key": "card_artist",
+            "value": "ARTISTE DE CARTE"
+        },
+        {
+            "key": "card_description",
+            "value": "Description de la carte"
+        },
+        {
+            "key": "card_level",
+            "value": "NIVEAU DE CARTE"
+        },
+        {
+            "key": "cardback",
+            "value": "DOS DE CARTE"
+        },
+        {
+            "key": "cardbacks",
+            "value": "DOS DE CARTES"
+        },
+        {
+            "key": "cards_owned",
+            "value": "CARTES POSSEDÉES"
+        },
+        {
+            "key": "challenge",
+            "value": "DÉFI"
+        },
+        {
+            "key": "character",
+            "value": "PERSONNAGE"
+        },
+        {
+            "key": "characters",
+            "value": "Personnages"
+        },
+        {
+            "key": "chargement",
+            "value": "CHARGEMENT"
+        },
+        {
+            "key": "check_optin",
+            "value": "VÉRIFIER L'OPT-IN"
+        },
+        {
+            "key": "choose_a_quick_chat_option",
+            "value": "Choisissez une option de chat rapide"
+        },
+        {
+            "key": "claim",
+            "value": "RÉCLAMER"
+        },
+        {
+            "key": "claim_all",
+            "value": "RÉCLAMER TOUT"
+        },
+        {
+            "key": "click_this_button_to_generate_your_code_and_join_discord",
+            "value": "CLIQUER SUR CE BOUTON POUR GÉNÉRER VOTRE CODE ET REJOINDRE DISCORD"
+        },
+        {
+            "key": "click_to_chat",
+            "value": "CLIQUER POUR CHATER"
+        },
+        {
+            "key": "client_outdated",
+            "value": "CLIENT OBSOLÈTE"
+        },
+        {
+            "key": "clone",
+            "value": "CLÔNER"
+        },
+        {
+            "key": "close",
+            "value": "FERMER"
+        },
+        {
+            "key": "cloth",
+            "value": "TISSU"
+        },
+        {
+            "key": "code",
+            "value": "CODE"
+        },
+        {
+            "key": "code...",
+            "value": "Code..."
+        },
+        {
+            "key": "collection",
+            "value": "Collection"
+        },
+        {
+            "key": "common",
+            "value": "Commune"
+        },
+        {
+            "key": "community_guilds",
+            "value": "GUILDES COMMUNAUTAIRES"
+        },
+        {
+            "key": "confirm",
+            "value": "Confirmer"
+        },
+        {
+            "key": "confirm...",
+            "value": "Confirmer..."
+        },
+        {
+            "key": "confirm_delete",
+            "value": "CONFIRMER SUPPRESSION"
+        },
+        {
+            "key": "confirm_delete_account",
+            "value": "CONFIRMER SUPPRESSION DE COMPTE"
+        },
+        {
+            "key": "confirm_delete_guild",
+            "value": "CONFIRMER SUPPRESSION DE GUILDE"
+        },
+        {
+            "key": "connecting_to_server...",
+            "value": "Connexion au serveur..."
+        },
+        {
+            "key": "connecting_to_server....",
+            "value": "Connexion au serveur...."
+        },
+        {
+            "key": "continue",
+            "value": "CONTINUER"
+        },
+        {
+            "key": "cost",
+            "value": "COÛT"
+        },
+        {
+            "key": "cost_breakdown",
+            "value": "DÉTAIL DES COÛTS"
+        },
+        {
+            "key": "create",
+            "value": "CRÉER"
+        },
+        {
+            "key": "create_guild",
+            "value": "CRÉER UNE GUILDE"
+        },
+        {
+            "key": "create_username",
+            "value": "CRÉER UN NOM D'UTILISATEUR"
+        },
+        {
+            "key": "credits",
+            "value": "CRÉDITS"
+        },
+        {
+            "key": "crueltek",
+            "value": "CRUELTEK"
+        },
+        {
+            "key": "currently_in_the_main_menu",
+            "value": "Actuellement dans le menu principal"
+        },
+        {
+            "key": "currently_playing_a_solo_match...",
+            "value": "Actuellement en train de jouer un match solo..."
+        },
+        {
+            "key": "custom_player_decks",
+            "value": "PAQUETS PERSONNALISÉS DES JOUEURS"
+        },
+        {
+            "key": "customize",
+            "value": "PERSONNALISER"
+        },
+        {
+            "key": "customize_tamer",
+            "value": "PERSONNALISER LE DRESSEUR"
+        },
+        {
+            "key": "daily_rewards",
+            "value": "RÉCOMPENSES\n QUOTIDIENNES"
+        },
+        {
+            "key": "daily_daily_tournament",
+            "value": "TOURNOI QUOTIDIEN QUOTIDIEN"
+        },
+        {
+            "key": "daily_missions",
+            "value": "MISSIONS QUOTIDIENNES"
+        },
+        {
+            "key": "dangocat",
+            "value": "DANGOCAT"
+        },
+        {
+            "key": "dark_forest",
+            "value": "FORÊT OBSCURE"
+        },
+        {
+            "key": "day_1",
+            "value": "JOUR 1"
+        },
+        {
+            "key": "day_2",
+            "value": "JOUR 2"
+        },
+        {
+            "key": "day_3",
+            "value": "JOUR 3"
+        },
+        {
+            "key": "day_4",
+            "value": "JOUR 4"
+        },
+        {
+            "key": "day_5",
+            "value": "JOUR 5"
+        },
+        {
+            "key": "day_6",
+            "value": "JOUR 6"
+        },
+        {
+            "key": "day_7",
+            "value": "JOUR 7"
+        },
+        {
+            "key": "day_text",
+            "value": "texte du jour"
+        },
+        {
+            "key": "deal_25_damage_with_shadow_monsters",
+            "value": "Infliger 25 dégâts avec des monstres d'Ombre"
+        },
+        {
+            "key": "deal_50_damage_with_shadow_monsters",
+            "value": "Infliger 50 dégâts avec des monstres d'Ombre"
+        },
+        {
+            "key": "deck",
+            "value": "PAQUET"
+        },
+        {
+            "key": "deck_name",
+            "value": "Nom du paquet"
+        },
+        {
+            "key": "deck_select",
+            "value": "SÉLECTION DE PAQUET"
+        },
+        {
+            "key": "deck_title",
+            "value": "Titre du paquet"
+        },
+        {
+            "key": "decks",
+            "value": "PAQUETS"
+        },
+        {
+            "key": "decline",
+            "value": "REFUSER"
+        },
+        {
+            "key": "defeats",
+            "value": "DÉFAITES"
+        },
+        {
+            "key": "delete",
+            "value": "SUPPRIMER"
+        },
+        {
+            "key": "delete_account",
+            "value": "SUPPRIMER LE COMPTE"
+        },
+        {
+            "key": "delete_guild",
+            "value": "SUPPRIMER LA GUILDE"
+        },
+        {
+            "key": "deny",
+            "value": "REFUSER"
+        },
+        {
+            "key": "desc",
+            "value": "DESC"
+        },
+        {
+            "key": "description",
+            "value": "Description"
+        },
+        {
+            "key": "destroy_5_monsters_using_fire_team",
+            "value": "Détruire 5 monstres en utilisant l'équipe de Feu"
+        },
+        {
+            "key": "detail",
+            "value": "DÉTAIL"
+        },
+        {
+            "key": "dev_team",
+            "value": "ÉQUIPE DE DÉVELOPPEMENT"
+        },
+        {
+            "key": "devfraccas",
+            "value": "DevFraccas"
+        },
+        {
+            "key": "do_not_show_tips",
+            "value": "NE PAS AFFICHER LES CONSEILS"
+        },
+        {
+            "key": "dogson",
+            "value": "DOGSON"
+        },
+        {
+            "key": "download_pera",
+            "value": "TÉLÉCHARGER PERA"
+        },
+        {
+            "key": "earnings",
+            "value": "REVENUS"
+        },
+        {
+            "key": "earnings_per_day",
+            "value": "REVENUS PAR JOUR"
+        },
+        {
+            "key": "earnings_per_week",
+            "value": "REVENUS PAR SEMAINE"
+        },
+        {
+            "key": "edit",
+            "value": "MODIFIER"
+        },
+        {
+            "key": "elemental_types",
+            "value": "TYPES ÉLÉMENTAIRES"
+        },
+        {
+            "key": "elo",
+            "value": "ELO"
+        },
+        {
+            "key": "email",
+            "value": "E-mail"
+        },
+        {
+            "key": "e-mail",
+            "value": "E-mail"
+        },
+        {
+            "key": "email...",
+            "value": "E-mail..."
+        },
+        {
+            "key": "email_was_sent_with_a_code._enter_the_code_here_to_reset_your_password.",
+            "value": "Un e-mail avec un code a été envoyé.\n Entrez le code ici pour réinitialiser votre mot de passe."
+        },
+        {
+            "key": "emote",
+            "value": "ÉMOTE"
+        },
+        {
+            "key": "end_turn",
+            "value": "FIN\n DE TOUR"
+        },
+        {
+            "key": "enter_discord_code...",
+            "value": "Entrer le code Discord..."
+        },
+        {
+            "key": "enter_guild_description...",
+            "value": "Entrer la description de la guilde..."
+        },
+        {
+            "key": "enter_guild_name...",
+            "value": "Entrer le nom de la guilde..."
+        },
+        {
+            "key": "enter_your_email",
+            "value": "Entrez votre e-mail"
+        },
+        {
+            "key": "entry_fee",
+            "value": "FRAIS D'INSCRIPTION"
+        },
+        {
+            "key": "equipment",
+            "value": "Équipement"
+        },
+        {
+            "key": "error",
+            "value": "ERREUR"
+        },
+        {
+            "key": "error_msg",
+            "value": "Message d'erreur"
+        },
+        {
+            "key": "evolves_to_danish",
+            "value": "ÉVOLUE EN DANISH"
+        },
+        {
+            "key": "evolves_to_gracelia",
+            "value": "ÉVOLUE EN GRACELIA"
+        },
+        {
+            "key": "exit_game",
+            "value": "QUITTER LE JEU"
+        },
+        {
+            "key": "eyes",
+            "value": "YEUX"
+        },
+        {
+            "key": "fairy_powers",
+            "value": "POUVOIRS DE FÉE"
+        },
+        {
+            "key": "filters",
+            "value": "Filtres"
+        },
+        {
+            "key": "finding_opponent...",
+            "value": "Recherche d'adversaire..."
+        },
+        {
+            "key": "fire_deck",
+            "value": "PAQUET DE FEU"
+        },
+        {
+            "key": "flemmy_suit",
+            "value": "COSTUME FLEMMY"
+        },
+        {
+            "key": "forge",
+            "value": "FORGER"
+        },
+        {
+            "key": "forgot_password",
+            "value": "MOT DE PASSE OUBLIÉ"
+        },
+        {
+            "key": "fracctal_tcg_squad",
+            "value": "ÉQUIPE FRACCTAL TCG"
+        },
+        {
+            "key": "free",
+            "value": "GRATUIT"
+        },
+        {
+            "key": "friend_list_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "La liste d'amis n'est pas disponible en mode test.\n Installez le serveur API web pour utiliser cette fonction."
+        },
+        {
+            "key": "friends",
+            "value": "AMIS"
+        },
+        {
+            "key": "game_artist",
+            "value": "ARTISTE DU JEU"
+        },
+        {
+            "key": "game_developer",
+            "value": "développeur de jeu"
+        },
+        {
+            "key": "glasses",
+            "value": "LUNETTES"
+        },
+        {
+            "key": "gold_3",
+            "value": "OR 3"
+        },
+        {
+            "key": "gold_asset",
+            "value": "ACTIF D'OR"
+        },
+        {
+            "key": "graphics",
+            "value": "Graphismes"
+        },
+        {
+            "key": "grocelia",
+            "value": "GROCELIA"
+        },
+        {
+            "key": "guide_fairy",
+            "value": "FÉE GUIDE"
+        },
+        {
+            "key": "guild_description",
+            "value": "DESCRIPTION DE LA GUILDE"
+        },
+        {
+            "key": "guild_leader",
+            "value": "CHEF DE GUILDE"
+        },
+        {
+            "key": "guild_name",
+            "value": "NOM DE LA GUILDE"
+        },
+        {
+            "key": "guild_requests",
+            "value": "DEMANDES DE GUILDE"
+        },
+        {
+            "key": "guild_vault_cards",
+            "value": "CARTES DU COFFRE DE GUILDE"
+        },
+        {
+            "key": "guilds",
+            "value": "guildes"
+        },
+        {
+            "key": "hands",
+            "value": "MAINS"
+        },
+        {
+            "key": "head",
+            "value": "TÊTE"
+        },
+        {
+            "key": "in_progress",
+            "value": "EN COURS"
+        },
+        {
+            "key": "inbox",
+            "value": "BOÎTE DE RÉCEPTION"
+        },
+        {
+            "key": "james_ward",
+            "value": "James Ward"
+        },
+        {
+            "key": "join",
+            "value": "REJOINDRE"
+        },
+        {
+            "key": "join_discord",
+            "value": "REJOINDRE DISCORD"
+        },
+        {
+            "key": "join_guild",
+            "value": "REJOINDRE LA GUILDE"
+        },
+        {
+            "key": "join_with_code",
+            "value": "REJOINDRE AVEC CODE"
+        },
+        {
+            "key": "kick",
+            "value": "EXCLURE"
+        },
+        {
+            "key": "kill_5_monsters_using_fire_monsters",
+            "value": "Tuer 5 monstres en utilisant des monstres de Feu"
+        },
+        {
+            "key": "kill_5_monsters_using_plant_monsters",
+            "value": "Tuer 5 monstres en utilisant des monstres de Plante"
+        },
+        {
+            "key": "kk_honey",
+            "value": "KK HONEY"
+        },
+        {
+            "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "Le tableau des leaders n'est pas disponible en mode test.\n Installez le serveur API web pour utiliser cette fonction."
+        },
+        {
+            "key": "leave_guild",
+            "value": "QUITTER LA GUILDE"
+        },
+        {
+            "key": "level",
+            "value": "NIVEAU"
+        },
+        {
+            "key": "level_1",
+            "value": "NIVEAU 1"
+        },
+        {
+            "key": "level_5",
+            "value": "Niveau 5"
+        },
+        {
+            "key": "level_up_10_cards",
+            "value": "Monter 10 cartes de niveau"
+        },
+        {
+            "key": "level_up_5_cards",
+            "value": "Monter 5 cartes de niveau"
+        },
+        {
+            "key": "loading...",
+            "value": "CHARGEMENT..."
+        },
+        {
+            "key": "locations",
+            "value": "Emplacements"
+        },
+        {
+            "key": "login",
+            "value": "CONNEXION"
+        },
+        {
+            "key": "login_with_immutable",
+            "value": "SE CONNECTER AVEC IMMUTABLE"
+        },
+        {
+            "key": "logout",
+            "value": "DÉCONNEXION"
+        },
+        {
+            "key": "marc",
+            "value": "Marc"
+        },
+        {
+            "key": "master",
+            "value": "Maître"
+        },
+        {
+            "key": "max",
+            "value": "Max"
+        },
+        {
+            "key": "menu",
+            "value": "MENU"
+        },
+        {
+            "key": "missions",
+            "value": "MISSIONS"
+        },
+        {
+            "key": "monster",
+            "value": "MONSTRE"
+        },
+        {
+            "key": "monster_name",
+            "value": "Nom du monstre"
+        },
+        {
+            "key": "monsters",
+            "value": "Monstres"
+        },
+        {
+            "key": "mouth",
+            "value": "BOUCHE"
+        },
+        {
+            "key": "mulligan",
+            "value": "Mulligan"
+        },
+        {
+            "key": "multiplayer",
+            "value": "MULTIJoueur"
+        },
+        {
+            "key": "music",
+            "value": "Musique"
+        },
+        {
+            "key": "mythic",
+            "value": "Mythique"
+        },
+        {
+            "key": "name",
+            "value": "Nom"
+        },
+        {
+            "key": "new_password",
+            "value": "NOUVEAU MOT DE PASSE"
+        },
+        {
+            "key": "new_password...",
+            "value": "Nouveau mot de passe..."
+        },
+        {
+            "key": "new_text",
+            "value": "Nouveau texte"
+        },
+        {
+            "key": "next",
+            "value": "SUIVANT"
+        },
+        {
+            "key": "nicolas_oliver",
+            "value": "NICOLAS OLIVER"
+        },
+        {
+            "key": "nodejs",
+            "value": "NODEJS"
+        },
+        {
+            "key": "nose",
+            "value": "NEZ"
+        },
+        {
+            "key": "not_enrolled",
+            "value": "NON INSCRIT"
+        },
+        {
+            "key": "not_owned",
+            "value": "Non possédé"
+        },
+        {
+            "key": "ok",
+            "value": "OK"
+        },
+        {
+            "key": "ongoing",
+            "value": "EN COURS"
+        },
+        {
+            "key": "online_players",
+            "value": "JOUEURS EN LIGNE"
+        },
+        {
+            "key": "open_packs",
+            "value": "OUVRIR LES PAQUETS"
+        },
+        {
+            "key": "optin",
+            "value": "OPTIN"
+        },
+        {
+            "key": "optin_asa_txn",
+            "value": "OPTIN ASA TXN"
+        },
+        {
+            "key": "option_a",
+            "value": "Option A"
+        },
+        {
+            "key": "owned",
+            "value": "Possédé"
+        },
+        {
+            "key": "owned_assets",
+            "value": "ACTIFS POSSEDÉS"
+        },
+        {
+            "key": "ownership",
+            "value": "PROPRIÉTÉ"
+        },
+        {
+            "key": "pack",
+            "value": "PAQUET"
+        },
+        {
+            "key": "pack_description",
+            "value": "Description du paquet"
+        },
+        {
+            "key": "packs",
+            "value": "PAQUETS"
+        },
+        {
+            "key": "partners",
+            "value": "PARTENAIRES"
+        },
+        {
+            "key": "password",
+            "value": "Mot de passe"
+        },
+        {
+            "key": "password_recovery",
+            "value": "Récupération du mot de passe"
+        },
+        {
+            "key": "per_day",
+            "value": "par jour"
+        },
+        {
+            "key": "pera_account_uid",
+            "value": "UID DU COMPTE PERA"
+        },
+        {
+            "key": "pets",
+            "value": "ANIMAUX DE COMPAGNIE"
+        },
+        {
+            "key": "plant_starter",
+            "value": "démarreur de plante"
+        },
+        {
+            "key": "play",
+            "value": "JOUER"
+        },
+        {
+            "key": "play_a_match_to_re-activate",
+            "value": "Jouez un match pour réactiver"
+        },
+        {
+            "key": "play_with_code",
+            "value": "JOUER AVEC CODE"
+        },
+        {
+            "key": "player",
+            "value": "Joueur"
+        },
+        {
+            "key": "players",
+            "value": "JOUEURS"
+        },
+        {
+            "key": "practice",
+            "value": "PRATIQUE"
+        },
+        {
+            "key": "premium",
+            "value": "PREMIUM"
+        },
+        {
+            "key": "preview",
+            "value": "APERCU"
+        },
+        {
+            "key": "previous",
+            "value": "Précédent"
+        },
+        {
+            "key": "previous_password",
+            "value": "MOT DE PASSE PRÉCÉDENT"
+        },
+        {
+            "key": "prismatic",
+            "value": "Prismatique"
+        },
+        {
+            "key": "private",
+            "value": "PRIVÉ"
+        },
+        {
+            "key": "prizes",
+            "value": "PRIX"
+        },
+        {
+            "key": "profile",
+            "value": "PROFIL"
+        },
+        {
+            "key": "promote",
+            "value": "PROMOUVOIR"
+        },
+        {
+            "key": "purchase_pack",
+            "value": "ACHETER UN PAQUET"
+        },
+        {
+            "key": "quality",
+            "value": "Qualité"
+        },
+        {
+            "key": "quantity",
+            "value": "QUANTITÉ"
+        },
+        {
+            "key": "quit",
+            "value": "QUITTER"
+        },
+        {
+            "key": "rafael_santos",
+            "value": "Rafael Santos"
+        },
+        {
+            "key": "random",
+            "value": "ALÉATOIRE"
+        },
+        {
+            "key": "random_rare_reward",
+            "value": "RÉCOMPENSE RARE ALÉATOIRE"
+        },
+        {
+            "key": "rank",
+            "value": "RANG"
+        },
+        {
+            "key": "rankings",
+            "value": "CLASSEMENTS"
+        },
+        {
+            "key": "rare",
+            "value": "Rare"
+        },
+        {
+            "key": "rare_avatar",
+            "value": "AVATAR RARE"
+        },
+        {
+            "key": "rarity",
+            "value": "Rareté"
+        },
+        {
+            "key": "raz",
+            "value": "RaZ"
+        },
+        {
+            "key": "recover_username",
+            "value": "RÉCUPÉRER LE NOM D'UTILISATEUR"
+        },
+        {
+            "key": "register",
+            "value": "S'INSCRIRE"
+        },
+        {
+            "key": "remove",
+            "value": "SUPPRIMER"
+        },
+        {
+            "key": "requests",
+            "value": "DEMANDES"
+        },
+        {
+            "key": "resend_confirmation",
+            "value": "RENVOYER LA CONFIRMATION"
+        },
+        {
+            "key": "resolution",
+            "value": "Résolution"
+        },
+        {
+            "key": "result",
+            "value": "résultat"
+        },
+        {
+            "key": "resume",
+            "value": "REPRENDRE"
+        },
+        {
+            "key": "retype",
+            "value": "RETAPER"
+        },
+        {
+            "key": "rewards",
+            "value": "RÉCOMPENSES"
+        },
+        {
+            "key": "round",
+            "value": "tour"
+        },
+        {
+            "key": "round_3",
+            "value": "TOUR 3"
+        },
+        {
+            "key": "save",
+            "value": "SAUVEGARDER"
+        },
+        {
+            "key": "save_changes",
+            "value": "SAUVEGARDER LES CHANGEMENTS"
+        },
+        {
+            "key": "save_success",
+            "value": "SAUVEGARDE RÉUSSIE"
+        },
+        {
+            "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
+            "value": "SCANNER LE CODE QR\n SIGNER LA TXN DANS L'APPLICATION MOBILE PERA\n CLIQUER SUR LE BOUTON CONFIRMER À DROITE"
+        },
+        {
+            "key": "search",
+            "value": "RECHERCHER"
+        },
+        {
+            "key": "search_by_name",
+            "value": "RECHERCHER PAR NOM"
+        },
+        {
+            "key": "select",
+            "value": "SÉLECTIONNER"
+        },
+        {
+            "key": "select_a_card",
+            "value": "Sélectionner une carte"
+        },
+        {
+            "key": "select_a_choice",
+            "value": "SÉLECTIONNER UN CHOIX"
+        },
+        {
+            "key": "select_a_target",
+            "value": "Sélectionner une cible"
+        },
+        {
+            "key": "select_card_cost",
+            "value": "SÉLECTIONNER LE COÛT DE LA CARTE"
+        },
+        {
+            "key": "select_cards_to_replace",
+            "value": "Sélectionner les cartes à remplacer"
+        },
+        {
+            "key": "select_deck",
+            "value": "SÉLECTIONNER UN PAQUET"
+        },
+        {
+            "key": "select_one_starter_deck",
+            "value": "SÉLECTIONNER UN PAQUET DE DÉPART"
+        },
+        {
+            "key": "sell",
+            "value": "VENDRE"
+        },
+        {
+            "key": "sell_duplicate_cards",
+            "value": "Vendre les cartes dupliquées"
+        },
+        {
+            "key": "sell_duplicates",
+            "value": "Vendre les doublons"
+        },
+        {
+            "key": "send",
+            "value": "ENVOYER"
+        },
+        {
+            "key": "send_guild",
+            "value": "ENVOYER À LA GUILDE"
+        },
+        {
+            "key": "settings",
+            "value": "PARAMÈTRES"
+        },
+        {
+            "key": "sfx",
+            "value": "SFX"
+        },
+        {
+            "key": "sign_in_with_steam",
+            "value": "se connecter avec steam"
+        },
+        {
+            "key": "silence_target_card.",
+            "value": "Silence la carte cible."
+        },
+        {
+            "key": "smokenstein",
+            "value": "SMOKENSTEIN"
+        },
+        {
+            "key": "sort",
+            "value": "TRIER"
+        },
+        {
+            "key": "spectate",
+            "value": "SPECTATER"
+        },
+        {
+            "key": "spells",
+            "value": "Sorts"
+        },
+        {
+            "key": "standard_pack",
+            "value": "PAQUET STANDARD"
+        },
+        {
+            "key": "start",
+            "value": "DÉMARRER"
+        },
+        {
+            "key": "start_time",
+            "value": "HEURE DE DÉBUT"
+        },
+        {
+            "key": "status",
+            "value": "STATUT"
+        },
+        {
+            "key": "status_title",
+            "value": "Titre de statut"
+        },
+        {
+            "key": "submit",
+            "value": "SOUMETTRE"
+        },
+        {
+            "key": "success",
+            "value": "SUCCÈS"
+        },
+        {
+            "key": "tamer_silvo",
+            "value": "DRESSEUR SILVO"
+        },
+        {
+            "key": "tamers",
+            "value": "DRESSEURS"
+        },
+        {
+            "key": "tbd",
+            "value": "À DÉFINIR"
+        },
+        {
+            "key": "tcg_council",
+            "value": "CONSEIL TCG"
+        },
+        {
+            "key": "tcg_engine",
+            "value": "MOTEUR TCG"
+        },
+        {
+            "key": "tcgs",
+            "value": "TCGs"
+        },
+        {
+            "key": "test_tournament",
+            "value": "TOURNOI DE TEST"
+        },
+        {
+            "key": "title",
+            "value": "Titre"
+        },
+        {
+            "key": "total_earnings",
+            "value": "REVENUS TOTAUX"
+        },
+        {
+            "key": "tournament",
+            "value": "TOURNOI"
+        },
+        {
+            "key": "tournament_confirmation",
+            "value": "CONFIRMATION DE TOURNOI"
+        },
+        {
+            "key": "tournament_wins",
+            "value": "VICTOIRES DE TOURNOI"
+        },
+        {
+            "key": "tournaments",
+            "value": "TOURNOIS"
+        },
+        {
+            "key": "traits",
+            "value": "TRAITS"
+        },
+        {
+            "key": "traps",
+            "value": "Pièges"
+        },
+        {
+            "key": "turn_6",
+            "value": "TOUR 6"
+        },
+        {
+            "key": "type",
+            "value": "type"
+        },
+        {
+            "key": "uncommon",
+            "value": "Peu commun"
+        },
+        {
+            "key": "uncommon_avatar",
+            "value": "AVATAR PEU COMMUN"
+        },
+        {
+            "key": "unity_engine",
+            "value": "MOTEUR UNITY"
+        },
+        {
+            "key": "unlink",
+            "value": "DÉLIÉ"
+        },
+        {
+            "key": "update_password",
+            "value": "METTRE À JOUR LE MOT DE PASSE"
+        },
+        {
+            "key": "username",
+            "value": "Nom d'utilisateur"
+        },
+        {
+            "key": "username...",
+            "value": "Nom d'utilisateur..."
+        },
+        {
+            "key": "vault",
+            "value": "COFFRE"
+        },
+        {
+            "key": "version_1.00",
+            "value": "Version 1.00"
+        },
+        {
+            "key": "victories",
+            "value": "VICTOIRES"
+        },
+        {
+            "key": "victory",
+            "value": "VICtoire"
+        },
+        {
+            "key": "view",
+            "value": "VOIR"
+        },
+        {
+            "key": "wallet_confirmation_txn",
+            "value": "TXN DE CONFIRMATION DE PORTEFEUILLE"
+        },
+        {
+            "key": "warning_text",
+            "value": "Texte d'avertissement"
+        },
+        {
+            "key": "weekly_guild_missions",
+            "value": "MISSIONS DE GUILDE HEBDOMADAIRES"
+        },
+        {
+            "key": "weekly_missions",
+            "value": "MISSIONS HEBDOMADAIRES"
+        },
+        {
+            "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
+            "value": "Lorsque un nouveau joueur utilise votre nom d'utilisateur comme code de référence, il recevra 1 paquet rare et vous recevrez un paquet rare chaque fois qu'il montera de niveau son compte "
+        },
+        {
+            "key": "win_3_ranked_matches",
+            "value": "Gagner 3 matchs classés"
+        },
+        {
+            "key": "windowed",
+            "value": "Fenêtré"
+        },
+        {
+            "key": "winner",
+            "value": "VAINQUEUR"
+        },
+        {
+            "key": "winrate",
+            "value": "TAUX DE VICTOIRE"
+        },
+        {
+            "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
+            "value": "Vous devez jouer au moins un match toutes les 24 heures pour garder les gains de récompenses actifs. Les récompenses sont mises en pause jusqu'à ce que vous jouiez à nouveau.\n "
+        },
+        {
+            "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
+            "value": "VOTRE PAQUET A ÉTÉ SAUVEGARDÉ ET PEUT ÊTRE UTILISÉ EN BATAILLE."
+        },
+        {
+            "key": "zhamster",
+            "value": "ZHAMSTER"
+        },
+        {
+            "key": "statusline.trait_label",
+            "value": "TRAIT : {0}"
+        },
+        {
+            "key": "statusline.evolution_title",
+            "value": "ÉVOLUTION"
+        },
+        {
+            "key": "statusline.evolution_description",
+            "value": "LA CARTE ÉVOLUERA EN {0} TOURS"
+        },
+        {
+            "key": "statusline.mind_control_title",
+            "value": "CONTRÔLE MENTAL"
+        },
+        {
+            "key": "statusline.mind_control.owner_prefix",
+            "value": "<color=orange>Propriétaire original : {0}</color>"
+        },
+        {
+            "key": "statusline.mind_control.release_caster_leaves",
+            "value": "quand le lanceur quitte le jeu"
+        },
+        {
+            "key": "statusline.mind_control.release_if_evolves",
+            "value": "si elle évolue"
+        },
+        {
+            "key": "statusline.mind_control.desc_currently_controlled",
+            "value": "Cette carte est actuellement sous contrôle mental."
+        },
+        {
+            "key": "statusline.mind_control.desc_single_condition",
+            "value": "Le contrôle retourne à son propriétaire original {0}."
+        },
+        {
+            "key": "statusline.mind_control.desc_double_condition",
+            "value": "Le contrôle retourne à son propriétaire original {0} ou {1}."
+        },
+        {
+            "key": "statusline.mind_control.desc_multiple_conditions",
+            "value": "Le contrôle retourne à son propriétaire original {0}, ou {1}."
+        },
+        {
+            "key": "statusline.mind_control.desc_fallback_timed",
+            "value": "Cette carte est actuellement sous contrôle mental et reviendra en {0} {1}."
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_zero",
+            "value": "une fois que le prochain tour de {0} se termine"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_remaining",
+            "value": "après {0} de {1} {2}"
+        },
+        {
+            "key": "statusline.mind_control.turn_singular",
+            "value": "tour"
+        },
+        {
+            "key": "statusline.mind_control.turn_plural",
+            "value": "tours"
+        },
+        {
+            "key": "statusline.mind_control.owner_active",
+            "value": "du joueur actif"
+        },
+        {
+            "key": "statusline.mind_control.owner_your",
+            "value": "votre"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent",
+            "value": "de votre adversaire"
+        },
+        {
+            "key": "statusline.mind_control.owner_original",
+            "value": "du propriétaire original"
+        },
+        {
+            "key": "statusline.mind_control.owner_controller",
+            "value": "du contrôleur"
+        },
+        {
+            "key": "statusline.mind_control.owner_you",
+            "value": "Vous"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent_label",
+            "value": "Adversaire"
+        },
+        {
+            "key": "statusline.mind_control.owner_player_number",
+            "value": "Joueur {0}"
+        },
+        {
+            "key": "statusline.mind_control.possessive_pronoun",
+            "value": "leur"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format",
+            "value": "de {0}"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format_s",
+            "value": "de {0}"
+        },
+        {
+            "key": "statusline.mind_control.list_separator",
+            "value": ", "
+        },
+        {
+            "key": "language",
+            "value": "langue"
+        },
+        {
+            "key": "warning.not_your_turn",
+            "value": "Ce n’est pas votre tour"
+        },
+        {
+            "key": "warning.no_more_actions",
+            "value": "Aucune action restante"
+        },
+        {
+            "key": "warning.rush_cant_attack_player",
+            "value": "Les cartes Rush ne peuvent pas attaquer les joueurs pendant le tour où elles sont jouées"
+        },
+        {
+            "key": "warning.not_enough_mana",
+            "value": "Pas assez de mana"
+        },
+        {
+            "key": "warning.not_enough_team_points",
+            "value": "Pas assez de points d’équipe"
+        },
+        {
+            "key": "warning.maximum_traps",
+            "value": "Maximum : 5 pièges"
+        },
+        {
+            "key": "warning.spell_immunity",
+            "value": "Immunité aux sorts"
+        },
+        {
+            "key": "warning.invalid_target",
+            "value": "Cible invalide"
+        },
+        {
+            "key": "quick_chat.placeholder",
+            "value": "Sélectionnez une option de chat rapide..."
+        },
+        {
+            "key": "quick_chat.gm",
+            "value": "GM!"
+        },
+        {
+            "key": "quick_chat.hello",
+            "value": "Bonjour !"
+        },
+        {
+            "key": "quick_chat.glhf",
+            "value": "GLHF!"
+        },
+        {
+            "key": "quick_chat.lets_go",
+            "value": "On y va !"
+        },
+        {
+            "key": "quick_chat.lets_battle",
+            "value": "Allons nous battre !"
+        },
+        {
+            "key": "quick_chat.lets_fight",
+            "value": "Battons-nous !"
+        },
+        {
+            "key": "quick_chat.lets_have_fun",
+            "value": "Amusons-nous !"
+        },
+        {
+            "key": "quick_chat.nice_move",
+            "value": "Beau coup !"
+        },
+        {
+            "key": "quick_chat.rip",
+            "value": "RIP"
+        },
+        {
+            "key": "quick_chat.rip_gg",
+            "value": "RIP GG"
+        },
+        {
+            "key": "quick_chat.oops",
+            "value": "Oups !"
+        },
+        {
+            "key": "quick_chat.thanks",
+            "value": "Merci !"
+        },
+        {
+            "key": "quick_chat.good_game",
+            "value": "Bonne partie !"
+        },
+        {
+            "key": "quick_chat.well_played",
+            "value": "Bien joué !"
+        },
+        {
+            "key": "quick_chat.close_game",
+            "value": "Partie serrée !"
+        },
+        {
+            "key": "quick_chat.close_one",
+            "value": "De justesse"
+        },
+        {
+            "key": "quick_chat.great_battle",
+            "value": "Superbe bataille !"
+        },
+        {
+            "key": "quick_chat.what_a_battle",
+            "value": "Quelle bataille !"
+        },
+        {
+            "key": "quick_chat.respect",
+            "value": "Respect"
+        },
+        {
+            "key": "tip_mind_control_base",
+            "value": "{0} a pris le contrôle de {1} ! {1} combattra pour {0} jusqu’à la fin de l’effet."
+        },
+        {
+            "key": "tip_mind_control_ability",
+            "value": "Capacité source : {0}"
+        },
+        {
+            "key": "tip_mind_control_evolution_return",
+            "value": "Si le monstre contrôlé évolue puis revient en arrière, il retourne à son propriétaire d’origine."
+        },
+        {
+            "key": "tip_mind_control_hint_none",
+            "value": "Aucun indice de libération disponible. Surveillez d’autres effets susceptibles de mettre fin au contrôle."
+        },
+        {
+            "key": "tip_mind_control_caster_fallback",
+            "value": "la source du sort"
+        },
+        {
+            "key": "tip_mind_control_hint_caster",
+            "value": "Vainquez {0} pour briser le contrôle mental."
+        },
+        {
+            "key": "tip_mind_control_hint_turns",
+            "value": "Le contrôle mental prend fin après {0} tour(s) de {1}."
+        },
+        {
+            "key": "tip_mind_control_turn_owner_original",
+            "value": "le propriétaire d’origine"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_active",
+            "value": "le joueur actif"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_controller",
+            "value": "le contrôleur"
+        },
+        {
+            "key": "tip_swap_slots_base",
+            "value": "{0} a échangé les positions de {1} et {2}."
+        },
+        {
+            "key": "tip_swap_slots_ability",
+            "value": "Capacité utilisée : {0}"
+        },
+        {
+            "key": "tip_unknown_card",
+            "value": "Carte inconnue"
+        },
+        {
+            "key": "collection.create_new_deck",
+            "value": "CRÉER UN NOUVEAU DECK"
+        },
+        {
+            "key": "tip_ability_destroyed",
+            "value": "Votre {0} a été détruit par la capacité de {1} !\n \n Description de la capacité : {2}"
+        },
+        {
+            "key": "tip_armor_message",
+            "value": "L’ennemi a joué un monstre blindé ! Il subit moins de dégâts des attaques."
+        },
+        {
+            "key": "tip_characterabilityimmunity_message",
+            "value": "L’ennemi a joué un monstre immunisé aux capacités ! Les capacités de personnage nécessitant une cible ne l’affectent pas, mais les pouvoirs de fée, si."
+        },
+        {
+            "key": "tip_deathtouch_message",
+            "value": "L’ennemi a joué un monstre à contact mortel ! Tout personnage qu’il blesse sera détruit."
+        },
+        {
+            "key": "tip_flying_message",
+            "value": "L’ennemi a joué un monstre volant ! Il peut ignorer les bloqueurs avec provocation."
+        },
+        {
+            "key": "tip_fury_message",
+            "value": "L’ennemi a joué un monstre furieux ! Il peut attaquer deux fois par tour."
+        },
+        {
+            "key": "tip_heropower_message",
+            "value": "L’ennemi a utilisé son pouvoir de fée avec {0} !\n \n Capacité : {1}"
+        },
+        {
+            "key": "tip_intimidate_message",
+            "value": "L’ennemi a joué un monstre intimidant ! Il ne subit pas de dégâts lorsqu’il attaque."
+        },
+        {
+            "key": "tip_invincibility_message",
+            "value": "L’ennemi a joué un monstre invincible ! Il ne peut pas être attaqué pendant quelques tours."
+        },
+        {
+            "key": "tip_lifesteal_message",
+            "value": "L’ennemi a joué un monstre avec vol de vie ! Il se soigne en infligeant des dégâts de combat."
+        },
+        {
+            "key": "tip_overkill_message",
+            "value": "L’ennemi a joué un monstre infligeant des dégâts excédentaires ! Ces dégâts le soignent."
+        },
+        {
+            "key": "tip_shell_message",
+            "value": "L’ennemi a joué un monstre à carapace ! Le premier dégât qu’il subirait est ignoré."
+        },
+        {
+            "key": "tip_spellimmunity_message",
+            "value": "L’ennemi a joué un monstre immunisé aux sorts ! Les sorts ne peuvent ni le cibler ni le blesser, mais les sorts non ciblés qui détruisent fonctionnent toujours."
+        },
+        {
+            "key": "tip_status_generic",
+            "value": "Votre monstre a été {0} !\n \n Description : {1}"
+        },
+        {
+            "key": "tip_status_sleep",
+            "value": "Votre monstre a été endormi !\n \n Description : {0}"
+        },
+        {
+            "key": "tip_stealth_message",
+            "value": "L’ennemi a joué un monstre furtif ! Vous ne pouvez ni l’attaquer ni le cibler avant qu’il n’agisse."
+        },
+        {
+            "key": "tip_taunt_message",
+            "value": "L’ennemi a joué un monstre avec provocation ! Vous devez l’attaquer avant les autres ennemis."
+        },
+        {
+            "key": "tip_trample_message",
+            "value": "L’ennemi a joué un monstre avec piétinement ! Les dégâts excédentaires infligés à vos monstres vous atteignent."
+        },
+        {
+            "key": "tip_transform_into_with_trigger",
+            "value": "« Transformation en » copie la carte défaussée. La carte ciblée est maintenant {0} car elle s’est transformée en {1}."
+        },
+        {
+            "key": "tip_transform_into_without_trigger",
+            "value": "« Transformation en » copie la carte défaussée. La carte ciblée est maintenant {0} car elle s’est transformée en la carte défaussée qui a déclenché la capacité."
+        },
+        {
+            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
+            "value": "Attaquez en faisant glisser l’un de vos Jagur sur un ennemi."
+        },
+        {
+            "key": "before_they_destroy_yours",
+            "value": "Avant qu’ils ne détruisent le vôtre"
+        },
+        {
+            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
+            "value": "Mais vous pouvez tout à fait attaquer avec les monstres déjà en jeu."
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>Jouer :</b> Sélectionnez un personnage sous votre contrôle et envoyez-le à l’autre joueur avec la capacité : les personnages ennemis gagnent +1/+2"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>Jouer :</b> Sélectionnez un personnage sous votre contrôle et envoyez-le à l’autre joueur avec la capacité : au début de chaque tour, défaussez 2 cartes"
+        },
+        {
+            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
+            "value": "Le coût en mana est indiqué dans le coin de la carte."
+        },
+        {
+            "key": "opponent",
+            "value": "Adversaire"
+        },
+        {
+            "key": "to_play_cards_you_must_spend_mana",
+            "value": "Pour jouer des cartes, vous devez dépenser du mana."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "Essayez de jouer une carte en la faisant glisser sur un emplacement vide du plateau."
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Toute carte de votre main avec un surlignage vert peut être jouée."
+        },
+        {
+            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
+            "value": "Lorsque vous avez terminé votre tour, cliquez sur « Fin du tour »."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "Vous avez deux choix."
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Bienvenue dans le didacticiel Fracctal TCG"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Bienvenue dans le didacticiel Fracctal TCG"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "AFFRONTEZ D’AUTRES JOUEURS EN MULTIJOUEUR CLASSÉ.\n  \n   Vous pouvez consulter votre classement JcJ avec le bouton en haut de la barre de navigation. "
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "PARTICIPEZ QUOTIDIENNEMENT À DES TOURNOIS AUTOMATISÉS CONTRE D’AUTRES JOUEURS DANS NOTRE MODE TOURNOI.\n  \n  GAGNEZ DE L’ESSENCE, DE L’XP DE COMPTE, DES PAQUETS ET DES POINTS DE GUILDE DANS CES COMPÉTITIONS !"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Essayez de jouer une carte en la faisant glisser sur l’un des emplacements vides du plateau.\n\n Toute carte de votre main mise en surbrillance verte peut être jouée."
+        },
+        {
+            "key": "modal.version_warning_message",
+            "value": "VOTRE VERSION DU JEU {0} EST OBSOLÈTE. LA DERNIÈRE VERSION EST {1}."
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_beta!_let's_learn_a_bit_about_the_game.",
+            "value": "Bienvenue dans la bêta de Fracctal TCG !\n Apprenons quelques notions sur le jeu."
+        },
+        {
+            "key": "in_adventure_mode_you_learn_the_basics_of_the_game_as_well_as_the_different_types_of_cards_and_abilites.you_also_earn_rewards_as_you_defeat_challenges!",
+            "value": "En mode Aventure, vous apprenez les bases du jeu ainsi que les différents types de cartes et de capacités.\n \n Vous gagnez également des récompenses en relevant des défis !"
+        },
+        {
+            "key": "in_practice_mode_you_can_test_your_different_decks,_complete_missions,_and_learn_the_game_wihtout_affecting_your_ranking.",
+            "value": "En mode Entraînement, vous pouvez tester différents decks, accomplir des missions et apprendre le jeu sans affecter votre classement."
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "Affrontez d’autres joueurs en multijoueur classé.\n \n Vous pouvez consulter votre classement JcJ via le bouton en haut de la barre de navigation."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_mode.win_essence_currency,_account_xp,_packs,_and_guild_points_in_these_competions!",
+            "value": "Participez chaque jour à des tournois automatisés contre d’autres joueurs dans notre mode Tournoi.\n \n Gagnez de la monnaie d’Essence, de l’XP de compte, des paquets et des points de guilde dans ces compétitions !"
+        },
+        {
+            "key": "missions_are_the_primary_method_of_gaining_currency_to_open_new_packs._there_are_many_more_features_like_match_spectating,_daily_login_streak_rewards,_friends_list,_player_created_guilds,_battlepass_rewards,_and_much_more!we_suggest_you_start_with_adventure_mode._good_luck!",
+            "value": "Les missions sont le principal moyen d’obtenir de la monnaie pour ouvrir de nouveaux paquets.\n \n De nombreuses fonctionnalités vous attendent : observation de matchs, récompenses de connexion quotidienne, liste d’amis, guildes créées par les joueurs, récompenses du passe de combat, et bien plus encore !\n \n Nous vous conseillons de commencer par le mode Aventure. Bonne chance !"
+        },
+        {
+            "key": "great_job!_creatures_that_just_entered_play_cannot_attack_in_the_same_turn.",
+            "value": "Beau travail ! Les créatures qui viennent d’entrer en jeu ne peuvent pas attaquer pendant le même tour."
+        },
+        {
+            "key": "now_destroy_the_other_monster!",
+            "value": "Détruisez maintenant l’autre monstre !"
+        },
+        {
+            "key": "your_goal_is_to_reduce_your_opponent's_hp_to_0.",
+            "value": "Votre objectif est de réduire les PV de votre adversaire à 0."
+        },
+        {
+            "key": "many_monsters_are_quite_strong_because_their_fury_ability_let_them_attack_twice_per_turn!",
+            "value": "Beaucoup de monstres sont très puissants car leur capacité Fureur leur permet d’attaquer deux fois par tour !"
+        },
+        {
+            "key": "you_will_probably_want_to_get_rid_of_the_ignitas_this_turn,_otherwise_it_could_damage_most_of_your_hp!",
+            "value": "Vous voudrez probablement vous débarrasser d’Ignitus ce tour-ci, sinon il pourrait vous retirer la plupart de vos PV !"
+        },
+        {
+            "key": "your_jagur_can_only_deal_1_damage,_but_you_need_2_to_destroy_the_ignitas.",
+            "value": "Votre Jagur ne peut infliger qu’1 point de dégâts, mais il en faut 2 pour détruire Ignitus."
+        },
+        {
+            "key": "you_have_two_choices._you_can_either_try_to_paralyze_the_ignitus,_or_play_a_cheetula_to_boost_your_jagur_attack.",
+            "value": "Vous avez deux options. Vous pouvez essayer de paralyser Ignitus, ou jouer une Cheetula pour augmenter l’attaque de votre Jagur."
+        },
+        {
+            "key": "great_choice,_the_ignitas_won't_be_able_to_attack_for_the_next_2_turns.",
+            "value": "Bon choix, Ignitus ne pourra pas attaquer pendant les 2 prochains tours."
+        },
+        {
+            "key": "now_you_could_attack_the_opponent,_or_end_your_turn.",
+            "value": "Vous pouvez maintenant attaquer l’adversaire ou terminer votre tour."
+        },
+        {
+            "key": "great_choice,_now_your_jagur_has_2_attack._you_can_attack_and_kill_the_ignitas!",
+            "value": "Bon choix, votre Jagur a maintenant 2 d’attaque. Vous pouvez attaquer et éliminer Ignitus !"
+        },
+        {
+            "key": "to_attack_the_opponent's_hp._drag_one_of_your_characters_in_play_on_top_of_the_opponent's_hand_area.",
+            "value": "Pour attaquer les PV de l’adversaire. Faites glisser l’un de vos personnages en jeu sur la zone de main de l’adversaire."
+        },
+        {
+            "key": "good_luck!",
+            "value": "Bonne chance!"
+        },
+        {
+            "key": "hero_power_popup.contribution_line1",
+            "value": "Jouer {0} cartes charge votre pouvoir de fée."
+        },
+        {
+            "key": "hero_power_popup.contribution_line2",
+            "value": "Vous venez d’y contribuer ! Progression : {0}/{1} points d’élément."
+        },
+        {
+            "key": "hero_power_popup.contribution_line3",
+            "value": "Atteignez le nombre de points requis pour l’activer."
+        },
+        {
+            "key": "hero_power_popup.fairy_power_label",
+            "value": "Pouvoir de fée : {0}"
+        },
+        {
+            "key": "tip_heropower_electric",
+            "value": "La cible gagne de la Force pour attaquer (doit être un monstre électrique)."
+        },
+        {
+            "key": "tip_heropower_fire",
+            "value": "Infligez 1 point de dégâts."
+        },
+        {
+            "key": "tip_heropower_ice",
+            "value": "Gèle un ennemi pendant 1 tour."
+        },
+        {
+            "key": "tip_heropower_plant",
+            "value": "Soigne 2 PV."
+        },
+        {
+            "key": "tip_heropower_psychic",
+            "value": "L’adversaire défausse une carte aléatoire de sa main."
+        },
+        {
+            "key": "tip_heropower_rock",
+            "value": "Le personnage ciblé gagne +1 Armure."
+        },
+        {
+            "key": "tip_heropower_shadow",
+            "value": "La cible devient Maudite."
+        },
+        {
+            "key": "tip_heropower_water",
+            "value": "Piochez une carte."
+        },
+        {
+            "key": "turn_popup.your_turn",
+            "value": "VOTRE TOUR"
+        },
+        {
+            "key": "turn_popup.opponent_turn",
+            "value": "TOUR ADVERSE"
+        },
+        {
+            "key": "status.addattack.title",
+            "value": "Augmentation d’attaque"
+        },
+        {
+            "key": "status.addattack.desc",
+            "value": "Gagne +<value> d’attaque pendant un temps limité."
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "Augmentation de PV"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "Gagne +<value> PV pendant un temps limité."
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "Modificateur de coût de mana"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "Le coût en mana est ajusté de <value> pendant un temps limité."
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "Furtivité"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "Ne peut pas être attaqué ni ciblé avant d’agir."
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "Invincibilité"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "Ne peut pas être attaqué pendant <value> tour(s)."
+        },
+        {
+            "key": "status.shell.title",
+            "value": "Carapace"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "Ignore la première source de dégâts qu’il subirait."
+        },
+        {
+            "key": "status.protection.title",
+            "value": "Provocation"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "Les ennemis doivent attaquer cette carte avant les autres alliés."
+        },
+        {
+            "key": "status.protected.title",
+            "value": "Protégé"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "Ne peut pas être attaqué tant qu’un allié avec Provocation le protège."
+        },
+        {
+            "key": "status.armor.title",
+            "value": "Armure"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "Réduit les dégâts subis de <value>."
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "Immunité aux sorts"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "Ne peut pas être ciblé ou endommagé par des sorts."
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "Immunité aux capacités"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "Ne peut pas être ciblé par les capacités des personnages ; les pouvoirs de fée s’appliquent toujours."
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "Contact mortel"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "Détruit toute cible à laquelle il inflige des dégâts."
+        },
+        {
+            "key": "status.fury.title",
+            "value": "Fureur"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "Peut attaquer deux fois par tour."
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "Intimidation"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "Les ennemis blessés par ceci ne contre-attaquent pas."
+        },
+        {
+            "key": "status.flying.title",
+            "value": "Vol"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "Peut ignorer les bloqueurs avec Provocation lors de l’attaque."
+        },
+        {
+            "key": "status.trample.title",
+            "value": "Piétinement"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "Les dégâts excédentaires infligés aux bloqueurs touchent le joueur adverse."
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "Overkill"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "Les dégâts excédentaires soignent cette carte."
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "Vol de vie"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "Soigne son contrôleur d’un montant égal aux dégâts infligés."
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "Silence"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "Les capacités sont désactivées."
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "Paralysé"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "Ne peut pas agir pendant <value> tour(s)."
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "Empoisonné"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "Perd <value> PV au début de chaque tour."
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "Sommeil"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "Ne se prépare pas au début du tour."
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "Gelé"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "Ne peut pas agir pendant <value> tour(s)."
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "Maudit"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "Perd <value> d’attaque au début du tour de son contrôleur."
+        },
+        {
+            "key": "status.ghost.title",
+            "value": "Fantôme"
+        },
+        {
+            "key": "status.ghost.desc",
+            "value": "Tant qu’elle est maudite, cette carte gagne +5 d’attaque."
+        },
+        {
+            "key": "status.burned.title",
+            "value": "Brûlure"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "Perd <value> PV au début de chaque tour."
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "Évasion des pièges"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "N’active pas les pièges ennemis en agissant."
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "Provocation aérienne"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "Ne provoque que les attaquants volants, protégeant tous les alliés."
+        },
+        {
+            "key": "status.protectedflying.title",
+            "value": "Protégé des volants"
+        },
+        {
+            "key": "status.protectedflying.desc",
+            "value": "Ne peut pas être attaqué par des ennemis volants tant qu’un allié avec Provocation aérienne est présent."
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "Immunité à la perte d’attaque"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "L’attaque ne peut pas être réduite."
+        },
+        {
+            "key": "evolves_to",
+            "value": "Évolue en"
+        },
+        {
+            "key": "cardzoompanel.trait_label",
+            "value": "TRAIT"
+        },
+        {
+            "key": "cardzoompanel.trait_format",
+            "value": "<b>{0}</b>: {1}\n \n "
+        },
+        {
+            "key": "cardzoompanel.evolution_label",
+            "value": "ÉVOLUTION"
+        },
+        {
+            "key": "cardzoompanel.evolution_description",
+            "value": "Le monstre évoluera dans {0} tour(s)"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minute",
+            "value": "Le prochain tournoi commence dans 1 minute"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minutes",
+            "value": "Le prochain tournoi commence dans {0} minutes"
+        },
+        {
+            "key": "main_menu.tournament_countdown_second",
+            "value": "Le prochain tournoi commence dans 1 seconde"
+        },
+        {
+            "key": "main_menu.tournament_countdown_seconds",
+            "value": "Le prochain tournoi commence dans {0} secondes"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hour",
+            "value": "Le prochain tournoi commence dans 1 heure"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hours",
+            "value": "Le prochain tournoi commence dans {0} heures"
+        },
+        {
+            "key": "shop",
+            "value": "Boutique"
+        },
+        {
+            "key": "tip_hand_limit_message",
+            "value": "Votre main est pleine — vous ne pouvez pas avoir plus de {0} cartes. Jouez ou défaussez des cartes pour en piocher davantage."
+        },
+        {
+            "key": "tip_card_evolution_message",
+            "value": "{0} vient d’évoluer ! Les personnages évoluent après avoir survécu à {1} de vos tours sur le plateau. Si la forme évoluée est toujours sur le plateau, sa capacité « À la mise en jeu » se déclenche à nouveau et les effets négatifs sont d’abord supprimés."
+        }
+    ]
+}

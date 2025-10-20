@@ -1,0 +1,3328 @@
+{
+    "entries": [
+        {
+            "key": "--_guild_points",
+            "value": "-- очков гильдии"
+        },
+        {
+            "key": "0",
+            "value": "0"
+        },
+        {
+            "key": "1",
+            "value": "1"
+        },
+        {
+            "key": "1.",
+            "value": "1."
+        },
+        {
+            "key": "1._scan_the_qr_code_shown_above_2._choose_your_desired_wallet_account_in_pera_3._enter_0_for_the_algo_amount_to_send_4._sign_the_txn_in_the_pera_mobile_app_5._click_the_confirm_button_to_the_right",
+            "value": "1. СКАНИРУЙТЕ QR-КОД, ПОКАЗАННЫЙ ВЫШЕ\n 2. ВЫБЕРИТЕ ЖЕЛАЕМЫЙ СЧЕТ КОШЕЛЬКА В PERA\n 3. ВВЕДИТЕ 0 ДЛЯ КОЛИЧЕСТВА ALGO ДЛЯ ОТПРАВКИ\n 4. ПОДПИШИТЕ TXN В МОБИЛЬНОМ ПРИЛОЖЕНИИ PERA\n 5. НАЖМИТЕ КНОПКУ ПОДТВЕРЖДЕНИЯ СПРАВА"
+        },
+        {
+            "key": "100",
+            "value": "100"
+        },
+        {
+            "key": "100_essence",
+            "value": "100 ЭССЕНЦИИ"
+        },
+        {
+            "key": "1000",
+            "value": "1000"
+        },
+        {
+            "key": "1000_xp",
+            "value": "1000 ОО"
+        },
+        {
+            "key": "2",
+            "value": "2"
+        },
+        {
+            "key": "2_rare_packs",
+            "value": "2 редких набора"
+        },
+        {
+            "key": "2_standard_packs",
+            "value": "2 стандартных набора"
+        },
+        {
+            "key": "20",
+            "value": "20"
+        },
+        {
+            "key": "25_xp",
+            "value": "25 ОО"
+        },
+        {
+            "key": "250",
+            "value": "250"
+        },
+        {
+            "key": "3",
+            "value": "3"
+        },
+        {
+            "key": "30_essence",
+            "value": "30 ЭССЕНЦИИ"
+        },
+        {
+            "key": "30_xp",
+            "value": "30 ОО"
+        },
+        {
+            "key": "300",
+            "value": "300"
+        },
+        {
+            "key": "3000",
+            "value": "3000"
+        },
+        {
+            "key": "333",
+            "value": "333"
+        },
+        {
+            "key": "333_xp",
+            "value": "333 ОО"
+        },
+        {
+            "key": "3333",
+            "value": "3333"
+        },
+        {
+            "key": "5",
+            "value": "5"
+        },
+        {
+            "key": "50_essence",
+            "value": "50 ЭССЕНЦИИ"
+        },
+        {
+            "key": "50_xp",
+            "value": "50 ОО"
+        },
+        {
+            "key": "500",
+            "value": "500"
+        },
+        {
+            "key": "500_essence",
+            "value": "500 ЭССЕНЦИИ"
+        },
+        {
+            "key": "533",
+            "value": "533"
+        },
+        {
+            "key": "55_guild_pts_70_coins_each_150_xp_each",
+            "value": "55 очков гильдии\n 70 монет каждая\n 150 ОО каждая"
+        },
+        {
+            "key": "60",
+            "value": "60"
+        },
+        {
+            "key": "75_xp",
+            "value": "75 ОО"
+        },
+        {
+            "key": "9",
+            "value": "9"
+        },
+        {
+            "key": "99",
+            "value": "99"
+        },
+        {
+            "key": "aaaaa",
+            "value": "AAAAA"
+        },
+        {
+            "key": "ability_1",
+            "value": "Способность 1"
+        },
+        {
+            "key": "accept",
+            "value": "ПРИНЯТЬ"
+        },
+        {
+            "key": "account",
+            "value": "учетная запись"
+        },
+        {
+            "key": "account_address",
+            "value": "Адрес учетной записи"
+        },
+        {
+            "key": "account_link",
+            "value": "СВЯЗЬ УЧЕТНОЙ ЗАПИСИ"
+        },
+        {
+            "key": "account_recovery",
+            "value": "ВОССТАНОВЛЕНИЕ УЧЕТНОЙ ЗАПИСИ"
+        },
+        {
+            "key": "add",
+            "value": "ДОБАВИТЬ"
+        },
+        {
+            "key": "admin_team",
+            "value": "команда администраторов"
+        },
+        {
+            "key": "adventure",
+            "value": "ПРИКЛЮЧЕНИЕ"
+        },
+        {
+            "key": "adventures",
+            "value": "ПРИКЛЮЧЕНИЯ"
+        },
+        {
+            "key": "antonio_f.",
+            "value": "Antonio F."
+        },
+        {
+            "key": "asset_earnings",
+            "value": "ДОХОД ОТ АКТИВОВ"
+        },
+        {
+            "key": "asset_forger",
+            "value": "КУЗНЕЦ АКТИВОВ"
+        },
+        {
+            "key": "asstes_total",
+            "value": "ОБЩИЙ АКТИВОВ"
+        },
+        {
+            "key": "audio",
+            "value": "Аудио"
+        },
+        {
+            "key": "avatars",
+            "value": "АВАТАРЫ"
+        },
+        {
+            "key": "backgrounds",
+            "value": "ФОНЫ"
+        },
+        {
+            "key": "batlepass",
+            "value": "БОЕВОЙ ПРОПУСК"
+        },
+        {
+            "key": "battle_pass",
+            "value": "БОЕВОЙ\n ПРОПУСК"
+        },
+        {
+            "key": "battlepass_rewards",
+            "value": "Награды боевого пропуска"
+        },
+        {
+            "key": "block",
+            "value": "БЛОКИРОВАТЬ"
+        },
+        {
+            "key": "body",
+            "value": "ТЕЛО"
+        },
+        {
+            "key": "bronze_iii",
+            "value": "БРОНЗА iii"
+        },
+        {
+            "key": "brows",
+            "value": "БРОВИ"
+        },
+        {
+            "key": "build_deck",
+            "value": "СОБРАТЬ КОЛОДУ"
+        },
+        {
+            "key": "built_with",
+            "value": "ПОСТРОЕНО С"
+        },
+        {
+            "key": "buy",
+            "value": "КУПИТЬ"
+        },
+        {
+            "key": "buy_cards",
+            "value": "КУПИТЬ КАРТЫ"
+        },
+        {
+            "key": "buy_pack",
+            "value": "КУПИТЬ НАБОР"
+        },
+        {
+            "key": "cancel",
+            "value": "ОТМЕНИТЬ"
+        },
+        {
+            "key": "cancelled",
+            "value": "ОТМЕНЕНО"
+        },
+        {
+            "key": "card",
+            "value": "КАРТА"
+        },
+        {
+            "key": "card.alfrost.text",
+            "value": "НАБЕГ"
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "Ярость"
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "Каждый ход +1 к броне."
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>Атака</b>: Проклятие на цель-монстра"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "Когда вы убиваете другого персонажа этим существом, вытяните 2 карты."
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>Обход ловушек:</b> Не активирует ловушки при атаке.\n +1 урон за каждую ловушку противника на поле."
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>Обход ловушек:</b> Не активирует ловушки при атаке."
+        },
+        {
+            "key": "card.bay.text",
+            "value": "Когда ваше существо Воды умирает, вытяните карту."
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>Смерть:</b> Вытяните карту."
+        },
+        {
+            "key": "card.bora.text",
+            "value": "Невидимость"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "После атаки на игрока +2 маны.\n "
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>Разыгрыш:</b> Персонаж получает ожог и 2 урона за ход."
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>Разыгрыш:</b> Сбросьте случайную карту из руки игрока и вытяните две новые."
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "Невидимость"
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "<b>Использовать:</b> +2 брони всем союзникам на поле. Стоит 5 маны и действие."
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "В начале каждого хода вытяните 1 карту"
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "Ускорение"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "Дальность: Летающие монстры должны атаковать этого монстра. "
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "Урон заклинания +1."
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>Разыгрыш</b>: Призвать детёныша Jagur.\n Все Кошки +1 атака."
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>Убийство:</b> Вытяните две карты."
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "Провокация\n Панцирь"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "Получить 1 ману."
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "Вражеские персонажи -1 атака.\n Может игнорировать провокацию."
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "Лётчик / Эволюционирует в Cryonix\n <b>Разыгрыш:</b> Заморозить вражеского персонажа"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "Невидимость"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>Разыгрыш:</b> Проклятие."
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>Разыгрыш</b>: Проклятие всех персонажей на поле."
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "Иммунитет к заклинаниям\n Панцирь"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>Разыгрыш:</b> Выберите цель-персонажа с любой стороны и отправьте к другому игроку.\n Действие: Повторить за 3 маны."
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>Разыгрыш:</b> Обменяйте этого монстра на вражеского монстра стоимостью 4 маны. "
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "Провокация"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "Иммунитет к заклинаниям"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>Разыгрыш:</b> Отравить цель-монстра"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>Разыгрыш:</b> +2/2"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>Атака:</b>Бросьте D6, при 4+ получите +3 атаки до конца хода."
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "Провокация"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "Топот\n Игнорировать провокацию"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "Ярость"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "Откройте дракона."
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "Провокация"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>Разыгрыш</b>: Замолчите цель-персонажа, затем проклятие цель-персонажа"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>Разыгрыш</b>: Проклятие всех персонажей на поле"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>Атака</b>: Проклятие цель-монстра"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "Все электрические монстры стоят на 2 маны меньше (включая врагов)"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>Разыгрыш:</b> Противник сбрасывает случайную карту"
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>Разыгрыш:</b> Уничтожьте персонажа с 3 или меньше атаки."
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "В начале каждого хода раскройте руку противника. Действует до 3 ходов. "
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "Носитель получает 2 брони и провокацию."
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "Атака +1.\n Носитель не получает урон при атаке."
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "Атака +2\n Действует два атаки"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "Получайте 2 дополнительные маны за ход в течение 4 ходов."
+        },
+        {
+            "key": "card.espe.text",
+            "value": "Ментальный контроль над вражеским целью-персонажем с маной 5+ до ухода этого персонажа с поля"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>Разыгрыш:</b> +2/2.\n Лечит игрока при нанесении урона."
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>Разыгрыш:</b> 2 урона всем."
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>Разыгрыш:</b> Ментальный контроль над вражеским персонажем с маной 5 или меньше"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>Атака:</b> Обжигает врага. Теряют 2 ОЗ за ход."
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>Разыгрыш:</b> Ментальный контроль над целью-персонажем стоимостью 2 маны или меньше"
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>Разыгрыш:</b> Ментальный контроль над целью-персонажем стоимостью 3 маны или меньше"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>Разыгрыш:</b> Выберите цель-персонажа с маной 2 или меньше с любой стороны и отправьте к другому игроку."
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "Когда противник сбрасывает карту персонажа, это существо становится копией сброшенного персонажа."
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "Когда противник сбрасывает заклинание, создайте копию за 0 маны в руке.\n "
+        },
+        {
+            "key": "card.froster.text",
+            "value": "При атаке бросьте D6. При 4+ получите +6 атаки."
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "Иммунитет к заклинаниям\n Иммунитет к способностям\n Игнорировать провокацию"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "В начале каждого хода вытяните 1 карту"
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "После разыгрывания заклинания +2 атаки.\n <b>Лётчик</b> Может игнорировать провокацию"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "После разыгрывания заклинания +2 атаки."
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>Атака:</b> Проклятие"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "Каждый ход +1 брони."
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "Каждый раз, когда другой персонаж умирает, вытяните 1 карту."
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "Ускорение"
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>Атака:</b> Яд.\n <b>Лётчик:</b> Может игнорировать провокацию."
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "После разыгрывания заклинания +2 атаки."
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "В начале каждого хода +1 атаки."
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "В начале каждого хода вытяните 1 карту"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>Разыгрыш:</b> 2 урона всем."
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>Разыгрыш:</b> Исцелите персонажа от всех негативных эффектов и дайте +2 ОЗ"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>Использовать (2):</b> Исцелите игрока на 3 ОЗ. "
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>Разыгрыш:</b> +2/2.\n <b>Действие:</b> Зарядка."
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>Разыгрыш:</b> Замолчите карту-цель."
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>Провокация</b>\n <b>Каждый ход:</b> Убивает персонажей с минимальной атакой.\n "
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>Разыгрыш:</b> Добавьте Проклятие Страдания к цели"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "Ярость\n Каждый ход +1 брони."
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "Каждый раз, когда другой персонаж умирает, вытяните 1 карту.\n Иммунитет к потере атаки"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "<b>Смерть:</b> Вытяните карту."
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "<b>Ход:</b> Вытяните карту."
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "Каждый раз, когда другой персонаж умирает, вытяните 1 карту."
+        },
+        {
+            "key": "card.hato.text",
+            "value": "Смертельный касание"
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "Каждый ход +1 атаки."
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>Разыгрыш:</b> Атака персонажа-цели снижена до 1."
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "Древняя Электрическая Фрактальная Фея, дающая дополнительное действие электрическому монстру"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "Древняя Огненная Фрактальная Фея, наносящая 1 урон любой карте или игроку."
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "Древняя Ледяная Фрактальная Фея, замораживающая любую карту на 1 ход."
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "Древняя Растительная Фрактальная Фея, исцеляющая персонажей и игроков на 2 ОЗ"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "Древняя Психическая Фрактальная Фея, заставляющая вашего противника сбросить карту из руки"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "Древняя Каменная Фрактальная Фея, дающая +1 Брони любой карте на поле. "
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "Древняя Теневая Фрактальная Фея, проклинающая любую карту в игре. "
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "Древняя Водная Фрактальная Фея, позволяющая игроку вытянуть дополнительную карту. "
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>Атака:</b> Обжигает врага. Теряют 2 ОЗ за ход."
+        },
+        {
+            "key": "card.hito.text",
+            "value": "Имеет +3 атаки во время хода противника."
+        },
+        {
+            "key": "card.ice_town.text",
+            "value": "Все союзные Ледяные существа имеют +1 атаки и +1 ОЗ."
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "Ярость"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>Смерть:</b> Наносит 2 урона вражескому игроку."
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>Атака</b>: Проклятие цель-монстра"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "Игнорировать провокацию"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>Разыгрыш:</b> Получить Провокацию или Ярость"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>Убийство:</b> Вытяните две карты.\n <b>Смерть:</b> Вытяните карту."
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "Имеет +3 атаки во время хода противника."
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "Панцирь\n Провокация"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>Атака:</b> Яд."
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "Набег / Лётчик"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "Смертельный касание"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>Разыгрыш</b>: Призвать Lizo\n Все Рептилии +1 атака."
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>Разыгрыш</b>: Призвать Lizo\n Все Рептилии +2 атака."
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "Провокация"
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>Разыгрыш:</b> Атака персонажа-цели снижена до 1."
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>Разыгрыш:</b> +2/2.\n <b>Лётчик:</b> Может игнорировать провокацию."
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>Разыгрыш:</b> Атака персонажа-цели снижена до 1."
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>Разыгрыш:</b> +2/2\n <b>Разыгрыш:</b> Исцелите игрока на 4 ОЗ\n <b>Лётчик:</b> Может игнорировать провокацию"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>Начало хода: </b>Все карты Растений исцеляются на 3."
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "Все вражеские персонажи -2 атаки."
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "Провокация\n Панцирь"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "В начале вашего хода это существо полностью исцеляется."
+        },
+        {
+            "key": "card.minask.text",
+            "value": "Регенерация"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "Каждый раз, когда другой персонаж умирает, вытяните 2 карты."
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "Каждый раз, когда другой персонаж умирает, вытяните 2 карты."
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "Урон заклинания +2.\n <b>Атака:</b> Обжигает атакованную карту."
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "В начале каждого хода +2 атаки."
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "НАБЕГ"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>Разыгрыш:</b> Ментальный контроль над вражеским целью-персонажем с атакой 3 или меньше до ухода этого существа с поля"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>Атака</b>: Проклятие цель-монстра"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "Топот"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "Избыточный урон исцеляет ОЗ этого существа на разницу"
+        },
+        {
+            "key": "card.muni.text",
+            "value": "При разыгрывании раскройте руку противника"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "В начале вашего хода это существо полностью исцеляется."
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "Ярость"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "При атаке игрока +2 маны."
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "При разыгрывании +2 ОЗ другому существу до вашего следующего хода."
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "Ярость"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>Разыгрыш:</b> Раскройте руку противника\n <b>Действие:</b> Сбросьте случайную карту стоимостью 3 маны или меньше из руки противника. Стоит 2 маны. "
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>Конец хода:</b> Входит в невидимость, если у вас есть другие персонажи."
+        },
+        {
+            "key": "card.operant.text",
+            "value": "<b>Разыгрыш:</b> Наносит 1 урон."
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "Имеет +3 атаки во время хода противника.\n Провокация"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "Имеет +3 атаки во время хода противника.\n Провокация"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "При атаке бросьте D6. При 4+ получите +3 атаки."
+        },
+        {
+            "key": "card.owind.text",
+            "value": "Иммунитет к заклинаниям\n Игнорировать провокацию"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>Разыгрыш:</b> Уничтожьте персонажа с 4 или меньше атаки."
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>Смерть:</b> Вытяните карту."
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "Невидимость\n <b>Разыгрыш:</b> Противник сбрасывает случайную карту\n При сбросе противника +1 атаки"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "В начале вашего хода это существо полностью исцеляется."
+        },
+        {
+            "key": "card.petili.text",
+            "value": "При разыгрывании +2/2 другому существу до вашего следующего хода."
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "Каждый раз, когда другой персонаж умирает, вытяните 1 карту."
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>Использовать (3):</b> Наносит 2 урона.\n <b>Смерть:</b> Призвать яйцо."
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "Через 3 хода превращается в Phyra."
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>Использовать (2):</b> Бросьте D6, при 4+ верните цель в руку."
+        },
+        {
+            "key": "card.picko.text",
+            "value": "<b>Разыгрыш:</b> Наносит 1 урон."
+        },
+        {
+            "key": "card.plator.text",
+            "value": "Когда убиваете другого персонажа этим существом, вытяните 2 карты."
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>Разыгрыш:</b> +2 ОЗ"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "Цель-монстр получает Ярость. Может атаковать дважды за ход."
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "Цель получает 1 атаки и ярость."
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "Цель купается в сладком аромате, получая +2 ОЗ и провокацию."
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "Цель получает 2 брони, снижая прямой урон от персонажей на 2."
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "Цель на персонажа на поле с маной 3 или меньше для ментального контроля на 1 ход. Цель получает набег. "
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "Цель получает 2 брони, снижая прямой урон от персонажей на 2."
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "Цель получает Проклятие Страдания, нанося 3 урона при каждой атаке."
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "Цель получает панцирь и полностью исцеляется."
+        },
+        {
+            "key": "card.prido.text",
+            "value": "Ярость\n Каждый ход +1 атаки."
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>Разыгрыш:</b> Выберите персонажа с любой стороны и отправьте к другому игроку.\n В начале каждого хода наносит 2 урона всем союзникам. "
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>Смерть:</b> Призвать яйцо."
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>Разыгрыш:</b> Наносит 1 урон."
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>Разыгрыш:</b> Наносит 2 урона."
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>Атака</b>: Проклятие цель-монстра"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>Каждый ход:</b> Убивает персонажей с минимальной атакой (включая союзников и это существо)."
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "Все каменные существа получают: \"Получает 1 урон для +1 атаки\". Стоимость 1 маны за использование."
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "Регенерация"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>Атака:</b> Яд."
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "Регенерация"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "Каждый ход +1 брони."
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "Каждый ход +1 атаки.\n <b>Лётчик</b> Может игнорировать провокацию"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "Урон заклинания +1."
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>Атака:</b> Яд."
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "Провокация\n "
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>Разыгрыш:</b> Вернуть персонажа в руку."
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "Лётчик"
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "При атаке бросьте D6. При 4+ получите +6 атаки."
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "Игнорировать провокацию"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "Игнорировать провокацию"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "Смертельный касание"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "Призвать 3 Pyro в руку."
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "Уничтожить всех существ на поле"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "Снижает ОЗ всех персонажей до 1."
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "Все электрические монстры на поле +2 атаки (включая врагов). "
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "Уничтожить цель."
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "Замолчать цель-персонажа, затем проклятие цель-персонажа"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "Целевая карта получает \"Когда союзный персонаж входит в игру, уничтожьте это\"."
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "Посмотрите следующие 7 карт колоды и возьмите 1 электрическую карту в руку."
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "Целевая карта получает \"Когда союзный персонаж входит в игру, уничтожьте это\"."
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "Наносит 3 урона.\n Вытяните карту."
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "Снижает ОЗ всех персонажей до 1."
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "Все союзные персонажи Растений +2/2"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "Призвать 3 Hammi в руку."
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "Все карты возвращаются в руку владельца."
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "Посмотрите следующие 7 карт колоды и выберите 1 карту Льда."
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "Уничтожить все замороженные карты на поле"
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "Наносит 2 урона всем персонажам"
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "Призвать три Lampi 2/1 в руку."
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "Наносит 2 урона всем вражеским монстрам."
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "Цель получает +4/4 и засыпает."
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "Наносит 1 урон случайной карте.\n Повторить X раз."
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "Противник сбрасывает 3 случайные карты из руки."
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "Возьмите контроль над вражеским персонажем на 3 хода, или до эволюции"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "Уничтожить всех существ на поле"
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "Уничтожить все локации в игре. "
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "Цель получает панцирь и игнорирует следующий удар."
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "Парализует цель на 3 хода."
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "Снижает все ОЗ и атаки персонажей до 1"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "Целевое существо получает \"Получает 3 урона перед атакой\"."
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "Уничтожить персонажа с минимальными ОЗ."
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "Целевое существо получает \"Получает 3 урона перед атакой\"."
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "Наносит 1 урон.\n Вытяните карту."
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "Все карты возвращаются в руку владельца."
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "Целевая карта получает \"При атаке противник должен сбросить 1 случайную карту\"."
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "Отравить все карты в игре"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "Посмотрите следующие 7 карт колоды и выберите 1 карту Воды."
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "Вернуть вражескую цель в руку владельца."
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "Вернуть любую цель в руку владельца, затем противник сбрасывает случайную карту из руки."
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>Разыгрыш:</b> Уничтожьте персонажа с 2 или меньше атаки."
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>Атака:</b> Отравить цель. "
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>Атака:</b> Отравить цель. "
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "Вражеские персонажи -1 атаки.\n Может игнорировать провокацию."
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "При атаке игрока +1 маны."
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>Начало хода: </b>Все союзные карты Тени +1 атаки."
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "Невидимость\n Все Кошки +1 атаки."
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "<b>Набег Грязи:</b> Получает Набег, если на поле локация Льда."
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "Все союзные персонажи Камня +1 ОЗ.\n Провокация"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "НАБЕГ"
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "Ярость"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "<b>Разыгрыш:</b> Наносит 1 урон всем другим картам на поле."
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "Все союзные карты Тени +2 атаки."
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "Все союзные карты Растений +2 ОЗ."
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "При разыгрывании психического монстра или взятии контроля над монстром противника противник сбрасывает случайную карту. "
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "Все союзные каменные существа +2 ОЗ."
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "Все союзные огненные существа +2 атаки."
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "Карты Воды в вашей руке стоят на 1 ману меньше."
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>Ловушка:</b> Парализует цель на 1 ход и наносит 3 урона"
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>Ловушка:</b> 2 урона всем."
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>Ловушка:</b> Превращается в рыбу."
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>Ловушка:</b> Замораживает цель на 1 ход и наносит 3 урона"
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>Ловушка:</b> Отравляет и наносит 3 урона следующему атакующему."
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "Когда следующий вражеский персонаж атакует, возьмите ментальный контроль на 1 ход и дайте провокацию. "
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>Ловушка:</b> Парализует следующего атакующего."
+        },
+        {
+            "key": "card.trats.text",
+            "value": "После разыгрывания заклинания +2 атаки."
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "Ускорение\n Может игнорировать провокацию"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "Провокация"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>Смерть:</b> Вытяните карту.\n Игнорирует провокацию."
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "Иммунитет к заклинаниям\n Игнорировать провокацию"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>Разыгрыш</b>: Установите атаку карты-цели на 3"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "Провокация"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "При разыгрывании отравите все карты на поле."
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "Все электрические монстры стоят на 2 маны меньше "
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "Невидимость\n Атака: Яд"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "Не может атаковать. В начале вашего хода усыпляет случайного союзника."
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "Все огненные существа получают: \"Получает 1 урон для +1 атаки\". Стоимость 1 маны за использование."
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>Разыгрыш</b>: Установите атаку карты-цели на 1"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>Разыгрыш:</b> 1 урон всем."
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>Разыгрыш:</b> Замолчите карту-цель."
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "Каждый ход +1 брони."
+        },
+        {
+            "key": "card.waru.text",
+            "value": "Имеет +3 атаки во время хода противника."
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "Вражеские персонажи -1 атаки.\n <b>Действие:</b> +1 атаки союзникам."
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>Конец хода:</b> Входит в невидимость, если у вас есть другие персонажи."
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>Конец хода:</b> Входит в невидимость, если у вас есть другие персонажи."
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>Разыгрыш:</b> Вернуть персонажа в руку."
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>Разыгрыш:</b> Получить Провокацию или Ярость"
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "При атаке игрока +1 маны."
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>Скидка локации</b>: Любая локация того же элементного типа имеет скидку маны 1. "
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "За каждую карту локации в игре того же элементного типа +2 ОЗ. "
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "Иммунитет к заклинаниям"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "Иммунитет к заклинаниям"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "Провокация\n Панцирь"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "Иммунитет к заклинаниям"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>Разыгрыш:</b> Проклятие"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "Каждый раз, когда другой персонаж умирает, вытяните 2 карты."
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>Разыгрыш:</b> Атака персонажа-цели снижена до 1."
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "Ускорение / Лётчик"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "В начале каждого хода вытяните 1 карту."
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "Все другие рептилии союзники +2 атаки."
+        },
+        {
+            "key": "card_artist",
+            "value": "ХУДОЖНИК КАРТ"
+        },
+        {
+            "key": "card_description",
+            "value": "Описание карты"
+        },
+        {
+            "key": "card_level",
+            "value": "УРОВЕНЬ КАРТЫ"
+        },
+        {
+            "key": "cardback",
+            "value": "ЛИЦЕВАЯ СТОРОНА КАРТЫ"
+        },
+        {
+            "key": "cardbacks",
+            "value": "ЛИЦЕВЫЕ СТОРОНЫ КАРТ"
+        },
+        {
+            "key": "cards_owned",
+            "value": "КАРТЫ В СОБСТВЕННОСТИ"
+        },
+        {
+            "key": "challenge",
+            "value": "ВЫЗОВ"
+        },
+        {
+            "key": "character",
+            "value": "ПЕРСОНАЖ"
+        },
+        {
+            "key": "characters",
+            "value": "Персонажи"
+        },
+        {
+            "key": "chargement",
+            "value": "ЗАГРУЗКА"
+        },
+        {
+            "key": "check_optin",
+            "value": "ПРОВЕРИТЬ ОПТИН"
+        },
+        {
+            "key": "choose_a_quick_chat_option",
+            "value": "Выберите вариант быстрого чата"
+        },
+        {
+            "key": "claim",
+            "value": "ЗАЯВИТЬ"
+        },
+        {
+            "key": "claim_all",
+            "value": "ЗАЯВИТЬ ВСЕ"
+        },
+        {
+            "key": "click_this_button_to_generate_your_code_and_join_discord",
+            "value": "НАЖМИТЕ ЭТУ КНОПКУ, ЧТОБЫ СГЕНЕРИРОВАТЬ КОД И ПРИСОЕДИНИТЬСЯ К DISCORD"
+        },
+        {
+            "key": "click_to_chat",
+            "value": "НАЖМИТЕ ДЛЯ ЧАТА"
+        },
+        {
+            "key": "client_outdated",
+            "value": "КЛИЕНТ УСТАРЕЛ"
+        },
+        {
+            "key": "clone",
+            "value": "КЛОНИРОВАТЬ"
+        },
+        {
+            "key": "close",
+            "value": "ЗАКРЫТЬ"
+        },
+        {
+            "key": "cloth",
+            "value": "ТКАНЬ"
+        },
+        {
+            "key": "code",
+            "value": "КОД"
+        },
+        {
+            "key": "code...",
+            "value": "Код..."
+        },
+        {
+            "key": "collection",
+            "value": "Коллекция"
+        },
+        {
+            "key": "common",
+            "value": "Обычная"
+        },
+        {
+            "key": "community_guilds",
+            "value": "ОБЩИННЫЕ ГИЛЬДИИ"
+        },
+        {
+            "key": "confirm",
+            "value": "Подтвердить"
+        },
+        {
+            "key": "confirm...",
+            "value": "Подтвердить..."
+        },
+        {
+            "key": "confirm_delete",
+            "value": "ПОДТВЕРДИТЬ УДАЛЕНИЕ"
+        },
+        {
+            "key": "confirm_delete_account",
+            "value": "ПОДТВЕРДИТЬ УДАЛЕНИЕ АККАУНТА"
+        },
+        {
+            "key": "confirm_delete_guild",
+            "value": "ПОДТВЕРДИТЬ УДАЛЕНИЕ ГИЛЬДИИ"
+        },
+        {
+            "key": "connecting_to_server...",
+            "value": "Подключение к серверу..."
+        },
+        {
+            "key": "connecting_to_server....",
+            "value": "Подключение к серверу...."
+        },
+        {
+            "key": "continue",
+            "value": "ПРОДОЛЖИТЬ"
+        },
+        {
+            "key": "cost",
+            "value": "СТОИМОСТЬ"
+        },
+        {
+            "key": "cost_breakdown",
+            "value": "РАЗБИВКА СТОИМОСТИ"
+        },
+        {
+            "key": "create",
+            "value": "СОЗДАТЬ"
+        },
+        {
+            "key": "create_guild",
+            "value": "СОЗДАТЬ ГИЛЬДИЮ"
+        },
+        {
+            "key": "create_username",
+            "value": "СОЗДАТЬ ИМЯ ПОЛЬЗОВАТЕЛЯ"
+        },
+        {
+            "key": "credits",
+            "value": "КРЕДИТЫ"
+        },
+        {
+            "key": "crueltek",
+            "value": "CRUELTEK"
+        },
+        {
+            "key": "currently_in_the_main_menu",
+            "value": "Сейчас в главном меню"
+        },
+        {
+            "key": "currently_playing_a_solo_match...",
+            "value": "Сейчас играете в одиночную партию..."
+        },
+        {
+            "key": "custom_player_decks",
+            "value": "ПЕРСОНАЛИЗИРОВАННЫЕ КОЛОДЫ ИГРОКОВ"
+        },
+        {
+            "key": "customize",
+            "value": "НАСТРОИТЬ"
+        },
+        {
+            "key": "customize_tamer",
+            "value": "НАСТРОИТЬ ДРЕССИРОВЩИКА"
+        },
+        {
+            "key": "daily_rewards",
+            "value": "ЕЖЕДНЕВНЫЕ\n НАГРАДЫ"
+        },
+        {
+            "key": "daily_daily_tournament",
+            "value": "ЕЖЕДНЕВНЫЙ ЕЖЕДНЕВНЫЙ ТУРНИР"
+        },
+        {
+            "key": "daily_missions",
+            "value": "ЕЖЕДНЕВНЫЕ МИССИИ"
+        },
+        {
+            "key": "dangocat",
+            "value": "DANGOCAT"
+        },
+        {
+            "key": "dark_forest",
+            "value": "ТЕМНЫЙ ЛЕС"
+        },
+        {
+            "key": "day_1",
+            "value": "ДЕНЬ 1"
+        },
+        {
+            "key": "day_2",
+            "value": "ДЕНЬ 2"
+        },
+        {
+            "key": "day_3",
+            "value": "ДЕНЬ 3"
+        },
+        {
+            "key": "day_4",
+            "value": "ДЕНЬ 4"
+        },
+        {
+            "key": "day_5",
+            "value": "ДЕНЬ 5"
+        },
+        {
+            "key": "day_6",
+            "value": "ДЕНЬ 6"
+        },
+        {
+            "key": "day_7",
+            "value": "ДЕНЬ 7"
+        },
+        {
+            "key": "day_text",
+            "value": "текст дня"
+        },
+        {
+            "key": "deal_25_damage_with_shadow_monsters",
+            "value": "Нанести 25 урона теневыми монстрами"
+        },
+        {
+            "key": "deal_50_damage_with_shadow_monsters",
+            "value": "Нанести 50 урона теневыми монстрами"
+        },
+        {
+            "key": "deck",
+            "value": "КОЛОДА"
+        },
+        {
+            "key": "deck_name",
+            "value": "Название колоды"
+        },
+        {
+            "key": "deck_select",
+            "value": "ВЫБОР КОЛОДЫ"
+        },
+        {
+            "key": "deck_title",
+            "value": "Заголовок колоды"
+        },
+        {
+            "key": "decks",
+            "value": "КОЛОДЫ"
+        },
+        {
+            "key": "decline",
+            "value": "ОТКЛОНИТЬ"
+        },
+        {
+            "key": "defeats",
+            "value": "ПОРАЖЕНИЯ"
+        },
+        {
+            "key": "delete",
+            "value": "УДАЛИТЬ"
+        },
+        {
+            "key": "delete_account",
+            "value": "УДАЛИТЬ АККАУНТ"
+        },
+        {
+            "key": "delete_guild",
+            "value": "УДАЛИТЬ ГИЛЬДИЮ"
+        },
+        {
+            "key": "deny",
+            "value": "ОТКАЗАТЬ"
+        },
+        {
+            "key": "desc",
+            "value": "ОПИС."
+        },
+        {
+            "key": "description",
+            "value": "Описание"
+        },
+        {
+            "key": "destroy_5_monsters_using_fire_team",
+            "value": "Уничтожьте 5 монстров с помощью команды Огня"
+        },
+        {
+            "key": "detail",
+            "value": "ДЕТАЛЬ"
+        },
+        {
+            "key": "dev_team",
+            "value": "КОМАНДА РАЗРАБОТЧИКОВ"
+        },
+        {
+            "key": "devfraccas",
+            "value": "DevFraccas"
+        },
+        {
+            "key": "do_not_show_tips",
+            "value": "НЕ ПОКАЗЫВАТЬ СОВЕТЫ"
+        },
+        {
+            "key": "dogson",
+            "value": "DOGSON"
+        },
+        {
+            "key": "download_pera",
+            "value": "СКАЧАТЬ PERA"
+        },
+        {
+            "key": "earnings",
+            "value": "ДОХОДЫ"
+        },
+        {
+            "key": "earnings_per_day",
+            "value": "ДОХОДЫ В ДЕНЬ"
+        },
+        {
+            "key": "earnings_per_week",
+            "value": "ДОХОДЫ В НЕДЕЛЮ"
+        },
+        {
+            "key": "edit",
+            "value": "РЕДАКТИРОВАТЬ"
+        },
+        {
+            "key": "elemental_types",
+            "value": "ЭЛЕМЕНТАЛЬНЫЕ ТИПЫ"
+        },
+        {
+            "key": "elo",
+            "value": "ELO"
+        },
+        {
+            "key": "email",
+            "value": "Электронная почта"
+        },
+        {
+            "key": "e-mail",
+            "value": "Электронная почта"
+        },
+        {
+            "key": "email...",
+            "value": "Электронная почта..."
+        },
+        {
+            "key": "email_was_sent_with_a_code._enter_the_code_here_to_reset_your_password.",
+            "value": "Отправлено письмо с кодом.\n Введите код здесь, чтобы сбросить пароль."
+        },
+        {
+            "key": "emote",
+            "value": "ЭМОЦИЯ"
+        },
+        {
+            "key": "end_turn",
+            "value": "КОНЕЦ\n ХОДА"
+        },
+        {
+            "key": "enter_discord_code...",
+            "value": "Введите код Discord..."
+        },
+        {
+            "key": "enter_guild_description...",
+            "value": "Введите описание гильдии..."
+        },
+        {
+            "key": "enter_guild_name...",
+            "value": "Введите имя гильдии..."
+        },
+        {
+            "key": "enter_your_email",
+            "value": "Введите вашу электронную почту"
+        },
+        {
+            "key": "entry_fee",
+            "value": "ВХОДНАЯ ПЛАТА"
+        },
+        {
+            "key": "equipment",
+            "value": "Снаряжение"
+        },
+        {
+            "key": "error",
+            "value": "ОШИБКА"
+        },
+        {
+            "key": "error_msg",
+            "value": "Сообщение об ошибке"
+        },
+        {
+            "key": "evolves_to_danish",
+            "value": "ЭВОЛЮЦИОНИРУЕТ В DANISH"
+        },
+        {
+            "key": "evolves_to_gracelia",
+            "value": "ЭВОЛЮЦИОНИРУЕТ В GRACELIA"
+        },
+        {
+            "key": "exit_game",
+            "value": "ВЫЙТИ ИЗ ИГРЫ"
+        },
+        {
+            "key": "eyes",
+            "value": "ГЛАЗА"
+        },
+        {
+            "key": "fairy_powers",
+            "value": "СИЛЫ ФЕИ"
+        },
+        {
+            "key": "filters",
+            "value": "Фильтры"
+        },
+        {
+            "key": "finding_opponent...",
+            "value": "Поиск противника..."
+        },
+        {
+            "key": "fire_deck",
+            "value": "КОЛОДА ОГНЯ"
+        },
+        {
+            "key": "flemmy_suit",
+            "value": "КОСТЮМ ФЛЕММИ"
+        },
+        {
+            "key": "forge",
+            "value": "КУЗНЕЧНОЕ ДЕЛО"
+        },
+        {
+            "key": "forgot_password",
+            "value": "ЗАБЫЛИ ПАРОЛЬ"
+        },
+        {
+            "key": "fracctal_tcg_squad",
+            "value": "ОТРЯД FRACTAL TCG"
+        },
+        {
+            "key": "free",
+            "value": "БЕСПЛАТНО"
+        },
+        {
+            "key": "friend_list_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "Список друзей недоступен в тестовом режиме.\n Установите сервер веб-API для использования этой функции."
+        },
+        {
+            "key": "friends",
+            "value": "ДРУЗЬЯ"
+        },
+        {
+            "key": "game_artist",
+            "value": "ХУДОЖНИК ИГРЫ"
+        },
+        {
+            "key": "game_developer",
+            "value": "разработчик игры"
+        },
+        {
+            "key": "glasses",
+            "value": "ОЧКИ"
+        },
+        {
+            "key": "gold_3",
+            "value": "ЗОЛОТО 3"
+        },
+        {
+            "key": "gold_asset",
+            "value": "ЗОЛОТОЙ АКТИВ"
+        },
+        {
+            "key": "graphics",
+            "value": "Графика"
+        },
+        {
+            "key": "grocelia",
+            "value": "GROCELIA"
+        },
+        {
+            "key": "guide_fairy",
+            "value": "ФЕЯ-ПРОВОДНИК"
+        },
+        {
+            "key": "guild_description",
+            "value": "ОПИСАНИЕ ГИЛЬДИИ"
+        },
+        {
+            "key": "guild_leader",
+            "value": "ЛИДЕР ГИЛЬДИИ"
+        },
+        {
+            "key": "guild_name",
+            "value": "НАЗВАНИЕ ГИЛЬДИИ"
+        },
+        {
+            "key": "guild_requests",
+            "value": "ЗАПРОСЫ ГИЛЬДИИ"
+        },
+        {
+            "key": "guild_vault_cards",
+            "value": "КАРТЫ ХРАНИЛИЩА ГИЛЬДИИ"
+        },
+        {
+            "key": "guilds",
+            "value": "гильдии"
+        },
+        {
+            "key": "hands",
+            "value": "РУКИ"
+        },
+        {
+            "key": "head",
+            "value": "ГОЛОВА"
+        },
+        {
+            "key": "in_progress",
+            "value": "В ПРОЦЕССЕ"
+        },
+        {
+            "key": "inbox",
+            "value": "ВХОДЯЩИЕ"
+        },
+        {
+            "key": "james_ward",
+            "value": "James Ward"
+        },
+        {
+            "key": "join",
+            "value": "ПРИСОЕДИНИТЬСЯ"
+        },
+        {
+            "key": "join_discord",
+            "value": "ПРИСОЕДИНИТЬСЯ К DISCORD"
+        },
+        {
+            "key": "join_guild",
+            "value": "ПРИСОЕДИНИТЬСЯ К ГИЛЬДИИ"
+        },
+        {
+            "key": "join_with_code",
+            "value": "ПРИСОЕДИНИТЬСЯ С КОДОМ"
+        },
+        {
+            "key": "kick",
+            "value": "ВЫКИНУТЬ"
+        },
+        {
+            "key": "kill_5_monsters_using_fire_monsters",
+            "value": "Убейте 5 монстров огненными монстрами"
+        },
+        {
+            "key": "kill_5_monsters_using_plant_monsters",
+            "value": "Убейте 5 монстров растительными монстрами"
+        },
+        {
+            "key": "kk_honey",
+            "value": "KK HONEY"
+        },
+        {
+            "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "Таблица лидеров недоступна в тестовом режиме.\n Установите сервер веб-API для использования этой функции."
+        },
+        {
+            "key": "leave_guild",
+            "value": "ПОКИНУТЬ ГИЛЬДИЮ"
+        },
+        {
+            "key": "level",
+            "value": "УРОВЕНЬ"
+        },
+        {
+            "key": "level_1",
+            "value": "УРОВЕНЬ 1"
+        },
+        {
+            "key": "level_5",
+            "value": "Уровень 5"
+        },
+        {
+            "key": "level_up_10_cards",
+            "value": "Повысить 10 карт"
+        },
+        {
+            "key": "level_up_5_cards",
+            "value": "Повысить 5 карт"
+        },
+        {
+            "key": "loading...",
+            "value": "ЗАГРУЗКА..."
+        },
+        {
+            "key": "locations",
+            "value": "ЛОКАЦИИ"
+        },
+        {
+            "key": "login",
+            "value": "ВХОД"
+        },
+        {
+            "key": "login_with_immutable",
+            "value": "ВХОД С IMMUTABLE"
+        },
+        {
+            "key": "logout",
+            "value": "ВЫХОД"
+        },
+        {
+            "key": "marc",
+            "value": "Marc"
+        },
+        {
+            "key": "master",
+            "value": "Мастер"
+        },
+        {
+            "key": "max",
+            "value": "Макс"
+        },
+        {
+            "key": "menu",
+            "value": "МЕНЮ"
+        },
+        {
+            "key": "missions",
+            "value": "МИССИИ"
+        },
+        {
+            "key": "monster",
+            "value": "МОНАСТР"
+        },
+        {
+            "key": "monster_name",
+            "value": "Имя монстра"
+        },
+        {
+            "key": "monsters",
+            "value": "Монстры"
+        },
+        {
+            "key": "mouth",
+            "value": "РОТ"
+        },
+        {
+            "key": "mulligan",
+            "value": "Муллиган"
+        },
+        {
+            "key": "multiplayer",
+            "value": "МУЛЬТИПЛЕЕР"
+        },
+        {
+            "key": "music",
+            "value": "Музыка"
+        },
+        {
+            "key": "mythic",
+            "value": "Мифический"
+        },
+        {
+            "key": "name",
+            "value": "Имя"
+        },
+        {
+            "key": "new_password",
+            "value": "НОВЫЙ ПАРОЛЬ"
+        },
+        {
+            "key": "new_password...",
+            "value": "Новый пароль..."
+        },
+        {
+            "key": "new_text",
+            "value": "Новый текст"
+        },
+        {
+            "key": "next",
+            "value": "ДАЛЕЕ"
+        },
+        {
+            "key": "nicolas_oliver",
+            "value": "NICOLAS OLIVER"
+        },
+        {
+            "key": "nodejs",
+            "value": "NODEJS"
+        },
+        {
+            "key": "nose",
+            "value": "НОС"
+        },
+        {
+            "key": "not_enrolled",
+            "value": "НЕ ЗАРЕГИСТРИРОВАН"
+        },
+        {
+            "key": "not_owned",
+            "value": "Не в собственности"
+        },
+        {
+            "key": "ok",
+            "value": "OK"
+        },
+        {
+            "key": "ongoing",
+            "value": "В ПРОЦЕССЕ"
+        },
+        {
+            "key": "online_players",
+            "value": "ИГРОКИ ОНЛАЙН"
+        },
+        {
+            "key": "open_packs",
+            "value": "ОТКРЫТЬ НАБОРЫ"
+        },
+        {
+            "key": "optin",
+            "value": "ОПТИН"
+        },
+        {
+            "key": "optin_asa_txn",
+            "value": "OPTIN ASA TXN"
+        },
+        {
+            "key": "option_a",
+            "value": "Опция A"
+        },
+        {
+            "key": "owned",
+            "value": "В собственности"
+        },
+        {
+            "key": "owned_assets",
+            "value": "АКТИВЫ В СОБСТВЕННОСТИ"
+        },
+        {
+            "key": "ownership",
+            "value": "ПРАВО СОБСТВЕННОСТИ"
+        },
+        {
+            "key": "pack",
+            "value": "НАБОР"
+        },
+        {
+            "key": "pack_description",
+            "value": "Описание набора"
+        },
+        {
+            "key": "packs",
+            "value": "НАБОРЫ"
+        },
+        {
+            "key": "partners",
+            "value": "ПАРТНЕРЫ"
+        },
+        {
+            "key": "password",
+            "value": "Пароль"
+        },
+        {
+            "key": "password_recovery",
+            "value": "Восстановление пароля"
+        },
+        {
+            "key": "per_day",
+            "value": "в день"
+        },
+        {
+            "key": "pera_account_uid",
+            "value": "UID УЧЕТНОЙ ЗАПИСИ PERA"
+        },
+        {
+            "key": "pets",
+            "value": "МАСТЬ"
+        },
+        {
+            "key": "plant_starter",
+            "value": "стартер растений"
+        },
+        {
+            "key": "play",
+            "value": "ИГРАТЬ"
+        },
+        {
+            "key": "play_a_match_to_re-activate",
+            "value": "Играйте матч для реактивации"
+        },
+        {
+            "key": "play_with_code",
+            "value": "ИГРАТЬ С КОДОМ"
+        },
+        {
+            "key": "player",
+            "value": "Игрок"
+        },
+        {
+            "key": "players",
+            "value": "ИГРОКИ"
+        },
+        {
+            "key": "practice",
+            "value": "ПРАКТИКА"
+        },
+        {
+            "key": "premium",
+            "value": "ПРЕМИУМ"
+        },
+        {
+            "key": "preview",
+            "value": "ПРЕДВАРИТЕЛЬНЫЙ ПРОСМОТР"
+        },
+        {
+            "key": "previous",
+            "value": "Предыдущий"
+        },
+        {
+            "key": "previous_password",
+            "value": "ПРЕДЫДУЩИЙ ПАРОЛЬ"
+        },
+        {
+            "key": "prismatic",
+            "value": "Призматический"
+        },
+        {
+            "key": "private",
+            "value": "ПРИВАТНЫЙ"
+        },
+        {
+            "key": "prizes",
+            "value": "ПРИЗЫ"
+        },
+        {
+            "key": "profile",
+            "value": "ПРОФИЛЬ"
+        },
+        {
+            "key": "promote",
+            "value": "ПОВЫСИТЬ"
+        },
+        {
+            "key": "purchase_pack",
+            "value": "КУПИТЬ НАБОР"
+        },
+        {
+            "key": "quality",
+            "value": "Качество"
+        },
+        {
+            "key": "quantity",
+            "value": "КОЛИЧЕСТВО"
+        },
+        {
+            "key": "quit",
+            "value": "ВЫЙТИ"
+        },
+        {
+            "key": "rafael_santos",
+            "value": "Rafael Santos"
+        },
+        {
+            "key": "random",
+            "value": "СЛУЧАЙНЫЙ"
+        },
+        {
+            "key": "random_rare_reward",
+            "value": "СЛУЧАЙНАЯ РЕДКАЯ НАГРАДА"
+        },
+        {
+            "key": "rank",
+            "value": "РАЗРЯД"
+        },
+        {
+            "key": "rankings",
+            "value": "РАЗРЯДЫ"
+        },
+        {
+            "key": "rare",
+            "value": "Редкий"
+        },
+        {
+            "key": "rare_avatar",
+            "value": "РЕДКИЙ АВАТАР"
+        },
+        {
+            "key": "rarity",
+            "value": "Редкость"
+        },
+        {
+            "key": "raz",
+            "value": "RaZ"
+        },
+        {
+            "key": "recover_username",
+            "value": "ВОССТАНОВИТЬ ИМЯ ПОЛЬЗОВАТЕЛЯ"
+        },
+        {
+            "key": "register",
+            "value": "РЕГИСТРАЦИЯ"
+        },
+        {
+            "key": "remove",
+            "value": "УДАЛИТЬ"
+        },
+        {
+            "key": "requests",
+            "value": "ЗАПРОСЫ"
+        },
+        {
+            "key": "resend_confirmation",
+            "value": "ПОВТОРНО ОТПРАВИТЬ ПОДТВЕРЖДЕНИЕ"
+        },
+        {
+            "key": "resolution",
+            "value": "Разрешение"
+        },
+        {
+            "key": "result",
+            "value": "результат"
+        },
+        {
+            "key": "resume",
+            "value": "ПРОДОЛЖИТЬ"
+        },
+        {
+            "key": "retype",
+            "value": "ПЕРЕПЕЧАТАТЬ"
+        },
+        {
+            "key": "rewards",
+            "value": "НАГРАДЫ"
+        },
+        {
+            "key": "round",
+            "value": "круг"
+        },
+        {
+            "key": "round_3",
+            "value": "КРУГ 3"
+        },
+        {
+            "key": "save",
+            "value": "СОХРАНИТЬ"
+        },
+        {
+            "key": "save_changes",
+            "value": "СОХРАНИТЬ ИЗМЕНЕНИЯ"
+        },
+        {
+            "key": "save_success",
+            "value": "СОХРАНЕНИЕ УСПЕШНО"
+        },
+        {
+            "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
+            "value": "СКАНИРОВАТЬ QR-КОД\n ПОДПИСАТЬ TXN В МОБИЛЬНОМ ПРИЛОЖЕНИИ PERA\n НАЖАТЬ КНОПКУ ПОДТВЕРЖДЕНИЯ СПРАВА"
+        },
+        {
+            "key": "search",
+            "value": "ПОИСК"
+        },
+        {
+            "key": "search_by_name",
+            "value": "ПОИСК ПО ИМЕНИ"
+        },
+        {
+            "key": "select",
+            "value": "ВЫБРАТЬ"
+        },
+        {
+            "key": "select_a_card",
+            "value": "Выберите карту"
+        },
+        {
+            "key": "select_a_choice",
+            "value": "ВЫБРАТЬ ВАРИАНТ"
+        },
+        {
+            "key": "select_a_target",
+            "value": "Выберите цель"
+        },
+        {
+            "key": "select_card_cost",
+            "value": "ВЫБРАТЬ СТОИМОСТЬ КАРТЫ"
+        },
+        {
+            "key": "select_cards_to_replace",
+            "value": "Выберите карты для замены"
+        },
+        {
+            "key": "select_deck",
+            "value": "ВЫБРАТЬ КОЛОДУ"
+        },
+        {
+            "key": "select_one_starter_deck",
+            "value": "ВЫБЕРИТЕ ОДНУ НАЧАЛЬНУЮ КОЛОДУ"
+        },
+        {
+            "key": "sell",
+            "value": "ПРОДАТЬ"
+        },
+        {
+            "key": "sell_duplicate_cards",
+            "value": "Продать дубликаты карт"
+        },
+        {
+            "key": "sell_duplicates",
+            "value": "Продать дубликаты"
+        },
+        {
+            "key": "send",
+            "value": "ОТПРАВИТЬ"
+        },
+        {
+            "key": "send_guild",
+            "value": "ОТПРАВИТЬ ГИЛЬДИЮ"
+        },
+        {
+            "key": "settings",
+            "value": "НАСТРОЙКИ"
+        },
+        {
+            "key": "sfx",
+            "value": "SFX"
+        },
+        {
+            "key": "sign_in_with_steam",
+            "value": "войти с steam"
+        },
+        {
+            "key": "silence_target_card.",
+            "value": "Замолчать карту-цель."
+        },
+        {
+            "key": "smokenstein",
+            "value": "SMOKENSTEIN"
+        },
+        {
+            "key": "sort",
+            "value": "СОРТИРОВАТЬ"
+        },
+        {
+            "key": "spectate",
+            "value": "НАБЛЮДАТЬ"
+        },
+        {
+            "key": "spells",
+            "value": "Заклинания"
+        },
+        {
+            "key": "standard_pack",
+            "value": "СТАНДАРТНЫЙ НАБОР"
+        },
+        {
+            "key": "start",
+            "value": "НАЧАТЬ"
+        },
+        {
+            "key": "start_time",
+            "value": "ВРЕМЯ НАЧАЛА"
+        },
+        {
+            "key": "status",
+            "value": "СТАТУС"
+        },
+        {
+            "key": "status_title",
+            "value": "Заголовок статуса"
+        },
+        {
+            "key": "submit",
+            "value": "ОТПРАВИТЬ"
+        },
+        {
+            "key": "success",
+            "value": "УСПЕХ"
+        },
+        {
+            "key": "tamer_silvo",
+            "value": "ДРЕССИРОВЩИК СИЛЬВО"
+        },
+        {
+            "key": "tamers",
+            "value": "ДРЕССИРОВЩИКИ"
+        },
+        {
+            "key": "tbd",
+            "value": "ТРЕБУЕТСЯ УТОЧНЕНИЕ"
+        },
+        {
+            "key": "tcg_council",
+            "value": "СОВЕТ TCG"
+        },
+        {
+            "key": "tcg_engine",
+            "value": "ДВИГАТЕЛЬ TCG"
+        },
+        {
+            "key": "tcgs",
+            "value": "TCGs"
+        },
+        {
+            "key": "test_tournament",
+            "value": "ТЕСТОВЫЙ ТУРНИР"
+        },
+        {
+            "key": "title",
+            "value": "Заголовок"
+        },
+        {
+            "key": "total_earnings",
+            "value": "ОБЩИЙ ДОХОД"
+        },
+        {
+            "key": "tournament",
+            "value": "ТУРНИР"
+        },
+        {
+            "key": "tournament_confirmation",
+            "value": "ПОДТВЕРЖДЕНИЕ ТУРНИРА"
+        },
+        {
+            "key": "tournament_wins",
+            "value": "ПОБЕДЫ В ТУРНИРАХ"
+        },
+        {
+            "key": "tournaments",
+            "value": "ТУРНИРЫ"
+        },
+        {
+            "key": "traits",
+            "value": "ЧЕРТЫ"
+        },
+        {
+            "key": "traps",
+            "value": "Ловушки"
+        },
+        {
+            "key": "turn_6",
+            "value": "ХОД 6"
+        },
+        {
+            "key": "type",
+            "value": "тип"
+        },
+        {
+            "key": "uncommon",
+            "value": "Незначительный"
+        },
+        {
+            "key": "uncommon_avatar",
+            "value": "НЕЗНАЧИТЕЛЬНЫЙ АВАТАР"
+        },
+        {
+            "key": "unity_engine",
+            "value": "ДВИГАТЕЛЬ UNITY"
+        },
+        {
+            "key": "unlink",
+            "value": "ОТСЫЛАТЬ"
+        },
+        {
+            "key": "update_password",
+            "value": "ОБНОВИТЬ ПАРОЛЬ"
+        },
+        {
+            "key": "username",
+            "value": "Имя пользователя"
+        },
+        {
+            "key": "username...",
+            "value": "Имя пользователя..."
+        },
+        {
+            "key": "vault",
+            "value": "ХРАНИЛИЩЕ"
+        },
+        {
+            "key": "version_1.00",
+            "value": "Версия 1.00"
+        },
+        {
+            "key": "victories",
+            "value": "ПОБЕДЫ"
+        },
+        {
+            "key": "victory",
+            "value": "ПОБЕДА"
+        },
+        {
+            "key": "view",
+            "value": "ПРОСМОТР"
+        },
+        {
+            "key": "wallet_confirmation_txn",
+            "value": "TXN ПОДТВЕРЖДЕНИЯ КОШЕЛЬКА"
+        },
+        {
+            "key": "warning_text",
+            "value": "Текст предупреждения"
+        },
+        {
+            "key": "weekly_guild_missions",
+            "value": "ЕЖЕНЕДЕЛЬНЫЕ МИССИИ ГИЛЬДИИ"
+        },
+        {
+            "key": "weekly_missions",
+            "value": "ЕЖЕНЕДЕЛЬНЫЕ МИССИИ"
+        },
+        {
+            "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
+            "value": "Когда новый игрок использует ваше имя пользователя как код реферала, он получит 1 редкий набор, и вы получите редкий набор каждый раз, когда он повышает уровень аккаунта "
+        },
+        {
+            "key": "win_3_ranked_matches",
+            "value": "Победите в 3 ранговых матчах"
+        },
+        {
+            "key": "windowed",
+            "value": "В окне"
+        },
+        {
+            "key": "winner",
+            "value": "ПОБЕДИТЕЛЬ"
+        },
+        {
+            "key": "winrate",
+            "value": "ПРОЦЕНТ ПОБЕД"
+        },
+        {
+            "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
+            "value": "Вы должны играть хотя бы один матч каждые 24 часа, чтобы поддерживать активные доходы от наград. Награды приостанавливаются, пока вы не сыграете снова.\n "
+        },
+        {
+            "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
+            "value": "ВАША КОЛОДА СОХРАНЕНА И МОЖЕТ БЫТЬ ИСПОЛЬЗОВАНА В БИТВЕ."
+        },
+        {
+            "key": "zhamster",
+            "value": "ZHAMSTER"
+        },
+        {
+            "key": "language",
+            "value": "ЯЗЫК"
+        },
+        {
+            "key": "warning.not_your_turn",
+            "value": "Не ваш ход"
+        },
+        {
+            "key": "warning.no_more_actions",
+            "value": "Больше действий нет"
+        },
+        {
+            "key": "warning.rush_cant_attack_player",
+            "value": "Карты с ускорением не могут атаковать игроков в ход, когда они разыграны"
+        },
+        {
+            "key": "warning.not_enough_mana",
+            "value": "Недостаточно маны"
+        },
+        {
+            "key": "warning.not_enough_team_points",
+            "value": "Недостаточно очков команды"
+        },
+        {
+            "key": "warning.maximum_traps",
+            "value": "Максимум 5 ловушки"
+        },
+        {
+            "key": "warning.spell_immunity",
+            "value": "Иммунитет к заклинаниям"
+        },
+        {
+            "key": "warning.invalid_target",
+            "value": "Неверная цель"
+        },
+        {
+            "key": "quick_chat.placeholder",
+            "value": "Выберите вариант быстрого чата..."
+        },
+        {
+            "key": "quick_chat.gm",
+            "value": "Привет!"
+        },
+        {
+            "key": "quick_chat.hello",
+            "value": "Привет!"
+        },
+        {
+            "key": "quick_chat.glhf",
+            "value": "Удачи и веселья!"
+        },
+        {
+            "key": "quick_chat.lets_go",
+            "value": "Поехали!"
+        },
+        {
+            "key": "quick_chat.lets_battle",
+            "value": "Давай сражаться!"
+        },
+        {
+            "key": "quick_chat.lets_fight",
+            "value": "Давай драться!"
+        },
+        {
+            "key": "quick_chat.lets_have_fun",
+            "value": "Давай веселиться!"
+        },
+        {
+            "key": "quick_chat.nice_move",
+            "value": "Хороший ход!"
+        },
+        {
+            "key": "quick_chat.rip",
+            "value": "RIP"
+        },
+        {
+            "key": "quick_chat.rip_gg",
+            "value": "RIP GG"
+        },
+        {
+            "key": "quick_chat.oops",
+            "value": "Ой!"
+        },
+        {
+            "key": "quick_chat.thanks",
+            "value": "Спасибо!"
+        },
+        {
+            "key": "quick_chat.good_game",
+            "value": "Хорошая игра!"
+        },
+        {
+            "key": "quick_chat.well_played",
+            "value": "Хорошо сыграно!"
+        },
+        {
+            "key": "quick_chat.close_game",
+            "value": "Близкая игра!"
+        },
+        {
+            "key": "quick_chat.close_one",
+            "value": "Близко!"
+        },
+        {
+            "key": "quick_chat.great_battle",
+            "value": "Отличная битва!"
+        },
+        {
+            "key": "quick_chat.what_a_battle",
+            "value": "Какая битва!"
+        },
+        {
+            "key": "quick_chat.respect",
+            "value": "Уважение"
+        },
+        {
+            "key": "tip_mind_control_base",
+            "value": "{0} захватил контроль над {1}! Оно будет сражаться за них, пока эффект не закончится."
+        },
+        {
+            "key": "tip_mind_control_ability",
+            "value": "Источник способности: {0}"
+        },
+        {
+            "key": "tip_mind_control_evolution_return",
+            "value": "Если контролируемый монстр эволюционирует, а затем регрессирует, он возвращается к оригинальному владельцу."
+        },
+        {
+            "key": "tip_mind_control_hint_none",
+            "value": "Нет подсказок по освобождению. Следите за другими эффектами, которые могут завершить контроль."
+        },
+        {
+            "key": "tip_mind_control_caster_fallback",
+            "value": "источник заклинания"
+        },
+        {
+            "key": "tip_mind_control_hint_caster",
+            "value": "Победите {0}, чтобы прервать ментальный контроль."
+        },
+        {
+            "key": "tip_mind_control_hint_turns",
+            "value": "Ментальный контроль заканчивается после {0} хода(ов) {1}."
+        },
+        {
+            "key": "tip_mind_control_turn_owner_original",
+            "value": "оригинальный владелец"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_active",
+            "value": "активный игрок"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_controller",
+            "value": "контроллер"
+        },
+        {
+            "key": "tip_swap_slots_base",
+            "value": "{0} поменял позиции {1} и {2}."
+        },
+        {
+            "key": "tip_swap_slots_ability",
+            "value": "Использованная способность: {0}"
+        },
+        {
+            "key": "tip_unknown_card",
+            "value": "Неизвестная карта"
+        },
+        {
+            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
+            "value": "Атакуйте, перетащив одного из своих Ягуров на врага."
+        },
+        {
+            "key": "before_they_destroy_yours",
+            "value": "Пока они не уничтожили ваше"
+        },
+        {
+            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
+            "value": "Но вы вполне можете атаковать теми монстрами, которые уже в игре."
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>Игра:</b> Выберите подконтрольного персонажа и отправьте его к другому игроку со способностью: вражеские персонажи получают +1/+2"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>Игра:</b> Выберите подконтрольного персонажа и отправьте его к другому игроку со способностью: в начале каждого хода сбрасывайте 2 карты"
+        },
+        {
+            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
+            "value": "Стоимость маны указана в углу карты."
+        },
+        {
+            "key": "opponent",
+            "value": "Противник"
+        },
+        {
+            "key": "to_play_cards_you_must_spend_mana",
+            "value": "Чтобы разыгрывать карты, нужно тратить ману."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "Попробуйте разыграть карту, перетащив её на одну из пустых клеток на поле."
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Любую карту в вашей руке с зелёной подсветкой можно сыграть."
+        },
+        {
+            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
+            "value": "Когда закончите свой ход, нажмите «Завершить ход»."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "У вас два варианта."
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Добро пожаловать в учебник Fracctal TCG"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Добро пожаловать в учебник Fracctal TCG"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "СРАЖАЙТЕСЬ С ДРУГИМИ ИГРОКАМИ В РЕЙТИНГОВОМ МУЛЬТИПЛЕЕРЕ.\n  \n   Вы можете проверить свой рейтинг PvP с помощью кнопки в верхней части панели навигации. "
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "СОРЕВНУЙТЕСЬ В ЕЖЕДНЕВНЫХ АВТОМАТИЧЕСКИХ ТУРНИРАХ ПРОТИВ ДРУГИХ ИГРОКОВ В НАШЕМ ТУРНИРНОМ РЕЖИМЕ.\n  \n  ВЫИГРЫВАЙТЕ ВАЛЮТУ ЭССЕНЦИИ, ОПЫТ АККАУНТА, НАБОРЫ И ОЧКИ ГИЛЬДИИ В ЭТИХ СОРЕВНОВАНИЯХ!"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Попробуйте сыграть карту, перетащив её на одну из пустых клеток на поле.\n\n Любая карта в вашей руке с зелёной подсветкой может быть сыграна."
+        },
+        {
+            "key": "modal.version_warning_message",
+            "value": "ВАША ВЕРСИЯ ИГРЫ {0} УСТАРЕЛА. ПОСЛЕДНЯЯ ВЕРСИЯ {1}."
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_beta!_let's_learn_a_bit_about_the_game.",
+            "value": "Добро пожаловать в бета-версию Fracctal TCG!\n Давайте немного познакомимся с игрой."
+        },
+        {
+            "key": "in_adventure_mode_you_learn_the_basics_of_the_game_as_well_as_the_different_types_of_cards_and_abilites.you_also_earn_rewards_as_you_defeat_challenges!",
+            "value": "В режиме приключения вы изучите основы игры, а также различные типы карт и способностей.\n \n Кроме того, вы получаете награды по мере прохождения испытаний!"
+        },
+        {
+            "key": "in_practice_mode_you_can_test_your_different_decks,_complete_missions,_and_learn_the_game_wihtout_affecting_your_ranking.",
+            "value": "В режиме Практики вы можете тестировать разные колоды, выполнять задания и изучать игру, не влияя на ваше место в рейтинге."
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "Сражайтесь с другими игроками в рейтинговом мультиплеере.\n \n Проверяйте свой PvP-рейтинг с помощью кнопки вверху панели навигации."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_mode.win_essence_currency,_account_xp,_packs,_and_guild_points_in_these_competions!",
+            "value": "Ежедневно участвуйте в автоматических турнирах против других игроков в нашем турнирном режиме.\n \n Зарабатывайте валюту Эссенции, опыт аккаунта, наборы и очки гильдии в этих состязаниях!"
+        },
+        {
+            "key": "missions_are_the_primary_method_of_gaining_currency_to_open_new_packs._there_are_many_more_features_like_match_spectating,_daily_login_streak_rewards,_friends_list,_player_created_guilds,_battlepass_rewards,_and_much_more!we_suggest_you_start_with_adventure_mode._good_luck!",
+            "value": "Задания — основной способ получения валюты для открытия новых наборов.\n \n В игре есть и другие возможности: наблюдение за матчами, награды за ежедневную серию входов, список друзей, гильдии, создаваемые игроками, награды боевого пропуска и многое другое!\n \n Рекомендуем начать с режима Приключений. Удачи!"
+        },
+        {
+            "key": "great_job!_creatures_that_just_entered_play_cannot_attack_in_the_same_turn.",
+            "value": "Отличная работа! Существа, только что вышедшие на поле, не могут атаковать в тот же ход."
+        },
+        {
+            "key": "now_destroy_the_other_monster!",
+            "value": "Теперь уничтожьте другого монстра!"
+        },
+        {
+            "key": "your_goal_is_to_reduce_your_opponent's_hp_to_0.",
+            "value": "Ваша цель — снизить очки здоровья противника до 0."
+        },
+        {
+            "key": "many_monsters_are_quite_strong_because_their_fury_ability_let_them_attack_twice_per_turn!",
+            "value": "Многие монстры очень сильны, потому что их способность «Ярость» позволяет атаковать дважды за ход!"
+        },
+        {
+            "key": "you_will_probably_want_to_get_rid_of_the_ignitas_this_turn,_otherwise_it_could_damage_most_of_your_hp!",
+            "value": "Вероятно, вам стоит избавиться от Игнитуса в этом ходу, иначе он может снять большую часть ваших ОЗ!"
+        },
+        {
+            "key": "your_jagur_can_only_deal_1_damage,_but_you_need_2_to_destroy_the_ignitas.",
+            "value": "Ваш Ягур наносит лишь 1 урон, но нужно 2, чтобы уничтожить Игнитуса."
+        },
+        {
+            "key": "you_have_two_choices._you_can_either_try_to_paralyze_the_ignitus,_or_play_a_cheetula_to_boost_your_jagur_attack.",
+            "value": "У вас два варианта. Вы можете попытаться парализовать Игнитуса или разыграть Чеетулу, чтобы усилить атаку Ягура."
+        },
+        {
+            "key": "great_choice,_the_ignitas_won't_be_able_to_attack_for_the_next_2_turns.",
+            "value": "Отличный выбор: Игнитус не сможет атаковать в течение следующих 2 ходов."
+        },
+        {
+            "key": "now_you_could_attack_the_opponent,_or_end_your_turn.",
+            "value": "Теперь вы можете атаковать противника или завершить свой ход."
+        },
+        {
+            "key": "great_choice,_now_your_jagur_has_2_attack._you_can_attack_and_kill_the_ignitas!",
+            "value": "Отличный выбор, теперь у вашего Ягура 2 атаки. Вы можете атаковать и добить Игнитуса!"
+        },
+        {
+            "key": "to_attack_the_opponent's_hp._drag_one_of_your_characters_in_play_on_top_of_the_opponent's_hand_area.",
+            "value": "Чтобы атаковать ОЗ противника. Перетащите одного из ваших персонажей в игре на область руки противника."
+        },
+        {
+            "key": "good_luck!",
+            "value": "Удачи!"
+        },
+        {
+            "key": "hero_power_popup.contribution_line1",
+            "value": "Игра {0} карт заряжает вашу силу феи."
+        },
+        {
+            "key": "hero_power_popup.contribution_line2",
+            "value": "Вы только что внесли вклад! Прогресс: {0}/{1} очков элемента."
+        },
+        {
+            "key": "hero_power_popup.contribution_line3",
+            "value": "Наберите нужное количество очков, чтобы активировать её."
+        },
+        {
+            "key": "hero_power_popup.fairy_power_label",
+            "value": "Сила феи: {0}"
+        },
+        {
+            "key": "tip_heropower_electric",
+            "value": "Цель получает Силу для атаки (только для электрического монстра)."
+        },
+        {
+            "key": "tip_heropower_fire",
+            "value": "Нанесите 1 урон."
+        },
+        {
+            "key": "tip_heropower_ice",
+            "value": "Заморозьте врага на 1 ход."
+        },
+        {
+            "key": "tip_heropower_plant",
+            "value": "Восстановите 2 ОЗ."
+        },
+        {
+            "key": "tip_heropower_psychic",
+            "value": "Противник сбрасывает случайную карту из руки."
+        },
+        {
+            "key": "tip_heropower_rock",
+            "value": "Целевой персонаж получает +1 к броне."
+        },
+        {
+            "key": "tip_heropower_shadow",
+            "value": "Цель становится проклятой."
+        },
+        {
+            "key": "tip_heropower_water",
+            "value": "Возьмите карту."
+        },
+        {
+            "key": "turn_popup.your_turn",
+            "value": "ВАШ ХОД"
+        },
+        {
+            "key": "turn_popup.opponent_turn",
+            "value": "ХОД ПРОТИВНИКА"
+        },
+        {
+            "key": "status.addattack.title",
+            "value": "Усиление атаки"
+        },
+        {
+            "key": "status.addattack.desc",
+            "value": "Получает +<value> к атаке на ограниченное время."
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "Усиление ОЗ"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "Получает +<value> ОЗ на ограниченное время."
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "Модификатор стоимости маны"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "Стоимость маны изменяется на <value> на ограниченное время."
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "Скрытность"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "Нельзя атаковать или выбрать целью, пока не совершит действие."
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "Неуязвимость"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "Нельзя атаковать в течение <value> хода(ов)."
+        },
+        {
+            "key": "status.shell.title",
+            "value": "Панцирь"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "Игнорирует первый получаемый источник урона."
+        },
+        {
+            "key": "status.protection.title",
+            "value": "Провокация"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "Враги должны атаковать эту карту прежде других."
+        },
+        {
+            "key": "status.protected.title",
+            "value": "Под защитой"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "Нельзя атаковать, пока защищён союзником с Провокацией."
+        },
+        {
+            "key": "status.armor.title",
+            "value": "Броня"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "Снижает входящий урон на <value>."
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "Иммунитет к заклинаниям"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "Нельзя выбрать целью и повредить заклинаниями."
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "Иммунитет к способностям"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "Нельзя выбрать целью способностями персонажей; силы фей всё ещё действуют."
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "Смертельное касание"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "Уничтожает любого персонажа, которому наносит урон."
+        },
+        {
+            "key": "status.fury.title",
+            "value": "Ярость"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "Может атаковать дважды за ход."
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "Запугивание"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "Получившие урон враги не контратакуют."
+        },
+        {
+            "key": "status.flying.title",
+            "value": "Полет"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "Может игнорировать провоцирующих блокираторов при атаке."
+        },
+        {
+            "key": "status.trample.title",
+            "value": "Прорыв"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "Избыточный урон по блокирующим проходит по противнику."
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "Оверкилл"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "Избыточный урон лечит эту карту."
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "Вампиризм"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "Лечит контроллера на величину нанесённого урона."
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "Безмолвие"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "Способности отключены."
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "Паралич"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "Не может действовать в течение <value> хода(ов)."
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "Отравлен"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "Теряет <value> ОЗ в начале каждого хода."
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "Сон"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "Не готовится в начале хода."
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "Заморожен"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "Не может действовать в течение <value> хода(ов)."
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "Проклят"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "Теряет <value> атаки в начале хода контроллера."
+        },
+        {
+            "key": "status.ghost.title",
+            "value": "Призрак"
+        },
+        {
+            "key": "status.ghost.desc",
+            "value": "Пока проклят, эта карта получает +5 к атаке."
+        },
+        {
+            "key": "status.burned.title",
+            "value": "Горение"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "Теряет <value> ОЗ в начале каждого хода."
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "Избежание ловушек"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "Не активирует вражеские ловушки при действии."
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "Воздушная провокация"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "Провоцирует только летающих атакующих, защищая всех союзников."
+        },
+        {
+            "key": "status.protectedflying.title",
+            "value": "Защита от летающих"
+        },
+        {
+            "key": "status.protectedflying.desc",
+            "value": "Нельзя атаковать летающими врагами, пока есть союзник с воздушной провокацией."
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "Иммунитет к снижению атаки"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "Атаку нельзя уменьшить."
+        },
+        {
+            "key": "evolves_to",
+            "value": "Эволюционирует в"
+        },
+        {
+            "key": "cardzoompanel.trait_label",
+            "value": "ЧЕРТА"
+        },
+        {
+            "key": "cardzoompanel.trait_format",
+            "value": "<b>{0}</b>: {1}\n \n "
+        },
+        {
+            "key": "cardzoompanel.evolution_label",
+            "value": "ЭВОЛЮЦИЯ"
+        },
+        {
+            "key": "cardzoompanel.evolution_description",
+            "value": "Монстр эволюционирует через {0} ход(а/ов)"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minute",
+            "value": "Следующий турнир начнётся через 1 минуту"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minutes",
+            "value": "Следующий турнир начнётся через {0} минут"
+        },
+        {
+            "key": "main_menu.tournament_countdown_second",
+            "value": "Следующий турнир начнётся через 1 секунду"
+        },
+        {
+            "key": "main_menu.tournament_countdown_seconds",
+            "value": "Следующий турнир начнётся через {0} секунд"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hour",
+            "value": "Следующий турнир начнётся через 1 час"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hours",
+            "value": "Следующий турнир начнётся через {0} часов"
+        },
+        {
+            "key": "shop",
+            "value": "Магазин"
+        },
+        {
+            "key": "tip_hand_limit_message",
+            "value": "Ваша рука полна — вы не можете держать больше {0} карт. Разыграйте или сбросьте карты, чтобы взять новые."
+        },
+        {
+            "key": "tip_card_evolution_message",
+            "value": "{0} только что эволюционировал! Персонажи эволюционируют после того, как переживут {1} ваших ходов на поле. Если эволюционировавшая форма всё ещё на поле, её способность 'При розыгрыше' активируется снова, а все отрицательные эффекты снимаются первыми."
+        }
+    ]
+}

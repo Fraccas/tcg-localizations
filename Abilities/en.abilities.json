@@ -1,0 +1,2056 @@
+{
+    "entries": [
+        {
+            "key": "ability.ability_immunity.desc",
+            "value": "Cannot be targeted by character card abilities"
+        },
+        {
+            "key": "ability.ability_immunity.title",
+            "value": "Ability Immunity"
+        },
+        {
+            "key": "ability.ability_swap_characters_4m.desc",
+            "value": "Replace this character with an enemies' board character that a mana cost of 4."
+        },
+        {
+            "key": "ability.ability_swap_characters_4m.title",
+            "value": "Psychic Swap"
+        },
+        {
+            "key": "ability.activate_armor2.desc",
+            "value": "All allied creatures gain +2 armor. Uses this creature's action and costs 5 mana."
+        },
+        {
+            "key": "ability.activate_armor2.title",
+            "value": "Armor Support"
+        },
+        {
+            "key": "ability.activate_boost1.desc",
+            "value": "All allied creatures gain +1 attack until the end of the turn. Uses this creature's action."
+        },
+        {
+            "key": "ability.activate_boost1.title",
+            "value": "Roar"
+        },
+        {
+            "key": "ability.activate_boost3.desc",
+            "value": "All allied creatures gain +3 attack until the end of the turn. Uses this creature's action."
+        },
+        {
+            "key": "ability.activate_boost3.title",
+            "value": "Support"
+        },
+        {
+            "key": "ability.activate_burst.desc",
+            "value": "Take 1 damage to gain +1 attack."
+        },
+        {
+            "key": "ability.activate_burst.title",
+            "value": "Burst"
+        },
+        {
+            "key": "ability.activate_damage2.desc",
+            "value": "Deal 2 damage. Cost 3 mana. Does not exhaust action. "
+        },
+        {
+            "key": "ability.activate_damage2.title",
+            "value": "Extra Attack"
+        },
+        {
+            "key": "ability.activate_discard.desc",
+            "value": "Opponent discard a random card from their hand. Uses this creature's action."
+        },
+        {
+            "key": "ability.activate_discard.title",
+            "value": "Discard"
+        },
+        {
+            "key": "ability.activate_discard_random_3l.desc",
+            "value": "Opponent discard a random card from their hand. Uses this creature's action."
+        },
+        {
+            "key": "ability.activate_discard_random_3l.title",
+            "value": "Discard"
+        },
+        {
+            "key": "ability.activate_electric.desc",
+            "value": "Target gains strength to attack (must be electric monster)"
+        },
+        {
+            "key": "ability.activate_electric.title",
+            "value": "Electric"
+        },
+        {
+            "key": "ability.activate_fire.desc",
+            "value": "Deal 1 damage."
+        },
+        {
+            "key": "ability.activate_fire.title",
+            "value": "Fire"
+        },
+        {
+            "key": "ability.activate_heal_player3.desc",
+            "value": "Heal Player for 3 HP."
+        },
+        {
+            "key": "ability.activate_heal_player3.title",
+            "value": "Self Heal"
+        },
+        {
+            "key": "ability.activate_ice.desc",
+            "value": "Freeze an enemy for 1 turn"
+        },
+        {
+            "key": "ability.activate_ice.title",
+            "value": "Freeze"
+        },
+        {
+            "key": "ability.activate_plant.desc",
+            "value": "Heal 2 HP."
+        },
+        {
+            "key": "ability.activate_plant.title",
+            "value": "Plant"
+        },
+        {
+            "key": "ability.activate_psychic.desc",
+            "value": "Opponent discards a random card from their hand."
+        },
+        {
+            "key": "ability.activate_psychic.title",
+            "value": "Psychic"
+        },
+        {
+            "key": "ability.activate_rock.desc",
+            "value": "Target character gains +1 Armor"
+        },
+        {
+            "key": "ability.activate_rock.title",
+            "value": "Rock"
+        },
+        {
+            "key": "ability.activate_rock_hammi_old.desc",
+            "value": "Summon a 1/1 Hammi"
+        },
+        {
+            "key": "ability.activate_rock_hammi_old.title",
+            "value": "Rock"
+        },
+        {
+            "key": "ability.activate_roll_send_hand.desc",
+            "value": "Select a character and roll a D6, on 4+ return it to its owner's hand. Cost 2 mana."
+        },
+        {
+            "key": "ability.activate_roll_send_hand.title",
+            "value": "Charge"
+        },
+        {
+            "key": "ability.activate_select_discard_spell.desc",
+            "value": "Return a spell from your graveyard to your hand. Cost 2 mana."
+        },
+        {
+            "key": "ability.activate_select_discard_spell.title",
+            "value": "Magic Focus"
+        },
+        {
+            "key": "ability.activate_send_hand.desc",
+            "value": "Return a character to its owner's hand. Uses this creature's action."
+        },
+        {
+            "key": "ability.activate_send_hand.title",
+            "value": "Charge"
+        },
+        {
+            "key": "ability.activate_shadow.desc",
+            "value": "Target becomes Cursed"
+        },
+        {
+            "key": "ability.activate_shadow.title",
+            "value": "Shadow"
+        },
+        {
+            "key": "ability.activate_switch_sides.desc",
+            "value": "On play, select a target character to switch sides"
+        },
+        {
+            "key": "ability.activate_switch_sides.title",
+            "value": "Loyalty Swap"
+        },
+        {
+            "key": "ability.activate_water.desc",
+            "value": "Draw a card."
+        },
+        {
+            "key": "ability.activate_water.title",
+            "value": "Water"
+        },
+        {
+            "key": "ability.add_attack_traps.desc",
+            "value": "Gain +1 damage for each enemy trap"
+        },
+        {
+            "key": "ability.add_attack_traps.title",
+            "value": "Trap Boost"
+        },
+        {
+            "key": "ability.add_hp_location.desc",
+            "value": "Gain +2 HP for every allied location of the same element type is in play."
+        },
+        {
+            "key": "ability.add_hp_location.title",
+            "value": "Location Boost"
+        },
+        {
+            "key": "ability.add_spell_damage1.desc",
+            "value": "All your spells and abilities deal +1 damage."
+        },
+        {
+            "key": "ability.add_spell_damage1.title",
+            "value": "Spell Damage"
+        },
+        {
+            "key": "ability.add_spell_damage2.desc",
+            "value": "All your spells and abilities deal +2 damage."
+        },
+        {
+            "key": "ability.add_spell_damage2.title",
+            "value": "Spell Damage"
+        },
+        {
+            "key": "ability.after_spell_attack2.desc",
+            "value": "After playing a spell, gain +2 attack."
+        },
+        {
+            "key": "ability.after_spell_attack2.title",
+            "value": "Heat"
+        },
+        {
+            "key": "ability.attack_burned.desc",
+            "value": "Attacked character is burned. They lose 2 HP each turn."
+        },
+        {
+            "key": "ability.attack_burned.title",
+            "value": "Burned"
+        },
+        {
+            "key": "ability.attack_curse.desc",
+            "value": "Attacked characters gain curse. They lose 1 attack each turn."
+        },
+        {
+            "key": "ability.attack_curse.title",
+            "value": "Curse"
+        },
+        {
+            "key": "ability.attack_loss_immunity.desc",
+            "value": "Protects character's attack from being reduced."
+        },
+        {
+            "key": "ability.attack_loss_immunity.title",
+            "value": "Attack Loss Immunity"
+        },
+        {
+            "key": "ability.attack_player_mana1.desc",
+            "value": "After attacking the opponent's life, gain 1 mana."
+        },
+        {
+            "key": "ability.attack_player_mana1.title",
+            "value": "Pillage"
+        },
+        {
+            "key": "ability.attack_player_mana2.desc",
+            "value": "After attacking the opponent's life, gain 2 mana."
+        },
+        {
+            "key": "ability.attack_player_mana2.title",
+            "value": "Pillage"
+        },
+        {
+            "key": "ability.attack_player_mana3.desc",
+            "value": "After attacking the opponent's life, gain 3 mana."
+        },
+        {
+            "key": "ability.attack_player_mana3.title",
+            "value": "Pillage"
+        },
+        {
+            "key": "ability.attack_poison.desc",
+            "value": "Attacked characters gain poison. They lose 1 hp each turn."
+        },
+        {
+            "key": "ability.attack_poison.title",
+            "value": "Poison"
+        },
+        {
+            "key": "ability.attack_roll_attack_add_bonus_3.desc",
+            "value": "Before attacking, roll a D6, on 4+ gain +3 attack."
+        },
+        {
+            "key": "ability.attack_roll_attack_add_bonus_3.title",
+            "value": "Tentacles"
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_3.desc",
+            "value": "Before attacking, roll a D6, on 4+ gain +3 attack until the end of the turn."
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_3.title",
+            "value": "Tentacles"
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_6.desc",
+            "value": "Before attacking, roll a D6, on 4+ gain +6 attack until the end of the turn."
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_6.title",
+            "value": "Tentacles"
+        },
+        {
+            "key": "ability.attack_suffer_damage.desc",
+            "value": "Before attacking, suffer 3 damage."
+        },
+        {
+            "key": "ability.attack_suffer_damage.title",
+            "value": "Ground Split"
+        },
+        {
+            "key": "ability.aura_ability_red.desc",
+            "value": "All allied Fire creatures gain: \"Take 1 damage to gain +1 attack\"."
+        },
+        {
+            "key": "ability.aura_ability_red.title",
+            "value": "Fire Burst"
+        },
+        {
+            "key": "ability.aura_ability_rock.desc",
+            "value": "All allied Rock creatures gain: \"Take 1 damage to gain +1 attack\"."
+        },
+        {
+            "key": "ability.aura_ability_rock.title",
+            "value": "Rock Burst"
+        },
+        {
+            "key": "ability.aura_attack_m1.desc",
+            "value": "All enemy characters have -1 attack."
+        },
+        {
+            "key": "ability.aura_attack_m1.title",
+            "value": "Fear"
+        },
+        {
+            "key": "ability.aura_attack_m2.desc",
+            "value": "All enemy characters have -2 attack."
+        },
+        {
+            "key": "ability.aura_attack_m2.title",
+            "value": "Fear"
+        },
+        {
+            "key": "ability.aura_cat.desc",
+            "value": "All other allied cats gain +1 attack."
+        },
+        {
+            "key": "ability.aura_cat.title",
+            "value": "Cat Aura"
+        },
+        {
+            "key": "ability.aura_enemy_attack1.desc",
+            "value": "All enemy characters gain +1 attack."
+        },
+        {
+            "key": "ability.aura_enemy_attack1.title",
+            "value": "Betrayal"
+        },
+        {
+            "key": "ability.aura_enemy_hp2.desc",
+            "value": "All enemy characters gain +2 HP"
+        },
+        {
+            "key": "ability.aura_enemy_hp2.title",
+            "value": "Betrayal"
+        },
+        {
+            "key": "ability.aura_hp_rock_1.desc",
+            "value": "All ally rock characters have +1 HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_1.title",
+            "value": "Stone Ally"
+        },
+        {
+            "key": "ability.aura_hp_rock_m1.desc",
+            "value": "All ally shadow characters have +1 HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_m1.title",
+            "value": "Shadow Ally"
+        },
+        {
+            "key": "ability.aura_reptile.desc",
+            "value": "All other allied reptiles gain +1 attack."
+        },
+        {
+            "key": "ability.aura_reptile.title",
+            "value": "Reptiles"
+        },
+        {
+            "key": "ability.aura_reptile_2.desc",
+            "value": "All other allied reptiles gain +2 attack."
+        },
+        {
+            "key": "ability.aura_reptile_2.title",
+            "value": "Reptiles"
+        },
+        {
+            "key": "ability.bypass_trap.desc",
+            "value": "This character does not trigger traps. "
+        },
+        {
+            "key": "ability.bypass_trap.title",
+            "value": "Trap Evasion"
+        },
+        {
+            "key": "ability.chain_ice_treasure.desc",
+            "value": "Look at the next 7 cards in your deck, and take 2 ice cards into your hand."
+        },
+        {
+            "key": "ability.chain_ice_treasure.title",
+            "value": "Ice Treasure"
+        },
+        {
+            "key": "ability.chain_water_treasure.desc",
+            "value": "Look at the next 7 cards in your deck, and take 2 water cards into your hand."
+        },
+        {
+            "key": "ability.chain_water_treasure.title",
+            "value": "Water Treasure"
+        },
+        {
+            "key": "ability.choice_fury.desc",
+            "value": "Can attack twice per turn."
+        },
+        {
+            "key": "ability.choice_fury.title",
+            "value": "Fury"
+        },
+        {
+            "key": "ability.choice_taunt.desc",
+            "value": "Your other characters cannot be attacked."
+        },
+        {
+            "key": "ability.choice_taunt.title",
+            "value": "Taunt"
+        },
+        {
+            "key": "ability.death_blue_draw.desc",
+            "value": "When a Water creature you own dies, draw a card."
+        },
+        {
+            "key": "ability.death_blue_draw.title",
+            "value": "Draw"
+        },
+        {
+            "key": "ability.death_damage2_player.desc",
+            "value": "When this creature dies, deal damage to enemy player."
+        },
+        {
+            "key": "ability.death_damage2_player.title",
+            "value": "Death Damage"
+        },
+        {
+            "key": "ability.death_draw.desc",
+            "value": "When this creature dies, draw a card."
+        },
+        {
+            "key": "ability.death_draw.title",
+            "value": "Draw"
+        },
+        {
+            "key": "ability.death_egg.desc",
+            "value": "When this creatures dies, summon a Phyra egg."
+        },
+        {
+            "key": "ability.death_egg.title",
+            "value": "Summon Egg"
+        },
+        {
+            "key": "ability.death_heal2.desc",
+            "value": "When this creatures dies, you restore 2 HP."
+        },
+        {
+            "key": "ability.death_heal2.title",
+            "value": "Heal"
+        },
+        {
+            "key": "ability.death_heal3.desc",
+            "value": "When this creatures dies, you restore 3 HP."
+        },
+        {
+            "key": "ability.death_heal3.title",
+            "value": "Heal"
+        },
+        {
+            "key": "ability.death_other_draw.desc",
+            "value": "Whenever another character dies, draw a card."
+        },
+        {
+            "key": "ability.death_other_draw.title",
+            "value": "Eat"
+        },
+        {
+            "key": "ability.death_other_draw2.desc",
+            "value": "Whenever another character dies, draw 2 cards."
+        },
+        {
+            "key": "ability.death_other_draw2.title",
+            "value": "Eat"
+        },
+        {
+            "key": "ability.deathtouch.desc",
+            "value": "Kill any creature it damages."
+        },
+        {
+            "key": "ability.deathtouch.title",
+            "value": "Deathtouch"
+        },
+        {
+            "key": "ability.defend_discard.desc",
+            "value": "When attacked, opponent must discard 1 random card."
+        },
+        {
+            "key": "ability.defend_discard.title",
+            "value": "Submerged"
+        },
+        {
+            "key": "ability.defense_attack3.desc",
+            "value": "Has +3 attack during the opponent's turn."
+        },
+        {
+            "key": "ability.defense_attack3.title",
+            "value": "Defense"
+        },
+        {
+            "key": "ability.discard_add_attack1.desc",
+            "value": "Each time the opponent is forced to discard gain +1 attack."
+        },
+        {
+            "key": "ability.discard_add_attack1.title",
+            "value": "Discard Gain"
+        },
+        {
+            "key": "ability.egg_growth.desc",
+            "value": "After 3 turns, transforms into a Phyra."
+        },
+        {
+            "key": "ability.egg_growth.title",
+            "value": "Egg"
+        },
+        {
+            "key": "ability.egg_transform.desc",
+            "value": "After 3 turns, transforms into a Phyra."
+        },
+        {
+            "key": "ability.egg_transform.title",
+            "value": "Transform Phyra"
+        },
+        {
+            "key": "ability.equip_armor2.desc",
+            "value": "Bearer has +2 armor."
+        },
+        {
+            "key": "ability.equip_armor2.title",
+            "value": "Armor"
+        },
+        {
+            "key": "ability.equip_attack_no_damage.desc",
+            "value": "When attacking, target does not counter-attack."
+        },
+        {
+            "key": "ability.equip_attack_no_damage.title",
+            "value": "Intimidate"
+        },
+        {
+            "key": "ability.equip_attack_use.desc",
+            "value": "Loses 1 durability after each attack."
+        },
+        {
+            "key": "ability.equip_attack_use.title",
+            "value": "Sword"
+        },
+        {
+            "key": "ability.equip_attack1.desc",
+            "value": "Bearer has +1 attack."
+        },
+        {
+            "key": "ability.equip_attack1.title",
+            "value": "Attack"
+        },
+        {
+            "key": "ability.equip_attack2.desc",
+            "value": "Bearer has +2 attack."
+        },
+        {
+            "key": "ability.equip_attack2.title",
+            "value": "Attack"
+        },
+        {
+            "key": "ability.equip_defend_use.desc",
+            "value": "Loses 1 durability when attacked."
+        },
+        {
+            "key": "ability.equip_defend_use.title",
+            "value": "Shield"
+        },
+        {
+            "key": "ability.equip_gain_mana.desc",
+            "value": "Gain 2 extra mana per turn for the next 3 turns."
+        },
+        {
+            "key": "ability.equip_gain_mana.title",
+            "value": "Mana Ring"
+        },
+        {
+            "key": "ability.equip_mana_kill.desc",
+            "value": "When the bearer kills a card, gain 3 mana."
+        },
+        {
+            "key": "ability.equip_mana_kill.title",
+            "value": "Mana Ring"
+        },
+        {
+            "key": "ability.equip_reveal_opponent_hand.desc",
+            "value": "Gain 2 extra mana per turn for the next 3 turns."
+        },
+        {
+            "key": "ability.equip_reveal_opponent_hand.title",
+            "value": "Mana Ring"
+        },
+        {
+            "key": "ability.equip_taunt.desc",
+            "value": "Bearer has taunt."
+        },
+        {
+            "key": "ability.equip_taunt.title",
+            "value": "Taunt"
+        },
+        {
+            "key": "ability.equip_turn_use.desc",
+            "value": "Loses 1 durability after each turn."
+        },
+        {
+            "key": "ability.flying.desc",
+            "value": "Can ignore Taunt."
+        },
+        {
+            "key": "ability.flying.title",
+            "value": "Flying"
+        },
+        {
+            "key": "ability.fury.desc",
+            "value": "Can attack twice per turn."
+        },
+        {
+            "key": "ability.fury.title",
+            "value": "Fury"
+        },
+        {
+            "key": "ability.ghost.desc",
+            "value": "Do not take damage when attacking."
+        },
+        {
+            "key": "ability.ghost.title",
+            "value": "Ghost"
+        },
+        {
+            "key": "ability.kill_draw2.desc",
+            "value": "When you kill another character with this creature, draw 2 cards."
+        },
+        {
+            "key": "ability.kill_draw2.title",
+            "value": "Draw"
+        },
+        {
+            "key": "ability.lifesteal.desc",
+            "value": "Heal player when dealing damage."
+        },
+        {
+            "key": "ability.lifesteal.title",
+            "value": "Life Steal"
+        },
+        {
+            "key": "ability.location_mana_discount.desc",
+            "value": "Location cards of the same elemental type have a mana discount of 1. "
+        },
+        {
+            "key": "ability.location_mana_discount.title",
+            "value": "Location Aura"
+        },
+        {
+            "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
+            "value": "Take control of an enemy character with 3 or less mana for 1 turn. Target gains Rush."
+        },
+        {
+            "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_3_turns_3ml.desc",
+            "value": "Take control of an enemy character for 1 turn and give it rush"
+        },
+        {
+            "key": "ability.mind_control_ability_3_turns_3ml.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_any.desc",
+            "value": "Take control of an enemy character for 3 turns, or until it evolves"
+        },
+        {
+            "key": "ability.mind_control_ability_any.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m2l.desc",
+            "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m2l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m3l.desc",
+            "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m3l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a3l.desc",
+            "value": "Take control of an enemy character with 3 attack for 3 turns, or until it evolves or leaves the board"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a3l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m2l.desc",
+            "value": "Take control of an enemy character with 2 mana or less cost for 3 turns, or until it evolves / leaves play"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m2l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m3l.desc",
+            "value": "Take control of an enemy character with 3 mana or less cost for 3 turns, or until it evolves / leaves play"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m3l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m4.desc",
+            "value": "Take control of an enemy character with 4 mana cost for 3 turns, or until it evolves"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m4.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5+.desc",
+            "value": "Take control of an enemy character with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5+.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5l.desc",
+            "value": "Take control of an enemy character with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_m5l.desc",
+            "value": "Take control of an enemy character with 5 or less mana cost for 3 turns, or until it evolves"
+        },
+        {
+            "key": "ability.mind_control_ability_m5l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.ongoing_cannot_attack.desc",
+            "value": "This monster cannot attack enemy targets. "
+        },
+        {
+            "key": "ability.ongoing_cannot_attack.title",
+            "value": "No Attack"
+        },
+        {
+            "key": "ability.overkill.desc",
+            "value": "Excess damage heals attacker."
+        },
+        {
+            "key": "ability.overkill.title",
+            "value": "Overkill"
+        },
+        {
+            "key": "ability.play_boost_hp_1.desc",
+            "value": "On play, give +2 HP to another creature until your next turn."
+        },
+        {
+            "key": "ability.play_boost_hp_1.title",
+            "value": "Bless HP"
+        },
+        {
+            "key": "ability.play_boost2.desc",
+            "value": "On play, give +2/2 to another creature until your next turn."
+        },
+        {
+            "key": "ability.play_boost2.title",
+            "value": "Bless"
+        },
+        {
+            "key": "ability.play_boost3.desc",
+            "value": "On play, give +3/3 to another creature for 3 turns"
+        },
+        {
+            "key": "ability.play_boost3.title",
+            "value": "Plant Blessing"
+        },
+        {
+            "key": "ability.play_burn.desc",
+            "value": "Target character gains burn. They lose 2 hp each turn."
+        },
+        {
+            "key": "ability.play_burn.title",
+            "value": "Burn"
+        },
+        {
+            "key": "ability.play_choice_taunt_fury.desc",
+            "value": "Gain Taunt or Fury"
+        },
+        {
+            "key": "ability.play_choice_taunt_fury.title",
+            "value": "Choice"
+        },
+        {
+            "key": "ability.play_cure.desc",
+            "value": "On play, heal another character of all negative status effects. "
+        },
+        {
+            "key": "ability.play_cure.title",
+            "value": "Cure"
+        },
+        {
+            "key": "ability.play_cure_bless2.desc",
+            "value": "On play, heal another character of all negative status effects and grant +2HP"
+        },
+        {
+            "key": "ability.play_cure_bless2.title",
+            "value": "Cure Blessing"
+        },
+        {
+            "key": "ability.play_curse.desc",
+            "value": "Target character gains cursed. They lose 1 attack each turn."
+        },
+        {
+            "key": "ability.play_curse.title",
+            "value": "Curse"
+        },
+        {
+            "key": "ability.play_curse_all.desc",
+            "value": "On play, curse all cards in play."
+        },
+        {
+            "key": "ability.play_curse_all.title",
+            "value": "Curse All"
+        },
+        {
+            "key": "ability.play_damage_all1.desc",
+            "value": "On play, deal 1 damage to all other cards."
+        },
+        {
+            "key": "ability.play_damage_all1.title",
+            "value": "Damage All"
+        },
+        {
+            "key": "ability.play_damage_all2.desc",
+            "value": "On play, deal 2 damage to all other cards."
+        },
+        {
+            "key": "ability.play_damage_all2.title",
+            "value": "Damage"
+        },
+        {
+            "key": "ability.play_damage_electric_all2.desc",
+            "value": "On play, deal 2 damage to enemy monsters"
+        },
+        {
+            "key": "ability.play_damage_electric_all2.title",
+            "value": "Electric Damage"
+        },
+        {
+            "key": "ability.play_deal_damage1.desc",
+            "value": "On play, deal 1 damage to any target."
+        },
+        {
+            "key": "ability.play_deal_damage1.title",
+            "value": "Damage"
+        },
+        {
+            "key": "ability.play_deal_damage2.desc",
+            "value": "On play, deal 2 damage to any target."
+        },
+        {
+            "key": "ability.play_deal_damage2.title",
+            "value": "Damage"
+        },
+        {
+            "key": "ability.play_destroy_less2.desc",
+            "value": "On play, destroy a character with 2 or less attack. If you do, draw a card."
+        },
+        {
+            "key": "ability.play_destroy_less2.title",
+            "value": "Killer"
+        },
+        {
+            "key": "ability.play_destroy_less3.desc",
+            "value": "On play, destroy a character with 3 or less attack. If you do, draw a card."
+        },
+        {
+            "key": "ability.play_destroy_less3.title",
+            "value": "Killer"
+        },
+        {
+            "key": "ability.play_destroy_less4.desc",
+            "value": "On play, destroy a character with 3 or less attack."
+        },
+        {
+            "key": "ability.play_destroy_less4.title",
+            "value": "Killer"
+        },
+        {
+            "key": "ability.play_discard.desc",
+            "value": "Opponent discards a random card from their hand."
+        },
+        {
+            "key": "ability.play_discard.title",
+            "value": "Discard"
+        },
+        {
+            "key": "ability.play_discard_draw.desc",
+            "value": "Discard a random card from player's hand and draw two new cards."
+        },
+        {
+            "key": "ability.play_discard_draw.title",
+            "value": "Gamble"
+        },
+        {
+            "key": "ability.play_discard3.desc",
+            "value": "Opponent discards 3 random cards from their hand."
+        },
+        {
+            "key": "ability.play_discard3.title",
+            "value": "Discard"
+        },
+        {
+            "key": "ability.play_enemy_discard.desc",
+            "value": "Opponent discard a random card from their hand."
+        },
+        {
+            "key": "ability.play_enemy_discard.title",
+            "value": "Discard"
+        },
+        {
+            "key": "ability.play_freeze.desc",
+            "value": "Target character becomes frozen for 1 turn."
+        },
+        {
+            "key": "ability.play_freeze.title",
+            "value": "Freeze"
+        },
+        {
+            "key": "ability.play_gain_rush_ice_location.desc",
+            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+        },
+        {
+            "key": "ability.play_gain_rush_ice_location.title",
+            "value": "Slush Rush"
+        },
+        {
+            "key": "ability.play_haste.desc",
+            "value": "Can attack immediately."
+        },
+        {
+            "key": "ability.play_haste.title",
+            "value": "Haste"
+        },
+        {
+            "key": "ability.play_heal_player2.desc",
+            "value": "On play, heal the player for 4 HP"
+        },
+        {
+            "key": "ability.play_heal_player2.title",
+            "value": "Player Blessing"
+        },
+        {
+            "key": "ability.play_heal_player4.desc",
+            "value": "On play, heal the player for 4 HP"
+        },
+        {
+            "key": "ability.play_heal_player4.title",
+            "value": "Player Blessing"
+        },
+        {
+            "key": "ability.play_other_sacrifice.desc",
+            "value": "When an allied creature enter play, destroy this card."
+        },
+        {
+            "key": "ability.play_other_sacrifice.title",
+            "value": "Extinction"
+        },
+        {
+            "key": "ability.play_poison.desc",
+            "value": "Target character gains poison. They lose 1 hp each turn."
+        },
+        {
+            "key": "ability.play_poison.title",
+            "value": "Poison"
+        },
+        {
+            "key": "ability.play_poison_all.desc",
+            "value": "On play, poison all cards in play."
+        },
+        {
+            "key": "ability.play_poison_all.title",
+            "value": "Poison All"
+        },
+        {
+            "key": "ability.play_roll_attack.desc",
+            "value": "Roll a D6, increase this card's attack by the result."
+        },
+        {
+            "key": "ability.play_roll_attack.title",
+            "value": "Random Attack."
+        },
+        {
+            "key": "ability.play_select_discard.desc",
+            "value": "On play, return a character from your graveyard to your hand."
+        },
+        {
+            "key": "ability.play_select_discard.title",
+            "value": "Dig"
+        },
+        {
+            "key": "ability.play_set_attack1.desc",
+            "value": "On play, selected target's attack is reduced to 1."
+        },
+        {
+            "key": "ability.play_set_attack1.title",
+            "value": "Electrify"
+        },
+        {
+            "key": "ability.play_set_attack3.desc",
+            "value": "On play, selected target's attack is set to 3."
+        },
+        {
+            "key": "ability.play_set_attack3.title",
+            "value": "Psychic"
+        },
+        {
+            "key": "ability.play_silence.desc",
+            "value": "Target abilities are canceled."
+        },
+        {
+            "key": "ability.play_silence.title",
+            "value": "Silence"
+        },
+        {
+            "key": "ability.play_silence_curse.desc",
+            "value": "Target abilities are canceled and monster is cursed"
+        },
+        {
+            "key": "ability.play_silence_curse.title",
+            "value": "Silenced Curse"
+        },
+        {
+            "key": "ability.play_suffer.desc",
+            "value": "Target creature gains \"Suffer 3 damage before attacking\"."
+        },
+        {
+            "key": "ability.play_suffer.title",
+            "value": "Ground Split"
+        },
+        {
+            "key": "ability.play_summon_cat.desc",
+            "value": "On play, summon a 1/1 baby Jagur cat on an adjacent empty slot."
+        },
+        {
+            "key": "ability.play_summon_cat.title",
+            "value": "Summon Jagur"
+        },
+        {
+            "key": "ability.play_summon_fractail.desc",
+            "value": "On play, summon a baby Lizo on an adjacent empty slot."
+        },
+        {
+            "key": "ability.play_summon_fractail.title",
+            "value": "Summon Lizo"
+        },
+        {
+            "key": "ability.play_switch_sides_2ml.desc",
+            "value": "On play, select a target character with a mana cost of 2 or less to switch sides"
+        },
+        {
+            "key": "ability.play_switch_sides_2ml.title",
+            "value": "Loyalty Swap"
+        },
+        {
+            "key": "ability.play_switch_sides_any.desc",
+            "value": "On play, select any character on the board and send them to the other player."
+        },
+        {
+            "key": "ability.play_switch_sides_any.title",
+            "value": "Loyalty Swap"
+        },
+        {
+            "key": "ability.play_switch_sides_give_ally_damage2.desc",
+            "value": "On play, select a character under your control, and send them to the other player."
+        },
+        {
+            "key": "ability.play_switch_sides_give_ally_damage2.title",
+            "value": "Loyalty Swap"
+        },
+        {
+            "key": "ability.play_switch_sides_give_discard_2.desc",
+            "value": "On play, select a character under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
+        },
+        {
+            "key": "ability.play_switch_sides_give_discard_2.title",
+            "value": "Loyalty Swap"
+        },
+        {
+            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
+            "value": "On play, select a character under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
+        },
+        {
+            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
+            "value": "Loyalty Swap"
+        },
+        {
+            "key": "ability.regen_all.desc",
+            "value": "At the start of your turn, this creature fully heal."
+        },
+        {
+            "key": "ability.regen_all.title",
+            "value": "Regeneration"
+        },
+        {
+            "key": "ability.regen3.desc",
+            "value": "At the start of your turn, heal 3 hp."
+        },
+        {
+            "key": "ability.regen3.title",
+            "value": "Regeneration"
+        },
+        {
+            "key": "ability.rush.desc",
+            "value": "Can attack immediately, but cannot target the enemy player on the turn it's played."
+        },
+        {
+            "key": "ability.rush.title",
+            "value": "Rush"
+        },
+        {
+            "key": "ability.secret_return_hand.desc",
+            "value": "When the next enemy creature is played, return them back to the hand."
+        },
+        {
+            "key": "ability.secret_return_hand.title",
+            "value": "Telekinesis"
+        },
+        {
+            "key": "ability.secret_silence.desc",
+            "value": "Clear any abilities from trapped character"
+        },
+        {
+            "key": "ability.secret_silence.title",
+            "value": "Silence"
+        },
+        {
+            "key": "ability.secret_transform_fish.desc",
+            "value": "When the next enemy creature is played, transform it into a 1/1 fish."
+        },
+        {
+            "key": "ability.secret_transform_fish.title",
+            "value": "Transform to Fish"
+        },
+        {
+            "key": "ability.shell.desc",
+            "value": "On the first hit, takes no damage."
+        },
+        {
+            "key": "ability.shell.title",
+            "value": "Shell"
+        },
+        {
+            "key": "ability.spell_add_attack_suffer.desc",
+            "value": "Target creature gains \"Suffer 3 damage before attacking\"."
+        },
+        {
+            "key": "ability.spell_add_attack_suffer.title",
+            "value": "Curse of Suffering"
+        },
+        {
+            "key": "ability.spell_add_play_extinct.desc",
+            "value": "Target card gains \"When an allied creature enter play, destroy this card\"."
+        },
+        {
+            "key": "ability.spell_add_play_extinct.title",
+            "value": "Extinct"
+        },
+        {
+            "key": "ability.spell_add_submerge.desc",
+            "value": "Target card gains \"When attacked, opponent must discard 1 random card\"."
+        },
+        {
+            "key": "ability.spell_add_submerge.title",
+            "value": "Return"
+        },
+        {
+            "key": "ability.spell_ally_attack_2.desc",
+            "value": "All allied characters gain +2/2"
+        },
+        {
+            "key": "ability.spell_ally_attack_2.title",
+            "value": "Growth"
+        },
+        {
+            "key": "ability.spell_ally_plant_attack_2.desc",
+            "value": "All allied characters gain +2/2"
+        },
+        {
+            "key": "ability.spell_ally_plant_attack_2.title",
+            "value": "Growth"
+        },
+        {
+            "key": "ability.spell_armor2.desc",
+            "value": "Target gains armor 2 reducing direct damage from characters by 2."
+        },
+        {
+            "key": "ability.spell_armor2.title",
+            "value": "Armor +2"
+        },
+        {
+            "key": "ability.spell_attack1.desc",
+            "value": "Target gains 1 attack."
+        },
+        {
+            "key": "ability.spell_attack1.title",
+            "value": "Attack +1"
+        },
+        {
+            "key": "ability.spell_coin.desc",
+            "value": "Gain 1 mana this turn."
+        },
+        {
+            "key": "ability.spell_coin.title",
+            "value": "Coin"
+        },
+        {
+            "key": "ability.spell_damage_per_hand.desc",
+            "value": "The hp of all characters on the board is lowered to 1."
+        },
+        {
+            "key": "ability.spell_damage_per_hand.title",
+            "value": "Flood"
+        },
+        {
+            "key": "ability.spell_damage1.desc",
+            "value": "Deal 1 damage."
+        },
+        {
+            "key": "ability.spell_damage1.title",
+            "value": "Damage"
+        },
+        {
+            "key": "ability.spell_damage3.desc",
+            "value": "Deal 3 damage."
+        },
+        {
+            "key": "ability.spell_damage3.title",
+            "value": "Damage"
+        },
+        {
+            "key": "ability.spell_destroy.desc",
+            "value": "Destroy target character or location."
+        },
+        {
+            "key": "ability.spell_destroy.title",
+            "value": "Destroy"
+        },
+        {
+            "key": "ability.spell_destroy_all.desc",
+            "value": "Destroy all creatures on the board"
+        },
+        {
+            "key": "ability.spell_destroy_all.title",
+            "value": "Armageddon"
+        },
+        {
+            "key": "ability.spell_destroy_frozen_all.desc",
+            "value": "Destroy all frozen cards on board"
+        },
+        {
+            "key": "ability.spell_destroy_frozen_all.title",
+            "value": "Frozen Wave"
+        },
+        {
+            "key": "ability.spell_destroy_locations.desc",
+            "value": "Destroy all locations on the board"
+        },
+        {
+            "key": "ability.spell_destroy_locations.title",
+            "value": "Landslide"
+        },
+        {
+            "key": "ability.spell_dragon_summon.desc",
+            "value": "Select a dragon from your deck to summon into your hand."
+        },
+        {
+            "key": "ability.spell_dragon_summon.title",
+            "value": "Discover Dragon"
+        },
+        {
+            "key": "ability.spell_draw1.desc",
+            "value": "Draw 1 card."
+        },
+        {
+            "key": "ability.spell_draw1.title",
+            "value": "Draw"
+        },
+        {
+            "key": "ability.spell_electric_ally.desc",
+            "value": "Look at the next 7 cards in your deck, and take 1 Electric Monster into your hand."
+        },
+        {
+            "key": "ability.spell_electric_ally.title",
+            "value": "Electric Ally"
+        },
+        {
+            "key": "ability.spell_electric_attack_2.desc",
+            "value": "All Electric monsters gain +2 attack"
+        },
+        {
+            "key": "ability.spell_freeze.desc",
+            "value": "Freeze target  for 1 turn."
+        },
+        {
+            "key": "ability.spell_freeze.title",
+            "value": "Freeze"
+        },
+        {
+            "key": "ability.spell_fury.desc",
+            "value": "Target character gains Fury. It can attack twice per turn."
+        },
+        {
+            "key": "ability.spell_fury.title",
+            "value": "Fury"
+        },
+        {
+            "key": "ability.spell_haste.desc",
+            "value": "Target character gains Haste. It can attack immediately."
+        },
+        {
+            "key": "ability.spell_haste.title",
+            "value": "Haste"
+        },
+        {
+            "key": "ability.spell_heal_full.desc",
+            "value": "Target card is fully healed."
+        },
+        {
+            "key": "ability.spell_heal_full.title",
+            "value": "Heal"
+        },
+        {
+            "key": "ability.spell_hibernate.desc",
+            "value": "Target character gains +4/4 and goes to sleep for the next 2 turns."
+        },
+        {
+            "key": "ability.spell_hibernate.title",
+            "value": "Hibernate"
+        },
+        {
+            "key": "ability.spell_hp2.desc",
+            "value": "Target gains 2 hp."
+        },
+        {
+            "key": "ability.spell_hp2.title",
+            "value": "Hp +2"
+        },
+        {
+            "key": "ability.spell_ice_treasure.desc",
+            "value": "Look at the next 7 cards in your deck, and take 1 ice card into your hand."
+        },
+        {
+            "key": "ability.spell_ice_treasure.title",
+            "value": "Ice Treasure"
+        },
+        {
+            "key": "ability.spell_immunity.desc",
+            "value": "Cannot be targeted or damaged by spells cards."
+        },
+        {
+            "key": "ability.spell_immunity.title",
+            "value": "Spell Immunity"
+        },
+        {
+            "key": "ability.spell_kill_lowest_hp.desc",
+            "value": "Kill the character in play with the lowest hp (including yours)."
+        },
+        {
+            "key": "ability.spell_kill_lowest_hp.title",
+            "value": "Stomp"
+        },
+        {
+            "key": "ability.spell_paralyse.desc",
+            "value": "Paralyse target character for 3 turns."
+        },
+        {
+            "key": "ability.spell_paralyse.title",
+            "value": "Paralyse"
+        },
+        {
+            "key": "ability.spell_projectile1_repeat.desc",
+            "value": "Deal 1 damage to a random enemy card.\nRepeat X times."
+        },
+        {
+            "key": "ability.spell_projectile1_repeat.title",
+            "value": "Projectiles"
+        },
+        {
+            "key": "ability.spell_return_all.desc",
+            "value": "All cards on the board return to their owner's hand."
+        },
+        {
+            "key": "ability.spell_return_all.title",
+            "value": "Sea Storm"
+        },
+        {
+            "key": "ability.spell_send_hand_any.desc",
+            "value": "Return any played target to its owner's hand."
+        },
+        {
+            "key": "ability.spell_send_hand_any.title",
+            "value": "Return Hand Any"
+        },
+        {
+            "key": "ability.spell_send_hand_any_then_discard.desc",
+            "value": "Return any played target to its owner's hand."
+        },
+        {
+            "key": "ability.spell_send_hand_any_then_discard.title",
+            "value": "Return Hand Any"
+        },
+        {
+            "key": "ability.spell_send_hand_enemy.desc",
+            "value": "Return target to its owner's hand."
+        },
+        {
+            "key": "ability.spell_send_hand_enemy.title",
+            "value": "Return Hand"
+        },
+        {
+            "key": "ability.spell_set_hp_attack_1.desc",
+            "value": "The hp and attack of all characters on the board is lowered to 1."
+        },
+        {
+            "key": "ability.spell_set_hp_attack_1.title",
+            "value": "Flood"
+        },
+        {
+            "key": "ability.spell_set_hp_attack_3.desc",
+            "value": "The hp and attack of all characters on the board is set to 1."
+        },
+        {
+            "key": "ability.spell_set_hp_attack_3.title",
+            "value": "Flood"
+        },
+        {
+            "key": "ability.spell_shell.desc",
+            "value": "Target gains shell, it ignores damage on the next hit."
+        },
+        {
+            "key": "ability.spell_shell.title",
+            "value": "Shell"
+        },
+        {
+            "key": "ability.spell_summon_hammi.desc",
+            "value": "Summon three Hammi into your hand."
+        },
+        {
+            "key": "ability.spell_summon_hammi.title",
+            "value": "Hammi Strike"
+        },
+        {
+            "key": "ability.spell_summon_lampi.desc",
+            "value": "Summon three 2/2 Lampi into your hand."
+        },
+        {
+            "key": "ability.spell_summon_lampi.title",
+            "value": "Lampi Storm"
+        },
+        {
+            "key": "ability.spell_summon_pyro.desc",
+            "value": "Summon three 1/1 Pyra with Egg abilities into your hand."
+        },
+        {
+            "key": "ability.spell_summon_pyro.title",
+            "value": "Aerial Strike"
+        },
+        {
+            "key": "ability.spell_taunt.desc",
+            "value": "Target character gains Taunt. Your other characters cannot be attacked."
+        },
+        {
+            "key": "ability.spell_taunt.title",
+            "value": "Taunt"
+        },
+        {
+            "key": "ability.spell_water_treasure.desc",
+            "value": "Look at the next 7 cards in your deck, and take 1 water card into your hand."
+        },
+        {
+            "key": "ability.spell_water_treasure.title",
+            "value": "Water Treasure"
+        },
+        {
+            "key": "ability.stealth.desc",
+            "value": "Cannot be targeted or attacked until it performs an action."
+        },
+        {
+            "key": "ability.stealth.title",
+            "value": "Stealth"
+        },
+        {
+            "key": "ability.taunt.desc",
+            "value": "Your other characters cannot be attacked."
+        },
+        {
+            "key": "ability.taunt.title",
+            "value": "Taunt"
+        },
+        {
+            "key": "ability.taunt_flying.desc",
+            "value": "Your other characters are protected by flying monsters."
+        },
+        {
+            "key": "ability.taunt_flying.title",
+            "value": "Reach"
+        },
+        {
+            "key": "ability.town_aura_electric.desc",
+            "value": "All Electric monsters cost 2 mana less (includes enemies)"
+        },
+        {
+            "key": "ability.town_aura_electric.title",
+            "value": "Electric Aura"
+        },
+        {
+            "key": "ability.town_aura_fire.desc",
+            "value": "All allied Fire creatures gain +2 attack."
+        },
+        {
+            "key": "ability.town_aura_fire.title",
+            "value": "Fire Aura"
+        },
+        {
+            "key": "ability.town_aura_ice.desc",
+            "value": "All allied Ice creatures gain +1 attack and HP."
+        },
+        {
+            "key": "ability.town_aura_ice.title",
+            "value": "Ice Aura"
+        },
+        {
+            "key": "ability.town_aura_plant.desc",
+            "value": "All allied Plant characters gain +2 hp."
+        },
+        {
+            "key": "ability.town_aura_plant.title",
+            "value": "Plant Aura"
+        },
+        {
+            "key": "ability.town_aura_psychic_change_control_discard.desc",
+            "value": "When you take control of an opponent monster, opponent discards a random card. "
+        },
+        {
+            "key": "ability.town_aura_psychic_change_control_discard.title",
+            "value": "Psychic Aura Discard"
+        },
+        {
+            "key": "ability.town_aura_psychic_played_discard.desc",
+            "value": "When you play a psychic monster opponent discards a random card. "
+        },
+        {
+            "key": "ability.town_aura_psychic_played_discard.title",
+            "value": "Psychic Aura Discard"
+        },
+        {
+            "key": "ability.town_aura_rock.desc",
+            "value": "All allied Rock creatures gain +2 HP."
+        },
+        {
+            "key": "ability.town_aura_rock.title",
+            "value": "Rock Aura"
+        },
+        {
+            "key": "ability.town_aura_shadow.desc",
+            "value": "All allied Shadow characters gain +2 attack."
+        },
+        {
+            "key": "ability.town_aura_shadow.title",
+            "value": "Shadow Aura"
+        },
+        {
+            "key": "ability.town_aura_water.desc",
+            "value": "All allied Water cards cost 1 less."
+        },
+        {
+            "key": "ability.town_aura_water.title",
+            "value": "Blue Aura"
+        },
+        {
+            "key": "ability.town_mystic_woods_psychic.desc",
+            "value": "All allied Psychic cards cost 1 less mana."
+        },
+        {
+            "key": "ability.town_mystic_woods_psychic.title",
+            "value": "Psychic Aura"
+        },
+        {
+            "key": "ability.trample.desc",
+            "value": "Excess damage is dealt to player hp."
+        },
+        {
+            "key": "ability.trample.title",
+            "value": "Trample"
+        },
+        {
+            "key": "ability.transform_to_discarded_card.desc",
+            "value": "If the opponent discards a character card, this character becomes a copy of that character"
+        },
+        {
+            "key": "ability.transform_to_discarded_card.title",
+            "value": "Graveyard Clone"
+        },
+        {
+            "key": "ability.trap_damage_all2.desc",
+            "value": "When an enemy creature attacks, damage all enemy creatures by 2."
+        },
+        {
+            "key": "ability.trap_damage_all2.title",
+            "value": "Damage"
+        },
+        {
+            "key": "ability.trap_damage3.desc",
+            "value": "Damage attacker for 3 HP"
+        },
+        {
+            "key": "ability.trap_damage3.title",
+            "value": "Trap"
+        },
+        {
+            "key": "ability.trap_freeze.desc",
+            "value": "After an enemy creature attacks, freeze it for 1 turns."
+        },
+        {
+            "key": "ability.trap_freeze.title",
+            "value": "Frozen"
+        },
+        {
+            "key": "ability.trap_mind_control_taunt.desc",
+            "value": "After an enemy creature attacks, Mind Control it for 1 turn and grant taunt"
+        },
+        {
+            "key": "ability.trap_mind_control_taunt.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.trap_paralyse3.desc",
+            "value": "After an enemy creature attacks, paralyse it for 3 turns."
+        },
+        {
+            "key": "ability.trap_paralyse3.title",
+            "value": "Paralysis"
+        },
+        {
+            "key": "ability.trap_poison.desc",
+            "value": "After an enemy creature attacks, poison it"
+        },
+        {
+            "key": "ability.trap_poison.title",
+            "value": "Poison"
+        },
+        {
+            "key": "ability.trap_shock.desc",
+            "value": "After an enemy creature attacks, shock paralyze it for 1 turn."
+        },
+        {
+            "key": "ability.trap_shock.title",
+            "value": "Shock Paralyzed"
+        },
+        {
+            "key": "ability.turn_add_armor1.desc",
+            "value": "At the start of each turn, gain +1 armor."
+        },
+        {
+            "key": "ability.turn_add_armor1.title",
+            "value": "Armor"
+        },
+        {
+            "key": "ability.turn_add_armor2.desc",
+            "value": "At the start of each turn, gain +2 armor."
+        },
+        {
+            "key": "ability.turn_add_armor2.title",
+            "value": "Armor"
+        },
+        {
+            "key": "ability.turn_add_attack1.desc",
+            "value": "At the start of each turn, gain +1 attack."
+        },
+        {
+            "key": "ability.turn_add_attack1.title",
+            "value": "Furious"
+        },
+        {
+            "key": "ability.turn_add_attack2.desc",
+            "value": "At the start of each turn, gain +2 attack."
+        },
+        {
+            "key": "ability.turn_add_attack2.title",
+            "value": "Furious"
+        },
+        {
+            "key": "ability.turn_add_draw.desc",
+            "value": "At the start of each turn, draw 1 card"
+        },
+        {
+            "key": "ability.turn_add_draw.title",
+            "value": "Explorer"
+        },
+        {
+            "key": "ability.turn_damage_allies1.desc",
+            "value": "On the start of each turn, deal 1 damage to all ally characters"
+        },
+        {
+            "key": "ability.turn_damage_allies1.title",
+            "value": "Betrayal Damage"
+        },
+        {
+            "key": "ability.turn_damage_allies2.desc",
+            "value": "On the start of each turn, deal 2 damage to all ally characters"
+        },
+        {
+            "key": "ability.turn_damage_allies2.title",
+            "value": "Betrayal Damage"
+        },
+        {
+            "key": "ability.turn_green_heal.desc",
+            "value": "At the start of each turn, all allied green creatures and locations heal by 3."
+        },
+        {
+            "key": "ability.turn_green_heal.title",
+            "value": "Green Heal"
+        },
+        {
+            "key": "ability.turn_kill_lowest.desc",
+            "value": "At the start of your turn, kill characters in play with the lowest attack (including yours)."
+        },
+        {
+            "key": "ability.turn_kill_lowest.title",
+            "value": "Reaper"
+        },
+        {
+            "key": "ability.turn_own_discard2.desc",
+            "value": "Player discards 2 random cards from their hand."
+        },
+        {
+            "key": "ability.turn_own_discard2.title",
+            "value": "Discard"
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.desc",
+            "value": "At the start of each turn, all Shadow monsters gain +1 attack."
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.title",
+            "value": "Shadow Bonus"
+        },
+        {
+            "key": "ability.turn_stealth.desc",
+            "value": "At the end of your turn, if you have at least one other character in play, go in stealth."
+        },
+        {
+            "key": "ability.turn_stealth.title",
+            "value": "Stealth"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "Bonus HP."
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "HP Bonus"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "Mana cost is now +1"
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "Mental Drain"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "Add Armor"
+        },
+        {
+            "key": "status.armor.title",
+            "value": "Armor"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "Protects character's attack from being reduced."
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "Attack Loss Immunity"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "Each turn, will lose 2 hp."
+        },
+        {
+            "key": "status.burned.title",
+            "value": "Burned"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "Cannot be targeted by character abilities"
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "Ability Immunity"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "Each turn, will lose attack."
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "Cursed"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "Kill any creature it damages."
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "Deathtouch"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "Ignores Taunt."
+        },
+        {
+            "key": "status.flying.title",
+            "value": "Flying"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "Cannot perform any actions for 1 turn."
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "Frozen"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "Can attack twice per turn"
+        },
+        {
+            "key": "status.fury.title",
+            "value": "Fury"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "When attacking, target does not counter-attack."
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "Intimidate"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "Cannot be destroyed."
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "Invincible"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "Heal yourself when dealing damage."
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "Life Steal"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "Excess damage heals attacker."
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "Overkill"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "Cannot perform any actions."
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "Shock Paralysed"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "Each turn, will lose hp."
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "Poisoned"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "Cannot be attacked. Protected by Taunt."
+        },
+        {
+            "key": "status.protected.title",
+            "value": "Protected"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "Protects other cards."
+        },
+        {
+            "key": "status.protection.title",
+            "value": "Taunt"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "Protects other cards from flying monsters."
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "Reach"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "On the first hit, takes no damage."
+        },
+        {
+            "key": "status.shell.title",
+            "value": "Shell"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "Cannot use abilities or evolve."
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "Silenced"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "1 in 3 chance to wake up. Removed if attacked."
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "Sleep"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "Cannot be targeted or damaged by spell cards"
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "Spell Immunity"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "Cannot be targeted."
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "Stealth"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "Extra damage is dealt to player."
+        },
+        {
+            "key": "status.trample.title",
+            "value": "Trample"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "Monsters with this ability do not trigger traps. "
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "Trap Evasion"
+        },
+        {
+            "key": "trait.cat.title",
+            "value": "Cat"
+        },
+        {
+            "key": "trait.dragon.title",
+            "value": "Dragon"
+        },
+        {
+            "key": "trait.evolution.title",
+            "value": "Evolution"
+        },
+        {
+            "key": "trait.fish.title",
+            "value": "Fish"
+        },
+        {
+            "key": "trait.growth.title",
+            "value": "Growth"
+        },
+        {
+            "key": "trait.mind_control_counter.title",
+            "value": "Mind Controlled"
+        },
+        {
+            "key": "trait.mind_control_link.title",
+            "value": "Mind Control Link"
+        },
+        {
+            "key": "trait.reptile.title",
+            "value": "Reptile"
+        },
+        {
+            "key": "trait.spell_damage.title",
+            "value": "Spell Damage"
+        }
+    ]
+}

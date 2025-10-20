@@ -1,0 +1,3524 @@
+{
+    "entries": [
+        {
+            "key": "--_guild_points",
+            "value": "-- ギルドポイント"
+        },
+        {
+            "key": "0",
+            "value": "0"
+        },
+        {
+            "key": "1",
+            "value": "1"
+        },
+        {
+            "key": "1.",
+            "value": "1."
+        },
+        {
+            "key": "1._scan_the_qr_code_shown_above_2._choose_your_desired_wallet_account_in_pera_3._enter_0_for_the_algo_amount_to_send_4._sign_the_txn_in_the_pera_mobile_app_5._click_the_confirm_button_to_the_right",
+            "value": "1. 上に表示されたQRコードをスキャン\n 2. PERAで希望のウォレットアカウントを選択\n 3. 送信するALGO量として0を入力\n 4. PERAモバイルアプリでトランザクションに署名\n 5. 右側の確認ボタンをクリック"
+        },
+        {
+            "key": "100",
+            "value": "100"
+        },
+        {
+            "key": "100_essence",
+            "value": "100 エッセンス"
+        },
+        {
+            "key": "1000",
+            "value": "1000"
+        },
+        {
+            "key": "1000_xp",
+            "value": "1000 XP"
+        },
+        {
+            "key": "2",
+            "value": "2"
+        },
+        {
+            "key": "2_rare_packs",
+            "value": "2 レアパック"
+        },
+        {
+            "key": "2_standard_packs",
+            "value": "2 スタンダードパック"
+        },
+        {
+            "key": "20",
+            "value": "20"
+        },
+        {
+            "key": "25_xp",
+            "value": "25 XP"
+        },
+        {
+            "key": "250",
+            "value": "250"
+        },
+        {
+            "key": "3",
+            "value": "3"
+        },
+        {
+            "key": "30_essence",
+            "value": "30 エッセンス"
+        },
+        {
+            "key": "30_xp",
+            "value": "30 XP"
+        },
+        {
+            "key": "300",
+            "value": "300"
+        },
+        {
+            "key": "3000",
+            "value": "3000"
+        },
+        {
+            "key": "333",
+            "value": "333"
+        },
+        {
+            "key": "333_xp",
+            "value": "333 xp"
+        },
+        {
+            "key": "3333",
+            "value": "3333"
+        },
+        {
+            "key": "5",
+            "value": "5"
+        },
+        {
+            "key": "50_essence",
+            "value": "50 エッセンス"
+        },
+        {
+            "key": "50_xp",
+            "value": "50 XP"
+        },
+        {
+            "key": "500",
+            "value": "500"
+        },
+        {
+            "key": "500_essence",
+            "value": "500 エッセンス"
+        },
+        {
+            "key": "533",
+            "value": "533"
+        },
+        {
+            "key": "55_guild_pts_70_coins_each_150_xp_each",
+            "value": "55 ギルド pts\n 各70コイン\n 各150 xp"
+        },
+        {
+            "key": "60",
+            "value": "60"
+        },
+        {
+            "key": "75_xp",
+            "value": "75 XP"
+        },
+        {
+            "key": "9",
+            "value": "9"
+        },
+        {
+            "key": "99",
+            "value": "99"
+        },
+        {
+            "key": "aaaaa",
+            "value": "AAAAA"
+        },
+        {
+            "key": "ability_1",
+            "value": "アビリティ1"
+        },
+        {
+            "key": "accept",
+            "value": "受け入れる"
+        },
+        {
+            "key": "account",
+            "value": "アカウント"
+        },
+        {
+            "key": "account_address",
+            "value": "アカウントアドレス"
+        },
+        {
+            "key": "account_link",
+            "value": "アカウントリンク"
+        },
+        {
+            "key": "account_recovery",
+            "value": "アカウント回復"
+        },
+        {
+            "key": "add",
+            "value": "追加"
+        },
+        {
+            "key": "admin_team",
+            "value": "管理者チーム"
+        },
+        {
+            "key": "adventure",
+            "value": "アドベンチャー"
+        },
+        {
+            "key": "adventures",
+            "value": "アドベンチャー"
+        },
+        {
+            "key": "antonio_f.",
+            "value": "Antonio F."
+        },
+        {
+            "key": "asset_earnings",
+            "value": "アセット収益"
+        },
+        {
+            "key": "asset_forger",
+            "value": "アセットフォージャー"
+        },
+        {
+            "key": "asstes_total",
+            "value": "アセット合計"
+        },
+        {
+            "key": "audio",
+            "value": "オーディオ"
+        },
+        {
+            "key": "avatars",
+            "value": "アバター"
+        },
+        {
+            "key": "backgrounds",
+            "value": "背景"
+        },
+        {
+            "key": "batlepass",
+            "value": "バトルパス"
+        },
+        {
+            "key": "battle_pass",
+            "value": "バトル\n パス"
+        },
+        {
+            "key": "battlepass_rewards",
+            "value": "バトルパス報酬"
+        },
+        {
+            "key": "block",
+            "value": "ブロック"
+        },
+        {
+            "key": "body",
+            "value": "ボディ"
+        },
+        {
+            "key": "bronze_iii",
+            "value": "ブロンズ iii"
+        },
+        {
+            "key": "brows",
+            "value": "眉"
+        },
+        {
+            "key": "build_deck",
+            "value": "デッキ構築"
+        },
+        {
+            "key": "built_with",
+            "value": "構築:"
+        },
+        {
+            "key": "buy",
+            "value": "購入"
+        },
+        {
+            "key": "buy_cards",
+            "value": "カード購入"
+        },
+        {
+            "key": "buy_pack",
+            "value": "パック購入"
+        },
+        {
+            "key": "cancel",
+            "value": "キャンセル"
+        },
+        {
+            "key": "cancelled",
+            "value": "キャンセル済み"
+        },
+        {
+            "key": "card",
+            "value": "カード"
+        },
+        {
+            "key": "card.alfrost.text",
+            "value": "ラッシュ"
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "フューリー"
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "各ターン、+1アーマーを獲得。"
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>攻撃:</b> 対象のモンスターに呪いをかける"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "このクリーチャーで他のキャラクターを倒すと、2枚のカードを引く。"
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>トラップ回避:</b> 攻撃時にトラップをトリガーしない。\n プレイ中の敵のトラップ1つにつき+1ダメージを獲得。"
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>トラップ回避:</b> 攻撃時にトラップをトリガーしない。"
+        },
+        {
+            "key": "card.bay.text",
+            "value": "あなたが所有するウォーターのクリーチャーが死ぬと、カードを1枚引く。"
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>死:</b> カードを1枚引く。"
+        },
+        {
+            "key": "card.bora.text",
+            "value": "ステルス"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "プレイヤーを攻撃した後、2マナを獲得。\n "
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>プレイ:</b> キャラクターにバーンを付与し、各ターン2ダメージを受ける。"
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>プレイ:</b> プレイヤーの手札からランダムなカードを捨て、2枚の新しいカードを引く。"
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "ステルス"
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "<b>キャスト:</b> プレイ中のすべての味方に+2アーマーを付与。5マナとアクションを使用。"
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "各ターン開始時に、1枚のカードを引く"
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "ヘイスト"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "リーチ: フライングのモンスターはこのモンスターを対象にしなければならない。"
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "スペルダメージ +1。"
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>プレイ</b>: ベビージャグールを召喚。\n すべてのキャット +1攻撃。"
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>キル:</b> 2枚のカードを引く。"
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "挑発\n シェル"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "1マナを獲得。"
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "敵のキャラクターは-1攻撃。\n 挑発を無視可能。"
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "フライング / クライオニックスに進化\n <b>プレイ:</b> 敵のキャラクターを凍結"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "ステルス"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>プレイ:</b> 呪い。"
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>プレイ</b>: プレイ中のすべてのキャラクターに呪いをかける。"
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "スペル無効\n シェル"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>プレイ:</b> 任意の側の対象キャラクターを選択し、相手に送る。\n アクション: 3マナで繰り返し。"
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>プレイ:</b> このモンスターを4マナの敵モンスターと入れ替える。"
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "挑発"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "スペル無効"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>プレイ:</b> 対象のモンスターに毒を付与"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>プレイ:</b> +2/2を付与"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>攻撃:</b>D6を振る、4+でターン終了まで+3攻撃を獲得。"
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "挑発"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "トランプル\n 挑発無視"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "フューリー"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "ドラゴンを発見。"
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "挑発"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>プレイ</b>: 対象のキャラクターを沈黙させ、次に対象のキャラクターに呪いをかける"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>プレイ</b>: プレイ中のすべてのキャラクターに呪いをかける"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>攻撃</b>: 対象のモンスターに呪いをかける"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "すべてのエレクトリックモンスターは2マナ少なくなる（敵を含む）"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>プレイ:</b> 相手はランダムなカードを捨てる"
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>プレイ:</b> 攻撃3以下のキャラクターを破壊。"
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "各ターン開始時に、相手の手札を公開。最大3ターン持続。"
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "装備者は2アーマーと挑発を獲得。"
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "攻撃 +1。\n 装備者は攻撃時にダメージを受けない。"
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "攻撃 +2\n 2回の攻撃持続"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "4ターンにわたり、各ターン2マナ追加。"
+        },
+        {
+            "key": "card.espe.text",
+            "value": "マナコスト5+の敵対象キャラクターをマインドコントロール、このキャラクターがボードを離れるまで"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>プレイ:</b> +2/2を付与。\n ダメージを与えるとプレイヤーを回復。"
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>プレイ:</b> すべてに2ダメージ。"
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>プレイ:</b> マナコスト5以下の敵キャラクターをマインドコントロール"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>攻撃:</b> 敵にバーン。各ターン2HP減少。"
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>プレイ:</b> マナコスト2以下の対象キャラクターをマインドコントロール"
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>プレイ:</b> マナコスト3以下の対象キャラクターをマインドコントロール"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>プレイ:</b> 任意の側のマナコスト2以下の対象キャラクターを選択し、相手に送る。"
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "相手がキャラクターカードを捨てると、このキャラクターは捨てられたキャラクターのコピーになる。"
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "相手がスペルを捨てると、手札に0マナコピーを生成。\n "
+        },
+        {
+            "key": "card.froster.text",
+            "value": "攻撃時にD6を振る。4+で+6攻撃。"
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "スペル無効\n アビリティ無効\n 挑発無視"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "各ターン開始時に、1枚のカードを引く"
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "スペルをプレイした後、+2攻撃を獲得。\n <b>フライング</b> 挑発を無視可能"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "スペルをプレイした後、+2攻撃を獲得。"
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>攻撃:</b> 呪い"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "各ターン、+1アーマーを獲得。"
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "他のキャラクターが死ぬたび、1枚のカードを引く。"
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "ヘイスト"
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>攻撃:</b> ポイズン。\n <b>フライング:</b> 挑発を無視可能。"
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "スペルをプレイした後、+2攻撃を獲得。"
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "各ターン開始時に、+1攻撃を獲得。"
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "各ターン開始時に、1枚のカードを引く"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>プレイ:</b> すべてに2ダメージ。"
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>プレイ:</b> すべての負のステータス効果を治し、+2 HPを付与"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>キャスト (2):</b> プレイヤーを3 HP回復。"
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>プレイ:</b> +2/2を付与。\n <b>アクション:</b> チャージ。"
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>プレイ:</b> 対象カードを沈黙。"
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>挑発</b>\n <b>各ターン:</b> 攻撃が最も低いキャラクターを倒す。\n "
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>プレイ:</b> 対象にサファリングの呪いを追加"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "フューリー\n 各ターン、+1アーマーを獲得。"
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "他のキャラクターが死ぬたび、1枚のカードを引く。\n 攻撃減少無効"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "<b>死:</b> カードを1枚引く。"
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "<b>ターン:</b> カードを1枚引く。"
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "他のキャラクターが死ぬたび、1枚のカードを引く。"
+        },
+        {
+            "key": "card.hato.text",
+            "value": "デス touch"
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "各ターン、+1攻撃を獲得。"
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>プレイ:</b> 対象キャラクターの攻撃を1に減少。"
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "エレクトリックのモンスターに追加アクションを付与する古代のエレクトリックフラクタルフェアリー"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "任意のカードまたはプレイヤーに1ダメージを与える古代のファイアフラクタルフェアリー"
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "任意のカードを1ターン凍結する古代のアイスフラクタルフェアリー"
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "キャラクターとプレイヤーを2 HP回復する古代のプラントフラクタルフェアリー"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "相手に手札からカードを捨てさせる古代のサイキックフラクタルフェアリー"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "ボード上の任意のカードに+1アーマーを付与する古代のロックフラクタルフェアリー。"
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "プレイ中の任意のカードに呪いをかける古代のシャドウフラクタルフェアリー。"
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "プレイヤーに追加のカードを引かせる古代のウォーターフラクタルフェアリー。"
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>攻撃:</b> 敵にバーン。各ターン2 HP減少。"
+        },
+        {
+            "key": "card.hito.text",
+            "value": "相手のターン中に+3攻撃。"
+        },
+        {
+            "key": "card.ice_town.text",
+            "value": "すべての同盟アイスクリーチャーは+1攻撃と+1 HP。"
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "フューリー"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>死:</b> 敵プレイヤーに2ダメージ。"
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>攻撃</b>: 対象のモンスターに呪いをかける"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "挑発無視"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>プレイ:</b> 挑発またはフューリーを獲得"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>キル:</b> 2枚のカードを引く。\n <b>死:</b> 1枚のカードを引く。"
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "相手のターン中に+3攻撃。"
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "シェル\n 挑発"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>攻撃:</b> ポイズン。"
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "ラッシュ / フライング"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "デス touch"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>プレイ</b>: リゾを召喚\n すべてのレプタイル +1攻撃。"
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>プレイ</b>: リゾを召喚\n すべてのレプタイル +2攻撃。"
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "挑発"
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>プレイ:</b> 対象キャラクターの攻撃を1に減少。"
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>プレイ:</b> +2/2を付与。\n <b>フライング:</b> 挑発を無視可能。"
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>プレイ:</b> 対象キャラクターの攻撃を1に減少。"
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>プレイ:</b> +2/2を付与\n <b>プレイ:</b> プレイヤーを4 HP回復\n <b>フライング:</b> 挑発を無視可能"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>ターン開始: </b>すべてのプラントカードは3回復。"
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "すべての敵キャラクターは-2攻撃。"
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "挑発\n シェル"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "ターン開始時に、このクリーチャーは完全に回復。"
+        },
+        {
+            "key": "card.minask.text",
+            "value": "再生"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "他のキャラクターが死ぬたび、2枚のカードを引く。"
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "他のキャラクターが死ぬたび、2枚のカードを引く。"
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "スペルダメージ +2。\n <b>攻撃:</b> 攻撃されたカードにバーン。"
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "各ターン開始時に、+2攻撃を獲得。"
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "ラッシュ"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>プレイ:</b> 攻撃3以下の敵対象キャラクターをマインドコントロール、このキャラクターがボードを離れるまで"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>攻撃</b>: 対象のモンスターに呪いをかける"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "トランプル"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "超過ダメージはこのクリーチャーのHPを差分だけ回復"
+        },
+        {
+            "key": "card.muni.text",
+            "value": "プレイ時に、相手の手札を公開"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "ターン開始時に、このクリーチャーは完全に回復。"
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "フューリー"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "プレイヤーを攻撃すると、2マナを獲得。"
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "プレイ時に、他のクリーチャーに次のターンまで+2 HPを付与。"
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "フューリー"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>プレイ:</b> 相手の手札を公開\n <b>アクション:</b> 相手の手札から3マナ以下のランダムカードを捨てる。2マナ。"
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>ターン終了:</b> 他のキャラクターがいればステルスになる。"
+        },
+        {
+            "key": "card.operant.text",
+            "value": "<b>プレイ:</b> 1ダメージを与える。"
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "相手のターン中に+3攻撃。\n 挑発"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "相手のターン中に+3攻撃。\n 挑発"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "攻撃時にD6を振る。4+で+3攻撃。"
+        },
+        {
+            "key": "card.owind.text",
+            "value": "スペル無効\n 挑発無視"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>プレイ:</b> 攻撃4以下のキャラクターを破壊。"
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>死:</b> カードを1枚引く。"
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "ステルス\n <b>プレイ:</b> 相手はランダムなカードを捨てる\n 相手の捨てで+1攻撃を獲得"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "ターン開始時に、このクリーチャーは完全に回復。"
+        },
+        {
+            "key": "card.petili.text",
+            "value": "プレイ時に、他のクリーチャーに次のターンまで+2/2を付与。"
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "他のキャラクターが死ぬたび、1枚のカードを引く。"
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>キャスト (3):</b> 2ダメージを与える。\n <b>死:</b> 卵を召喚。"
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "3ターン後にファイラに変身。"
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>キャスト (2):</b> D6を振る、4+で対象を手札に戻す。"
+        },
+        {
+            "key": "card.picko.text",
+            "value": "<b>プレイ:</b> 1ダメージを与える。"
+        },
+        {
+            "key": "card.plator.text",
+            "value": "このクリーチャーで他のキャラクターを倒すと、2枚のカードを引く。"
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>プレイ:</b> +2 HPを付与"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "対象モンスターはフューリーを獲得。各ターン2回攻撃可能。"
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "対象は1攻撃とフューリーを獲得。"
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "対象は甘い香りに浴び、+2 HPと挑発を獲得。"
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "対象はアーマー2を獲得、キャラクターからの直接ダメージを2減少。"
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "ボード上のマナコスト3以下のキャラクターを1ターン マインドコントロール。対象はラッシュを獲得。"
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "対象はアーマー2を獲得、キャラクターからの直接ダメージを2減少。"
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "対象はサファリングの呪いを獲得、攻撃ごとに3ダメージ。"
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "対象はシェルと完全に回復。"
+        },
+        {
+            "key": "card.prido.text",
+            "value": "フューリー\n 各ターン、+1攻撃を獲得。"
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>プレイ:</b> 任意の側のキャラクターを選択し、相手に送る。\n 各ターン開始時にすべての味方に2ダメージ。"
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>死:</b> 卵を召喚。"
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>プレイ:</b> 1ダメージを与える。"
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>プレイ:</b> 2ダメージを与える。"
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>攻撃</b>: 対象のモンスターに呪いをかける"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>各ターン:</b> 攻撃が最も低いキャラクターを倒す（味方とこのモンスターを含む）。"
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "すべてのロッククリーチャーは「1ダメージを受けて+1攻撃を獲得」。1マナ/使用。"
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "再生"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>攻撃:</b> ポイズン。"
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "再生"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "各ターン、+1アーマーを獲得。"
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "各ターン、+1攻撃を獲得。\n <b>フライング</b> 挑発を無視可能"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "スペルダメージ +1。"
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>攻撃:</b> ポイズン。"
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "挑発\n "
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>プレイ:</b> キャラクターを手札に戻す。"
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "フライング"
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "攻撃時にD6を振る。4+で+6攻撃。"
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "挑発無視"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "挑発無視"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "デス touch"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "手札に3体のピロを召喚。"
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "ボード上のすべてのクリーチャーを破壊"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "すべてのキャラクターのHPを1に減少。"
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "プレイ中のすべてのエレクトリックモンスターは+2攻撃（敵を含む）。"
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "対象を破壊。"
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "対象のキャラクターを沈黙させ、次に対象のキャラクターに呪いをかける"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "対象カードは「同盟キャラクターがプレイに入ると、これを破壊」を獲得。"
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "デッキの次の7枚を見て、エレクトリックカード1枚を手札に取る。"
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "対象カードは「同盟キャラクターがプレイに入ると、これを破壊」を獲得。"
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "3ダメージを与える。\n カードを1枚引く。"
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "すべてのキャラクターのHPを1に減少。"
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "すべての同盟プラントキャラクターは+2/2を獲得"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "手札に3体のハミを召喚。"
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "すべてのカードを所有者の手札に戻す。"
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "デッキの次の7枚を見て、1枚のアイスカードを選択。"
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "ボード上のすべての凍結カードを破壊"
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "すべてのキャラクターに2ダメージ"
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "手札に三体の2/1ランピを召喚。"
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "すべての敵モンスターに2ダメージ"
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "対象は+4/4を獲得し、眠る。"
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "ランダムなカードに1ダメージ。\n X回繰り返し。"
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "相手は手札から3枚のランダムカードを捨てる。"
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "敵キャラクターを3ターンコントロール、または進化するまで"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "ボード上のすべてのクリーチャーを破壊"
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "プレイ中のすべてのロケーションを破壊。"
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "対象はシェルを獲得、次のヒットでダメージを無視。"
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "対象を3ターン麻痺。"
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "すべてのキャラクターのHPと攻撃を1に減少"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "対象クリーチャーは「攻撃前に3ダメージを受ける」を獲得。"
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "HPが最も低いキャラクターを破壊。"
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "対象クリーチャーは「攻撃前に3ダメージを受ける」を獲得。"
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "1ダメージを与える。\n カードを1枚引く。"
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "すべてのカードを所有者の手札に戻す。"
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "対象カードは「攻撃された時、相手はランダムなカード1枚を捨てる」を獲得。"
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "プレイ中のすべてのカードにポイズン"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "デッキの次の7枚を見て、1枚のウォーターカードを選択。"
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "敵対象を所有者の手札に戻す。"
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "任意の対象を所有者の手札に戻し、相手は手札からランダムなカードを捨てる。"
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>プレイ:</b> 攻撃2以下のキャラクターを破壊。"
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>攻撃:</b> 対象にポイズン。"
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>攻撃:</b> 対象にポイズン。"
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "敵キャラクターは-1攻撃。\n 挑発を無視可能。"
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "プレイヤーを攻撃すると、1マナを獲得。"
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>ターン開始: </b>すべての同盟シャドウカードは+1攻撃を獲得。"
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "ステルス\n すべてのキャット +1攻撃。"
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "<b>スラッシュラッシュ:</b> アイスロケーションがプレイ中ならラッシュを獲得。"
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "すべての同盟ロックキャラクターは+1 HP。\n 挑発"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "ラッシュ"
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "フューリー"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "<b>プレイ:</b> プレイ中の他のすべてのカードに1ダメージ。"
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "すべての同盟シャドウカードは+2攻撃。"
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "すべての同盟プラントカードは+2 HP。"
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "サイキックモンスターをプレイまたは相手のモンスターをコントロールすると、相手はランダムなカードを捨てる。"
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "すべての同盟ロッククリーチャーは+2 HP。"
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "すべての同盟ファイアクリーチャーは+2攻撃。"
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "手札のウォーターカードは1少なくなる。"
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>トラップ:</b> 対象を1ターン麻痺させ、3ダメージを与える"
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>トラップ:</b> すべてに2ダメージ。"
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>トラップ:</b> 魚に変身。"
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>トラップ:</b> 対象を1ターン凍結し、3ダメージを与える"
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>トラップ:</b> 次の攻撃者にポイズンと3ダメージ。"
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "次の敵キャラクターが攻撃すると、1ターン マインドコントロールし、挑発を付与。"
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>トラップ:</b> 次の攻撃者を麻痺。"
+        },
+        {
+            "key": "card.trats.text",
+            "value": "スペルをプレイした後、+2攻撃を獲得。"
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "ヘイスト\n 挑発無視可能"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "挑発"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>死:</b> カードを1枚引く。\n 挑発無視。"
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "スペル無効\n 挑発無視"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>プレイ</b>: 対象カードの攻撃を3に設定"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "挑発"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "プレイ時に、プレイ中のすべてのカードにポイズン。"
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "すべてのエレクトリックモンスターは2マナ少なくなる"
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "ステルス\n 攻撃: ポイズン"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "攻撃不可。ターン開始時に、ランダムな味方を眠らせる。"
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "すべてのファイアクリーチャーは「1ダメージを受けて+1攻撃を獲得」。1マナ/使用。"
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>プレイ</b>: 対象カードの攻撃を1に設定"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>プレイ:</b> すべてに1ダメージ。"
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>プレイ:</b> 対象カードを沈黙。"
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "各ターン、+1アーマーを獲得。"
+        },
+        {
+            "key": "card.waru.text",
+            "value": "相手のターン中に+3攻撃。"
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "敵キャラクターは-1攻撃。\n <b>アクション:</b> 味方に+1攻撃。"
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>ターン終了:</b> 他のキャラクターがいればステルスになる。"
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>ターン終了:</b> 他のキャラクターがいればステルスになる。"
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>プレイ:</b> キャラクターを手札に戻す。"
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>プレイ:</b> 挑発またはフューリーを獲得"
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "プレイヤーを攻撃すると、1マナを獲得。"
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>ロケーションディスカウント</b>: 同じエレメントタイプのロケーションは1マナ割引。"
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "同じエレメントタイプのプレイ中のロケーションごとに+2 HP。"
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "スペル無効"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "スペル無効"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "挑発\n シェル"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "スペル無効"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>プレイ:</b> 呪い"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "他のキャラクターが死ぬたび、2枚のカードを引く。"
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>プレイ:</b> 対象キャラクターの攻撃を1に減少。"
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "ヘイスト / フライング"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "各ターン開始時に、1枚のカードを引く。"
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "他の同盟レプタイルは+2攻撃を獲得。"
+        },
+        {
+            "key": "card_artist",
+            "value": "カードアーティスト"
+        },
+        {
+            "key": "card_description",
+            "value": "カード説明"
+        },
+        {
+            "key": "card_level",
+            "value": "カードレベル"
+        },
+        {
+            "key": "cardback",
+            "value": "カードバック"
+        },
+        {
+            "key": "cardbacks",
+            "value": "カードバック"
+        },
+        {
+            "key": "cards_owned",
+            "value": "所有カード"
+        },
+        {
+            "key": "challenge",
+            "value": "チャレンジ"
+        },
+        {
+            "key": "character",
+            "value": "キャラクター"
+        },
+        {
+            "key": "characters",
+            "value": "キャラクター"
+        },
+        {
+            "key": "chargement",
+            "value": "読み込み中"
+        },
+        {
+            "key": "check_optin",
+            "value": "オプトイン確認"
+        },
+        {
+            "key": "choose_a_quick_chat_option",
+            "value": "クイックチャットオプションを選択"
+        },
+        {
+            "key": "claim",
+            "value": "請求"
+        },
+        {
+            "key": "claim_all",
+            "value": "すべて請求"
+        },
+        {
+            "key": "click_this_button_to_generate_your_code_and_join_discord",
+            "value": "このボタンをクリックしてコードを生成し、Discordに参加"
+        },
+        {
+            "key": "click_to_chat",
+            "value": "クリックしてチャット"
+        },
+        {
+            "key": "client_outdated",
+            "value": "クライアントが古い"
+        },
+        {
+            "key": "clone",
+            "value": "クローン"
+        },
+        {
+            "key": "close",
+            "value": "閉じる"
+        },
+        {
+            "key": "cloth",
+            "value": "布"
+        },
+        {
+            "key": "code",
+            "value": "コード"
+        },
+        {
+            "key": "code...",
+            "value": "コード..."
+        },
+        {
+            "key": "collection",
+            "value": "コレクション"
+        },
+        {
+            "key": "common",
+            "value": "コモン"
+        },
+        {
+            "key": "community_guilds",
+            "value": "コミュニティギルド"
+        },
+        {
+            "key": "confirm",
+            "value": "確認"
+        },
+        {
+            "key": "confirm...",
+            "value": "確認..."
+        },
+        {
+            "key": "confirm_delete",
+            "value": "削除確認"
+        },
+        {
+            "key": "confirm_delete_account",
+            "value": "アカウント削除確認"
+        },
+        {
+            "key": "confirm_delete_guild",
+            "value": "ギルド削除確認"
+        },
+        {
+            "key": "connecting_to_server...",
+            "value": "サーバーに接続中..."
+        },
+        {
+            "key": "connecting_to_server....",
+            "value": "サーバーに接続中...."
+        },
+        {
+            "key": "continue",
+            "value": "続ける"
+        },
+        {
+            "key": "cost",
+            "value": "コスト"
+        },
+        {
+            "key": "cost_breakdown",
+            "value": "コスト内訳"
+        },
+        {
+            "key": "create",
+            "value": "作成"
+        },
+        {
+            "key": "create_guild",
+            "value": "ギルド作成"
+        },
+        {
+            "key": "create_username",
+            "value": "ユーザー名作成"
+        },
+        {
+            "key": "credits",
+            "value": "クレジット"
+        },
+        {
+            "key": "crueltek",
+            "value": "CRUELTEK"
+        },
+        {
+            "key": "currently_in_the_main_menu",
+            "value": "現在メインメニューにいます"
+        },
+        {
+            "key": "currently_playing_a_solo_match...",
+            "value": "現在ソロマッチをプレイ中..."
+        },
+        {
+            "key": "custom_player_decks",
+            "value": "カスタムプレイヤーデッキ"
+        },
+        {
+            "key": "customize",
+            "value": "カスタマイズ"
+        },
+        {
+            "key": "customize_tamer",
+            "value": "テイマーカスタマイズ"
+        },
+        {
+            "key": "daily_rewards",
+            "value": "デイリー\n 報酬"
+        },
+        {
+            "key": "daily_daily_tournament",
+            "value": "デイリーデイリートーナメント"
+        },
+        {
+            "key": "daily_missions",
+            "value": "デイリーミッション"
+        },
+        {
+            "key": "dangocat",
+            "value": "DANGOCAT"
+        },
+        {
+            "key": "dark_forest",
+            "value": "ダークフォレスト"
+        },
+        {
+            "key": "day_1",
+            "value": "日1"
+        },
+        {
+            "key": "day_2",
+            "value": "日2"
+        },
+        {
+            "key": "day_3",
+            "value": "日3"
+        },
+        {
+            "key": "day_4",
+            "value": "日4"
+        },
+        {
+            "key": "day_5",
+            "value": "日5"
+        },
+        {
+            "key": "day_6",
+            "value": "日6"
+        },
+        {
+            "key": "day_7",
+            "value": "日7"
+        },
+        {
+            "key": "day_text",
+            "value": "日テキスト"
+        },
+        {
+            "key": "deal_25_damage_with_shadow_monsters",
+            "value": "シャドウモンスターで25ダメージを与える"
+        },
+        {
+            "key": "deal_50_damage_with_shadow_monsters",
+            "value": "シャドウモンスターで50ダメージを与える"
+        },
+        {
+            "key": "deck",
+            "value": "デッキ"
+        },
+        {
+            "key": "deck_name",
+            "value": "デッキ名"
+        },
+        {
+            "key": "deck_select",
+            "value": "デッキ選択"
+        },
+        {
+            "key": "deck_title",
+            "value": "デッキタイトル"
+        },
+        {
+            "key": "decks",
+            "value": "デッキ"
+        },
+        {
+            "key": "decline",
+            "value": "拒否"
+        },
+        {
+            "key": "defeats",
+            "value": "敗北"
+        },
+        {
+            "key": "delete",
+            "value": "削除"
+        },
+        {
+            "key": "delete_account",
+            "value": "アカウント削除"
+        },
+        {
+            "key": "delete_guild",
+            "value": "ギルド削除"
+        },
+        {
+            "key": "deny",
+            "value": "拒否"
+        },
+        {
+            "key": "desc",
+            "value": "DESC"
+        },
+        {
+            "key": "description",
+            "value": "説明"
+        },
+        {
+            "key": "destroy_5_monsters_using_fire_team",
+            "value": "ファイアチームで5体のモンスターを破壊"
+        },
+        {
+            "key": "detail",
+            "value": "詳細"
+        },
+        {
+            "key": "dev_team",
+            "value": "開発チーム"
+        },
+        {
+            "key": "devfraccas",
+            "value": "DevFraccas"
+        },
+        {
+            "key": "do_not_show_tips",
+            "value": "ヒントを表示しない"
+        },
+        {
+            "key": "dogson",
+            "value": "DOGSON"
+        },
+        {
+            "key": "download_pera",
+            "value": "PERAダウンロード"
+        },
+        {
+            "key": "earnings",
+            "value": "収益"
+        },
+        {
+            "key": "earnings_per_day",
+            "value": "日次収益"
+        },
+        {
+            "key": "earnings_per_week",
+            "value": "週次収益"
+        },
+        {
+            "key": "edit",
+            "value": "編集"
+        },
+        {
+            "key": "elemental_types",
+            "value": "エレメントタイプ"
+        },
+        {
+            "key": "elo",
+            "value": "ELO"
+        },
+        {
+            "key": "email",
+            "value": "メール"
+        },
+        {
+            "key": "e-mail",
+            "value": "E-Mail"
+        },
+        {
+            "key": "email...",
+            "value": "メール..."
+        },
+        {
+            "key": "email_was_sent_with_a_code._enter_the_code_here_to_reset_your_password.",
+            "value": "コード付きのメールが送信されました。\n ここにコードを入力してパスワードをリセット。"
+        },
+        {
+            "key": "emote",
+            "value": "エモート"
+        },
+        {
+            "key": "end_turn",
+            "value": "ターン\n 終了"
+        },
+        {
+            "key": "enter_discord_code...",
+            "value": "Discordコードを入力..."
+        },
+        {
+            "key": "enter_guild_description...",
+            "value": "ギルド説明を入力..."
+        },
+        {
+            "key": "enter_guild_name...",
+            "value": "ギルド名を入力..."
+        },
+        {
+            "key": "enter_your_email",
+            "value": "メールを入力"
+        },
+        {
+            "key": "entry_fee",
+            "value": "エントリーフィー"
+        },
+        {
+            "key": "equipment",
+            "value": "装備"
+        },
+        {
+            "key": "error",
+            "value": "エラー"
+        },
+        {
+            "key": "error_msg",
+            "value": "エラーメッセージ"
+        },
+        {
+            "key": "evolves_to_danish",
+            "value": "ダニッシュに進化"
+        },
+        {
+            "key": "evolves_to_gracelia",
+            "value": "グレイシアに進化"
+        },
+        {
+            "key": "exit_game",
+            "value": "ゲーム終了"
+        },
+        {
+            "key": "eyes",
+            "value": "目"
+        },
+        {
+            "key": "fairy_powers",
+            "value": "フェアリーパワー"
+        },
+        {
+            "key": "filters",
+            "value": "フィルター"
+        },
+        {
+            "key": "finding_opponent...",
+            "value": "相手を探しています..."
+        },
+        {
+            "key": "fire_deck",
+            "value": "ファイアデッキ"
+        },
+        {
+            "key": "flemmy_suit",
+            "value": "フレミースーツ"
+        },
+        {
+            "key": "forge",
+            "value": "鍛造"
+        },
+        {
+            "key": "forgot_password",
+            "value": "パスワードを忘れた"
+        },
+        {
+            "key": "fracctal_tcg_squad",
+            "value": "フラクタルTCGスクワッド"
+        },
+        {
+            "key": "free",
+            "value": "無料"
+        },
+        {
+            "key": "friend_list_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "テストモードではフレンドリストが利用できません。\n この機能を使用するにはWeb APIサーバーをインストール。"
+        },
+        {
+            "key": "friends",
+            "value": "フレンド"
+        },
+        {
+            "key": "game_artist",
+            "value": "ゲームアーティスト"
+        },
+        {
+            "key": "game_developer",
+            "value": "ゲーム開発者"
+        },
+        {
+            "key": "glasses",
+            "value": "メガネ"
+        },
+        {
+            "key": "gold_3",
+            "value": "ゴールド 3"
+        },
+        {
+            "key": "gold_asset",
+            "value": "ゴールドアセット"
+        },
+        {
+            "key": "graphics",
+            "value": "グラフィックス"
+        },
+        {
+            "key": "grocelia",
+            "value": "グロセリア"
+        },
+        {
+            "key": "guide_fairy",
+            "value": "ガイドフェアリー"
+        },
+        {
+            "key": "guild_description",
+            "value": "ギルド説明"
+        },
+        {
+            "key": "guild_leader",
+            "value": "ギルドリーダー"
+        },
+        {
+            "key": "guild_name",
+            "value": "ギルド名"
+        },
+        {
+            "key": "guild_requests",
+            "value": "ギルドリクエスト"
+        },
+        {
+            "key": "guild_vault_cards",
+            "value": "ギルドボールトカード"
+        },
+        {
+            "key": "guilds",
+            "value": "ギルド"
+        },
+        {
+            "key": "hands",
+            "value": "手"
+        },
+        {
+            "key": "head",
+            "value": "頭"
+        },
+        {
+            "key": "in_progress",
+            "value": "進行中"
+        },
+        {
+            "key": "inbox",
+            "value": "受信箱"
+        },
+        {
+            "key": "james_ward",
+            "value": "James Ward"
+        },
+        {
+            "key": "join",
+            "value": "参加"
+        },
+        {
+            "key": "join_discord",
+            "value": "Discordに参加"
+        },
+        {
+            "key": "join_guild",
+            "value": "ギルドに参加"
+        },
+        {
+            "key": "join_with_code",
+            "value": "コードで参加"
+        },
+        {
+            "key": "kick",
+            "value": "キック"
+        },
+        {
+            "key": "kill_5_monsters_using_fire_monsters",
+            "value": "ファイアモンスターで5体のモンスターを倒す"
+        },
+        {
+            "key": "kill_5_monsters_using_plant_monsters",
+            "value": "プラントモンスターで5体のモンスターを倒す"
+        },
+        {
+            "key": "kk_honey",
+            "value": "KK HONEY"
+        },
+        {
+            "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "テストモードではリーダーボードが利用できません。\n この機能を使用するにはWeb APIサーバーをインストール。"
+        },
+        {
+            "key": "leave_guild",
+            "value": "ギルド離脱"
+        },
+        {
+            "key": "level",
+            "value": "レベル"
+        },
+        {
+            "key": "level_1",
+            "value": "レベル 1"
+        },
+        {
+            "key": "level_5",
+            "value": "レベル 5"
+        },
+        {
+            "key": "level_up_10_cards",
+            "value": "10枚のカードをレベルアップ"
+        },
+        {
+            "key": "level_up_5_cards",
+            "value": "5枚のカードをレベルアップ"
+        },
+        {
+            "key": "loading...",
+            "value": "読み込み中..."
+        },
+        {
+            "key": "locations",
+            "value": "ロケーション"
+        },
+        {
+            "key": "login",
+            "value": "ログイン"
+        },
+        {
+            "key": "login_with_immutable",
+            "value": "IMMUTABLEでログイン"
+        },
+        {
+            "key": "logout",
+            "value": "ログアウト"
+        },
+        {
+            "key": "marc",
+            "value": "Marc"
+        },
+        {
+            "key": "master",
+            "value": "マスター"
+        },
+        {
+            "key": "max",
+            "value": "最大"
+        },
+        {
+            "key": "menu",
+            "value": "メニュー"
+        },
+        {
+            "key": "missions",
+            "value": "ミッション"
+        },
+        {
+            "key": "monster",
+            "value": "モンスター"
+        },
+        {
+            "key": "monster_name",
+            "value": "モンスター名"
+        },
+        {
+            "key": "monsters",
+            "value": "モンスター"
+        },
+        {
+            "key": "mouth",
+            "value": "口"
+        },
+        {
+            "key": "mulligan",
+            "value": "マリガン"
+        },
+        {
+            "key": "multiplayer",
+            "value": "マルチプレイヤー"
+        },
+        {
+            "key": "music",
+            "value": "音楽"
+        },
+        {
+            "key": "mythic",
+            "value": "ミシック"
+        },
+        {
+            "key": "name",
+            "value": "名前"
+        },
+        {
+            "key": "new_password",
+            "value": "新パスワード"
+        },
+        {
+            "key": "new_password...",
+            "value": "新パスワード..."
+        },
+        {
+            "key": "new_text",
+            "value": "新テキスト"
+        },
+        {
+            "key": "next",
+            "value": "次"
+        },
+        {
+            "key": "nicolas_oliver",
+            "value": "NICOLAS OLIVER"
+        },
+        {
+            "key": "nodejs",
+            "value": "NODEJS"
+        },
+        {
+            "key": "nose",
+            "value": "鼻"
+        },
+        {
+            "key": "not_enrolled",
+            "value": "未登録"
+        },
+        {
+            "key": "not_owned",
+            "value": "未所持"
+        },
+        {
+            "key": "ok",
+            "value": "OK"
+        },
+        {
+            "key": "ongoing",
+            "value": "進行中"
+        },
+        {
+            "key": "online_players",
+            "value": "オンライン プレイヤー"
+        },
+        {
+            "key": "open_packs",
+            "value": "パックを開く"
+        },
+        {
+            "key": "optin",
+            "value": "オプトイン"
+        },
+        {
+            "key": "optin_asa_txn",
+            "value": "OPTIN ASA TXN"
+        },
+        {
+            "key": "option_a",
+            "value": "オプション A"
+        },
+        {
+            "key": "owned",
+            "value": "所持"
+        },
+        {
+            "key": "owned_assets",
+            "value": "所持アセット"
+        },
+        {
+            "key": "ownership",
+            "value": "所有権"
+        },
+        {
+            "key": "pack",
+            "value": "パック"
+        },
+        {
+            "key": "pack_description",
+            "value": "パック説明"
+        },
+        {
+            "key": "packs",
+            "value": "パック"
+        },
+        {
+            "key": "partners",
+            "value": "パートナー"
+        },
+        {
+            "key": "password",
+            "value": "パスワード"
+        },
+        {
+            "key": "password_recovery",
+            "value": "パスワード回復"
+        },
+        {
+            "key": "per_day",
+            "value": "日次"
+        },
+        {
+            "key": "pera_account_uid",
+            "value": "PERA アカウント UID"
+        },
+        {
+            "key": "pets",
+            "value": "ペット"
+        },
+        {
+            "key": "plant_starter",
+            "value": "プラントスターター"
+        },
+        {
+            "key": "play",
+            "value": "プレイ"
+        },
+        {
+            "key": "play_a_match_to_re-activate",
+            "value": "再活性化のためにマッチをプレイ"
+        },
+        {
+            "key": "play_with_code",
+            "value": "コードでプレイ"
+        },
+        {
+            "key": "player",
+            "value": "プレイヤー"
+        },
+        {
+            "key": "players",
+            "value": "プレイヤー"
+        },
+        {
+            "key": "practice",
+            "value": "プラクティス"
+        },
+        {
+            "key": "premium",
+            "value": "プレミアム"
+        },
+        {
+            "key": "preview",
+            "value": "プレビュー"
+        },
+        {
+            "key": "previous",
+            "value": "前"
+        },
+        {
+            "key": "previous_password",
+            "value": "前パスワード"
+        },
+        {
+            "key": "prismatic",
+            "value": "プリズマチック"
+        },
+        {
+            "key": "private",
+            "value": "プライベート"
+        },
+        {
+            "key": "prizes",
+            "value": "賞品"
+        },
+        {
+            "key": "profile",
+            "value": "プロフィール"
+        },
+        {
+            "key": "promote",
+            "value": "昇格"
+        },
+        {
+            "key": "purchase_pack",
+            "value": "パック購入"
+        },
+        {
+            "key": "quality",
+            "value": "品質"
+        },
+        {
+            "key": "quantity",
+            "value": "数量"
+        },
+        {
+            "key": "quit",
+            "value": "終了"
+        },
+        {
+            "key": "rafael_santos",
+            "value": "Rafael Santos"
+        },
+        {
+            "key": "random",
+            "value": "ランダム"
+        },
+        {
+            "key": "random_rare_reward",
+            "value": "ランダムレア報酬"
+        },
+        {
+            "key": "rank",
+            "value": "ランク"
+        },
+        {
+            "key": "rankings",
+            "value": "ランキング"
+        },
+        {
+            "key": "rare",
+            "value": "レア"
+        },
+        {
+            "key": "rare_avatar",
+            "value": "レアアバター"
+        },
+        {
+            "key": "rarity",
+            "value": "レアリティ"
+        },
+        {
+            "key": "raz",
+            "value": "RaZ"
+        },
+        {
+            "key": "recover_username",
+            "value": "ユーザー名回復"
+        },
+        {
+            "key": "register",
+            "value": "登録"
+        },
+        {
+            "key": "remove",
+            "value": "削除"
+        },
+        {
+            "key": "requests",
+            "value": "リクエスト"
+        },
+        {
+            "key": "resend_confirmation",
+            "value": "確認再送信"
+        },
+        {
+            "key": "resolution",
+            "value": "解像度"
+        },
+        {
+            "key": "result",
+            "value": "結果"
+        },
+        {
+            "key": "resume",
+            "value": "再開"
+        },
+        {
+            "key": "retype",
+            "value": "再入力"
+        },
+        {
+            "key": "rewards",
+            "value": "報酬"
+        },
+        {
+            "key": "round",
+            "value": "ラウンド"
+        },
+        {
+            "key": "round_3",
+            "value": "ラウンド 3"
+        },
+        {
+            "key": "save",
+            "value": "保存"
+        },
+        {
+            "key": "save_changes",
+            "value": "変更保存"
+        },
+        {
+            "key": "save_success",
+            "value": "保存成功"
+        },
+        {
+            "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
+            "value": "QRコードをスキャン\n PERAモバイルアプリでトランザクションに署名\n 右側の確認ボタンをクリック"
+        },
+        {
+            "key": "search",
+            "value": "検索"
+        },
+        {
+            "key": "search_by_name",
+            "value": "名前で検索"
+        },
+        {
+            "key": "select",
+            "value": "選択"
+        },
+        {
+            "key": "select_a_card",
+            "value": "カードを選択"
+        },
+        {
+            "key": "select_a_choice",
+            "value": "選択肢を選択"
+        },
+        {
+            "key": "select_a_target",
+            "value": "対象を選択"
+        },
+        {
+            "key": "select_card_cost",
+            "value": "カードコストを選択"
+        },
+        {
+            "key": "select_cards_to_replace",
+            "value": "置き換えるカードを選択"
+        },
+        {
+            "key": "select_deck",
+            "value": "デッキを選択"
+        },
+        {
+            "key": "select_one_starter_deck",
+            "value": "スターターデッキを1つ選択"
+        },
+        {
+            "key": "sell",
+            "value": "売却"
+        },
+        {
+            "key": "sell_duplicate_cards",
+            "value": "重複カードを売却"
+        },
+        {
+            "key": "sell_duplicates",
+            "value": "重複を売却"
+        },
+        {
+            "key": "send",
+            "value": "送信"
+        },
+        {
+            "key": "send_guild",
+            "value": "ギルド送信"
+        },
+        {
+            "key": "settings",
+            "value": "設定"
+        },
+        {
+            "key": "sfx",
+            "value": "SFX"
+        },
+        {
+            "key": "sign_in_with_steam",
+            "value": "Steamでサインイン"
+        },
+        {
+            "key": "silence_target_card.",
+            "value": "対象カードを沈黙。"
+        },
+        {
+            "key": "smokenstein",
+            "value": "SMOKENSTEIN"
+        },
+        {
+            "key": "sort",
+            "value": "ソート"
+        },
+        {
+            "key": "spectate",
+            "value": "観戦"
+        },
+        {
+            "key": "spells",
+            "value": "スペル"
+        },
+        {
+            "key": "standard_pack",
+            "value": "スタンダードパック"
+        },
+        {
+            "key": "start",
+            "value": "開始"
+        },
+        {
+            "key": "start_time",
+            "value": "開始時間"
+        },
+        {
+            "key": "status",
+            "value": "ステータス"
+        },
+        {
+            "key": "status_title",
+            "value": "ステータスタイトル"
+        },
+        {
+            "key": "submit",
+            "value": "送信"
+        },
+        {
+            "key": "success",
+            "value": "成功"
+        },
+        {
+            "key": "tamer_silvo",
+            "value": "テイマー シルボ"
+        },
+        {
+            "key": "tamers",
+            "value": "テイマー"
+        },
+        {
+            "key": "tbd",
+            "value": "未定"
+        },
+        {
+            "key": "tcg_council",
+            "value": "TCG カウンシル"
+        },
+        {
+            "key": "tcg_engine",
+            "value": "TCG エンジン"
+        },
+        {
+            "key": "tcgs",
+            "value": "TCGs"
+        },
+        {
+            "key": "test_tournament",
+            "value": "テストトーナメント"
+        },
+        {
+            "key": "title",
+            "value": "タイトル"
+        },
+        {
+            "key": "total_earnings",
+            "value": "総収益"
+        },
+        {
+            "key": "tournament",
+            "value": "トーナメント"
+        },
+        {
+            "key": "tournament_confirmation",
+            "value": "トーナメント確認"
+        },
+        {
+            "key": "tournament_wins",
+            "value": "トーナメント勝利"
+        },
+        {
+            "key": "tournaments",
+            "value": "トーナメント"
+        },
+        {
+            "key": "traits",
+            "value": "特性"
+        },
+        {
+            "key": "traps",
+            "value": "トラップ"
+        },
+        {
+            "key": "turn_6",
+            "value": "ターン 6"
+        },
+        {
+            "key": "type",
+            "value": "タイプ"
+        },
+        {
+            "key": "uncommon",
+            "value": "アンコモン"
+        },
+        {
+            "key": "uncommon_avatar",
+            "value": "アンコモンアバター"
+        },
+        {
+            "key": "unity_engine",
+            "value": "ユニティエンジン"
+        },
+        {
+            "key": "unlink",
+            "value": "リンク解除"
+        },
+        {
+            "key": "update_password",
+            "value": "パスワード更新"
+        },
+        {
+            "key": "username",
+            "value": "ユーザー名"
+        },
+        {
+            "key": "username...",
+            "value": "ユーザー名..."
+        },
+        {
+            "key": "vault",
+            "value": "ボールト"
+        },
+        {
+            "key": "version_1.00",
+            "value": "バージョン 1.00"
+        },
+        {
+            "key": "victories",
+            "value": "勝利"
+        },
+        {
+            "key": "victory",
+            "value": "勝利"
+        },
+        {
+            "key": "view",
+            "value": "表示"
+        },
+        {
+            "key": "wallet_confirmation_txn",
+            "value": "ウォレット確認トランザクション"
+        },
+        {
+            "key": "warning_text",
+            "value": "警告テキスト"
+        },
+        {
+            "key": "weekly_guild_missions",
+            "value": "ウィークリーギルドミッション"
+        },
+        {
+            "key": "weekly_missions",
+            "value": "ウィークリーミッション"
+        },
+        {
+            "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
+            "value": "新しいプレイヤーがあなたのユーザー名を紹介コードとして使用すると、彼らは1レアパックを受け取り、彼らがアカウントをレベルアップするたびにあなたはレアパックを受け取ります"
+        },
+        {
+            "key": "win_3_ranked_matches",
+            "value": "3つのランクマッチに勝利"
+        },
+        {
+            "key": "windowed",
+            "value": "ウィンドウモード"
+        },
+        {
+            "key": "winner",
+            "value": "勝者"
+        },
+        {
+            "key": "winrate",
+            "value": "勝率"
+        },
+        {
+            "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
+            "value": "報酬獲得を有効にするには24時間ごとに少なくとも1マッチをプレイする必要があります。再プレイまで報酬は一時停止。\n "
+        },
+        {
+            "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
+            "value": "デッキが保存され、戦闘で使用可能。"
+        },
+        {
+            "key": "zhamster",
+            "value": "ZHAMSTER"
+        },
+        {
+            "key": "statusline.trait_label",
+            "value": "特性: {0}"
+        },
+        {
+            "key": "statusline.evolution_title",
+            "value": "進化"
+        },
+        {
+            "key": "statusline.evolution_description",
+            "value": "{0} ターン後にカードが進化します"
+        },
+        {
+            "key": "statusline.mind_control_title",
+            "value": "マインドコントロール"
+        },
+        {
+            "key": "statusline.mind_control.owner_prefix",
+            "value": "<color=orange>元の所有者: {0}</color>"
+        },
+        {
+            "key": "statusline.mind_control.release_caster_leaves",
+            "value": "キャスターがプレイから離れる時"
+        },
+        {
+            "key": "statusline.mind_control.release_if_evolves",
+            "value": "進化した場合"
+        },
+        {
+            "key": "statusline.mind_control.desc_currently_controlled",
+            "value": "このカードは現在マインドコントロール下にあります。"
+        },
+        {
+            "key": "statusline.mind_control.desc_single_condition",
+            "value": "コントロールは元の所有者に {0} で戻ります。"
+        },
+        {
+            "key": "statusline.mind_control.desc_double_condition",
+            "value": "コントロールは元の所有者に {0} または {1} で戻ります。"
+        },
+        {
+            "key": "statusline.mind_control.desc_multiple_conditions",
+            "value": "コントロールは元の所有者に {0}、または {1} で戻ります。"
+        },
+        {
+            "key": "statusline.mind_control.desc_fallback_timed",
+            "value": "このカードは現在マインドコントロール下にあり、{0} {1} で戻ります。"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_zero",
+            "value": "{0} の次のターン終了後"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_remaining",
+            "value": "{1} {2} のうち {0} 後"
+        },
+        {
+            "key": "statusline.mind_control.turn_singular",
+            "value": "ターン"
+        },
+        {
+            "key": "statusline.mind_control.turn_plural",
+            "value": "ターン"
+        },
+        {
+            "key": "statusline.mind_control.owner_active",
+            "value": "アクティブプレイヤーの"
+        },
+        {
+            "key": "statusline.mind_control.owner_your",
+            "value": "あなたの"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent",
+            "value": "相手の"
+        },
+        {
+            "key": "statusline.mind_control.owner_original",
+            "value": "元の所有者の"
+        },
+        {
+            "key": "statusline.mind_control.owner_controller",
+            "value": "コントローラーの"
+        },
+        {
+            "key": "statusline.mind_control.owner_you",
+            "value": "あなた"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent_label",
+            "value": "相手"
+        },
+        {
+            "key": "statusline.mind_control.owner_player_number",
+            "value": "プレイヤー {0}"
+        },
+        {
+            "key": "statusline.mind_control.possessive_pronoun",
+            "value": "彼らの"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format",
+            "value": "{0} の"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format_s",
+            "value": "{0} の"
+        },
+        {
+            "key": "statusline.mind_control.list_separator",
+            "value": "、 "
+        },
+        {
+            "key": "language",
+            "value": "言語"
+        },
+        {
+            "key": "warning.not_your_turn",
+            "value": "あなたのターンではありません"
+        },
+        {
+            "key": "warning.no_more_actions",
+            "value": "これ以上の行動はできません"
+        },
+        {
+            "key": "warning.rush_cant_attack_player",
+            "value": "ラッシュのカードは、出したターンにはプレイヤーを攻撃できません"
+        },
+        {
+            "key": "warning.not_enough_mana",
+            "value": "マナが足りません"
+        },
+        {
+            "key": "warning.not_enough_team_points",
+            "value": "チームポイントが不足しています"
+        },
+        {
+            "key": "warning.maximum_traps",
+            "value": "トラップは最大5つ"
+        },
+        {
+            "key": "warning.spell_immunity",
+            "value": "呪文無効"
+        },
+        {
+            "key": "warning.invalid_target",
+            "value": "無効なターゲット"
+        },
+        {
+            "key": "quick_chat.placeholder",
+            "value": "クイックチャットを選択..."
+        },
+        {
+            "key": "quick_chat.gm",
+            "value": "GM!"
+        },
+        {
+            "key": "quick_chat.hello",
+            "value": "こんにちは！"
+        },
+        {
+            "key": "quick_chat.glhf",
+            "value": "GLHF!"
+        },
+        {
+            "key": "quick_chat.lets_go",
+            "value": "行こう！"
+        },
+        {
+            "key": "quick_chat.lets_battle",
+            "value": "戦おう！"
+        },
+        {
+            "key": "quick_chat.lets_fight",
+            "value": "勝負だ！"
+        },
+        {
+            "key": "quick_chat.lets_have_fun",
+            "value": "楽しもう！"
+        },
+        {
+            "key": "quick_chat.nice_move",
+            "value": "ナイスプレイ！"
+        },
+        {
+            "key": "quick_chat.rip",
+            "value": "RIP"
+        },
+        {
+            "key": "quick_chat.rip_gg",
+            "value": "RIP GG"
+        },
+        {
+            "key": "quick_chat.oops",
+            "value": "おっと！"
+        },
+        {
+            "key": "quick_chat.thanks",
+            "value": "ありがとう！"
+        },
+        {
+            "key": "quick_chat.good_game",
+            "value": "ナイスゲーム！"
+        },
+        {
+            "key": "quick_chat.well_played",
+            "value": "お見事！"
+        },
+        {
+            "key": "quick_chat.close_game",
+            "value": "接戦だった！"
+        },
+        {
+            "key": "quick_chat.close_one",
+            "value": "危なかった"
+        },
+        {
+            "key": "quick_chat.great_battle",
+            "value": "素晴らしい戦い！"
+        },
+        {
+            "key": "quick_chat.what_a_battle",
+            "value": "なんて戦いだ！"
+        },
+        {
+            "key": "quick_chat.respect",
+            "value": "リスペクト"
+        },
+        {
+            "key": "tip_mind_control_base",
+            "value": "{0} は {1} の支配を奪った！ 効果が切れるまで、{1}は{0}のために戦います。"
+        },
+        {
+            "key": "tip_mind_control_ability",
+            "value": "元となった能力：{0}"
+        },
+        {
+            "key": "tip_mind_control_evolution_return",
+            "value": "支配されたモンスターが進化し、その後元に戻った場合、元の所有者に戻ります。"
+        },
+        {
+            "key": "tip_mind_control_hint_none",
+            "value": "解除のヒントはありません。支配を終わらせる可能性のある別の効果に注意してください。"
+        },
+        {
+            "key": "tip_mind_control_caster_fallback",
+            "value": "呪文の発生源"
+        },
+        {
+            "key": "tip_mind_control_hint_caster",
+            "value": "{0} を倒して精神支配を解除しよう。"
+        },
+        {
+            "key": "tip_mind_control_hint_turns",
+            "value": "精神支配は、{1}の{0}ターン後に終了します。"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_original",
+            "value": "元の所有者"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_active",
+            "value": "アクティブプレイヤー"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_controller",
+            "value": "コントローラー"
+        },
+        {
+            "key": "tip_swap_slots_base",
+            "value": "{0} は {1} と {2} の位置を入れ替えた。"
+        },
+        {
+            "key": "tip_swap_slots_ability",
+            "value": "使用した能力：{0}"
+        },
+        {
+            "key": "tip_unknown_card",
+            "value": "不明なカード"
+        },
+        {
+            "key": "collection.create_new_deck",
+            "value": "新しいデッキを作成"
+        },
+        {
+            "key": "tip_ability_destroyed",
+            "value": "あなたの{0}は{1}の能力によって破壊されました！\n \n 能力の説明：{2}"
+        },
+        {
+            "key": "tip_armor_message",
+            "value": "敵は装甲を持つモンスターをプレイしました！ 攻撃から受けるダメージが減少します。"
+        },
+        {
+            "key": "tip_characterabilityimmunity_message",
+            "value": "敵は能力無効のモンスターをプレイしました！ 対象を必要とするキャラクター能力は効きませんが、妖精パワーは有効です。"
+        },
+        {
+            "key": "tip_deathtouch_message",
+            "value": "敵はデスタッチのモンスターをプレイしました！ それがダメージを与えたキャラクターは破壊されます。"
+        },
+        {
+            "key": "tip_flying_message",
+            "value": "敵は飛行モンスターをプレイしました！ 挑発ブロッカーを無視できます。"
+        },
+        {
+            "key": "tip_fury_message",
+            "value": "敵は激昂のモンスターをプレイしました！ 各ターンに2回攻撃できます。"
+        },
+        {
+            "key": "tip_heropower_message",
+            "value": "敵は{0}で妖精パワーを使用しました！\n \n 能力：{1}"
+        },
+        {
+            "key": "tip_intimidate_message",
+            "value": "敵は威圧のモンスターをプレイしました！ 攻撃時にダメージを受けません。"
+        },
+        {
+            "key": "tip_invincibility_message",
+            "value": "敵は無敵のモンスターをプレイしました！ 数ターンの間、攻撃されません。"
+        },
+        {
+            "key": "tip_lifesteal_message",
+            "value": "敵はライフスティールのモンスターをプレイしました！ 戦闘ダメージを与えると回復します。"
+        },
+        {
+            "key": "tip_overkill_message",
+            "value": "敵はオーバーキルのモンスターをプレイしました！ 余剰ダメージで自身が回復します。"
+        },
+        {
+            "key": "tip_shell_message",
+            "value": "敵はシェル持ちモンスターをプレイしました！ 最初に受けるダメージは無視されます。"
+        },
+        {
+            "key": "tip_spellimmunity_message",
+            "value": "敵は呪文無効のモンスターをプレイしました！ 呪文で対象にもダメージにもできませんが、対象を取らず破壊する呪文は有効です。"
+        },
+        {
+            "key": "tip_status_generic",
+            "value": "あなたのモンスターは{0}になりました！\n \n 説明：{1}"
+        },
+        {
+            "key": "tip_status_sleep",
+            "value": "あなたのモンスターは眠らされました！\n \n 説明：{0}"
+        },
+        {
+            "key": "tip_stealth_message",
+            "value": "敵はステルスのモンスターをプレイしました！ 行動するまで攻撃も対象指定もできません。"
+        },
+        {
+            "key": "tip_taunt_message",
+            "value": "敵は挑発のモンスターをプレイしました！ 他の敵より先にそれを攻撃しなければなりません。"
+        },
+        {
+            "key": "tip_trample_message",
+            "value": "敵はトランプルのモンスターをプレイしました！ あなたのモンスターに与えた余剰ダメージはあなたに通ります。"
+        },
+        {
+            "key": "tip_transform_into_with_trigger",
+            "value": "「変身先」は捨てられたカードをコピーします。 対象のカードは{1}に変身したため、今は{0}です。"
+        },
+        {
+            "key": "tip_transform_into_without_trigger",
+            "value": "「変身先」は捨てられたカードをコピーします。 対象のカードは、能力を誘発させた捨て札に変身したため、今は{0}です。"
+        },
+        {
+            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
+            "value": "自分のジャガーの1体を敵の上にドラッグして攻撃しましょう。"
+        },
+        {
+            "key": "before_they_destroy_yours",
+            "value": "相手にあなたのものを壊される前に"
+        },
+        {
+            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
+            "value": "ただし、すでに場にいるモンスターで攻撃は可能です。"
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>プレイ：</b> 自分のキャラクターを1体選び、相手側へ送る。そのキャラクターは次の能力を得る：敵キャラクターは+1/+2を得る"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>プレイ：</b> 自分のキャラクターを1体選び、相手側へ送る。そのキャラクターは次の能力を得る：各ターンの開始時にカード2枚を捨てる"
+        },
+        {
+            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
+            "value": "マナ・コストはカードの角に表示されています。"
+        },
+        {
+            "key": "opponent",
+            "value": "相手"
+        },
+        {
+            "key": "to_play_cards_you_must_spend_mana",
+            "value": "カードをプレイするにはマナを消費します。"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "カードをボードの空いているマスへドラッグしてプレイしてみましょう。"
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "手札で緑にハイライトされているカードはプレイ可能です。"
+        },
+        {
+            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
+            "value": "ターンが終わったら「ターン終了」をクリックしてください。"
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "選択肢は2つあります。"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Fracctal TCG チュートリアルへようこそ"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Fracctal TCG チュートリアルへようこそ"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "ランク制マルチプレイヤーで他のプレイヤーと戦おう。\n  \n   画面上部のナビゲーションバーにあるボタンからPvPランキングを確認できます。 "
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "トーナメントモードで、毎日開催される自動トーナメントに他のプレイヤーと参加しよう。\n  \n  この競技でエッセンス通貨、アカウントXP、パック、そしてギルドポイントを獲得しよう！"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "ボード上の空きマスの1つにドラッグしてカードを出してみましょう。\n\n 手札で緑にハイライトされているカードはプレイできます。"
+        },
+        {
+            "key": "modal.version_warning_message",
+            "value": "ゲームバージョン{0}は古いです。最新バージョンは{1}です。"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_beta!_let's_learn_a_bit_about_the_game.",
+            "value": "『Fracctal TCG』ベータへようこそ！\n さっそくゲームについて学びましょう。"
+        },
+        {
+            "key": "in_adventure_mode_you_learn_the_basics_of_the_game_as_well_as_the_different_types_of_cards_and_abilites.you_also_earn_rewards_as_you_defeat_challenges!",
+            "value": "アドベンチャーモードでは、ゲームの基本やカード/アビリティの種類を学べます。\n \n さらに、チャレンジを達成すると報酬も獲得できます！"
+        },
+        {
+            "key": "in_practice_mode_you_can_test_your_different_decks,_complete_missions,_and_learn_the_game_wihtout_affecting_your_ranking.",
+            "value": "練習モードでは、さまざまなデッキを試し、ミッションを達成し、ランキングに影響を与えずにゲームを学べます。"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "ランク制マルチプレイで他のプレイヤーと対戦しよう。\n \n 画面上部のナビゲーションバーのボタンからPvPランキングを確認できます。"
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_mode.win_essence_currency,_account_xp,_packs,_and_guild_points_in_these_competions!",
+            "value": "トーナメントモードで、毎日開催される自動トーナメントに参加しよう。\n \n エッセンス通貨、アカウントXP、パック、ギルドポイントを獲得しよう！"
+        },
+        {
+            "key": "missions_are_the_primary_method_of_gaining_currency_to_open_new_packs._there_are_many_more_features_like_match_spectating,_daily_login_streak_rewards,_friends_list,_player_created_guilds,_battlepass_rewards,_and_much_more!we_suggest_you_start_with_adventure_mode._good_luck!",
+            "value": "ミッションは、新しいパックを開けるための通貨を得る主な方法です。\n \n そのほか、観戦機能、デイリーログイン連続報酬、フレンドリスト、プレイヤー作成ギルド、バトルパス報酬など盛りだくさん！\n \n まずはアドベンチャーモードから始めるのがおすすめです。頑張って！"
+        },
+        {
+            "key": "great_job!_creatures_that_just_entered_play_cannot_attack_in_the_same_turn.",
+            "value": "よくできた！ 場に出たばかりのクリーチャーは同じターンには攻撃できません。"
+        },
+        {
+            "key": "now_destroy_the_other_monster!",
+            "value": "さあ、もう一体のモンスターを倒そう！"
+        },
+        {
+            "key": "your_goal_is_to_reduce_your_opponent's_hp_to_0.",
+            "value": "目標は相手のHPを0にすることです。"
+        },
+        {
+            "key": "many_monsters_are_quite_strong_because_their_fury_ability_let_them_attack_twice_per_turn!",
+            "value": "多くのモンスターは、フューリーで1ターンに2回攻撃できるため非常に強力です！"
+        },
+        {
+            "key": "you_will_probably_want_to_get_rid_of_the_ignitas_this_turn,_otherwise_it_could_damage_most_of_your_hp!",
+            "value": "このターンでイグニタスを片付けたほうがいいでしょう。さもないと多くのHPを失うかもしれません！"
+        },
+        {
+            "key": "your_jagur_can_only_deal_1_damage,_but_you_need_2_to_destroy_the_ignitas.",
+            "value": "あなたのジャグルは1ダメージしか与えられませんが、イグニタスを倒すには2ダメージ必要です。"
+        },
+        {
+            "key": "you_have_two_choices._you_can_either_try_to_paralyze_the_ignitus,_or_play_a_cheetula_to_boost_your_jagur_attack.",
+            "value": "選択肢は2つ。イグニタスを麻痺させるか、チートゥラを出してジャグルの攻撃力を上げましょう。"
+        },
+        {
+            "key": "great_choice,_the_ignitas_won't_be_able_to_attack_for_the_next_2_turns.",
+            "value": "いい選択です。イグニタスは次の2ターン攻撃できません。"
+        },
+        {
+            "key": "now_you_could_attack_the_opponent,_or_end_your_turn.",
+            "value": "今は相手を攻撃するか、ターンを終了するか選べます。"
+        },
+        {
+            "key": "great_choice,_now_your_jagur_has_2_attack._you_can_attack_and_kill_the_ignitas!",
+            "value": "いい選択！ これでジャグルは攻撃力2。イグニタスを攻撃して倒せます！"
+        },
+        {
+            "key": "to_attack_the_opponent's_hp._drag_one_of_your_characters_in_play_on_top_of_the_opponent's_hand_area.",
+            "value": "相手のHPを攻撃するには、場の自分のキャラクターを相手の手札エリアへドラッグします。"
+        },
+        {
+            "key": "good_luck!",
+            "value": "健闘を祈ります！"
+        },
+        {
+            "key": "hero_power_popup.contribution_line1",
+            "value": "{0}枚のカードをプレイすると、妖精の力がチャージされます。"
+        },
+        {
+            "key": "hero_power_popup.contribution_line2",
+            "value": "いま貢献しました！ 進行状況：{0}/{1} エレメントポイント。"
+        },
+        {
+            "key": "hero_power_popup.contribution_line3",
+            "value": "必要ポイントに到達すると発動します。"
+        },
+        {
+            "key": "hero_power_popup.fairy_power_label",
+            "value": "妖精の力：{0}"
+        },
+        {
+            "key": "tip_heropower_electric",
+            "value": "対象は攻撃のための強化を得る（電気モンスターのみ）。"
+        },
+        {
+            "key": "tip_heropower_fire",
+            "value": "1ダメージを与える。"
+        },
+        {
+            "key": "tip_heropower_ice",
+            "value": "敵1体を1ターンの間、凍結させる。"
+        },
+        {
+            "key": "tip_heropower_plant",
+            "value": "体力を2回復する。"
+        },
+        {
+            "key": "tip_heropower_psychic",
+            "value": "相手は手札からランダムなカードを1枚捨てる。"
+        },
+        {
+            "key": "tip_heropower_rock",
+            "value": "対象キャラクターは装甲+1を得る。"
+        },
+        {
+            "key": "tip_heropower_shadow",
+            "value": "対象は呪い状態になる。"
+        },
+        {
+            "key": "tip_heropower_water",
+            "value": "カードを1枚引く。"
+        },
+        {
+            "key": "turn_popup.your_turn",
+            "value": "あなたのターン"
+        },
+        {
+            "key": "turn_popup.opponent_turn",
+            "value": "相手のターン"
+        },
+        {
+            "key": "status.addattack.title",
+            "value": "攻撃強化"
+        },
+        {
+            "key": "status.addattack.desc",
+            "value": "一定時間、攻撃力が +<value> される。"
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "HP強化"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "一定時間、HPが +<value> される。"
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "マナコスト変更"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "一定時間、マナコストが <value> だけ調整される。"
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "隠密"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "行動するまで攻撃も対象指定もされない。"
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "無敵"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "<value> ターンのあいだ攻撃されない。"
+        },
+        {
+            "key": "status.shell.title",
+            "value": "シェル"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "受けるはずだった最初のダメージ源を無視する。"
+        },
+        {
+            "key": "status.protection.title",
+            "value": "挑発"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "敵は他の味方より先にこのカードを攻撃しなければならない。"
+        },
+        {
+            "key": "status.protected.title",
+            "value": "被保護"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "挑発を持つ味方に守られている間は攻撃されない。"
+        },
+        {
+            "key": "status.armor.title",
+            "value": "装甲"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "受けるダメージを <value> 軽減する。"
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "呪文無効"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "呪文の対象にもダメージにもならない。"
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "アビリティ無効"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "キャラクターのアビリティの対象にならない（妖精パワーは有効）。"
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "接死"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "与えたダメージを受けたキャラクターを破壊する。"
+        },
+        {
+            "key": "status.fury.title",
+            "value": "フューリー"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "各ターンに2回攻撃できる。"
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "威圧"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "これでダメージを受けた敵は反撃しない。"
+        },
+        {
+            "key": "status.flying.title",
+            "value": "飛行"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "攻撃時、挑発ブロッカーを無視できる。"
+        },
+        {
+            "key": "status.trample.title",
+            "value": "トランプル"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "ブロッカーに与えた余剰ダメージは相手プレイヤーに通る。"
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "オーバーキル"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "余剰ダメージでこのカードが回復する。"
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "ライフスティール"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "与えたダメージ分だけコントローラーを回復する。"
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "沈黙"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "アビリティは無効化される。"
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "麻痺"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "<value> ターンのあいだ行動できない。"
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "毒"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "各ターン開始時に <value> のHPを失う。"
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "睡眠"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "ターン開始時に準備状態にならない。"
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "凍結"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "<value> ターンのあいだ行動できない。"
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "呪い"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "コントローラーのターン開始時に攻撃力が <value> 減少する。"
+        },
+        {
+            "key": "status.ghost.title",
+            "value": "ゴースト"
+        },
+        {
+            "key": "status.ghost.desc",
+            "value": "呪われているあいだ、このカードは攻撃力 +5 を得る。"
+        },
+        {
+            "key": "status.burned.title",
+            "value": "火傷"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "各ターン開始時に <value> のHPを失う。"
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "罠回避"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "行動しても敵の罠を発動させない。"
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "対空挑発"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "飛行の攻撃者だけを挑発し、味方全員を守る。"
+        },
+        {
+            "key": "status.protectedflying.title",
+            "value": "飛行からの保護"
+        },
+        {
+            "key": "status.protectedflying.desc",
+            "value": "対空挑発の味方がいるかぎり、飛行の敵に攻撃されない。"
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "攻撃力低下無効"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "攻撃力は減少しない。"
+        },
+        {
+            "key": "evolves_to",
+            "value": "進化先"
+        },
+        {
+            "key": "cardzoompanel.trait_label",
+            "value": "特性"
+        },
+        {
+            "key": "cardzoompanel.trait_format",
+            "value": "<b>{0}</b>: {1}\n \n "
+        },
+        {
+            "key": "cardzoompanel.evolution_label",
+            "value": "進化"
+        },
+        {
+            "key": "cardzoompanel.evolution_description",
+            "value": "このモンスターは {0} ターン後に進化します"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minute",
+            "value": "次のトーナメント開始まであと1分"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minutes",
+            "value": "次のトーナメント開始まであと{0}分"
+        },
+        {
+            "key": "main_menu.tournament_countdown_second",
+            "value": "次のトーナメント開始まであと1秒"
+        },
+        {
+            "key": "main_menu.tournament_countdown_seconds",
+            "value": "次のトーナメント開始まであと{0}秒"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hour",
+            "value": "次のトーナメント開始まであと1時間"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hours",
+            "value": "次のトーナメント開始まであと{0}時間"
+        },
+        {
+            "key": "shop",
+            "value": "ショップ"
+        },
+        {
+            "key": "tip_hand_limit_message",
+            "value": "手札がいっぱいです。{0}枚以上は持てません。カードをプレイするか捨てて、さらに引きましょう。"
+        },
+        {
+            "key": "tip_card_evolution_message",
+            "value": "{0}が進化しました！キャラクターは盤面であなたのターンを{1}回生き残ると進化します。進化後の形態がまだ盤面に残っている場合、そのプレイ時効果が再度発動し、すべての負の状態異常が先に解除されます。"
+        }
+    ]
+}

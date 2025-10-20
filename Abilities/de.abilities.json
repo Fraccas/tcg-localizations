@@ -1,0 +1,512 @@
+{
+    "entries": [
+        {
+            "key": "ability.ability_immunity.desc",
+            "value": "Kann nicht von Fähigkeiten von Charakterkarten angegriffen werden"
+        },
+        {
+            "key": "ability.ability_immunity.title",
+            "value": "Fähigkeitsimmunität"
+        },
+        {
+            "key": "ability.ability_swap_characters_4m.desc",
+            "value": "Ersetze diesen Charakter mit einem Charakter des Gegners auf dem Feld mit Manakosten von 4."
+        },
+        {
+            "key": "ability.ability_swap_characters_4m.title",
+            "value": "Psychischer Tausch"
+        },
+        {
+            "key": "ability.activate_armor2.desc",
+            "value": "Alle verbündeten Kreaturen erhalten +2 Rüstung. Verwendet die Aktion dieser Kreatur und kostet 5 Mana."
+        },
+        {
+            "key": "ability.activate_armor2.title",
+            "value": "Rüstungsunterstützung"
+        },
+        {
+            "key": "ability.activate_boost1.desc",
+            "value": "Alle verbündeten Kreaturen erhalten bis zum Ende des Zuges +1 Angriff. Verwendet die Aktion dieser Kreatur."
+        },
+        {
+            "key": "ability.activate_boost1.title",
+            "value": "Brüllen"
+        },
+        {
+            "key": "ability.activate_boost3.desc",
+            "value": "Alle verbündeten Kreaturen erhalten bis zum Ende des Zuges +3 Angriff. Verwendet die Aktion dieser Kreatur."
+        },
+        {
+            "key": "ability.activate_boost3.title",
+            "value": "Unterstützung"
+        },
+        {
+            "key": "ability.activate_burst.desc",
+            "value": "Erleide 1 Schaden, um +1 Angriff zu erhalten."
+        },
+        {
+            "key": "ability.activate_burst.title",
+            "value": "Ausbruch"
+        },
+        {
+            "key": "ability.activate_damage2.desc",
+            "value": "Verursache 2 Schaden. Kostet 3 Mana. Verbraucht keine Aktion."
+        },
+        {
+            "key": "ability.activate_damage2.title",
+            "value": "Zusätzlicher Angriff"
+        },
+        {
+            "key": "ability.activate_discard.desc",
+            "value": "Gegner wirft eine zufällige Karte aus seiner Hand ab. Verwendet die Aktion dieser Kreatur."
+        },
+        {
+            "key": "ability.activate_discard.title",
+            "value": "Abfall"
+        },
+        {
+            "key": "ability.activate_discard_random_3l.desc",
+            "value": "Gegner wirft eine zufällige Karte aus seiner Hand ab. Verwendet die Aktion dieser Kreatur."
+        },
+        {
+            "key": "ability.activate_discard_random_3l.title",
+            "value": "Abfall"
+        },
+        {
+            "key": "ability.activate_electric.desc",
+            "value": "Ziel erhält Stärke zum Angreifen (muss ein Elektro-Monster sein)"
+        },
+        {
+            "key": "ability.activate_electric.title",
+            "value": "Elektro"
+        },
+        {
+            "key": "ability.activate_fire.desc",
+            "value": "Verursache 1 Schaden."
+        },
+        {
+            "key": "ability.activate_fire.title",
+            "value": "Feuer"
+        },
+        {
+            "key": "ability.activate_heal_player3.desc",
+            "value": "Heile den Spieler um 3 HP."
+        },
+        {
+            "key": "ability.activate_heal_player3.title",
+            "value": "Selbstheilung"
+        },
+        {
+            "key": "ability.activate_ice.desc",
+            "value": "Erstarre einen Feind für 1 Zug"
+        },
+        {
+            "key": "ability.activate_ice.title",
+            "value": "Erstarren"
+        },
+        {
+            "key": "ability.activate_plant.desc",
+            "value": "Heile 2 HP."
+        },
+        {
+            "key": "ability.activate_plant.title",
+            "value": "Pflanze"
+        },
+        {
+            "key": "ability.activate_psychic.desc",
+            "value": "Gegner wirft eine zufällige Karte aus seiner Hand ab."
+        },
+        {
+            "key": "ability.activate_psychic.title",
+            "value": "Psychisch"
+        },
+        {
+            "key": "ability.activate_rock.desc",
+            "value": "Ziel-Charakter erhält +1 Rüstung"
+        },
+        {
+            "key": "ability.activate_rock.title",
+            "value": "Stein"
+        },
+        {
+            "key": "ability.activate_rock_hammi_old.desc",
+            "value": "Beschwöre einen 1/1 Hammi"
+        },
+        {
+            "key": "ability.activate_rock_hammi_old.title",
+            "value": "Stein"
+        },
+        {
+            "key": "ability.activate_roll_send_hand.desc",
+            "value": "Wähle einen Charakter und würfle D6, bei 4+ sende ihn in die Hand des Besitzers zurück. Kostet 2 Mana."
+        },
+        {
+            "key": "ability.activate_roll_send_hand.title",
+            "value": "Aufladen"
+        },
+        {
+            "key": "ability.activate_select_discard_spell.desc",
+            "value": "Bringe einen Zauber aus deinem Friedhof in deine Hand zurück. Kostet 2 Mana."
+        },
+        {
+            "key": "ability.activate_select_discard_spell.title",
+            "value": "Magischer Fokus"
+        },
+        {
+            "key": "ability.activate_send_hand.desc",
+            "value": "Bringe einen Charakter in die Hand seines Besitzers zurück. Verwendet die Aktion dieser Kreatur."
+        },
+        {
+            "key": "ability.activate_send_hand.title",
+            "value": "Aufladen"
+        },
+        {
+            "key": "ability.activate_shadow.desc",
+            "value": "Ziel wird verflucht"
+        },
+        {
+            "key": "ability.activate_shadow.title",
+            "value": "Schatten"
+        },
+        {
+            "key": "ability.activate_switch_sides.desc",
+            "value": "Beim Spielen wähle einen Ziel-Charakter zum Seitenwechsel"
+        },
+        {
+            "key": "ability.activate_switch_sides.title",
+            "value": "Loyalitätswechsel"
+        },
+        {
+            "key": "ability.activate_water.desc",
+            "value": "Ziehe eine Karte."
+        },
+        {
+            "key": "ability.activate_water.title",
+            "value": "Wasser"
+        },
+        {
+            "key": "ability.add_attack_traps.desc",
+            "value": "+1 Schaden pro feindlicher Falle"
+        },
+        {
+            "key": "ability.add_attack_traps.title",
+            "value": "Fallen-Boost"
+        },
+        {
+            "key": "ability.add_hp_location.desc",
+            "value": "+2 HP pro verbündeter Position desselben Elementtyps im Spiel."
+        },
+        {
+            "key": "ability.add_hp_location.title",
+            "value": "Positions-Boost"
+        },
+        {
+            "key": "ability.add_spell_damage1.desc",
+            "value": "Alle deine Zauber und Fähigkeiten verursachen +1 Schaden."
+        },
+        {
+            "key": "ability.add_spell_damage1.title",
+            "value": "Zauber-Schaden"
+        },
+        {
+            "key": "ability.add_spell_damage2.desc",
+            "value": "Alle deine Zauber und Fähigkeiten verursachen +2 Schaden."
+        },
+        {
+            "key": "ability.add_spell_damage2.title",
+            "value": "Zauber-Schaden"
+        },
+        {
+            "key": "ability.after_spell_attack2.desc",
+            "value": "Nach dem Spielen eines Zaubers +2 Angriff erhalten."
+        },
+        {
+            "key": "ability.after_spell_attack2.title",
+            "value": "Hitze"
+        },
+        {
+            "key": "ability.attack_burned.desc",
+            "value": "Angegriffener Charakter wird verbrannt. Verliert 2 HP pro Zug."
+        },
+        {
+            "key": "ability.attack_burned.title",
+            "value": "Verbrannt"
+        },
+        {
+            "key": "ability.attack_curse.desc",
+            "value": "Angegriffener ... (truncated 49836 characters) ... aus seiner Hand 2 zufällige Karten."
+        },
+        {
+            "key": "ability.turn_own_discard2.title",
+            "value": "Abfall"
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.desc",
+            "value": "Zu Beginn jedes Zuges erhalten alle Schattenmonster +1 Angriff."
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.title",
+            "value": "Schatten-Bonus"
+        },
+        {
+            "key": "ability.turn_stealth.desc",
+            "value": "Am Ende deines Zuges, wenn du mindestens einen anderen Charakter im Spiel hast, gehe in Tarnung."
+        },
+        {
+            "key": "ability.turn_stealth.title",
+            "value": "Tarnung"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "Bonus-HP."
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "HP-Bonus"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "Manakosten jetzt +1"
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "Mentale Erschöpfung"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "Rüstung hinzufügen"
+        },
+        {
+            "key": "status.armor.title",
+            "value": "Rüstung"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "Schützt den Angriff des Charakters vor Reduzierung."
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "Angriffsverlust-Immunität"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "Pro Zug 2 HP verlieren."
+        },
+        {
+            "key": "status.burned.title",
+            "value": "Verbrannt"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "Kann nicht von Charakterfähigkeiten angegriffen werden"
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "Fähigkeitsimmunität"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "Pro Zug Angriff verlieren."
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "Verflucht"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "Tötet jedes Geschöpf, das es verletzt."
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "Todesberührung"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "Ignoriert Spott."
+        },
+        {
+            "key": "status.flying.title",
+            "value": "Fliegen"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "Kann 1 Zug lang keine Aktionen ausführen."
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "Gefroren"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "Kann pro Zug zweimal angreifen"
+        },
+        {
+            "key": "status.fury.title",
+            "value": "Furie"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "Beim Angreifen kontert das Ziel nicht."
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "Einschüchterung"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "Kann nicht zerstört werden."
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "Unbesiegbarkeit"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "Heile dich selbst, wenn du Schaden zufügst."
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "Lebensraub"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "Überschüssiger Schaden heilt den Angreifer."
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "Überkill"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "Kann keine Aktionen ausführen."
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "Gelähmt"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "Pro Zug HP verlieren."
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "Vergiftet"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "Kann nicht angegriffen werden. Geschützt durch Spott."
+        },
+        {
+            "key": "status.protected.title",
+            "value": "Geschützt"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "Schützt andere Karten."
+        },
+        {
+            "key": "status.protection.title",
+            "value": "Spott"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "Schützt andere Karten vor fliegenden Monstern."
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "Reichweite"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "Beim ersten Treffer keinen Schaden erleiden."
+        },
+        {
+            "key": "status.shell.title",
+            "value": "Schale"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "Kann Fähigkeiten nicht nutzen oder evolieren."
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "Geschwächt"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "1 von 3 Chance aufzuwachen. Entfernt, wenn angegriffen."
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "Schlaf"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "Kann nicht von Zauberkarten angegriffen oder beschädigt werden"
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "Zauberimmunität"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "Kann nicht angegriffen werden."
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "Tarnung"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "Überschüssiger Schaden wird dem Spieler zugefügt."
+        },
+        {
+            "key": "status.trample.title",
+            "value": "Stampfen"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "Monster mit dieser Fähigkeit aktivieren keine Fallen."
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "Fallenumgehung"
+        },
+        {
+            "key": "trait.cat.title",
+            "value": "Katze"
+        },
+        {
+            "key": "trait.dragon.title",
+            "value": "Drache"
+        },
+        {
+            "key": "trait.evolution.title",
+            "value": "Evolution"
+        },
+        {
+            "key": "trait.fish.title",
+            "value": "Fisch"
+        },
+        {
+            "key": "trait.growth.title",
+            "value": "Wachstum"
+        },
+        {
+            "key": "trait.mind_control_counter.title",
+            "value": "Gedankenkontrolle"
+        },
+        {
+            "key": "trait.mind_control_link.title",
+            "value": "Gedankenkontroll-Link"
+        },
+        {
+            "key": "trait.reptile.title",
+            "value": "Reptil"
+        },
+        {
+            "key": "trait.spell_damage.title",
+            "value": "Zauber-Schaden"
+        }
+    ]
+}

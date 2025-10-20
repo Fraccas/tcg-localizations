@@ -1,0 +1,1688 @@
+{
+  "entries": [
+    {
+      "key": "ability.ability_immunity.desc",
+      "value": "캐릭터 카드 능력의 대상이 될 수 없습니다"
+    },
+    {
+      "key": "ability.ability_immunity.title",
+      "value": "능력 면역"
+    },
+    {
+      "key": "ability.ability_swap_characters_4m.desc",
+      "value": "이 캐릭터를 마나 비용 4인 적 보드의 캐릭터로 교체합니다"
+    },
+    {
+      "key": "ability.ability_swap_characters_4m.title",
+      "value": "사이킥 스왑"
+    },
+    {
+      "key": "ability.activate_armor2.desc",
+      "value": "모든 아군 생물이 +2 방어막을 얻습니다. 이 생물의 행동을 사용하며 5 마나를 소비합니다"
+    },
+    {
+      "key": "ability.activate_armor2.title",
+      "value": "방어막 지원"
+    },
+    {
+      "key": "ability.activate_boost1.desc",
+      "value": "모든 아군 생물이 턴 종료까지 +1 공격력을 얻습니다. 이 생물의 행동을 사용합니다"
+    },
+    {
+      "key": "ability.activate_boost1.title",
+      "value": "포효"
+    },
+    {
+      "key": "ability.activate_boost3.desc",
+      "value": "모든 아군 생물이 턴 종료까지 +3 공격력을 얻습니다. 이 생물의 행동을 사용합니다"
+    },
+    {
+      "key": "ability.activate_boost3.title",
+      "value": "지원"
+    },
+    {
+      "key": "ability.activate_burst.desc",
+      "value": "1 피해를 입고 +1 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.activate_burst.title",
+      "value": "버스트"
+    },
+    {
+      "key": "ability.activate_damage2.desc",
+      "value": "2 피해를 줍니다. 3 마나를 소비합니다. 행동을 소모하지 않습니다"
+    },
+    {
+      "key": "ability.activate_damage2.title",
+      "value": "추가 공격"
+    },
+    {
+      "key": "ability.activate_discard.desc",
+      "value": "상대가 손패에서 무작위 카드 1장을 버립니다. 이 생물의 행동을 사용합니다"
+    },
+    {
+      "key": "ability.activate_discard.title",
+      "value": "버림"
+    },
+    {
+      "key": "ability.activate_discard_random_3l.desc",
+      "value": "상대가 손패에서 무작위 카드 1장을 버립니다. 이 생물의 행동을 사용합니다"
+    },
+    {
+      "key": "ability.activate_discard_random_3l.title",
+      "value": "버림"
+    },
+    {
+      "key": "ability.activate_electric.desc",
+      "value": "대상이 공격력을 얻습니다 (전기 몬스터여야 함)"
+    },
+    {
+      "key": "ability.activate_electric.title",
+      "value": "전기"
+    },
+    {
+      "key": "ability.activate_fire.desc",
+      "value": "1 피해를 줍니다"
+    },
+    {
+      "key": "ability.activate_fire.title",
+      "value": "불"
+    },
+    {
+      "key": "ability.activate_heal_player3.desc",
+      "value": "플레이어 3 HP 회복"
+    },
+    {
+      "key": "ability.activate_heal_player3.title",
+      "value": "자기 치유"
+    },
+    {
+      "key": "ability.activate_ice.desc",
+      "value": "적을 1턴 동안 얼립니다"
+    },
+    {
+      "key": "ability.activate_ice.title",
+      "value": "얼음"
+    },
+    {
+      "key": "ability.activate_plant.desc",
+      "value": "2 HP 회복"
+    },
+    {
+      "key": "ability.activate_plant.title",
+      "value": "식물"
+    },
+    {
+      "key": "ability.activate_psychic.desc",
+      "value": "상대가 손패에서 무작위 카드 1장을 버립니다"
+    },
+    {
+      "key": "ability.activate_psychic.title",
+      "value": "정신"
+    },
+    {
+      "key": "ability.activate_rock.desc",
+      "value": "대상 캐릭터가 +1 방어막을 얻습니다"
+    },
+    {
+      "key": "ability.activate_rock.title",
+      "value": "바위"
+    },
+    {
+      "key": "ability.activate_rock_hammi_old.desc",
+      "value": "1/1 하미 소환"
+    },
+    {
+      "key": "ability.activate_rock_hammi_old.title",
+      "value": "바위"
+    },
+    {
+      "key": "ability.activate_roll_send_hand.desc",
+      "value": "캐릭터를 선택하고 D6을 굴려 4 이상이면 소유자의 손패로 돌려보냅니다. 2 마나 소비"
+    },
+    {
+      "key": "ability.activate_roll_send_hand.title",
+      "value": "돌진"
+    },
+    {
+      "key": "ability.activate_select_discard_spell.desc",
+      "value": "무덤에서 주문 1장을 손패로 돌려보냅니다. 2 마나 소비"
+    },
+    {
+      "key": "ability.activate_select_discard_spell.title",
+      "value": "마법 집중"
+    },
+    {
+      "key": "ability.activate_send_hand.desc",
+      "value": "캐릭터를 소유자의 손패로 돌려보냅니다. 이 생물의 행동을 사용합니다"
+    },
+    {
+      "key": "ability.activate_send_hand.title",
+      "value": "돌진"
+    },
+    {
+      "key": "ability.activate_shadow.desc",
+      "value": "대상이 저주받습니다"
+    },
+    {
+      "key": "ability.activate_shadow.title",
+      "value": "그림자"
+    },
+    {
+      "key": "ability.activate_switch_sides.desc",
+      "value": "플레이 시, 대상 캐릭터를 선택하여 진영을 바꿉니다"
+    },
+    {
+      "key": "ability.activate_switch_sides.title",
+      "value": "충성 스왑"
+    },
+    {
+      "key": "ability.activate_water.desc",
+      "value": "카드 1장을 뽑습니다"
+    },
+    {
+      "key": "ability.activate_water.title",
+      "value": "물"
+    },
+    {
+      "key": "ability.add_attack_traps.desc",
+      "value": "적 함정 1개당 +1 피해를 얻습니다"
+    },
+    {
+      "key": "ability.add_attack_traps.title",
+      "value": "함정 부스트"
+    },
+    {
+      "key": "ability.add_hp_location.desc",
+      "value": "같은 원소 타입의 아군 위치 1개당 +2 HP를 얻습니다"
+    },
+    {
+      "key": "ability.add_hp_location.title",
+      "value": "위치 부스트"
+    },
+    {
+      "key": "ability.add_spell_damage1.desc",
+      "value": "모든 주문과 능력이 +1 피해를 줍니다"
+    },
+    {
+      "key": "ability.add_spell_damage1.title",
+      "value": "주문 피해"
+    },
+    {
+      "key": "ability.add_spell_damage2.desc",
+      "value": "모든 주문과 능력이 +2 피해를 줍니다"
+    },
+    {
+      "key": "ability.add_spell_damage2.title",
+      "value": "주문 피해"
+    },
+    {
+      "key": "ability.after_spell_attack2.desc",
+      "value": "주문을 플레이한 후 +2 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.after_spell_attack2.title",
+      "value": "열기"
+    },
+    {
+      "key": "ability.attack_burned.desc",
+      "value": "공격받은 캐릭터가 화상 상태가 됩니다. 매 턴 2 HP를 잃습니다"
+    },
+    {
+      "key": "ability.attack_burned.title",
+      "value": "화상"
+    },
+    {
+      "key": "ability.attack_curse.desc",
+      "value": "공격받은 캐릭터가 저주를 받습니다. 매 턴 1 공격력을 잃습니다"
+    },
+    {
+      "key": "ability.attack_curse.title",
+      "value": "저주"
+    },
+    {
+      "key": "ability.attack_loss_immunity.desc",
+      "value": "캐릭터의 공격력을 감소로부터 보호합니다"
+    },
+    {
+      "key": "ability.attack_loss_immunity.title",
+      "value": "공격력 손실 면역"
+    },
+    {
+      "key": "ability.attack_player_mana1.desc",
+      "value": "상대의 생명을 공격한 후 1 마나를 얻습니다"
+    },
+    {
+      "key": "ability.attack_player_mana1.title",
+      "value": "약탈"
+    },
+    {
+      "key": "ability.attack_player_mana2.desc",
+      "value": "상대의 생명을 공격한 후 2 마나를 얻습니다"
+    },
+    {
+      "key": "ability.attack_player_mana2.title",
+      "value": "약탈"
+    },
+    {
+      "key": "ability.attack_player_mana3.desc",
+      "value": "상대의 생명을 공격한 후 3 마나를 얻습니다"
+    },
+    {
+      "key": "ability.attack_player_mana3.title",
+      "value": "약탈"
+    },
+    {
+      "key": "ability.attack_poison.desc",
+      "value": "공격받은 캐릭터가 독 상태가 됩니다. 매 턴 1 HP를 잃습니다"
+    },
+    {
+      "key": "ability.attack_poison.title",
+      "value": "독"
+    },
+    {
+      "key": "ability.attack_roll_attack_add_bonus_3.desc",
+      "value": "공격 전에 D6을 굴려 4 이상이면 +3 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.attack_roll_attack_add_bonus_3.title",
+      "value": "촉수"
+    },
+    {
+      "key": "ability.attack_roll_attack_bonus_3.desc",
+      "value": "공격 전에 D6을 굴려 4 이상이면 턴 종료까지 +3 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.attack_roll_attack_bonus_3.title",
+      "value": "촉수"
+    },
+    {
+      "key": "ability.attack_roll_attack_bonus_6.desc",
+      "value": "공격 전에 D6을 굴려 4 이상이면 턴 종료까지 +6 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.attack_roll_attack_bonus_6.title",
+      "value": "촉수"
+    },
+    {
+      "key": "ability.attack_suffer_damage.desc",
+      "value": "공격 전에 3 피해를 입습니다"
+    },
+    {
+      "key": "ability.attack_suffer_damage.title",
+      "value": "지면 균열"
+    },
+    {
+      "key": "ability.aura_ability_red.desc",
+      "value": "모든 아군 불 생물이 \"1 피해를 입고 +1 공격력을 얻습니다\"를 얻습니다"
+    },
+    {
+      "key": "ability.aura_ability_red.title",
+      "value": "불 폭발"
+    },
+    {
+      "key": "ability.aura_ability_rock.desc",
+      "value": "모든 아군 바위 생물이 \"1 피해를 입고 +1 공격력을 얻습니다\"를 얻습니다"
+    },
+    {
+      "key": "ability.aura_ability_rock.title",
+      "value": "바위 폭발"
+    },
+    {
+      "key": "ability.aura_attack_m1.desc",
+      "value": "모든 적 캐릭터가 -1 공격력"
+    },
+    {
+      "key": "ability.aura_attack_m1.title",
+      "value": "공포"
+    },
+    {
+      "key": "ability.aura_attack_m2.desc",
+      "value": "모든 적 캐릭터가 -2 공격력"
+    },
+    {
+      "key": "ability.aura_attack_m2.title",
+      "value": "공포"
+    },
+    {
+      "key": "ability.aura_cat.desc",
+      "value": "다른 모든 아군 고양이가 +1 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.aura_cat.title",
+      "value": "고양이 오라"
+    },
+    {
+      "key": "ability.aura_enemy_attack1.desc",
+      "value": "모든 적 캐릭터가 +1 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.aura_enemy_attack1.title",
+      "value": "배신"
+    },
+    {
+      "key": "ability.aura_enemy_hp2.desc",
+      "value": "모든 적 캐릭터가 +2 HP를 얻습니다"
+    },
+    {
+      "key": "ability.aura_enemy_hp2.title",
+      "value": "배신"
+    },
+    {
+      "key": "ability.aura_hp_rock_1.desc",
+      "value": "모든 아군 바위 캐릭터가 +1 HP"
+    },
+    {
+      "key": "ability.aura_hp_rock_1.title",
+      "value": "돌 동료"
+    },
+    {
+      "key": "ability.aura_hp_rock_m1.desc",
+      "value": "모든 아군 그림자 캐릭터가 +1 HP"
+    },
+    {
+      "key": "ability.aura_hp_rock_m1.title",
+      "value": "그림자 동료"
+    },
+    {
+      "key": "ability.aura_reptile.desc",
+      "value": "다른 모든 아군 파충류가 +1 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.aura_reptile.title",
+      "value": "파충류"
+    },
+    {
+      "key": "ability.aura_reptile_2.desc",
+      "value": "다른 모든 아군 파충류가 +2 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.aura_reptile_2.title",
+      "value": "파충류"
+    },
+    {
+      "key": "ability.bypass_trap.desc",
+      "value": "이 캐릭터는 함정을 발동시키지 않습니다"
+    },
+    {
+      "key": "ability.bypass_trap.title",
+      "value": "함정 회피"
+    },
+    {
+      "key": "ability.chain_ice_treasure.desc",
+      "value": "덱 상단 7장을 보고 얼음 카드 2장을 손패에 가져옵니다"
+    },
+    {
+      "key": "ability.chain_ice_treasure.title",
+      "value": "얼음 보물"
+    },
+    {
+      "key": "ability.chain_water_treasure.desc",
+      "value": "덱 상단 7장을 보고 물 카드 2장을 손패에 가져옵니다"
+    },
+    {
+      "key": "ability.chain_water_treasure.title",
+      "value": "물 보물"
+    },
+    {
+      "key": "ability.choice_fury.desc",
+      "value": "턴당 두 번 공격할 수 있습니다"
+    },
+    {
+      "key": "ability.choice_fury.title",
+      "value": "분노"
+    },
+    {
+      "key": "ability.choice_taunt.desc",
+      "value": "당신의 다른 캐릭터는 공격받을 수 없습니다"
+    },
+    {
+      "key": "ability.choice_taunt.title",
+      "value": "도발"
+    },
+    {
+      "key": "ability.death_blue_draw.desc",
+      "value": "소유한 물 생물이 죽을 때 카드 1장을 뽑습니다"
+    },
+    {
+      "key": "ability.death_blue_draw.title",
+      "value": "뽑기"
+    },
+    {
+      "key": "ability.death_damage2_player.desc",
+      "value": "이 생물이 죽을 때 적 플레이어에게 피해를 줍니다"
+    },
+    {
+      "key": "ability.death_damage2_player.title",
+      "value": "죽음 피해"
+    },
+    {
+      "key": "ability.death_draw.desc",
+      "value": "이 생물이 죽을 때 카드 1장을 뽑습니다"
+    },
+    {
+      "key": "ability.death_draw.title",
+      "value": "뽑기"
+    },
+    {
+      "key": "ability.death_egg.desc",
+      "value": "이 생물이 죽을 때 피라 알을 소환합니다"
+    },
+    {
+      "key": "ability.death_egg.title",
+      "value": "알 소환"
+    },
+    {
+      "key": "ability.death_heal2.desc",
+      "value": "이 생물이 죽을 때 2 HP를 회복합니다"
+    },
+    {
+      "key": "ability.death_heal2.title",
+      "value": "회복"
+    },
+    {
+      "key": "ability.death_heal3.desc",
+      "value": "이 생물이 죽을 때 3 HP를 회복합니다"
+    },
+    {
+      "key": "ability.death_heal3.title",
+      "value": "회복"
+    },
+    {
+      "key": "ability.death_other_draw.desc",
+      "value": "다른 캐릭터가 죽을 때마다 카드 1장을 뽑습니다"
+    },
+    {
+      "key": "ability.death_other_draw.title",
+      "value": "먹기"
+    },
+    {
+      "key": "ability.death_other_draw2.desc",
+      "value": "다른 캐릭터가 죽을 때마다 카드 2장을 뽑습니다"
+    },
+    {
+      "key": "ability.death_other_draw2.title",
+      "value": "먹기"
+    },
+    {
+      "key": "ability.deathtouch.desc",
+      "value": "피해를 준 생물을 죽입니다"
+    },
+    {
+      "key": "ability.deathtouch.title",
+      "value": "죽음의 손길"
+    },
+    {
+      "key": "ability.defend_discard.desc",
+      "value": "공격받을 때 상대가 무작위 카드 1장을 버려야 합니다"
+    },
+    {
+      "key": "ability.defend_discard.title",
+      "value": "잠수"
+    },
+    {
+      "key": "ability.defense_attack3.desc",
+      "value": "상대의 턴 동안 +3 공격력"
+    },
+    {
+      "key": "ability.defense_attack3.title",
+      "value": "방어"
+    },
+    {
+      "key": "ability.discard_add_attack1.desc",
+      "value": "상대가 버림을 강요받을 때마다 +1 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.discard_add_attack1.title",
+      "value": "버림 이득"
+    },
+    {
+      "key": "ability.egg_growth.desc",
+      "value": "3턴 후 피라로 변신합니다"
+    },
+    {
+      "key": "ability.egg_growth.title",
+      "value": "알"
+    },
+    {
+      "key": "ability.egg_transform.desc",
+      "value": "3턴 후 피라로 변신합니다"
+    },
+    {
+      "key": "ability.egg_transform.title",
+      "value": "피라 변신"
+    },
+    {
+      "key": "ability.equip_armor2.desc",
+      "value": "장착자가 +2 방어막"
+    },
+    {
+      "key": "ability.equip_armor2.title",
+      "value": "방어막"
+    },
+    {
+      "key": "ability.equip_attack_no_damage.desc",
+      "value": "공격 시 대상이 반격하지 않습니다"
+    },
+    {
+      "key": "ability.equip_attack_no_damage.title",
+      "value": "위협"
+    },
+    {
+      "key": "ability.equip_attack_use.desc",
+      "value": "각 공격 후 내구도 1 감소"
+    },
+    {
+      "key": "ability.equip_attack_use.title",
+      "value": "검"
+    },
+    {
+      "key": "ability.equip_attack1.desc",
+      "value": "장착자가 +1 공격력"
+    },
+    {
+      "key": "ability.equip_attack1.title",
+      "value": "공격"
+    },
+    {
+      "key": "ability.equip_attack2.desc",
+      "value": "장착자가 +2 공격력"
+    },
+    {
+      "key": "ability.equip_attack2.title",
+      "value": "공격"
+    },
+    {
+      "key": "ability.equip_defend_use.desc",
+      "value": "공격받을 때 내구도 1 감소"
+    },
+    {
+      "key": "ability.equip_defend_use.title",
+      "value": "방패"
+    },
+    {
+      "key": "ability.equip_gain_mana.desc",
+      "value": "다음 3턴 동안 턴당 2 추가 마나 얻음"
+    },
+    {
+      "key": "ability.equip_gain_mana.title",
+      "value": "마나 반지"
+    },
+    {
+      "key": "ability.equip_mana_kill.desc",
+      "value": "장착자가 카드를 죽일 때 3 마나 얻음"
+    },
+    {
+      "key": "ability.equip_mana_kill.title",
+      "value": "마나 반지"
+    },
+    {
+      "key": "ability.equip_reveal_opponent_hand.desc",
+      "value": "다음 3턴 동안 턴당 2 추가 마나 얻음"
+    },
+    {
+      "key": "ability.equip_reveal_opponent_hand.title",
+      "value": "마나 반지"
+    },
+    {
+      "key": "ability.equip_taunt.desc",
+      "value": "장착자가 도발 얻음"
+    },
+    {
+      "key": "ability.equip_taunt.title",
+      "value": "도발"
+    },
+    {
+      "key": "ability.equip_turn_use.desc",
+      "value": "각 턴 후 내구도 1 감소"
+    },
+    {
+      "key": "ability.flying.desc",
+      "value": "도발을 무시할 수 있습니다"
+    },
+    {
+      "key": "ability.flying.title",
+      "value": "비행"
+    },
+    {
+      "key": "ability.fury.desc",
+      "value": "턴당 두 번 공격할 수 있습니다"
+    },
+    {
+      "key": "ability.fury.title",
+      "value": "분노"
+    },
+    {
+      "key": "ability.ghost.desc",
+      "value": "공격 시 피해를 받지 않습니다"
+    },
+    {
+      "key": "ability.ghost.title",
+      "value": "유령"
+    },
+    {
+      "key": "ability.kill_draw2.desc",
+      "value": "이 생물로 다른 캐릭터를 죽일 때 카드 2장을 뽑습니다"
+    },
+    {
+      "key": "ability.kill_draw2.title",
+      "value": "뽑기"
+    },
+    {
+      "key": "ability.lifesteal.desc",
+      "value": "피해를 줄 때 플레이어 회복"
+    },
+    {
+      "key": "ability.lifesteal.title",
+      "value": "생명력 흡수"
+    },
+    {
+      "key": "ability.location_mana_discount.desc",
+      "value": "같은 원소 타입의 위치 카드가 1 마나 할인"
+    },
+    {
+      "key": "ability.location_mana_discount.title",
+      "value": "위치 오라"
+    },
+    {
+      "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
+      "value": "3 마나 이하의 적 캐릭터를 1턴 동안 통제합니다. 대상이 돌진을 얻습니다"
+    },
+    {
+      "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_3_turns_3ml.desc",
+      "value": "적 캐릭터를 1턴 동안 통제하고 돌진을 줍니다"
+    },
+    {
+      "key": "ability.mind_control_ability_3_turns_3ml.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_any.desc",
+      "value": "적 캐릭터를 3턴 동안 통제하거나 진화할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_any.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_enemy_m2l.desc",
+      "value": "4 마나 이하의 적 캐릭터를 3턴 동안 통제하거나 진화할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_enemy_m2l.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_enemy_m3l.desc",
+      "value": "4 마나 이하의 적 캐릭터를 3턴 동안 통제하거나 진화할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_enemy_m3l.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_a3l.desc",
+      "value": "3 공격력의 적 캐릭터를 3턴 동안 통제하거나 진화/보드 이탈할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_a3l.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m2l.desc",
+      "value": "2 마나 이하의 적 캐릭터를 3턴 동안 통제하거나 진화/이탈할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m2l.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m3l.desc",
+      "value": "3 마나 이하의 적 캐릭터를 3턴 동안 통제하거나 진화/이탈할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m3l.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m4.desc",
+      "value": "4 마나의 적 캐릭터를 3턴 동안 통제하거나 진화할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m4.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m5+.desc",
+      "value": "5 마나 이상의 적 캐릭터를 3턴 동안 통제하거나 진화/이 카드 이탈할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m5+.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m5l.desc",
+      "value": "5 마나 이상의 적 캐릭터를 3턴 동안 통제하거나 진화/이 카드 이탈할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_m5l.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.mind_control_ability_m5l.desc",
+      "value": "5 마나 이하의 적 캐릭터를 3턴 동안 통제하거나 진화할 때까지"
+    },
+    {
+      "key": "ability.mind_control_ability_m5l.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.ongoing_cannot_attack.desc",
+      "value": "이 몬스터는 적 대상 공격 불가"
+    },
+    {
+      "key": "ability.ongoing_cannot_attack.title",
+      "value": "공격 불가"
+    },
+    {
+      "key": "ability.overkill.desc",
+      "value": "초과 피해가 공격자를 회복합니다"
+    },
+    {
+      "key": "ability.overkill.title",
+      "value": "오버킬"
+    },
+    {
+      "key": "ability.play_boost_hp_1.desc",
+      "value": "플레이 시 다른 생물에게 다음 턴까지 +2 HP를 줍니다"
+    },
+    {
+      "key": "ability.play_boost_hp_1.title",
+      "value": "HP 축복"
+    },
+    {
+      "key": "ability.play_boost2.desc",
+      "value": "플레이 시 다른 생물에게 다음 턴까지 +2/+2를 줍니다"
+    },
+    {
+      "key": "ability.play_boost2.title",
+      "value": "축복"
+    },
+    {
+      "key": "ability.play_boost3.desc",
+      "value": "플레이 시 다른 생물에게 3턴 동안 +3/+3를 줍니다"
+    },
+    {
+      "key": "ability.play_boost3.title",
+      "value": "축복"
+    },
+    {
+      "key": "ability.shell.desc",
+      "value": "첫 번째 타격에서 피해를 받지 않습니다"
+    },
+    {
+      "key": "ability.shell.title",
+      "value": "껍데기"
+    },
+    {
+      "key": "ability.spell_add_attack_suffer.desc",
+      "value": "대상 생물이 \"공격 전에 3 피해를 입습니다\"를 얻습니다"
+    },
+    {
+      "key": "ability.spell_add_attack_suffer.title",
+      "value": "고통의 저주"
+    },
+    {
+      "key": "ability.spell_add_play_extinct.desc",
+      "value": "대상 카드가 \"아군 생물이 플레이되면 이 카드를 파괴합니다\"를 얻습니다"
+    },
+    {
+      "key": "ability.spell_add_play_extinct.title",
+      "value": "멸종"
+    },
+    {
+      "key": "ability.spell_add_submerge.desc",
+      "value": "대상 카드가 \"공격받을 때 상대가 무작위 카드 1장을 버립니다\"를 얻습니다"
+    },
+    {
+      "key": "ability.spell_add_submerge.title",
+      "value": "귀환"
+    },
+    {
+      "key": "ability.spell_ally_attack_2.desc",
+      "value": "모든 아군 캐릭터가 +2/+2를 얻습니다"
+    },
+    {
+      "key": "ability.spell_ally_attack_2.title",
+      "value": "성장"
+    },
+    {
+      "key": "ability.spell_ally_plant_attack_2.desc",
+      "value": "모든 아군 캐릭터가 +2/+2를 얻습니다"
+    },
+    {
+      "key": "ability.spell_ally_plant_attack_2.title",
+      "value": "성장"
+    },
+    {
+      "key": "ability.spell_armor2.desc",
+      "value": "대상이 방어막 2를 얻어 캐릭터로부터의 직접 피해를 2만큼 감소"
+    },
+    {
+      "key": "ability.spell_armor2.title",
+      "value": "방어막 +2"
+    },
+    {
+      "key": "ability.spell_attack1.desc",
+      "value": "대상이 1 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.spell_attack1.title",
+      "value": "공격 +1"
+    },
+    {
+      "key": "ability.spell_coin.desc",
+      "value": "이번 턴 1 마나 얻음"
+    },
+    {
+      "key": "ability.spell_coin.title",
+      "value": "코인"
+    },
+    {
+      "key": "ability.spell_damage_per_hand.desc",
+      "value": "보드상의 모든 캐릭터의 HP를 1로 낮춤"
+    },
+    {
+      "key": "ability.spell_damage_per_hand.title",
+      "value": "홍수"
+    },
+    {
+      "key": "ability.spell_damage1.desc",
+      "value": "1 피해 줌"
+    },
+    {
+      "key": "ability.spell_damage1.title",
+      "value": "피해"
+    },
+    {
+      "key": "ability.spell_damage3.desc",
+      "value": "3 피해 줌"
+    },
+    {
+      "key": "ability.spell_damage3.title",
+      "value": "피해"
+    },
+    {
+      "key": "ability.spell_destroy.desc",
+      "value": "대상 캐릭터 또는 위치 파괴"
+    },
+    {
+      "key": "ability.spell_destroy.title",
+      "value": "파괴"
+    },
+    {
+      "key": "ability.spell_destroy_all.desc",
+      "value": "보드상의 모든 생물 파괴"
+    },
+    {
+      "key": "ability.spell_destroy_all.title",
+      "value": "아마겟돈"
+    },
+    {
+      "key": "ability.spell_destroy_frozen_all.desc",
+      "value": "보드상의 모든 얼음 카드 파괴"
+    },
+    {
+      "key": "ability.spell_destroy_frozen_all.title",
+      "value": "얼음 파도"
+    },
+    {
+      "key": "ability.spell_destroy_locations.desc",
+      "value": "보드상의 모든 위치 파괴"
+    },
+    {
+      "key": "ability.spell_destroy_locations.title",
+      "value": "산사태"
+    },
+    {
+      "key": "ability.spell_dragon_summon.desc",
+      "value": "덱에서 드래곤을 선택해 손패에 소환"
+    },
+    {
+      "key": "ability.spell_dragon_summon.title",
+      "value": "드래곤 발견"
+    },
+    {
+      "key": "ability.spell_draw1.desc",
+      "value": "카드 1장 뽑기"
+    },
+    {
+      "key": "ability.spell_draw1.title",
+      "value": "뽑기"
+    },
+    {
+      "key": "ability.spell_electric_ally.desc",
+      "value": "덱 상단 7장을 보고 전기 몬스터 1체를 손패에 가져옵니다"
+    },
+    {
+      "key": "ability.spell_electric_ally.title",
+      "value": "전기 동맹"
+    },
+    {
+      "key": "ability.spell_electric_attack_2.desc",
+      "value": "모든 전기 몬스터가 +2 공격력 얻음"
+    },
+    {
+      "key": "ability.spell_freeze.desc",
+      "value": "대상을 1턴 동안 얼림"
+    },
+    {
+      "key": "ability.spell_freeze.title",
+      "value": "얼음"
+    },
+    {
+      "key": "ability.spell_fury.desc",
+      "value": "대상 캐릭터가 분노를 얻습니다. 턴당 두 번 공격 가능"
+    },
+    {
+      "key": "ability.spell_fury.title",
+      "value": "분노"
+    },
+    {
+      "key": "ability.spell_haste.desc",
+      "value": "대상 캐릭터가 서두름을 얻습니다. 즉시 공격 가능"
+    },
+    {
+      "key": "ability.spell_haste.title",
+      "value": "서두름"
+    },
+    {
+      "key": "ability.spell_heal_full.desc",
+      "value": "대상 카드를 완전 회복"
+    },
+    {
+      "key": "ability.spell_heal_full.title",
+      "value": "회복"
+    },
+    {
+      "key": "ability.spell_hibernate.desc",
+      "value": "대상 캐릭터가 +4/+4를 얻고 다음 2턴 동안 잠듭니다"
+    },
+    {
+      "key": "ability.spell_hibernate.title",
+      "value": "동면"
+    },
+    {
+      "key": "ability.spell_hp2.desc",
+      "value": "대상이 2 HP 얻음"
+    },
+    {
+      "key": "ability.spell_hp2.title",
+      "value": "HP +2"
+    },
+    {
+      "key": "ability.spell_ice_treasure.desc",
+      "value": "덱 상단 7장을 보고 얼음 카드 1장을 손패에 가져옵니다"
+    },
+    {
+      "key": "ability.spell_ice_treasure.title",
+      "value": "얼음 보물"
+    },
+    {
+      "key": "ability.spell_immunity.desc",
+      "value": "주문 카드의 대상이나 피해를 받지 않습니다"
+    },
+    {
+      "key": "ability.spell_immunity.title",
+      "value": "주문 면역"
+    },
+    {
+      "key": "ability.spell_kill_lowest_hp.desc",
+      "value": "가장 낮은 HP의 플레이 중 캐릭터를 죽입니다 (자신 포함)"
+    },
+    {
+      "key": "ability.spell_kill_lowest_hp.title",
+      "value": "발구름"
+    },
+    {
+      "key": "ability.spell_paralyse.desc",
+      "value": "대상 캐릭터를 3턴 동안 마비시킵니다"
+    },
+    {
+      "key": "ability.spell_paralyse.title",
+      "value": "마비"
+    },
+    {
+      "key": "ability.spell_projectile1_repeat.desc",
+      "value": "무작위 적 카드에 1 피해를 줍니다.\nX회 반복"
+    },
+    {
+      "key": "ability.spell_projectile1_repeat.title",
+      "value": "투사체"
+    },
+    {
+      "key": "ability.spell_return_all.desc",
+      "value": "보드상의 모든 카드를 소유자 손패로 돌려보냄"
+    },
+    {
+      "key": "ability.spell_return_all.title",
+      "value": "바다 폭풍"
+    },
+    {
+      "key": "ability.spell_send_hand_any.desc",
+      "value": "플레이된 임의의 대상을 소유자 손패로 돌려보냄"
+    },
+    {
+      "key": "ability.spell_send_hand_any.title",
+      "value": "임의 손패 귀환"
+    },
+    {
+      "key": "ability.spell_send_hand_any_then_discard.desc",
+      "value": "플레이된 임의의 대상을 소유자 손패로 돌려보냄"
+    },
+    {
+      "key": "ability.spell_send_hand_any_then_discard.title",
+      "value": "임의 손패 귀환"
+    },
+    {
+      "key": "ability.spell_send_hand_enemy.desc",
+      "value": "대상을 소유자 손패로 돌려보냄"
+    },
+    {
+      "key": "ability.spell_send_hand_enemy.title",
+      "value": "손패 귀환"
+    },
+    {
+      "key": "ability.spell_set_hp_attack_1.desc",
+      "value": "보드상의 모든 캐릭터의 HP와 공격력을 1로 낮춤"
+    },
+    {
+      "key": "ability.spell_set_hp_attack_1.title",
+      "value": "홍수"
+    },
+    {
+      "key": "ability.spell_set_hp_attack_3.desc",
+      "value": "보드상의 모든 캐릭터의 HP와 공격력을 1로 설정"
+    },
+    {
+      "key": "ability.spell_set_hp_attack_3.title",
+      "value": "홍수"
+    },
+    {
+      "key": "ability.spell_shell.desc",
+      "value": "대상이 껍데기를 얻어 다음 타격에서 피해 무시"
+    },
+    {
+      "key": "ability.spell_shell.title",
+      "value": "껍데기"
+    },
+    {
+      "key": "ability.spell_summon_hammi.desc",
+      "value": "하미 3체를 손패에 소환"
+    },
+    {
+      "key": "ability.spell_summon_hammi.title",
+      "value": "하미 스트라이크"
+    },
+    {
+      "key": "ability.spell_summon_lampi.desc",
+      "value": "2/2 램피 3체를 손패에 소환"
+    },
+    {
+      "key": "ability.spell_summon_lampi.title",
+      "value": "램피 스톰"
+    },
+    {
+      "key": "ability.spell_summon_pyro.desc",
+      "value": "알 능력 1/1 피라 3체를 손패에 소환"
+    },
+    {
+      "key": "ability.spell_summon_pyro.title",
+      "value": "공중 스트라이크"
+    },
+    {
+      "key": "ability.spell_taunt.desc",
+      "value": "대상 캐릭터가 도발을 얻습니다. 당신의 다른 캐릭터는 공격받지 않습니다"
+    },
+    {
+      "key": "ability.spell_taunt.title",
+      "value": "도발"
+    },
+    {
+      "key": "ability.spell_water_treasure.desc",
+      "value": "덱 상단 7장을 보고 물 카드 1장을 손패에 가져옵니다"
+    },
+    {
+      "key": "ability.spell_water_treasure.title",
+      "value": "물 보물"
+    },
+    {
+      "key": "ability.stealth.desc",
+      "value": "행동할 때까지 대상이나 공격받지 않음"
+    },
+    {
+      "key": "ability.stealth.title",
+      "value": "은폐"
+    },
+    {
+      "key": "ability.taunt.desc",
+      "value": "당신의 다른 캐릭터는 공격받지 않습니다"
+    },
+    {
+      "key": "ability.taunt.title",
+      "value": "도발"
+    },
+    {
+      "key": "ability.taunt_flying.desc",
+      "value": "당신의 다른 캐릭터가 비행 몬스터로부터 보호됩니다"
+    },
+    {
+      "key": "ability.taunt_flying.title",
+      "value": "사거리"
+    },
+    {
+      "key": "ability.town_aura_electric.desc",
+      "value": "모든 전기 몬스터가 2 마나 적게 듭니다 (적 포함)"
+    },
+    {
+      "key": "ability.town_aura_electric.title",
+      "value": "전기 오라"
+    },
+    {
+      "key": "ability.town_aura_fire.desc",
+      "value": "모든 아군 불 생물이 +2 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.town_aura_fire.title",
+      "value": "불 오라"
+    },
+    {
+      "key": "ability.town_aura_ice.desc",
+      "value": "모든 아군 얼음 생물이 +1 공격력과 HP를 얻습니다"
+    },
+    {
+      "key": "ability.town_aura_ice.title",
+      "value": "얼음 오라"
+    },
+    {
+      "key": "ability.town_aura_plant.desc",
+      "value": "모든 아군 식물 캐릭터가 +2 HP를 얻습니다"
+    },
+    {
+      "key": "ability.town_aura_plant.title",
+      "value": "식물 오라"
+    },
+    {
+      "key": "ability.town_aura_psychic_change_control_discard.desc",
+      "value": "상대 몬스터를 통제할 때 상대가 무작위 카드 1장을 버립니다"
+    },
+    {
+      "key": "ability.town_aura_psychic_change_control_discard.title",
+      "value": "정신 오라 버림"
+    },
+    {
+      "key": "ability.town_aura_psychic_played_discard.desc",
+      "value": "정신 몬스터를 플레이할 때 상대가 무작위 카드 1장을 버립니다"
+    },
+    {
+      "key": "ability.town_aura_psychic_played_discard.title",
+      "value": "정신 오라 버림"
+    },
+    {
+      "key": "ability.town_aura_rock.desc",
+      "value": "모든 아군 바위 생물이 +2 HP를 얻습니다"
+    },
+    {
+      "key": "ability.town_aura_rock.title",
+      "value": "바위 오라"
+    },
+    {
+      "key": "ability.town_aura_shadow.desc",
+      "value": "모든 아군 그림자 캐릭터가 +2 공격력을 얻습니다"
+    },
+    {
+      "key": "ability.town_aura_shadow.title",
+      "value": "그림자 오라"
+    },
+    {
+      "key": "ability.town_aura_water.desc",
+      "value": "모든 아군 물 카드가 1 적게 듭니다"
+    },
+    {
+      "key": "ability.town_aura_water.title",
+      "value": "푸른 오라"
+    },
+    {
+      "key": "ability.town_mystic_woods_psychic.desc",
+      "value": "모든 아군 정신 카드가 1 마나 적게 듭니다"
+    },
+    {
+      "key": "ability.town_mystic_woods_psychic.title",
+      "value": "정신 오라"
+    },
+    {
+      "key": "ability.trample.desc",
+      "value": "초과 피해가 플레이어 HP에 주어집니다"
+    },
+    {
+      "key": "ability.trample.title",
+      "value": "유영"
+    },
+    {
+      "key": "ability.transform_to_discarded_card.desc",
+      "value": "상대가 캐릭터 카드를 버리면 이 캐릭터가 그 카드의 복제가 됩니다"
+    },
+    {
+      "key": "ability.transform_to_discarded_card.title",
+      "value": "무덤 클론"
+    },
+    {
+      "key": "ability.trap_damage_all2.desc",
+      "value": "적 생물이 공격할 때 모든 적 생물에게 2 피해"
+    },
+    {
+      "key": "ability.trap_damage_all2.title",
+      "value": "피해"
+    },
+    {
+      "key": "ability.trap_damage3.desc",
+      "value": "공격자에게 3 HP 피해"
+    },
+    {
+      "key": "ability.trap_damage3.title",
+      "value": "함정"
+    },
+    {
+      "key": "ability.trap_freeze.desc",
+      "value": "적 생물이 공격한 후 1턴 동안 얼립니다"
+    },
+    {
+      "key": "ability.trap_freeze.title",
+      "value": "얼음"
+    },
+    {
+      "key": "ability.trap_mind_control_taunt.desc",
+      "value": "적 생물이 공격한 후 1턴 동안 통제하고 도발을 줍니다"
+    },
+    {
+      "key": "ability.trap_mind_control_taunt.title",
+      "value": "마인드 컨트롤"
+    },
+    {
+      "key": "ability.trap_paralyse3.desc",
+      "value": "적 생물이 공격한 후 3턴 동안 마비시킵니다"
+    },
+    {
+      "key": "ability.trap_paralyse3.title",
+      "value": "마비"
+    },
+    {
+      "key": "ability.trap_poison.desc",
+      "value": "적 생물이 공격한 후 독을 줍니다"
+    },
+    {
+      "key": "ability.trap_poison.title",
+      "value": "독"
+    },
+    {
+      "key": "ability.trap_shock.desc",
+      "value": "적 생물이 공격한 후 1턴 동안 쇼크 마비시킵니다"
+    },
+    {
+      "key": "ability.trap_shock.title",
+      "value": "쇼크 마비"
+    },
+    {
+      "key": "ability.turn_add_armor1.desc",
+      "value": "각 턴 시작 시 +1 방어막 얻음"
+    },
+    {
+      "key": "ability.turn_add_armor1.title",
+      "value": "방어막"
+    },
+    {
+      "key": "ability.turn_add_armor2.desc",
+      "value": "각 턴 시작 시 +2 방어막 얻음"
+    },
+    {
+      "key": "ability.turn_add_armor2.title",
+      "value": "방어막"
+    },
+    {
+      "key": "ability.turn_add_attack1.desc",
+      "value": "각 턴 시작 시 +1 공격력 얻음"
+    },
+    {
+      "key": "ability.turn_add_attack1.title",
+      "value": "맹렬"
+    },
+    {
+      "key": "ability.turn_add_attack2.desc",
+      "value": "각 턴 시작 시 +2 공격력 얻음"
+    },
+    {
+      "key": "ability.turn_add_attack2.title",
+      "value": "맹렬"
+    },
+    {
+      "key": "ability.turn_add_draw.desc",
+      "value": "각 턴 시작 시 카드 1장 뽑기"
+    },
+    {
+      "key": "ability.turn_add_draw.title",
+      "value": "탐험가"
+    },
+    {
+      "key": "ability.turn_damage_allies1.desc",
+      "value": "각 턴 시작 시 모든 아군 캐릭터에게 1 피해"
+    },
+    {
+      "key": "ability.turn_damage_allies1.title",
+      "value": "배신 피해"
+    },
+    {
+      "key": "ability.turn_damage_allies2.desc",
+      "value": "각 턴 시작 시 모든 아군 캐릭터에게 2 피해"
+    },
+    {
+      "key": "ability.turn_damage_allies2.title",
+      "value": "배신 피해"
+    },
+    {
+      "key": "ability.turn_green_heal.desc",
+      "value": "각 턴 시작 시 모든 아군 녹색 생물과 위치가 3만큼 회복"
+    },
+    {
+      "key": "ability.turn_green_heal.title",
+      "value": "녹색 치유"
+    },
+    {
+      "key": "ability.turn_kill_lowest.desc",
+      "value": "당신의 턴 시작 시 가장 낮은 공격력의 플레이 중 캐릭터를 죽임 (자신 포함)"
+    },
+    {
+      "key": "ability.turn_kill_lowest.title",
+      "value": "사신"
+    },
+    {
+      "key": "ability.turn_own_discard2.desc",
+      "value": "플레이어가 손패에서 무작위 카드 2장 버림"
+    },
+    {
+      "key": "ability.turn_own_discard2.title",
+      "value": "버림"
+    },
+    {
+      "key": "ability.turn_shadow_add_attack1.desc",
+      "value": "각 턴 시작 시 모든 그림자 몬스터가 +1 공격력 얻음"
+    },
+    {
+      "key": "ability.turn_shadow_add_attack1.title",
+      "value": "그림자 보너스"
+    },
+    {
+      "key": "ability.turn_stealth.desc",
+      "value": "당신의 턴 종료 시 다른 캐릭터가 1체 이상 있으면 은폐 상태가 됩니다"
+    },
+    {
+      "key": "ability.turn_stealth.title",
+      "value": "은폐"
+    },
+    {
+      "key": "status.addhp.desc",
+      "value": "보너스 HP"
+    },
+    {
+      "key": "status.addhp.title",
+      "value": "HP 보너스"
+    },
+    {
+      "key": "status.addmanacost.desc",
+      "value": "마나 비용이 +1 됨"
+    },
+    {
+      "key": "status.addmanacost.title",
+      "value": "정신 소모"
+    },
+    {
+      "key": "status.armor.desc",
+      "value": "방어막 추가"
+    },
+    {
+      "key": "status.armor.title",
+      "value": "방어막"
+    },
+    {
+      "key": "status.attacklossimmunity.desc",
+      "value": "캐릭터의 공격력을 감소로부터 보호"
+    },
+    {
+      "key": "status.attacklossimmunity.title",
+      "value": "공격력 손실 면역"
+    },
+    {
+      "key": "status.burned.desc",
+      "value": "매 턴 2 HP 잃음"
+    },
+    {
+      "key": "status.burned.title",
+      "value": "화상"
+    },
+    {
+      "key": "status.characterabilityimmunity.desc",
+      "value": "캐릭터 능력의 대상이 될 수 없음"
+    },
+    {
+      "key": "status.characterabilityimmunity.title",
+      "value": "능력 면역"
+    },
+    {
+      "key": "status.cursed.desc",
+      "value": "매 턴 공격력을 잃음"
+    },
+    {
+      "key": "status.cursed.title",
+      "value": "저주받음"
+    },
+    {
+      "key": "status.deathtouch.desc",
+      "value": "피해를 준 생물을 죽임"
+    },
+    {
+      "key": "status.deathtouch.title",
+      "value": "죽음의 손길"
+    },
+    {
+      "key": "status.flying.desc",
+      "value": "도발 무시"
+    },
+    {
+      "key": "status.flying.title",
+      "value": "비행"
+    },
+    {
+      "key": "status.frozen.desc",
+      "value": "1턴 동안 모든 행동 불가"
+    },
+    {
+      "key": "status.frozen.title",
+      "value": "얼음"
+    },
+    {
+      "key": "status.fury.desc",
+      "value": "턴당 두 번 공격 가능"
+    },
+    {
+      "key": "status.fury.title",
+      "value": "분노"
+    },
+    {
+      "key": "status.intimidate.desc",
+      "value": "공격 시 대상이 반격하지 않음"
+    },
+    {
+      "key": "status.intimidate.title",
+      "value": "위협"
+    },
+    {
+      "key": "status.invincibility.desc",
+      "value": "파괴되지 않음"
+    },
+    {
+      "key": "status.invincibility.title",
+      "value": "무적"
+    },
+    {
+      "key": "status.lifesteal.desc",
+      "value": "피해를 줄 때 자신 회복"
+    },
+    {
+      "key": "status.lifesteal.title",
+      "value": "생명력 흡수"
+    },
+    {
+      "key": "status.overkill.desc",
+      "value": "초과 피해가 공격자를 회복"
+    },
+    {
+      "key": "status.overkill.title",
+      "value": "오버킬"
+    },
+    {
+      "key": "status.paralysed.desc",
+      "value": "모든 행동 불가"
+    },
+    {
+      "key": "status.paralysed.title",
+      "value": "쇼크 마비"
+    },
+    {
+      "key": "status.poisoned.desc",
+      "value": "매 턴 HP 잃음"
+    },
+    {
+      "key": "status.poisoned.title",
+      "value": "독"
+    },
+    {
+      "key": "status.protected.desc",
+      "value": "공격받지 않음. 도발로 보호됨"
+    },
+    {
+      "key": "status.protected.title",
+      "value": "보호됨"
+    },
+    {
+      "key": "status.protection.desc",
+      "value": "다른 카드를 보호"
+    },
+    {
+      "key": "status.protection.title",
+      "value": "도발"
+    },
+    {
+      "key": "status.protectionflying.desc",
+      "value": "다른 카드를 비행 몬스터로부터 보호"
+    },
+    {
+      "key": "status.protectionflying.title",
+      "value": "사거리"
+    },
+    {
+      "key": "status.shell.desc",
+      "value": "첫 번째 타격에서 피해를 받지 않음"
+    },
+    {
+      "key": "status.shell.title",
+      "value": "껍데기"
+    },
+    {
+      "key": "status.silenced.desc",
+      "value": "능력 사용이나 진화 불가"
+    },
+    {
+      "key": "status.silenced.title",
+      "value": "침묵"
+    },
+    {
+      "key": "status.sleep.desc",
+      "value": "3분의 1 확률로 깨어남. 공격받으면 제거"
+    },
+    {
+      "key": "status.sleep.title",
+      "value": "수면"
+    },
+    {
+      "key": "status.spellimmunity.desc",
+      "value": "주문 카드의 대상이나 피해를 받지 않음"
+    },
+    {
+      "key": "status.spellimmunity.title",
+      "value": "주문 면역"
+    },
+    {
+      "key": "status.stealth.desc",
+      "value": "대상이 될 수 없음"
+    },
+    {
+      "key": "status.stealth.title",
+      "value": "은폐"
+    },
+    {
+      "key": "status.trample.desc",
+      "value": "추가 피해가 플레이어에게 주어짐"
+    },
+    {
+      "key": "status.trample.title",
+      "value": "유영"
+    },
+    {
+      "key": "status.trapevasion.desc",
+      "value": "이 능력을 가진 몬스터는 함정을 발동시키지 않습니다"
+    },
+    {
+      "key": "status.trapevasion.title",
+      "value": "함정 회피"
+    },
+    {
+      "key": "trait.cat.title",
+      "value": "고양이"
+    },
+    {
+      "key": "trait.dragon.title",
+      "value": "드래곤"
+    },
+    {
+      "key": "trait.evolution.title",
+      "value": "진화"
+    },
+    {
+      "key": "trait.fish.title",
+      "value": "물고기"
+    },
+    {
+      "key": "trait.growth.title",
+      "value": "성장"
+    },
+    {
+      "key": "trait.mind_control_counter.title",
+      "value": "정신 통제"
+    },
+    {
+      "key": "trait.mind_control_link.title",
+      "value": "정신 통제 링크"
+    },
+    {
+      "key": "trait.reptile.title",
+      "value": "파충류"
+    },
+    {
+      "key": "trait.spell_damage.title",
+      "value": "주문 피해"
+    }
+  ]
+}

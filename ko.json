@@ -1,0 +1,3524 @@
+{
+    "entries": [
+        {
+            "key": "--_guild_points",
+            "value": "-- 길드 포인트"
+        },
+        {
+            "key": "0",
+            "value": "0"
+        },
+        {
+            "key": "1",
+            "value": "1"
+        },
+        {
+            "key": "1.",
+            "value": "1."
+        },
+        {
+            "key": "1._scan_the_qr_code_shown_above_2._choose_your_desired_wallet_account_in_pera_3._enter_0_for_the_algo_amount_to_send_4._sign_the_txn_in_the_pera_mobile_app_5._click_the_confirm_button_to_the_right",
+            "value": "1. 위에 표시된 QR 코드를 스캔하세요\n 2. PERA에서 원하는 지갑 계정을 선택하세요\n 3. 보낼 ALGO 양으로 0을 입력하세요\n 4. PERA 모바일 앱에서 거래에 서명하세요\n 5. 오른쪽의 확인 버튼을 클릭하세요"
+        },
+        {
+            "key": "100",
+            "value": "100"
+        },
+        {
+            "key": "100_essence",
+            "value": "100 에센스"
+        },
+        {
+            "key": "1000",
+            "value": "1000"
+        },
+        {
+            "key": "1000_xp",
+            "value": "1000 XP"
+        },
+        {
+            "key": "2",
+            "value": "2"
+        },
+        {
+            "key": "2_rare_packs",
+            "value": "2 희귀 팩"
+        },
+        {
+            "key": "2_standard_packs",
+            "value": "2 표준 팩"
+        },
+        {
+            "key": "20",
+            "value": "20"
+        },
+        {
+            "key": "25_xp",
+            "value": "25 XP"
+        },
+        {
+            "key": "250",
+            "value": "250"
+        },
+        {
+            "key": "3",
+            "value": "3"
+        },
+        {
+            "key": "30_essence",
+            "value": "30 에센스"
+        },
+        {
+            "key": "30_xp",
+            "value": "30 XP"
+        },
+        {
+            "key": "300",
+            "value": "300"
+        },
+        {
+            "key": "3000",
+            "value": "3000"
+        },
+        {
+            "key": "333",
+            "value": "333"
+        },
+        {
+            "key": "333_xp",
+            "value": "333 xp"
+        },
+        {
+            "key": "3333",
+            "value": "3333"
+        },
+        {
+            "key": "5",
+            "value": "5"
+        },
+        {
+            "key": "50_essence",
+            "value": "50 에센스"
+        },
+        {
+            "key": "50_xp",
+            "value": "50 XP"
+        },
+        {
+            "key": "500",
+            "value": "500"
+        },
+        {
+            "key": "500_essence",
+            "value": "500 에센스"
+        },
+        {
+            "key": "533",
+            "value": "533"
+        },
+        {
+            "key": "55_guild_pts_70_coins_each_150_xp_each",
+            "value": "55 길드 pts\n 각각 70 코인\n 각각 150 xp"
+        },
+        {
+            "key": "60",
+            "value": "60"
+        },
+        {
+            "key": "75_xp",
+            "value": "75 XP"
+        },
+        {
+            "key": "9",
+            "value": "9"
+        },
+        {
+            "key": "99",
+            "value": "99"
+        },
+        {
+            "key": "aaaaa",
+            "value": "AAAAA"
+        },
+        {
+            "key": "ability_1",
+            "value": "능력 1"
+        },
+        {
+            "key": "accept",
+            "value": "수락"
+        },
+        {
+            "key": "account",
+            "value": "계정"
+        },
+        {
+            "key": "account_address",
+            "value": "계정 주소"
+        },
+        {
+            "key": "account_link",
+            "value": "계정 링크"
+        },
+        {
+            "key": "account_recovery",
+            "value": "계정 복구"
+        },
+        {
+            "key": "add",
+            "value": "추가"
+        },
+        {
+            "key": "admin_team",
+            "value": "관리 팀"
+        },
+        {
+            "key": "adventure",
+            "value": "모험"
+        },
+        {
+            "key": "adventures",
+            "value": "모험"
+        },
+        {
+            "key": "antonio_f.",
+            "value": "Antonio F."
+        },
+        {
+            "key": "asset_earnings",
+            "value": "자산 수익"
+        },
+        {
+            "key": "asset_forger",
+            "value": "자산 단조사"
+        },
+        {
+            "key": "asstes_total",
+            "value": "자산 총계"
+        },
+        {
+            "key": "audio",
+            "value": "오디오"
+        },
+        {
+            "key": "avatars",
+            "value": "아바타"
+        },
+        {
+            "key": "backgrounds",
+            "value": "배경"
+        },
+        {
+            "key": "batlepass",
+            "value": "배틀 패스"
+        },
+        {
+            "key": "battle_pass",
+            "value": "배틀\n 패스"
+        },
+        {
+            "key": "battlepass_rewards",
+            "value": "배틀 패스 보상"
+        },
+        {
+            "key": "block",
+            "value": "차단"
+        },
+        {
+            "key": "body",
+            "value": "몸"
+        },
+        {
+            "key": "bronze_iii",
+            "value": "브론즈 iii"
+        },
+        {
+            "key": "brows",
+            "value": "눈썹"
+        },
+        {
+            "key": "build_deck",
+            "value": "덱 빌드"
+        },
+        {
+            "key": "built_with",
+            "value": "다음으로 구축"
+        },
+        {
+            "key": "buy",
+            "value": "구매"
+        },
+        {
+            "key": "buy_cards",
+            "value": "카드 구매"
+        },
+        {
+            "key": "buy_pack",
+            "value": "팩 구매"
+        },
+        {
+            "key": "cancel",
+            "value": "취소"
+        },
+        {
+            "key": "cancelled",
+            "value": "취소됨"
+        },
+        {
+            "key": "card",
+            "value": "카드"
+        },
+        {
+            "key": "card.alfrost.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>공격</b>: 대상 몬스터에 저주 걸기"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "이 생물로 다른 캐릭터를 죽이면 2장 카드 뽑기."
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>함정 회피:</b> 공격 시 함정 발동 안 함.\n 각 적 함정당 +1 피해 획득."
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>함정 회피:</b> 공격 시 함정 발동 안 함."
+        },
+        {
+            "key": "card.bay.text",
+            "value": "당신이 소유한 물 생물이 죽으면 카드 1장 뽑기."
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>죽음:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.bora.text",
+            "value": "은폐"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "플레이어 공격 후 2 마나 획득.\n "
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>놓기:</b> 캐릭터가 화상 입고 매 턴 2 피해 받음."
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>놓기:</b> 플레이어 손에서 무작위 카드 버리고 두 장 새 카드 뽑기."
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "은폐"
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "<b>시전:</b> 모든 아군에게 +2 방어막 부여. 5 마나와 행동 사용."
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "각 턴 시작 시 카드 1장 뽑기"
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "사거리: 비행 몬스터는 이 몬스터를 공격해야 함. "
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "주문 피해 +1."
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>놓기</b>: 새끼 Jagur 소환.\n 모든 고양이 +1 공격."
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>죽이기:</b> 카드 2장 뽑기."
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "도발\n 껍데기"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "1 마나 획득."
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "적 캐릭터 공격력 -1.\n 도발 무시 가능."
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "비행 / Cryonix로 진화\n <b>놓기:</b> 적 캐릭터 동결"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "은폐"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>놓기:</b> 저주."
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>놓기</b>: 모든 캐릭터 저주."
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "주문 무효\n 껍데기"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>놓기:</b> 양측 대상 캐릭터 선택 후 상대에게 보내기.\n 행동: 3 마나로 반복."
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>놓기:</b> 이 몬스터를 4 마나 몬스터와 교환. "
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "주문 무효"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>놓기:</b> 대상 몬스터에 독 부여"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>놓기:</b> +2/2 부여"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>공격:</b>D6 굴리기, 4+ 시 턴 끝까지 +3 공격 획득."
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "돌진\n 도발 무시"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "드래곤 발견."
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>놓기</b>: 대상 캐릭터 침묵 후 대상 캐릭터 저주"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>놓기</b>: 모든 캐릭터 저주"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>공격</b>: 대상 몬스터 저주"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "모든 전기 몬스터 2 마나 적게 (적 포함)"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>놓기:</b> 상대 무작위 카드 버리기"
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>놓기:</b> 공격 3 이하 캐릭터 파괴."
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "각 턴 시작 시 상대 손 공개. 최대 3 턴 지속. "
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "착용자 2 방어막과 도발 획득."
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "공격 +1.\n 착용자 공격 시 피해 없음."
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "공격 +2\n 두 번 공격 지속"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "4 턴 동안 턴당 2 마나 추가 획득."
+        },
+        {
+            "key": "card.espe.text",
+            "value": "마나 비용 5+ 적 대상 캐릭터 정신 지배, 이 캐릭터가 판 떠날 때까지"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>놓기:</b> +2/2 부여.\n 피해 주면 플레이어 치유."
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>놓기:</b> 모두에게 2 피해."
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>놓기:</b> 마나 비용 5 이하 적 캐릭터 정신 지배"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>공격:</b> 적 화상. 턴당 2 HP 감소."
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>놓기:</b> 마나 비용 2 이하 대상 캐릭터 정신 지배"
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>놓기:</b> 마나 비용 3 이하 대상 캐릭터 정신 지배"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>놓기:</b> 양측 마나 비용 2 이하 대상 캐릭터 선택 후 상대에게 보내기."
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "상대가 캐릭터 카드 버리면 이 캐릭터가 버린 캐릭터 복제."
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "상대가 주문 버리면 손에 0 마나 복제 생성.\n "
+        },
+        {
+            "key": "card.froster.text",
+            "value": "공격 시 D6 굴리기. 4+ 시 +6 공격."
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "주문 무효\n 능력 무효\n 도발 무시"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "각 턴 시작 시 카드 1장 뽑기"
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "주문 놓은 후 +2 공격 획득.\n <b>비행</b> 도발 무시 가능"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "주문 놓은 후 +2 공격 획득."
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>공격:</b> 저주"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기."
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>공격:</b> 독.\n <b>비행:</b> 도발 무시 가능."
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "주문 놓은 후 +2 공격 획득."
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "각 턴 시작 시 +1 공격 획득."
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "각 턴 시작 시 카드 1장 뽑기"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>놓기:</b> 모두에게 2 피해."
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>놓기:</b> 모든 부정 효과 치유하고 +2 HP 부여"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>시전 (2):</b> 플레이어 3 HP 치유. "
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>놓기:</b> +2/2 부여.\n <b>행동:</b> 충전."
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>놓기:</b> 대상 카드 침묵."
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>도발</b>\n <b>각 턴:</b> 공격 낮은 캐릭터 죽이기.\n "
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>놓기:</b> 대상에 고통의 저주 추가"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "분노\n 각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기.\n 공격력 손실 무효"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "<b>죽음:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "<b>턴:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기."
+        },
+        {
+            "key": "card.hato.text",
+            "value": "치명타"
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "각 턴, +1 공격 획득."
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "전기 몬스터에 추가 행동 부여하는 고대 전기 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "임의 카드나 플레이어에게 1 피해 주는 고대 불 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "임의 카드 1턴 동결하는 고대 얼음 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "캐릭터와 플레이어 2 PV 치유하는 고대 식물 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "상대 손에서 카드 버리게 하는 고대 정신 Fracctal 요정"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "판 위 임의 카드에 +1 방어막 부여하는 고대 바위 Fracctal 요정. "
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "게임 중 임의 카드 저주하는 고대 그림자 Fracctal 요정. "
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "플레이어 추가 카드 뽑게 하는 고대 물 Fracctal 요정. "
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>공격:</b> 적 화상. 턴당 2 PV 감소."
+        },
+        {
+            "key": "card.hito.text",
+            "value": "상대 턴 중 +3 공격."
+        },
+        {
+            "key": "card.ice_town.text",
+            "value": "모든 아군 얼음 생물 +1 공격과 +1 HP."
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>죽음:</b> 적 플레이어에게 2 피해."
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>공격</b>: 대상 몬스터 저주"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "도발 무시"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>놓기:</b> 도발 또는 분노 획득"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>죽이기:</b> 카드 2장 뽑기.\n <b>죽음:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "상대 턴 중 +3 공격."
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "껍데기\n 도발"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>공격:</b> 독."
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "돌진 / 비행"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "치명타"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>놓기</b>: Lizo 소환\n 모든 파충류 +1 공격."
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>놓기</b>: Lizo 소환\n 모든 파충류 +2 공격."
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>놓기:</b> +2/2 부여.\n <b>비행:</b> 도발 무시 가능."
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>놓기:</b> +2/2 부여\n <b>놓기:</b> 플레이어 4 HP 치유\n <b>비행:</b> 도발 무시 가능"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>턴 시작: </b>모든 식물 카드 3 회복."
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "모든 적 캐릭터 공격력 -2."
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "도발\n 껍데기"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "당신의 턴 시작 시 이 생물이 완전히 회복."
+        },
+        {
+            "key": "card.minask.text",
+            "value": "재생"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 2장 뽑기."
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 2장 뽑기."
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "주문 피해 +2.\n <b>공격:</b> 공격된 카드 화상."
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "각 턴 시작 시 +2 공격 획득."
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>놓기:</b> 공격 3 이하 적 대상 캐릭터 정신 지배, 이 생물이 판 떠날 때까지"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>공격</b>: 대상 몬스터 저주"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "과잉 피해 이 생물 HP 차액만큼 치유"
+        },
+        {
+            "key": "card.muni.text",
+            "value": "놓을 때 상대 손 공개"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "당신의 턴 시작 시 이 생물이 완전히 회복."
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "플레이어 공격 시 2 마나 획득."
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "놓을 때 다른 생물에 다음 턴까지 +2 HP 부여."
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>놓기:</b> 상대 손 공개\n <b>행동:</b> 상대 손에서 3 마나 이하 무작위 카드 버리기. 2 마나. "
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>턴 끝:</b> 다른 캐릭터 있으면 은폐."
+        },
+        {
+            "key": "card.operant.text",
+            "value": "<b>놓기:</b> 1 피해 주기."
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "상대 턴 중 +3 공격.\n 도발"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "상대 턴 중 +3 공격.\n 도발"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "공격 시 D6 굴리기. 4+ 시 +3 공격."
+        },
+        {
+            "key": "card.owind.text",
+            "value": "주문 무효\n 도발 무시"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>놓기:</b> 공격 4 이하 캐릭터 파괴."
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>죽음:</b> 카드 1장 뽑기."
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "은폐\n <b>놓기:</b> 상대 무작위 카드 버리기\n 상대 버림 시 +1 공격 획득"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "당신의 턴 시작 시 이 생물이 완전히 회복."
+        },
+        {
+            "key": "card.petili.text",
+            "value": "놓을 때 다른 생물에 다음 턴까지 +2/2 부여."
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기."
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>시전 (3):</b> 2 피해 주기.\n <b>죽음:</b> 알 소환."
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "3 턴 후 Phyra로 변신."
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>시전 (2):</b> D6 굴리기, 4+ 시 대상 손으로 돌려보내기."
+        },
+        {
+            "key": "card.picko.text",
+            "value": "<b>놓기:</b> 1 피해 주기."
+        },
+        {
+            "key": "card.plator.text",
+            "value": "이 생물로 다른 캐릭터 죽일 때 카드 2장 뽑기."
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>놓기:</b> +2 HP 부여"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "대상 몬스터 분노 획득. 턴당 두 번 공격 가능."
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "대상 1 공격과 분노 획득."
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "대상이 달콤한 향기에 목욕해 +2 HP와 도발 획득."
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "대상 2 방어막 획득, 캐릭터 직접 피해 2 감소."
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "판 위 마나 비용 3 이하 캐릭터 1턴 정신 지배. 대상 돌진 획득. "
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "대상 2 방어막 획득, 캐릭터 직접 피해 2 감소."
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "대상 고통의 저주 획득, 공격 시 3 피해."
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "대상 껍데기와 완전 치유 획득."
+        },
+        {
+            "key": "card.prido.text",
+            "value": "분노\n 각 턴, +1 공격 획득."
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>놓기:</b> 양측 캐릭터 선택 후 상대에게 보내기.\n 각 턴 시작 시 모든 아군에게 2 피해. "
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>죽음:</b> 알 소환."
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>놓기:</b> 1 피해 주기."
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>놓기:</b> 2 피해 주기."
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>공격</b>: 대상 몬스터 저주"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>각 턴:</b> 공격 낮은 캐릭터 죽이기 (아군과 이 몬스터 포함)."
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "모든 바위 생물: \"1 피해 받아 +1 공격 획득\". 사용당 1 마나."
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "재생"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>공격:</b> 독."
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "재생"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "각 턴, +1 공격 획득.\n <b>비행</b> 도발 무시 가능"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "주문 피해 +1."
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>공격:</b> 독."
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "도발\n "
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>놓기:</b> 캐릭터 손으로 돌려보내기."
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "비행"
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "공격 시 D6 굴리기. 4+ 시 +6 공격."
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "도발 무시"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "도발 무시"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "치명타"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "손에 3 Pyro 소환."
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "판 위 모든 생물 파괴"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "모든 캐릭터 HP 1로 감소."
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "게임 중 모든 전기 몬스터 +2 공격 (적 포함). "
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "대상 파괴."
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "대상 캐릭터 침묵 후 대상 캐릭터 저주"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "대상 카드 \"아군 캐릭터 들어올 때 이 파괴\" 획득."
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "덱 다음 7장 보고 전기 카드 1장 손에 가져가기."
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "대상 카드 \"아군 캐릭터 들어올 때 이 파괴\" 획득."
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "3 피해 주기.\n 카드 1장 뽑기."
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "모든 캐릭터 HP 1로 감소."
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "모든 아군 식물 캐릭터 +2/2 획득"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "손에 3 Hammi 소환."
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "모든 카드 소유자 손으로 돌려보내기."
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "덱 다음 7장 보고 얼음 카드 1장 선택."
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "판 위 모든 동결 카드 파괴"
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "모든 캐릭터에게 2 피해"
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "손에 세 2/1 Lampi 소환."
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "모든 적 몬스터에게 2 피해"
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "대상 +4/4 획득하고 잠듦."
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "무작위 카드에 1 피해.\n X번 반복."
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "상대 손에서 3 무작위 카드 버리기."
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "적 캐릭터 3턴 제어, 또는 진화할 때까지"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "판 위 모든 생물 파괴"
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "게임 중 모든 위치 파괴. "
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "대상 껍데기 획득, 다음 타격 무시."
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "대상 3턴 마비."
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "모든 캐릭터 HP와 공격 1로 감소"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "대상 생물 \"공격 전 3 피해 받음\" 획득."
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "HP 낮은 캐릭터 파괴."
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "대상 생물 \"공격 전 3 피해 받음\" 획득."
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "1 피해 주기.\n 카드 1장 뽑기."
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "모든 카드 소유자 손으로 돌려보내기."
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "대상 카드 \"공격받을 때 상대 무작위 카드 1장 버림\" 획득."
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "게임 중 모든 카드 독 부여"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "덱 다음 7장 보고 물 카드 1장 선택."
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "적 대상 소유자 손으로 돌려보내기."
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "임의 대상 소유자 손으로 돌려보내기, 상대 손 무작위 카드 버림."
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>놓기:</b> 공격 2 이하 캐릭터 파괴."
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>공격:</b> 대상 독 부여. "
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>공격:</b> 대상 독 부여. "
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "적 캐릭터 공격 -1.\n 도발 무시 가능."
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "플레이어 공격 시 1 마나 획득."
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>턴 시작: </b>모든 아군 그림자 카드 +1 공격."
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "은폐\n 모든 고양이 +1 공격."
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "<b>진흙 돌진:</b> 얼음 위치 있으면 돌진 획득."
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "모든 아군 바위 캐릭터 +1 HP.\n 도발"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "돌진"
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "분노"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "<b>놓기:</b> 게임 중 다른 모든 카드에 1 피해."
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "모든 아군 그림자 카드 +2 공격."
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "모든 아군 식물 카드 +2 HP."
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "정신 몬스터 놓거나 상대 몬스터 제어 시 상대 무작위 카드 버림. "
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "모든 아군 바위 생물 +2 HP."
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "모든 아군 불 생물 +2 공격."
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "손의 물 카드 1 적게."
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>함정:</b> 대상 1턴 마비하고 3 피해"
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>함정:</b> 모두에게 2 피해."
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>함정:</b> 물고기로 변신."
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>함정:</b> 대상 1턴 동결하고 3 피해"
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>함정:</b> 다음 공격자 독과 3 피해."
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "다음 적 캐릭터 공격 시 1턴 정신 지배하고 도발 부여. "
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>함정:</b> 다음 공격자 마비."
+        },
+        {
+            "key": "card.trats.text",
+            "value": "주문 놓은 후 +2 공격 획득."
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "돌진\n 도발 무시 가능"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>죽음:</b> 카드 1장 뽑기.\n 도발 무시."
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "주문 무효\n 도발 무시"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>놓기</b>: 대상 카드 공격 3으로 설정"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "도발"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "놓을 때 게임 중 모든 카드 독 부여."
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "모든 전기 몬스터 2 마나 적게 "
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "은폐\n 공격: 독"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "공격 불가. 당신 턴 시작 시 무작위 아군 잠들게 함."
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "모든 불 생물: \"1 피해 받아 +1 공격 획득\". 사용당 1 마나."
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>놓기</b>: 대상 카드 공격 1로 설정"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>놓기:</b> 모두에게 1 피해."
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>놓기:</b> 대상 카드 침묵."
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "각 턴, +1 방어막 획득."
+        },
+        {
+            "key": "card.waru.text",
+            "value": "상대 턴 중 +3 공격."
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "적 캐릭터 공격 -1.\n <b>행동:</b> 아군 +1 공격."
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>턴 끝:</b> 다른 캐릭터 있으면 은폐."
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>턴 끝:</b> 다른 캐릭터 있으면 은폐."
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>놓기:</b> 캐릭터 손으로 돌려보내기."
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>놓기:</b> 도발 또는 분노 획득"
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "플레이어 공격 시 1 마나 획득."
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>위치 할인</b>: 같은 원소 타입 위치 마나 1 할인. "
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "같은 원소 타입 게임 중 위치당 +2 HP. "
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "주문 무효"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "주문 무효"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "도발\n 껍데기"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "주문 무효"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>놓기:</b> 저주"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "다른 캐릭터 죽을 때마다 카드 2장 뽑기."
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "돌진 / 비행"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "각 턴 시작 시 카드 1장 뽑기."
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "다른 아군 파충류 +2 공격 획득."
+        },
+        {
+            "key": "card_artist",
+            "value": "카드 아티스트"
+        },
+        {
+            "key": "card_description",
+            "value": "카드 설명"
+        },
+        {
+            "key": "card_level",
+            "value": "카드 레벨"
+        },
+        {
+            "key": "cardback",
+            "value": "카드 뒷면"
+        },
+        {
+            "key": "cardbacks",
+            "value": "카드 뒷면"
+        },
+        {
+            "key": "cards_owned",
+            "value": "소유 카드"
+        },
+        {
+            "key": "challenge",
+            "value": "도전"
+        },
+        {
+            "key": "character",
+            "value": "캐릭터"
+        },
+        {
+            "key": "characters",
+            "value": "캐릭터"
+        },
+        {
+            "key": "chargement",
+            "value": "로드 중"
+        },
+        {
+            "key": "check_optin",
+            "value": "옵트인 확인"
+        },
+        {
+            "key": "choose_a_quick_chat_option",
+            "value": "빠른 채팅 옵션 선택"
+        },
+        {
+            "key": "claim",
+            "value": "청구"
+        },
+        {
+            "key": "claim_all",
+            "value": "모두 청구"
+        },
+        {
+            "key": "click_this_button_to_generate_your_code_and_join_discord",
+            "value": "이 버튼을 클릭하여 코드 생성 및 Discord 참여"
+        },
+        {
+            "key": "click_to_chat",
+            "value": "클릭하여 채팅"
+        },
+        {
+            "key": "client_outdated",
+            "value": "클라이언트 오래됨"
+        },
+        {
+            "key": "clone",
+            "value": "복제"
+        },
+        {
+            "key": "close",
+            "value": "닫기"
+        },
+        {
+            "key": "cloth",
+            "value": "천"
+        },
+        {
+            "key": "code",
+            "value": "코드"
+        },
+        {
+            "key": "code...",
+            "value": "코드..."
+        },
+        {
+            "key": "collection",
+            "value": "컬렉션"
+        },
+        {
+            "key": "common",
+            "value": "공통"
+        },
+        {
+            "key": "community_guilds",
+            "value": "커뮤니티 길드"
+        },
+        {
+            "key": "confirm",
+            "value": "확인"
+        },
+        {
+            "key": "confirm...",
+            "value": "확인..."
+        },
+        {
+            "key": "confirm_delete",
+            "value": "삭제 확인"
+        },
+        {
+            "key": "confirm_delete_account",
+            "value": "계정 삭제 확인"
+        },
+        {
+            "key": "confirm_delete_guild",
+            "value": "길드 삭제 확인"
+        },
+        {
+            "key": "connecting_to_server...",
+            "value": "서버 연결 중..."
+        },
+        {
+            "key": "connecting_to_server....",
+            "value": "서버 연결 중...."
+        },
+        {
+            "key": "continue",
+            "value": "계속"
+        },
+        {
+            "key": "cost",
+            "value": "비용"
+        },
+        {
+            "key": "cost_breakdown",
+            "value": "비용 내역"
+        },
+        {
+            "key": "create",
+            "value": "생성"
+        },
+        {
+            "key": "create_guild",
+            "value": "길드 생성"
+        },
+        {
+            "key": "create_username",
+            "value": "사용자 이름 생성"
+        },
+        {
+            "key": "credits",
+            "value": "크레딧"
+        },
+        {
+            "key": "crueltek",
+            "value": "CRUELTEK"
+        },
+        {
+            "key": "currently_in_the_main_menu",
+            "value": "현재 메인 메뉴에 있음"
+        },
+        {
+            "key": "currently_playing_a_solo_match...",
+            "value": "현재 솔로 매치 플레이 중..."
+        },
+        {
+            "key": "custom_player_decks",
+            "value": "사용자 지정 플레이어 덱"
+        },
+        {
+            "key": "customize",
+            "value": "사용자 지정"
+        },
+        {
+            "key": "customize_tamer",
+            "value": "길잡이 사용자 지정"
+        },
+        {
+            "key": "daily_rewards",
+            "value": "일일\n 보상"
+        },
+        {
+            "key": "daily_daily_tournament",
+            "value": "일일 일일 토너먼트"
+        },
+        {
+            "key": "daily_missions",
+            "value": "일일 미션"
+        },
+        {
+            "key": "dangocat",
+            "value": "DANGOCAT"
+        },
+        {
+            "key": "dark_forest",
+            "value": "어두운 숲"
+        },
+        {
+            "key": "day_1",
+            "value": "1일"
+        },
+        {
+            "key": "day_2",
+            "value": "2일"
+        },
+        {
+            "key": "day_3",
+            "value": "3일"
+        },
+        {
+            "key": "day_4",
+            "value": "4일"
+        },
+        {
+            "key": "day_5",
+            "value": "5일"
+        },
+        {
+            "key": "day_6",
+            "value": "6일"
+        },
+        {
+            "key": "day_7",
+            "value": "7일"
+        },
+        {
+            "key": "day_text",
+            "value": "일 텍스트"
+        },
+        {
+            "key": "deal_25_damage_with_shadow_monsters",
+            "value": "그림자 몬스터로 25 피해 주기"
+        },
+        {
+            "key": "deal_50_damage_with_shadow_monsters",
+            "value": "그림자 몬스터로 50 피해 주기"
+        },
+        {
+            "key": "deck",
+            "value": "덱"
+        },
+        {
+            "key": "deck_name",
+            "value": "덱 이름"
+        },
+        {
+            "key": "deck_select",
+            "value": "덱 선택"
+        },
+        {
+            "key": "deck_title",
+            "value": "덱 제목"
+        },
+        {
+            "key": "decks",
+            "value": "덱"
+        },
+        {
+            "key": "decline",
+            "value": "거부"
+        },
+        {
+            "key": "defeats",
+            "value": "패배"
+        },
+        {
+            "key": "delete",
+            "value": "삭제"
+        },
+        {
+            "key": "delete_account",
+            "value": "계정 삭제"
+        },
+        {
+            "key": "delete_guild",
+            "value": "길드 삭제"
+        },
+        {
+            "key": "deny",
+            "value": "거부"
+        },
+        {
+            "key": "desc",
+            "value": "DESC"
+        },
+        {
+            "key": "description",
+            "value": "설명"
+        },
+        {
+            "key": "destroy_5_monsters_using_fire_team",
+            "value": "불 팀으로 5 몬스터 파괴"
+        },
+        {
+            "key": "detail",
+            "value": "상세"
+        },
+        {
+            "key": "dev_team",
+            "value": "개발 팀"
+        },
+        {
+            "key": "devfraccas",
+            "value": "DevFraccas"
+        },
+        {
+            "key": "do_not_show_tips",
+            "value": "팁 표시 안 함"
+        },
+        {
+            "key": "dogson",
+            "value": "DOGSON"
+        },
+        {
+            "key": "download_pera",
+            "value": "Pera 다운로드"
+        },
+        {
+            "key": "earnings",
+            "value": "수익"
+        },
+        {
+            "key": "earnings_per_day",
+            "value": "일일 수익"
+        },
+        {
+            "key": "earnings_per_week",
+            "value": "주간 수익"
+        },
+        {
+            "key": "edit",
+            "value": "편집"
+        },
+        {
+            "key": "elemental_types",
+            "value": "원소 타입"
+        },
+        {
+            "key": "elo",
+            "value": "ELO"
+        },
+        {
+            "key": "email",
+            "value": "이메일"
+        },
+        {
+            "key": "e-mail",
+            "value": "이메일"
+        },
+        {
+            "key": "email...",
+            "value": "이메일..."
+        },
+        {
+            "key": "email_was_sent_with_a_code._enter_the_code_here_to_reset_your_password.",
+            "value": "코드가 포함된 이메일이 전송되었습니다.\n 여기에 코드를 입력하여 비밀번호를 재설정하세요."
+        },
+        {
+            "key": "emote",
+            "value": "이모티콘"
+        },
+        {
+            "key": "end_turn",
+            "value": "턴\n 끝"
+        },
+        {
+            "key": "enter_discord_code...",
+            "value": "Discord 코드 입력..."
+        },
+        {
+            "key": "enter_guild_description...",
+            "value": "길드 설명 입력..."
+        },
+        {
+            "key": "enter_guild_name...",
+            "value": "길드 이름 입력..."
+        },
+        {
+            "key": "enter_your_email",
+            "value": "이메일 입력"
+        },
+        {
+            "key": "entry_fee",
+            "value": "참가비"
+        },
+        {
+            "key": "equipment",
+            "value": "장비"
+        },
+        {
+            "key": "error",
+            "value": "오류"
+        },
+        {
+            "key": "error_msg",
+            "value": "오류 메시지"
+        },
+        {
+            "key": "evolves_to_danish",
+            "value": "Danish로 진화"
+        },
+        {
+            "key": "evolves_to_gracelia",
+            "value": "Gracelia로 진화"
+        },
+        {
+            "key": "exit_game",
+            "value": "게임 종료"
+        },
+        {
+            "key": "eyes",
+            "value": "눈"
+        },
+        {
+            "key": "fairy_powers",
+            "value": "요정 힘"
+        },
+        {
+            "key": "filters",
+            "value": "필터"
+        },
+        {
+            "key": "finding_opponent...",
+            "value": "상대 찾는 중..."
+        },
+        {
+            "key": "fire_deck",
+            "value": "불 덱"
+        },
+        {
+            "key": "flemmy_suit",
+            "value": "플레미 슈트"
+        },
+        {
+            "key": "forge",
+            "value": "단조"
+        },
+        {
+            "key": "forgot_password",
+            "value": "비밀번호 잊음"
+        },
+        {
+            "key": "fracctal_tcg_squad",
+            "value": "Fracctal TCG 스쿼드"
+        },
+        {
+            "key": "free",
+            "value": "무료"
+        },
+        {
+            "key": "friend_list_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "테스트 모드에서 친구 목록 사용 불가.\n 이 기능 사용을 위해 Web API 서버 설치."
+        },
+        {
+            "key": "friends",
+            "value": "친구"
+        },
+        {
+            "key": "game_artist",
+            "value": "게임 아티스트"
+        },
+        {
+            "key": "game_developer",
+            "value": "게임 개발자"
+        },
+        {
+            "key": "glasses",
+            "value": "안경"
+        },
+        {
+            "key": "gold_3",
+            "value": "골드 3"
+        },
+        {
+            "key": "gold_asset",
+            "value": "골드 자산"
+        },
+        {
+            "key": "graphics",
+            "value": "그래픽"
+        },
+        {
+            "key": "grocelia",
+            "value": "GROCELIA"
+        },
+        {
+            "key": "guide_fairy",
+            "value": "가이드 요정"
+        },
+        {
+            "key": "guild_description",
+            "value": "길드 설명"
+        },
+        {
+            "key": "guild_leader",
+            "value": "길드 리더"
+        },
+        {
+            "key": "guild_name",
+            "value": "길드 이름"
+        },
+        {
+            "key": "guild_requests",
+            "value": "길드 요청"
+        },
+        {
+            "key": "guild_vault_cards",
+            "value": "길드 금고 카드"
+        },
+        {
+            "key": "guilds",
+            "value": "길드"
+        },
+        {
+            "key": "hands",
+            "value": "손"
+        },
+        {
+            "key": "head",
+            "value": "머리"
+        },
+        {
+            "key": "in_progress",
+            "value": "진행 중"
+        },
+        {
+            "key": "inbox",
+            "value": "받은편지함"
+        },
+        {
+            "key": "james_ward",
+            "value": "James Ward"
+        },
+        {
+            "key": "join",
+            "value": "참가"
+        },
+        {
+            "key": "join_discord",
+            "value": "Discord 참여"
+        },
+        {
+            "key": "join_guild",
+            "value": "길드 참여"
+        },
+        {
+            "key": "join_with_code",
+            "value": "코드로 참여"
+        },
+        {
+            "key": "kick",
+            "value": "킥"
+        },
+        {
+            "key": "kill_5_monsters_using_fire_monsters",
+            "value": "불 몬스터로 5 몬스터 죽이기"
+        },
+        {
+            "key": "kill_5_monsters_using_plant_monsters",
+            "value": "식물 몬스터로 5 몬스터 죽이기"
+        },
+        {
+            "key": "kk_honey",
+            "value": "KK HONEY"
+        },
+        {
+            "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
+            "value": "테스트 모드에서 리더보드 사용 불가.\n 이 기능 사용을 위해 Web API 서버 설치."
+        },
+        {
+            "key": "leave_guild",
+            "value": "길드 탈퇴"
+        },
+        {
+            "key": "level",
+            "value": "레벨"
+        },
+        {
+            "key": "level_1",
+            "value": "레벨 1"
+        },
+        {
+            "key": "level_5",
+            "value": "레벨 5"
+        },
+        {
+            "key": "level_up_10_cards",
+            "value": "10 카드 레벨 업"
+        },
+        {
+            "key": "level_up_5_cards",
+            "value": "5 카드 레벨 업"
+        },
+        {
+            "key": "loading...",
+            "value": "로드 중..."
+        },
+        {
+            "key": "locations",
+            "value": "위치"
+        },
+        {
+            "key": "login",
+            "value": "로그인"
+        },
+        {
+            "key": "login_with_immutable",
+            "value": "Immutable로 로그인"
+        },
+        {
+            "key": "logout",
+            "value": "로그아웃"
+        },
+        {
+            "key": "marc",
+            "value": "Marc"
+        },
+        {
+            "key": "master",
+            "value": "마스터"
+        },
+        {
+            "key": "max",
+            "value": "최대"
+        },
+        {
+            "key": "menu",
+            "value": "메뉴"
+        },
+        {
+            "key": "missions",
+            "value": "미션"
+        },
+        {
+            "key": "monster",
+            "value": "몬스터"
+        },
+        {
+            "key": "monster_name",
+            "value": "몬스터 이름"
+        },
+        {
+            "key": "monsters",
+            "value": "몬스터"
+        },
+        {
+            "key": "mouth",
+            "value": "입"
+        },
+        {
+            "key": "mulligan",
+            "value": "멀리건"
+        },
+        {
+            "key": "multiplayer",
+            "value": "멀티플레이어"
+        },
+        {
+            "key": "music",
+            "value": "음악"
+        },
+        {
+            "key": "mythic",
+            "value": "신화"
+        },
+        {
+            "key": "name",
+            "value": "이름"
+        },
+        {
+            "key": "new_password",
+            "value": "새 비밀번호"
+        },
+        {
+            "key": "new_password...",
+            "value": "새 비밀번호..."
+        },
+        {
+            "key": "new_text",
+            "value": "새 텍스트"
+        },
+        {
+            "key": "next",
+            "value": "다음"
+        },
+        {
+            "key": "nicolas_oliver",
+            "value": "NICOLAS OLIVER"
+        },
+        {
+            "key": "nodejs",
+            "value": "NODEJS"
+        },
+        {
+            "key": "nose",
+            "value": "코"
+        },
+        {
+            "key": "not_enrolled",
+            "value": "미등록"
+        },
+        {
+            "key": "not_owned",
+            "value": "소유 안 함"
+        },
+        {
+            "key": "ok",
+            "value": "확인"
+        },
+        {
+            "key": "ongoing",
+            "value": "진행 중"
+        },
+        {
+            "key": "online_players",
+            "value": "온라인 플레이어"
+        },
+        {
+            "key": "open_packs",
+            "value": "팩 열기"
+        },
+        {
+            "key": "optin",
+            "value": "옵트인"
+        },
+        {
+            "key": "optin_asa_txn",
+            "value": "OPTIN ASA TXN"
+        },
+        {
+            "key": "option_a",
+            "value": "옵션 A"
+        },
+        {
+            "key": "owned",
+            "value": "소유"
+        },
+        {
+            "key": "owned_assets",
+            "value": "소유 자산"
+        },
+        {
+            "key": "ownership",
+            "value": "소유권"
+        },
+        {
+            "key": "pack",
+            "value": "팩"
+        },
+        {
+            "key": "pack_description",
+            "value": "팩 설명"
+        },
+        {
+            "key": "packs",
+            "value": "팩"
+        },
+        {
+            "key": "partners",
+            "value": "파트너"
+        },
+        {
+            "key": "password",
+            "value": "비밀번호"
+        },
+        {
+            "key": "password_recovery",
+            "value": "비밀번호 복구"
+        },
+        {
+            "key": "per_day",
+            "value": "하루"
+        },
+        {
+            "key": "pera_account_uid",
+            "value": "PERA 계정 UID"
+        },
+        {
+            "key": "pets",
+            "value": "애완동물"
+        },
+        {
+            "key": "plant_starter",
+            "value": "식물 스타터"
+        },
+        {
+            "key": "play",
+            "value": "플레이"
+        },
+        {
+            "key": "play_a_match_to_re-activate",
+            "value": "재활성화 위해 매치 플레이"
+        },
+        {
+            "key": "play_with_code",
+            "value": "코드로 플레이"
+        },
+        {
+            "key": "player",
+            "value": "플레이어"
+        },
+        {
+            "key": "players",
+            "value": "플레이어"
+        },
+        {
+            "key": "practice",
+            "value": "연습"
+        },
+        {
+            "key": "premium",
+            "value": "프리미엄"
+        },
+        {
+            "key": "preview",
+            "value": "미리보기"
+        },
+        {
+            "key": "previous",
+            "value": "이전"
+        },
+        {
+            "key": "previous_password",
+            "value": "이전 비밀번호"
+        },
+        {
+            "key": "prismatic",
+            "value": "프리즘"
+        },
+        {
+            "key": "private",
+            "value": "개인"
+        },
+        {
+            "key": "prizes",
+            "value": "상금"
+        },
+        {
+            "key": "profile",
+            "value": "프로필"
+        },
+        {
+            "key": "promote",
+            "value": "승격"
+        },
+        {
+            "key": "purchase_pack",
+            "value": "팩 구매"
+        },
+        {
+            "key": "quality",
+            "value": "품질"
+        },
+        {
+            "key": "quantity",
+            "value": "수량"
+        },
+        {
+            "key": "quit",
+            "value": "종료"
+        },
+        {
+            "key": "rafael_santos",
+            "value": "Rafael Santos"
+        },
+        {
+            "key": "random",
+            "value": "무작위"
+        },
+        {
+            "key": "random_rare_reward",
+            "value": "무작위 희귀 보상"
+        },
+        {
+            "key": "rank",
+            "value": "랭크"
+        },
+        {
+            "key": "rankings",
+            "value": "랭킹"
+        },
+        {
+            "key": "rare",
+            "value": "희귀"
+        },
+        {
+            "key": "rare_avatar",
+            "value": "희귀 아바타"
+        },
+        {
+            "key": "rarity",
+            "value": "희귀도"
+        },
+        {
+            "key": "raz",
+            "value": "RaZ"
+        },
+        {
+            "key": "recover_username",
+            "value": "사용자 이름 복구"
+        },
+        {
+            "key": "register",
+            "value": "등록"
+        },
+        {
+            "key": "remove",
+            "value": "제거"
+        },
+        {
+            "key": "requests",
+            "value": "요청"
+        },
+        {
+            "key": "resend_confirmation",
+            "value": "확인 재전송"
+        },
+        {
+            "key": "resolution",
+            "value": "해상도"
+        },
+        {
+            "key": "result",
+            "value": "결과"
+        },
+        {
+            "key": "resume",
+            "value": "재개"
+        },
+        {
+            "key": "retype",
+            "value": "재입력"
+        },
+        {
+            "key": "rewards",
+            "value": "보상"
+        },
+        {
+            "key": "round",
+            "value": "라운드"
+        },
+        {
+            "key": "round_3",
+            "value": "라운드 3"
+        },
+        {
+            "key": "save",
+            "value": "저장"
+        },
+        {
+            "key": "save_changes",
+            "value": "변경 저장"
+        },
+        {
+            "key": "save_success",
+            "value": "저장 성공"
+        },
+        {
+            "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
+            "value": "QR 코드 스캔\n Pera 모바일 앱에서 TXN 서명\n 오른쪽 확인 버튼 클릭"
+        },
+        {
+            "key": "search",
+            "value": "검색"
+        },
+        {
+            "key": "search_by_name",
+            "value": "이름으로 검색"
+        },
+        {
+            "key": "select",
+            "value": "선택"
+        },
+        {
+            "key": "select_a_card",
+            "value": "카드 선택"
+        },
+        {
+            "key": "select_a_choice",
+            "value": "선택 항목 선택"
+        },
+        {
+            "key": "select_a_target",
+            "value": "대상 선택"
+        },
+        {
+            "key": "select_card_cost",
+            "value": "카드 비용 선택"
+        },
+        {
+            "key": "select_cards_to_replace",
+            "value": "대체할 카드 선택"
+        },
+        {
+            "key": "select_deck",
+            "value": "덱 선택"
+        },
+        {
+            "key": "select_one_starter_deck",
+            "value": "하나의 시작 덱 선택"
+        },
+        {
+            "key": "sell",
+            "value": "판매"
+        },
+        {
+            "key": "sell_duplicate_cards",
+            "value": "중복 카드 판매"
+        },
+        {
+            "key": "sell_duplicates",
+            "value": "중복 판매"
+        },
+        {
+            "key": "send",
+            "value": "보내기"
+        },
+        {
+            "key": "send_guild",
+            "value": "길드 보내기"
+        },
+        {
+            "key": "settings",
+            "value": "설정"
+        },
+        {
+            "key": "sfx",
+            "value": "SFX"
+        },
+        {
+            "key": "sign_in_with_steam",
+            "value": "steam으로 로그인"
+        },
+        {
+            "key": "silence_target_card.",
+            "value": "대상 카드 침묵."
+        },
+        {
+            "key": "smokenstein",
+            "value": "SMOKENSTEIN"
+        },
+        {
+            "key": "sort",
+            "value": "정렬"
+        },
+        {
+            "key": "spectate",
+            "value": "관전"
+        },
+        {
+            "key": "spells",
+            "value": "주문"
+        },
+        {
+            "key": "standard_pack",
+            "value": "표준 팩"
+        },
+        {
+            "key": "start",
+            "value": "시작"
+        },
+        {
+            "key": "start_time",
+            "value": "시작 시간"
+        },
+        {
+            "key": "status",
+            "value": "상태"
+        },
+        {
+            "key": "status_title",
+            "value": "상태 제목"
+        },
+        {
+            "key": "submit",
+            "value": "제출"
+        },
+        {
+            "key": "success",
+            "value": "성공"
+        },
+        {
+            "key": "tamer_silvo",
+            "value": "길잡이 실보"
+        },
+        {
+            "key": "tamers",
+            "value": "길잡이"
+        },
+        {
+            "key": "tbd",
+            "value": "미정"
+        },
+        {
+            "key": "tcg_council",
+            "value": "TCG 위원회"
+        },
+        {
+            "key": "tcg_engine",
+            "value": "TCG 엔진"
+        },
+        {
+            "key": "tcgs",
+            "value": "TCGs"
+        },
+        {
+            "key": "test_tournament",
+            "value": "테스트 토너먼트"
+        },
+        {
+            "key": "title",
+            "value": "제목"
+        },
+        {
+            "key": "total_earnings",
+            "value": "총 수익"
+        },
+        {
+            "key": "tournament",
+            "value": "토너먼트"
+        },
+        {
+            "key": "tournament_confirmation",
+            "value": "토너먼트 확인"
+        },
+        {
+            "key": "tournament_wins",
+            "value": "토너먼트 승리"
+        },
+        {
+            "key": "tournaments",
+            "value": "토너먼트"
+        },
+        {
+            "key": "traits",
+            "value": "특성"
+        },
+        {
+            "key": "traps",
+            "value": "함정"
+        },
+        {
+            "key": "turn_6",
+            "value": "턴 6"
+        },
+        {
+            "key": "type",
+            "value": "타입"
+        },
+        {
+            "key": "uncommon",
+            "value": "비일반"
+        },
+        {
+            "key": "uncommon_avatar",
+            "value": "비일반 아바타"
+        },
+        {
+            "key": "unity_engine",
+            "value": "Unity 엔진"
+        },
+        {
+            "key": "unlink",
+            "value": "링크 해제"
+        },
+        {
+            "key": "update_password",
+            "value": "비밀번호 업데이트"
+        },
+        {
+            "key": "username",
+            "value": "사용자 이름"
+        },
+        {
+            "key": "username...",
+            "value": "사용자 이름..."
+        },
+        {
+            "key": "vault",
+            "value": "금고"
+        },
+        {
+            "key": "version_1.00",
+            "value": "버전 1.00"
+        },
+        {
+            "key": "victories",
+            "value": "승리"
+        },
+        {
+            "key": "victory",
+            "value": "승리"
+        },
+        {
+            "key": "view",
+            "value": "보기"
+        },
+        {
+            "key": "wallet_confirmation_txn",
+            "value": "지갑 확인 TXN"
+        },
+        {
+            "key": "warning_text",
+            "value": "경고 텍스트"
+        },
+        {
+            "key": "weekly_guild_missions",
+            "value": "주간 길드 미션"
+        },
+        {
+            "key": "weekly_missions",
+            "value": "주간 미션"
+        },
+        {
+            "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
+            "value": "새 플레이어가 당신의 사용자 이름을 추천 코드로 사용하면 1 희귀 팩 받고, 계정 레벨 업할 때마다 희귀 팩 받기 "
+        },
+        {
+            "key": "win_3_ranked_matches",
+            "value": "랭크드 매치 3승"
+        },
+        {
+            "key": "windowed",
+            "value": "창 모드"
+        },
+        {
+            "key": "winner",
+            "value": "승자"
+        },
+        {
+            "key": "winrate",
+            "value": "승률"
+        },
+        {
+            "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
+            "value": "보상 수익 활성 유지 위해 24시간마다 최소 1 매치 플레이. 다시 플레이할 때까지 보상 일시 중지.\n "
+        },
+        {
+            "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
+            "value": "덱 저장되어 전투에서 사용 가능."
+        },
+        {
+            "key": "zhamster",
+            "value": "ZHAMSTER"
+        },
+        {
+            "key": "statusline.trait_label",
+            "value": "특성: {0}"
+        },
+        {
+            "key": "statusline.evolution_title",
+            "value": "진화"
+        },
+        {
+            "key": "statusline.evolution_description",
+            "value": "{0} 턴 후 카드 진화"
+        },
+        {
+            "key": "statusline.mind_control_title",
+            "value": "정신 지배"
+        },
+        {
+            "key": "statusline.mind_control.owner_prefix",
+            "value": "<color=orange>원래 소유자: {0}</color>"
+        },
+        {
+            "key": "statusline.mind_control.release_caster_leaves",
+            "value": "시전자 게임 떠날 때"
+        },
+        {
+            "key": "statusline.mind_control.release_if_evolves",
+            "value": "진화 시"
+        },
+        {
+            "key": "statusline.mind_control.desc_currently_controlled",
+            "value": "이 카드는 현재 정신 지배 중."
+        },
+        {
+            "key": "statusline.mind_control.desc_single_condition",
+            "value": "제어 원래 소유자에게 {0} 반환."
+        },
+        {
+            "key": "statusline.mind_control.desc_double_condition",
+            "value": "제어 원래 소유자에게 {0} 또는 {1} 반환."
+        },
+        {
+            "key": "statusline.mind_control.desc_multiple_conditions",
+            "value": "제어 원래 소유자에게 {0}, 또는 {1} 반환."
+        },
+        {
+            "key": "statusline.mind_control.desc_fallback_timed",
+            "value": "이 카드는 현재 정신 지배 중이며 {0} {1} 후 반환."
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_zero",
+            "value": "{0} 다음 턴 끝날 때"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_remaining",
+            "value": "{1} {2} 중 {0} 후"
+        },
+        {
+            "key": "statusline.mind_control.turn_singular",
+            "value": "턴"
+        },
+        {
+            "key": "statusline.mind_control.turn_plural",
+            "value": "턴"
+        },
+        {
+            "key": "statusline.mind_control.owner_active",
+            "value": "활성 플레이어의"
+        },
+        {
+            "key": "statusline.mind_control.owner_your",
+            "value": "당신의"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent",
+            "value": "당신 상대의"
+        },
+        {
+            "key": "statusline.mind_control.owner_original",
+            "value": "원래 소유자의"
+        },
+        {
+            "key": "statusline.mind_control.owner_controller",
+            "value": "제어자의"
+        },
+        {
+            "key": "statusline.mind_control.owner_you",
+            "value": "당신"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent_label",
+            "value": "상대"
+        },
+        {
+            "key": "statusline.mind_control.owner_player_number",
+            "value": "플레이어 {0}"
+        },
+        {
+            "key": "statusline.mind_control.possessive_pronoun",
+            "value": "그들의"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format",
+            "value": "{0}의"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format_s",
+            "value": "{0}의"
+        },
+        {
+            "key": "statusline.mind_control.list_separator",
+            "value": ", "
+        },
+        {
+            "key": "language",
+            "value": "언어"
+        },
+        {
+            "key": "warning.not_your_turn",
+            "value": "당신의 턴이 아닙니다"
+        },
+        {
+            "key": "warning.no_more_actions",
+            "value": "더 이상 행동할 수 없습니다"
+        },
+        {
+            "key": "warning.rush_cant_attack_player",
+            "value": "러시 카드는 낸 턴에는 플레이어를 공격할 수 없습니다"
+        },
+        {
+            "key": "warning.not_enough_mana",
+            "value": "마나가 부족합니다"
+        },
+        {
+            "key": "warning.not_enough_team_points",
+            "value": "팀 포인트가 부족합니다"
+        },
+        {
+            "key": "warning.maximum_traps",
+            "value": "함정은 최대 5개"
+        },
+        {
+            "key": "warning.spell_immunity",
+            "value": "주문 면역"
+        },
+        {
+            "key": "warning.invalid_target",
+            "value": "잘못된 대상"
+        },
+        {
+            "key": "quick_chat.placeholder",
+            "value": "빠른 채팅 옵션을 선택..."
+        },
+        {
+            "key": "quick_chat.gm",
+            "value": "GM!"
+        },
+        {
+            "key": "quick_chat.hello",
+            "value": "안녕하세요!"
+        },
+        {
+            "key": "quick_chat.glhf",
+            "value": "GLHF!"
+        },
+        {
+            "key": "quick_chat.lets_go",
+            "value": "가자!"
+        },
+        {
+            "key": "quick_chat.lets_battle",
+            "value": "전투하자!"
+        },
+        {
+            "key": "quick_chat.lets_fight",
+            "value": "싸우자!"
+        },
+        {
+            "key": "quick_chat.lets_have_fun",
+            "value": "재밌게 하자!"
+        },
+        {
+            "key": "quick_chat.nice_move",
+            "value": "좋은 수!"
+        },
+        {
+            "key": "quick_chat.rip",
+            "value": "RIP"
+        },
+        {
+            "key": "quick_chat.rip_gg",
+            "value": "RIP GG"
+        },
+        {
+            "key": "quick_chat.oops",
+            "value": "앗!"
+        },
+        {
+            "key": "quick_chat.thanks",
+            "value": "고마워!"
+        },
+        {
+            "key": "quick_chat.good_game",
+            "value": "좋은 경기였어!"
+        },
+        {
+            "key": "quick_chat.well_played",
+            "value": "잘했다!"
+        },
+        {
+            "key": "quick_chat.close_game",
+            "value": "아슬아슬한 경기!"
+        },
+        {
+            "key": "quick_chat.close_one",
+            "value": "아슬아슬했네"
+        },
+        {
+            "key": "quick_chat.great_battle",
+            "value": "멋진 전투였다!"
+        },
+        {
+            "key": "quick_chat.what_a_battle",
+            "value": "대단한 전투였어!"
+        },
+        {
+            "key": "quick_chat.respect",
+            "value": "존경"
+        },
+        {
+            "key": "tip_mind_control_base",
+            "value": "{0}가 {1}의 제어권을 빼앗았습니다! 효과가 끝날 때까지 {1}은(는) {0}을 위해 싸웁니다."
+        },
+        {
+            "key": "tip_mind_control_ability",
+            "value": "발동한 능력: {0}"
+        },
+        {
+            "key": "tip_mind_control_evolution_return",
+            "value": "지배된 몬스터가 진화했다가 되돌아오면 원래 소유자에게 반환됩니다."
+        },
+        {
+            "key": "tip_mind_control_hint_none",
+            "value": "해제 힌트가 없습니다. 지배를 끝낼 수 있는 다른 효과를 주의하세요."
+        },
+        {
+            "key": "tip_mind_control_caster_fallback",
+            "value": "주문의 원천"
+        },
+        {
+            "key": "tip_mind_control_hint_caster",
+            "value": "{0}를 처치하면 정신 지배가 해제됩니다."
+        },
+        {
+            "key": "tip_mind_control_hint_turns",
+            "value": "정신 지배는 {1}의 {0}턴 후에 종료됩니다."
+        },
+        {
+            "key": "tip_mind_control_turn_owner_original",
+            "value": "원래 소유자"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_active",
+            "value": "활성 플레이어"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_controller",
+            "value": "컨트롤러"
+        },
+        {
+            "key": "tip_swap_slots_base",
+            "value": "{0}가 {1}와 {2}의 위치를 맞바꾸었습니다."
+        },
+        {
+            "key": "tip_swap_slots_ability",
+            "value": "사용한 능력: {0}"
+        },
+        {
+            "key": "tip_unknown_card",
+            "value": "알 수 없는 카드"
+        },
+        {
+            "key": "tip_ability_destroyed",
+            "value": "당신의 {0}가 {1}의 능력에 의해 파괴되었습니다!\n \n 능력 설명: {2}"
+        },
+        {
+            "key": "tip_armor_message",
+            "value": "적이 장갑 몬스터를 사용했습니다! 공격으로 받는 피해가 감소합니다."
+        },
+        {
+            "key": "tip_characterabilityimmunity_message",
+            "value": "적이 능력 면역 몬스터를 사용했습니다! 대상이 필요한 캐릭터 능력은 영향을 주지 못하지만, 요정의 힘은 여전히 가능합니다."
+        },
+        {
+            "key": "tip_deathtouch_message",
+            "value": "적이 죽음의 손길 몬스터를 사용했습니다! 피해를 입은 캐릭터는 파괴됩니다."
+        },
+        {
+            "key": "tip_flying_message",
+            "value": "적이 비행 몬스터를 사용했습니다! 도발 방어자를 무시할 수 있습니다."
+        },
+        {
+            "key": "tip_fury_message",
+            "value": "적이 격노 몬스터를 사용했습니다! 매 턴 두 번 공격할 수 있습니다."
+        },
+        {
+            "key": "tip_heropower_message",
+            "value": "적이 {0}로 요정의 힘을 사용했습니다!\n \n 능력: {1}"
+        },
+        {
+            "key": "tip_intimidate_message",
+            "value": "적이 위압 몬스터를 사용했습니다! 공격할 때 피해를 받지 않습니다."
+        },
+        {
+            "key": "tip_invincibility_message",
+            "value": "적이 무적 몬스터를 사용했습니다! 몇 턴 동안 공격받지 않습니다."
+        },
+        {
+            "key": "tip_lifesteal_message",
+            "value": "적이 생명력 흡수 몬스터를 사용했습니다! 전투 피해를 줄 때 회복합니다."
+        },
+        {
+            "key": "tip_overkill_message",
+            "value": "적이 초과 피해 몬스터를 사용했습니다! 초과 피해가 회복으로 전환됩니다."
+        },
+        {
+            "key": "tip_shell_message",
+            "value": "적이 껍질 몬스터를 사용했습니다! 처음 받는 피해는 무시됩니다."
+        },
+        {
+            "key": "tip_spellimmunity_message",
+            "value": "적이 주문 면역 몬스터를 사용했습니다! 주문은 대상 지정이나 피해를 줄 수 없지만, 대상 지정하지 않고 파괴하는 주문은 여전히 적용됩니다."
+        },
+        {
+            "key": "tip_status_generic",
+            "value": "당신의 몬스터가 {0} 상태가 되었습니다!\n \n 설명: {1}"
+        },
+        {
+            "key": "tip_status_sleep",
+            "value": "당신의 몬스터가 잠들었습니다!\n \n 설명: {0}"
+        },
+        {
+            "key": "tip_stealth_message",
+            "value": "적이 은신 몬스터를 사용했습니다! 행동하기 전까지 공격하거나 대상으로 지정할 수 없습니다."
+        },
+        {
+            "key": "tip_taunt_message",
+            "value": "적이 도발 몬스터를 사용했습니다! 다른 적보다 먼저 그것을 공격해야 합니다."
+        },
+        {
+            "key": "tip_trample_message",
+            "value": "적이 돌파 몬스터를 사용했습니다! 당신의 몬스터에 가한 초과 피해는 당신에게 들어옵니다."
+        },
+        {
+            "key": "tip_transform_into_with_trigger",
+            "value": "\"변신\"은 버린 카드를 복사합니다. 대상 카드는 {1}로 변신했기 때문에 이제 {0}입니다."
+        },
+        {
+            "key": "tip_transform_into_without_trigger",
+            "value": "\"변신\"은 버린 카드를 복사합니다. 대상 카드는 능력을 발동시킨 버린 카드로 변신했기 때문에 이제 {0}입니다."
+        },
+        {
+            "key": "collection.create_new_deck",
+            "value": "СОЗДАТЬ НОВУЮ КОЛОДУ"
+        },
+        {
+            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
+            "value": "자신의 재구르 중 하나를 적 위로 끌어 공격하세요."
+        },
+        {
+            "key": "before_they_destroy_yours",
+            "value": "적이 당신의 것을 파괴하기 전에"
+        },
+        {
+            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
+            "value": "하지만 이미 전장에 있는 몬스터로는 공격할 수 있습니다."
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>플레이:</b> 자신의 캐릭터 하나를 선택해 상대에게 보냅니다. 능력: 적 캐릭터가 +1/+2를 얻습니다"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>플레이:</b> 자신의 캐릭터 하나를 선택해 상대에게 보냅니다. 능력: 각 턴 시작에 카드 2장을 버립니다"
+        },
+        {
+            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
+            "value": "마나 비용은 카드의 모서리에 표시됩니다."
+        },
+        {
+            "key": "opponent",
+            "value": "상대"
+        },
+        {
+            "key": "to_play_cards_you_must_spend_mana",
+            "value": "카드를 내기 위해서는 마나를 소모해야 합니다."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "보드의 빈 칸으로 카드를 끌어 놓아 플레이해 보세요."
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "손패에서 녹색으로 강조된 카드는 플레이할 수 있습니다."
+        },
+        {
+            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
+            "value": "턴을 마치면 ‘턴 종료’를 클릭하세요."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "선택지는 두 가지입니다."
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Fracctal TCG 튜토리얼에 오신 것을 환영합니다"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Fracctal TCG 튜토리얼에 오신 것을 환영합니다"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "랭크 멀티플레이에서 다른 플레이어와 대결하세요.\n  \n   내비게이션 바 상단의 버튼으로 PvP 순위를 확인할 수 있습니다. "
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "토너먼트 모드에서 매일 열리는 자동 토너먼트에 참가하여 다른 플레이어와 경쟁하세요.\n  \n  이 대회에서 에센스 화폐, 계정 XP, 팩, 길드 포인트를 획득하세요!"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "보드의 빈 칸 중 하나로 카드를 끌어 플레이해 보세요.\n\n 손패에서 초록색으로 표시된 카드는 플레이할 수 있습니다."
+        },
+        {
+            "key": "modal.version_warning_message",
+            "value": "게임 버전 {0} 오래됨. 최신 버전 {1}."
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_beta!_let's_learn_a_bit_about_the_game.",
+            "value": "Fracctal TCG 베타에 오신 것을 환영합니다!\n 게임에 대해 간단히 알아봅시다."
+        },
+        {
+            "key": "in_adventure_mode_you_learn_the_basics_of_the_game_as_well_as_the_different_types_of_cards_and_abilites.you_also_earn_rewards_as_you_defeat_challenges!",
+            "value": "모험 모드에서는 게임의 기초와 다양한 카드·능력 유형을 배울 수 있습니다.\n \n 도전을 완료하면 보상도 획득합니다!"
+        },
+        {
+            "key": "in_practice_mode_you_can_test_your_different_decks,_complete_missions,_and_learn_the_game_wihtout_affecting_your_ranking.",
+            "value": "연습 모드에서는 다양한 덱을 시험하고 미션을 완료하며, 랭크에 영향 없이 게임을 배울 수 있습니다."
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "랭크 멀티플레이에서 다른 플레이어와 대결하세요.\n \n 내비게이션 바 상단의 버튼으로 PvP 순위를 확인할 수 있습니다."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_mode.win_essence_currency,_account_xp,_packs,_and_guild_points_in_these_competions!",
+            "value": "토너먼트 모드에서 매일 자동 토너먼트에 참여해 다른 플레이어와 경쟁하세요.\n \n 이 대회에서 에센스 화폐, 계정 XP, 팩, 길드 포인트를 획득하세요!"
+        },
+        {
+            "key": "missions_are_the_primary_method_of_gaining_currency_to_open_new_packs._there_are_many_more_features_like_match_spectating,_daily_login_streak_rewards,_friends_list,_player_created_guilds,_battlepass_rewards,_and_much_more!we_suggest_you_start_with_adventure_mode._good_luck!",
+            "value": "미션은 새 팩을 열기 위한 재화를 얻는 주된 방법입니다.\n \n 경기 관전, 일일 로그인 연속 보상, 친구 목록, 플레이어가 만든 길드, 배틀 패스 보상 등 다양한 기능도 있어요!\n \n 먼저 모험 모드부터 시작해 보세요. 행운을 빕니다!"
+        },
+        {
+            "key": "great_job!_creatures_that_just_entered_play_cannot_attack_in_the_same_turn.",
+            "value": "잘했어요! 막 전장에 나온 크리처는 같은 턴에 공격할 수 없습니다."
+        },
+        {
+            "key": "now_destroy_the_other_monster!",
+            "value": "이제 다른 몬스터를 처치하세요!"
+        },
+        {
+            "key": "your_goal_is_to_reduce_your_opponent's_hp_to_0.",
+            "value": "목표는 상대의 HP를 0으로 만드는 것입니다."
+        },
+        {
+            "key": "many_monsters_are_quite_strong_because_their_fury_ability_let_them_attack_twice_per_turn!",
+            "value": "많은 몬스터는 ‘분노’ 능력으로 매 턴 두 번 공격할 수 있어 매우 강력합니다!"
+        },
+        {
+            "key": "you_will_probably_want_to_get_rid_of_the_ignitas_this_turn,_otherwise_it_could_damage_most_of_your_hp!",
+            "value": "이번 턴에 이그니투스를 처리하는 것이 좋습니다. 그렇지 않으면 많은 HP를 잃을 수 있어요!"
+        },
+        {
+            "key": "your_jagur_can_only_deal_1_damage,_but_you_need_2_to_destroy_the_ignitas.",
+            "value": "당신의 자구르는 1 피해만 줄 수 있지만, 이그니투스를 쓰러뜨리려면 2가 필요합니다."
+        },
+        {
+            "key": "you_have_two_choices._you_can_either_try_to_paralyze_the_ignitus,_or_play_a_cheetula_to_boost_your_jagur_attack.",
+            "value": "선택지는 두 가지입니다. 이그니투스를 마비시키거나 치툴라를 내서 자구르의 공격력을 높이세요."
+        },
+        {
+            "key": "great_choice,_the_ignitas_won't_be_able_to_attack_for_the_next_2_turns.",
+            "value": "좋은 선택입니다. 이그니투스는 다음 2턴 동안 공격할 수 없습니다."
+        },
+        {
+            "key": "now_you_could_attack_the_opponent,_or_end_your_turn.",
+            "value": "이제 상대를 공격하거나 당신의 턴을 종료할 수 있습니다."
+        },
+        {
+            "key": "great_choice,_now_your_jagur_has_2_attack._you_can_attack_and_kill_the_ignitas!",
+            "value": "좋은 선택이에요. 이제 자구르의 공격력이 2가 되었습니다. 이그니투스를 공격해 처치할 수 있어요!"
+        },
+        {
+            "key": "to_attack_the_opponent's_hp._drag_one_of_your_characters_in_play_on_top_of_the_opponent's_hand_area.",
+            "value": "상대의 HP를 공격하려면, 전장에 있는 내 캐릭터 하나를 상대의 손패 영역으로 끌어다 놓으세요."
+        },
+        {
+            "key": "good_luck!",
+            "value": "행운을 빕니다!"
+        },
+        {
+            "key": "hero_power_popup.contribution_line1",
+            "value": "{0}장의 카드를 플레이하면 요정의 힘이 충전됩니다."
+        },
+        {
+            "key": "hero_power_popup.contribution_line2",
+            "value": "방금 기여했습니다! 진행도: {0}/{1} 원소 포인트."
+        },
+        {
+            "key": "hero_power_popup.contribution_line3",
+            "value": "필요한 포인트에 도달하면 활성화됩니다."
+        },
+        {
+            "key": "hero_power_popup.fairy_power_label",
+            "value": "요정의 힘: {0}"
+        },
+        {
+            "key": "tip_heropower_electric",
+            "value": "대상에게 공격할 수 있는 힘을 부여합니다(전기 몬스터 한정)."
+        },
+        {
+            "key": "tip_heropower_fire",
+            "value": "피해 1을 줍니다."
+        },
+        {
+            "key": "tip_heropower_ice",
+            "value": "적 1명을 1턴 동안 빙결시킵니다."
+        },
+        {
+            "key": "tip_heropower_plant",
+            "value": "체력을 2 회복합니다."
+        },
+        {
+            "key": "tip_heropower_psychic",
+            "value": "상대는 손에서 무작위 카드 1장을 버립니다."
+        },
+        {
+            "key": "tip_heropower_rock",
+            "value": "대상 캐릭터가 방어도 +1을 얻습니다."
+        },
+        {
+            "key": "tip_heropower_shadow",
+            "value": "대상이 저주 상태가 됩니다."
+        },
+        {
+            "key": "tip_heropower_water",
+            "value": "카드를 1장 뽑습니다."
+        },
+        {
+            "key": "turn_popup.your_turn",
+            "value": "당신의 턴"
+        },
+        {
+            "key": "turn_popup.opponent_turn",
+            "value": "상대의 턴"
+        },
+        {
+            "key": "status.addattack.title",
+            "value": "공격 증가"
+        },
+        {
+            "key": "status.addattack.desc",
+            "value": "일정 시간 동안 공격력이 +<value> 증가합니다."
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "HP 증가"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "일정 시간 동안 HP가 +<value> 증가합니다."
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "마나 비용 변경"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "일정 시간 동안 마나 비용이 <value> 만큼 조정됩니다."
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "은신"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "행동할 때까지 공격받거나 대상 지정되지 않습니다."
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "무적"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "<value>턴 동안 공격받지 않습니다."
+        },
+        {
+            "key": "status.shell.title",
+            "value": "쉘"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "받게 될 첫 번째 피해를 무시합니다."
+        },
+        {
+            "key": "status.protection.title",
+            "value": "도발"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "적은 다른 아군보다 먼저 이 카드를 공격해야 합니다."
+        },
+        {
+            "key": "status.protected.title",
+            "value": "보호"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "도발 아군이 보호하는 동안에는 공격받지 않습니다."
+        },
+        {
+            "key": "status.armor.title",
+            "value": "방어도"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "받는 피해를 <value>만큼 감소시킵니다."
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "주문 면역"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "주문의 대상이 되거나 피해를 받지 않습니다."
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "능력 면역"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "캐릭터 능력의 대상이 되지 않습니다. (요정의 힘은 적용됨)"
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "죽음의 손길"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "피해를 입힌 캐릭터를 파괴합니다."
+        },
+        {
+            "key": "status.fury.title",
+            "value": "분노"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "매 턴 두 번 공격할 수 있습니다."
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "위압"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "이 효과로 피해를 받은 적은 반격하지 않습니다."
+        },
+        {
+            "key": "status.flying.title",
+            "value": "비행"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "공격 시 도발 차단자를 무시할 수 있습니다."
+        },
+        {
+            "key": "status.trample.title",
+            "value": "짓밟기"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "차단자에게 남는 초과 피해는 상대 플레이어에게 전달됩니다."
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "오버킬"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "초과 피해가 이 카드를 치유합니다."
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "생명력 흡수"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "가한 피해만큼 컨트롤러를 치유합니다."
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "침묵"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "능력이 비활성화됩니다."
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "마비"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "<value>턴 동안 행동할 수 없습니다."
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "중독"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "매 턴 시작 시 HP를 <value> 잃습니다."
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "수면"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "턴 시작 시 준비 상태가 되지 않습니다."
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "빙결"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "<value>턴 동안 행동할 수 없습니다."
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "저주"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "컨트롤러의 턴 시작 시 공격력이 <value> 감소합니다."
+        },
+        {
+            "key": "status.ghost.title",
+            "value": "유령"
+        },
+        {
+            "key": "status.ghost.desc",
+            "value": "저주 상태인 동안, 이 카드는 공격력 +5를 얻습니다."
+        },
+        {
+            "key": "status.burned.title",
+            "value": "화상"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "매 턴 시작 시 HP를 <value> 잃습니다."
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "함정 회피"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "행동해도 적의 함정을 발동시키지 않습니다."
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "공중 도발"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "비행 공격자만 도발하여 아군 전체를 보호합니다."
+        },
+        {
+            "key": "status.protectedflying.title",
+            "value": "비행 보호"
+        },
+        {
+            "key": "status.protectedflying.desc",
+            "value": "공중 도발 아군이 있는 동안 비행 적에게 공격받지 않습니다."
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "공격력 감소 면역"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "공격력이 감소하지 않습니다."
+        },
+        {
+            "key": "evolves_to",
+            "value": "진화 대상"
+        },
+        {
+            "key": "cardzoompanel.trait_label",
+            "value": "특성"
+        },
+        {
+            "key": "cardzoompanel.trait_format",
+            "value": "<b>{0}</b>: {1}\n \n "
+        },
+        {
+            "key": "cardzoompanel.evolution_label",
+            "value": "진화"
+        },
+        {
+            "key": "cardzoompanel.evolution_description",
+            "value": "몬스터는 {0}턴 후에 진화합니다"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minute",
+            "value": "다음 토너먼트 시작까지 1분 남음"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minutes",
+            "value": "다음 토너먼트 시작까지 {0}분 남음"
+        },
+        {
+            "key": "main_menu.tournament_countdown_second",
+            "value": "다음 토너먼트 시작까지 1초 남음"
+        },
+        {
+            "key": "main_menu.tournament_countdown_seconds",
+            "value": "다음 토너먼트 시작까지 {0}초 남음"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hour",
+            "value": "다음 토너먼트 시작까지 1시간 남음"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hours",
+            "value": "다음 토너먼트 시작까지 {0}시간 남음"
+        },
+        {
+            "key": "shop",
+            "value": "상점"
+        },
+        {
+            "key": "tip_hand_limit_message",
+            "value": "손패가 가득 찼습니다 — {0}장 이상 가질 수 없습니다. 카드를 사용하거나 버려서 더 뽑으세요."
+        },
+        {
+            "key": "tip_card_evolution_message",
+            "value": "{0}이(가) 방금 진화했습니다! 캐릭터는 필드에서 당신의 턴을 {1}번 버티면 진화합니다. 진화한 형태가 아직 필드에 남아 있다면, '출전 시' 능력이 다시 발동되고 모든 부정적인 상태 이상이 먼저 제거됩니다."
+        }
+    ]
+}

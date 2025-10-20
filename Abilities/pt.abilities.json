@@ -1,0 +1,1688 @@
+{
+    "entries": [
+        {
+            "key": "ability.ability_immunity.desc",
+            "value": "Não pode ser alvo de habilidades de cartas de personagens"
+        },
+        {
+            "key": "ability.ability_immunity.title",
+            "value": "Imunidade a Habilidades"
+        },
+        {
+            "key": "ability.ability_swap_characters_4m.desc",
+            "value": "Substitua este personagem por um personagem do tabuleiro inimigo com custo de mana de 4."
+        },
+        {
+            "key": "ability.ability_swap_characters_4m.title",
+            "value": "Troca Psíquica"
+        },
+        {
+            "key": "ability.activate_armor2.desc",
+            "value": "Todas as criaturas aliadas ganham +2 de armadura. Usa a ação desta criatura e custa 5 de mana."
+        },
+        {
+            "key": "ability.activate_armor2.title",
+            "value": "Suporte de Armadura"
+        },
+        {
+            "key": "ability.activate_boost1.desc",
+            "value": "Todas as criaturas aliadas ganham +1 de ataque até o final do turno. Usa a ação desta criatura."
+        },
+        {
+            "key": "ability.activate_boost1.title",
+            "value": "Rugido"
+        },
+        {
+            "key": "ability.activate_boost3.desc",
+            "value": "Todas as criaturas aliadas ganham +3 de ataque até o final do turno. Usa a ação desta criatura."
+        },
+        {
+            "key": "ability.activate_boost3.title",
+            "value": "Suporte"
+        },
+        {
+            "key": "ability.activate_burst.desc",
+            "value": "Sofra 1 de dano para ganhar +1 de ataque."
+        },
+        {
+            "key": "ability.activate_burst.title",
+            "value": "Explosão"
+        },
+        {
+            "key": "ability.activate_damage2.desc",
+            "value": "Causa 2 de dano. Custa 3 de mana. Não esgota a ação."
+        },
+        {
+            "key": "ability.activate_damage2.title",
+            "value": "Ataque Extra"
+        },
+        {
+            "key": "ability.activate_discard.desc",
+            "value": "O oponente descarta uma carta aleatória da mão. Usa a ação desta criatura."
+        },
+        {
+            "key": "ability.activate_discard.title",
+            "value": "Descarte"
+        },
+        {
+            "key": "ability.activate_discard_random_3l.desc",
+            "value": "O oponente descarta uma carta aleatória da mão. Usa a ação desta criatura."
+        },
+        {
+            "key": "ability.activate_discard_random_3l.title",
+            "value": "Descarte"
+        },
+        {
+            "key": "ability.activate_electric.desc",
+            "value": "O alvo ganha força para atacar (deve ser um monstro elétrico)"
+        },
+        {
+            "key": "ability.activate_electric.title",
+            "value": "Elétrico"
+        },
+        {
+            "key": "ability.activate_fire.desc",
+            "value": "Causa 1 de dano."
+        },
+        {
+            "key": "ability.activate_fire.title",
+            "value": "Fogo"
+        },
+        {
+            "key": "ability.activate_heal_player3.desc",
+            "value": "Cura o jogador em 3 HP."
+        },
+        {
+            "key": "ability.activate_heal_player3.title",
+            "value": "Auto-Cura"
+        },
+        {
+            "key": "ability.activate_ice.desc",
+            "value": "Congela um inimigo por 1 turno"
+        },
+        {
+            "key": "ability.activate_ice.title",
+            "value": "Congelar"
+        },
+        {
+            "key": "ability.activate_plant.desc",
+            "value": "Cura 2 HP."
+        },
+        {
+            "key": "ability.activate_plant.title",
+            "value": "Planta"
+        },
+        {
+            "key": "ability.activate_psychic.desc",
+            "value": "O oponente descarta uma carta aleatória da mão."
+        },
+        {
+            "key": "ability.activate_psychic.title",
+            "value": "Psíquico"
+        },
+        {
+            "key": "ability.activate_rock.desc",
+            "value": "O personagem alvo ganha +1 de Armadura"
+        },
+        {
+            "key": "ability.activate_rock.title",
+            "value": "Pedra"
+        },
+        {
+            "key": "ability.activate_rock_hammi_old.desc",
+            "value": "Invoca um Hammi 1/1"
+        },
+        {
+            "key": "ability.activate_rock_hammi_old.title",
+            "value": "Pedra"
+        },
+        {
+            "key": "ability.activate_roll_send_hand.desc",
+            "value": "Selecione um personagem e role um D6, em 4+ retorne à mão do proprietário. Custa 2 de mana."
+        },
+        {
+            "key": "ability.activate_roll_send_hand.title",
+            "value": "Carga"
+        },
+        {
+            "key": "ability.activate_select_discard_spell.desc",
+            "value": "Retorne um feitiço do seu cemitério para a mão. Custa 2 de mana."
+        },
+        {
+            "key": "ability.activate_select_discard_spell.title",
+            "value": "Foco Mágico"
+        },
+        {
+            "key": "ability.activate_send_hand.desc",
+            "value": "Retorne um personagem à mão do proprietário. Usa a ação desta criatura."
+        },
+        {
+            "key": "ability.activate_send_hand.title",
+            "value": "Carga"
+        },
+        {
+            "key": "ability.activate_shadow.desc",
+            "value": "O alvo fica Amaldiçoado"
+        },
+        {
+            "key": "ability.activate_shadow.title",
+            "value": "Sombra"
+        },
+        {
+            "key": "ability.activate_switch_sides.desc",
+            "value": "Ao jogar, selecione um personagem alvo para trocar de lado"
+        },
+        {
+            "key": "ability.activate_switch_sides.title",
+            "value": "Troca de Lealdade"
+        },
+        {
+            "key": "ability.activate_water.desc",
+            "value": "Compre uma carta."
+        },
+        {
+            "key": "ability.activate_water.title",
+            "value": "Água"
+        },
+        {
+            "key": "ability.add_attack_traps.desc",
+            "value": "Ganhe +1 de dano por cada armadilha inimiga"
+        },
+        {
+            "key": "ability.add_attack_traps.title",
+            "value": "Impulso de Armadilhas"
+        },
+        {
+            "key": "ability.add_hp_location.desc",
+            "value": "Ganhe +2 HP por cada localização aliada do mesmo tipo de elemento em jogo."
+        },
+        {
+            "key": "ability.add_hp_location.title",
+            "value": "Impulso de Localização"
+        },
+        {
+            "key": "ability.add_spell_damage1.desc",
+            "value": "Todos os seus feitiços e habilidades causam +1 de dano."
+        },
+        {
+            "key": "ability.add_spell_damage1.title",
+            "value": "Dano de Feitiço"
+        },
+        {
+            "key": "ability.add_spell_damage2.desc",
+            "value": "Todos os seus feitiços e habilidades causam +2 de dano."
+        },
+        {
+            "key": "ability.add_spell_damage2.title",
+            "value": "Dano de Feitiço"
+        },
+        {
+            "key": "ability.after_spell_attack2.desc",
+            "value": "Após jogar um feitiço, ganhe +2 de ataque."
+        },
+        {
+            "key": "ability.after_spell_attack2.title",
+            "value": "Calor"
+        },
+        {
+            "key": "ability.attack_burned.desc",
+            "value": "O personagem atacado está queimado. Perde 2 HP por turno."
+        },
+        {
+            "key": "ability.attack_burned.title",
+            "value": "Queimado"
+        },
+        {
+            "key": "ability.attack_curse.desc",
+            "value": "Personagens atacados ganham maldição. Perdem 1 de ataque por turno."
+        },
+        {
+            "key": "ability.attack_curse.title",
+            "value": "Maldição"
+        },
+        {
+            "key": "ability.attack_loss_immunity.desc",
+            "value": "Protege o ataque do personagem de ser reduzido."
+        },
+        {
+            "key": "ability.attack_loss_immunity.title",
+            "value": "Imunidade à Perda de Ataque"
+        },
+        {
+            "key": "ability.attack_player_mana1.desc",
+            "value": "Após atacar a vida do oponente, ganhe 1 de mana."
+        },
+        {
+            "key": "ability.attack_player_mana1.title",
+            "value": "Saque"
+        },
+        {
+            "key": "ability.attack_player_mana2.desc",
+            "value": "Após atacar a vida do oponente, ganhe 2 de mana."
+        },
+        {
+            "key": "ability.attack_player_mana2.title",
+            "value": "Saque"
+        },
+        {
+            "key": "ability.attack_player_mana3.desc",
+            "value": "Após atacar a vida do oponente, ganhe 3 de mana."
+        },
+        {
+            "key": "ability.attack_player_mana3.title",
+            "value": "Saque"
+        },
+        {
+            "key": "ability.attack_poison.desc",
+            "value": "Personagens atacados ganham veneno. Perdem 1 HP por turno."
+        },
+        {
+            "key": "ability.attack_poison.title",
+            "value": "Veneno"
+        },
+        {
+            "key": "ability.attack_roll_attack_add_bonus_3.desc",
+            "value": "Antes de atacar, role um D6, em 4+ ganhe +3 de ataque."
+        },
+        {
+            "key": "ability.attack_roll_attack_add_bonus_3.title",
+            "value": "Tentáculos"
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_3.desc",
+            "value": "Antes de atacar, role um D6, em 4+ ganhe +3 de ataque até o final do turno."
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_3.title",
+            "value": "Tentáculos"
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_6.desc",
+            "value": "Antes de atacar, role um D6, em 4+ ganhe +6 de ataque até o final do turno."
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_6.title",
+            "value": "Tentáculos"
+        },
+        {
+            "key": "ability.attack_suffer_damage.desc",
+            "value": "Antes de atacar, sofra 3 de dano."
+        },
+        {
+            "key": "ability.attack_suffer_damage.title",
+            "value": "Fissura no Solo"
+        },
+        {
+            "key": "ability.aura_ability_red.desc",
+            "value": "Todas as criaturas aliadas de Fogo ganham: \"Sofra 1 de dano para ganhar +1 de ataque\"."
+        },
+        {
+            "key": "ability.aura_ability_red.title",
+            "value": "Explosão de Fogo"
+        },
+        {
+            "key": "ability.aura_ability_rock.desc",
+            "value": "Todas as criaturas aliadas de Pedra ganham: \"Sofra 1 de dano para ganhar +1 de ataque\"."
+        },
+        {
+            "key": "ability.aura_ability_rock.title",
+            "value": "Explosão de Pedra"
+        },
+        {
+            "key": "ability.aura_attack_m1.desc",
+            "value": "Todos os personagens inimigos têm -1 de ataque."
+        },
+        {
+            "key": "ability.aura_attack_m1.title",
+            "value": "Medo"
+        },
+        {
+            "key": "ability.aura_attack_m2.desc",
+            "value": "Todos os personagens inimigos têm -2 de ataque."
+        },
+        {
+            "key": "ability.aura_attack_m2.title",
+            "value": "Medo"
+        },
+        {
+            "key": "ability.aura_cat.desc",
+            "value": "Todos os outros gatos aliados ganham +1 de ataque."
+        },
+        {
+            "key": "ability.aura_cat.title",
+            "value": "Aura de Gato"
+        },
+        {
+            "key": "ability.aura_enemy_attack1.desc",
+            "value": "Todos os personagens inimigos ganham +1 de ataque."
+        },
+        {
+            "key": "ability.aura_enemy_attack1.title",
+            "value": "Traição"
+        },
+        {
+            "key": "ability.aura_enemy_hp2.desc",
+            "value": "Todos os personagens inimigos ganham +2 HP"
+        },
+        {
+            "key": "ability.aura_enemy_hp2.title",
+            "value": "Traição"
+        },
+        {
+            "key": "ability.aura_hp_rock_1.desc",
+            "value": "Todos os personagens de pedra aliados têm +1 HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_1.title",
+            "value": "Aliado de Pedra"
+        },
+        {
+            "key": "ability.aura_hp_rock_m1.desc",
+            "value": "Todos os personagens de sombra aliados têm +1 HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_m1.title",
+            "value": "Aliado de Sombra"
+        },
+        {
+            "key": "ability.aura_reptile.desc",
+            "value": "Todos os outros répteis aliados ganham +1 de ataque."
+        },
+        {
+            "key": "ability.aura_reptile.title",
+            "value": "Répteis"
+        },
+        {
+            "key": "ability.aura_reptile_2.desc",
+            "value": "Todos os outros répteis aliados ganham +2 de ataque."
+        },
+        {
+            "key": "ability.aura_reptile_2.title",
+            "value": "Répteis"
+        },
+        {
+            "key": "ability.bypass_trap.desc",
+            "value": "Este personagem não ativa armadilhas."
+        },
+        {
+            "key": "ability.bypass_trap.title",
+            "value": "Evasão de Armadilhas"
+        },
+        {
+            "key": "ability.chain_ice_treasure.desc",
+            "value": "Veja as próximas 7 cartas do seu baralho e pegue 2 cartas de gelo na sua mão."
+        },
+        {
+            "key": "ability.chain_ice_treasure.title",
+            "value": "Tesouro de Gelo"
+        },
+        {
+            "key": "ability.chain_water_treasure.desc",
+            "value": "Veja as próximas 7 cartas do seu baralho e pegue 2 cartas de água na sua mão."
+        },
+        {
+            "key": "ability.chain_water_treasure.title",
+            "value": "Tesouro de Água"
+        },
+        {
+            "key": "ability.choice_fury.desc",
+            "value": "Pode atacar duas vezes por turno."
+        },
+        {
+            "key": "ability.choice_fury.title",
+            "value": "Fúria"
+        },
+        {
+            "key": "ability.choice_taunt.desc",
+            "value": "Seus outros personagens não podem ser atacados."
+        },
+        {
+            "key": "ability.choice_taunt.title",
+            "value": "Provocação"
+        },
+        {
+            "key": "ability.death_blue_draw.desc",
+            "value": "Quando uma criatura de Água que você possui morre, compre uma carta."
+        },
+        {
+            "key": "ability.death_blue_draw.title",
+            "value": "Comprar"
+        },
+        {
+            "key": "ability.death_damage2_player.desc",
+            "value": "Quando esta criatura morre, cause dano ao jogador inimigo."
+        },
+        {
+            "key": "ability.death_damage2_player.title",
+            "value": "Dano de Morte"
+        },
+        {
+            "key": "ability.death_draw.desc",
+            "value": "Quando esta criatura morre, compre uma carta."
+        },
+        {
+            "key": "ability.death_draw.title",
+            "value": "Comprar"
+        },
+        {
+            "key": "ability.death_egg.desc",
+            "value": "Quando esta criatura morre, invoque um ovo de Phyra."
+        },
+        {
+            "key": "ability.death_egg.title",
+            "value": "Invocar Ovo"
+        },
+        {
+            "key": "ability.death_heal2.desc",
+            "value": "Quando esta criatura morre, você restaura 2 HP."
+        },
+        {
+            "key": "ability.death_heal2.title",
+            "value": "Cura"
+        },
+        {
+            "key": "ability.death_heal3.desc",
+            "value": "Quando esta criatura morre, você restaura 3 HP."
+        },
+        {
+            "key": "ability.death_heal3.title",
+            "value": "Cura"
+        },
+        {
+            "key": "ability.death_other_draw.desc",
+            "value": "Sempre que outro personagem morre, compre uma carta."
+        },
+        {
+            "key": "ability.death_other_draw.title",
+            "value": "Comer"
+        },
+        {
+            "key": "ability.death_other_draw2.desc",
+            "value": "Sempre que outro personagem morre, compre 2 cartas."
+        },
+        {
+            "key": "ability.death_other_draw2.title",
+            "value": "Comer"
+        },
+        {
+            "key": "ability.deathtouch.desc",
+            "value": "Mata qualquer criatura que danifique."
+        },
+        {
+            "key": "ability.deathtouch.title",
+            "value": "Toque Mortal"
+        },
+        {
+            "key": "ability.defend_discard.desc",
+            "value": "Quando atacado, o oponente deve descartar 1 carta aleatória."
+        },
+        {
+            "key": "ability.defend_discard.title",
+            "value": "Submerso"
+        },
+        {
+            "key": "ability.defense_attack3.desc",
+            "value": "Tem +3 de ataque durante o turno do oponente."
+        },
+        {
+            "key": "ability.defense_attack3.title",
+            "value": "Defesa"
+        },
+        {
+            "key": "ability.discard_add_attack1.desc",
+            "value": "Cada vez que o oponente é forçado a descartar, ganhe +1 de ataque."
+        },
+        {
+            "key": "ability.discard_add_attack1.title",
+            "value": "Ganho de Descarte"
+        },
+        {
+            "key": "ability.egg_growth.desc",
+            "value": "Após 3 turnos, transforma-se em uma Phyra."
+        },
+        {
+            "key": "ability.egg_growth.title",
+            "value": "Ovo"
+        },
+        {
+            "key": "ability.egg_transform.desc",
+            "value": "Após 3 turnos, transforma-se em uma Phyra."
+        },
+        {
+            "key": "ability.egg_transform.title",
+            "value": "Transformar Phyra"
+        },
+        {
+            "key": "ability.equip_armor2.desc",
+            "value": "O portador tem +2 de armadura."
+        },
+        {
+            "key": "ability.equip_armor2.title",
+            "value": "Armadura"
+        },
+        {
+            "key": "ability.equip_attack_no_damage.desc",
+            "value": "Ao atacar, o alvo não contra-ataca."
+        },
+        {
+            "key": "ability.equip_attack_no_damage.title",
+            "value": "Intimidação"
+        },
+        {
+            "key": "ability.equip_attack_use.desc",
+            "value": "Perde 1 de durabilidade após cada ataque."
+        },
+        {
+            "key": "ability.equip_attack_use.title",
+            "value": "Espada"
+        },
+        {
+            "key": "ability.equip_attack1.desc",
+            "value": "O portador tem +1 de ataque."
+        },
+        {
+            "key": "ability.equip_attack1.title",
+            "value": "Ataque"
+        },
+        {
+            "key": "ability.equip_attack2.desc",
+            "value": "O portador tem +2 de ataque."
+        },
+        {
+            "key": "ability.equip_attack2.title",
+            "value": "Ataque"
+        },
+        {
+            "key": "ability.equip_defend_use.desc",
+            "value": "Perde 1 de durabilidade quando atacado."
+        },
+        {
+            "key": "ability.equip_defend_use.title",
+            "value": "Escudo"
+        },
+        {
+            "key": "ability.equip_gain_mana.desc",
+            "value": "Ganhe 2 de mana extra por turno pelos próximos 3 turnos."
+        },
+        {
+            "key": "ability.equip_gain_mana.title",
+            "value": "Anel de Mana"
+        },
+        {
+            "key": "ability.equip_mana_kill.desc",
+            "value": "Quando o portador mata uma carta, ganhe 3 de mana."
+        },
+        {
+            "key": "ability.equip_mana_kill.title",
+            "value": "Anel de Mana"
+        },
+        {
+            "key": "ability.equip_reveal_opponent_hand.desc",
+            "value": "Ganhe 2 de mana extra por turno pelos próximos 3 turnos."
+        },
+        {
+            "key": "ability.equip_reveal_opponent_hand.title",
+            "value": "Anel de Mana"
+        },
+        {
+            "key": "ability.equip_taunt.desc",
+            "value": "O portador tem provocação."
+        },
+        {
+            "key": "ability.equip_taunt.title",
+            "value": "Provocação"
+        },
+        {
+            "key": "ability.equip_turn_use.desc",
+            "value": "Perde 1 de durabilidade após cada turno."
+        },
+        {
+            "key": "ability.flying.desc",
+            "value": "Pode ignorar a Provocação."
+        },
+        {
+            "key": "ability.flying.title",
+            "value": "Voo"
+        },
+        {
+            "key": "ability.fury.desc",
+            "value": "Pode atacar duas vezes por turno."
+        },
+        {
+            "key": "ability.fury.title",
+            "value": "Fúria"
+        },
+        {
+            "key": "ability.ghost.desc",
+            "value": "Não sofre dano ao atacar."
+        },
+        {
+            "key": "ability.ghost.title",
+            "value": "Fantasma"
+        },
+        {
+            "key": "ability.kill_draw2.desc",
+            "value": "Quando você mata outro personagem com esta criatura, compre 2 cartas."
+        },
+        {
+            "key": "ability.kill_draw2.title",
+            "value": "Comprar"
+        },
+        {
+            "key": "ability.lifesteal.desc",
+            "value": "Cura o jogador ao causar dano."
+        },
+        {
+            "key": "ability.lifesteal.title",
+            "value": "Roubo de Vida"
+        },
+        {
+            "key": "ability.location_mana_discount.desc",
+            "value": "Cartas de localização do mesmo tipo elemental têm desconto de 1 mana."
+        },
+        {
+            "key": "ability.location_mana_discount.title",
+            "value": "Aura de Localização"
+        },
+        {
+            "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
+            "value": "Tome controle de um personagem inimigo com 3 ou menos mana por 1 turno. O alvo ganha Carga."
+        },
+        {
+            "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_3_turns_3ml.desc",
+            "value": "Tome controle de um personagem inimigo por 1 turno e dê Carga"
+        },
+        {
+            "key": "ability.mind_control_ability_3_turns_3ml.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_any.desc",
+            "value": "Tome controle de um personagem inimigo por 3 turnos, ou até evoluir"
+        },
+        {
+            "key": "ability.mind_control_ability_any.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m2l.desc",
+            "value": "Tome controle de um personagem inimigo com custo de mana de 4 ou menos por 3 turnos, ou até evoluir"
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m2l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m3l.desc",
+            "value": "Tome controle de um personagem inimigo com custo de mana de 4 ou menos por 3 turnos, ou até evoluir"
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m3l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a3l.desc",
+            "value": "Tome controle de um personagem inimigo com 3 de ataque por 3 turnos, ou até evoluir ou sair do tabuleiro"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a3l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m2l.desc",
+            "value": "Tome controle de um personagem inimigo com custo de mana de 2 ou menos por 3 turnos, ou até evoluir / sair do jogo"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m2l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m3l.desc",
+            "value": "Tome controle de um personagem inimigo com custo de mana de 3 ou menos por 3 turnos, ou até evoluir / sair do jogo"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m3l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m4.desc",
+            "value": "Tome controle de um personagem inimigo com custo de mana de 4 por 3 turnos, ou até evoluir"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m4.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5+.desc",
+            "value": "Tome controle de um personagem inimigo com custo de mana de 5 ou mais por 3 turnos, ou até evoluir, ou esta carta sair do tabuleiro"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5+.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5l.desc",
+            "value": "Tome controle de um personagem inimigo com custo de mana de 5 ou mais por 3 turnos, ou até evoluir, ou esta carta sair do tabuleiro"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_m5l.desc",
+            "value": "Tome controle de um personagem inimigo com custo de mana de 5 ou menos por 3 turnos, ou até evoluir"
+        },
+        {
+            "key": "ability.mind_control_ability_m5l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.ongoing_cannot_attack.desc",
+            "value": "Este monstro não pode atacar alvos inimigos."
+        },
+        {
+            "key": "ability.ongoing_cannot_attack.title",
+            "value": "Sem Ataque"
+        },
+        {
+            "key": "ability.overkill.desc",
+            "value": "Dano excedente cura o atacante."
+        },
+        {
+            "key": "ability.overkill.title",
+            "value": "Sobrecarga"
+        },
+        {
+            "key": "ability.play_boost_hp_1.desc",
+            "value": "Ao jogar, dê +2 HP a outra criatura até o seu próximo turno."
+        },
+        {
+            "key": "ability.play_boost_hp_1.title",
+            "value": "Bênção de HP"
+        },
+        {
+            "key": "ability.play_boost2.desc",
+            "value": "Ao jogar, dê +2/+2 a outra criatura até o seu próximo turno."
+        },
+        {
+            "key": "ability.play_boost2.title",
+            "value": "Bênção"
+        },
+        {
+            "key": "ability.play_boost3.desc",
+            "value": "Ao jogar, dê +3/+3 a outra criatura por 3 turnos"
+        },
+        {
+            "key": "ability.play_boost3.title",
+            "value": "Bênção"
+        },
+        {
+            "key": "ability.shell.desc",
+            "value": "No primeiro acerto, não sofre dano."
+        },
+        {
+            "key": "ability.shell.title",
+            "value": "Concha"
+        },
+        {
+            "key": "ability.spell_add_attack_suffer.desc",
+            "value": "A criatura alvo ganha \"Sofra 3 de dano antes de atacar\"."
+        },
+        {
+            "key": "ability.spell_add_attack_suffer.title",
+            "value": "Maldição do Sofrimento"
+        },
+        {
+            "key": "ability.spell_add_play_extinct.desc",
+            "value": "A carta alvo ganha \"Quando uma criatura aliada entra em jogo, destrua esta carta\"."
+        },
+        {
+            "key": "ability.spell_add_play_extinct.title",
+            "value": "Extinto"
+        },
+        {
+            "key": "ability.spell_add_submerge.desc",
+            "value": "A carta alvo ganha \"Quando atacado, o oponente deve descartar 1 carta aleatória\"."
+        },
+        {
+            "key": "ability.spell_add_submerge.title",
+            "value": "Retorno"
+        },
+        {
+            "key": "ability.spell_ally_attack_2.desc",
+            "value": "Todos os personagens aliados ganham +2/+2"
+        },
+        {
+            "key": "ability.spell_ally_attack_2.title",
+            "value": "Crescimento"
+        },
+        {
+            "key": "ability.spell_ally_plant_attack_2.desc",
+            "value": "Todos os personagens aliados ganham +2/+2"
+        },
+        {
+            "key": "ability.spell_ally_plant_attack_2.title",
+            "value": "Crescimento"
+        },
+        {
+            "key": "ability.spell_armor2.desc",
+            "value": "O alvo ganha armadura 2, reduzindo dano direto de personagens em 2."
+        },
+        {
+            "key": "ability.spell_armor2.title",
+            "value": "Armadura +2"
+        },
+        {
+            "key": "ability.spell_attack1.desc",
+            "value": "O alvo ganha 1 de ataque."
+        },
+        {
+            "key": "ability.spell_attack1.title",
+            "value": "Ataque +1"
+        },
+        {
+            "key": "ability.spell_coin.desc",
+            "value": "Ganhe 1 de mana neste turno."
+        },
+        {
+            "key": "ability.spell_coin.title",
+            "value": "Moeda"
+        },
+        {
+            "key": "ability.spell_damage_per_hand.desc",
+            "value": "O HP de todos os personagens no tabuleiro é reduzido a 1."
+        },
+        {
+            "key": "ability.spell_damage_per_hand.title",
+            "value": "Inundação"
+        },
+        {
+            "key": "ability.spell_damage1.desc",
+            "value": "Causa 1 de dano."
+        },
+        {
+            "key": "ability.spell_damage1.title",
+            "value": "Dano"
+        },
+        {
+            "key": "ability.spell_damage3.desc",
+            "value": "Causa 3 de dano."
+        },
+        {
+            "key": "ability.spell_damage3.title",
+            "value": "Dano"
+        },
+        {
+            "key": "ability.spell_destroy.desc",
+            "value": "Destrua o personagem ou localização alvo."
+        },
+        {
+            "key": "ability.spell_destroy.title",
+            "value": "Destruir"
+        },
+        {
+            "key": "ability.spell_destroy_all.desc",
+            "value": "Destrua todas as criaturas no tabuleiro"
+        },
+        {
+            "key": "ability.spell_destroy_all.title",
+            "value": "Armagedom"
+        },
+        {
+            "key": "ability.spell_destroy_frozen_all.desc",
+            "value": "Destrua todas as cartas congeladas no tabuleiro"
+        },
+        {
+            "key": "ability.spell_destroy_frozen_all.title",
+            "value": "Onda Congelada"
+        },
+        {
+            "key": "ability.spell_destroy_locations.desc",
+            "value": "Destrua todas as localizações no tabuleiro"
+        },
+        {
+            "key": "ability.spell_destroy_locations.title",
+            "value": "Deslizamento de Terra"
+        },
+        {
+            "key": "ability.spell_dragon_summon.desc",
+            "value": "Selecione um dragão do seu baralho para invocá-lo na mão."
+        },
+        {
+            "key": "ability.spell_dragon_summon.title",
+            "value": "Descobrir Dragão"
+        },
+        {
+            "key": "ability.spell_draw1.desc",
+            "value": "Compre 1 carta."
+        },
+        {
+            "key": "ability.spell_draw1.title",
+            "value": "Comprar"
+        },
+        {
+            "key": "ability.spell_electric_ally.desc",
+            "value": "Veja as próximas 7 cartas do seu baralho e pegue 1 Monstro Elétrico na mão."
+        },
+        {
+            "key": "ability.spell_electric_ally.title",
+            "value": "Aliado Elétrico"
+        },
+        {
+            "key": "ability.spell_electric_attack_2.desc",
+            "value": "Todos os monstros Elétricos ganham +2 de ataque"
+        },
+        {
+            "key": "ability.spell_freeze.desc",
+            "value": "Congele o alvo por 1 turno."
+        },
+        {
+            "key": "ability.spell_freeze.title",
+            "value": "Congelar"
+        },
+        {
+            "key": "ability.spell_fury.desc",
+            "value": "O personagem alvo ganha Fúria. Pode atacar duas vezes por turno."
+        },
+        {
+            "key": "ability.spell_fury.title",
+            "value": "Fúria"
+        },
+        {
+            "key": "ability.spell_haste.desc",
+            "value": "O personagem alvo ganha Precipitação. Pode atacar imediatamente."
+        },
+        {
+            "key": "ability.spell_haste.title",
+            "value": "Precipitação"
+        },
+        {
+            "key": "ability.spell_heal_full.desc",
+            "value": "A carta alvo é completamente curada."
+        },
+        {
+            "key": "ability.spell_heal_full.title",
+            "value": "Cura"
+        },
+        {
+            "key": "ability.spell_hibernate.desc",
+            "value": "O personagem alvo ganha +4/+4 e adormece pelos próximos 2 turnos."
+        },
+        {
+            "key": "ability.spell_hibernate.title",
+            "value": "Hibernar"
+        },
+        {
+            "key": "ability.spell_hp2.desc",
+            "value": "O alvo ganha 2 HP."
+        },
+        {
+            "key": "ability.spell_hp2.title",
+            "value": "HP +2"
+        },
+        {
+            "key": "ability.spell_ice_treasure.desc",
+            "value": "Veja as próximas 7 cartas do seu baralho e pegue 1 carta de gelo na mão."
+        },
+        {
+            "key": "ability.spell_ice_treasure.title",
+            "value": "Tesouro de Gelo"
+        },
+        {
+            "key": "ability.spell_immunity.desc",
+            "value": "Não pode ser alvo ou danificado por cartas de feitiços."
+        },
+        {
+            "key": "ability.spell_immunity.title",
+            "value": "Imunidade a Feitiços"
+        },
+        {
+            "key": "ability.spell_kill_lowest_hp.desc",
+            "value": "Mate o personagem em jogo com o HP mais baixo (incluindo o seu)."
+        },
+        {
+            "key": "ability.spell_kill_lowest_hp.title",
+            "value": "Pisada"
+        },
+        {
+            "key": "ability.spell_paralyse.desc",
+            "value": "Paralise o personagem alvo por 3 turnos."
+        },
+        {
+            "key": "ability.spell_paralyse.title",
+            "value": "Paralisia"
+        },
+        {
+            "key": "ability.spell_projectile1_repeat.desc",
+            "value": "Causa 1 de dano a uma carta inimiga aleatória.\nRepita X vezes."
+        },
+        {
+            "key": "ability.spell_projectile1_repeat.title",
+            "value": "Projéteis"
+        },
+        {
+            "key": "ability.spell_return_all.desc",
+            "value": "Todas as cartas no tabuleiro retornam à mão do proprietário."
+        },
+        {
+            "key": "ability.spell_return_all.title",
+            "value": "Tempestade Marinha"
+        },
+        {
+            "key": "ability.spell_send_hand_any.desc",
+            "value": "Retorne qualquer alvo jogado à mão do proprietário."
+        },
+        {
+            "key": "ability.spell_send_hand_any.title",
+            "value": "Retorno à Mão Qualquer"
+        },
+        {
+            "key": "ability.spell_send_hand_any_then_discard.desc",
+            "value": "Retorne qualquer alvo jogado à mão do proprietário."
+        },
+        {
+            "key": "ability.spell_send_hand_any_then_discard.title",
+            "value": "Retorno à Mão Qualquer"
+        },
+        {
+            "key": "ability.spell_send_hand_enemy.desc",
+            "value": "Retorne o alvo à mão do proprietário."
+        },
+        {
+            "key": "ability.spell_send_hand_enemy.title",
+            "value": "Retorno à Mão"
+        },
+        {
+            "key": "ability.spell_set_hp_attack_1.desc",
+            "value": "O HP e ataque de todos os personagens no tabuleiro são reduzidos a 1."
+        },
+        {
+            "key": "ability.spell_set_hp_attack_1.title",
+            "value": "Inundação"
+        },
+        {
+            "key": "ability.spell_set_hp_attack_3.desc",
+            "value": "O HP e ataque de todos os personagens no tabuleiro são definidos em 1."
+        },
+        {
+            "key": "ability.spell_set_hp_attack_3.title",
+            "value": "Inundação"
+        },
+        {
+            "key": "ability.spell_shell.desc",
+            "value": "O alvo ganha concha, ignora dano no próximo acerto."
+        },
+        {
+            "key": "ability.spell_shell.title",
+            "value": "Concha"
+        },
+        {
+            "key": "ability.spell_summon_hammi.desc",
+            "value": "Invoque três Hammi na sua mão."
+        },
+        {
+            "key": "ability.spell_summon_hammi.title",
+            "value": "Golpe de Hammi"
+        },
+        {
+            "key": "ability.spell_summon_lampi.desc",
+            "value": "Invoque três Lampi 2/2 na sua mão."
+        },
+        {
+            "key": "ability.spell_summon_lampi.title",
+            "value": "Tempestade de Lampi"
+        },
+        {
+            "key": "ability.spell_summon_pyro.desc",
+            "value": "Invoque três Pyra 1/1 com habilidades de Ovo na sua mão."
+        },
+        {
+            "key": "ability.spell_summon_pyro.title",
+            "value": "Golpe Aéreo"
+        },
+        {
+            "key": "ability.spell_taunt.desc",
+            "value": "O personagem alvo ganha Provocação. Seus outros personagens não podem ser atacados."
+        },
+        {
+            "key": "ability.spell_taunt.title",
+            "value": "Provocação"
+        },
+        {
+            "key": "ability.spell_water_treasure.desc",
+            "value": "Veja as próximas 7 cartas do seu baralho e pegue 1 carta de água na mão."
+        },
+        {
+            "key": "ability.spell_water_treasure.title",
+            "value": "Tesouro de Água"
+        },
+        {
+            "key": "ability.stealth.desc",
+            "value": "Não pode ser alvo ou atacado até realizar uma ação."
+        },
+        {
+            "key": "ability.stealth.title",
+            "value": "Furtividade"
+        },
+        {
+            "key": "ability.taunt.desc",
+            "value": "Seus outros personagens não podem ser atacados."
+        },
+        {
+            "key": "ability.taunt.title",
+            "value": "Provocação"
+        },
+        {
+            "key": "ability.taunt_flying.desc",
+            "value": "Seus outros personagens são protegidos por monstros voadores."
+        },
+        {
+            "key": "ability.taunt_flying.title",
+            "value": "Alcance"
+        },
+        {
+            "key": "ability.town_aura_electric.desc",
+            "value": "Todos os monstros Elétricos custam 2 mana a menos (inclui inimigos)"
+        },
+        {
+            "key": "ability.town_aura_electric.title",
+            "value": "Aura Elétrica"
+        },
+        {
+            "key": "ability.town_aura_fire.desc",
+            "value": "Todas as criaturas aliadas de Fogo ganham +2 de ataque."
+        },
+        {
+            "key": "ability.town_aura_fire.title",
+            "value": "Aura de Fogo"
+        },
+        {
+            "key": "ability.town_aura_ice.desc",
+            "value": "Todas as criaturas aliadas de Gelo ganham +1 de ataque e HP."
+        },
+        {
+            "key": "ability.town_aura_ice.title",
+            "value": "Aura de Gelo"
+        },
+        {
+            "key": "ability.town_aura_plant.desc",
+            "value": "Todos os personagens aliados de Planta ganham +2 HP."
+        },
+        {
+            "key": "ability.town_aura_plant.title",
+            "value": "Aura de Planta"
+        },
+        {
+            "key": "ability.town_aura_psychic_change_control_discard.desc",
+            "value": "Quando você toma controle de um monstro oponente, o oponente descarta uma carta aleatória."
+        },
+        {
+            "key": "ability.town_aura_psychic_change_control_discard.title",
+            "value": "Aura Psíquica Descarte"
+        },
+        {
+            "key": "ability.town_aura_psychic_played_discard.desc",
+            "value": "Quando você joga um monstro psíquico, o oponente descarta uma carta aleatória."
+        },
+        {
+            "key": "ability.town_aura_psychic_played_discard.title",
+            "value": "Aura Psíquica Descarte"
+        },
+        {
+            "key": "ability.town_aura_rock.desc",
+            "value": "Todas as criaturas aliadas de Pedra ganham +2 HP."
+        },
+        {
+            "key": "ability.town_aura_rock.title",
+            "value": "Aura de Pedra"
+        },
+        {
+            "key": "ability.town_aura_shadow.desc",
+            "value": "Todos os personagens aliados de Sombra ganham +2 de ataque."
+        },
+        {
+            "key": "ability.town_aura_shadow.title",
+            "value": "Aura de Sombra"
+        },
+        {
+            "key": "ability.town_aura_water.desc",
+            "value": "Todas as cartas aliadas de Água custam 1 a menos."
+        },
+        {
+            "key": "ability.town_aura_water.title",
+            "value": "Aura Azul"
+        },
+        {
+            "key": "ability.town_mystic_woods_psychic.desc",
+            "value": "Todas as cartas aliadas Psíquicas custam 1 mana a menos."
+        },
+        {
+            "key": "ability.town_mystic_woods_psychic.title",
+            "value": "Aura Psíquica"
+        },
+        {
+            "key": "ability.trample.desc",
+            "value": "Dano excedente é causado ao HP do jogador."
+        },
+        {
+            "key": "ability.trample.title",
+            "value": "Arrombar"
+        },
+        {
+            "key": "ability.transform_to_discarded_card.desc",
+            "value": "Se o oponente descartar uma carta de personagem, este personagem se torna uma cópia daquela carta"
+        },
+        {
+            "key": "ability.transform_to_discarded_card.title",
+            "value": "Clone de Cemitério"
+        },
+        {
+            "key": "ability.trap_damage_all2.desc",
+            "value": "Quando uma criatura inimiga ataca, cause 2 de dano a todas as criaturas inimigas."
+        },
+        {
+            "key": "ability.trap_damage_all2.title",
+            "value": "Dano"
+        },
+        {
+            "key": "ability.trap_damage3.desc",
+            "value": "Causa 3 HP de dano ao atacante"
+        },
+        {
+            "key": "ability.trap_damage3.title",
+            "value": "Armadilha"
+        },
+        {
+            "key": "ability.trap_freeze.desc",
+            "value": "Após uma criatura inimiga atacar, congele-a por 1 turno."
+        },
+        {
+            "key": "ability.trap_freeze.title",
+            "value": "Congelado"
+        },
+        {
+            "key": "ability.trap_mind_control_taunt.desc",
+            "value": "Após uma criatura inimiga atacar, Controle Mental por 1 turno e conceda provocação"
+        },
+        {
+            "key": "ability.trap_mind_control_taunt.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.trap_paralyse3.desc",
+            "value": "Após uma criatura inimiga atacar, paralise-a por 3 turnos."
+        },
+        {
+            "key": "ability.trap_paralyse3.title",
+            "value": "Paralisia"
+        },
+        {
+            "key": "ability.trap_poison.desc",
+            "value": "Após uma criatura inimiga atacar, envenene-a"
+        },
+        {
+            "key": "ability.trap_poison.title",
+            "value": "Veneno"
+        },
+        {
+            "key": "ability.trap_shock.desc",
+            "value": "Após uma criatura inimiga atacar, paralise-a por choque por 1 turno."
+        },
+        {
+            "key": "ability.trap_shock.title",
+            "value": "Paralisado por Choque"
+        },
+        {
+            "key": "ability.turn_add_armor1.desc",
+            "value": "No início de cada turno, ganhe +1 de armadura."
+        },
+        {
+            "key": "ability.turn_add_armor1.title",
+            "value": "Armadura"
+        },
+        {
+            "key": "ability.turn_add_armor2.desc",
+            "value": "No início de cada turno, ganhe +2 de armadura."
+        },
+        {
+            "key": "ability.turn_add_armor2.title",
+            "value": "Armadura"
+        },
+        {
+            "key": "ability.turn_add_attack1.desc",
+            "value": "No início de cada turno, ganhe +1 de ataque."
+        },
+        {
+            "key": "ability.turn_add_attack1.title",
+            "value": "Furioso"
+        },
+        {
+            "key": "ability.turn_add_attack2.desc",
+            "value": "No início de cada turno, ganhe +2 de ataque."
+        },
+        {
+            "key": "ability.turn_add_attack2.title",
+            "value": "Furioso"
+        },
+        {
+            "key": "ability.turn_add_draw.desc",
+            "value": "No início de cada turno, compre 1 carta"
+        },
+        {
+            "key": "ability.turn_add_draw.title",
+            "value": "Explorador"
+        },
+        {
+            "key": "ability.turn_damage_allies1.desc",
+            "value": "No início de cada turno, cause 1 de dano a todos os personagens aliados"
+        },
+        {
+            "key": "ability.turn_damage_allies1.title",
+            "value": "Dano de Traição"
+        },
+        {
+            "key": "ability.turn_damage_allies2.desc",
+            "value": "No início de cada turno, cause 2 de dano a todos os personagens aliados"
+        },
+        {
+            "key": "ability.turn_damage_allies2.title",
+            "value": "Dano de Traição"
+        },
+        {
+            "key": "ability.turn_green_heal.desc",
+            "value": "No início de cada turno, todas as criaturas e localizações aliadas verdes curam 3."
+        },
+        {
+            "key": "ability.turn_green_heal.title",
+            "value": "Cura Verde"
+        },
+        {
+            "key": "ability.turn_kill_lowest.desc",
+            "value": "No início do seu turno, mate personagens em jogo com o ataque mais baixo (incluindo os seus)."
+        },
+        {
+            "key": "ability.turn_kill_lowest.title",
+            "value": "Ceifador"
+        },
+        {
+            "key": "ability.turn_own_discard2.desc",
+            "value": "O jogador descarta 2 cartas aleatórias da mão."
+        },
+        {
+            "key": "ability.turn_own_discard2.title",
+            "value": "Descarte"
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.desc",
+            "value": "No início de cada turno, todos os monstros de Sombra ganham +1 de ataque."
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.title",
+            "value": "Bônus de Sombra"
+        },
+        {
+            "key": "ability.turn_stealth.desc",
+            "value": "No final do seu turno, se você tiver pelo menos um outro personagem em jogo, entre em furtividade."
+        },
+        {
+            "key": "ability.turn_stealth.title",
+            "value": "Furtividade"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "HP bônus."
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "Bônus de HP"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "Custo de mana agora é +1"
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "Drenagem Mental"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "Adicionar Armadura"
+        },
+        {
+            "key": "status.armor.title",
+            "value": "Armadura"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "Protege o ataque do personagem de ser reduzido."
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "Imunidade à Perda de Ataque"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "Cada turno, perderá 2 HP."
+        },
+        {
+            "key": "status.burned.title",
+            "value": "Queimado"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "Não pode ser alvo de habilidades de personagens"
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "Imunidade a Habilidades"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "Cada turno, perderá ataque."
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "Amaldiçoado"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "Mata qualquer criatura que danifique."
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "Toque Mortal"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "Ignora Provocação."
+        },
+        {
+            "key": "status.flying.title",
+            "value": "Voo"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "Não pode realizar ações por 1 turno."
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "Congelado"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "Pode atacar duas vezes por turno"
+        },
+        {
+            "key": "status.fury.title",
+            "value": "Fúria"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "Ao atacar, o alvo não contra-ataca."
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "Intimidação"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "Não pode ser destruído."
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "Invencível"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "Cure-se ao causar dano."
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "Roubo de Vida"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "Dano excedente cura o atacante."
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "Sobrecarga"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "Não pode realizar ações."
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "Paralisado por Choque"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "Cada turno, perderá HP."
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "Envenenado"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "Não pode ser atacado. Protegido por Provocação."
+        },
+        {
+            "key": "status.protected.title",
+            "value": "Protegido"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "Protege outras cartas."
+        },
+        {
+            "key": "status.protection.title",
+            "value": "Provocação"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "Protege outras cartas de monstros voadores."
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "Alcance"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "No primeiro acerto, não sofre dano."
+        },
+        {
+            "key": "status.shell.title",
+            "value": "Concha"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "Não pode usar habilidades ou evoluir."
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "Silenciado"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "1 em 3 chance de acordar. Removido se atacado."
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "Sono"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "Não pode ser alvo ou danificado por cartas de feitiços"
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "Imunidade a Feitiços"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "Não pode ser alvo."
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "Furtividade"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "Dano extra é causado ao jogador."
+        },
+        {
+            "key": "status.trample.title",
+            "value": "Arrombar"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "Monstros com esta habilidade não ativam armadilhas."
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "Evasão de Armadilhas"
+        },
+        {
+            "key": "trait.cat.title",
+            "value": "Gato"
+        },
+        {
+            "key": "trait.dragon.title",
+            "value": "Dragão"
+        },
+        {
+            "key": "trait.evolution.title",
+            "value": "Evolução"
+        },
+        {
+            "key": "trait.fish.title",
+            "value": "Peixe"
+        },
+        {
+            "key": "trait.growth.title",
+            "value": "Crescimento"
+        },
+        {
+            "key": "trait.mind_control_counter.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "trait.mind_control_link.title",
+            "value": "Link de Controle Mental"
+        },
+        {
+            "key": "trait.reptile.title",
+            "value": "Répil"
+        },
+        {
+            "key": "trait.spell_damage.title",
+            "value": "Dano de Feitiço"
+        }
+    ]
+}
