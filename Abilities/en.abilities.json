@@ -9,11 +9,27 @@
             "value": "Ability Immunity"
         },
         {
+            "key": "ability.ability_swap_characters_3ml.desc",
+            "value": "Replace this character with an enemies' board character that a mana cost of 3 or less."
+        },
+        {
+            "key": "ability.ability_swap_characters_3ml.title",
+            "value": "Psychic Swap"
+        },
+        {
             "key": "ability.ability_swap_characters_4m.desc",
             "value": "Replace this character with an enemies' board character that a mana cost of 4."
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
+            "value": "Psychic Swap"
+        },
+        {
+            "key": "ability.ability_swap_characters_7ml.desc",
+            "value": "Replace this character with an enemies' board character that a mana cost of 7 or less."
+        },
+        {
+            "key": "ability.ability_swap_characters_7ml.title",
             "value": "Psychic Swap"
         },
         {
@@ -74,7 +90,7 @@
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "Target gains strength to attack (must be electric monster)"
+            "value": "Target gains haste (must be electric monster)"
         },
         {
             "key": "ability.activate_electric.title",
@@ -425,12 +441,28 @@
             "value": "Water Treasure"
         },
         {
+            "key": "ability.choice_ability_immunity.desc",
+            "value": "Cannot be targeted by character abilities"
+        },
+        {
+            "key": "ability.choice_ability_immunity.title",
+            "value": "Ability Immunity"
+        },
+        {
             "key": "ability.choice_fury.desc",
             "value": "Can attack twice per turn."
         },
         {
             "key": "ability.choice_fury.title",
             "value": "Fury"
+        },
+        {
+            "key": "ability.choice_spell_immunity.desc",
+            "value": "Cannot be targeted or damaged by spells cards."
+        },
+        {
+            "key": "ability.choice_spell_immunity.title",
+            "value": "Spell Immunity"
         },
         {
             "key": "ability.choice_taunt.desc",
@@ -661,6 +693,14 @@
             "value": "Ghost"
         },
         {
+            "key": "ability.haste.desc",
+            "value": "Can attack immediately."
+        },
+        {
+            "key": "ability.haste.title",
+            "value": "Haste"
+        },
+        {
             "key": "ability.kill_draw2.desc",
             "value": "When you kill another character with this creature, draw 2 cards."
         },
@@ -709,6 +749,14 @@
             "value": "Mind Control"
         },
         {
+            "key": "ability.mind_control_ability_any_spell.desc",
+            "value": "Take control of an enemy character for 3 turns, or until it evolves"
+        },
+        {
+            "key": "ability.mind_control_ability_any_spell.title",
+            "value": "Mind Control"
+        },
+        {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
             "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
         },
@@ -725,11 +773,27 @@
             "value": "Mind Control"
         },
         {
+            "key": "ability.mind_control_ability_leaves_a2l.desc",
+            "value": "Take control of an enemy character with 2 attack for 3 turns, or until it evolves or leaves the board"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a2l.title",
+            "value": "Mind Control"
+        },
+        {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
             "value": "Take control of an enemy character with 3 attack for 3 turns, or until it evolves or leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
+            "value": "Mind Control"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a5l.desc",
+            "value": "Take control of an enemy character with 5 attack for 2 turns, or until it evolves or leaves the board"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a5l.title",
             "value": "Mind Control"
         },
         {
@@ -827,6 +891,14 @@
         {
             "key": "ability.play_burn.title",
             "value": "Burn"
+        },
+        {
+            "key": "ability.play_choice_spell_ability_immunity.desc",
+            "value": "Gain Spell or Ability Immunity"
+        },
+        {
+            "key": "ability.play_choice_spell_ability_immunity.title",
+            "value": "Choice"
         },
         {
             "key": "ability.play_choice_taunt_fury.desc",
@@ -981,14 +1053,6 @@
             "value": "Slush Rush"
         },
         {
-            "key": "ability.play_haste.desc",
-            "value": "Can attack immediately."
-        },
-        {
-            "key": "ability.play_haste.title",
-            "value": "Haste"
-        },
-        {
             "key": "ability.play_heal_player2.desc",
             "value": "On play, heal the player for 4 HP"
         },
@@ -1114,6 +1178,14 @@
         },
         {
             "key": "ability.play_switch_sides_any.title",
+            "value": "Loyalty Swap"
+        },
+        {
+            "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
+            "value": "On play, select any character on the board and send them to the other player."
+        },
+        {
+            "key": "ability.play_switch_sides_any_add_ally_damage2.title",
             "value": "Loyalty Swap"
         },
         {
