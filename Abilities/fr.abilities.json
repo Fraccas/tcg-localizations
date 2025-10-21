@@ -9,11 +9,27 @@
       "value": "Immunité aux Capacités"
     },
     {
+      "key": "ability.ability_swap_characters_3ml.desc",
+      "value": "Remplace ce personnage par un personnage du plateau ennemi coûtant 3 mana ou moins."
+    },
+    {
+      "key": "ability.ability_swap_characters_3ml.title",
+      "value": "Échange Psychique"
+    },
+    {
       "key": "ability.ability_swap_characters_4m.desc",
       "value": "Remplace ce personnage par un personnage du plateau ennemi coûtant 4 mana."
     },
     {
       "key": "ability.ability_swap_characters_4m.title",
+      "value": "Échange Psychique"
+    },
+    {
+      "key": "ability.ability_swap_characters_7ml.desc",
+      "value": "Remplace ce personnage par un personnage du plateau ennemi coûtant 7 mana ou moins."
+    },
+    {
+      "key": "ability.ability_swap_characters_7ml.title",
       "value": "Échange Psychique"
     },
     {
@@ -425,12 +441,28 @@
       "value": "Trésor Eau"
     },
     {
+      "key": "ability.choice_ability_immunity.desc",
+      "value": "Ne peut pas être ciblé par les capacités des personnages."
+    },
+    {
+      "key": "ability.choice_ability_immunity.title",
+      "value": "Immunité aux Capacités"
+    },
+    {
       "key": "ability.choice_fury.desc",
       "value": "Peut attaquer deux fois par tour."
     },
     {
       "key": "ability.choice_fury.title",
       "value": "Furie"
+    },
+    {
+      "key": "ability.choice_spell_immunity.desc",
+      "value": "Ne peut pas être ciblé ni subir de dégâts des cartes de sort."
+    },
+    {
+      "key": "ability.choice_spell_immunity.title",
+      "value": "Immunité aux Sorts"
     },
     {
       "key": "ability.choice_taunt.desc",
@@ -661,6 +693,14 @@
       "value": "Fantôme"
     },
     {
+      "key": "ability.haste.desc",
+      "value": "Peut attaquer immédiatement."
+    },
+    {
+      "key": "ability.haste.title",
+      "value": "Hâte"
+    },
+    {
       "key": "ability.kill_draw2.desc",
       "value": "Quand tu tues un autre personnage avec cette créature, pioche 2 cartes."
     },
@@ -709,6 +749,14 @@
       "value": "Contrôle Mental"
     },
     {
+      "key": "ability.mind_control_ability_any_spell.desc",
+      "value": "Prend le contrôle d'un personnage ennemi pendant 3 tours, ou jusqu'à ce qu'il évolue."
+    },
+    {
+      "key": "ability.mind_control_ability_any_spell.title",
+      "value": "Contrôle Mental"
+    },
+    {
       "key": "ability.mind_control_ability_enemy_m2l.desc",
       "value": "Prend le contrôle d'un personnage ennemi coûtant 4 mana ou moins pour 3 tours, ou jusqu'à ce qu'il évolue"
     },
@@ -725,11 +773,27 @@
       "value": "Contrôle Mental"
     },
     {
+      "key": "ability.mind_control_ability_leaves_a2l.desc",
+      "value": "Prend le contrôle d'un personnage ennemi avec 2 d'attaque pendant 3 tours, ou jusqu'à ce qu'il évolue ou quitte le plateau."
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_a2l.title",
+      "value": "Contrôle Mental"
+    },
+    {
       "key": "ability.mind_control_ability_leaves_a3l.desc",
       "value": "Prend le contrôle d'un personnage ennemi avec 3 attaque pour 3 tours, ou jusqu'à ce qu'il évolue ou quitte le plateau"
     },
     {
       "key": "ability.mind_control_ability_leaves_a3l.title",
+      "value": "Contrôle Mental"
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_a5l.desc",
+      "value": "Prend le contrôle d'un personnage ennemi avec 5 d'attaque pendant 2 tours, ou jusqu'à ce qu'il évolue ou quitte le plateau."
+    },
+    {
+      "key": "ability.mind_control_ability_leaves_a5l.title",
       "value": "Contrôle Mental"
     },
     {
@@ -819,6 +883,382 @@
     {
       "key": "ability.play_boost3.title",
       "value": "Bénédiction"
+    },
+    {
+      "key": "ability.play_burn.desc",
+      "value": "Le personnage ciblé gagne Brûlure. Il perd 2 PV à chaque tour."
+    },
+    {
+      "key": "ability.play_burn.title",
+      "value": "Brûlure"
+    },
+    {
+      "key": "ability.play_choice_spell_ability_immunity.desc",
+      "value": "Gagne Immunité aux Sorts ou Immunité aux Capacités."
+    },
+    {
+      "key": "ability.play_choice_spell_ability_immunity.title",
+      "value": "Choix"
+    },
+    {
+      "key": "ability.play_choice_taunt_fury.desc",
+      "value": "Gagne Provocation ou Furie."
+    },
+    {
+      "key": "ability.play_choice_taunt_fury.title",
+      "value": "Choix"
+    },
+    {
+      "key": "ability.play_cure.desc",
+      "value": "À la mise en jeu, soigne un autre personnage de tous ses effets négatifs."
+    },
+    {
+      "key": "ability.play_cure.title",
+      "value": "Purification"
+    },
+    {
+      "key": "ability.play_cure_bless2.desc",
+      "value": "À la mise en jeu, soigne un autre personnage de tous ses effets négatifs et lui donne +2 PV."
+    },
+    {
+      "key": "ability.play_cure_bless2.title",
+      "value": "Bénédiction Purificatrice"
+    },
+    {
+      "key": "ability.play_curse.desc",
+      "value": "Le personnage ciblé est maudit. Il perd 1 attaque à chaque tour."
+    },
+    {
+      "key": "ability.play_curse.title",
+      "value": "Malédiction"
+    },
+    {
+      "key": "ability.play_curse_all.desc",
+      "value": "À la mise en jeu, maudit toutes les cartes en jeu."
+    },
+    {
+      "key": "ability.play_curse_all.title",
+      "value": "Malédiction Totale"
+    },
+    {
+      "key": "ability.play_damage_all1.desc",
+      "value": "À la mise en jeu, inflige 1 dégât à toutes les autres cartes."
+    },
+    {
+      "key": "ability.play_damage_all1.title",
+      "value": "Dégâts de Zone"
+    },
+    {
+      "key": "ability.play_damage_all2.desc",
+      "value": "À la mise en jeu, inflige 2 dégâts à toutes les autres cartes."
+    },
+    {
+      "key": "ability.play_damage_all2.title",
+      "value": "Dégâts"
+    },
+    {
+      "key": "ability.play_damage_electric_all2.desc",
+      "value": "À la mise en jeu, inflige 2 dégâts aux monstres ennemis."
+    },
+    {
+      "key": "ability.play_damage_electric_all2.title",
+      "value": "Dégâts Électriques"
+    },
+    {
+      "key": "ability.play_deal_damage1.desc",
+      "value": "À la mise en jeu, inflige 1 dégât à n'importe quelle cible."
+    },
+    {
+      "key": "ability.play_deal_damage1.title",
+      "value": "Dégât"
+    },
+    {
+      "key": "ability.play_deal_damage2.desc",
+      "value": "À la mise en jeu, inflige 2 dégâts à n'importe quelle cible."
+    },
+    {
+      "key": "ability.play_deal_damage2.title",
+      "value": "Dégât"
+    },
+    {
+      "key": "ability.play_destroy_less2.desc",
+      "value": "À la mise en jeu, détruit un personnage avec 2 d'attaque ou moins. Si tu le fais, pioche une carte."
+    },
+    {
+      "key": "ability.play_destroy_less2.title",
+      "value": "Assassin"
+    },
+    {
+      "key": "ability.play_destroy_less3.desc",
+      "value": "À la mise en jeu, détruit un personnage avec 3 d'attaque ou moins. Si tu le fais, pioche une carte."
+    },
+    {
+      "key": "ability.play_destroy_less3.title",
+      "value": "Assassin"
+    },
+    {
+      "key": "ability.play_destroy_less4.desc",
+      "value": "À la mise en jeu, détruit un personnage avec 3 d'attaque ou moins."
+    },
+    {
+      "key": "ability.play_destroy_less4.title",
+      "value": "Assassin"
+    },
+    {
+      "key": "ability.play_discard.desc",
+      "value": "L'adversaire défausse une carte aléatoire de sa main."
+    },
+    {
+      "key": "ability.play_discard.title",
+      "value": "Défausse"
+    },
+    {
+      "key": "ability.play_discard_draw.desc",
+      "value": "Défausse une carte aléatoire de la main du joueur puis pioche deux nouvelles cartes."
+    },
+    {
+      "key": "ability.play_discard_draw.title",
+      "value": "Pari"
+    },
+    {
+      "key": "ability.play_discard3.desc",
+      "value": "L'adversaire défausse 3 cartes aléatoires de sa main."
+    },
+    {
+      "key": "ability.play_discard3.title",
+      "value": "Défausse"
+    },
+    {
+      "key": "ability.play_enemy_discard.desc",
+      "value": "L'adversaire défausse une carte aléatoire de sa main."
+    },
+    {
+      "key": "ability.play_enemy_discard.title",
+      "value": "Défausse"
+    },
+    {
+      "key": "ability.play_freeze.desc",
+      "value": "Le personnage ciblé est gelé pendant 1 tour."
+    },
+    {
+      "key": "ability.play_freeze.title",
+      "value": "Gel"
+    },
+    {
+      "key": "ability.play_gain_rush_ice_location.desc",
+      "value": "Gagne Ruée si un lieu de glace est en jeu. La Ruée permet d'attaquer d'autres cartes le tour où elle est jouée."
+    },
+    {
+      "key": "ability.play_gain_rush_ice_location.title",
+      "value": "Ruée Verglacée"
+    },
+    {
+      "key": "ability.play_heal_player2.desc",
+      "value": "À la mise en jeu, soigne le joueur de 4 PV."
+    },
+    {
+      "key": "ability.play_heal_player2.title",
+      "value": "Bénédiction du Joueur"
+    },
+    {
+      "key": "ability.play_heal_player4.desc",
+      "value": "À la mise en jeu, soigne le joueur de 4 PV."
+    },
+    {
+      "key": "ability.play_heal_player4.title",
+      "value": "Bénédiction du Joueur"
+    },
+    {
+      "key": "ability.play_other_sacrifice.desc",
+      "value": "Quand une créature alliée arrive en jeu, détruis cette carte."
+    },
+    {
+      "key": "ability.play_other_sacrifice.title",
+      "value": "Extinction"
+    },
+    {
+      "key": "ability.play_poison.desc",
+      "value": "Le personnage ciblé est empoisonné. Il perd 1 PV à chaque tour."
+    },
+    {
+      "key": "ability.play_poison.title",
+      "value": "Poison"
+    },
+    {
+      "key": "ability.play_poison_all.desc",
+      "value": "À la mise en jeu, empoisonne toutes les cartes en jeu."
+    },
+    {
+      "key": "ability.play_poison_all.title",
+      "value": "Poison de Masse"
+    },
+    {
+      "key": "ability.play_roll_attack.desc",
+      "value": "Lance un D6 et augmente l'attaque de cette carte du résultat."
+    },
+    {
+      "key": "ability.play_roll_attack.title",
+      "value": "Attaque Aléatoire"
+    },
+    {
+      "key": "ability.play_select_discard.desc",
+      "value": "À la mise en jeu, renvoie un personnage de ton cimetière dans ta main."
+    },
+    {
+      "key": "ability.play_select_discard.title",
+      "value": "Excavation"
+    },
+    {
+      "key": "ability.play_set_attack1.desc",
+      "value": "À la mise en jeu, réduit l'attaque de la cible choisie à 1."
+    },
+    {
+      "key": "ability.play_set_attack1.title",
+      "value": "Électrisation"
+    },
+    {
+      "key": "ability.play_set_attack3.desc",
+      "value": "À la mise en jeu, fixe l'attaque de la cible choisie à 3."
+    },
+    {
+      "key": "ability.play_set_attack3.title",
+      "value": "Psychique"
+    },
+    {
+      "key": "ability.play_silence.desc",
+      "value": "Les capacités de la cible sont annulées."
+    },
+    {
+      "key": "ability.play_silence.title",
+      "value": "Silence"
+    },
+    {
+      "key": "ability.play_silence_curse.desc",
+      "value": "Les capacités de la cible sont annulées et le monstre est maudit."
+    },
+    {
+      "key": "ability.play_silence_curse.title",
+      "value": "Silence Maudit"
+    },
+    {
+      "key": "ability.play_suffer.desc",
+      "value": "La créature ciblée gagne « Subit 3 dégâts avant d'attaquer »."
+    },
+    {
+      "key": "ability.play_suffer.title",
+      "value": "Fracture du Sol"
+    },
+    {
+      "key": "ability.play_summon_cat.desc",
+      "value": "À la mise en jeu, invoque un chaton Jagur 1/1 sur une case adjacente vide."
+    },
+    {
+      "key": "ability.play_summon_cat.title",
+      "value": "Invocation de Jagur"
+    },
+    {
+      "key": "ability.play_summon_fractail.desc",
+      "value": "À la mise en jeu, invoque un bébé Lizo sur une case adjacente vide."
+    },
+    {
+      "key": "ability.play_summon_fractail.title",
+      "value": "Invocation de Lizo"
+    },
+    {
+      "key": "ability.play_switch_sides_2ml.desc",
+      "value": "À la mise en jeu, sélectionne un personnage coûtant 2 mana ou moins pour le faire changer de camp."
+    },
+    {
+      "key": "ability.play_switch_sides_2ml.title",
+      "value": "Échange de Loyauté"
+    },
+    {
+      "key": "ability.play_switch_sides_any.desc",
+      "value": "À la mise en jeu, sélectionne n'importe quel personnage du plateau et envoie-le chez l'autre joueur."
+    },
+    {
+      "key": "ability.play_switch_sides_any.title",
+      "value": "Échange de Loyauté"
+    },
+    {
+      "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
+      "value": "À la mise en jeu, sélectionne n'importe quel personnage du plateau et envoie-le chez l'autre joueur."
+    },
+    {
+      "key": "ability.play_switch_sides_any_add_ally_damage2.title",
+      "value": "Échange de Loyauté"
+    },
+    {
+      "key": "ability.play_switch_sides_give_ally_damage2.desc",
+      "value": "À la mise en jeu, sélectionne un personnage que tu contrôles et envoie-le chez l'autre joueur."
+    },
+    {
+      "key": "ability.play_switch_sides_give_ally_damage2.title",
+      "value": "Échange de Loyauté"
+    },
+    {
+      "key": "ability.play_switch_sides_give_discard_2.desc",
+      "value": "À la mise en jeu, sélectionne un personnage que tu contrôles et envoie-le chez l'autre joueur avec la capacité « Défausse 2 cartes de ta main à chaque tour »."
+    },
+    {
+      "key": "ability.play_switch_sides_give_discard_2.title",
+      "value": "Échange de Loyauté"
+    },
+    {
+      "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
+      "value": "À la mise en jeu, sélectionne un personnage que tu contrôles et envoie-le chez l'autre joueur avec la capacité « Défausse 2 cartes de ta main à chaque tour »."
+    },
+    {
+      "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
+      "value": "Échange de Loyauté"
+    },
+    {
+      "key": "ability.regen_all.desc",
+      "value": "Au début de ton tour, cette créature se soigne entièrement."
+    },
+    {
+      "key": "ability.regen_all.title",
+      "value": "Régénération"
+    },
+    {
+      "key": "ability.regen3.desc",
+      "value": "Au début de ton tour, soigne 3 PV."
+    },
+    {
+      "key": "ability.regen3.title",
+      "value": "Régénération"
+    },
+    {
+      "key": "ability.rush.desc",
+      "value": "Peut attaquer immédiatement, mais ne peut pas viser le joueur ennemi le tour où elle est jouée."
+    },
+    {
+      "key": "ability.rush.title",
+      "value": "Ruée"
+    },
+    {
+      "key": "ability.secret_return_hand.desc",
+      "value": "Quand la prochaine créature ennemie est jouée, renvoie-la dans la main de son propriétaire."
+    },
+    {
+      "key": "ability.secret_return_hand.title",
+      "value": "Télékinésie"
+    },
+    {
+      "key": "ability.secret_silence.desc",
+      "value": "Retire toutes les capacités du personnage piégé."
+    },
+    {
+      "key": "ability.secret_silence.title",
+      "value": "Silence"
+    },
+    {
+      "key": "ability.secret_transform_fish.desc",
+      "value": "Quand la prochaine créature ennemie est jouée, transforme-la en poisson 1/1."
+    },
+    {
+      "key": "ability.secret_transform_fish.title",
+      "value": "Transformation en Poisson"
     },
     {
       "key": "ability.shell.desc",
@@ -1261,7 +1701,7 @@
       "value": "Toutes les cartes alliées Psychiques coûtent 1 mana de moins."
     },
     {
-      "key": "ability.town_mystic_woods_psychique.title",
+      "key": "ability.town_mystic_woods_psychic.title",
       "value": "Aura Psychique"
     },
     {
