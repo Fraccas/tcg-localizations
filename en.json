@@ -2006,7 +2006,7 @@
         },
         {
             "key": "tip_heropower_electric",
-            "value": "Target gains Strength to attack (must be Electric monster)."
+            "value": "Target gains Haste (must be Electric monster)."
         },
         {
             "key": "tip_heropower_fire",
