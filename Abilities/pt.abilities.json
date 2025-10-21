@@ -9,11 +9,27 @@
             "value": "Imunidade a Habilidades"
         },
         {
+            "key": "ability.ability_swap_characters_3ml.desc",
+            "value": "Substitua este personagem por um personagem do tabuleiro inimigo com custo de mana de 3 ou menos."
+        },
+        {
+            "key": "ability.ability_swap_characters_3ml.title",
+            "value": "Troca Psíquica"
+        },
+        {
             "key": "ability.ability_swap_characters_4m.desc",
             "value": "Substitua este personagem por um personagem do tabuleiro inimigo com custo de mana de 4."
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
+            "value": "Troca Psíquica"
+        },
+        {
+            "key": "ability.ability_swap_characters_7ml.desc",
+            "value": "Substitua este personagem por um personagem do tabuleiro inimigo com custo de mana de 7 ou menos."
+        },
+        {
+            "key": "ability.ability_swap_characters_7ml.title",
             "value": "Troca Psíquica"
         },
         {
@@ -425,12 +441,28 @@
             "value": "Tesouro de Água"
         },
         {
+            "key": "ability.choice_ability_immunity.desc",
+            "value": "Não pode ser alvo de habilidades de personagens."
+        },
+        {
+            "key": "ability.choice_ability_immunity.title",
+            "value": "Imunidade a Habilidades"
+        },
+        {
             "key": "ability.choice_fury.desc",
             "value": "Pode atacar duas vezes por turno."
         },
         {
             "key": "ability.choice_fury.title",
             "value": "Fúria"
+        },
+        {
+            "key": "ability.choice_spell_immunity.desc",
+            "value": "Não pode ser alvo nem sofrer dano de cartas de feitiço."
+        },
+        {
+            "key": "ability.choice_spell_immunity.title",
+            "value": "Imunidade a Feitiços"
         },
         {
             "key": "ability.choice_taunt.desc",
@@ -661,6 +693,14 @@
             "value": "Fantasma"
         },
         {
+            "key": "ability.haste.desc",
+            "value": "Pode atacar imediatamente."
+        },
+        {
+            "key": "ability.haste.title",
+            "value": "Pressa"
+        },
+        {
             "key": "ability.kill_draw2.desc",
             "value": "Quando você mata outro personagem com esta criatura, compre 2 cartas."
         },
@@ -709,6 +749,14 @@
             "value": "Controle Mental"
         },
         {
+            "key": "ability.mind_control_ability_any_spell.desc",
+            "value": "Tome controle de um personagem inimigo por 3 turnos, ou até ele evoluir."
+        },
+        {
+            "key": "ability.mind_control_ability_any_spell.title",
+            "value": "Controle Mental"
+        },
+        {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
             "value": "Tome controle de um personagem inimigo com custo de mana de 4 ou menos por 3 turnos, ou até evoluir"
         },
@@ -725,11 +773,27 @@
             "value": "Controle Mental"
         },
         {
+            "key": "ability.mind_control_ability_leaves_a2l.desc",
+            "value": "Tome controle de um personagem inimigo com 2 de ataque por 3 turnos, ou até ele evoluir ou sair do tabuleiro."
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a2l.title",
+            "value": "Controle Mental"
+        },
+        {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
             "value": "Tome controle de um personagem inimigo com 3 de ataque por 3 turnos, ou até evoluir ou sair do tabuleiro"
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
+            "value": "Controle Mental"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a5l.desc",
+            "value": "Tome controle de um personagem inimigo com 5 de ataque por 2 turnos, ou até ele evoluir ou sair do tabuleiro."
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a5l.title",
             "value": "Controle Mental"
         },
         {
@@ -819,6 +883,382 @@
         {
             "key": "ability.play_boost3.title",
             "value": "Bênção"
+        },
+        {
+            "key": "ability.play_burn.desc",
+            "value": "O personagem alvo fica queimado. Ele perde 2 de HP a cada turno."
+        },
+        {
+            "key": "ability.play_burn.title",
+            "value": "Queimar"
+        },
+        {
+            "key": "ability.play_choice_spell_ability_immunity.desc",
+            "value": "Receba Imunidade a Feitiços ou a Habilidades."
+        },
+        {
+            "key": "ability.play_choice_spell_ability_immunity.title",
+            "value": "Escolha"
+        },
+        {
+            "key": "ability.play_choice_taunt_fury.desc",
+            "value": "Receba Provocação ou Fúria."
+        },
+        {
+            "key": "ability.play_choice_taunt_fury.title",
+            "value": "Escolha"
+        },
+        {
+            "key": "ability.play_cure.desc",
+            "value": "Ao entrar em jogo, cure outro personagem de todos os efeitos negativos."
+        },
+        {
+            "key": "ability.play_cure.title",
+            "value": "Cura"
+        },
+        {
+            "key": "ability.play_cure_bless2.desc",
+            "value": "Ao entrar em jogo, cure outro personagem de todos os efeitos negativos e conceda +2 de HP."
+        },
+        {
+            "key": "ability.play_cure_bless2.title",
+            "value": "Bênção Curativa"
+        },
+        {
+            "key": "ability.play_curse.desc",
+            "value": "O personagem alvo fica amaldiçoado. Ele perde 1 de ataque a cada turno."
+        },
+        {
+            "key": "ability.play_curse.title",
+            "value": "Amaldiçoar"
+        },
+        {
+            "key": "ability.play_curse_all.desc",
+            "value": "Ao entrar em jogo, amaldiçoe todas as cartas em jogo."
+        },
+        {
+            "key": "ability.play_curse_all.title",
+            "value": "Amaldiçoar Todos"
+        },
+        {
+            "key": "ability.play_damage_all1.desc",
+            "value": "Ao entrar em jogo, cause 1 de dano a todas as outras cartas."
+        },
+        {
+            "key": "ability.play_damage_all1.title",
+            "value": "Dano a Todos"
+        },
+        {
+            "key": "ability.play_damage_all2.desc",
+            "value": "Ao entrar em jogo, cause 2 de dano a todas as outras cartas."
+        },
+        {
+            "key": "ability.play_damage_all2.title",
+            "value": "Dano"
+        },
+        {
+            "key": "ability.play_damage_electric_all2.desc",
+            "value": "Ao entrar em jogo, cause 2 de dano aos monstros inimigos."
+        },
+        {
+            "key": "ability.play_damage_electric_all2.title",
+            "value": "Dano Elétrico"
+        },
+        {
+            "key": "ability.play_deal_damage1.desc",
+            "value": "Ao entrar em jogo, cause 1 de dano a qualquer alvo."
+        },
+        {
+            "key": "ability.play_deal_damage1.title",
+            "value": "Dano"
+        },
+        {
+            "key": "ability.play_deal_damage2.desc",
+            "value": "Ao entrar em jogo, cause 2 de dano a qualquer alvo."
+        },
+        {
+            "key": "ability.play_deal_damage2.title",
+            "value": "Dano"
+        },
+        {
+            "key": "ability.play_destroy_less2.desc",
+            "value": "Ao entrar em jogo, destrua um personagem com 2 ou menos de ataque. Se fizer isso, compre uma carta."
+        },
+        {
+            "key": "ability.play_destroy_less2.title",
+            "value": "Matador"
+        },
+        {
+            "key": "ability.play_destroy_less3.desc",
+            "value": "Ao entrar em jogo, destrua um personagem com 3 ou menos de ataque. Se fizer isso, compre uma carta."
+        },
+        {
+            "key": "ability.play_destroy_less3.title",
+            "value": "Matador"
+        },
+        {
+            "key": "ability.play_destroy_less4.desc",
+            "value": "Ao entrar em jogo, destrua um personagem com 3 ou menos de ataque."
+        },
+        {
+            "key": "ability.play_destroy_less4.title",
+            "value": "Matador"
+        },
+        {
+            "key": "ability.play_discard.desc",
+            "value": "O oponente descarta uma carta aleatória da mão."
+        },
+        {
+            "key": "ability.play_discard.title",
+            "value": "Descarte"
+        },
+        {
+            "key": "ability.play_discard_draw.desc",
+            "value": "Descarte uma carta aleatória da sua mão e compre duas novas cartas."
+        },
+        {
+            "key": "ability.play_discard_draw.title",
+            "value": "Aposta"
+        },
+        {
+            "key": "ability.play_discard3.desc",
+            "value": "O oponente descarta 3 cartas aleatórias da mão."
+        },
+        {
+            "key": "ability.play_discard3.title",
+            "value": "Descarte"
+        },
+        {
+            "key": "ability.play_enemy_discard.desc",
+            "value": "O oponente descarta uma carta aleatória da mão."
+        },
+        {
+            "key": "ability.play_enemy_discard.title",
+            "value": "Descarte"
+        },
+        {
+            "key": "ability.play_freeze.desc",
+            "value": "O personagem alvo fica congelado por 1 turno."
+        },
+        {
+            "key": "ability.play_freeze.title",
+            "value": "Congelar"
+        },
+        {
+            "key": "ability.play_gain_rush_ice_location.desc",
+            "value": "Receba Investida se uma localização de gelo estiver em jogo. Investida permite atacar outras cartas no mesmo turno em que é jogada."
+        },
+        {
+            "key": "ability.play_gain_rush_ice_location.title",
+            "value": "Investida Gelada"
+        },
+        {
+            "key": "ability.play_heal_player2.desc",
+            "value": "Ao entrar em jogo, cure o jogador em 4 de HP."
+        },
+        {
+            "key": "ability.play_heal_player2.title",
+            "value": "Bênção do Jogador"
+        },
+        {
+            "key": "ability.play_heal_player4.desc",
+            "value": "Ao entrar em jogo, cure o jogador em 4 de HP."
+        },
+        {
+            "key": "ability.play_heal_player4.title",
+            "value": "Bênção do Jogador"
+        },
+        {
+            "key": "ability.play_other_sacrifice.desc",
+            "value": "Quando uma criatura aliada entrar em jogo, destrua esta carta."
+        },
+        {
+            "key": "ability.play_other_sacrifice.title",
+            "value": "Extinção"
+        },
+        {
+            "key": "ability.play_poison.desc",
+            "value": "O personagem alvo fica envenenado. Ele perde 1 de HP a cada turno."
+        },
+        {
+            "key": "ability.play_poison.title",
+            "value": "Envenenar"
+        },
+        {
+            "key": "ability.play_poison_all.desc",
+            "value": "Ao entrar em jogo, envenene todas as cartas em jogo."
+        },
+        {
+            "key": "ability.play_poison_all.title",
+            "value": "Envenenar Todos"
+        },
+        {
+            "key": "ability.play_roll_attack.desc",
+            "value": "Role um D6 e aumente o ataque desta carta pelo resultado."
+        },
+        {
+            "key": "ability.play_roll_attack.title",
+            "value": "Ataque Aleatório"
+        },
+        {
+            "key": "ability.play_select_discard.desc",
+            "value": "Ao entrar em jogo, devolva um personagem do seu cemitério para a sua mão."
+        },
+        {
+            "key": "ability.play_select_discard.title",
+            "value": "Cavar"
+        },
+        {
+            "key": "ability.play_set_attack1.desc",
+            "value": "Ao entrar em jogo, reduza o ataque do alvo escolhido para 1."
+        },
+        {
+            "key": "ability.play_set_attack1.title",
+            "value": "Eletrificar"
+        },
+        {
+            "key": "ability.play_set_attack3.desc",
+            "value": "Ao entrar em jogo, defina o ataque do alvo escolhido como 3."
+        },
+        {
+            "key": "ability.play_set_attack3.title",
+            "value": "Psíquico"
+        },
+        {
+            "key": "ability.play_silence.desc",
+            "value": "As habilidades do alvo são canceladas."
+        },
+        {
+            "key": "ability.play_silence.title",
+            "value": "Silenciar"
+        },
+        {
+            "key": "ability.play_silence_curse.desc",
+            "value": "As habilidades do alvo são canceladas e o monstro é amaldiçoado."
+        },
+        {
+            "key": "ability.play_silence_curse.title",
+            "value": "Maldição Silenciosa"
+        },
+        {
+            "key": "ability.play_suffer.desc",
+            "value": "A criatura alvo recebe \"Sofra 3 de dano antes de atacar\"."
+        },
+        {
+            "key": "ability.play_suffer.title",
+            "value": "Fenda Terrestre"
+        },
+        {
+            "key": "ability.play_summon_cat.desc",
+            "value": "Ao entrar em jogo, convoque um filhote de Jagur 1/1 em um espaço vazio adjacente."
+        },
+        {
+            "key": "ability.play_summon_cat.title",
+            "value": "Invocar Jagur"
+        },
+        {
+            "key": "ability.play_summon_fractail.desc",
+            "value": "Ao entrar em jogo, convoque um bebê Lizo em um espaço vazio adjacente."
+        },
+        {
+            "key": "ability.play_summon_fractail.title",
+            "value": "Invocar Lizo"
+        },
+        {
+            "key": "ability.play_switch_sides_2ml.desc",
+            "value": "Ao entrar em jogo, selecione um personagem com custo de mana de 2 ou menos para trocar de lado."
+        },
+        {
+            "key": "ability.play_switch_sides_2ml.title",
+            "value": "Troca de Lealdade"
+        },
+        {
+            "key": "ability.play_switch_sides_any.desc",
+            "value": "Ao entrar em jogo, selecione qualquer personagem no tabuleiro e envie-o para o outro jogador."
+        },
+        {
+            "key": "ability.play_switch_sides_any.title",
+            "value": "Troca de Lealdade"
+        },
+        {
+            "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
+            "value": "Ao entrar em jogo, selecione qualquer personagem no tabuleiro e envie-o para o outro jogador."
+        },
+        {
+            "key": "ability.play_switch_sides_any_add_ally_damage2.title",
+            "value": "Troca de Lealdade"
+        },
+        {
+            "key": "ability.play_switch_sides_give_ally_damage2.desc",
+            "value": "Ao entrar em jogo, selecione um personagem sob seu controle e envie-o para o outro jogador."
+        },
+        {
+            "key": "ability.play_switch_sides_give_ally_damage2.title",
+            "value": "Troca de Lealdade"
+        },
+        {
+            "key": "ability.play_switch_sides_give_discard_2.desc",
+            "value": "Ao entrar em jogo, selecione um personagem sob seu controle e envie-o para o outro jogador com a habilidade de descartar 2 cartas da mão a cada turno."
+        },
+        {
+            "key": "ability.play_switch_sides_give_discard_2.title",
+            "value": "Troca de Lealdade"
+        },
+        {
+            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
+            "value": "Ao entrar em jogo, selecione um personagem sob seu controle e envie-o para o outro jogador com a habilidade de descartar 2 cartas da mão a cada turno."
+        },
+        {
+            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
+            "value": "Troca de Lealdade"
+        },
+        {
+            "key": "ability.regen_all.desc",
+            "value": "No início do seu turno, esta criatura se cura completamente."
+        },
+        {
+            "key": "ability.regen_all.title",
+            "value": "Regeneração"
+        },
+        {
+            "key": "ability.regen3.desc",
+            "value": "No início do seu turno, cure 3 de HP."
+        },
+        {
+            "key": "ability.regen3.title",
+            "value": "Regeneração"
+        },
+        {
+            "key": "ability.rush.desc",
+            "value": "Pode atacar imediatamente, mas não pode mirar no jogador inimigo no turno em que é jogado."
+        },
+        {
+            "key": "ability.rush.title",
+            "value": "Investida"
+        },
+        {
+            "key": "ability.secret_return_hand.desc",
+            "value": "Quando a próxima criatura inimiga for jogada, devolva-a para a mão."
+        },
+        {
+            "key": "ability.secret_return_hand.title",
+            "value": "Telecinese"
+        },
+        {
+            "key": "ability.secret_silence.desc",
+            "value": "Remova todas as habilidades do personagem aprisionado."
+        },
+        {
+            "key": "ability.secret_silence.title",
+            "value": "Silêncio"
+        },
+        {
+            "key": "ability.secret_transform_fish.desc",
+            "value": "Quando a próxima criatura inimiga for jogada, transforme-a em um peixe 1/1."
+        },
+        {
+            "key": "ability.secret_transform_fish.title",
+            "value": "Transformar em Peixe"
         },
         {
             "key": "ability.shell.desc",
