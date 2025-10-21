@@ -9,11 +9,27 @@
             "value": "能力耐性"
         },
         {
+            "key": "ability.ability_swap_characters_3ml.desc",
+            "value": "このキャラクターを、マナコスト3以下の敵のボード上のキャラクターと入れ替える"
+        },
+        {
+            "key": "ability.ability_swap_characters_3ml.title",
+            "value": "サイキックスワップ"
+        },
+        {
             "key": "ability.ability_swap_characters_4m.desc",
             "value": "このキャラクターを、マナコスト4の敵のボード上のキャラクターと入れ替える"
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
+            "value": "サイキックスワップ"
+        },
+        {
+            "key": "ability.ability_swap_characters_7ml.desc",
+            "value": "このキャラクターを、マナコスト7以下の敵のボード上のキャラクターと入れ替える"
+        },
+        {
+            "key": "ability.ability_swap_characters_7ml.title",
             "value": "サイキックスワップ"
         },
         {
@@ -425,12 +441,28 @@
             "value": "水の宝物"
         },
         {
+            "key": "ability.choice_ability_immunity.desc",
+            "value": "キャラクターの能力の対象にならない"
+        },
+        {
+            "key": "ability.choice_ability_immunity.title",
+            "value": "能力耐性"
+        },
+        {
             "key": "ability.choice_fury.desc",
             "value": "ターンに2回攻撃できる"
         },
         {
             "key": "ability.choice_fury.title",
             "value": "狂戦士"
+        },
+        {
+            "key": "ability.choice_spell_immunity.desc",
+            "value": "呪文カードの対象にならず、ダメージも受けない"
+        },
+        {
+            "key": "ability.choice_spell_immunity.title",
+            "value": "呪文耐性"
         },
         {
             "key": "ability.choice_taunt.desc",
@@ -661,6 +693,14 @@
             "value": "幽霊"
         },
         {
+            "key": "ability.haste.desc",
+            "value": "すぐに攻撃できる"
+        },
+        {
+            "key": "ability.haste.title",
+            "value": "ヘイスト"
+        },
+        {
             "key": "ability.kill_draw2.desc",
             "value": "このクリーチャーで他のキャラクターを殺すと2枚引く"
         },
@@ -709,6 +749,14 @@
             "value": "マインドコントロール"
         },
         {
+            "key": "ability.mind_control_ability_any_spell.desc",
+            "value": "敵キャラクターを3ターンの間、または進化するまで支配する"
+        },
+        {
+            "key": "ability.mind_control_ability_any_spell.title",
+            "value": "マインドコントロール"
+        },
+        {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
             "value": "4マナ以下の敵キャラクターを3ターン制御、または進化するまで"
         },
@@ -725,11 +773,27 @@
             "value": "マインドコントロール"
         },
         {
+            "key": "ability.mind_control_ability_leaves_a2l.desc",
+            "value": "攻撃力2の敵キャラクターを3ターンの間、または進化するかボードを離れるまで支配する"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a2l.title",
+            "value": "マインドコントロール"
+        },
+        {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
             "value": "3攻撃の敵キャラクターを3ターン制御、または進化/ボード離脱するまで"
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
+            "value": "マインドコントロール"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a5l.desc",
+            "value": "攻撃力5の敵キャラクターを2ターンの間、または進化するかボードを離れるまで支配する"
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a5l.title",
             "value": "マインドコントロール"
         },
         {
@@ -819,6 +883,382 @@
         {
             "key": "ability.play_boost3.title",
             "value": "祝福"
+        },
+        {
+            "key": "ability.play_burn.desc",
+            "value": "対象のキャラクターに火傷を付与し、毎ターンHPを2失わせる"
+        },
+        {
+            "key": "ability.play_burn.title",
+            "value": "火傷"
+        },
+        {
+            "key": "ability.play_choice_spell_ability_immunity.desc",
+            "value": "呪文耐性または能力耐性を得る"
+        },
+        {
+            "key": "ability.play_choice_spell_ability_immunity.title",
+            "value": "選択"
+        },
+        {
+            "key": "ability.play_choice_taunt_fury.desc",
+            "value": "挑発または狂戦士を得る"
+        },
+        {
+            "key": "ability.play_choice_taunt_fury.title",
+            "value": "選択"
+        },
+        {
+            "key": "ability.play_cure.desc",
+            "value": "プレイ時、他のキャラクターの負の状態異常をすべて回復する"
+        },
+        {
+            "key": "ability.play_cure.title",
+            "value": "浄化"
+        },
+        {
+            "key": "ability.play_cure_bless2.desc",
+            "value": "プレイ時、他のキャラクターの負の状態異常をすべて回復し、HP+2を付与する"
+        },
+        {
+            "key": "ability.play_cure_bless2.title",
+            "value": "浄化の祝福"
+        },
+        {
+            "key": "ability.play_curse.desc",
+            "value": "対象のキャラクターに呪いを付与し、毎ターン攻撃力を1失わせる"
+        },
+        {
+            "key": "ability.play_curse.title",
+            "value": "呪い"
+        },
+        {
+            "key": "ability.play_curse_all.desc",
+            "value": "プレイ時、場のカードすべてを呪う"
+        },
+        {
+            "key": "ability.play_curse_all.title",
+            "value": "全体呪い"
+        },
+        {
+            "key": "ability.play_damage_all1.desc",
+            "value": "プレイ時、他のカードすべてに1ダメージを与える"
+        },
+        {
+            "key": "ability.play_damage_all1.title",
+            "value": "全体1ダメージ"
+        },
+        {
+            "key": "ability.play_damage_all2.desc",
+            "value": "プレイ時、他のカードすべてに2ダメージを与える"
+        },
+        {
+            "key": "ability.play_damage_all2.title",
+            "value": "全体2ダメージ"
+        },
+        {
+            "key": "ability.play_damage_electric_all2.desc",
+            "value": "プレイ時、敵モンスターに2ダメージを与える"
+        },
+        {
+            "key": "ability.play_damage_electric_all2.title",
+            "value": "電撃"
+        },
+        {
+            "key": "ability.play_deal_damage1.desc",
+            "value": "プレイ時、任意の対象に1ダメージを与える"
+        },
+        {
+            "key": "ability.play_deal_damage1.title",
+            "value": "1点ダメージ"
+        },
+        {
+            "key": "ability.play_deal_damage2.desc",
+            "value": "プレイ時、任意の対象に2ダメージを与える"
+        },
+        {
+            "key": "ability.play_deal_damage2.title",
+            "value": "2点ダメージ"
+        },
+        {
+            "key": "ability.play_destroy_less2.desc",
+            "value": "プレイ時、攻撃力2以下のキャラクターを破壊する。そうしたらカードを1枚引く"
+        },
+        {
+            "key": "ability.play_destroy_less2.title",
+            "value": "キラー"
+        },
+        {
+            "key": "ability.play_destroy_less3.desc",
+            "value": "プレイ時、攻撃力3以下のキャラクターを破壊する。そうしたらカードを1枚引く"
+        },
+        {
+            "key": "ability.play_destroy_less3.title",
+            "value": "キラー"
+        },
+        {
+            "key": "ability.play_destroy_less4.desc",
+            "value": "プレイ時、攻撃力3以下のキャラクターを破壊する"
+        },
+        {
+            "key": "ability.play_destroy_less4.title",
+            "value": "キラー"
+        },
+        {
+            "key": "ability.play_discard.desc",
+            "value": "相手は手札からランダムなカードを1枚捨てる"
+        },
+        {
+            "key": "ability.play_discard.title",
+            "value": "ディスカード"
+        },
+        {
+            "key": "ability.play_discard_draw.desc",
+            "value": "プレイ時、手札からランダムなカードを1枚捨て、新たに2枚引く"
+        },
+        {
+            "key": "ability.play_discard_draw.title",
+            "value": "ギャンブル"
+        },
+        {
+            "key": "ability.play_discard3.desc",
+            "value": "相手は手札からランダムなカードを3枚捨てる"
+        },
+        {
+            "key": "ability.play_discard3.title",
+            "value": "ディスカード"
+        },
+        {
+            "key": "ability.play_enemy_discard.desc",
+            "value": "相手は手札からランダムなカードを1枚捨てる"
+        },
+        {
+            "key": "ability.play_enemy_discard.title",
+            "value": "ディスカード"
+        },
+        {
+            "key": "ability.play_freeze.desc",
+            "value": "対象のキャラクターを1ターン凍結する"
+        },
+        {
+            "key": "ability.play_freeze.title",
+            "value": "凍結"
+        },
+        {
+            "key": "ability.play_gain_rush_ice_location.desc",
+            "value": "氷のロケーションが場にあるならラッシュを得る。ラッシュはプレイしたターンに他のカードを攻撃できる"
+        },
+        {
+            "key": "ability.play_gain_rush_ice_location.title",
+            "value": "スラッシュラッシュ"
+        },
+        {
+            "key": "ability.play_heal_player2.desc",
+            "value": "プレイ時、プレイヤーを4HP回復する"
+        },
+        {
+            "key": "ability.play_heal_player2.title",
+            "value": "プレイヤー祝福"
+        },
+        {
+            "key": "ability.play_heal_player4.desc",
+            "value": "プレイ時、プレイヤーを4HP回復する"
+        },
+        {
+            "key": "ability.play_heal_player4.title",
+            "value": "プレイヤー祝福"
+        },
+        {
+            "key": "ability.play_other_sacrifice.desc",
+            "value": "味方クリーチャーが場に出ると、このカードを破壊する"
+        },
+        {
+            "key": "ability.play_other_sacrifice.title",
+            "value": "絶滅"
+        },
+        {
+            "key": "ability.play_poison.desc",
+            "value": "対象のキャラクターに毒を付与し、毎ターンHPを1失わせる"
+        },
+        {
+            "key": "ability.play_poison.title",
+            "value": "毒"
+        },
+        {
+            "key": "ability.play_poison_all.desc",
+            "value": "プレイ時、場のカードすべてを毒状態にする"
+        },
+        {
+            "key": "ability.play_poison_all.title",
+            "value": "全体毒"
+        },
+        {
+            "key": "ability.play_roll_attack.desc",
+            "value": "D6を振り、その出目分だけこのカードの攻撃力を上げる"
+        },
+        {
+            "key": "ability.play_roll_attack.title",
+            "value": "ランダム攻撃"
+        },
+        {
+            "key": "ability.play_select_discard.desc",
+            "value": "プレイ時、墓地のキャラクターカードを1枚手札に戻す"
+        },
+        {
+            "key": "ability.play_select_discard.title",
+            "value": "発掘"
+        },
+        {
+            "key": "ability.play_set_attack1.desc",
+            "value": "プレイ時、選択した対象の攻撃力を1に下げる"
+        },
+        {
+            "key": "ability.play_set_attack1.title",
+            "value": "感電"
+        },
+        {
+            "key": "ability.play_set_attack3.desc",
+            "value": "プレイ時、選択した対象の攻撃力を3に設定する"
+        },
+        {
+            "key": "ability.play_set_attack3.title",
+            "value": "サイキック"
+        },
+        {
+            "key": "ability.play_silence.desc",
+            "value": "対象の能力を無効化する"
+        },
+        {
+            "key": "ability.play_silence.title",
+            "value": "沈黙"
+        },
+        {
+            "key": "ability.play_silence_curse.desc",
+            "value": "対象の能力を無効化し、そのモンスターに呪いを付与する"
+        },
+        {
+            "key": "ability.play_silence_curse.title",
+            "value": "沈黙の呪い"
+        },
+        {
+            "key": "ability.play_suffer.desc",
+            "value": "対象のクリーチャーに「攻撃前に3ダメージを受ける」を付与する"
+        },
+        {
+            "key": "ability.play_suffer.title",
+            "value": "地割れ"
+        },
+        {
+            "key": "ability.play_summon_cat.desc",
+            "value": "プレイ時、隣接する空きマスに1/1のジャガーの子猫を召喚する"
+        },
+        {
+            "key": "ability.play_summon_cat.title",
+            "value": "ジャガー召喚"
+        },
+        {
+            "key": "ability.play_summon_fractail.desc",
+            "value": "プレイ時、隣接する空きマスにベビーリゾを召喚する"
+        },
+        {
+            "key": "ability.play_summon_fractail.title",
+            "value": "リゾ召喚"
+        },
+        {
+            "key": "ability.play_switch_sides_2ml.desc",
+            "value": "プレイ時、マナコスト2以下の対象キャラクターを選び、陣営を入れ替える"
+        },
+        {
+            "key": "ability.play_switch_sides_2ml.title",
+            "value": "忠誠交換"
+        },
+        {
+            "key": "ability.play_switch_sides_any.desc",
+            "value": "プレイ時、ボード上の任意のキャラクターを選び、相手側に送る"
+        },
+        {
+            "key": "ability.play_switch_sides_any.title",
+            "value": "忠誠交換"
+        },
+        {
+            "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
+            "value": "プレイ時、ボード上の任意のキャラクターを選び、相手側に送る"
+        },
+        {
+            "key": "ability.play_switch_sides_any_add_ally_damage2.title",
+            "value": "忠誠交換"
+        },
+        {
+            "key": "ability.play_switch_sides_give_ally_damage2.desc",
+            "value": "プレイ時、自分のキャラクターを選び、相手側に送る"
+        },
+        {
+            "key": "ability.play_switch_sides_give_ally_damage2.title",
+            "value": "忠誠交換"
+        },
+        {
+            "key": "ability.play_switch_sides_give_discard_2.desc",
+            "value": "プレイ時、自分のキャラクターを選び、毎ターン手札を2枚捨てる能力を持たせて相手に渡す"
+        },
+        {
+            "key": "ability.play_switch_sides_give_discard_2.title",
+            "value": "忠誠交換"
+        },
+        {
+            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
+            "value": "プレイ時、自分のキャラクターを選び、毎ターン手札を2枚捨てる能力を持たせて相手に渡す"
+        },
+        {
+            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
+            "value": "忠誠交換"
+        },
+        {
+            "key": "ability.regen_all.desc",
+            "value": "ターン開始時、このクリーチャーは完全に回復する"
+        },
+        {
+            "key": "ability.regen_all.title",
+            "value": "再生"
+        },
+        {
+            "key": "ability.regen3.desc",
+            "value": "ターン開始時、HPを3回復する"
+        },
+        {
+            "key": "ability.regen3.title",
+            "value": "再生"
+        },
+        {
+            "key": "ability.rush.desc",
+            "value": "プレイしたターンにすぐ攻撃できるが、このターンは敵プレイヤーを攻撃できない"
+        },
+        {
+            "key": "ability.rush.title",
+            "value": "ラッシュ"
+        },
+        {
+            "key": "ability.secret_return_hand.desc",
+            "value": "次に敵のクリーチャーがプレイされたとき、それを手札に戻す"
+        },
+        {
+            "key": "ability.secret_return_hand.title",
+            "value": "テレキネシス"
+        },
+        {
+            "key": "ability.secret_silence.desc",
+            "value": "罠にかかったキャラクターの能力をすべて取り除く"
+        },
+        {
+            "key": "ability.secret_silence.title",
+            "value": "沈黙"
+        },
+        {
+            "key": "ability.secret_transform_fish.desc",
+            "value": "次に敵のクリーチャーがプレイされたとき、それを1/1の魚に変化させる"
+        },
+        {
+            "key": "ability.secret_transform_fish.title",
+            "value": "魚変化"
         },
         {
             "key": "ability.shell.desc",
