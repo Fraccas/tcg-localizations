@@ -18,7 +18,7 @@
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "Replace this character with an enemies' board character that a mana cost of 4."
+            "value": "Replace this character with an enemies' board character that has a mana cost of 4."
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
@@ -158,7 +158,7 @@
         },
         {
             "key": "ability.activate_roll_send_hand.title",
-            "value": "Bounce"
+            "value": "Charge"
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
@@ -233,6 +233,14 @@
             "value": "Spell Damage"
         },
         {
+            "key": "ability.add_spell_damage4.desc",
+            "value": "All your spells and abilities deal +4 damage."
+        },
+        {
+            "key": "ability.add_spell_damage4.title",
+            "value": "Spell Damage"
+        },
+        {
             "key": "ability.after_spell_attack2.desc",
             "value": "After playing a spell, gain +2 attack."
         },
@@ -263,6 +271,22 @@
         {
             "key": "ability.attack_loss_immunity.title",
             "value": "Attack Loss Immunity"
+        },
+        {
+            "key": "ability.attack_mana1.desc",
+            "value": "After attacking gain 1 mana."
+        },
+        {
+            "key": "ability.attack_mana1.title",
+            "value": "Pillage"
+        },
+        {
+            "key": "ability.attack_mana2.desc",
+            "value": "After attacking gain 2 mana."
+        },
+        {
+            "key": "ability.attack_mana2.title",
+            "value": "Pillage"
         },
         {
             "key": "ability.attack_player_mana1.desc",
@@ -537,6 +561,14 @@
             "value": "Eat"
         },
         {
+            "key": "ability.death_summon_twii.desc",
+            "value": "When this creatures dies, summon a Twii."
+        },
+        {
+            "key": "ability.death_summon_twii.title",
+            "value": "Summon Twii"
+        },
+        {
             "key": "ability.deathtouch.desc",
             "value": "Kill any creature it damages."
         },
@@ -553,11 +585,27 @@
             "value": "Submerged"
         },
         {
+            "key": "ability.defend_draw1.desc",
+            "value": "When this character is attacked draw a card."
+        },
+        {
+            "key": "ability.defend_draw1.title",
+            "value": "Draw"
+        },
+        {
             "key": "ability.defense_attack3.desc",
             "value": "Has +3 attack during the opponent's turn."
         },
         {
             "key": "ability.defense_attack3.title",
+            "value": "Defense"
+        },
+        {
+            "key": "ability.defense_attack5.desc",
+            "value": "Has +3 attack during the opponent's turn."
+        },
+        {
+            "key": "ability.defense_attack5.title",
             "value": "Defense"
         },
         {
@@ -699,6 +747,14 @@
         {
             "key": "ability.haste.title",
             "value": "Haste"
+        },
+        {
+            "key": "ability.kill_draw1.desc",
+            "value": "When you kill another character with this creature, draw 1 card."
+        },
+        {
+            "key": "ability.kill_draw1.title",
+            "value": "Draw"
         },
         {
             "key": "ability.kill_draw2.desc",
@@ -877,6 +933,14 @@
             "value": "Bless"
         },
         {
+            "key": "ability.play_boost2_permanent.desc",
+            "value": "On play, give +2/2 to another creature until your next turn."
+        },
+        {
+            "key": "ability.play_boost2_permanent.title",
+            "value": "Bless"
+        },
+        {
             "key": "ability.play_boost3.desc",
             "value": "On play, give +3/3 to another creature for 3 turns"
         },
@@ -941,6 +1005,14 @@
             "value": "Curse All"
         },
         {
+            "key": "ability.play_damage_all_players2.desc",
+            "value": "On play, deal 2 damage to both players."
+        },
+        {
+            "key": "ability.play_damage_all_players2.title",
+            "value": "Damage"
+        },
+        {
             "key": "ability.play_damage_all1.desc",
             "value": "On play, deal 1 damage to all other cards."
         },
@@ -963,6 +1035,14 @@
         {
             "key": "ability.play_damage_electric_all2.title",
             "value": "Electric Damage"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.desc",
+            "value": "On play, deal 1 damage to any target."
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.title",
+            "value": "Damage"
         },
         {
             "key": "ability.play_deal_damage1.desc",
@@ -1029,6 +1109,14 @@
             "value": "Discard"
         },
         {
+            "key": "ability.play_draw.desc",
+            "value": "Draw a card"
+        },
+        {
+            "key": "ability.play_draw.title",
+            "value": "Draw"
+        },
+        {
             "key": "ability.play_enemy_discard.desc",
             "value": "Opponent discard a random card from their hand."
         },
@@ -1093,6 +1181,22 @@
             "value": "Poison All"
         },
         {
+            "key": "ability.play_poison_all_enemies.desc",
+            "value": "On play, poison all enemies in play."
+        },
+        {
+            "key": "ability.play_poison_all_enemies.title",
+            "value": "Poison Enemies"
+        },
+        {
+            "key": "ability.play_return_target_hand.desc",
+            "value": "Return any target to owner's hand."
+        },
+        {
+            "key": "ability.play_return_target_hand.title",
+            "value": "Bounce"
+        },
+        {
             "key": "ability.play_roll_attack.desc",
             "value": "Roll a D6, increase this card's attack by the result."
         },
@@ -1101,11 +1205,19 @@
             "value": "Random Attack."
         },
         {
-            "key": "ability.play_select_discard.desc",
+            "key": "ability.play_select_discard_any.desc",
+            "value": "On play, return a card from your graveyard to your hand."
+        },
+        {
+            "key": "ability.play_select_discard_any.title",
+            "value": "Deep Dig"
+        },
+        {
+            "key": "ability.play_select_discard_character.desc",
             "value": "On play, return a character from your graveyard to your hand."
         },
         {
-            "key": "ability.play_select_discard.title",
+            "key": "ability.play_select_discard_character.title",
             "value": "Dig"
         },
         {
@@ -1163,6 +1275,14 @@
         {
             "key": "ability.play_summon_fractail.title",
             "value": "Summon Lizo"
+        },
+        {
+            "key": "ability.play_summon_hajiko.desc",
+            "value": "On death summon a Hajiko"
+        },
+        {
+            "key": "ability.play_summon_hajiko.title",
+            "value": "Summon Hajiko"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1333,6 +1453,14 @@
             "value": "Coin"
         },
         {
+            "key": "ability.spell_cure_2_2.desc",
+            "value": "Target gains +2/+2 permanently and cures any negative status effects."
+        },
+        {
+            "key": "ability.spell_cure_2_2.title",
+            "value": "Cure Boost"
+        },
+        {
             "key": "ability.spell_damage_per_hand.desc",
             "value": "The hp of all characters on the board is lowered to 1."
         },
@@ -1402,6 +1530,14 @@
         },
         {
             "key": "ability.spell_draw1.title",
+            "value": "Draw"
+        },
+        {
+            "key": "ability.spell_draw2.desc",
+            "value": "Draw 2 card."
+        },
+        {
+            "key": "ability.spell_draw2.title",
             "value": "Draw"
         },
         {
@@ -1721,6 +1857,14 @@
             "value": "Graveyard Clone"
         },
         {
+            "key": "ability.trap_all_damage1.desc",
+            "value": "Damage enemies for 1 HP"
+        },
+        {
+            "key": "ability.trap_all_damage1.title",
+            "value": "Damage Board"
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "When an enemy creature attacks, damage all enemy creatures by 2."
         },
@@ -1738,11 +1882,19 @@
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "After an enemy creature attacks, freeze it for 1 turns."
+            "value": "After an enemy creature attacks, freeze it for 2 turns."
         },
         {
             "key": "ability.trap_freeze.title",
             "value": "Frozen"
+        },
+        {
+            "key": "ability.trap_heal4.desc",
+            "value": "When an enemy attacks the player, heal 4 HP."
+        },
+        {
+            "key": "ability.trap_heal4.title",
+            "value": "Fortification"
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
@@ -1761,11 +1913,11 @@
             "value": "Paralysis"
         },
         {
-            "key": "ability.trap_poison.desc",
+            "key": "ability.trap_poison_all.desc",
             "value": "After an enemy creature attacks, poison it"
         },
         {
-            "key": "ability.trap_poison.title",
+            "key": "ability.trap_poison_all.title",
             "value": "Poison"
         },
         {
@@ -1774,6 +1926,14 @@
         },
         {
             "key": "ability.trap_shock.title",
+            "value": "Shock Paralyzed"
+        },
+        {
+            "key": "ability.trap_shock_all.desc",
+            "value": "After an enemy creature attacks, shock paralyze it for 1 turn."
+        },
+        {
+            "key": "ability.trap_shock_all.title",
             "value": "Shock Paralyzed"
         },
         {
