@@ -233,6 +233,14 @@
             "value": "Урон от заклинаний"
         },
         {
+            "key": "ability.add_spell_damage4.desc",
+            "value": "Все ваши заклинания и способности наносят +4 урона."
+        },
+        {
+            "key": "ability.add_spell_damage4.title",
+            "value": "Урон от заклинаний"
+        },
+        {
             "key": "ability.after_spell_attack2.desc",
             "value": "После игры заклинания получайте +2 атаки"
         },
@@ -263,6 +271,22 @@
         {
             "key": "ability.attack_loss_immunity.title",
             "value": "Иммунитет к потере атаки"
+        },
+        {
+            "key": "ability.attack_mana1.desc",
+            "value": "После атаки получите 1 ману."
+        },
+        {
+            "key": "ability.attack_mana1.title",
+            "value": "Грабеж"
+        },
+        {
+            "key": "ability.attack_mana2.desc",
+            "value": "После атаки получите 2 маны."
+        },
+        {
+            "key": "ability.attack_mana2.title",
+            "value": "Грабеж"
         },
         {
             "key": "ability.attack_player_mana1.desc",
@@ -537,6 +561,14 @@
             "value": "Пожирание"
         },
         {
+            "key": "ability.death_summon_twii.desc",
+            "value": "Когда это существо умирает, призовите Твии."
+        },
+        {
+            "key": "ability.death_summon_twii.title",
+            "value": "Призыв Твии"
+        },
+        {
             "key": "ability.deathtouch.desc",
             "value": "Убивает любое существо, которое повредил"
         },
@@ -553,11 +585,27 @@
             "value": "Погруженный"
         },
         {
+            "key": "ability.defend_draw1.desc",
+            "value": "Когда этого персонажа атакуют, возьмите карту."
+        },
+        {
+            "key": "ability.defend_draw1.title",
+            "value": "Взять"
+        },
+        {
             "key": "ability.defense_attack3.desc",
             "value": "Имеет +3 атаки во время хода противника"
         },
         {
             "key": "ability.defense_attack3.title",
+            "value": "Защита"
+        },
+        {
+            "key": "ability.defense_attack5.desc",
+            "value": "Получает +3 к атаке во время хода противника."
+        },
+        {
+            "key": "ability.defense_attack5.title",
             "value": "Защита"
         },
         {
@@ -699,6 +747,14 @@
         {
             "key": "ability.haste.title",
             "value": "Спешка"
+        },
+        {
+            "key": "ability.kill_draw1.desc",
+            "value": "Когда вы убиваете другого персонажа этим существом, возьмите 1 карту."
+        },
+        {
+            "key": "ability.kill_draw1.title",
+            "value": "Взять"
         },
         {
             "key": "ability.kill_draw2.desc",
@@ -877,6 +933,14 @@
             "value": "Благословение"
         },
         {
+            "key": "ability.play_boost2_permanent.desc",
+            "value": "При выходе на поле боя дарует другой сущности +2/+2 до вашего следующего хода."
+        },
+        {
+            "key": "ability.play_boost2_permanent.title",
+            "value": "Благословение"
+        },
+        {
             "key": "ability.play_boost3.desc",
             "value": "При игре дайте +3/+3 другому существу на 3 хода"
         },
@@ -941,6 +1005,14 @@
             "value": "Проклятие для всех"
         },
         {
+            "key": "ability.play_damage_all_players2.desc",
+            "value": "При выходе наносит 2 урона обоим игрокам."
+        },
+        {
+            "key": "ability.play_damage_all_players2.title",
+            "value": "Урон"
+        },
+        {
             "key": "ability.play_damage_all1.desc",
             "value": "При розыгрыше нанесите 1 урон всем остальным картам"
         },
@@ -963,6 +1035,14 @@
         {
             "key": "ability.play_damage_electric_all2.title",
             "value": "Электрический урон"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.desc",
+            "value": "При выходе наносит 1 урон любой цели."
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.title",
+            "value": "Урон"
         },
         {
             "key": "ability.play_deal_damage1.desc",
@@ -1029,6 +1109,14 @@
             "value": "Сброс"
         },
         {
+            "key": "ability.play_draw.desc",
+            "value": "Возьмите карту"
+        },
+        {
+            "key": "ability.play_draw.title",
+            "value": "Взять"
+        },
+        {
             "key": "ability.play_enemy_discard.desc",
             "value": "Противник сбрасывает случайную карту из своей руки"
         },
@@ -1093,6 +1181,22 @@
             "value": "Яд для всех"
         },
         {
+            "key": "ability.play_poison_all_enemies.desc",
+            "value": "При выходе отравляет всех врагов на поле."
+        },
+        {
+            "key": "ability.play_poison_all_enemies.title",
+            "value": "Отравить врагов"
+        },
+        {
+            "key": "ability.play_return_target_hand.desc",
+            "value": "Верните любую цель в руку владельца."
+        },
+        {
+            "key": "ability.play_return_target_hand.title",
+            "value": "Отскок"
+        },
+        {
             "key": "ability.play_roll_attack.desc",
             "value": "Бросьте D6 и увеличьте атаку этой карты на выпавший результат"
         },
@@ -1101,11 +1205,19 @@
             "value": "Случайная атака"
         },
         {
-            "key": "ability.play_select_discard.desc",
-            "value": "При розыгрыше верните персонажа из вашего кладбища в руку"
+            "key": "ability.play_select_discard_any.desc",
+            "value": "При выходе верните карту из вашего кладбища в руку."
         },
         {
-            "key": "ability.play_select_discard.title",
+            "key": "ability.play_select_discard_any.title",
+            "value": "Глубокая раскопка"
+        },
+        {
+            "key": "ability.play_select_discard_character.desc",
+            "value": "При выходе верните персонажа из вашего кладбища в руку."
+        },
+        {
+            "key": "ability.play_select_discard_character.title",
             "value": "Раскопки"
         },
         {
@@ -1163,6 +1275,14 @@
         {
             "key": "ability.play_summon_fractail.title",
             "value": "Призыв Лизо"
+        },
+        {
+            "key": "ability.play_summon_hajiko.desc",
+            "value": "При смерти призовите Хаджико."
+        },
+        {
+            "key": "ability.play_summon_hajiko.title",
+            "value": "Призыв Хаджико"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1333,6 +1453,14 @@
             "value": "Монета"
         },
         {
+            "key": "ability.spell_cure_2_2.desc",
+            "value": "Цель получает постоянные +2/+2 и избавляется от всех негативных эффектов."
+        },
+        {
+            "key": "ability.spell_cure_2_2.title",
+            "value": "Усиление исцеления"
+        },
+        {
             "key": "ability.spell_damage_per_hand.desc",
             "value": "HP всех персонажей на доске снижается до 1"
         },
@@ -1402,6 +1530,14 @@
         },
         {
             "key": "ability.spell_draw1.title",
+            "value": "Взять"
+        },
+        {
+            "key": "ability.spell_draw2.desc",
+            "value": "Возьмите 2 карты."
+        },
+        {
+            "key": "ability.spell_draw2.title",
             "value": "Взять"
         },
         {
@@ -1721,6 +1857,14 @@
             "value": "Клон кладбища"
         },
         {
+            "key": "ability.trap_all_damage1.desc",
+            "value": "Наносит врагам 1 урон."
+        },
+        {
+            "key": "ability.trap_all_damage1.title",
+            "value": "Урон по полю"
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Когда вражеское существо атакует, нанесите 2 урона всем вражеским существам"
         },
@@ -1738,11 +1882,19 @@
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "После атаки вражеского существа заморозьте его на 1 ход"
+            "value": "После атаки вражеского существа заморозьте его на 2 хода."
         },
         {
             "key": "ability.trap_freeze.title",
             "value": "Замороженный"
+        },
+        {
+            "key": "ability.trap_heal4.desc",
+            "value": "Когда враг атакует игрока, восстановите 4 ОЗ."
+        },
+        {
+            "key": "ability.trap_heal4.title",
+            "value": "Укрепление"
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
@@ -1761,11 +1913,11 @@
             "value": "Паралич"
         },
         {
-            "key": "ability.trap_poison.desc",
-            "value": "После атаки вражеского существа отравите его"
+            "key": "ability.trap_poison_all.desc",
+            "value": "После атаки вражеского существа отравите его."
         },
         {
-            "key": "ability.trap_poison.title",
+            "key": "ability.trap_poison_all.title",
             "value": "Яд"
         },
         {
@@ -1774,6 +1926,14 @@
         },
         {
             "key": "ability.trap_shock.title",
+            "value": "Шоковый паралич"
+        },
+        {
+            "key": "ability.trap_shock_all.desc",
+            "value": "После атаки вражеского существа шокируйте его на 1 ход."
+        },
+        {
+            "key": "ability.trap_shock_all.title",
             "value": "Шоковый паралич"
         },
         {
