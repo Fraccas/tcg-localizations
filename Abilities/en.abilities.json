@@ -158,7 +158,7 @@
         },
         {
             "key": "ability.activate_roll_send_hand.title",
-            "value": "Charge"
+            "value": "Bounce"
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
@@ -174,7 +174,7 @@
         },
         {
             "key": "ability.activate_send_hand.title",
-            "value": "Charge"
+            "value": "Bounce"
         },
         {
             "key": "ability.activate_shadow.desc",
