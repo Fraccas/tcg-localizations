@@ -233,6 +233,14 @@
             "value": "呪文ダメージ"
         },
         {
+            "key": "ability.add_spell_damage4.desc",
+            "value": "自分の呪文と能力が与えるダメージが+4される。"
+        },
+        {
+            "key": "ability.add_spell_damage4.title",
+            "value": "呪文ダメージ"
+        },
+        {
             "key": "ability.after_spell_attack2.desc",
             "value": "呪文をプレイした後、+2攻撃を得る"
         },
@@ -263,6 +271,22 @@
         {
             "key": "ability.attack_loss_immunity.title",
             "value": "攻撃減少耐性"
+        },
+        {
+            "key": "ability.attack_mana1.desc",
+            "value": "攻撃した後、マナを1得る。"
+        },
+        {
+            "key": "ability.attack_mana1.title",
+            "value": "略奪"
+        },
+        {
+            "key": "ability.attack_mana2.desc",
+            "value": "攻撃した後、マナを2得る。"
+        },
+        {
+            "key": "ability.attack_mana2.title",
+            "value": "略奪"
         },
         {
             "key": "ability.attack_player_mana1.desc",
@@ -537,6 +561,14 @@
             "value": "食べる"
         },
         {
+            "key": "ability.death_summon_twii.desc",
+            "value": "このクリーチャーが倒されたとき、トゥイーを召喚する。"
+        },
+        {
+            "key": "ability.death_summon_twii.title",
+            "value": "トゥイー召喚"
+        },
+        {
             "key": "ability.deathtouch.desc",
             "value": "ダメージを与えたクリーチャーを殺す"
         },
@@ -553,11 +585,27 @@
             "value": "潜水"
         },
         {
+            "key": "ability.defend_draw1.desc",
+            "value": "このキャラクターが攻撃されたとき、カードを1枚引く。"
+        },
+        {
+            "key": "ability.defend_draw1.title",
+            "value": "ドロー"
+        },
+        {
             "key": "ability.defense_attack3.desc",
             "value": "相手のターン中に+3攻撃"
         },
         {
             "key": "ability.defense_attack3.title",
+            "value": "防御"
+        },
+        {
+            "key": "ability.defense_attack5.desc",
+            "value": "相手のターンの間、攻撃力が+3される。"
+        },
+        {
+            "key": "ability.defense_attack5.title",
             "value": "防御"
         },
         {
@@ -699,6 +747,14 @@
         {
             "key": "ability.haste.title",
             "value": "ヘイスト"
+        },
+        {
+            "key": "ability.kill_draw1.desc",
+            "value": "このクリーチャーで別のキャラクターを倒したとき、カードを1枚引く。"
+        },
+        {
+            "key": "ability.kill_draw1.title",
+            "value": "ドロー"
         },
         {
             "key": "ability.kill_draw2.desc",
@@ -877,6 +933,14 @@
             "value": "祝福"
         },
         {
+            "key": "ability.play_boost2_permanent.desc",
+            "value": "プレイ時、次の自分のターンまで別のクリーチャーに+2/+2を与える。"
+        },
+        {
+            "key": "ability.play_boost2_permanent.title",
+            "value": "祝福"
+        },
+        {
             "key": "ability.play_boost3.desc",
             "value": "プレイ時、他のクリーチャーに3ターン+3/+3を与える"
         },
@@ -941,6 +1005,14 @@
             "value": "全体呪い"
         },
         {
+            "key": "ability.play_damage_all_players2.desc",
+            "value": "プレイ時、両方のプレイヤーに2ダメージを与える。"
+        },
+        {
+            "key": "ability.play_damage_all_players2.title",
+            "value": "ダメージ"
+        },
+        {
             "key": "ability.play_damage_all1.desc",
             "value": "プレイ時、他のカードすべてに1ダメージを与える"
         },
@@ -963,6 +1035,14 @@
         {
             "key": "ability.play_damage_electric_all2.title",
             "value": "電撃"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.desc",
+            "value": "プレイ時、任意の対象に1ダメージを与える。"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.title",
+            "value": "ダメージ"
         },
         {
             "key": "ability.play_deal_damage1.desc",
@@ -1029,6 +1109,14 @@
             "value": "ディスカード"
         },
         {
+            "key": "ability.play_draw.desc",
+            "value": "カードを1枚引く"
+        },
+        {
+            "key": "ability.play_draw.title",
+            "value": "ドロー"
+        },
+        {
             "key": "ability.play_enemy_discard.desc",
             "value": "相手は手札からランダムなカードを1枚捨てる"
         },
@@ -1093,6 +1181,22 @@
             "value": "全体毒"
         },
         {
+            "key": "ability.play_poison_all_enemies.desc",
+            "value": "プレイ時、場にいるすべての敵を毒状態にする。"
+        },
+        {
+            "key": "ability.play_poison_all_enemies.title",
+            "value": "敵を毒化"
+        },
+        {
+            "key": "ability.play_return_target_hand.desc",
+            "value": "任意の対象を持ち主の手札に戻す。"
+        },
+        {
+            "key": "ability.play_return_target_hand.title",
+            "value": "バウンス"
+        },
+        {
             "key": "ability.play_roll_attack.desc",
             "value": "D6を振り、その出目分だけこのカードの攻撃力を上げる"
         },
@@ -1101,11 +1205,19 @@
             "value": "ランダム攻撃"
         },
         {
-            "key": "ability.play_select_discard.desc",
-            "value": "プレイ時、墓地のキャラクターカードを1枚手札に戻す"
+            "key": "ability.play_select_discard_any.desc",
+            "value": "プレイ時、自分の墓地からカード1枚を手札に戻す。"
         },
         {
-            "key": "ability.play_select_discard.title",
+            "key": "ability.play_select_discard_any.title",
+            "value": "深掘り"
+        },
+        {
+            "key": "ability.play_select_discard_character.desc",
+            "value": "プレイ時、自分の墓地からキャラクターカード1枚を手札に戻す。"
+        },
+        {
+            "key": "ability.play_select_discard_character.title",
             "value": "発掘"
         },
         {
@@ -1163,6 +1275,14 @@
         {
             "key": "ability.play_summon_fractail.title",
             "value": "リゾ召喚"
+        },
+        {
+            "key": "ability.play_summon_hajiko.desc",
+            "value": "死亡時、ハジコを召喚する。"
+        },
+        {
+            "key": "ability.play_summon_hajiko.title",
+            "value": "ハジコ召喚"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1333,6 +1453,14 @@
             "value": "コイン"
         },
         {
+            "key": "ability.spell_cure_2_2.desc",
+            "value": "対象は永続的に+2/+2を得て、すべての悪い状態異常を回復する。"
+        },
+        {
+            "key": "ability.spell_cure_2_2.title",
+            "value": "治癒強化"
+        },
+        {
             "key": "ability.spell_damage_per_hand.desc",
             "value": "ボード上のすべてのキャラクターのHPを1に下げる"
         },
@@ -1402,6 +1530,14 @@
         },
         {
             "key": "ability.spell_draw1.title",
+            "value": "ドロー"
+        },
+        {
+            "key": "ability.spell_draw2.desc",
+            "value": "カードを2枚引く。"
+        },
+        {
+            "key": "ability.spell_draw2.title",
             "value": "ドロー"
         },
         {
@@ -1721,6 +1857,14 @@
             "value": "墓地クローン"
         },
         {
+            "key": "ability.trap_all_damage1.desc",
+            "value": "敵全体に1ダメージを与える。"
+        },
+        {
+            "key": "ability.trap_all_damage1.title",
+            "value": "全体ダメージ"
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "敵クリーチャーが攻撃すると、すべての敵クリーチャーに2ダメージ"
         },
@@ -1738,11 +1882,19 @@
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "敵クリーチャーが攻撃した後、1ターン凍らせる"
+            "value": "敵のクリーチャーが攻撃した後、それを2ターンの間凍結する。"
         },
         {
             "key": "ability.trap_freeze.title",
             "value": "凍結"
+        },
+        {
+            "key": "ability.trap_heal4.desc",
+            "value": "敵がプレイヤーを攻撃したとき、HPを4回復する。"
+        },
+        {
+            "key": "ability.trap_heal4.title",
+            "value": "要塞化"
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
@@ -1761,11 +1913,11 @@
             "value": "麻痺"
         },
         {
-            "key": "ability.trap_poison.desc",
-            "value": "敵クリーチャーが攻撃した後、毒を与える"
+            "key": "ability.trap_poison_all.desc",
+            "value": "敵のクリーチャーが攻撃した後、それに毒を与える。"
         },
         {
-            "key": "ability.trap_poison.title",
+            "key": "ability.trap_poison_all.title",
             "value": "毒"
         },
         {
@@ -1775,6 +1927,14 @@
         {
             "key": "ability.trap_shock.title",
             "value": "ショック麻痺"
+        },
+        {
+            "key": "ability.trap_shock_all.desc",
+            "value": "敵のクリーチャーが攻撃した後、それを1ターン感電麻痺させる。"
+        },
+        {
+            "key": "ability.trap_shock_all.title",
+            "value": "感電麻痺"
         },
         {
             "key": "ability.turn_add_armor1.desc",

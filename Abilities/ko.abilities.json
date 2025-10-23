@@ -233,6 +233,14 @@
             "value": "주문 피해"
         },
         {
+            "key": "ability.add_spell_damage4.desc",
+            "value": "모든 주문과 능력이 피해를 +4 줍니다."
+        },
+        {
+            "key": "ability.add_spell_damage4.title",
+            "value": "주문 피해"
+        },
+        {
             "key": "ability.after_spell_attack2.desc",
             "value": "주문을 플레이한 후 +2 공격력을 얻습니다"
         },
@@ -263,6 +271,22 @@
         {
             "key": "ability.attack_loss_immunity.title",
             "value": "공격력 손실 면역"
+        },
+        {
+            "key": "ability.attack_mana1.desc",
+            "value": "공격 후 마나를 1 얻습니다."
+        },
+        {
+            "key": "ability.attack_mana1.title",
+            "value": "약탈"
+        },
+        {
+            "key": "ability.attack_mana2.desc",
+            "value": "공격 후 마나를 2 얻습니다."
+        },
+        {
+            "key": "ability.attack_mana2.title",
+            "value": "약탈"
         },
         {
             "key": "ability.attack_player_mana1.desc",
@@ -537,6 +561,14 @@
             "value": "먹기"
         },
         {
+            "key": "ability.death_summon_twii.desc",
+            "value": "이 생물이 죽으면 트위를 소환합니다."
+        },
+        {
+            "key": "ability.death_summon_twii.title",
+            "value": "트위 소환"
+        },
+        {
             "key": "ability.deathtouch.desc",
             "value": "피해를 준 생물을 죽입니다"
         },
@@ -553,11 +585,27 @@
             "value": "잠수"
         },
         {
+            "key": "ability.defend_draw1.desc",
+            "value": "이 캐릭터가 공격받으면 카드를 한 장 뽑습니다."
+        },
+        {
+            "key": "ability.defend_draw1.title",
+            "value": "드로우"
+        },
+        {
             "key": "ability.defense_attack3.desc",
             "value": "상대의 턴 동안 +3 공격력"
         },
         {
             "key": "ability.defense_attack3.title",
+            "value": "방어"
+        },
+        {
+            "key": "ability.defense_attack5.desc",
+            "value": "상대 턴 동안 공격력이 +3이 됩니다."
+        },
+        {
+            "key": "ability.defense_attack5.title",
             "value": "방어"
         },
         {
@@ -699,6 +747,14 @@
         {
             "key": "ability.haste.title",
             "value": "서두름"
+        },
+        {
+            "key": "ability.kill_draw1.desc",
+            "value": "이 생물로 다른 캐릭터를 처치하면 카드를 1장 뽑습니다."
+        },
+        {
+            "key": "ability.kill_draw1.title",
+            "value": "드로우"
         },
         {
             "key": "ability.kill_draw2.desc",
@@ -877,6 +933,14 @@
             "value": "축복"
         },
         {
+            "key": "ability.play_boost2_permanent.desc",
+            "value": "필드에 나올 때, 다음 내 턴까지 다른 생물에게 +2/+2를 부여합니다."
+        },
+        {
+            "key": "ability.play_boost2_permanent.title",
+            "value": "축복"
+        },
+        {
             "key": "ability.play_boost3.desc",
             "value": "플레이 시 다른 생물에게 3턴 동안 +3/+3를 줍니다"
         },
@@ -941,6 +1005,14 @@
             "value": "전체 저주"
         },
         {
+            "key": "ability.play_damage_all_players2.desc",
+            "value": "필드에 나올 때, 두 플레이어에게 각각 2 피해를 줍니다."
+        },
+        {
+            "key": "ability.play_damage_all_players2.title",
+            "value": "피해"
+        },
+        {
             "key": "ability.play_damage_all1.desc",
             "value": "플레이 시 다른 모든 카드에 1 피해를 줍니다"
         },
@@ -963,6 +1035,14 @@
         {
             "key": "ability.play_damage_electric_all2.title",
             "value": "전기 피해"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.desc",
+            "value": "필드에 나올 때, 임의의 대상에게 1 피해를 줍니다."
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.title",
+            "value": "피해"
         },
         {
             "key": "ability.play_deal_damage1.desc",
@@ -1029,6 +1109,14 @@
             "value": "버림"
         },
         {
+            "key": "ability.play_draw.desc",
+            "value": "카드를 한 장 뽑습니다"
+        },
+        {
+            "key": "ability.play_draw.title",
+            "value": "드로우"
+        },
+        {
             "key": "ability.play_enemy_discard.desc",
             "value": "상대가 손에서 무작위 카드 1장을 버립니다"
         },
@@ -1093,6 +1181,22 @@
             "value": "전체 독"
         },
         {
+            "key": "ability.play_poison_all_enemies.desc",
+            "value": "필드에 나올 때, 전장의 모든 적을 중독시킵니다."
+        },
+        {
+            "key": "ability.play_poison_all_enemies.title",
+            "value": "적 중독"
+        },
+        {
+            "key": "ability.play_return_target_hand.desc",
+            "value": "임의의 대상을 소유자의 손으로 되돌립니다."
+        },
+        {
+            "key": "ability.play_return_target_hand.title",
+            "value": "반환"
+        },
+        {
             "key": "ability.play_roll_attack.desc",
             "value": "D6을 굴려 나온 수만큼 이 카드의 공격력을 증가시킵니다"
         },
@@ -1101,11 +1205,19 @@
             "value": "무작위 공격"
         },
         {
-            "key": "ability.play_select_discard.desc",
-            "value": "플레이 시 무덤에 있는 캐릭터 카드를 손으로 되돌립니다"
+            "key": "ability.play_select_discard_any.desc",
+            "value": "필드에 나올 때, 묘지에서 카드 1장을 손으로 되돌립니다."
         },
         {
-            "key": "ability.play_select_discard.title",
+            "key": "ability.play_select_discard_any.title",
+            "value": "심층 발굴"
+        },
+        {
+            "key": "ability.play_select_discard_character.desc",
+            "value": "플레이 시 묘지에서 캐릭터 카드 1장을 손으로 되돌립니다."
+        },
+        {
+            "key": "ability.play_select_discard_character.title",
             "value": "발굴"
         },
         {
@@ -1163,6 +1275,14 @@
         {
             "key": "ability.play_summon_fractail.title",
             "value": "리조 소환"
+        },
+        {
+            "key": "ability.play_summon_hajiko.desc",
+            "value": "죽을 때 하지코를 소환합니다."
+        },
+        {
+            "key": "ability.play_summon_hajiko.title",
+            "value": "하지코 소환"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1333,6 +1453,14 @@
             "value": "코인"
         },
         {
+            "key": "ability.spell_cure_2_2.desc",
+            "value": "대상은 영구적으로 +2/+2를 얻고 모든 부정적인 상태 이상을 치료합니다."
+        },
+        {
+            "key": "ability.spell_cure_2_2.title",
+            "value": "치유 강화"
+        },
+        {
             "key": "ability.spell_damage_per_hand.desc",
             "value": "보드상의 모든 캐릭터의 HP를 1로 낮춤"
         },
@@ -1403,6 +1531,14 @@
         {
             "key": "ability.spell_draw1.title",
             "value": "뽑기"
+        },
+        {
+            "key": "ability.spell_draw2.desc",
+            "value": "카드를 2장 뽑습니다."
+        },
+        {
+            "key": "ability.spell_draw2.title",
+            "value": "드로우"
         },
         {
             "key": "ability.spell_electric_ally.desc",
@@ -1721,6 +1857,14 @@
             "value": "무덤 클론"
         },
         {
+            "key": "ability.trap_all_damage1.desc",
+            "value": "적에게 1의 피해를 줍니다."
+        },
+        {
+            "key": "ability.trap_all_damage1.title",
+            "value": "전장 피해"
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "적 생물이 공격할 때 모든 적 생물에게 2 피해"
         },
@@ -1738,11 +1882,19 @@
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "적 생물이 공격한 후 1턴 동안 얼립니다"
+            "value": "적 생물이 공격한 후, 그 생물을 2턴 동안 얼립니다."
         },
         {
             "key": "ability.trap_freeze.title",
             "value": "얼음"
+        },
+        {
+            "key": "ability.trap_heal4.desc",
+            "value": "적이 플레이어를 공격하면 생명력을 4 회복합니다."
+        },
+        {
+            "key": "ability.trap_heal4.title",
+            "value": "요새화"
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
@@ -1761,11 +1913,11 @@
             "value": "마비"
         },
         {
-            "key": "ability.trap_poison.desc",
-            "value": "적 생물이 공격한 후 독을 줍니다"
+            "key": "ability.trap_poison_all.desc",
+            "value": "적 생물이 공격한 후, 그 생물을 중독시킵니다."
         },
         {
-            "key": "ability.trap_poison.title",
+            "key": "ability.trap_poison_all.title",
             "value": "독"
         },
         {
@@ -1774,6 +1926,14 @@
         },
         {
             "key": "ability.trap_shock.title",
+            "value": "쇼크 마비"
+        },
+        {
+            "key": "ability.trap_shock_all.desc",
+            "value": "적 생물이 공격한 후, 그 생물을 1턴 동안 감전 마비시킵니다."
+        },
+        {
+            "key": "ability.trap_shock_all.title",
             "value": "쇼크 마비"
         },
         {

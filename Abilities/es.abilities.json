@@ -233,6 +233,14 @@
       "value": "Daño de Hechizo"
     },
     {
+      "key": "ability.add_spell_damage4.desc",
+      "value": "Todos tus hechizos y habilidades infligen +4 de daño."
+    },
+    {
+      "key": "ability.add_spell_damage4.title",
+      "value": "Daño de Hechizo"
+    },
+    {
       "key": "ability.after_spell_attack2.desc",
       "value": "Después de jugar un hechizo, gana +2 de ataque."
     },
@@ -263,6 +271,22 @@
     {
       "key": "ability.attack_loss_immunity.title",
       "value": "Inmunidad a Pérdida de Ataque"
+    },
+    {
+      "key": "ability.attack_mana1.desc",
+      "value": "Después de atacar gana 1 de maná."
+    },
+    {
+      "key": "ability.attack_mana1.title",
+      "value": "Saqueo"
+    },
+    {
+      "key": "ability.attack_mana2.desc",
+      "value": "Después de atacar gana 2 de maná."
+    },
+    {
+      "key": "ability.attack_mana2.title",
+      "value": "Saqueo"
     },
     {
       "key": "ability.attack_player_mana1.desc",
@@ -537,6 +561,14 @@
       "value": "Comer"
     },
     {
+      "key": "ability.death_summon_twii.desc",
+      "value": "Cuando esta criatura muere, invoca un Twii."
+    },
+    {
+      "key": "ability.death_summon_twii.title",
+      "value": "Invocar Twii"
+    },
+    {
       "key": "ability.deathtouch.desc",
       "value": "Mata a cualquier criatura que dañe."
     },
@@ -553,11 +585,27 @@
       "value": "Sumergido"
     },
     {
+      "key": "ability.defend_draw1.desc",
+      "value": "Cuando este personaje es atacado roba una carta."
+    },
+    {
+      "key": "ability.defend_draw1.title",
+      "value": "Robar"
+    },
+    {
       "key": "ability.defense_attack3.desc",
       "value": "Tiene +3 de ataque durante el turno del oponente."
     },
     {
       "key": "ability.defense_attack3.title",
+      "value": "Defensa"
+    },
+    {
+      "key": "ability.defense_attack5.desc",
+      "value": "Tiene +3 de ataque durante el turno del oponente."
+    },
+    {
+      "key": "ability.defense_attack5.title",
       "value": "Defensa"
     },
     {
@@ -699,6 +747,14 @@
     {
       "key": "ability.haste.title",
       "value": "Prisa"
+    },
+    {
+      "key": "ability.kill_draw1.desc",
+      "value": "Cuando mates a otro personaje con esta criatura, roba 1 carta."
+    },
+    {
+      "key": "ability.kill_draw1.title",
+      "value": "Robar"
     },
     {
       "key": "ability.kill_draw2.desc",
@@ -877,6 +933,14 @@
       "value": "Bendición"
     },
     {
+      "key": "ability.play_boost2_permanent.desc",
+      "value": "Al jugar, da +2/2 a otra criatura hasta tu próximo turno."
+    },
+    {
+      "key": "ability.play_boost2_permanent.title",
+      "value": "Bendición"
+    },
+    {
       "key": "ability.play_boost3.desc",
       "value": "Al jugar, da +3/3 a otra criatura por 3 turnos"
     },
@@ -941,6 +1005,14 @@
       "value": "Maldición All"
     },
     {
+      "key": "ability.play_damage_all_players2.desc",
+      "value": "Al jugar, inflige 2 de daño a ambos jugadores."
+    },
+    {
+      "key": "ability.play_damage_all_players2.title",
+      "value": "Daño"
+    },
+    {
       "key": "ability.play_damage_all1.desc",
       "value": "Al jugar, inflige 1 daño a todas otro cartas."
     },
@@ -963,6 +1035,14 @@
     {
       "key": "ability.play_damage_electric_all2.title",
       "value": "Eléctrico Daño"
+    },
+    {
+      "key": "ability.play_deal_damage_cards_players2.desc",
+      "value": "Al jugar, inflige 1 de daño a cualquier objetivo."
+    },
+    {
+      "key": "ability.play_deal_damage_cards_players2.title",
+      "value": "Daño"
     },
     {
       "key": "ability.play_deal_damage1.desc",
@@ -1029,6 +1109,14 @@
       "value": "Discarta"
     },
     {
+      "key": "ability.play_draw.desc",
+      "value": "Roba una carta."
+    },
+    {
+      "key": "ability.play_draw.title",
+      "value": "Robar"
+    },
+    {
       "key": "ability.play_enemy_discard.desc",
       "value": "Opponent discarta a random carta de su mano."
     },
@@ -1093,6 +1181,22 @@
       "value": "Veneno All"
     },
     {
+      "key": "ability.play_poison_all_enemies.desc",
+      "value": "Al jugar, envenena a todos los enemigos en juego."
+    },
+    {
+      "key": "ability.play_poison_all_enemies.title",
+      "value": "Envenenar Enemigos"
+    },
+    {
+      "key": "ability.play_return_target_hand.desc",
+      "value": "Regresa cualquier objetivo a la mano de su propietario."
+    },
+    {
+      "key": "ability.play_return_target_hand.title",
+      "value": "Rebote"
+    },
+    {
       "key": "ability.play_roll_attack.desc",
       "value": "Lanza 1d6, increase this carta's ataque por el resultado."
     },
@@ -1101,12 +1205,20 @@
       "value": "Ataque Aleatorio"
     },
     {
-      "key": "ability.play_select_discard.desc",
-      "value": "Al jugar, regresa a personaje de your graveyard a your mano."
+      "key": "ability.play_select_discard_any.desc",
+      "value": "Al jugar, regresa una carta de tu cementerio a tu mano."
     },
     {
-      "key": "ability.play_select_discard.title",
-      "value": "Dig"
+      "key": "ability.play_select_discard_any.title",
+      "value": "Excavación Profunda"
+    },
+    {
+      "key": "ability.play_select_discard_character.desc",
+      "value": "Al jugar, regresa un personaje de tu cementerio a tu mano."
+    },
+    {
+      "key": "ability.play_select_discard_character.title",
+      "value": "Excavar"
     },
     {
       "key": "ability.play_set_attack1.desc",
@@ -1163,6 +1275,14 @@
     {
       "key": "ability.play_summon_fractail.title",
       "value": "Invoca Lizo"
+    },
+    {
+      "key": "ability.play_summon_hajiko.desc",
+      "value": "Al morir, invoca un Hajiko."
+    },
+    {
+      "key": "ability.play_summon_hajiko.title",
+      "value": "Invocar Hajiko"
     },
     {
       "key": "ability.play_switch_sides_2ml.desc",
@@ -1333,6 +1453,14 @@
       "value": "Moneda"
     },
     {
+      "key": "ability.spell_cure_2_2.desc",
+      "value": "El objetivo obtiene +2/+2 permanentemente y elimina cualquier efecto negativo."
+    },
+    {
+      "key": "ability.spell_cure_2_2.title",
+      "value": "Impulso de Cura"
+    },
+    {
       "key": "ability.spell_damage_per_hand.desc",
       "value": "Los PV de todos los personajes en el tablero se reducen a 1."
     },
@@ -1402,6 +1530,14 @@
     },
     {
       "key": "ability.spell_draw1.title",
+      "value": "Robar"
+    },
+    {
+      "key": "ability.spell_draw2.desc",
+      "value": "Roba 2 cartas."
+    },
+    {
+      "key": "ability.spell_draw2.title",
       "value": "Robar"
     },
     {
@@ -1721,6 +1857,14 @@
       "value": "Clon de Cementerio"
     },
     {
+      "key": "ability.trap_all_damage1.desc",
+      "value": "Inflige 1 de daño a los enemigos."
+    },
+    {
+      "key": "ability.trap_all_damage1.title",
+      "value": "Daño al Tablero"
+    },
+    {
       "key": "ability.trap_damage_all2.desc",
       "value": "Cuando una criatura enemiga ataca, daña a todas las criaturas enemigas en 2."
     },
@@ -1738,11 +1882,19 @@
     },
     {
       "key": "ability.trap_freeze.desc",
-      "value": "Después de que una criatura enemiga ataque, congélala por 1 turno."
+      "value": "Después de que una criatura enemiga ataque, congélala por 2 turnos."
     },
     {
       "key": "ability.trap_freeze.title",
       "value": "Congelado"
+    },
+    {
+      "key": "ability.trap_heal4.desc",
+      "value": "Cuando un enemigo ataca al jugador, cura 4 de vida."
+    },
+    {
+      "key": "ability.trap_heal4.title",
+      "value": "Fortificación"
     },
     {
       "key": "ability.trap_mind_control_taunt.desc",
@@ -1761,11 +1913,11 @@
       "value": "Parálisis"
     },
     {
-      "key": "ability.trap_poison.desc",
-      "value": "Después de que una criatura enemiga ataque, envenénala"
+      "key": "ability.trap_poison_all.desc",
+      "value": "Después de que una criatura enemiga ataque, envenénala."
     },
     {
-      "key": "ability.trap_poison.title",
+      "key": "ability.trap_poison_all.title",
       "value": "Veneno"
     },
     {
@@ -1774,6 +1926,14 @@
     },
     {
       "key": "ability.trap_shock.title",
+      "value": "Paralizado por Choque"
+    },
+    {
+      "key": "ability.trap_shock_all.desc",
+      "value": "Después de que una criatura enemiga ataque, paralízala por choque por 1 turno."
+    },
+    {
+      "key": "ability.trap_shock_all.title",
       "value": "Paralizado por Choque"
     },
     {

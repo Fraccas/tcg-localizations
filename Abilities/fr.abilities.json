@@ -158,7 +158,7 @@
     },
     {
       "key": "ability.activate_roll_send_hand.title",
-      "value": "Percée"
+      "value": "Charge"
     },
     {
       "key": "ability.activate_select_discard_spell.desc",
@@ -233,6 +233,14 @@
       "value": "Dégâts de Sort"
     },
     {
+      "key": "ability.add_spell_damage4.desc",
+      "value": "Tous vos sorts et capacités infligent +4 dégâts."
+    },
+    {
+      "key": "ability.add_spell_damage4.title",
+      "value": "Dégâts des sorts"
+    },
+    {
       "key": "ability.after_spell_attack2.desc",
       "value": "Après avoir joué un sort, gagne +2 attaque."
     },
@@ -263,6 +271,22 @@
     {
       "key": "ability.attack_loss_immunity.title",
       "value": "Immunité à la Perte d'Attaque"
+    },
+    {
+      "key": "ability.attack_mana1.desc",
+      "value": "Après avoir attaqué, gagnez 1 mana."
+    },
+    {
+      "key": "ability.attack_mana1.title",
+      "value": "Pillage"
+    },
+    {
+      "key": "ability.attack_mana2.desc",
+      "value": "Après avoir attaqué, gagnez 2 mana."
+    },
+    {
+      "key": "ability.attack_mana2.title",
+      "value": "Pillage"
     },
     {
       "key": "ability.attack_player_mana1.desc",
@@ -537,6 +561,14 @@
       "value": "Manger"
     },
     {
+      "key": "ability.death_summon_twii.desc",
+      "value": "Quand cette créature meurt, invoquez un Twii."
+    },
+    {
+      "key": "ability.death_summon_twii.title",
+      "value": "Invoquer Twii"
+    },
+    {
       "key": "ability.deathtouch.desc",
       "value": "Tue n'importe quelle créature qu'il endommage."
     },
@@ -553,11 +585,27 @@
       "value": "Submergé"
     },
     {
+      "key": "ability.defend_draw1.desc",
+      "value": "Quand ce personnage est attaqué, piochez une carte."
+    },
+    {
+      "key": "ability.defend_draw1.title",
+      "value": "Pioche"
+    },
+    {
       "key": "ability.defense_attack3.desc",
       "value": "A +3 attaque pendant le tour de l'adversaire."
     },
     {
       "key": "ability.defense_attack3.title",
+      "value": "Défense"
+    },
+    {
+      "key": "ability.defense_attack5.desc",
+      "value": "A +3 d'attaque pendant le tour de l'adversaire."
+    },
+    {
+      "key": "ability.defense_attack5.title",
       "value": "Défense"
     },
     {
@@ -699,6 +747,14 @@
     {
       "key": "ability.haste.title",
       "value": "Hâte"
+    },
+    {
+      "key": "ability.kill_draw1.desc",
+      "value": "Quand vous tuez un autre personnage avec cette créature, piochez 1 carte."
+    },
+    {
+      "key": "ability.kill_draw1.title",
+      "value": "Pioche"
     },
     {
       "key": "ability.kill_draw2.desc",
@@ -877,6 +933,14 @@
       "value": "Bénédiction"
     },
     {
+      "key": "ability.play_boost2_permanent.desc",
+      "value": "À l'entrée en jeu, donnez +2/+2 à une autre créature jusqu'à votre prochain tour."
+    },
+    {
+      "key": "ability.play_boost2_permanent.title",
+      "value": "Bénédiction"
+    },
+    {
       "key": "ability.play_boost3.desc",
       "value": "À la mise en jeu, donne +3/3 à une autre créature pour 3 tours"
     },
@@ -941,6 +1005,14 @@
       "value": "Malédiction Totale"
     },
     {
+      "key": "ability.play_damage_all_players2.desc",
+      "value": "À l'entrée en jeu, infligez 2 dégâts aux deux joueurs."
+    },
+    {
+      "key": "ability.play_damage_all_players2.title",
+      "value": "Dégâts"
+    },
+    {
       "key": "ability.play_damage_all1.desc",
       "value": "À la mise en jeu, inflige 1 dégât à toutes les autres cartes."
     },
@@ -963,6 +1035,14 @@
     {
       "key": "ability.play_damage_electric_all2.title",
       "value": "Dégâts Électriques"
+    },
+    {
+      "key": "ability.play_deal_damage_cards_players2.desc",
+      "value": "À l'entrée en jeu, infligez 1 dégât à n'importe quelle cible."
+    },
+    {
+      "key": "ability.play_deal_damage_cards_players2.title",
+      "value": "Dégâts"
     },
     {
       "key": "ability.play_deal_damage1.desc",
@@ -1029,6 +1109,14 @@
       "value": "Défausse"
     },
     {
+      "key": "ability.play_draw.desc",
+      "value": "Piochez une carte"
+    },
+    {
+      "key": "ability.play_draw.title",
+      "value": "Pioche"
+    },
+    {
       "key": "ability.play_enemy_discard.desc",
       "value": "L'adversaire défausse une carte aléatoire de sa main."
     },
@@ -1093,6 +1181,22 @@
       "value": "Poison de Masse"
     },
     {
+      "key": "ability.play_poison_all_enemies.desc",
+      "value": "À l'entrée en jeu, empoisonnez tous les ennemis en jeu."
+    },
+    {
+      "key": "ability.play_poison_all_enemies.title",
+      "value": "Empoisonner les ennemis"
+    },
+    {
+      "key": "ability.play_return_target_hand.desc",
+      "value": "Renvoyez n'importe quelle cible dans la main de son propriétaire."
+    },
+    {
+      "key": "ability.play_return_target_hand.title",
+      "value": "Rebond"
+    },
+    {
       "key": "ability.play_roll_attack.desc",
       "value": "Lance un D6 et augmente l'attaque de cette carte du résultat."
     },
@@ -1101,11 +1205,19 @@
       "value": "Attaque Aléatoire"
     },
     {
-      "key": "ability.play_select_discard.desc",
-      "value": "À la mise en jeu, renvoie un personnage de ton cimetière dans ta main."
+      "key": "ability.play_select_discard_any.desc",
+      "value": "À l'entrée en jeu, renvoyez une carte de votre cimetière dans votre main."
     },
     {
-      "key": "ability.play_select_discard.title",
+      "key": "ability.play_select_discard_any.title",
+      "value": "Fouille profonde"
+    },
+    {
+      "key": "ability.play_select_discard_character.desc",
+      "value": "À l'entrée en jeu, renvoyez un personnage de votre cimetière dans votre main."
+    },
+    {
+      "key": "ability.play_select_discard_character.title",
       "value": "Excavation"
     },
     {
@@ -1163,6 +1275,14 @@
     {
       "key": "ability.play_summon_fractail.title",
       "value": "Invocation de Lizo"
+    },
+    {
+      "key": "ability.play_summon_hajiko.desc",
+      "value": "À la mort, invoquez un Hajiko."
+    },
+    {
+      "key": "ability.play_summon_hajiko.title",
+      "value": "Invoquer Hajiko"
     },
     {
       "key": "ability.play_switch_sides_2ml.desc",
@@ -1333,6 +1453,14 @@
       "value": "Pièce"
     },
     {
+      "key": "ability.spell_cure_2_2.desc",
+      "value": "La cible gagne +2/+2 de façon permanente et dissipe tout effet négatif."
+    },
+    {
+      "key": "ability.spell_cure_2_2.title",
+      "value": "Boost de soin"
+    },
+    {
       "key": "ability.spell_damage_per_hand.desc",
       "value": "Les PV de tous les personnages sur le plateau sont réduits à 1."
     },
@@ -1403,6 +1531,14 @@
     {
       "key": "ability.spell_draw1.title",
       "value": "Piocher"
+    },
+    {
+      "key": "ability.spell_draw2.desc",
+      "value": "Piochez 2 cartes."
+    },
+    {
+      "key": "ability.spell_draw2.title",
+      "value": "Pioche"
     },
     {
       "key": "ability.spell_electric_ally.desc",
@@ -1721,6 +1857,14 @@
       "value": "Clone de Cimetière"
     },
     {
+      "key": "ability.trap_all_damage1.desc",
+      "value": "Infligez 1 dégât aux ennemis."
+    },
+    {
+      "key": "ability.trap_all_damage1.title",
+      "value": "Dégâts de plateau"
+    },
+    {
       "key": "ability.trap_damage_all2.desc",
       "value": "Quand une créature ennemie attaque, endommage toutes les créatures ennemies de 2."
     },
@@ -1738,11 +1882,19 @@
     },
     {
       "key": "ability.trap_freeze.desc",
-      "value": "Après qu'une créature ennemie ait attaqué, gèle-la pour 1 tour."
+      "value": "Après qu'une créature ennemie a attaqué, gèle-la pendant 2 tours."
     },
     {
       "key": "ability.trap_freeze.title",
       "value": "Gelé"
+    },
+    {
+      "key": "ability.trap_heal4.desc",
+      "value": "Quand un ennemi attaque le joueur, soignez 4 PV."
+    },
+    {
+      "key": "ability.trap_heal4.title",
+      "value": "Fortification"
     },
     {
       "key": "ability.trap_mind_control_taunt.desc",
@@ -1761,12 +1913,12 @@
       "value": "Paralysie"
     },
     {
-      "key": "ability.trap_poison.desc",
-      "value": "Après qu'une créature ennemie ait attaqué, empoisonne-la"
+      "key": "ability.trap_poison_all.desc",
+      "value": "Après qu'une créature ennemie a attaqué, empoisonnez-la."
     },
     {
-      "key": "ability.trap_poison.title",
-      "value": "Piège empoisonné"
+      "key": "ability.trap_poison_all.title",
+      "value": "Poison"
     },
     {
       "key": "ability.trap_shock.desc",
@@ -1774,6 +1926,14 @@
     },
     {
       "key": "ability.trap_shock.title",
+      "value": "Paralysé par Choc"
+    },
+    {
+      "key": "ability.trap_shock_all.desc",
+      "value": "Après qu'une créature ennemie a attaqué, paralysez-la par choc pendant 1 tour."
+    },
+    {
+      "key": "ability.trap_shock_all.title",
       "value": "Paralysé par Choc"
     },
     {

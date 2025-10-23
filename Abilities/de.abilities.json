@@ -18,7 +18,7 @@
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "Ersetze diesen Charakter durch einen gegnerischen Brettcharakter mit einem Manakosten von 4."
+            "value": "Ersetze diesen Charakter durch einen gegnerischen Charakter auf dem Spielfeld mit Manakosten von 4."
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
@@ -233,6 +233,14 @@
             "value": "Zauberschaden"
         },
         {
+            "key": "ability.add_spell_damage4.desc",
+            "value": "Alle deine Zauber und Fähigkeiten verursachen +4 Schaden."
+        },
+        {
+            "key": "ability.add_spell_damage4.title",
+            "value": "Zauberschaden"
+        },
+        {
             "key": "ability.after_spell_attack2.desc",
             "value": "Nach dem Spielen eines Zauberspruchs erhältst du +2 Angriff."
         },
@@ -263,6 +271,22 @@
         {
             "key": "ability.attack_loss_immunity.title",
             "value": "Immunität gegen Angriffsverlust"
+        },
+        {
+            "key": "ability.attack_mana1.desc",
+            "value": "Nach dem Angreifen erhalte 1 Mana."
+        },
+        {
+            "key": "ability.attack_mana1.title",
+            "value": "Plünderung"
+        },
+        {
+            "key": "ability.attack_mana2.desc",
+            "value": "Nach dem Angreifen erhalte 2 Mana."
+        },
+        {
+            "key": "ability.attack_mana2.title",
+            "value": "Plünderung"
         },
         {
             "key": "ability.attack_player_mana1.desc",
@@ -537,6 +561,14 @@
             "value": "Fressen"
         },
         {
+            "key": "ability.death_summon_twii.desc",
+            "value": "Wenn diese Kreatur stirbt, beschwöre einen Twii."
+        },
+        {
+            "key": "ability.death_summon_twii.title",
+            "value": "Twii beschwören"
+        },
+        {
             "key": "ability.deathtouch.desc",
             "value": "Töte jede Kreatur, die er beschädigt."
         },
@@ -553,11 +585,27 @@
             "value": "Versunken"
         },
         {
+            "key": "ability.defend_draw1.desc",
+            "value": "Wenn dieser Charakter angegriffen wird, ziehe eine Karte."
+        },
+        {
+            "key": "ability.defend_draw1.title",
+            "value": "Ziehen"
+        },
+        {
             "key": "ability.defense_attack3.desc",
             "value": "Hat +3 Angriff während des Zuges des Gegners."
         },
         {
             "key": "ability.defense_attack3.title",
+            "value": "Verteidigung"
+        },
+        {
+            "key": "ability.defense_attack5.desc",
+            "value": "Hat +3 Angriff während des Zuges des Gegners."
+        },
+        {
+            "key": "ability.defense_attack5.title",
             "value": "Verteidigung"
         },
         {
@@ -699,6 +747,14 @@
         {
             "key": "ability.haste.title",
             "value": "Eile"
+        },
+        {
+            "key": "ability.kill_draw1.desc",
+            "value": "Wenn du mit dieser Kreatur einen anderen Charakter tötest, ziehe 1 Karte."
+        },
+        {
+            "key": "ability.kill_draw1.title",
+            "value": "Ziehen"
         },
         {
             "key": "ability.kill_draw2.desc",
@@ -877,6 +933,14 @@
             "value": "Segen"
         },
         {
+            "key": "ability.play_boost2_permanent.desc",
+            "value": "Beim Ausspielen gib einer anderen Kreatur bis zu deinem nächsten Zug +2/+2."
+        },
+        {
+            "key": "ability.play_boost2_permanent.title",
+            "value": "Segen"
+        },
+        {
             "key": "ability.play_boost3.desc",
             "value": "Beim Ausspielen gib +3/+3 an eine andere Kreatur für 3 Züge"
         },
@@ -941,6 +1005,14 @@
             "value": "Alle verfluchen"
         },
         {
+            "key": "ability.play_damage_all_players2.desc",
+            "value": "Beim Ausspielen füge beiden Spielern 2 Schaden zu."
+        },
+        {
+            "key": "ability.play_damage_all_players2.title",
+            "value": "Schaden"
+        },
+        {
             "key": "ability.play_damage_all1.desc",
             "value": "Beim Ausspielen verursache 1 Schaden an allen anderen Karten."
         },
@@ -963,6 +1035,14 @@
         {
             "key": "ability.play_damage_electric_all2.title",
             "value": "Elektroschaden"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.desc",
+            "value": "Beim Ausspielen füge einem beliebigen Ziel 1 Schaden zu."
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.title",
+            "value": "Schaden"
         },
         {
             "key": "ability.play_deal_damage1.desc",
@@ -1029,6 +1109,14 @@
             "value": "Ausrangieren"
         },
         {
+            "key": "ability.play_draw.desc",
+            "value": "Ziehe eine Karte."
+        },
+        {
+            "key": "ability.play_draw.title",
+            "value": "Ziehen"
+        },
+        {
             "key": "ability.play_enemy_discard.desc",
             "value": "Gegner wirft eine zufällige Karte aus seiner Hand ab."
         },
@@ -1093,6 +1181,22 @@
             "value": "Alle vergiften"
         },
         {
+            "key": "ability.play_poison_all_enemies.desc",
+            "value": "Beim Ausspielen vergifte alle feindlichen Einheiten im Spiel."
+        },
+        {
+            "key": "ability.play_poison_all_enemies.title",
+            "value": "Feinde vergiften"
+        },
+        {
+            "key": "ability.play_return_target_hand.desc",
+            "value": "Bringe ein beliebiges Ziel auf die Hand seines Besitzers zurück."
+        },
+        {
+            "key": "ability.play_return_target_hand.title",
+            "value": "Zurückholen"
+        },
+        {
             "key": "ability.play_roll_attack.desc",
             "value": "Würfle eine D6, erhöhe den Angriff dieser Karte um das Ergebnis."
         },
@@ -1101,11 +1205,19 @@
             "value": "Zufälliger Angriff"
         },
         {
-            "key": "ability.play_select_discard.desc",
+            "key": "ability.play_select_discard_any.desc",
+            "value": "Beim Ausspielen bringe eine Karte aus deinem Friedhof in deine Hand zurück."
+        },
+        {
+            "key": "ability.play_select_discard_any.title",
+            "value": "Tiefes Graben"
+        },
+        {
+            "key": "ability.play_select_discard_character.desc",
             "value": "Beim Ausspielen bringe einen Charakter aus deinem Friedhof in deine Hand zurück."
         },
         {
-            "key": "ability.play_select_discard.title",
+            "key": "ability.play_select_discard_character.title",
             "value": "Ausgraben"
         },
         {
@@ -1163,6 +1275,14 @@
         {
             "key": "ability.play_summon_fractail.title",
             "value": "Lizo beschwören"
+        },
+        {
+            "key": "ability.play_summon_hajiko.desc",
+            "value": "Beim Tod beschwöre einen Hajiko."
+        },
+        {
+            "key": "ability.play_summon_hajiko.title",
+            "value": "Hajiko beschwören"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1333,6 +1453,14 @@
             "value": "Münze"
         },
         {
+            "key": "ability.spell_cure_2_2.desc",
+            "value": "Das Ziel erhält dauerhaft +2/+2 und wird von negativen Statuseffekten geheilt."
+        },
+        {
+            "key": "ability.spell_cure_2_2.title",
+            "value": "Heilungsboost"
+        },
+        {
             "key": "ability.spell_damage_per_hand.desc",
             "value": "Die LP aller Charaktere auf dem Brett werden auf 1 gesenkt."
         },
@@ -1402,6 +1530,14 @@
         },
         {
             "key": "ability.spell_draw1.title",
+            "value": "Ziehen"
+        },
+        {
+            "key": "ability.spell_draw2.desc",
+            "value": "Ziehe 2 Karten."
+        },
+        {
+            "key": "ability.spell_draw2.title",
             "value": "Ziehen"
         },
         {
@@ -1721,6 +1857,14 @@
             "value": "Friedhofsklon"
         },
         {
+            "key": "ability.trap_all_damage1.desc",
+            "value": "Füge allen Gegnern 1 Schaden zu."
+        },
+        {
+            "key": "ability.trap_all_damage1.title",
+            "value": "Brettschaden"
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Wenn eine gegnerische Kreatur angreift, verursache 2 Schaden an allen gegnerischen Kreaturen."
         },
@@ -1738,11 +1882,19 @@
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "Nachdem eine gegnerische Kreatur angegriffen hat, friere sie für 1 Zug ein."
+            "value": "Nachdem eine gegnerische Kreatur angegriffen hat, friere sie für 2 Züge ein."
         },
         {
             "key": "ability.trap_freeze.title",
             "value": "Eingefroren"
+        },
+        {
+            "key": "ability.trap_heal4.desc",
+            "value": "Wenn ein Gegner den Spieler angreift, heile 4 LP."
+        },
+        {
+            "key": "ability.trap_heal4.title",
+            "value": "Befestigung"
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
@@ -1761,11 +1913,11 @@
             "value": "Paralyse"
         },
         {
-            "key": "ability.trap_poison.desc",
-            "value": "Nachdem eine gegnerische Kreatur angegriffen hat, vergifte sie"
+            "key": "ability.trap_poison_all.desc",
+            "value": "Nachdem eine gegnerische Kreatur angegriffen hat, vergifte sie."
         },
         {
-            "key": "ability.trap_poison.title",
+            "key": "ability.trap_poison_all.title",
             "value": "Gift"
         },
         {
@@ -1775,6 +1927,14 @@
         {
             "key": "ability.trap_shock.title",
             "value": "Schockparalysiert"
+        },
+        {
+            "key": "ability.trap_shock_all.desc",
+            "value": "Nachdem eine gegnerische Kreatur angegriffen hat, schockparalysiere sie für 1 Zug."
+        },
+        {
+            "key": "ability.trap_shock_all.title",
+            "value": "Schockparalyse"
         },
         {
             "key": "ability.turn_add_armor1.desc",

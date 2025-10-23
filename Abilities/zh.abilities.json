@@ -233,6 +233,14 @@
             "value": "法术伤害"
         },
         {
+            "key": "ability.add_spell_damage4.desc",
+            "value": "你的所有法术和能力造成+4伤害。"
+        },
+        {
+            "key": "ability.add_spell_damage4.title",
+            "value": "法术伤害"
+        },
+        {
             "key": "ability.after_spell_attack2.desc",
             "value": "出法术后获得+2攻击力"
         },
@@ -263,6 +271,22 @@
         {
             "key": "ability.attack_loss_immunity.title",
             "value": "攻击力损失免疫"
+        },
+        {
+            "key": "ability.attack_mana1.desc",
+            "value": "攻击后获得1点法力。"
+        },
+        {
+            "key": "ability.attack_mana1.title",
+            "value": "掠夺"
+        },
+        {
+            "key": "ability.attack_mana2.desc",
+            "value": "攻击后获得2点法力。"
+        },
+        {
+            "key": "ability.attack_mana2.title",
+            "value": "掠夺"
         },
         {
             "key": "ability.attack_player_mana1.desc",
@@ -537,6 +561,14 @@
             "value": "吞食"
         },
         {
+            "key": "ability.death_summon_twii.desc",
+            "value": "当该生物死亡时，召唤一只特维。"
+        },
+        {
+            "key": "ability.death_summon_twii.title",
+            "value": "召唤特维"
+        },
+        {
             "key": "ability.deathtouch.desc",
             "value": "对造成的任何伤害杀死生物"
         },
@@ -553,11 +585,27 @@
             "value": "潜伏"
         },
         {
+            "key": "ability.defend_draw1.desc",
+            "value": "当该角色被攻击时，抽一张牌。"
+        },
+        {
+            "key": "ability.defend_draw1.title",
+            "value": "抽牌"
+        },
+        {
             "key": "ability.defense_attack3.desc",
             "value": "对手回合期间+3攻击力"
         },
         {
             "key": "ability.defense_attack3.title",
+            "value": "防御"
+        },
+        {
+            "key": "ability.defense_attack5.desc",
+            "value": "在对手回合拥有+3攻击力。"
+        },
+        {
+            "key": "ability.defense_attack5.title",
             "value": "防御"
         },
         {
@@ -699,6 +747,14 @@
         {
             "key": "ability.haste.title",
             "value": "急速"
+        },
+        {
+            "key": "ability.kill_draw1.desc",
+            "value": "用该生物消灭另一名角色时，抽1张牌。"
+        },
+        {
+            "key": "ability.kill_draw1.title",
+            "value": "抽牌"
         },
         {
             "key": "ability.kill_draw2.desc",
@@ -877,6 +933,14 @@
             "value": "祝福"
         },
         {
+            "key": "ability.play_boost2_permanent.desc",
+            "value": "出场时，使另一名生物在你的下个回合前获得+2/+2。"
+        },
+        {
+            "key": "ability.play_boost2_permanent.title",
+            "value": "祝福"
+        },
+        {
             "key": "ability.play_boost3.desc",
             "value": "出牌时，为另一生物赋予3回合+3/+3"
         },
@@ -941,6 +1005,14 @@
             "value": "群体诅咒"
         },
         {
+            "key": "ability.play_damage_all_players2.desc",
+            "value": "出场时，对双方玩家造成2点伤害。"
+        },
+        {
+            "key": "ability.play_damage_all_players2.title",
+            "value": "伤害"
+        },
+        {
             "key": "ability.play_damage_all1.desc",
             "value": "登场时，对其他所有卡牌造成1点伤害。"
         },
@@ -963,6 +1035,14 @@
         {
             "key": "ability.play_damage_electric_all2.title",
             "value": "电击伤害"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.desc",
+            "value": "出场时，对任意目标造成1点伤害。"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.title",
+            "value": "伤害"
         },
         {
             "key": "ability.play_deal_damage1.desc",
@@ -1029,6 +1109,14 @@
             "value": "弃牌"
         },
         {
+            "key": "ability.play_draw.desc",
+            "value": "抽一张牌"
+        },
+        {
+            "key": "ability.play_draw.title",
+            "value": "抽牌"
+        },
+        {
             "key": "ability.play_enemy_discard.desc",
             "value": "令对手随机弃掉一张手牌。"
         },
@@ -1093,6 +1181,22 @@
             "value": "群体中毒"
         },
         {
+            "key": "ability.play_poison_all_enemies.desc",
+            "value": "出场时，使战场上所有敌人中毒。"
+        },
+        {
+            "key": "ability.play_poison_all_enemies.title",
+            "value": "敌方中毒"
+        },
+        {
+            "key": "ability.play_return_target_hand.desc",
+            "value": "将任意目标返回其拥有者的手牌。"
+        },
+        {
+            "key": "ability.play_return_target_hand.title",
+            "value": "弹回"
+        },
+        {
             "key": "ability.play_roll_attack.desc",
             "value": "掷一次六面骰，本牌的攻击力提升等同于点数。"
         },
@@ -1101,11 +1205,19 @@
             "value": "随机攻击"
         },
         {
-            "key": "ability.play_select_discard.desc",
-            "value": "登场时，将你墓地中的一名角色返回手牌。"
+            "key": "ability.play_select_discard_any.desc",
+            "value": "出场时，将你墓地中的一张牌返回手牌。"
         },
         {
-            "key": "ability.play_select_discard.title",
+            "key": "ability.play_select_discard_any.title",
+            "value": "深挖"
+        },
+        {
+            "key": "ability.play_select_discard_character.desc",
+            "value": "出场时，将你墓地中的一名角色返回手牌。"
+        },
+        {
+            "key": "ability.play_select_discard_character.title",
             "value": "挖掘"
         },
         {
@@ -1163,6 +1275,14 @@
         {
             "key": "ability.play_summon_fractail.title",
             "value": "召唤蜥蜴"
+        },
+        {
+            "key": "ability.play_summon_hajiko.desc",
+            "value": "死亡时，召唤一只哈吉子。"
+        },
+        {
+            "key": "ability.play_summon_hajiko.title",
+            "value": "召唤哈吉子"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1333,6 +1453,14 @@
             "value": "金币"
         },
         {
+            "key": "ability.spell_cure_2_2.desc",
+            "value": "目标永久获得+2/+2并解除所有负面状态。"
+        },
+        {
+            "key": "ability.spell_cure_2_2.title",
+            "value": "治愈强化"
+        },
+        {
             "key": "ability.spell_damage_per_hand.desc",
             "value": "牌面所有角色的生命值降至1"
         },
@@ -1402,6 +1530,14 @@
         },
         {
             "key": "ability.spell_draw1.title",
+            "value": "抽牌"
+        },
+        {
+            "key": "ability.spell_draw2.desc",
+            "value": "抽2张牌。"
+        },
+        {
+            "key": "ability.spell_draw2.title",
             "value": "抽牌"
         },
         {
@@ -1721,6 +1857,14 @@
             "value": "墓地克隆"
         },
         {
+            "key": "ability.trap_all_damage1.desc",
+            "value": "对敌人造成1点伤害。"
+        },
+        {
+            "key": "ability.trap_all_damage1.title",
+            "value": "战场伤害"
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "敌方生物攻击时，对所有敌方生物造成2点伤害"
         },
@@ -1738,11 +1882,19 @@
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "敌方生物攻击后，冻结其1回合"
+            "value": "在敌方生物攻击后，使其冻结2个回合。"
         },
         {
             "key": "ability.trap_freeze.title",
             "value": "冻结"
+        },
+        {
+            "key": "ability.trap_heal4.desc",
+            "value": "当敌人攻击玩家时，恢复4点生命。"
+        },
+        {
+            "key": "ability.trap_heal4.title",
+            "value": "加固"
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
@@ -1761,11 +1913,11 @@
             "value": "麻痹"
         },
         {
-            "key": "ability.trap_poison.desc",
-            "value": "敌方生物攻击后，中毒其"
+            "key": "ability.trap_poison_all.desc",
+            "value": "在敌方生物攻击后，使其中毒。"
         },
         {
-            "key": "ability.trap_poison.title",
+            "key": "ability.trap_poison_all.title",
             "value": "中毒"
         },
         {
@@ -1775,6 +1927,14 @@
         {
             "key": "ability.trap_shock.title",
             "value": "电击麻痹"
+        },
+        {
+            "key": "ability.trap_shock_all.desc",
+            "value": "在敌方生物攻击后，使其感电麻痹1个回合。"
+        },
+        {
+            "key": "ability.trap_shock_all.title",
+            "value": "感电麻痹"
         },
         {
             "key": "ability.turn_add_armor1.desc",
