@@ -90,7 +90,7 @@
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "対象が攻撃力を得る（電気モンスターである必要がある）"
+            "value": "対象にラッシュを付与する（電気モンスターのみ）"
         },
         {
             "key": "ability.activate_electric.title",
@@ -106,7 +106,7 @@
         },
         {
             "key": "ability.activate_heal_player3.desc",
-            "value": "プレイヤーを3HP回復する"
+            "value": "プレイヤーのHPを3回復する"
         },
         {
             "key": "ability.activate_heal_player3.title",
@@ -154,7 +154,7 @@
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "キャラクターを選択しD6を振る、4以上で持ち主の手札に戻す。2マナを消費する"
+            "value": "キャラクターを選びD6を振る。4以上なら持ち主の手札に戻す（マナ2消費）。"
         },
         {
             "key": "ability.activate_roll_send_hand.title",
@@ -178,7 +178,7 @@
         },
         {
             "key": "ability.activate_shadow.desc",
-            "value": "対象が呪われになる"
+            "value": "対象を呪い状態にする"
         },
         {
             "key": "ability.activate_shadow.title",
@@ -202,7 +202,7 @@
         },
         {
             "key": "ability.add_attack_traps.desc",
-            "value": "敵のトラップ1つにつき+1ダメージを得る"
+            "value": "敵のトラップ1枚につき攻撃力+1を得る"
         },
         {
             "key": "ability.add_attack_traps.title",
@@ -250,7 +250,7 @@
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "攻撃されたキャラクターが燃える。毎ターン2HP失う"
+            "value": "攻撃した相手を火傷状態にし、毎ターン2HP失わせる"
         },
         {
             "key": "ability.attack_burned.title",
@@ -258,7 +258,7 @@
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "攻撃されたキャラクターが呪われになる。毎ターン1攻撃失う"
+            "value": "攻撃した相手を呪い状態にし、毎ターン攻撃力を1失わせる"
         },
         {
             "key": "ability.attack_curse.title",
@@ -266,7 +266,7 @@
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "キャラクターの攻撃を減少から守る"
+            "value": "攻撃力が減少しない"
         },
         {
             "key": "ability.attack_loss_immunity.title",
@@ -274,7 +274,7 @@
         },
         {
             "key": "ability.attack_mana1.desc",
-            "value": "攻撃した後、マナを1得る。"
+            "value": "攻撃後にマナを1得る。"
         },
         {
             "key": "ability.attack_mana1.title",
@@ -282,7 +282,7 @@
         },
         {
             "key": "ability.attack_mana2.desc",
-            "value": "攻撃した後、マナを2得る。"
+            "value": "攻撃後にマナを2得る。"
         },
         {
             "key": "ability.attack_mana2.title",
@@ -290,7 +290,7 @@
         },
         {
             "key": "ability.attack_player_mana1.desc",
-            "value": "相手のライフを攻撃した後、1マナを得る"
+            "value": "相手プレイヤーを攻撃した後、1マナ得る。"
         },
         {
             "key": "ability.attack_player_mana1.title",
@@ -298,7 +298,7 @@
         },
         {
             "key": "ability.attack_player_mana2.desc",
-            "value": "相手のライフを攻撃した後、2マナを得る"
+            "value": "相手プレイヤーを攻撃した後、2マナ得る。"
         },
         {
             "key": "ability.attack_player_mana2.title",
@@ -306,7 +306,7 @@
         },
         {
             "key": "ability.attack_player_mana3.desc",
-            "value": "相手のライフを攻撃した後、3マナを得る"
+            "value": "相手プレイヤーを攻撃した後、3マナ得る。"
         },
         {
             "key": "ability.attack_player_mana3.title",
@@ -314,7 +314,7 @@
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "攻撃されたキャラクターが毒になる。毎ターン1HP失う"
+            "value": "攻撃した相手を毒状態にし、毎ターン1HP失わせる"
         },
         {
             "key": "ability.attack_poison.title",
@@ -322,7 +322,7 @@
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "攻撃前にD6を振る、4以上で+3攻撃を得る"
+            "value": "攻撃前にD6を振り、4以上で攻撃力+3を得る"
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.title",
@@ -330,7 +330,7 @@
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "攻撃前にD6を振る、4以上でターン終了時まで+3攻撃を得る"
+            "value": "攻撃前にD6を振り、4以上でターン終了時まで攻撃力+3を得る"
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
@@ -338,7 +338,7 @@
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "攻撃前にD6を振る、4以上でターン終了時まで+6攻撃を得る"
+            "value": "攻撃前にD6を振り、4以上でターン終了時まで攻撃力+6を得る"
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
@@ -610,11 +610,11 @@
         },
         {
             "key": "ability.discard_add_attack1.desc",
-            "value": "相手が捨札を強いられるたび+1攻撃を得る"
+            "value": "相手がカードを捨てるたび攻撃力+1を得る"
         },
         {
             "key": "ability.discard_add_attack1.title",
-            "value": "捨札ゲイン"
+            "value": "捨て札強化"
         },
         {
             "key": "ability.egg_growth.desc",
@@ -758,7 +758,7 @@
         },
         {
             "key": "ability.kill_draw2.desc",
-            "value": "このクリーチャーで他のキャラクターを殺すと2枚引く"
+            "value": "このクリーチャーで別のキャラクターを倒すたび、カードを2枚引く"
         },
         {
             "key": "ability.kill_draw2.title",
@@ -766,7 +766,7 @@
         },
         {
             "key": "ability.lifesteal.desc",
-            "value": "ダメージを与えるとプレイヤーを回復"
+            "value": "ダメージを与えるたびにプレイヤーのHPを回復する"
         },
         {
             "key": "ability.lifesteal.title",
@@ -774,7 +774,7 @@
         },
         {
             "key": "ability.location_mana_discount.desc",
-            "value": "同じ元素タイプのロケーションカードが1マナ割引"
+            "value": "同じ元素タイプのロケーションカードのコストが1下がる"
         },
         {
             "key": "ability.location_mana_discount.title",
@@ -798,7 +798,7 @@
         },
         {
             "key": "ability.mind_control_ability_any.desc",
-            "value": "敵キャラクターを3ターン制御、または進化するまで"
+            "value": "敵キャラクターを3ターンの間、または進化するまで支配する"
         },
         {
             "key": "ability.mind_control_ability_any.title",
@@ -910,7 +910,7 @@
         },
         {
             "key": "ability.overkill.desc",
-            "value": "超過ダメージが攻撃者を回復"
+            "value": "余剰ダメージが攻撃者を回復する"
         },
         {
             "key": "ability.overkill.title",
