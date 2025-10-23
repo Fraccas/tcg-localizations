@@ -1221,6 +1221,14 @@
             "value": "Dig"
         },
         {
+            "key": "ability.play_send_hand.desc",
+            "value": "On Play, return a character to its owner's hand."
+        },
+        {
+            "key": "ability.play_send_hand.title",
+            "value": "Bounce"
+        },
+        {
             "key": "ability.play_set_attack1.desc",
             "value": "On play, selected target's attack is reduced to 1."
         },
@@ -1871,6 +1879,14 @@
         {
             "key": "ability.trap_damage_all2.title",
             "value": "Damage"
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "Damage attacker for 2 HP"
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "Trap"
         },
         {
             "key": "ability.trap_damage3.desc",
