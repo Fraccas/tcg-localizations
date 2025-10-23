@@ -1006,7 +1006,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>トラップ:</b> 次の攻撃者にポイズンと3ダメージ。"
+            "value": "<b>トラップ:</b> 次の攻撃者にポイズンと2ダメージ。"
         },
         {
             "key": "card.trap_psychic_pit.text",

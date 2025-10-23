@@ -1006,7 +1006,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>陷阱:</b> 对下一个攻击者施加毒素并造成 3 点伤害。"
+            "value": "<b>陷阱:</b> 对下一个攻击者施加毒素并造成 2 点伤害。"
         },
         {
             "key": "card.trap_psychic_pit.text",

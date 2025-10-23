@@ -1221,6 +1221,14 @@
       "value": "Scavo"
     },
     {
+      "key": "ability.play_send_hand.desc",
+      "value": "All'ingresso in gioco, restituisci un personaggio alla mano del suo proprietario."
+    },
+    {
+      "key": "ability.play_send_hand.title",
+      "value": "Rimbalzo"
+    },
+    {
       "key": "ability.play_set_attack1.desc",
       "value": "All'ingresso in gioco, l'attacco del bersaglio scelto viene ridotto a 1."
     },
@@ -1871,6 +1879,14 @@
     {
       "key": "ability.trap_damage_all2.title",
       "value": "Danno"
+    },
+    {
+      "key": "ability.trap_damage2.desc",
+      "value": "Danneggia l'attaccante di 2 PF"
+    },
+    {
+      "key": "ability.trap_damage2.title",
+      "value": "Trappola"
     },
     {
       "key": "ability.trap_damage3.desc",

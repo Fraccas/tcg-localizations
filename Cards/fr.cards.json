@@ -1006,7 +1006,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Piège :</b> Empoisonne et inflige 3 dégâts au prochain attaquant."
+            "value": "<b>Piège :</b> Empoisonne et inflige 2 dégâts au prochain attaquant."
         },
         {
             "key": "card.trap_psychic_pit.text",

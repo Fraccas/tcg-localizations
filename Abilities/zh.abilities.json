@@ -1221,6 +1221,14 @@
             "value": "挖掘"
         },
         {
+            "key": "ability.play_send_hand.desc",
+            "value": "登场时，将一个角色返回其拥有者的手牌。"
+        },
+        {
+            "key": "ability.play_send_hand.title",
+            "value": "回手"
+        },
+        {
             "key": "ability.play_set_attack1.desc",
             "value": "登场时，将所选目标的攻击力降至1。"
         },
@@ -1871,6 +1879,14 @@
         {
             "key": "ability.trap_damage_all2.title",
             "value": "伤害"
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "对攻击者造成2点生命伤害"
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "陷阱"
         },
         {
             "key": "ability.trap_damage3.desc",

@@ -1221,6 +1221,14 @@
             "value": "Раскопки"
         },
         {
+            "key": "ability.play_send_hand.desc",
+            "value": "При розыгрыше верните персонажа в руку его владельца."
+        },
+        {
+            "key": "ability.play_send_hand.title",
+            "value": "Возврат"
+        },
+        {
             "key": "ability.play_set_attack1.desc",
             "value": "При розыгрыше атака выбранной цели снижается до 1"
         },
@@ -1871,6 +1879,14 @@
         {
             "key": "ability.trap_damage_all2.title",
             "value": "Урон"
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "Наносит 2 HP урона атакующему"
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "Ловушка"
         },
         {
             "key": "ability.trap_damage3.desc",

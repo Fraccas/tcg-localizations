@@ -1221,6 +1221,14 @@
             "value": "発掘"
         },
         {
+            "key": "ability.play_send_hand.desc",
+            "value": "プレイ時、キャラクター1体を持ち主の手札に戻す。"
+        },
+        {
+            "key": "ability.play_send_hand.title",
+            "value": "バウンス"
+        },
+        {
             "key": "ability.play_set_attack1.desc",
             "value": "プレイ時、選択した対象の攻撃力を1に下げる"
         },
@@ -1871,6 +1879,14 @@
         {
             "key": "ability.trap_damage_all2.title",
             "value": "ダメージ"
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "攻撃者に2HPダメージ"
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "トラップ"
         },
         {
             "key": "ability.trap_damage3.desc",
