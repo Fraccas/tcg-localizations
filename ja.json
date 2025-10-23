@@ -146,7 +146,7 @@
         },
         {
             "key": "accept",
-            "value": "受け入れる"
+            "value": "承諾"
         },
         {
             "key": "account",
@@ -158,11 +158,11 @@
         },
         {
             "key": "account_link",
-            "value": "アカウントリンク"
+            "value": "アカウント連携"
         },
         {
             "key": "account_recovery",
-            "value": "アカウント回復"
+            "value": "アカウント復旧"
         },
         {
             "key": "add",
@@ -214,7 +214,7 @@
         },
         {
             "key": "battle_pass",
-            "value": "バトル\n パス"
+            "value": "バトル\nパス"
         },
         {
             "key": "battlepass_rewards",
@@ -242,7 +242,7 @@
         },
         {
             "key": "built_with",
-            "value": "構築:"
+            "value": "使用技術:"
         },
         {
             "key": "buy",
@@ -318,15 +318,15 @@
         },
         {
             "key": "claim",
-            "value": "請求"
+            "value": "受け取る"
         },
         {
             "key": "claim_all",
-            "value": "すべて請求"
+            "value": "すべて受け取る"
         },
         {
             "key": "click_this_button_to_generate_your_code_and_join_discord",
-            "value": "このボタンをクリックしてコードを生成し、Discordに参加"
+            "value": "このボタンをクリックしてコードを生成し、Discordに参加してください"
         },
         {
             "key": "click_to_chat",
@@ -334,7 +334,7 @@
         },
         {
             "key": "client_outdated",
-            "value": "クライアントが古い"
+            "value": "クライアントのバージョンが古いです"
         },
         {
             "key": "clone",
@@ -450,11 +450,11 @@
         },
         {
             "key": "daily_rewards",
-            "value": "デイリー\n 報酬"
+            "value": "デイリー\n報酬"
         },
         {
             "key": "daily_daily_tournament",
-            "value": "デイリーデイリートーナメント"
+            "value": "デイリートーナメント"
         },
         {
             "key": "daily_missions",
@@ -470,35 +470,35 @@
         },
         {
             "key": "day_1",
-            "value": "日1"
+            "value": "1日目"
         },
         {
             "key": "day_2",
-            "value": "日2"
+            "value": "2日目"
         },
         {
             "key": "day_3",
-            "value": "日3"
+            "value": "3日目"
         },
         {
             "key": "day_4",
-            "value": "日4"
+            "value": "4日目"
         },
         {
             "key": "day_5",
-            "value": "日5"
+            "value": "5日目"
         },
         {
             "key": "day_6",
-            "value": "日6"
+            "value": "6日目"
         },
         {
             "key": "day_7",
-            "value": "日7"
+            "value": "7日目"
         },
         {
             "key": "day_text",
-            "value": "日テキスト"
+            "value": "日目"
         },
         {
             "key": "deal_25_damage_with_shadow_monsters",
@@ -530,7 +530,7 @@
         },
         {
             "key": "decline",
-            "value": "拒否"
+            "value": "辞退"
         },
         {
             "key": "defeats",
@@ -554,7 +554,7 @@
         },
         {
             "key": "desc",
-            "value": "DESC"
+            "value": "降順"
         },
         {
             "key": "description",
@@ -586,7 +586,7 @@
         },
         {
             "key": "download_pera",
-            "value": "PERAダウンロード"
+            "value": "PERAをダウンロード"
         },
         {
             "key": "earnings",
@@ -626,7 +626,7 @@
         },
         {
             "key": "email_was_sent_with_a_code._enter_the_code_here_to_reset_your_password.",
-            "value": "コード付きのメールが送信されました。\n ここにコードを入力してパスワードをリセット。"
+            "value": "コード付きのメールを送信しました。\nここにコードを入力してパスワードをリセットしてください。"
         },
         {
             "key": "emote",
@@ -634,7 +634,7 @@
         },
         {
             "key": "end_turn",
-            "value": "ターン\n 終了"
+            "value": "ターン\n終了"
         },
         {
             "key": "enter_discord_code...",
@@ -650,11 +650,11 @@
         },
         {
             "key": "enter_your_email",
-            "value": "メールを入力"
+            "value": "メールアドレスを入力"
         },
         {
             "key": "entry_fee",
-            "value": "エントリーフィー"
+            "value": "参加費"
         },
         {
             "key": "equipment",
@@ -694,7 +694,7 @@
         },
         {
             "key": "finding_opponent...",
-            "value": "相手を探しています..."
+            "value": "対戦相手を検索中..."
         },
         {
             "key": "fire_deck",
@@ -710,7 +710,7 @@
         },
         {
             "key": "forgot_password",
-            "value": "パスワードを忘れた"
+            "value": "パスワードをお忘れですか？"
         },
         {
             "key": "fracctal_tcg_squad",
@@ -722,7 +722,7 @@
         },
         {
             "key": "friend_list_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
-            "value": "テストモードではフレンドリストが利用できません。\n この機能を使用するにはWeb APIサーバーをインストール。"
+            "value": "テストモードではフレンドリストが利用できません。\nこの機能を使用するにはWeb APIサーバーをインストールしてください。"
         },
         {
             "key": "friends",
@@ -774,11 +774,11 @@
         },
         {
             "key": "guild_requests",
-            "value": "ギルドリクエスト"
+            "value": "ギルド申請"
         },
         {
             "key": "guild_vault_cards",
-            "value": "ギルドボールトカード"
+            "value": "ギルド保管庫のカード"
         },
         {
             "key": "guilds",
@@ -806,7 +806,7 @@
         },
         {
             "key": "join",
-            "value": "参加"
+            "value": "参加する"
         },
         {
             "key": "join_discord",
@@ -822,7 +822,7 @@
         },
         {
             "key": "kick",
-            "value": "キック"
+            "value": "追放"
         },
         {
             "key": "kill_5_monsters_using_fire_monsters",
@@ -838,11 +838,11 @@
         },
         {
             "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
-            "value": "テストモードではリーダーボードが利用できません。\n この機能を使用するにはWeb APIサーバーをインストール。"
+            "value": "テストモードではリーダーボードが利用できません。\nこの機能を使用するにはWeb APIサーバーをインストールしてください。"
         },
         {
             "key": "leave_guild",
-            "value": "ギルド離脱"
+            "value": "ギルドを脱退"
         },
         {
             "key": "level",
@@ -858,11 +858,11 @@
         },
         {
             "key": "level_up_10_cards",
-            "value": "10枚のカードをレベルアップ"
+            "value": "カードを10枚レベルアップする"
         },
         {
             "key": "level_up_5_cards",
-            "value": "5枚のカードをレベルアップ"
+            "value": "カードを5枚レベルアップする"
         },
         {
             "key": "loading...",
@@ -878,7 +878,7 @@
         },
         {
             "key": "login_with_immutable",
-            "value": "IMMUTABLEでログイン"
+            "value": "Immutableでログイン"
         },
         {
             "key": "logout",
@@ -926,7 +926,7 @@
         },
         {
             "key": "multiplayer",
-            "value": "マルチプレイヤー"
+            "value": "マルチプレイ"
         },
         {
             "key": "music",
@@ -942,19 +942,19 @@
         },
         {
             "key": "new_password",
-            "value": "新パスワード"
+            "value": "新しいパスワード"
         },
         {
             "key": "new_password...",
-            "value": "新パスワード..."
+            "value": "新しいパスワード..."
         },
         {
             "key": "new_text",
-            "value": "新テキスト"
+            "value": "新しいテキスト"
         },
         {
             "key": "next",
-            "value": "次"
+            "value": "次へ"
         },
         {
             "key": "nicolas_oliver",
@@ -986,7 +986,7 @@
         },
         {
             "key": "online_players",
-            "value": "オンライン プレイヤー"
+            "value": "オンラインプレイヤー"
         },
         {
             "key": "open_packs",
@@ -998,11 +998,11 @@
         },
         {
             "key": "optin_asa_txn",
-            "value": "OPTIN ASA TXN"
+            "value": "ASAオプトイン取引"
         },
         {
             "key": "option_a",
-            "value": "オプション A"
+            "value": "選択肢A"
         },
         {
             "key": "owned",
@@ -1010,7 +1010,7 @@
         },
         {
             "key": "owned_assets",
-            "value": "所持アセット"
+            "value": "保有アセット"
         },
         {
             "key": "ownership",
@@ -1022,7 +1022,7 @@
         },
         {
             "key": "pack_description",
-            "value": "パック説明"
+            "value": "パックの説明"
         },
         {
             "key": "packs",
@@ -1038,11 +1038,11 @@
         },
         {
             "key": "password_recovery",
-            "value": "パスワード回復"
+            "value": "パスワード復旧"
         },
         {
             "key": "per_day",
-            "value": "日次"
+            "value": "1日あたり"
         },
         {
             "key": "pera_account_uid",
@@ -1062,7 +1062,7 @@
         },
         {
             "key": "play_a_match_to_re-activate",
-            "value": "再活性化のためにマッチをプレイ"
+            "value": "再開するにはマッチを1回プレイしてください"
         },
         {
             "key": "play_with_code",
@@ -1078,7 +1078,7 @@
         },
         {
             "key": "practice",
-            "value": "プラクティス"
+            "value": "練習"
         },
         {
             "key": "premium",
@@ -1090,11 +1090,11 @@
         },
         {
             "key": "previous",
-            "value": "前"
+            "value": "前へ"
         },
         {
             "key": "previous_password",
-            "value": "前パスワード"
+            "value": "以前のパスワード"
         },
         {
             "key": "prismatic",
@@ -1114,7 +1114,7 @@
         },
         {
             "key": "promote",
-            "value": "昇格"
+            "value": "昇格させる"
         },
         {
             "key": "purchase_pack",
@@ -1142,7 +1142,7 @@
         },
         {
             "key": "random_rare_reward",
-            "value": "ランダムレア報酬"
+            "value": "ランダムなレア報酬"
         },
         {
             "key": "rank",
@@ -1170,11 +1170,11 @@
         },
         {
             "key": "recover_username",
-            "value": "ユーザー名回復"
+            "value": "ユーザー名を復旧"
         },
         {
             "key": "register",
-            "value": "登録"
+            "value": "登録する"
         },
         {
             "key": "remove",
@@ -1182,11 +1182,11 @@
         },
         {
             "key": "requests",
-            "value": "リクエスト"
+            "value": "申請"
         },
         {
             "key": "resend_confirmation",
-            "value": "確認再送信"
+            "value": "確認メールを再送"
         },
         {
             "key": "resolution",
@@ -1202,7 +1202,7 @@
         },
         {
             "key": "retype",
-            "value": "再入力"
+            "value": "再入力する"
         },
         {
             "key": "rewards",
@@ -1214,7 +1214,7 @@
         },
         {
             "key": "round_3",
-            "value": "ラウンド 3"
+            "value": "第3ラウンド"
         },
         {
             "key": "save",
@@ -1222,15 +1222,15 @@
         },
         {
             "key": "save_changes",
-            "value": "変更保存"
+            "value": "変更を保存"
         },
         {
             "key": "save_success",
-            "value": "保存成功"
+            "value": "保存しました"
         },
         {
             "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
-            "value": "QRコードをスキャン\n PERAモバイルアプリでトランザクションに署名\n 右側の確認ボタンをクリック"
+            "value": "QRコードをスキャン\nPERAモバイルアプリでトランザクションに署名\n右側の「確認」ボタンをクリックしてください"
         },
         {
             "key": "search",
@@ -1250,7 +1250,7 @@
         },
         {
             "key": "select_a_choice",
-            "value": "選択肢を選択"
+            "value": "選択肢を選ぶ"
         },
         {
             "key": "select_a_target",
@@ -1258,19 +1258,19 @@
         },
         {
             "key": "select_card_cost",
-            "value": "カードコストを選択"
+            "value": "カードのコストを選ぶ"
         },
         {
             "key": "select_cards_to_replace",
-            "value": "置き換えるカードを選択"
+            "value": "交換するカードを選ぶ"
         },
         {
             "key": "select_deck",
-            "value": "デッキを選択"
+            "value": "デッキを選ぶ"
         },
         {
             "key": "select_one_starter_deck",
-            "value": "スターターデッキを1つ選択"
+            "value": "スターターデッキを1つ選ぶ"
         },
         {
             "key": "sell",
@@ -1290,7 +1290,7 @@
         },
         {
             "key": "send_guild",
-            "value": "ギルド送信"
+            "value": "ギルドに送る"
         },
         {
             "key": "settings",
@@ -1306,7 +1306,7 @@
         },
         {
             "key": "silence_target_card.",
-            "value": "対象カードを沈黙。"
+            "value": "対象のカードを沈黙させる。"
         },
         {
             "key": "smokenstein",
@@ -1314,7 +1314,7 @@
         },
         {
             "key": "sort",
-            "value": "ソート"
+            "value": "並べ替え"
         },
         {
             "key": "spectate",
@@ -1342,7 +1342,7 @@
         },
         {
             "key": "status_title",
-            "value": "ステータスタイトル"
+            "value": "ステータス名"
         },
         {
             "key": "submit",
@@ -1354,7 +1354,7 @@
         },
         {
             "key": "tamer_silvo",
-            "value": "テイマー シルボ"
+            "value": "テイマー・シルボ"
         },
         {
             "key": "tamers",
@@ -1366,15 +1366,15 @@
         },
         {
             "key": "tcg_council",
-            "value": "TCG カウンシル"
+            "value": "TCG評議会"
         },
         {
             "key": "tcg_engine",
-            "value": "TCG エンジン"
+            "value": "TCGエンジン"
         },
         {
             "key": "tcgs",
-            "value": "TCGs"
+            "value": "TCG"
         },
         {
             "key": "test_tournament",
@@ -1414,7 +1414,7 @@
         },
         {
             "key": "turn_6",
-            "value": "ターン 6"
+            "value": "ターン6"
         },
         {
             "key": "type",
@@ -1426,11 +1426,11 @@
         },
         {
             "key": "uncommon_avatar",
-            "value": "アンコモンアバター"
+            "value": "アンコモンのアバター"
         },
         {
             "key": "unity_engine",
-            "value": "ユニティエンジン"
+            "value": "Unityエンジン"
         },
         {
             "key": "unlink",
@@ -1438,7 +1438,7 @@
         },
         {
             "key": "update_password",
-            "value": "パスワード更新"
+            "value": "パスワードを更新"
         },
         {
             "key": "username",
@@ -1450,7 +1450,7 @@
         },
         {
             "key": "vault",
-            "value": "ボールト"
+            "value": "保管庫"
         },
         {
             "key": "version_1.00",
@@ -1474,23 +1474,23 @@
         },
         {
             "key": "warning_text",
-            "value": "警告テキスト"
+            "value": "警告文"
         },
         {
             "key": "weekly_guild_missions",
-            "value": "ウィークリーギルドミッション"
+            "value": "週間ギルドミッション"
         },
         {
             "key": "weekly_missions",
-            "value": "ウィークリーミッション"
+            "value": "週間ミッション"
         },
         {
             "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
-            "value": "新しいプレイヤーがあなたのユーザー名を紹介コードとして使用すると、彼らは1レアパックを受け取り、彼らがアカウントをレベルアップするたびにあなたはレアパックを受け取ります"
+            "value": "新規プレイヤーがあなたのユーザー名を紹介コードとして入力すると、そのプレイヤーはレアパックを1つ獲得し、アカウントをレベルアップするたびにあなたにもレアパックが届きます"
         },
         {
             "key": "win_3_ranked_matches",
-            "value": "3つのランクマッチに勝利"
+            "value": "ランクマッチで3回勝利する"
         },
         {
             "key": "windowed",
@@ -1506,11 +1506,11 @@
         },
         {
             "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
-            "value": "報酬獲得を有効にするには24時間ごとに少なくとも1マッチをプレイする必要があります。再プレイまで報酬は一時停止。\n "
+            "value": "報酬獲得を維持するには24時間ごとに少なくとも1試合プレイしてください。再開するまで報酬は一時停止します。"
         },
         {
             "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
-            "value": "デッキが保存され、戦闘で使用可能。"
+            "value": "デッキを保存しました。バトルで使用できます。"
         },
         {
             "key": "zhamster",
@@ -1550,27 +1550,27 @@
         },
         {
             "key": "statusline.mind_control.desc_single_condition",
-            "value": "コントロールは元の所有者に {0} で戻ります。"
+            "value": "コントロールは{0}で元の所有者に戻ります。"
         },
         {
             "key": "statusline.mind_control.desc_double_condition",
-            "value": "コントロールは元の所有者に {0} または {1} で戻ります。"
+            "value": "コントロールは{0}または{1}で元の所有者に戻ります。"
         },
         {
             "key": "statusline.mind_control.desc_multiple_conditions",
-            "value": "コントロールは元の所有者に {0}、または {1} で戻ります。"
+            "value": "コントロールは{0}、もしくは{1}の条件を満たすと元の所有者に戻ります。"
         },
         {
             "key": "statusline.mind_control.desc_fallback_timed",
-            "value": "このカードは現在マインドコントロール下にあり、{0} {1} で戻ります。"
+            "value": "このカードは現在マインドコントロールされています。{0}{1}後に元の所有者へ戻ります。"
         },
         {
             "key": "statusline.mind_control.turn_condition_zero",
-            "value": "{0} の次のターン終了後"
+            "value": "{0}の次のターンが終わると"
         },
         {
             "key": "statusline.mind_control.turn_condition_remaining",
-            "value": "{1} {2} のうち {0} 後"
+            "value": "全{1}{2}のうち{0}回経過すると"
         },
         {
             "key": "statusline.mind_control.turn_singular",
@@ -1626,7 +1626,7 @@
         },
         {
             "key": "statusline.mind_control.list_separator",
-            "value": "、 "
+            "value": "、"
         },
         {
             "key": "language",
@@ -1654,7 +1654,7 @@
         },
         {
             "key": "warning.maximum_traps",
-            "value": "トラップは最大5つ"
+            "value": "トラップは最大5枚までです"
         },
         {
             "key": "warning.spell_immunity",
@@ -1662,7 +1662,7 @@
         },
         {
             "key": "warning.invalid_target",
-            "value": "無効なターゲット"
+            "value": "無効な対象です"
         },
         {
             "key": "quick_chat.placeholder",
@@ -1762,15 +1762,15 @@
         },
         {
             "key": "tip_mind_control_caster_fallback",
-            "value": "呪文の発生源"
+            "value": "呪文の発動者"
         },
         {
             "key": "tip_mind_control_hint_caster",
-            "value": "{0} を倒して精神支配を解除しよう。"
+            "value": "{0}を倒せば精神支配を解除できます。"
         },
         {
             "key": "tip_mind_control_hint_turns",
-            "value": "精神支配は、{1}の{0}ターン後に終了します。"
+            "value": "精神支配は{1}の{0}ターン後に終了します。"
         },
         {
             "key": "tip_mind_control_turn_owner_original",
@@ -1786,11 +1786,11 @@
         },
         {
             "key": "tip_swap_slots_base",
-            "value": "{0} は {1} と {2} の位置を入れ替えた。"
+            "value": "{0}が{1}と{2}の位置を入れ替えた。"
         },
         {
             "key": "tip_swap_slots_ability",
-            "value": "使用した能力：{0}"
+            "value": "使用した能力: {0}"
         },
         {
             "key": "tip_unknown_card",
@@ -1802,7 +1802,7 @@
         },
         {
             "key": "tip_ability_destroyed",
-            "value": "あなたの{0}は{1}の能力によって破壊されました！\n \n 能力の説明：{2}"
+            "value": "あなたの{0}は{1}の能力で破壊されました！\n\n能力: {2}"
         },
         {
             "key": "tip_armor_message",
@@ -1850,15 +1850,15 @@
         },
         {
             "key": "tip_spellimmunity_message",
-            "value": "敵は呪文無効のモンスターをプレイしました！ 呪文で対象にもダメージにもできませんが、対象を取らず破壊する呪文は有効です。"
+            "value": "敵は呪文無効のモンスターをプレイしました！ 呪文で対象にもダメージにもできませんが、対象を取らずに破壊する呪文は有効です。"
         },
         {
             "key": "tip_status_generic",
-            "value": "あなたのモンスターは{0}になりました！\n \n 説明：{1}"
+            "value": "あなたのモンスターは{0}になりました！\n\n説明: {1}"
         },
         {
             "key": "tip_status_sleep",
-            "value": "あなたのモンスターは眠らされました！\n \n 説明：{0}"
+            "value": "あなたのモンスターは眠らされました！\n\n説明: {0}"
         },
         {
             "key": "tip_stealth_message",
@@ -1874,11 +1874,11 @@
         },
         {
             "key": "tip_transform_into_with_trigger",
-            "value": "「変身先」は捨てられたカードをコピーします。 対象のカードは{1}に変身したため、今は{0}です。"
+            "value": "「変身先」は捨てられたカードをコピーします。対象のカードは{1}に変身したため、今は{0}です。"
         },
         {
             "key": "tip_transform_into_without_trigger",
-            "value": "「変身先」は捨てられたカードをコピーします。 対象のカードは、能力を誘発させた捨て札に変身したため、今は{0}です。"
+            "value": "「変身先」は捨てられたカードをコピーします。対象のカードは、能力を誘発させた捨て札に変身したため、今は{0}です。"
         },
         {
             "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
@@ -1966,7 +1966,7 @@
         },
         {
             "key": "missions_are_the_primary_method_of_gaining_currency_to_open_new_packs._there_are_many_more_features_like_match_spectating,_daily_login_streak_rewards,_friends_list,_player_created_guilds,_battlepass_rewards,_and_much_more!we_suggest_you_start_with_adventure_mode._good_luck!",
-            "value": "ミッションは、新しいパックを開けるための通貨を得る主な方法です。\n \n そのほか、観戦機能、デイリーログイン連続報酬、フレンドリスト、プレイヤー作成ギルド、バトルパス報酬など盛りだくさん！\n \n まずはアドベンチャーモードから始めるのがおすすめです。頑張って！"
+            "value": "ミッションは新しいパックを開けるための通貨を得る主な方法です。\n\nほかにも観戦機能、デイリーログイン連続報酬、フレンドリスト、プレイヤー作成ギルド、バトルパス報酬など盛りだくさん！\n\nまずはアドベンチャーモードから始めるのがおすすめです。頑張って！"
         },
         {
             "key": "great_job!_creatures_that_just_entered_play_cannot_attack_in_the_same_turn.",
@@ -2118,7 +2118,7 @@
         },
         {
             "key": "status.shell.desc",
-            "value": "受けるはずだった最初のダメージ源を無視する。"
+            "value": "このカードが最初に受けるダメージを無効にする。"
         },
         {
             "key": "status.protection.title",
@@ -2130,7 +2130,7 @@
         },
         {
             "key": "status.protected.title",
-            "value": "被保護"
+            "value": "保護"
         },
         {
             "key": "status.protected.desc",
@@ -2206,7 +2206,7 @@
         },
         {
             "key": "status.overkill.desc",
-            "value": "余剰ダメージでこのカードが回復する。"
+            "value": "余剰ダメージでこのカードのHPが回復する。"
         },
         {
             "key": "status.lifesteal.title",
@@ -2322,7 +2322,7 @@
         },
         {
             "key": "cardzoompanel.trait_format",
-            "value": "<b>{0}</b>: {1}\n \n "
+            "value": "<b>{0}</b>: {1}\\n\\n"
         },
         {
             "key": "cardzoompanel.evolution_label",
