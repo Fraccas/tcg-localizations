@@ -534,7 +534,7 @@
         },
         {
             "key": "card.muni.text",
-            "value": "Durante il gioco, rivela la mano dell'avversario"
+            "value": "Quando viene giocata, rivela la mano dell'avversario e pesca 1 carta."
         },
         {
             "key": "card.murple.text",

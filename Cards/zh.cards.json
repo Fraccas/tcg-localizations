@@ -534,7 +534,7 @@
         },
         {
             "key": "card.muni.text",
-            "value": "出牌时，揭示对手的手牌"
+            "value": "出牌时：揭示对手的手牌并抽1张牌。"
         },
         {
             "key": "card.murple.text",

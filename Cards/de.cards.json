@@ -534,7 +534,7 @@
         },
         {
             "key": "card.muni.text",
-            "value": "Beim Spielen die Hand des Gegners enthüllen"
+            "value": "Beim Ausspielen: Zeige die Hand des Gegners und ziehe 1 Karte."
         },
         {
             "key": "card.murple.text",

@@ -534,7 +534,7 @@
         },
         {
             "key": "card.muni.text",
-            "value": "Al jugar, revela la mano del oponente"
+            "value": "Al jugarla, revela la mano del oponente y roba 1 carta."
         },
         {
             "key": "card.murple.text",

@@ -534,7 +534,7 @@
         },
         {
             "key": "card.muni.text",
-            "value": "プレイ時に、相手の手札を公開"
+            "value": "プレイ時：相手の手札を公開し、カードを1枚引く。"
         },
         {
             "key": "card.murple.text",

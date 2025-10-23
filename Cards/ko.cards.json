@@ -534,7 +534,7 @@
         },
         {
             "key": "card.muni.text",
-            "value": "놓을 때 상대 손 공개"
+            "value": "플레이 시: 상대의 손패를 공개하고 카드 1장을 뽑습니다."
         },
         {
             "key": "card.murple.text",

@@ -534,7 +534,7 @@
         },
         {
             "key": "card.muni.text",
-            "value": "Lors du jeu, révéler la main de l'adversaire"
+            "value": "Lorsqu'elle est jouée, révèle la main de l'adversaire et pioche 1 carte."
         },
         {
             "key": "card.murple.text",
