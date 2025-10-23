@@ -1006,7 +1006,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Falle:</b> Den nächsten Angreifer vergiften und 3 Schaden zufügen."
+            "value": "<b>Falle:</b> Den nächsten Angreifer vergiften und 2 Schaden zufügen."
         },
         {
             "key": "card.trap_psychic_pit.text",

@@ -1221,6 +1221,14 @@
       "value": "Excavation"
     },
     {
+      "key": "ability.play_send_hand.desc",
+      "value": "À la mise en jeu, renvoyez un personnage dans la main de son propriétaire."
+    },
+    {
+      "key": "ability.play_send_hand.title",
+      "value": "Rebond"
+    },
+    {
       "key": "ability.play_set_attack1.desc",
       "value": "À la mise en jeu, réduit l'attaque de la cible choisie à 1."
     },
@@ -1871,6 +1879,14 @@
     {
       "key": "ability.trap_damage_all2.title",
       "value": "Dégât"
+    },
+    {
+      "key": "ability.trap_damage2.desc",
+      "value": "Endommage l'attaquant de 2 PV"
+    },
+    {
+      "key": "ability.trap_damage2.title",
+      "value": "Piège"
     },
     {
       "key": "ability.trap_damage3.desc",

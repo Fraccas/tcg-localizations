@@ -1006,7 +1006,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Trampa:</b> Envenena y inflige 3 daños al próximo atacante."
+            "value": "<b>Trampa:</b> Envenena y inflige 2 daños al próximo atacante."
         },
         {
             "key": "card.trap_psychic_pit.text",

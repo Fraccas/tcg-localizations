@@ -1221,6 +1221,14 @@
             "value": "발굴"
         },
         {
+            "key": "ability.play_send_hand.desc",
+            "value": "플레이 시 캐릭터 하나를 소유자의 손으로 되돌립니다."
+        },
+        {
+            "key": "ability.play_send_hand.title",
+            "value": "바운스"
+        },
+        {
             "key": "ability.play_set_attack1.desc",
             "value": "플레이 시 선택한 대상의 공격력을 1로 낮춥니다"
         },
@@ -1871,6 +1879,14 @@
         {
             "key": "ability.trap_damage_all2.title",
             "value": "피해"
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "공격자에게 2 HP 피해"
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "함정"
         },
         {
             "key": "ability.trap_damage3.desc",

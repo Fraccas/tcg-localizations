@@ -1221,6 +1221,14 @@
             "value": "Ausgraben"
         },
         {
+            "key": "ability.play_send_hand.desc",
+            "value": "Beim Ausspielen bringe einen Charakter auf die Hand seines Besitzers zurück."
+        },
+        {
+            "key": "ability.play_send_hand.title",
+            "value": "Zurückschicken"
+        },
+        {
             "key": "ability.play_set_attack1.desc",
             "value": "Beim Ausspielen wird der Angriff des gewählten Ziels auf 1 reduziert."
         },
@@ -1871,6 +1879,14 @@
         {
             "key": "ability.trap_damage_all2.title",
             "value": "Schaden"
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "Füge dem Angreifer 2 LP Schaden zu."
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "Falle"
         },
         {
             "key": "ability.trap_damage3.desc",

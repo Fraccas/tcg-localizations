@@ -1221,6 +1221,14 @@
       "value": "Excavar"
     },
     {
+      "key": "ability.play_send_hand.desc",
+      "value": "Al jugar, regresa un personaje a la mano de su dueño."
+    },
+    {
+      "key": "ability.play_send_hand.title",
+      "value": "Rebote"
+    },
+    {
       "key": "ability.play_set_attack1.desc",
       "value": "Al jugar, selecciona objetivo's ataque is reduced a 1."
     },
@@ -1871,6 +1879,14 @@
     {
       "key": "ability.trap_damage_all2.title",
       "value": "Daño"
+    },
+    {
+      "key": "ability.trap_damage2.desc",
+      "value": "Daña al atacante por 2 de PV"
+    },
+    {
+      "key": "ability.trap_damage2.title",
+      "value": "Trampa"
     },
     {
       "key": "ability.trap_damage3.desc",

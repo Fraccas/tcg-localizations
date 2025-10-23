@@ -1006,7 +1006,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Trappola:</b> Avvelena e infligge 3 danni al prossimo attaccante."
+            "value": "<b>Trappola:</b> Avvelena e infligge 2 danni al prossimo attaccante."
         },
         {
             "key": "card.trap_psychic_pit.text",

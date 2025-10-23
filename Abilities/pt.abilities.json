@@ -1221,6 +1221,14 @@
             "value": "Cavar"
         },
         {
+            "key": "ability.play_send_hand.desc",
+            "value": "Ao jogar, devolva um personagem à mão de seu dono."
+        },
+        {
+            "key": "ability.play_send_hand.title",
+            "value": "Ricochete"
+        },
+        {
             "key": "ability.play_set_attack1.desc",
             "value": "Ao entrar em jogo, reduza o ataque do alvo escolhido para 1."
         },
@@ -1871,6 +1879,14 @@
         {
             "key": "ability.trap_damage_all2.title",
             "value": "Dano"
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "Causa 2 HP de dano ao atacante"
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "Armadilha"
         },
         {
             "key": "ability.trap_damage3.desc",
