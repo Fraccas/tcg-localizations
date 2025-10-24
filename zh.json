@@ -18,7 +18,7 @@
         },
         {
             "key": "1._scan_the_qr_code_shown_above_2._choose_your_desired_wallet_account_in_pera_3._enter_0_for_the_algo_amount_to_send_4._sign_the_txn_in_the_pera_mobile_app_5._click_the_confirm_button_to_the_right",
-            "value": "1. 扫描上方显示的二维码\n 2. 在 Pera 中选择您想要的钱包账户\n 3. 输入 0 作为要发送的 Algo 数量\n 4. 在 Pera 移动应用中签署交易\n 5. 点击右侧的确认按钮"
+            "value": "1. 扫描上方的二维码\n2. 在 Pera 中选择要使用的钱包账户\n3. 将要发送的 Algo 数量填写为 0\n4. 在 Pera 移动应用中签署交易\n5. 点击右侧的确认按钮"
         },
         {
             "key": "100",
@@ -118,7 +118,7 @@
         },
         {
             "key": "55_guild_pts_70_coins_each_150_xp_each",
-            "value": "55 公会积分\n 每个 70 金币\n 每个 150 经验"
+            "value": "55 公会积分\n每个 70 金币\n每个 150 经验值"
         },
         {
             "key": "60",
@@ -214,7 +214,7 @@
         },
         {
             "key": "battle_pass",
-            "value": "战斗\n 通行证"
+            "value": "战斗\n通行证"
         },
         {
             "key": "battlepass_rewards",
@@ -238,7 +238,7 @@
         },
         {
             "key": "build_deck",
-            "value": "构建套牌"
+            "value": "构筑套牌"
         },
         {
             "key": "built_with",
@@ -254,7 +254,7 @@
         },
         {
             "key": "buy_pack",
-            "value": "购买包"
+            "value": "购买卡包"
         },
         {
             "key": "cancel",
@@ -270,7 +270,7 @@
         },
         {
             "key": "card_artist",
-            "value": "卡牌艺术家"
+            "value": "卡牌画师"
         },
         {
             "key": "card_description",
@@ -282,11 +282,11 @@
         },
         {
             "key": "cardback",
-            "value": "卡牌背面"
+            "value": "卡背"
         },
         {
             "key": "cardbacks",
-            "value": "卡牌背面"
+            "value": "卡背"
         },
         {
             "key": "cards_owned",
@@ -310,7 +310,7 @@
         },
         {
             "key": "check_optin",
-            "value": "检查 Opt-in"
+            "value": "检查参与状态"
         },
         {
             "key": "choose_a_quick_chat_option",
@@ -362,7 +362,7 @@
         },
         {
             "key": "common",
-            "value": "常见"
+            "value": "普通"
         },
         {
             "key": "community_guilds",
@@ -438,7 +438,7 @@
         },
         {
             "key": "custom_player_decks",
-            "value": "自定义玩家套牌"
+            "value": "玩家自建套牌"
         },
         {
             "key": "customize",
@@ -450,11 +450,11 @@
         },
         {
             "key": "daily_rewards",
-            "value": "每日\n 奖励"
+            "value": "每日\n奖励"
         },
         {
             "key": "daily_daily_tournament",
-            "value": "每日每日锦标赛"
+            "value": "每日锦标赛"
         },
         {
             "key": "daily_missions",
@@ -562,7 +562,7 @@
         },
         {
             "key": "destroy_5_monsters_using_fire_team",
-            "value": "使用火系队伍摧毁 5 只怪物"
+            "value": "使用火系队伍消灭 5 只怪物"
         },
         {
             "key": "detail",
@@ -626,7 +626,7 @@
         },
         {
             "key": "email_was_sent_with_a_code._enter_the_code_here_to_reset_your_password.",
-            "value": "已发送带有代码的电子邮件。\n 在此输入代码以重置您的密码。"
+            "value": "我们已发送带有验证码的电子邮件。\n在此输入验证码即可重置密码。"
         },
         {
             "key": "emote",
@@ -634,7 +634,7 @@
         },
         {
             "key": "end_turn",
-            "value": "结束\n 回合"
+            "value": "结束\n回合"
         },
         {
             "key": "enter_discord_code...",
@@ -722,7 +722,7 @@
         },
         {
             "key": "friend_list_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
-            "value": "测试模式下好友列表不可用。\n 安装 Web API 服务器以使用此功能。"
+            "value": "测试模式下无法使用好友列表。\n安装 Web API 服务器即可启用此功能。"
         },
         {
             "key": "friends",
@@ -774,7 +774,7 @@
         },
         {
             "key": "guild_requests",
-            "value": "公会请求"
+            "value": "公会申请"
         },
         {
             "key": "guild_vault_cards",
@@ -838,7 +838,7 @@
         },
         {
             "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
-            "value": "测试模式下排行榜不可用。\n 安装 Web API 服务器以使用此功能。"
+            "value": "测试模式下无法使用排行榜。\n安装 Web API 服务器即可启用此功能。"
         },
         {
             "key": "leave_guild",
@@ -922,7 +922,7 @@
         },
         {
             "key": "mulligan",
-            "value": "洗牌"
+            "value": "换牌"
         },
         {
             "key": "multiplayer",
@@ -990,15 +990,15 @@
         },
         {
             "key": "open_packs",
-            "value": "开启包"
+            "value": "开启卡包"
         },
         {
             "key": "optin",
-            "value": "Opt-in"
+            "value": "参与登记"
         },
         {
             "key": "optin_asa_txn",
-            "value": "OPTIN ASA TXN"
+            "value": "登记 ASA 交易"
         },
         {
             "key": "option_a",
@@ -1018,15 +1018,15 @@
         },
         {
             "key": "pack",
-            "value": "包"
+            "value": "卡包"
         },
         {
             "key": "pack_description",
-            "value": "包描述"
+            "value": "卡包描述"
         },
         {
             "key": "packs",
-            "value": "包"
+            "value": "卡包"
         },
         {
             "key": "partners",
@@ -1058,15 +1058,15 @@
         },
         {
             "key": "play",
-            "value": "玩"
+            "value": "开始游戏"
         },
         {
             "key": "play_a_match_to_re-activate",
-            "value": "玩一场比赛以重新激活"
+            "value": "进行一场对战以重新激活"
         },
         {
             "key": "play_with_code",
-            "value": "使用代码玩"
+            "value": "使用代码加入对战"
         },
         {
             "key": "player",
@@ -1118,7 +1118,7 @@
         },
         {
             "key": "purchase_pack",
-            "value": "购买包"
+            "value": "购买卡包"
         },
         {
             "key": "quality",
@@ -1230,7 +1230,7 @@
         },
         {
             "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
-            "value": "扫描二维码\n 在 Pera 移动应用中签署交易\n 点击右侧的确认按钮"
+            "value": "扫描二维码\n在 Pera 移动应用中签署交易\n点击右侧的确认按钮"
         },
         {
             "key": "search",
@@ -1290,7 +1290,7 @@
         },
         {
             "key": "send_guild",
-            "value": "发送公会"
+            "value": "发送至公会"
         },
         {
             "key": "settings",
@@ -1326,7 +1326,7 @@
         },
         {
             "key": "standard_pack",
-            "value": "标准包"
+            "value": "标准卡包"
         },
         {
             "key": "start",
@@ -1374,19 +1374,19 @@
         },
         {
             "key": "statusline.mind_control.list_separator",
-            "value": "、 "
+            "value": "、"
         },
         {
             "key": "statusline.mind_control.owner_active",
-            "value": "活跃玩家的"
+            "value": "当前玩家的"
         },
         {
             "key": "statusline.mind_control.owner_controller",
-            "value": "控制者的"
+            "value": "操控者的"
         },
         {
             "key": "statusline.mind_control.owner_opponent",
-            "value": "您对手的"
+            "value": "你的对手的"
         },
         {
             "key": "statusline.mind_control.owner_opponent_label",
@@ -1402,15 +1402,15 @@
         },
         {
             "key": "statusline.mind_control.owner_prefix",
-            "value": "<color=orange>原始拥有者: {0}</color>"
+            "value": "<color=orange>原始拥有者：{0}</color>"
         },
         {
             "key": "statusline.mind_control.owner_you",
-            "value": "您"
+            "value": "你"
         },
         {
             "key": "statusline.mind_control.owner_your",
-            "value": "您的"
+            "value": "你的"
         },
         {
             "key": "statusline.mind_control.possessive_format",
@@ -1426,7 +1426,7 @@
         },
         {
             "key": "statusline.mind_control.release_caster_leaves",
-            "value": "当施放者离开游戏时"
+            "value": "当施放者离场时"
         },
         {
             "key": "statusline.mind_control.release_if_evolves",
@@ -1434,11 +1434,11 @@
         },
         {
             "key": "statusline.mind_control.turn_condition_remaining",
-            "value": "{1} {2} 中的 {0} 后"
+            "value": "在 {1} 的 {0} 个 {2} 后"
         },
         {
             "key": "statusline.mind_control.turn_condition_zero",
-            "value": "{0} 下个回合结束时"
+            "value": "当 {0} 的下个回合结束时"
         },
         {
             "key": "statusline.mind_control.turn_plural",
@@ -1534,7 +1534,7 @@
         },
         {
             "key": "uncommon",
-            "value": "非凡"
+            "value": "罕见"
         },
         {
             "key": "uncommon_avatar",
@@ -1598,7 +1598,7 @@
         },
         {
             "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
-            "value": "当新玩家使用您的用户名作为他们的推荐代码时，他们将收到 1 个稀有包，并且每次他们升级账户时，您将收到一个稀有包 "
+            "value": "当新玩家使用您的用户名作为他们的推荐代码时，他们将收到 1 个稀有包，并且每次他们升级账户时，您将收到一个稀有包"
         },
         {
             "key": "win_3_ranked_matches",
@@ -1618,7 +1618,7 @@
         },
         {
             "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
-            "value": "您必须每 24 小时至少玩一场比赛，以保持奖励收益活跃。奖励将暂停，直到您再次玩游戏。\n "
+            "value": "您必须每 24 小时至少进行一场对战，才能保持奖励收益有效。如果超过时限未出战，奖励将暂停，直到您再次参战。"
         },
         {
             "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
@@ -1642,7 +1642,7 @@
         },
         {
             "key": "warning.rush_cant_attack_player",
-            "value": "Rush 卡牌在打出的回合无法攻击玩家"
+            "value": "具有“急速”的卡牌在打出的回合无法直接攻击玩家"
         },
         {
             "key": "warning.not_enough_mana",
@@ -1670,7 +1670,7 @@
         },
         {
             "key": "quick_chat.gm",
-            "value": "GM!"
+            "value": "早上好！"
         },
         {
             "key": "quick_chat.hello",
@@ -1678,7 +1678,7 @@
         },
         {
             "key": "quick_chat.glhf",
-            "value": "GLHF!"
+            "value": "祝好运，玩得开心！"
         },
         {
             "key": "quick_chat.lets_go",
@@ -1702,11 +1702,11 @@
         },
         {
             "key": "quick_chat.rip",
-            "value": "RIP"
+            "value": "完蛋了！"
         },
         {
             "key": "quick_chat.rip_gg",
-            "value": "RIP GG"
+            "value": "GG，完蛋了。"
         },
         {
             "key": "quick_chat.oops",
@@ -1746,11 +1746,11 @@
         },
         {
             "key": "tip_mind_control_base",
-            "value": "{0} 已夺取对 {1} 的控制！在效果结束前，{1}将为{0}而战。"
+            "value": "{0} 已夺取 {1} 的控制权！在效果结束前，{1} 将为 {0} 而战。"
         },
         {
             "key": "tip_mind_control_ability",
-            "value": "来源技能：{0}"
+            "value": "来源能力：{0}"
         },
         {
             "key": "tip_mind_control_evolution_return",
@@ -1758,11 +1758,11 @@
         },
         {
             "key": "tip_mind_control_hint_none",
-            "value": "当前没有解除提示。留意可能会结束控制的其他效果。"
+            "value": "暂无解除方式。留意可能终止控制的其他效果。"
         },
         {
             "key": "tip_mind_control_caster_fallback",
-            "value": "法术来源"
+            "value": "操控来源"
         },
         {
             "key": "tip_mind_control_hint_caster",
@@ -1770,19 +1770,19 @@
         },
         {
             "key": "tip_mind_control_hint_turns",
-            "value": "心灵控制会在 {1} 的 {0} 个回合后结束。"
+            "value": "等待 {1} 的 {0} 个回合后，心灵控制将解除。"
         },
         {
             "key": "tip_mind_control_turn_owner_original",
-            "value": "原主人"
+            "value": "原主人的回合"
         },
         {
             "key": "tip_mind_control_turn_owner_active",
-            "value": "当前玩家"
+            "value": "当前玩家的回合"
         },
         {
             "key": "tip_mind_control_turn_owner_controller",
-            "value": "操控者"
+            "value": "操控者的回合"
         },
         {
             "key": "tip_swap_slots_base",
@@ -1798,11 +1798,11 @@
         },
         {
             "key": "collection.create_new_deck",
-            "value": "创建新牌组"
+            "value": "创建新套牌"
         },
         {
             "key": "tip_ability_destroyed",
-            "value": "你的{0}被{1}的能力摧毁了！\\n \\n 能力说明：{2}"
+            "value": "你的 {0} 被 {1} 的能力摧毁了！\n\n能力说明：{2}"
         },
         {
             "key": "tip_armor_message",
@@ -1826,7 +1826,7 @@
         },
         {
             "key": "tip_heropower_message",
-            "value": "敌人以{0}施放了他们的精灵之力！\\n \\n 能力：{1}"
+            "value": "敌方以 {0} 启动了他们的精灵之力！\n\n能力：{1}"
         },
         {
             "key": "tip_intimidate_message",
@@ -1854,11 +1854,11 @@
         },
         {
             "key": "tip_status_generic",
-            "value": "你的怪物已被{0}！\\n \\n 描述：{1}"
+            "value": "你的怪物受到了 {0} 的影响！\n\n描述：{1}"
         },
         {
             "key": "tip_status_sleep",
-            "value": "你的怪物被催眠了！\\n \\n 描述：{0}"
+            "value": "你的怪物睡着了！\n\n描述：{0}"
         },
         {
             "key": "tip_stealth_message",
@@ -1882,11 +1882,11 @@
         },
         {
             "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
-            "value": "将你的一只贾古尔拖到敌人身上进行攻击。"
+            "value": "将你的一只 Jagur 拖到敌人身上进行攻击。"
         },
         {
             "key": "before_they_destroy_yours",
-            "value": "在他们摧毁你的之前"
+            "value": "赶在他们摧毁你的卡牌之前"
         },
         {
             "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
@@ -1930,15 +1930,15 @@
         },
         {
             "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
-            "value": "在排位多人模式中与其他玩家对战。\n  \n   你可以通过导航栏顶部的按钮查看你的 PvP 排名。 "
+            "value": "在排位多人模式中与其他玩家对战。\n\n你可以通过导航栏顶部的按钮查看你的 PvP 排名。"
         },
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
-            "value": "在我们的锦标赛模式中，每日参加自动锦标赛，与其他玩家竞争。\n  \n  在这些比赛中赢取精华货币、账号经验、卡包和公会点数！"
+            "value": "在我们的锦标赛模式中，每日参加自动锦标赛，与其他玩家竞争。\n\n在这些比赛中赢取精华货币、账号经验、卡包和公会点数！"
         },
         {
             "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
-            "value": "尝试将一张牌拖到棋盘上的空位来出牌。\n\n 手中带有绿色高亮的任何牌都可以打出。"
+            "value": "尝试把一张牌拖到棋盘的空位来打出。\n\n手中带有绿色高亮的任何牌都可以打出。"
         },
         {
             "key": "modal.version_warning_message",
@@ -1946,27 +1946,27 @@
         },
         {
             "key": "welcome_to_fracctal_tcg_beta!_let's_learn_a_bit_about_the_game.",
-            "value": "欢迎来到《Fracctal TCG》测试版！\n 让我们先了解一下这款游戏。"
+            "value": "欢迎来到《Fracctal TCG》测试版！\n让我们先了解一下这款游戏。"
         },
         {
             "key": "in_adventure_mode_you_learn_the_basics_of_the_game_as_well_as_the_different_types_of_cards_and_abilites.you_also_earn_rewards_as_you_defeat_challenges!",
-            "value": "在冒险模式中，你将学习游戏基础以及不同类型的卡牌与技能。\n \n 随着你完成挑战，还能获得奖励！"
+            "value": "在冒险模式中，你会学习游戏基础以及不同类型的卡牌与能力。\n\n完成挑战还能获得奖励！"
         },
         {
             "key": "in_practice_mode_you_can_test_your_different_decks,_complete_missions,_and_learn_the_game_wihtout_affecting_your_ranking.",
-            "value": "在练习模式中，你可以测试不同的卡组、完成任务，并在不影响排名的情况下学习游戏。"
+            "value": "在练习模式中，你可以测试不同的套牌、完成任务，并在不影响排名的情况下熟悉游戏。"
         },
         {
             "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
-            "value": "在排位多人模式中与其他玩家对战。\n \n 你可以通过导航栏顶部的按钮查看你的 PvP 排名。"
+            "value": "在排位多人模式中与其他玩家对战。\n\n你可以通过导航栏顶部的按钮查看你的 PvP 排名。"
         },
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_mode.win_essence_currency,_account_xp,_packs,_and_guild_points_in_these_competions!",
-            "value": "在我们的锦标赛模式中，每日参加自动锦标赛，与其他玩家竞争。\n \n 在这些比赛中赢取精华货币、账号经验、卡包和公会点数！"
+            "value": "在我们的锦标赛模式中，参加每日自动锦标赛，与其他玩家一较高下。\n\n在这些比赛中赢取精华货币、账号经验、卡包和公会点数！"
         },
         {
             "key": "missions_are_the_primary_method_of_gaining_currency_to_open_new_packs._there_are_many_more_features_like_match_spectating,_daily_login_streak_rewards,_friends_list,_player_created_guilds,_battlepass_rewards,_and_much_more!we_suggest_you_start_with_adventure_mode._good_luck!",
-            "value": "任务是获取货币以开启新卡包的主要方式。\n \n 还有更多功能：观战、每日连续登录奖励、好友列表、玩家创建的公会、战斗通行证奖励等！\n \n 我们建议从冒险模式开始。祝你好运！"
+            "value": "任务是获取货币以开启新卡包的主要方式。\n\n此外还有观战、每日连登奖励、好友列表、玩家自建公会、战斗通行证奖励等更多功能！\n\n我们建议先从冒险模式开始。祝你好运！"
         },
         {
             "key": "great_job!_creatures_that_just_entered_play_cannot_attack_in_the_same_turn.",
@@ -2094,7 +2094,7 @@
         },
         {
             "key": "status.addmanacost.desc",
-            "value": "在限定时间内，法力费用调整 <value>。"
+            "value": "在限定时间内，法力费用调整为 <value>。"
         },
         {
             "key": "status.stealth.title",
@@ -2110,7 +2110,7 @@
         },
         {
             "key": "status.invincibility.desc",
-            "value": "在 <value> 回合内无法被攻击。"
+            "value": "在 <value> 个回合内不会被攻击。"
         },
         {
             "key": "status.shell.title",
@@ -2142,7 +2142,7 @@
         },
         {
             "key": "status.armor.desc",
-            "value": "使收到的伤害减少 <value>。"
+            "value": "所受伤害减少 <value>。"
         },
         {
             "key": "status.spellimmunity.title",
@@ -2230,7 +2230,7 @@
         },
         {
             "key": "status.paralysed.desc",
-            "value": "在 <value> 回合内无法行动。"
+            "value": "在 <value> 个回合内无法行动。"
         },
         {
             "key": "status.poisoned.title",
@@ -2238,7 +2238,7 @@
         },
         {
             "key": "status.poisoned.desc",
-            "value": "每个回合开始时失去 <value> 生命值。"
+            "value": "每个回合开始时失去 <value> 点生命值。"
         },
         {
             "key": "status.sleep.title",
@@ -2254,7 +2254,7 @@
         },
         {
             "key": "status.frozen.desc",
-            "value": "在 <value> 回合内无法行动。"
+            "value": "在 <value> 个回合内无法行动。"
         },
         {
             "key": "status.cursed.title",
@@ -2278,7 +2278,7 @@
         },
         {
             "key": "status.burned.desc",
-            "value": "每个回合开始时失去 <value> 生命值。"
+            "value": "每个回合开始时失去 <value> 点生命值。"
         },
         {
             "key": "status.trapevasion.title",
@@ -2322,7 +2322,7 @@
         },
         {
             "key": "cardzoompanel.trait_format",
-            "value": "<b>{0}</b>: {1}\n \n "
+            "value": "<b>{0}</b>：{1}"
         },
         {
             "key": "cardzoompanel.evolution_label",
@@ -2330,7 +2330,7 @@
         },
         {
             "key": "cardzoompanel.evolution_description",
-            "value": "该怪物将在 {0} 回合后进化"
+            "value": "该怪物将在 {0} 回合后进化。"
         },
         {
             "key": "main_menu.tournament_countdown_minute",
