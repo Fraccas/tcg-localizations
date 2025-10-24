@@ -34,7 +34,7 @@
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "Все союзные существа получают +2 брони. Использует действие этого существа и стоит 5 маны"
+            "value": "Все союзные существа получают +2 к броне. Использует действие этого существа и стоит 5 маны."
         },
         {
             "key": "ability.activate_armor2.title",
@@ -42,7 +42,7 @@
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "Все союзные существа получают +1 атаки до конца хода. Использует действие этого существа"
+            "value": "Все союзные существа получают +1 к атаке до конца хода. Использует действие этого существа."
         },
         {
             "key": "ability.activate_boost1.title",
@@ -50,7 +50,7 @@
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "Все союзные существа получают +3 атаки до конца хода. Использует действие этого существа"
+            "value": "Все союзные существа получают +3 к атаке до конца хода. Использует действие этого существа."
         },
         {
             "key": "ability.activate_boost3.title",
@@ -58,7 +58,7 @@
         },
         {
             "key": "ability.activate_burst.desc",
-            "value": "Получите 1 урона, чтобы получить +1 атаки"
+            "value": "Получите 1 ед. урона, чтобы получить +1 к атаке."
         },
         {
             "key": "ability.activate_burst.title",
@@ -66,7 +66,7 @@
         },
         {
             "key": "ability.activate_damage2.desc",
-            "value": "Наносит 2 урона. Стоит 3 маны. Не истощает действие"
+            "value": "Нанесите 2 ед. урона. Стоимость: 3 маны. Не тратит действие."
         },
         {
             "key": "ability.activate_damage2.title",
@@ -74,7 +74,7 @@
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "Противник сбрасывает случайную карту из руки. Использует действие этого существа"
+            "value": "Противник сбрасывает случайную карту из руки. Использует действие этого существа."
         },
         {
             "key": "ability.activate_discard.title",
@@ -82,7 +82,7 @@
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "Противник сбрасывает случайную карту из руки. Использует действие этого существа"
+            "value": "Противник сбрасывает случайную карту из руки. Использует действие этого существа."
         },
         {
             "key": "ability.activate_discard_random_3l.title",
@@ -90,7 +90,7 @@
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "Цель получает силу для атаки (должно быть электрическим монстром)"
+            "value": "Цель получает ускорение (только для электрического монстра)."
         },
         {
             "key": "ability.activate_electric.title",
@@ -98,7 +98,7 @@
         },
         {
             "key": "ability.activate_fire.desc",
-            "value": "Наносит 1 урона"
+            "value": "Нанесите 1 ед. урона."
         },
         {
             "key": "ability.activate_fire.title",
@@ -106,7 +106,7 @@
         },
         {
             "key": "ability.activate_heal_player3.desc",
-            "value": "Восстанавливает игроку 3 HP"
+            "value": "Вылечите игрока на 3 ОЗ."
         },
         {
             "key": "ability.activate_heal_player3.title",
@@ -114,7 +114,7 @@
         },
         {
             "key": "ability.activate_ice.desc",
-            "value": "Замораживает врага на 1 ход"
+            "value": "Заморозьте врага на 1 ход."
         },
         {
             "key": "ability.activate_ice.title",
@@ -122,7 +122,7 @@
         },
         {
             "key": "ability.activate_plant.desc",
-            "value": "Восстанавливает 2 HP"
+            "value": "Восстановите 2 ОЗ."
         },
         {
             "key": "ability.activate_plant.title",
@@ -130,7 +130,7 @@
         },
         {
             "key": "ability.activate_psychic.desc",
-            "value": "Противник сбрасывает случайную карту из руки"
+            "value": "Противник сбрасывает случайную карту из руки."
         },
         {
             "key": "ability.activate_psychic.title",
@@ -138,7 +138,7 @@
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "Целевой персонаж получает +1 брони"
+            "value": "Целевой персонаж получает +1 к броне."
         },
         {
             "key": "ability.activate_rock.title",
@@ -146,7 +146,7 @@
         },
         {
             "key": "ability.activate_rock_hammi_old.desc",
-            "value": "Призывает Хамми 1/1"
+            "value": "Призовите Хамми 1/1."
         },
         {
             "key": "ability.activate_rock_hammi_old.title",
@@ -154,7 +154,7 @@
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "Выберите персонажа и киньте D6, при 4+ верните его в руку владельца. Стоит 2 маны"
+            "value": "Выберите персонажа и бросьте D6: при результате 4+ верните его в руку владельца. Стоимость: 2 маны."
         },
         {
             "key": "ability.activate_roll_send_hand.title",
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "Верните заклинание из вашего кладбища в руку. Стоит 2 маны"
+            "value": "Верните заклинание из вашего кладбища в руку. Стоимость: 2 маны."
         },
         {
             "key": "ability.activate_select_discard_spell.title",
@@ -170,7 +170,7 @@
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "Верните персонажа в руку владельца. Использует действие этого существа"
+            "value": "Верните персонажа в руку владельца. Использует действие этого существа."
         },
         {
             "key": "ability.activate_send_hand.title",
@@ -186,7 +186,7 @@
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "При игре выберите целевого персонажа для смены стороны"
+            "value": "При розыгрыше выберите целевого персонажа, чтобы сменить ему сторону."
         },
         {
             "key": "ability.activate_switch_sides.title",
@@ -194,7 +194,7 @@
         },
         {
             "key": "ability.activate_water.desc",
-            "value": "Взять карту"
+            "value": "Возьмите карту."
         },
         {
             "key": "ability.activate_water.title",
@@ -202,7 +202,7 @@
         },
         {
             "key": "ability.add_attack_traps.desc",
-            "value": "Получайте +1 урона за каждую вражескую ловушку"
+            "value": "Получает +1 к атаке за каждую вражескую ловушку."
         },
         {
             "key": "ability.add_attack_traps.title",
@@ -210,7 +210,7 @@
         },
         {
             "key": "ability.add_hp_location.desc",
-            "value": "Получайте +2 HP за каждую союзную локацию того же типа элемента в игре"
+            "value": "Получает +2 ОЗ за каждую союзную локацию того же элемента в игре."
         },
         {
             "key": "ability.add_hp_location.title",
@@ -218,7 +218,7 @@
         },
         {
             "key": "ability.add_spell_damage1.desc",
-            "value": "Все ваши заклинания и способности наносят +1 урона"
+            "value": "Все ваши заклинания и способности наносят на 1 ед. урона больше."
         },
         {
             "key": "ability.add_spell_damage1.title",
@@ -226,7 +226,7 @@
         },
         {
             "key": "ability.add_spell_damage2.desc",
-            "value": "Все ваши заклинания и способности наносят +2 урона"
+            "value": "Все ваши заклинания и способности наносят на 2 ед. урона больше."
         },
         {
             "key": "ability.add_spell_damage2.title",
@@ -234,7 +234,7 @@
         },
         {
             "key": "ability.add_spell_damage4.desc",
-            "value": "Все ваши заклинания и способности наносят +4 урона."
+            "value": "Все ваши заклинания и способности наносят на 4 ед. урона больше."
         },
         {
             "key": "ability.add_spell_damage4.title",
@@ -242,7 +242,7 @@
         },
         {
             "key": "ability.after_spell_attack2.desc",
-            "value": "После игры заклинания получайте +2 атаки"
+            "value": "После розыгрыша заклинания получает +2 к атаке."
         },
         {
             "key": "ability.after_spell_attack2.title",
@@ -250,7 +250,7 @@
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "Атакованный персонаж обожжен. Теряет 2 HP каждый ход"
+            "value": "Атакованные персонажи получают ожог и теряют 2 ОЗ каждый ход."
         },
         {
             "key": "ability.attack_burned.title",
@@ -258,7 +258,7 @@
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "Атакованные персонажи получают проклятие. Теряют 1 атаки каждый ход"
+            "value": "Атакованные персонажи получают проклятие и теряют 1 к атаке каждый ход."
         },
         {
             "key": "ability.attack_curse.title",
@@ -266,7 +266,7 @@
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "Защищает атаку персонажа от снижения"
+            "value": "Атаку этого персонажа нельзя понизить."
         },
         {
             "key": "ability.attack_loss_immunity.title",
@@ -290,7 +290,7 @@
         },
         {
             "key": "ability.attack_player_mana1.desc",
-            "value": "После атаки жизни противника получайте 1 маны"
+            "value": "После атаки по ОЗ противника получите 1 ману."
         },
         {
             "key": "ability.attack_player_mana1.title",
@@ -298,7 +298,7 @@
         },
         {
             "key": "ability.attack_player_mana2.desc",
-            "value": "После атаки жизни противника получайте 2 маны"
+            "value": "После атаки по ОЗ противника получите 2 маны."
         },
         {
             "key": "ability.attack_player_mana2.title",
@@ -306,7 +306,7 @@
         },
         {
             "key": "ability.attack_player_mana3.desc",
-            "value": "После атаки жизни противника получайте 3 маны"
+            "value": "После атаки по ОЗ противника получите 3 маны."
         },
         {
             "key": "ability.attack_player_mana3.title",
@@ -314,7 +314,7 @@
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "Атакованные персонажи получают яд. Теряют 1 HP каждый ход"
+            "value": "Атакованные персонажи получают яд и теряют 1 ОЗ каждый ход."
         },
         {
             "key": "ability.attack_poison.title",
@@ -322,7 +322,7 @@
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "Перед атакой киньте D6, при 4+ получайте +3 атаки"
+            "value": "Перед атакой бросьте D6: при результате 4+ получает +3 к атаке."
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.title",
@@ -330,7 +330,7 @@
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "Перед атакой киньте D6, при 4+ получайте +3 атаки до конца хода"
+            "value": "Перед атакой бросьте D6: при результате 4+ получает +3 к атаке до конца хода."
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
@@ -338,7 +338,7 @@
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "Перед атакой киньте D6, при 4+ получайте +6 атаки до конца хода"
+            "value": "Перед атакой бросьте D6: при результате 4+ получает +6 к атаке до конца хода."
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
@@ -346,7 +346,7 @@
         },
         {
             "key": "ability.attack_suffer_damage.desc",
-            "value": "Перед атакой получите 3 урона"
+            "value": "Перед атакой получите 3 ед. урона."
         },
         {
             "key": "ability.attack_suffer_damage.title",
@@ -354,7 +354,7 @@
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "Все союзные огненные существа получают: \"Получите 1 урона, чтобы получить +1 атаки\""
+            "value": "Все союзные огненные существа получают: «Получите 1 ед. урона, чтобы получить +1 к атаке»."
         },
         {
             "key": "ability.aura_ability_red.title",
@@ -362,7 +362,7 @@
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "Все союзные каменные существа получают: \"Получите 1 урона, чтобы получить +1 атаки\""
+            "value": "Все союзные каменные существа получают: «Получите 1 ед. урона, чтобы получить +1 к атаке»."
         },
         {
             "key": "ability.aura_ability_rock.title",
@@ -370,7 +370,7 @@
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "Все вражеские персонажи имеют -1 атаки"
+            "value": "Все вражеские персонажи имеют −1 к атаке."
         },
         {
             "key": "ability.aura_attack_m1.title",
@@ -378,7 +378,7 @@
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "Все вражеские персонажи имеют -2 атаки"
+            "value": "Все вражеские персонажи имеют −2 к атаке."
         },
         {
             "key": "ability.aura_attack_m2.title",
@@ -386,7 +386,7 @@
         },
         {
             "key": "ability.aura_cat.desc",
-            "value": "Все другие союзные кошки получают +1 атаки"
+            "value": "Все другие союзные кошки получают +1 к атаке."
         },
         {
             "key": "ability.aura_cat.title",
@@ -394,7 +394,7 @@
         },
         {
             "key": "ability.aura_enemy_attack1.desc",
-            "value": "Все вражеские персонажи получают +1 атаки"
+            "value": "Все вражеские персонажи получают +1 к атаке."
         },
         {
             "key": "ability.aura_enemy_attack1.title",
@@ -402,7 +402,7 @@
         },
         {
             "key": "ability.aura_enemy_hp2.desc",
-            "value": "Все вражеские персонажи получают +2 HP"
+            "value": "Все вражеские персонажи получают +2 ОЗ."
         },
         {
             "key": "ability.aura_enemy_hp2.title",
@@ -410,7 +410,7 @@
         },
         {
             "key": "ability.aura_hp_rock_1.desc",
-            "value": "Все союзные каменные персонажи имеют +1 HP"
+            "value": "Все союзные каменные персонажи имеют +1 ОЗ."
         },
         {
             "key": "ability.aura_hp_rock_1.title",
@@ -418,7 +418,7 @@
         },
         {
             "key": "ability.aura_hp_rock_m1.desc",
-            "value": "Все союзные теневые персонажи имеют +1 HP"
+            "value": "Все союзные теневые персонажи имеют +1 ОЗ."
         },
         {
             "key": "ability.aura_hp_rock_m1.title",
@@ -426,7 +426,7 @@
         },
         {
             "key": "ability.aura_reptile.desc",
-            "value": "Все другие союзные рептилии получают +1 атаки"
+            "value": "Все другие союзные рептилии получают +1 к атаке."
         },
         {
             "key": "ability.aura_reptile.title",
@@ -434,7 +434,7 @@
         },
         {
             "key": "ability.aura_reptile_2.desc",
-            "value": "Все другие союзные рептилии получают +2 атаки"
+            "value": "Все другие союзные рептилии получают +2 к атаке."
         },
         {
             "key": "ability.aura_reptile_2.title",
@@ -514,15 +514,15 @@
         },
         {
             "key": "ability.death_draw.desc",
-            "value": "Когда это существо умирает, возьмите карту"
+            "value": "Когда это существо умирает, возьмите карту."
         },
         {
             "key": "ability.death_draw.title",
-            "value": "Взять"
+            "value": "Взятие"
         },
         {
             "key": "ability.death_egg.desc",
-            "value": "Когда это существо умирает, призовите яйцо Фиры"
+            "value": "Когда это существо умирает, призовите яйцо Фиры."
         },
         {
             "key": "ability.death_egg.title",
@@ -530,7 +530,7 @@
         },
         {
             "key": "ability.death_heal2.desc",
-            "value": "Когда это существо умирает, вы восстанавливаете 2 HP"
+            "value": "Когда это существо умирает, вы восстанавливаете 2 ОЗ."
         },
         {
             "key": "ability.death_heal2.title",
@@ -538,7 +538,7 @@
         },
         {
             "key": "ability.death_heal3.desc",
-            "value": "Когда это существо умирает, вы восстанавливаете 3 HP"
+            "value": "Когда это существо умирает, вы восстанавливаете 3 ОЗ."
         },
         {
             "key": "ability.death_heal3.title",
@@ -546,7 +546,7 @@
         },
         {
             "key": "ability.death_other_draw.desc",
-            "value": "Каждый раз, когда другой персонаж умирает, возьмите карту"
+            "value": "Каждый раз, когда другое существо умирает, возьмите карту."
         },
         {
             "key": "ability.death_other_draw.title",
@@ -554,7 +554,7 @@
         },
         {
             "key": "ability.death_other_draw2.desc",
-            "value": "Каждый раз, когда другой персонаж умирает, возьмите 2 карты"
+            "value": "Каждый раз, когда другое существо умирает, возьмите 2 карты."
         },
         {
             "key": "ability.death_other_draw2.title",
@@ -570,15 +570,15 @@
         },
         {
             "key": "ability.deathtouch.desc",
-            "value": "Убивает любое существо, которое повредил"
+            "value": "Убивает любое существо, которому наносит урон."
         },
         {
             "key": "ability.deathtouch.title",
-            "value": "Смертельный касание"
+            "value": "Смертельное касание"
         },
         {
             "key": "ability.defend_discard.desc",
-            "value": "При атаке противник должен сбросить 1 случайную карту"
+            "value": "При атаке противник сбрасывает 1 случайную карту."
         },
         {
             "key": "ability.defend_discard.title",
@@ -594,7 +594,7 @@
         },
         {
             "key": "ability.defense_attack3.desc",
-            "value": "Имеет +3 атаки во время хода противника"
+            "value": "Получает +3 к атаке во время хода противника."
         },
         {
             "key": "ability.defense_attack3.title",
@@ -610,7 +610,7 @@
         },
         {
             "key": "ability.discard_add_attack1.desc",
-            "value": "Каждый раз, когда противник вынужден сбросить, получайте +1 атаки"
+            "value": "Каждый раз, когда противник сбрасывает карты, получайте +1 к атаке."
         },
         {
             "key": "ability.discard_add_attack1.title",
@@ -618,7 +618,7 @@
         },
         {
             "key": "ability.egg_growth.desc",
-            "value": "Через 3 хода превращается в Фиры"
+            "value": "Через 3 хода превращается в Фиру."
         },
         {
             "key": "ability.egg_growth.title",
@@ -626,7 +626,7 @@
         },
         {
             "key": "ability.egg_transform.desc",
-            "value": "Через 3 хода превращается в Фиры"
+            "value": "Через 3 хода превращается в Фиру."
         },
         {
             "key": "ability.egg_transform.title",
@@ -650,7 +650,7 @@
         },
         {
             "key": "ability.equip_attack_use.desc",
-            "value": "Теряет 1 прочности после каждой атаки"
+            "value": "Теряет 1 прочность после каждой атаки."
         },
         {
             "key": "ability.equip_attack_use.title",
@@ -674,7 +674,7 @@
         },
         {
             "key": "ability.equip_defend_use.desc",
-            "value": "Теряет 1 прочности при атаке"
+            "value": "Теряет 1 прочность при атаке."
         },
         {
             "key": "ability.equip_defend_use.title",
@@ -682,7 +682,7 @@
         },
         {
             "key": "ability.equip_gain_mana.desc",
-            "value": "Получайте 2 дополнительной маны за ход в следующие 3 хода"
+            "value": "В течение следующих 3 ходов вы получаете на 2 маны больше за ход."
         },
         {
             "key": "ability.equip_gain_mana.title",
@@ -690,7 +690,7 @@
         },
         {
             "key": "ability.equip_mana_kill.desc",
-            "value": "Когда носитель убивает карту, получайте 3 маны"
+            "value": "Когда носитель уничтожает карту, получите 3 маны."
         },
         {
             "key": "ability.equip_mana_kill.title",
@@ -698,7 +698,7 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Получайте 2 дополнительной маны за ход в следующие 3 хода"
+            "value": "В течение следующих 3 ходов вы получаете на 2 маны больше за ход."
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
@@ -718,7 +718,7 @@
         },
         {
             "key": "ability.flying.desc",
-            "value": "Может игнорировать провокацию"
+            "value": "Может игнорировать провокацию."
         },
         {
             "key": "ability.flying.title",
@@ -726,7 +726,7 @@
         },
         {
             "key": "ability.fury.desc",
-            "value": "Может атаковать два раза за ход"
+            "value": "Может атаковать дважды за ход."
         },
         {
             "key": "ability.fury.title",
@@ -734,7 +734,7 @@
         },
         {
             "key": "ability.ghost.desc",
-            "value": "Не получает урон при атаке"
+            "value": "Не получает урон при атаке."
         },
         {
             "key": "ability.ghost.title",
@@ -742,7 +742,7 @@
         },
         {
             "key": "ability.haste.desc",
-            "value": "Может атаковать немедленно"
+            "value": "Может атаковать немедленно."
         },
         {
             "key": "ability.haste.title",
@@ -750,7 +750,7 @@
         },
         {
             "key": "ability.kill_draw1.desc",
-            "value": "Когда вы убиваете другого персонажа этим существом, возьмите 1 карту."
+            "value": "Когда этим существом уничтожается другой персонаж, возьмите 1 карту."
         },
         {
             "key": "ability.kill_draw1.title",
@@ -758,7 +758,7 @@
         },
         {
             "key": "ability.kill_draw2.desc",
-            "value": "Когда вы убиваете другого персонажа этим существом, возьмите 2 карты"
+            "value": "Когда этим существом уничтожается другой персонаж, возьмите 2 карты."
         },
         {
             "key": "ability.kill_draw2.title",
@@ -838,7 +838,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
-            "value": "Возьмите контроль над вражеским персонажем с 3 атаки на 3 хода или до эволюции или ухода с доски"
+            "value": "Возьмите под контроль вражеского персонажа с атакой 3 на 3 хода или до его эволюции либо ухода с поля."
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
@@ -846,7 +846,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.desc",
-            "value": "Возьмите контроль над вражеским персонажем с 5 атаки на 2 хода или до эволюции или ухода с доски"
+            "value": "Возьмите под контроль вражеского персонажа с атакой 5 на 2 хода или до его эволюции либо ухода с поля."
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.title",
@@ -854,7 +854,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.desc",
-            "value": "Возьмите контроль над вражеским персонажем стоимостью 2 маны или меньше на 3 хода или до эволюции / ухода с игры"
+            "value": "Возьмите под контроль вражеского персонажа стоимостью 2 маны или меньше на 3 хода или до его эволюции/ухода с поля."
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.title",
@@ -862,7 +862,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.desc",
-            "value": "Возьмите контроль над вражеским персонажем стоимостью 3 маны или меньше на 3 хода или до эволюции / ухода с игры"
+            "value": "Возьмите под контроль вражеского персонажа стоимостью 3 маны или меньше на 3 хода или до его эволюции/ухода с поля."
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.title",
@@ -870,7 +870,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.desc",
-            "value": "Возьмите контроль над вражеским персонажем стоимостью 4 маны на 3 хода или до эволюции"
+            "value": "Возьмите под контроль вражеского персонажа стоимостью 4 маны на 3 хода или до его эволюции/ухода с поля."
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.title",
@@ -878,7 +878,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.desc",
-            "value": "Возьмите контроль над вражеским персонажем стоимостью 5 маны или больше на 3 хода или до эволюции или ухода этой карты с доски"
+            "value": "Возьмите под контроль вражеского персонажа стоимостью 5 маны или больше на 3 хода или до его эволюции либо ухода с поля."
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.title",
@@ -886,7 +886,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.desc",
-            "value": "Возьмите контроль над вражеским персонажем стоимостью 5 маны или больше на 3 хода или до эволюции или ухода этой карты с доски"
+            "value": "Возьмите под контроль вражеского персонажа стоимостью 5 маны или больше на 3 хода или до его эволюции либо ухода с поля."
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.title",
@@ -894,7 +894,7 @@
         },
         {
             "key": "ability.mind_control_ability_m5l.desc",
-            "value": "Возьмите контроль над вражеским персонажем стоимостью 5 маны или меньше на 3 хода или до эволюции"
+            "value": "Возьмите под контроль вражеского персонажа стоимостью 5 маны или меньше на 3 хода или до его эволюции."
         },
         {
             "key": "ability.mind_control_ability_m5l.title",
@@ -910,7 +910,7 @@
         },
         {
             "key": "ability.overkill.desc",
-            "value": "Избыточный урон исцеляет атакующего"
+            "value": "Избыточный урон исцеляет атакующего."
         },
         {
             "key": "ability.overkill.title",
@@ -918,15 +918,15 @@
         },
         {
             "key": "ability.play_boost_hp_1.desc",
-            "value": "При игре дайте +2 HP другому существу до вашего следующего хода"
+            "value": "При розыгрыше дайте другому существу +2 ОЗ до вашего следующего хода."
         },
         {
             "key": "ability.play_boost_hp_1.title",
-            "value": "Благословение HP"
+            "value": "Благословение ОЗ"
         },
         {
             "key": "ability.play_boost2.desc",
-            "value": "При игре дайте +2/+2 другому существу до вашего следующего хода"
+            "value": "При розыгрыше дайте другому существу +2/+2 до вашего следующего хода."
         },
         {
             "key": "ability.play_boost2.title",
@@ -934,7 +934,7 @@
         },
         {
             "key": "ability.play_boost2_permanent.desc",
-            "value": "При выходе на поле боя дарует другой сущности +2/+2 до вашего следующего хода."
+            "value": "При выходе на поле боя дарует другому существу +2/+2 до вашего следующего хода."
         },
         {
             "key": "ability.play_boost2_permanent.title",
@@ -942,7 +942,7 @@
         },
         {
             "key": "ability.play_boost3.desc",
-            "value": "При игре дайте +3/+3 другому существу на 3 хода"
+            "value": "При розыгрыше дайте другому существу +3/+3 на 3 хода."
         },
         {
             "key": "ability.play_boost3.title",
@@ -950,7 +950,7 @@
         },
         {
             "key": "ability.play_burn.desc",
-            "value": "Целевой персонаж получает ожог. Теряет 2 HP каждый ход"
+            "value": "Целевой персонаж получает ожог и теряет 2 ОЗ каждый ход."
         },
         {
             "key": "ability.play_burn.title",
@@ -958,7 +958,7 @@
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.desc",
-            "value": "Получите иммунитет к заклинаниям или способностям"
+            "value": "Получите иммунитет к заклинаниям или способностям."
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.title",
@@ -966,7 +966,7 @@
         },
         {
             "key": "ability.play_choice_taunt_fury.desc",
-            "value": "Получите Провокацию или Ярость"
+            "value": "Получите Провокацию или Ярость."
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
@@ -974,7 +974,7 @@
         },
         {
             "key": "ability.play_cure.desc",
-            "value": "При розыгрыше исцелите другого персонажа от всех негативных эффектов"
+            "value": "При розыгрыше исцелите другого персонажа от всех негативных эффектов."
         },
         {
             "key": "ability.play_cure.title",
@@ -982,7 +982,7 @@
         },
         {
             "key": "ability.play_cure_bless2.desc",
-            "value": "При розыгрыше исцелите другого персонажа от всех негативных эффектов и дайте ему +2 HP"
+            "value": "При розыгрыше исцелите другого персонажа от всех негативных эффектов и дайте ему +2 ОЗ."
         },
         {
             "key": "ability.play_cure_bless2.title",
@@ -990,7 +990,7 @@
         },
         {
             "key": "ability.play_curse.desc",
-            "value": "Целевой персонаж получает проклятие. Теряет 1 атаки каждый ход"
+            "value": "Целевой персонаж получает проклятие и теряет 1 к атаке каждый ход."
         },
         {
             "key": "ability.play_curse.title",
@@ -998,7 +998,7 @@
         },
         {
             "key": "ability.play_curse_all.desc",
-            "value": "При розыгрыше наложите проклятие на все карты в игре"
+            "value": "При розыгрыше наложите проклятие на все карты в игре."
         },
         {
             "key": "ability.play_curse_all.title",
@@ -1006,7 +1006,7 @@
         },
         {
             "key": "ability.play_damage_all_players2.desc",
-            "value": "При выходе наносит 2 урона обоим игрокам."
+            "value": "При выходе наносит 2 ед. урона обоим игрокам."
         },
         {
             "key": "ability.play_damage_all_players2.title",
@@ -1014,7 +1014,7 @@
         },
         {
             "key": "ability.play_damage_all1.desc",
-            "value": "При розыгрыше нанесите 1 урон всем остальным картам"
+            "value": "При розыгрыше нанесите 1 ед. урона всем остальным картам."
         },
         {
             "key": "ability.play_damage_all1.title",
@@ -1022,7 +1022,7 @@
         },
         {
             "key": "ability.play_damage_all2.desc",
-            "value": "При розыгрыше нанесите 2 урона всем остальным картам"
+            "value": "При розыгрыше нанесите 2 ед. урона всем остальным картам."
         },
         {
             "key": "ability.play_damage_all2.title",
@@ -1030,7 +1030,7 @@
         },
         {
             "key": "ability.play_damage_electric_all2.desc",
-            "value": "При розыгрыше нанесите 2 урона вражеским монстрам"
+            "value": "При розыгрыше нанесите 2 ед. урона вражеским монстрам."
         },
         {
             "key": "ability.play_damage_electric_all2.title",
@@ -1038,7 +1038,7 @@
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
-            "value": "При выходе наносит 1 урон любой цели."
+            "value": "При выходе наносит 1 ед. урона любой цели."
         },
         {
             "key": "ability.play_deal_damage_cards_players2.title",
@@ -1046,7 +1046,7 @@
         },
         {
             "key": "ability.play_deal_damage1.desc",
-            "value": "При розыгрыше нанесите 1 урон любой цели"
+            "value": "При розыгрыше нанесите 1 ед. урона любой цели."
         },
         {
             "key": "ability.play_deal_damage1.title",
@@ -1054,7 +1054,7 @@
         },
         {
             "key": "ability.play_deal_damage2.desc",
-            "value": "При розыгрыше нанесите 2 урона любой цели"
+            "value": "При розыгрыше нанесите 2 ед. урона любой цели."
         },
         {
             "key": "ability.play_deal_damage2.title",
@@ -1062,7 +1062,7 @@
         },
         {
             "key": "ability.play_destroy_less2.desc",
-            "value": "При розыгрыше уничтожьте персонажа с атакой 2 или меньше. Если вы это сделаете, возьмите карту"
+            "value": "При розыгрыше уничтожьте персонажа с атакой 2 или меньше. Если вы так сделаете, возьмите карту."
         },
         {
             "key": "ability.play_destroy_less2.title",
@@ -1070,7 +1070,7 @@
         },
         {
             "key": "ability.play_destroy_less3.desc",
-            "value": "При розыгрыше уничтожьте персонажа с атакой 3 или меньше. Если вы это сделаете, возьмите карту"
+            "value": "При розыгрыше уничтожьте персонажа с атакой 3 или меньше. Если вы так сделаете, возьмите карту."
         },
         {
             "key": "ability.play_destroy_less3.title",
@@ -1078,7 +1078,7 @@
         },
         {
             "key": "ability.play_destroy_less4.desc",
-            "value": "При розыгрыше уничтожьте персонажа с атакой 3 или меньше"
+            "value": "При розыгрыше уничтожьте персонажа с атакой 3 или меньше."
         },
         {
             "key": "ability.play_destroy_less4.title",
@@ -1142,7 +1142,7 @@
         },
         {
             "key": "ability.play_heal_player2.desc",
-            "value": "При розыгрыше исцелите игрока на 4 HP"
+            "value": "При розыгрыше исцелите игрока на 4 ОЗ"
         },
         {
             "key": "ability.play_heal_player2.title",
@@ -1150,7 +1150,7 @@
         },
         {
             "key": "ability.play_heal_player4.desc",
-            "value": "При розыгрыше исцелите игрока на 4 HP"
+            "value": "При розыгрыше исцелите игрока на 4 ОЗ"
         },
         {
             "key": "ability.play_heal_player4.title",
@@ -1166,7 +1166,7 @@
         },
         {
             "key": "ability.play_poison.desc",
-            "value": "Целевой персонаж получает яд. Теряет 1 HP каждый ход"
+            "value": "Целевой персонаж получает яд и теряет 1 ОЗ каждый ход."
         },
         {
             "key": "ability.play_poison.title",
@@ -1174,7 +1174,7 @@
         },
         {
             "key": "ability.play_poison_all.desc",
-            "value": "При розыгрыше отравите все карты в игре"
+            "value": "При розыгрыше отравите все карты в игре."
         },
         {
             "key": "ability.play_poison_all.title",
@@ -1198,7 +1198,7 @@
         },
         {
             "key": "ability.play_roll_attack.desc",
-            "value": "Бросьте D6 и увеличьте атаку этой карты на выпавший результат"
+            "value": "Бросьте D6 и увеличьте атаку этой карты на выпавший результат."
         },
         {
             "key": "ability.play_roll_attack.title",
@@ -1230,7 +1230,7 @@
         },
         {
             "key": "ability.play_set_attack1.desc",
-            "value": "При розыгрыше атака выбранной цели снижается до 1"
+            "value": "При розыгрыше установите атаку выбранной цели равной 1."
         },
         {
             "key": "ability.play_set_attack1.title",
@@ -1238,7 +1238,7 @@
         },
         {
             "key": "ability.play_set_attack3.desc",
-            "value": "При розыгрыше атака выбранной цели устанавливается равной 3"
+            "value": "При розыгрыше установите атаку выбранной цели равной 3."
         },
         {
             "key": "ability.play_set_attack3.title",
@@ -1246,7 +1246,7 @@
         },
         {
             "key": "ability.play_silence.desc",
-            "value": "Способности цели отменяются"
+            "value": "Способности цели отключаются."
         },
         {
             "key": "ability.play_silence.title",
@@ -1254,7 +1254,7 @@
         },
         {
             "key": "ability.play_silence_curse.desc",
-            "value": "Способности цели отменяются, и монстр получает проклятие"
+            "value": "Способности цели отключаются, и монстр получает проклятие."
         },
         {
             "key": "ability.play_silence_curse.title",
@@ -1262,7 +1262,7 @@
         },
         {
             "key": "ability.play_suffer.desc",
-            "value": "Целевое существо получает эффект «Получает 3 урона перед атакой»"
+            "value": "Целевое существо получает эффект «Перед атакой получает 3 ед. урона»."
         },
         {
             "key": "ability.play_suffer.title",
@@ -1270,7 +1270,7 @@
         },
         {
             "key": "ability.play_summon_cat.desc",
-            "value": "При розыгрыше призовите котенка Ягура 1/1 на соседнюю свободную клетку"
+            "value": "При розыгрыше призовите котёнка Ягура 1/1 на соседнюю свободную клетку."
         },
         {
             "key": "ability.play_summon_cat.title",
@@ -1278,7 +1278,7 @@
         },
         {
             "key": "ability.play_summon_fractail.desc",
-            "value": "При розыгрыше призовите детеныша Лизо на соседнюю свободную клетку"
+            "value": "При розыгрыше призовите детёныша Лизо на соседнюю свободную клетку."
         },
         {
             "key": "ability.play_summon_fractail.title",
@@ -1294,7 +1294,7 @@
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
-            "value": "При розыгрыше выберите целевого персонажа со стоимостью 2 маны или меньше и смените его сторону"
+            "value": "При розыгрыше выберите персонажа стоимостью 2 маны или меньше и смените ему сторону."
         },
         {
             "key": "ability.play_switch_sides_2ml.title",
@@ -1302,7 +1302,7 @@
         },
         {
             "key": "ability.play_switch_sides_any.desc",
-            "value": "При розыгрыше выберите любого персонажа на поле и отправьте его к другому игроку"
+            "value": "При розыгрыше выберите любого персонажа на поле и передайте его другому игроку."
         },
         {
             "key": "ability.play_switch_sides_any.title",
@@ -1310,7 +1310,7 @@
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
-            "value": "При розыгрыше выберите любого персонажа на поле и отправьте его к другому игроку"
+            "value": "При розыгрыше выберите любого персонажа на поле и передайте его другому игроку."
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.title",
@@ -1318,7 +1318,7 @@
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.desc",
-            "value": "При розыгрыше выберите персонажа под вашим контролем и отправьте его к другому игроку"
+            "value": "При розыгрыше выберите персонажа под вашим контролем и передайте его другому игроку."
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.title",
@@ -1326,7 +1326,7 @@
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.desc",
-            "value": "При розыгрыше выберите персонажа под вашим контролем и отправьте его к другому игроку с эффектом «Сбрасывайте 2 карты из руки каждый ход»"
+            "value": "При розыгрыше выберите персонажа под вашим контролем и передайте его другому игроку с эффектом «Сбрасывайте 2 карты из руки каждый ход»."
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.title",
@@ -1334,7 +1334,7 @@
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
-            "value": "При розыгрыше выберите персонажа под вашим контролем и отправьте его к другому игроку с эффектом «Сбрасывайте 2 карты из руки каждый ход»"
+            "value": "При розыгрыше выберите персонажа под вашим контролем и передайте его другому игроку с эффектом «Сбрасывайте 2 карты из руки каждый ход»."
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
@@ -1342,7 +1342,7 @@
         },
         {
             "key": "ability.regen_all.desc",
-            "value": "В начале вашего хода это существо полностью исцеляется"
+            "value": "В начале вашего хода это существо полностью исцеляется."
         },
         {
             "key": "ability.regen_all.title",
@@ -1350,7 +1350,7 @@
         },
         {
             "key": "ability.regen3.desc",
-            "value": "В начале вашего хода исцелите 3 HP"
+            "value": "В начале вашего хода восстановите 3 ОЗ."
         },
         {
             "key": "ability.regen3.title",
@@ -1358,7 +1358,7 @@
         },
         {
             "key": "ability.rush.desc",
-            "value": "Может атаковать немедленно, но не может атаковать игрока противника в ход розыгрыша"
+            "value": "Может атаковать немедленно, но не может атаковать игрока противника в ход розыгрыша."
         },
         {
             "key": "ability.rush.title",
@@ -1366,7 +1366,7 @@
         },
         {
             "key": "ability.secret_return_hand.desc",
-            "value": "Когда следующий вражеский монстр будет разыгран, верните его в руку"
+            "value": "Когда следующий вражеский монстр будет разыгран, верните его в руку."
         },
         {
             "key": "ability.secret_return_hand.title",
@@ -1374,7 +1374,7 @@
         },
         {
             "key": "ability.secret_silence.desc",
-            "value": "Удалите все способности с пойманного персонажа"
+            "value": "Удалите все способности с пойманного персонажа."
         },
         {
             "key": "ability.secret_silence.title",
@@ -1382,7 +1382,7 @@
         },
         {
             "key": "ability.secret_transform_fish.desc",
-            "value": "Когда следующий вражеский монстр будет разыгран, превратите его в рыбу 1/1"
+            "value": "Когда следующий вражеский монстр будет разыгран, превратите его в рыбу 1/1."
         },
         {
             "key": "ability.secret_transform_fish.title",
@@ -1390,7 +1390,7 @@
         },
         {
             "key": "ability.shell.desc",
-            "value": "При первом попадании не получает урон"
+            "value": "При первом полученном уроне не получает повреждений."
         },
         {
             "key": "ability.shell.title",
@@ -1470,7 +1470,7 @@
         },
         {
             "key": "ability.spell_damage_per_hand.desc",
-            "value": "HP всех персонажей на доске снижается до 1"
+            "value": "ОЗ всех персонажей на доске снижается до 1"
         },
         {
             "key": "ability.spell_damage_per_hand.title",
@@ -1478,7 +1478,7 @@
         },
         {
             "key": "ability.spell_damage1.desc",
-            "value": "Наносит 1 урона"
+            "value": "Нанесите 1 ед. урона."
         },
         {
             "key": "ability.spell_damage1.title",
@@ -1486,7 +1486,7 @@
         },
         {
             "key": "ability.spell_damage3.desc",
-            "value": "Наносит 3 урона"
+            "value": "Нанесите 3 ед. урона."
         },
         {
             "key": "ability.spell_damage3.title",
@@ -1494,7 +1494,7 @@
         },
         {
             "key": "ability.spell_destroy.desc",
-            "value": "Уничтожьте целевого персонажа или локацию"
+            "value": "Уничтожьте целевого персонажа или локацию."
         },
         {
             "key": "ability.spell_destroy.title",
@@ -1502,7 +1502,7 @@
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Уничтожьте всех существ на доске"
+            "value": "Уничтожьте всех существ на поле."
         },
         {
             "key": "ability.spell_destroy_all.title",
@@ -1510,7 +1510,7 @@
         },
         {
             "key": "ability.spell_destroy_frozen_all.desc",
-            "value": "Уничтожьте все замороженные карты на доске"
+            "value": "Уничтожьте все замороженные карты на поле."
         },
         {
             "key": "ability.spell_destroy_frozen_all.title",
@@ -1518,7 +1518,7 @@
         },
         {
             "key": "ability.spell_destroy_locations.desc",
-            "value": "Уничтожьте все локации на доске"
+            "value": "Уничтожьте все локации на поле."
         },
         {
             "key": "ability.spell_destroy_locations.title",
@@ -1526,7 +1526,7 @@
         },
         {
             "key": "ability.spell_dragon_summon.desc",
-            "value": "Выберите дракона из вашей колоды для призыва в руку"
+            "value": "Выберите дракона из своей колоды и добавьте его в руку."
         },
         {
             "key": "ability.spell_dragon_summon.title",
@@ -1534,7 +1534,7 @@
         },
         {
             "key": "ability.spell_draw1.desc",
-            "value": "Взять 1 карту"
+            "value": "Возьмите 1 карту."
         },
         {
             "key": "ability.spell_draw1.title",
@@ -1550,7 +1550,7 @@
         },
         {
             "key": "ability.spell_electric_ally.desc",
-            "value": "Посмотрите на следующие 7 карт в вашей колоде и возьмите 1 электрического монстра в руку"
+            "value": "Посмотрите следующие 7 карт колоды и возьмите 1 электрического монстра в руку."
         },
         {
             "key": "ability.spell_electric_ally.title",
@@ -1558,11 +1558,11 @@
         },
         {
             "key": "ability.spell_electric_attack_2.desc",
-            "value": "Все электрические монстры получают +2 атаки"
+            "value": "Все электрические монстры получают +2 к атаке."
         },
         {
             "key": "ability.spell_freeze.desc",
-            "value": "Заморозьте цель на 1 ход"
+            "value": "Заморозьте цель на 1 ход."
         },
         {
             "key": "ability.spell_freeze.title",
@@ -1570,7 +1570,7 @@
         },
         {
             "key": "ability.spell_fury.desc",
-            "value": "Целевой персонаж получает ярость. Может атаковать два раза за ход"
+            "value": "Целевой персонаж получает Ярость и может атаковать дважды за ход."
         },
         {
             "key": "ability.spell_fury.title",
@@ -1578,7 +1578,7 @@
         },
         {
             "key": "ability.spell_haste.desc",
-            "value": "Целевой персонаж получает спешку. Может атаковать немедленно"
+            "value": "Целевой персонаж получает Спешку и может атаковать немедленно."
         },
         {
             "key": "ability.spell_haste.title",
@@ -1586,7 +1586,7 @@
         },
         {
             "key": "ability.spell_heal_full.desc",
-            "value": "Целевая карта полностью исцелена"
+            "value": "Целевая карта полностью исцелена."
         },
         {
             "key": "ability.spell_heal_full.title",
@@ -1594,7 +1594,7 @@
         },
         {
             "key": "ability.spell_hibernate.desc",
-            "value": "Целевой персонаж получает +4/+4 и засыпает на следующие 2 хода"
+            "value": "Целевой персонаж получает +4/+4 и засыпает на следующие 2 хода."
         },
         {
             "key": "ability.spell_hibernate.title",
@@ -1602,15 +1602,15 @@
         },
         {
             "key": "ability.spell_hp2.desc",
-            "value": "Цель получает 2 HP"
+            "value": "Цель получает 2 ОЗ."
         },
         {
             "key": "ability.spell_hp2.title",
-            "value": "HP +2"
+            "value": "ОЗ +2"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
-            "value": "Посмотрите на следующие 7 карт в вашей колоде и возьмите 1 карту льда в руку"
+            "value": "Посмотрите следующие 7 карт колоды и возьмите 1 ледяную карту в руку."
         },
         {
             "key": "ability.spell_ice_treasure.title",
@@ -1618,7 +1618,7 @@
         },
         {
             "key": "ability.spell_immunity.desc",
-            "value": "Не может быть целью или поврежден картами заклинаний"
+            "value": "Не может быть целью и получать урон от заклинаний."
         },
         {
             "key": "ability.spell_immunity.title",
@@ -1626,7 +1626,7 @@
         },
         {
             "key": "ability.spell_kill_lowest_hp.desc",
-            "value": "Убейте персонажа в игре с наименьшим HP (включая вашего)"
+            "value": "Уничтожьте персонажа в игре с наименьшим запасом ОЗ (включая вашего)."
         },
         {
             "key": "ability.spell_kill_lowest_hp.title",
@@ -1634,7 +1634,7 @@
         },
         {
             "key": "ability.spell_paralyse.desc",
-            "value": "Парализуйте целевого персонажа на 3 хода"
+            "value": "Парализуйте целевого персонажа на 3 хода."
         },
         {
             "key": "ability.spell_paralyse.title",
@@ -1642,7 +1642,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Наносит 1 урона случайной вражеской карте\nПовторить X раз"
+            "value": "Наносит 1 ед. урона случайной вражеской карте.\nПовторить X раз."
         },
         {
             "key": "ability.spell_projectile1_repeat.title",
@@ -1650,7 +1650,7 @@
         },
         {
             "key": "ability.spell_return_all.desc",
-            "value": "Все карты на доске возвращаются в руку владельца"
+            "value": "Все карты на поле возвращаются в руку владельцев."
         },
         {
             "key": "ability.spell_return_all.title",
@@ -1658,7 +1658,7 @@
         },
         {
             "key": "ability.spell_send_hand_any.desc",
-            "value": "Верните любой сыгранный цель в руку владельца"
+            "value": "Верните любую цель в руку владельца."
         },
         {
             "key": "ability.spell_send_hand_any.title",
@@ -1666,7 +1666,7 @@
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.desc",
-            "value": "Верните любой сыгранный цель в руку владельца"
+            "value": "Верните любую цель в руку владельца."
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.title",
@@ -1674,7 +1674,7 @@
         },
         {
             "key": "ability.spell_send_hand_enemy.desc",
-            "value": "Верните цель в руку владельца"
+            "value": "Верните цель в руку владельца."
         },
         {
             "key": "ability.spell_send_hand_enemy.title",
@@ -1682,7 +1682,7 @@
         },
         {
             "key": "ability.spell_set_hp_attack_1.desc",
-            "value": "HP и атака всех персонажей на доске снижаются до 1"
+            "value": "ОЗ и атака всех персонажей на поле снижаются до 1."
         },
         {
             "key": "ability.spell_set_hp_attack_1.title",
@@ -1690,7 +1690,7 @@
         },
         {
             "key": "ability.spell_set_hp_attack_3.desc",
-            "value": "HP и атака всех персонажей на доске устанавливаются в 1"
+            "value": "ОЗ и атака всех персонажей на поле устанавливаются равными 1."
         },
         {
             "key": "ability.spell_set_hp_attack_3.title",
@@ -1698,7 +1698,7 @@
         },
         {
             "key": "ability.spell_shell.desc",
-            "value": "Цель получает раковину, игнорирует урон при следующем попадании"
+            "value": "Цель получает раковину и игнорирует урон при следующем попадании."
         },
         {
             "key": "ability.spell_shell.title",
@@ -1706,7 +1706,7 @@
         },
         {
             "key": "ability.spell_summon_hammi.desc",
-            "value": "Призовите трех Хамми в руку"
+            "value": "Добавьте трёх Хамми в руку."
         },
         {
             "key": "ability.spell_summon_hammi.title",
@@ -1714,7 +1714,7 @@
         },
         {
             "key": "ability.spell_summon_lampi.desc",
-            "value": "Призовите трех Лампи 2/2 в руку"
+            "value": "Добавьте трёх Лампи 2/2 в руку."
         },
         {
             "key": "ability.spell_summon_lampi.title",
@@ -1786,7 +1786,7 @@
         },
         {
             "key": "ability.town_aura_ice.desc",
-            "value": "Все союзные ледяные существа получают +1 атаки и HP"
+            "value": "Все союзные ледяные существа получают +1 атаки и ОЗ"
         },
         {
             "key": "ability.town_aura_ice.title",
@@ -1794,7 +1794,7 @@
         },
         {
             "key": "ability.town_aura_plant.desc",
-            "value": "Все союзные растительные персонажи получают +2 HP"
+            "value": "Все союзные растительные персонажи получают +2 ОЗ."
         },
         {
             "key": "ability.town_aura_plant.title",
@@ -1802,7 +1802,7 @@
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.desc",
-            "value": "Когда вы берете контроль над монстром противника, противник сбрасывает случайную карту"
+            "value": "Когда вы берёте контроль над монстром противника, он сбрасывает случайную карту."
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.title",
@@ -1810,7 +1810,7 @@
         },
         {
             "key": "ability.town_aura_psychic_played_discard.desc",
-            "value": "Когда вы играете психического монстра, противник сбрасывает случайную карту"
+            "value": "Когда вы разыгрываете психического монстра, противник сбрасывает случайную карту."
         },
         {
             "key": "ability.town_aura_psychic_played_discard.title",
@@ -1818,7 +1818,7 @@
         },
         {
             "key": "ability.town_aura_rock.desc",
-            "value": "Все союзные каменные существа получают +2 HP"
+            "value": "Все союзные каменные существа получают +2 ОЗ."
         },
         {
             "key": "ability.town_aura_rock.title",
@@ -1826,7 +1826,7 @@
         },
         {
             "key": "ability.town_aura_shadow.desc",
-            "value": "Все союзные теневые персонажи получают +2 атаки"
+            "value": "Все союзные теневые персонажи получают +2 к атаке."
         },
         {
             "key": "ability.town_aura_shadow.title",
@@ -1834,7 +1834,7 @@
         },
         {
             "key": "ability.town_aura_water.desc",
-            "value": "Все союзные водные карты стоят на 1 меньше"
+            "value": "Все союзные водные карты стоят на 1 меньше."
         },
         {
             "key": "ability.town_aura_water.title",
@@ -1842,7 +1842,7 @@
         },
         {
             "key": "ability.town_mystic_woods_psychic.desc",
-            "value": "Все союзные психические карты стоят на 1 маны меньше"
+            "value": "Все союзные психические карты стоят на 1 ману меньше."
         },
         {
             "key": "ability.town_mystic_woods_psychic.title",
@@ -1850,7 +1850,7 @@
         },
         {
             "key": "ability.trample.desc",
-            "value": "Избыточный урон наносится HP игрока"
+            "value": "Избыточный урон наносится по ОЗ игрока."
         },
         {
             "key": "ability.trample.title",
@@ -1866,7 +1866,7 @@
         },
         {
             "key": "ability.trap_all_damage1.desc",
-            "value": "Наносит врагам 1 урон."
+            "value": "Наносит врагам 1 ед. урона."
         },
         {
             "key": "ability.trap_all_damage1.title",
@@ -1874,7 +1874,7 @@
         },
         {
             "key": "ability.trap_damage_all2.desc",
-            "value": "Когда вражеское существо атакует, нанесите 2 урона всем вражеским существам"
+            "value": "Когда вражеское существо атакует, нанесите 2 ед. урона всем вражеским существам."
         },
         {
             "key": "ability.trap_damage_all2.title",
@@ -1882,7 +1882,7 @@
         },
         {
             "key": "ability.trap_damage2.desc",
-            "value": "Наносит 2 HP урона атакующему"
+            "value": "Наносит атакующему 2 ед. урона."
         },
         {
             "key": "ability.trap_damage2.title",
@@ -1890,7 +1890,7 @@
         },
         {
             "key": "ability.trap_damage3.desc",
-            "value": "Наносит 3 HP урона атакующему"
+            "value": "Наносит атакующему 3 ед. урона."
         },
         {
             "key": "ability.trap_damage3.title",
@@ -1938,7 +1938,7 @@
         },
         {
             "key": "ability.trap_shock.desc",
-            "value": "После атаки вражеского существа парализуйте его шоком на 1 ход"
+            "value": "После атаки вражеского существа парализуйте его шоком на 1 ход."
         },
         {
             "key": "ability.trap_shock.title",
@@ -1954,7 +1954,7 @@
         },
         {
             "key": "ability.turn_add_armor1.desc",
-            "value": "В начале каждого хода получайте +1 брони"
+            "value": "В начале каждого хода получает +1 к броне."
         },
         {
             "key": "ability.turn_add_armor1.title",
@@ -1962,7 +1962,7 @@
         },
         {
             "key": "ability.turn_add_armor2.desc",
-            "value": "В начале каждого хода получайте +2 брони"
+            "value": "В начале каждого хода получает +2 к броне."
         },
         {
             "key": "ability.turn_add_armor2.title",
@@ -1970,7 +1970,7 @@
         },
         {
             "key": "ability.turn_add_attack1.desc",
-            "value": "В начале каждого хода получайте +1 атаки"
+            "value": "В начале каждого хода получает +1 к атаке."
         },
         {
             "key": "ability.turn_add_attack1.title",
@@ -1978,7 +1978,7 @@
         },
         {
             "key": "ability.turn_add_attack2.desc",
-            "value": "В начале каждого хода получайте +2 атаки"
+            "value": "В начале каждого хода получает +2 к атаке."
         },
         {
             "key": "ability.turn_add_attack2.title",
@@ -1986,7 +1986,7 @@
         },
         {
             "key": "ability.turn_add_draw.desc",
-            "value": "В начале каждого хода возьмите 1 карту"
+            "value": "В начале каждого хода возьмите 1 карту."
         },
         {
             "key": "ability.turn_add_draw.title",
@@ -1994,7 +1994,7 @@
         },
         {
             "key": "ability.turn_damage_allies1.desc",
-            "value": "В начале каждого хода нанесите 1 урона всем союзным персонажам"
+            "value": "В начале каждого хода нанесите 1 ед. урона всем союзным персонажам."
         },
         {
             "key": "ability.turn_damage_allies1.title",
@@ -2002,7 +2002,7 @@
         },
         {
             "key": "ability.turn_damage_allies2.desc",
-            "value": "В начале каждого хода нанесите 2 урона всем союзным персонажам"
+            "value": "В начале каждого хода нанесите 2 ед. урона всем союзным персонажам."
         },
         {
             "key": "ability.turn_damage_allies2.title",
@@ -2010,7 +2010,7 @@
         },
         {
             "key": "ability.turn_green_heal.desc",
-            "value": "В начале каждого хода все союзные зеленые существа и локации исцеляются на 3"
+            "value": "В начале каждого хода все союзные зелёные существа и локации исцеляются на 3."
         },
         {
             "key": "ability.turn_green_heal.title",
@@ -2018,7 +2018,7 @@
         },
         {
             "key": "ability.turn_kill_lowest.desc",
-            "value": "В начале вашего хода убейте персонажей в игре с наименьшей атакой (включая ваших)"
+            "value": "В начале вашего хода уничтожьте персонажей с наименьшей атакой (включая ваших)."
         },
         {
             "key": "ability.turn_kill_lowest.title",
@@ -2026,7 +2026,7 @@
         },
         {
             "key": "ability.turn_own_discard2.desc",
-            "value": "Игрок сбрасывает 2 случайные карты из руки"
+            "value": "Игрок сбрасывает 2 случайные карты из руки."
         },
         {
             "key": "ability.turn_own_discard2.title",
@@ -2034,7 +2034,7 @@
         },
         {
             "key": "ability.turn_shadow_add_attack1.desc",
-            "value": "В начале каждого хода все теневые монстры получают +1 атаки"
+            "value": "В начале каждого хода все теневые монстры получают +1 к атаке."
         },
         {
             "key": "ability.turn_shadow_add_attack1.title",
@@ -2050,11 +2050,11 @@
         },
         {
             "key": "status.addhp.desc",
-            "value": "Бонус HP"
+            "value": "Бонус ОЗ"
         },
         {
             "key": "status.addhp.title",
-            "value": "Бонус HP"
+            "value": "Бонус ОЗ"
         },
         {
             "key": "status.addmanacost.desc",
@@ -2082,7 +2082,7 @@
         },
         {
             "key": "status.burned.desc",
-            "value": "Каждый ход потеряет 2 HP"
+            "value": "Каждый ход потеряет 2 ОЗ"
         },
         {
             "key": "status.burned.title",
@@ -2114,7 +2114,7 @@
         },
         {
             "key": "status.flying.desc",
-            "value": "Игнорирует провокацию"
+            "value": "Игнорирует провокацию."
         },
         {
             "key": "status.flying.title",
@@ -2146,7 +2146,7 @@
         },
         {
             "key": "status.invincibility.desc",
-            "value": "Не может быть уничтожен"
+            "value": "Не может быть уничтожен."
         },
         {
             "key": "status.invincibility.title",
@@ -2154,7 +2154,7 @@
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "Исцеляйте себя при нанесении урона"
+            "value": "Исцеляет вас, когда наносит урон."
         },
         {
             "key": "status.lifesteal.title",
@@ -2162,7 +2162,7 @@
         },
         {
             "key": "status.overkill.desc",
-            "value": "Избыточный урон исцеляет атакующего"
+            "value": "Избыточный урон исцеляет атакующего."
         },
         {
             "key": "status.overkill.title",
@@ -2170,7 +2170,7 @@
         },
         {
             "key": "status.paralysed.desc",
-            "value": "Не может выполнять действия"
+            "value": "Не может выполнять действия."
         },
         {
             "key": "status.paralysed.title",
@@ -2178,7 +2178,7 @@
         },
         {
             "key": "status.poisoned.desc",
-            "value": "Каждый ход потеряет HP"
+            "value": "Каждый ход теряет ОЗ."
         },
         {
             "key": "status.poisoned.title",
@@ -2186,7 +2186,7 @@
         },
         {
             "key": "status.protected.desc",
-            "value": "Не может быть атакован. Защищен провокацией"
+            "value": "Не может быть атакован — защищён провокацией."
         },
         {
             "key": "status.protected.title",
@@ -2194,7 +2194,7 @@
         },
         {
             "key": "status.protection.desc",
-            "value": "Защищает другие карты"
+            "value": "Защищает другие карты."
         },
         {
             "key": "status.protection.title",
@@ -2202,7 +2202,7 @@
         },
         {
             "key": "status.protectionflying.desc",
-            "value": "Защищает другие карты от летающих монстров"
+            "value": "Защищает другие карты от летающих монстров."
         },
         {
             "key": "status.protectionflying.title",
@@ -2210,7 +2210,7 @@
         },
         {
             "key": "status.shell.desc",
-            "value": "При первом попадании не получает урон"
+            "value": "При первом попадании не получает урон."
         },
         {
             "key": "status.shell.title",
@@ -2218,7 +2218,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Не может использовать способности или эволюционировать"
+            "value": "Не может использовать способности или эволюционировать."
         },
         {
             "key": "status.silenced.title",
@@ -2226,7 +2226,7 @@
         },
         {
             "key": "status.sleep.desc",
-            "value": "1 из 3 шансов проснуться. Удаляется при атаке"
+            "value": "Шанс 1 из 3 проснуться. Снимается при атаке."
         },
         {
             "key": "status.sleep.title",
@@ -2234,7 +2234,7 @@
         },
         {
             "key": "status.spellimmunity.desc",
-            "value": "Не может быть целью или поврежден картами заклинаний"
+            "value": "Не может быть целью и получать урон от заклинаний."
         },
         {
             "key": "status.spellimmunity.title",
