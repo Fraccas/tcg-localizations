@@ -34,7 +34,7 @@
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "所有盟友生物获得+2护甲。使用此生物的行动并消耗5法力"
+            "value": "所有盟友生物获得 +2 护甲。会占用此生物的行动并消耗 5 点法力"
         },
         {
             "key": "ability.activate_armor2.title",
@@ -42,7 +42,7 @@
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "所有盟友生物直到回合结束获得+1攻击力。使用此生物的行动"
+            "value": "所有盟友生物在本回合结束前获得 +1 攻击力。会占用此生物的行动"
         },
         {
             "key": "ability.activate_boost1.title",
@@ -50,7 +50,7 @@
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "所有盟友生物直到回合结束获得+3攻击力。使用此生物的行动"
+            "value": "所有盟友生物在本回合结束前获得 +3 攻击力。会占用此生物的行动"
         },
         {
             "key": "ability.activate_boost3.title",
@@ -66,7 +66,7 @@
         },
         {
             "key": "ability.activate_damage2.desc",
-            "value": "造成2点伤害。消耗3法力。不耗尽行动"
+            "value": "造成 2 点伤害。消耗 3 点法力，不会消耗此角色的行动。"
         },
         {
             "key": "ability.activate_damage2.title",
@@ -74,7 +74,7 @@
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "对手从手牌中随机丢弃一张牌。使用此生物的行动"
+            "value": "使对手随机弃置一张手牌。会占用此生物的行动"
         },
         {
             "key": "ability.activate_discard.title",
@@ -82,7 +82,7 @@
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "对手从手牌中随机丢弃一张牌。使用此生物的行动"
+            "value": "使对手随机弃置一张手牌。会占用此生物的行动"
         },
         {
             "key": "ability.activate_discard_random_3l.title",
@@ -90,7 +90,7 @@
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "目标获得攻击力（必须是电系怪物）"
+            "value": "目标获得急速（必须是电系怪物）。"
         },
         {
             "key": "ability.activate_electric.title",
@@ -98,7 +98,7 @@
         },
         {
             "key": "ability.activate_fire.desc",
-            "value": "造成1点伤害"
+            "value": "造成 1 点伤害。"
         },
         {
             "key": "ability.activate_fire.title",
@@ -114,7 +114,7 @@
         },
         {
             "key": "ability.activate_ice.desc",
-            "value": "冻结一名敌人1回合"
+            "value": "冻结一名敌人 1 个回合。"
         },
         {
             "key": "ability.activate_ice.title",
@@ -138,7 +138,7 @@
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "目标角色获得+1护甲"
+            "value": "目标角色获得 +1 护甲。"
         },
         {
             "key": "ability.activate_rock.title",
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "从你的墓地中将一张法术返回手牌。消耗2法力"
+            "value": "从你的墓地将一张法术返回手牌。消耗 2 点法力"
         },
         {
             "key": "ability.activate_select_discard_spell.title",
@@ -170,15 +170,15 @@
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "将一个角色返回拥有者的手牌。使用此生物的行动"
+            "value": "将一个角色返回其拥有者的手牌。会占用此生物的行动。"
         },
         {
             "key": "ability.activate_send_hand.title",
-            "value": "冲锋"
+            "value": "弹回"
         },
         {
             "key": "ability.activate_shadow.desc",
-            "value": "目标变为被诅咒"
+            "value": "目标变为被诅咒状态"
         },
         {
             "key": "ability.activate_shadow.title",
@@ -186,7 +186,7 @@
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "出牌时，选择一个目标角色切换阵营"
+            "value": "打出时，选择一个目标角色改换阵营"
         },
         {
             "key": "ability.activate_switch_sides.title",
@@ -202,7 +202,7 @@
         },
         {
             "key": "ability.add_attack_traps.desc",
-            "value": "每有一个敌方陷阱获得+1伤害"
+            "value": "每有一个敌方陷阱，就获得 +1 攻击力"
         },
         {
             "key": "ability.add_attack_traps.title",
@@ -210,7 +210,7 @@
         },
         {
             "key": "ability.add_hp_location.desc",
-            "value": "每有一个相同元素类型的盟友位置在场获得+2生命值"
+            "value": "每有一个相同元素的盟友地点在场，就获得 +2 生命值"
         },
         {
             "key": "ability.add_hp_location.title",
@@ -218,7 +218,7 @@
         },
         {
             "key": "ability.add_spell_damage1.desc",
-            "value": "你的所有法术和能力造成+1伤害"
+            "value": "你的所有法术与能力造成 +1 伤害"
         },
         {
             "key": "ability.add_spell_damage1.title",
@@ -226,7 +226,7 @@
         },
         {
             "key": "ability.add_spell_damage2.desc",
-            "value": "你的所有法术和能力造成+2伤害"
+            "value": "你的所有法术与能力造成 +2 伤害"
         },
         {
             "key": "ability.add_spell_damage2.title",
@@ -234,7 +234,7 @@
         },
         {
             "key": "ability.add_spell_damage4.desc",
-            "value": "你的所有法术和能力造成+4伤害。"
+            "value": "你的所有法术与能力造成 +4 伤害"
         },
         {
             "key": "ability.add_spell_damage4.title",
@@ -242,7 +242,7 @@
         },
         {
             "key": "ability.after_spell_attack2.desc",
-            "value": "出法术后获得+2攻击力"
+            "value": "每当你施放法术，获得 +2 攻击力"
         },
         {
             "key": "ability.after_spell_attack2.title",
@@ -250,7 +250,7 @@
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "被攻击的角色被灼烧。每回合损失2点生命值"
+            "value": "被攻击的角色会被灼烧，每回合失去 2 点生命值"
         },
         {
             "key": "ability.attack_burned.title",
@@ -258,7 +258,7 @@
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "被攻击的角色获得诅咒。每回合损失1点攻击力"
+            "value": "被攻击的角色会被诅咒，每回合失去 1 点攻击力"
         },
         {
             "key": "ability.attack_curse.title",
@@ -274,7 +274,7 @@
         },
         {
             "key": "ability.attack_mana1.desc",
-            "value": "攻击后获得1点法力。"
+            "value": "攻击后获得 1 点法力。"
         },
         {
             "key": "ability.attack_mana1.title",
@@ -282,7 +282,7 @@
         },
         {
             "key": "ability.attack_mana2.desc",
-            "value": "攻击后获得2点法力。"
+            "value": "攻击后获得 2 点法力。"
         },
         {
             "key": "ability.attack_mana2.title",
@@ -290,7 +290,7 @@
         },
         {
             "key": "ability.attack_player_mana1.desc",
-            "value": "攻击对手生命后获得1点法力"
+            "value": "攻击对手生命后获得 1 点法力"
         },
         {
             "key": "ability.attack_player_mana1.title",
@@ -298,7 +298,7 @@
         },
         {
             "key": "ability.attack_player_mana2.desc",
-            "value": "攻击对手生命后获得2点法力"
+            "value": "攻击对手生命后获得 2 点法力"
         },
         {
             "key": "ability.attack_player_mana2.title",
@@ -306,7 +306,7 @@
         },
         {
             "key": "ability.attack_player_mana3.desc",
-            "value": "攻击对手生命后获得3点法力"
+            "value": "攻击对手生命后获得 3 点法力"
         },
         {
             "key": "ability.attack_player_mana3.title",
@@ -314,7 +314,7 @@
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "被攻击的角色获得中毒。每回合损失1点生命值"
+            "value": "被攻击的角色会中毒，每回合失去 1 点生命值"
         },
         {
             "key": "ability.attack_poison.title",
@@ -322,7 +322,7 @@
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "攻击前掷一次六面骰，若结果为4或以上，则获得+3攻击力。"
+            "value": "攻击前掷一次六面骰，结果为 4 或以上时，获得 +3 攻击力。"
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.title",
@@ -330,7 +330,7 @@
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "攻击前掷一次六面骰，若结果为4或以上，则直到回合结束获得+3攻击力。"
+            "value": "攻击前掷一次六面骰，结果为 4 或以上时，直到回合结束获得 +3 攻击力。"
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
@@ -338,7 +338,7 @@
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "攻击前掷一次六面骰，若结果为4或以上，则直到回合结束获得+6攻击力。"
+            "value": "攻击前掷一次六面骰，结果为 4 或以上时，直到回合结束获得 +6 攻击力。"
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
@@ -346,7 +346,7 @@
         },
         {
             "key": "ability.attack_suffer_damage.desc",
-            "value": "攻击前承受3点伤害"
+            "value": "攻击前承受 3 点伤害"
         },
         {
             "key": "ability.attack_suffer_damage.title",
@@ -354,7 +354,7 @@
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "所有盟友火系生物获得：\"承受1点伤害以获得+1攻击力\""
+            "value": "所有盟友火系生物获得：“承受 1 点伤害以获得 +1 攻击力”。"
         },
         {
             "key": "ability.aura_ability_red.title",
@@ -362,7 +362,7 @@
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "所有盟友岩石系生物获得：\"承受1点伤害以获得+1攻击力\""
+            "value": "所有盟友岩石系生物获得：“承受 1 点伤害以获得 +1 攻击力”。"
         },
         {
             "key": "ability.aura_ability_rock.title",
@@ -370,7 +370,7 @@
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "所有敌方角色-1攻击力"
+            "value": "所有敌方角色 -1 攻击力"
         },
         {
             "key": "ability.aura_attack_m1.title",
@@ -378,7 +378,7 @@
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "所有敌方角色-2攻击力"
+            "value": "所有敌方角色 -2 攻击力"
         },
         {
             "key": "ability.aura_attack_m2.title",
@@ -426,7 +426,7 @@
         },
         {
             "key": "ability.aura_reptile.desc",
-            "value": "所有其他盟友爬行动物获得+1攻击力"
+            "value": "所有其他盟友爬行动物获得 +1 攻击力"
         },
         {
             "key": "ability.aura_reptile.title",
@@ -434,7 +434,7 @@
         },
         {
             "key": "ability.aura_reptile_2.desc",
-            "value": "所有其他盟友爬行动物获得+2攻击力"
+            "value": "所有其他盟友爬行动物获得 +2 攻击力"
         },
         {
             "key": "ability.aura_reptile_2.title",
@@ -442,7 +442,7 @@
         },
         {
             "key": "ability.bypass_trap.desc",
-            "value": "此角色不触发陷阱"
+            "value": "此角色不会触发陷阱。"
         },
         {
             "key": "ability.bypass_trap.title",
@@ -450,7 +450,7 @@
         },
         {
             "key": "ability.chain_ice_treasure.desc",
-            "value": "查看牌库接下来的7张牌，将2张冰系牌加入手牌"
+            "value": "查看牌库顶的 7 张牌，选择 2 张冰系牌加入手牌"
         },
         {
             "key": "ability.chain_ice_treasure.title",
@@ -458,7 +458,7 @@
         },
         {
             "key": "ability.chain_water_treasure.desc",
-            "value": "查看牌库接下来的7张牌，将2张水系牌加入手牌"
+            "value": "查看牌库顶的 7 张牌，选择 2 张水系牌加入手牌"
         },
         {
             "key": "ability.chain_water_treasure.title",
@@ -482,7 +482,7 @@
         },
         {
             "key": "ability.choice_spell_immunity.desc",
-            "value": "不会成为法术牌的目标，也不会被其造成伤害。"
+            "value": "不会成为法术牌的目标，也不会受到法术伤害。"
         },
         {
             "key": "ability.choice_spell_immunity.title",
@@ -490,7 +490,7 @@
         },
         {
             "key": "ability.choice_taunt.desc",
-            "value": "你的其他角色不能被攻击"
+            "value": "你的其他角色不会被攻击"
         },
         {
             "key": "ability.choice_taunt.title",
@@ -506,7 +506,7 @@
         },
         {
             "key": "ability.death_damage2_player.desc",
-            "value": "此生物死亡时对敌方玩家造成伤害"
+            "value": "此生物死亡时，对敌方玩家造成 2 点伤害"
         },
         {
             "key": "ability.death_damage2_player.title",
