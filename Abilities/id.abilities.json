@@ -2,495 +2,495 @@
     "entries": [
         {
             "key": "ability.ability_immunity.desc",
-            "value": "Cannot be targeted by character card abilities"
+            "value": "Tidak dapat menjadi target oleh kemampuan kartu karakter"
         },
         {
             "key": "ability.ability_immunity.title",
-            "value": "Ability Immunity"
+            "value": "Imunitas Kemampuan"
         },
         {
             "key": "ability.ability_swap_characters_3ml.desc",
-            "value": "Replace this character with an enemies' board character that a mana cost of 3 or less."
+            "value": "Gantikan karakter ini dengan karakter di papan musuh yang berbiaya 3 mana atau kurang."
         },
         {
             "key": "ability.ability_swap_characters_3ml.title",
-            "value": "Psychic Swap"
+            "value": "Tukar Psikis"
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "Replace this character with an enemies' board character that has a mana cost of 4."
+            "value": "Gantikan karakter ini dengan karakter di papan musuh yang berbiaya 4 mana."
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
-            "value": "Psychic Swap"
+            "value": "Tukar Psikis"
         },
         {
             "key": "ability.ability_swap_characters_7ml.desc",
-            "value": "Replace this character with an enemies' board character that a mana cost of 7 or less."
+            "value": "Gantikan karakter ini dengan karakter di papan musuh yang berbiaya 7 mana atau kurang."
         },
         {
             "key": "ability.ability_swap_characters_7ml.title",
-            "value": "Psychic Swap"
+            "value": "Tukar Psikis"
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "All allied creatures gain +2 armor. Uses this creature's action and costs 5 mana."
+            "value": "Semua makhluk sekutu mendapatkan +2 zirah. Menggunakan aksi makhluk ini dan berbiaya 5 mana."
         },
         {
             "key": "ability.activate_armor2.title",
-            "value": "Armor Support"
+            "value": "Dukungan Zirah"
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "All allied creatures gain +1 attack until the end of the turn. Uses this creature's action."
+            "value": "Semua makhluk sekutu mendapatkan +1 serangan hingga akhir giliran. Menggunakan aksi makhluk ini."
         },
         {
             "key": "ability.activate_boost1.title",
-            "value": "Roar"
+            "value": "Raungan"
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "All allied creatures gain +3 attack until the end of the turn. Uses this creature's action."
+            "value": "Semua makhluk sekutu mendapatkan +3 serangan hingga akhir giliran. Menggunakan aksi makhluk ini."
         },
         {
             "key": "ability.activate_boost3.title",
-            "value": "Support"
+            "value": "Dukungan"
         },
         {
             "key": "ability.activate_burst.desc",
-            "value": "Take 1 damage to gain +1 attack."
+            "value": "Terima 1 kerusakan untuk mendapatkan +1 serangan."
         },
         {
             "key": "ability.activate_burst.title",
-            "value": "Burst"
+            "value": "Letupan"
         },
         {
             "key": "ability.activate_damage2.desc",
-            "value": "Deal 2 damage. Cost 3 mana. Does not exhaust action. "
+            "value": "Berikan 2 kerusakan. Biaya 3 mana. Tidak menghabiskan aksi."
         },
         {
             "key": "ability.activate_damage2.title",
-            "value": "Extra Attack"
+            "value": "Serangan Ekstra"
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "Opponent discard a random card from their hand. Uses this creature's action."
+            "value": "Lawan membuang kartu acak dari tangannya. Menggunakan aksi makhluk ini."
         },
         {
             "key": "ability.activate_discard.title",
-            "value": "Discard"
+            "value": "Buang"
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "Opponent discard a random card from their hand. Uses this creature's action."
+            "value": "Lawan membuang kartu acak dari tangannya. Menggunakan aksi makhluk ini."
         },
         {
             "key": "ability.activate_discard_random_3l.title",
-            "value": "Discard"
+            "value": "Buang"
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "Target gains haste (must be electric monster)"
+            "value": "Target mendapatkan haste (harus monster listrik)"
         },
         {
             "key": "ability.activate_electric.title",
-            "value": "Electric"
+            "value": "Listrik"
         },
         {
             "key": "ability.activate_fire.desc",
-            "value": "Deal 1 damage."
+            "value": "Berikan 1 kerusakan."
         },
         {
             "key": "ability.activate_fire.title",
-            "value": "Fire"
+            "value": "Api"
         },
         {
             "key": "ability.activate_heal_player3.desc",
-            "value": "Heal Player for 3 HP."
+            "value": "Sembuhkan pemain sebesar 3 HP."
         },
         {
             "key": "ability.activate_heal_player3.title",
-            "value": "Self Heal"
+            "value": "Penyembuhan Diri"
         },
         {
             "key": "ability.activate_ice.desc",
-            "value": "Freeze an enemy for 1 turn"
+            "value": "Bekukan musuh selama 1 giliran"
         },
         {
             "key": "ability.activate_ice.title",
-            "value": "Freeze"
+            "value": "Bekukan"
         },
         {
             "key": "ability.activate_plant.desc",
-            "value": "Heal 2 HP."
+            "value": "Pulihkan 2 HP."
         },
         {
             "key": "ability.activate_plant.title",
-            "value": "Plant"
+            "value": "Tanaman"
         },
         {
             "key": "ability.activate_psychic.desc",
-            "value": "Opponent discards a random card from their hand."
+            "value": "Lawan membuang kartu acak dari tangannya."
         },
         {
             "key": "ability.activate_psychic.title",
-            "value": "Psychic"
+            "value": "Psikis"
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "Target character gains +1 Armor"
+            "value": "Karakter target mendapatkan +1 Zirah"
         },
         {
             "key": "ability.activate_rock.title",
-            "value": "Rock"
+            "value": "Batu"
         },
         {
             "key": "ability.activate_rock_hammi_old.desc",
-            "value": "Summon a 1/1 Hammi"
+            "value": "Panggil Hammi 1/1"
         },
         {
             "key": "ability.activate_rock_hammi_old.title",
-            "value": "Rock"
+            "value": "Batu"
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "Select a character and roll a D6, on 4+ return it to its owner's hand. Cost 2 mana."
+            "value": "Pilih karakter dan lempar D6, pada hasil 4+ kembalikan ke tangan pemiliknya. Biaya 2 mana."
         },
         {
             "key": "ability.activate_roll_send_hand.title",
-            "value": "Charge"
+            "value": "Serbuan"
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "Return a spell from your graveyard to your hand. Cost 2 mana."
+            "value": "Kembalikan mantra dari kuburanmu ke tanganmu. Biaya 2 mana."
         },
         {
             "key": "ability.activate_select_discard_spell.title",
-            "value": "Magic Focus"
+            "value": "Fokus Magis"
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "Return a character to its owner's hand. Uses this creature's action."
+            "value": "Kembalikan karakter ke tangan pemiliknya. Menggunakan aksi makhluk ini."
         },
         {
             "key": "ability.activate_send_hand.title",
-            "value": "Bounce"
+            "value": "Kembalikan"
         },
         {
             "key": "ability.activate_shadow.desc",
-            "value": "Target becomes Cursed"
+            "value": "Target menjadi Terkutuk"
         },
         {
             "key": "ability.activate_shadow.title",
-            "value": "Shadow"
+            "value": "Bayangan"
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "On play, select a target character to switch sides"
+            "value": "Saat dimainkan, pilih karakter target untuk bertukar sisi"
         },
         {
             "key": "ability.activate_switch_sides.title",
-            "value": "Loyalty Swap"
+            "value": "Pertukaran Loyalitas"
         },
         {
             "key": "ability.activate_water.desc",
-            "value": "Draw a card."
+            "value": "Tarik sebuah kartu."
         },
         {
             "key": "ability.activate_water.title",
-            "value": "Water"
+            "value": "Air"
         },
         {
             "key": "ability.add_attack_traps.desc",
-            "value": "Gain +1 damage for each enemy trap"
+            "value": "Dapatkan +1 kerusakan untuk setiap jebakan musuh"
         },
         {
             "key": "ability.add_attack_traps.title",
-            "value": "Trap Boost"
+            "value": "Peningkatan Jebakan"
         },
         {
             "key": "ability.add_hp_location.desc",
-            "value": "Gain +2 HP for every allied location of the same element type is in play."
+            "value": "Dapatkan +2 HP untuk setiap lokasi sekutu dengan elemen yang sama di permainan."
         },
         {
             "key": "ability.add_hp_location.title",
-            "value": "Location Boost"
+            "value": "Peningkatan Lokasi"
         },
         {
             "key": "ability.add_spell_damage1.desc",
-            "value": "All your spells and abilities deal +1 damage."
+            "value": "Semua mantra dan kemampuanmu memberikan +1 kerusakan."
         },
         {
             "key": "ability.add_spell_damage1.title",
-            "value": "Spell Damage"
+            "value": "Kerusakan Mantra"
         },
         {
             "key": "ability.add_spell_damage2.desc",
-            "value": "All your spells and abilities deal +2 damage."
+            "value": "Semua mantra dan kemampuanmu memberikan +2 kerusakan."
         },
         {
             "key": "ability.add_spell_damage2.title",
-            "value": "Spell Damage"
+            "value": "Kerusakan Mantra"
         },
         {
             "key": "ability.add_spell_damage4.desc",
-            "value": "All your spells and abilities deal +4 damage."
+            "value": "Semua mantra dan kemampuanmu memberikan +4 kerusakan."
         },
         {
             "key": "ability.add_spell_damage4.title",
-            "value": "Spell Damage"
+            "value": "Kerusakan Mantra"
         },
         {
             "key": "ability.after_spell_attack2.desc",
-            "value": "After playing a spell, gain +2 attack."
+            "value": "Setelah memainkan mantra, dapatkan +2 serangan."
         },
         {
             "key": "ability.after_spell_attack2.title",
-            "value": "Heat"
+            "value": "Panas"
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "Attacked character is burned. They lose 2 HP each turn."
+            "value": "Karakter yang diserang terbakar. Mereka kehilangan 2 HP setiap giliran."
         },
         {
             "key": "ability.attack_burned.title",
-            "value": "Burned"
+            "value": "Terbakar"
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "Attacked characters gain curse. They lose 1 attack each turn."
+            "value": "Karakter yang diserang terkena kutuk. Mereka kehilangan 1 serangan setiap giliran."
         },
         {
             "key": "ability.attack_curse.title",
-            "value": "Curse"
+            "value": "Kutuk"
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "Protects character's attack from being reduced."
+            "value": "Melindungi serangan karakter agar tidak berkurang."
         },
         {
             "key": "ability.attack_loss_immunity.title",
-            "value": "Attack Loss Immunity"
+            "value": "Kebal Kehilangan Serangan"
         },
         {
             "key": "ability.attack_mana1.desc",
-            "value": "After attacking gain 1 mana."
+            "value": "Setelah menyerang dapatkan 1 mana."
         },
         {
             "key": "ability.attack_mana1.title",
-            "value": "Pillage"
+            "value": "Jarahan"
         },
         {
             "key": "ability.attack_mana2.desc",
-            "value": "After attacking gain 2 mana."
+            "value": "Setelah menyerang dapatkan 2 mana."
         },
         {
             "key": "ability.attack_mana2.title",
-            "value": "Pillage"
+            "value": "Jarahan"
         },
         {
             "key": "ability.attack_player_mana1.desc",
-            "value": "After attacking the opponent's life, gain 1 mana."
+            "value": "Setelah menyerang nyawa lawan, dapatkan 1 mana."
         },
         {
             "key": "ability.attack_player_mana1.title",
-            "value": "Pillage"
+            "value": "Jarahan"
         },
         {
             "key": "ability.attack_player_mana2.desc",
-            "value": "After attacking the opponent's life, gain 2 mana."
+            "value": "Setelah menyerang nyawa lawan, dapatkan 2 mana."
         },
         {
             "key": "ability.attack_player_mana2.title",
-            "value": "Pillage"
+            "value": "Jarahan"
         },
         {
             "key": "ability.attack_player_mana3.desc",
-            "value": "After attacking the opponent's life, gain 3 mana."
+            "value": "Setelah menyerang nyawa lawan, dapatkan 3 mana."
         },
         {
             "key": "ability.attack_player_mana3.title",
-            "value": "Pillage"
+            "value": "Jarahan"
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "Attacked characters gain poison. They lose 1 hp each turn."
+            "value": "Karakter yang diserang terkena racun. Mereka kehilangan 1 HP setiap giliran."
         },
         {
             "key": "ability.attack_poison.title",
-            "value": "Poison"
+            "value": "Racun"
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "Before attacking, roll a D6, on 4+ gain +3 attack."
+            "value": "Sebelum menyerang, lempar D6, pada hasil 4+ dapatkan +3 serangan."
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.title",
-            "value": "Tentacles"
+            "value": "Tentakel"
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "Before attacking, roll a D6, on 4+ gain +3 attack until the end of the turn."
+            "value": "Sebelum menyerang, lempar D6, pada hasil 4+ dapatkan +3 serangan hingga akhir giliran."
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
-            "value": "Tentacles"
+            "value": "Tentakel"
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "Before attacking, roll a D6, on 4+ gain +6 attack until the end of the turn."
+            "value": "Sebelum menyerang, lempar D6, pada hasil 4+ dapatkan +6 serangan hingga akhir giliran."
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
-            "value": "Tentacles"
+            "value": "Tentakel"
         },
         {
             "key": "ability.attack_suffer_damage.desc",
-            "value": "Before attacking, suffer 3 damage."
+            "value": "Sebelum menyerang, terima 3 kerusakan."
         },
         {
             "key": "ability.attack_suffer_damage.title",
-            "value": "Ground Split"
+            "value": "Retakan Tanah"
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "All allied Fire creatures gain: \"Take 1 damage to gain +1 attack\"."
+            "value": "Semua makhluk Api sekutu mendapatkan: \"Terima 1 kerusakan untuk mendapatkan +1 serangan\"."
         },
         {
             "key": "ability.aura_ability_red.title",
-            "value": "Fire Burst"
+            "value": "Letupan Api"
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "All allied Rock creatures gain: \"Take 1 damage to gain +1 attack\"."
+            "value": "Semua makhluk Batu sekutu mendapatkan: \"Terima 1 kerusakan untuk mendapatkan +1 serangan\"."
         },
         {
             "key": "ability.aura_ability_rock.title",
-            "value": "Rock Burst"
+            "value": "Letupan Batu"
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "All enemy characters have -1 attack."
+            "value": "Semua karakter musuh memiliki -1 serangan."
         },
         {
             "key": "ability.aura_attack_m1.title",
-            "value": "Fear"
+            "value": "Rasa Takut"
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "All enemy characters have -2 attack."
+            "value": "Semua karakter musuh memiliki -2 serangan."
         },
         {
             "key": "ability.aura_attack_m2.title",
-            "value": "Fear"
+            "value": "Rasa Takut"
         },
         {
             "key": "ability.aura_cat.desc",
-            "value": "All other allied cats gain +1 attack."
+            "value": "Semua kucing sekutu lainnya mendapatkan +1 serangan."
         },
         {
             "key": "ability.aura_cat.title",
-            "value": "Cat Aura"
+            "value": "Aura Kucing"
         },
         {
             "key": "ability.aura_enemy_attack1.desc",
-            "value": "All enemy characters gain +1 attack."
+            "value": "Semua karakter musuh mendapatkan +1 serangan."
         },
         {
             "key": "ability.aura_enemy_attack1.title",
-            "value": "Betrayal"
+            "value": "Pengkhianatan"
         },
         {
             "key": "ability.aura_enemy_hp2.desc",
-            "value": "All enemy characters gain +2 HP"
+            "value": "Semua karakter musuh mendapatkan +2 HP"
         },
         {
             "key": "ability.aura_enemy_hp2.title",
-            "value": "Betrayal"
+            "value": "Pengkhianatan"
         },
         {
             "key": "ability.aura_hp_rock_1.desc",
-            "value": "All ally rock characters have +1 HP."
+            "value": "Semua karakter Batu sekutu memiliki +1 HP."
         },
         {
             "key": "ability.aura_hp_rock_1.title",
-            "value": "Stone Ally"
+            "value": "Sekutu Batu"
         },
         {
             "key": "ability.aura_hp_rock_m1.desc",
-            "value": "All ally shadow characters have +1 HP."
+            "value": "Semua karakter Bayangan sekutu memiliki +1 HP."
         },
         {
             "key": "ability.aura_hp_rock_m1.title",
-            "value": "Shadow Ally"
+            "value": "Sekutu Bayangan"
         },
         {
             "key": "ability.aura_reptile.desc",
-            "value": "All other allied reptiles gain +1 attack."
+            "value": "Semua reptil sekutu lainnya mendapatkan +1 serangan."
         },
         {
             "key": "ability.aura_reptile.title",
-            "value": "Reptiles"
+            "value": "Para Reptil"
         },
         {
             "key": "ability.aura_reptile_2.desc",
-            "value": "All other allied reptiles gain +2 attack."
+            "value": "Semua reptil sekutu lainnya mendapatkan +2 serangan."
         },
         {
             "key": "ability.aura_reptile_2.title",
-            "value": "Reptiles"
+            "value": "Para Reptil"
         },
         {
             "key": "ability.bypass_trap.desc",
-            "value": "This character does not trigger traps. "
+            "value": "Karakter ini tidak memicu jebakan."
         },
         {
             "key": "ability.bypass_trap.title",
-            "value": "Trap Evasion"
+            "value": "Menghindari Jebakan"
         },
         {
             "key": "ability.chain_ice_treasure.desc",
-            "value": "Look at the next 7 cards in your deck, and take 2 ice cards into your hand."
+            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 2 kartu es ke tanganmu."
         },
         {
             "key": "ability.chain_ice_treasure.title",
-            "value": "Ice Treasure"
+            "value": "Harta Karun Es"
         },
         {
             "key": "ability.chain_water_treasure.desc",
-            "value": "Look at the next 7 cards in your deck, and take 2 water cards into your hand."
+            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 2 kartu air ke tanganmu."
         },
         {
             "key": "ability.chain_water_treasure.title",
-            "value": "Water Treasure"
+            "value": "Harta Karun Air"
         },
         {
             "key": "ability.choice_ability_immunity.desc",
-            "value": "Cannot be targeted by character abilities"
+            "value": "Tidak dapat menjadi target oleh kemampuan karakter"
         },
         {
             "key": "ability.choice_ability_immunity.title",
-            "value": "Ability Immunity"
+            "value": "Imunitas Kemampuan"
         },
         {
             "key": "ability.choice_fury.desc",
-            "value": "Can attack twice per turn."
+            "value": "Dapat menyerang dua kali per giliran."
         },
         {
             "key": "ability.choice_fury.title",
-            "value": "Fury"
+            "value": "Amukan"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
-            "value": "Cannot be targeted or damaged by spells cards."
+            "value": "Tidak dapat menjadi target atau dirusak oleh kartu mantra."
         },
         {
             "key": "ability.choice_spell_immunity.title",
-            "value": "Spell Immunity"
+            "value": "Imunitas Mantra"
         },
         {
             "key": "ability.choice_taunt.desc",
-            "value": "Your other characters cannot be attacked."
+            "value": "Karaktermu yang lain tidak dapat diserang."
         },
         {
             "key": "ability.choice_taunt.title",
@@ -498,215 +498,215 @@
         },
         {
             "key": "ability.death_blue_draw.desc",
-            "value": "When a Water creature you own dies, draw a card."
+            "value": "Saat makhluk Air milikmu mati, tarik sebuah kartu."
         },
         {
             "key": "ability.death_blue_draw.title",
-            "value": "Draw"
+            "value": "Tarik"
         },
         {
             "key": "ability.death_damage2_player.desc",
-            "value": "When this creature dies, deal damage to enemy player."
+            "value": "Saat makhluk ini mati, berikan kerusakan kepada pemain musuh."
         },
         {
             "key": "ability.death_damage2_player.title",
-            "value": "Death Damage"
+            "value": "Kerusakan Kematian"
         },
         {
             "key": "ability.death_draw.desc",
-            "value": "When this creature dies, draw a card."
+            "value": "Saat makhluk ini mati, tarik sebuah kartu."
         },
         {
             "key": "ability.death_draw.title",
-            "value": "Draw"
+            "value": "Tarik"
         },
         {
             "key": "ability.death_egg.desc",
-            "value": "When this creatures dies, summon a Phyra egg."
+            "value": "Saat makhluk ini mati, panggil telur Phyra."
         },
         {
             "key": "ability.death_egg.title",
-            "value": "Summon Egg"
+            "value": "Panggil Telur"
         },
         {
             "key": "ability.death_heal2.desc",
-            "value": "When this creatures dies, you restore 2 HP."
+            "value": "Saat makhluk ini mati, kamu memulihkan 2 HP."
         },
         {
             "key": "ability.death_heal2.title",
-            "value": "Heal"
+            "value": "Sembuhkan"
         },
         {
             "key": "ability.death_heal3.desc",
-            "value": "When this creatures dies, you restore 3 HP."
+            "value": "Saat makhluk ini mati, kamu memulihkan 3 HP."
         },
         {
             "key": "ability.death_heal3.title",
-            "value": "Heal"
+            "value": "Sembuhkan"
         },
         {
             "key": "ability.death_other_draw.desc",
-            "value": "Whenever another character dies, draw a card."
+            "value": "Setiap kali karakter lain mati, tarik sebuah kartu."
         },
         {
             "key": "ability.death_other_draw.title",
-            "value": "Eat"
+            "value": "Makan"
         },
         {
             "key": "ability.death_other_draw2.desc",
-            "value": "Whenever another character dies, draw 2 cards."
+            "value": "Setiap kali karakter lain mati, tarik 2 kartu."
         },
         {
             "key": "ability.death_other_draw2.title",
-            "value": "Eat"
+            "value": "Makan"
         },
         {
             "key": "ability.death_summon_twii.desc",
-            "value": "When this creatures dies, summon a Twii."
+            "value": "Saat makhluk ini mati, panggil Twii."
         },
         {
             "key": "ability.death_summon_twii.title",
-            "value": "Summon Twii"
+            "value": "Panggil Twii"
         },
         {
             "key": "ability.deathtouch.desc",
-            "value": "Kill any creature it damages."
+            "value": "Bunuh makhluk apa pun yang dilukainya."
         },
         {
             "key": "ability.deathtouch.title",
-            "value": "Deathtouch"
+            "value": "Sentuhan Maut"
         },
         {
             "key": "ability.defend_discard.desc",
-            "value": "When attacked, opponent must discard 1 random card."
+            "value": "Saat diserang, lawan harus membuang 1 kartu acak."
         },
         {
             "key": "ability.defend_discard.title",
-            "value": "Submerged"
+            "value": "Tenggelam"
         },
         {
             "key": "ability.defend_draw1.desc",
-            "value": "When this character is attacked draw a card."
+            "value": "Saat karakter ini diserang tarik sebuah kartu."
         },
         {
             "key": "ability.defend_draw1.title",
-            "value": "Draw"
+            "value": "Tarik"
         },
         {
             "key": "ability.defense_attack3.desc",
-            "value": "Has +3 attack during the opponent's turn."
+            "value": "Memiliki +3 serangan selama giliran lawan."
         },
         {
             "key": "ability.defense_attack3.title",
-            "value": "Defense"
+            "value": "Pertahanan"
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "Has +3 attack during the opponent's turn."
+            "value": "Memiliki +3 serangan selama giliran lawan."
         },
         {
             "key": "ability.defense_attack5.title",
-            "value": "Defense"
+            "value": "Pertahanan"
         },
         {
             "key": "ability.discard_add_attack1.desc",
-            "value": "Each time the opponent is forced to discard gain +1 attack."
+            "value": "Setiap kali lawan dipaksa membuang kartu dapatkan +1 serangan."
         },
         {
             "key": "ability.discard_add_attack1.title",
-            "value": "Discard Gain"
+            "value": "Buang & Dapatkan"
         },
         {
             "key": "ability.egg_growth.desc",
-            "value": "After 3 turns, transforms into a Phyra."
+            "value": "Setelah 3 giliran, berubah menjadi Phyra."
         },
         {
             "key": "ability.egg_growth.title",
-            "value": "Egg"
+            "value": "Telur"
         },
         {
             "key": "ability.egg_transform.desc",
-            "value": "After 3 turns, transforms into a Phyra."
+            "value": "Setelah 3 giliran, berubah menjadi Phyra."
         },
         {
             "key": "ability.egg_transform.title",
-            "value": "Transform Phyra"
+            "value": "Transformasi Phyra"
         },
         {
             "key": "ability.equip_armor2.desc",
-            "value": "Bearer has +2 armor."
+            "value": "Pembawa memiliki +2 zirah."
         },
         {
             "key": "ability.equip_armor2.title",
-            "value": "Armor"
+            "value": "Zirah"
         },
         {
             "key": "ability.equip_attack_no_damage.desc",
-            "value": "When attacking, target does not counter-attack."
+            "value": "Saat menyerang, target tidak membalas."
         },
         {
             "key": "ability.equip_attack_no_damage.title",
-            "value": "Intimidate"
+            "value": "Intimidasi"
         },
         {
             "key": "ability.equip_attack_use.desc",
-            "value": "Loses 1 durability after each attack."
+            "value": "Kehilangan 1 daya tahan setelah setiap serangan."
         },
         {
             "key": "ability.equip_attack_use.title",
-            "value": "Sword"
+            "value": "Pedang"
         },
         {
             "key": "ability.equip_attack1.desc",
-            "value": "Bearer has +1 attack."
+            "value": "Pembawa memiliki +1 serangan."
         },
         {
             "key": "ability.equip_attack1.title",
-            "value": "Attack"
+            "value": "Serang"
         },
         {
             "key": "ability.equip_attack2.desc",
-            "value": "Bearer has +2 attack."
+            "value": "Pembawa memiliki +2 serangan."
         },
         {
             "key": "ability.equip_attack2.title",
-            "value": "Attack"
+            "value": "Serang"
         },
         {
             "key": "ability.equip_defend_use.desc",
-            "value": "Loses 1 durability when attacked."
+            "value": "Kehilangan 1 daya tahan saat diserang."
         },
         {
             "key": "ability.equip_defend_use.title",
-            "value": "Shield"
+            "value": "Perisai"
         },
         {
             "key": "ability.equip_gain_mana.desc",
-            "value": "Gain 2 extra mana per turn for the next 3 turns."
+            "value": "Dapatkan 2 mana tambahan per giliran selama 3 giliran berikutnya."
         },
         {
             "key": "ability.equip_gain_mana.title",
-            "value": "Mana Ring"
+            "value": "Cincin Mana"
         },
         {
             "key": "ability.equip_mana_kill.desc",
-            "value": "When the bearer kills a card, gain 3 mana."
+            "value": "Saat pembawa membunuh sebuah kartu, dapatkan 3 mana."
         },
         {
             "key": "ability.equip_mana_kill.title",
-            "value": "Mana Ring"
+            "value": "Cincin Mana"
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Gain 2 extra mana per turn for the next 3 turns."
+            "value": "Dapatkan 2 mana tambahan per giliran selama 3 giliran berikutnya."
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Mana Ring"
+            "value": "Cincin Mana"
         },
         {
             "key": "ability.equip_taunt.desc",
-            "value": "Bearer has taunt."
+            "value": "Pembawa memiliki Taunt."
         },
         {
             "key": "ability.equip_taunt.title",
@@ -714,203 +714,203 @@
         },
         {
             "key": "ability.equip_turn_use.desc",
-            "value": "Loses 1 durability after each turn."
+            "value": "Kehilangan 1 daya tahan setiap giliran."
         },
         {
             "key": "ability.flying.desc",
-            "value": "Can ignore Taunt."
+            "value": "Dapat mengabaikan Taunt."
         },
         {
             "key": "ability.flying.title",
-            "value": "Flying"
+            "value": "Terbang"
         },
         {
             "key": "ability.fury.desc",
-            "value": "Can attack twice per turn."
+            "value": "Dapat menyerang dua kali per giliran."
         },
         {
             "key": "ability.fury.title",
-            "value": "Fury"
+            "value": "Amukan"
         },
         {
             "key": "ability.ghost.desc",
-            "value": "Do not take damage when attacking."
+            "value": "Tidak menerima kerusakan saat menyerang."
         },
         {
             "key": "ability.ghost.title",
-            "value": "Ghost"
+            "value": "Hantu"
         },
         {
             "key": "ability.haste.desc",
-            "value": "Can attack immediately."
+            "value": "Dapat menyerang segera."
         },
         {
             "key": "ability.haste.title",
-            "value": "Haste"
+            "value": "Kilatan"
         },
         {
             "key": "ability.kill_draw1.desc",
-            "value": "When you kill another character with this creature, draw 1 card."
+            "value": "Saat kamu membunuh karakter lain dengan makhluk ini, tarik 1 kartu."
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Draw"
+            "value": "Tarik"
         },
         {
             "key": "ability.kill_draw2.desc",
-            "value": "When you kill another character with this creature, draw 2 cards."
+            "value": "Saat kamu membunuh karakter lain dengan makhluk ini, tarik 2 kartu."
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Draw"
+            "value": "Tarik"
         },
         {
             "key": "ability.lifesteal.desc",
-            "value": "Heal player when dealing damage."
+            "value": "Sembuhkan pemain saat memberikan kerusakan."
         },
         {
             "key": "ability.lifesteal.title",
-            "value": "Life Steal"
+            "value": "Curian Nyawa"
         },
         {
             "key": "ability.location_mana_discount.desc",
-            "value": "Location cards of the same elemental type have a mana discount of 1. "
+            "value": "Kartu lokasi dengan elemen yang sama mendapat diskon 1 mana."
         },
         {
             "key": "ability.location_mana_discount.title",
-            "value": "Location Aura"
+            "value": "Aura Lokasi"
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
-            "value": "Take control of an enemy character with 3 or less mana for 1 turn. Target gains Rush."
+            "value": "Ambil alih karakter musuh dengan 3 atau kurang mana selama 1 giliran. Target mendapatkan Rush."
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.desc",
-            "value": "Take control of an enemy character for 1 turn and give it rush"
+            "value": "Ambil alih karakter musuh selama 1 giliran dan berikan rush"
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_any.desc",
-            "value": "Take control of an enemy character for 3 turns, or until it evolves"
+            "value": "Ambil alih karakter musuh selama 3 giliran, atau sampai ia berevolusi"
         },
         {
             "key": "ability.mind_control_ability_any.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_any_spell.desc",
-            "value": "Take control of an enemy character for 3 turns, or until it evolves"
+            "value": "Ambil alih karakter musuh selama 3 giliran, atau sampai ia berevolusi"
         },
         {
             "key": "ability.mind_control_ability_any_spell.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
-            "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
+            "value": "Ambil alih karakter musuh dengan biaya 4 mana atau kurang selama 3 giliran, atau sampai ia berevolusi"
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.desc",
-            "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
+            "value": "Ambil alih karakter musuh dengan biaya 4 mana atau kurang selama 3 giliran, atau sampai ia berevolusi"
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.desc",
-            "value": "Take control of an enemy character with 2 attack for 3 turns, or until it evolves or leaves the board"
+            "value": "Ambil alih karakter musuh dengan 2 serangan selama 3 giliran, atau sampai ia berevolusi atau meninggalkan papan"
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
-            "value": "Take control of an enemy character with 3 attack for 3 turns, or until it evolves or leaves the board"
+            "value": "Ambil alih karakter musuh dengan 3 serangan selama 3 giliran, atau sampai ia berevolusi atau meninggalkan papan"
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.desc",
-            "value": "Take control of an enemy character with 5 attack for 2 turns, or until it evolves or leaves the board"
+            "value": "Ambil alih karakter musuh dengan 5 serangan selama 2 giliran, atau sampai ia berevolusi atau meninggalkan papan"
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.desc",
-            "value": "Take control of an enemy character with 2 mana or less cost for 3 turns, or until it evolves / leaves play"
+            "value": "Ambil alih karakter musuh dengan biaya 2 mana atau kurang selama 3 giliran, atau sampai ia berevolusi / keluar dari permainan"
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.desc",
-            "value": "Take control of an enemy character with 3 mana or less cost for 3 turns, or until it evolves / leaves play"
+            "value": "Ambil alih karakter musuh dengan biaya 3 mana atau kurang selama 3 giliran, atau sampai ia berevolusi / keluar dari permainan"
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.desc",
-            "value": "Take control of an enemy character with 4 mana cost for 3 turns, or until it evolves"
+            "value": "Ambil alih karakter musuh dengan biaya 4 mana selama 3 giliran, atau sampai ia berevolusi"
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.desc",
-            "value": "Take control of an enemy character with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
+            "value": "Ambil alih karakter musuh dengan biaya 5 mana atau lebih selama 3 giliran, atau sampai ia berevolusi, atau kartu ini meninggalkan papan"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.desc",
-            "value": "Take control of an enemy character with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
+            "value": "Ambil alih karakter musuh dengan biaya 5 mana atau lebih selama 3 giliran, atau sampai ia berevolusi, atau kartu ini meninggalkan papan"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.mind_control_ability_m5l.desc",
-            "value": "Take control of an enemy character with 5 or less mana cost for 3 turns, or until it evolves"
+            "value": "Ambil alih karakter musuh dengan biaya 5 mana atau kurang selama 3 giliran, atau sampai ia berevolusi"
         },
         {
             "key": "ability.mind_control_ability_m5l.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.ongoing_cannot_attack.desc",
-            "value": "This monster cannot attack enemy targets. "
+            "value": "Monster ini tidak dapat menyerang target musuh."
         },
         {
             "key": "ability.ongoing_cannot_attack.title",
-            "value": "No Attack"
+            "value": "Tidak Dapat Menyerang"
         },
         {
             "key": "ability.overkill.desc",
-            "value": "Excess damage heals attacker."
+            "value": "Kerusakan berlebih menyembuhkan penyerang."
         },
         {
             "key": "ability.overkill.title",
@@ -918,223 +918,223 @@
         },
         {
             "key": "ability.play_boost_hp_1.desc",
-            "value": "On play, give +2 HP to another creature until your next turn."
+            "value": "Saat dimainkan, berikan +2 HP kepada makhluk lain hingga giliranmu berikutnya."
         },
         {
             "key": "ability.play_boost_hp_1.title",
-            "value": "Bless HP"
+            "value": "Berkat HP"
         },
         {
             "key": "ability.play_boost2.desc",
-            "value": "On play, give +2/2 to another creature until your next turn."
+            "value": "Saat dimainkan, berikan +2/+2 kepada makhluk lain hingga giliranmu berikutnya."
         },
         {
             "key": "ability.play_boost2.title",
-            "value": "Bless"
+            "value": "Berkat"
         },
         {
             "key": "ability.play_boost2_permanent.desc",
-            "value": "On play, give +2/2 to another creature until your next turn."
+            "value": "Saat dimainkan, berikan +2/+2 kepada makhluk lain hingga giliranmu berikutnya."
         },
         {
             "key": "ability.play_boost2_permanent.title",
-            "value": "Bless"
+            "value": "Berkat"
         },
         {
             "key": "ability.play_boost3.desc",
-            "value": "On play, give +3/3 to another creature for 3 turns"
+            "value": "Saat dimainkan, berikan +3/+3 kepada makhluk lain selama 3 giliran"
         },
         {
             "key": "ability.play_boost3.title",
-            "value": "Plant Blessing"
+            "value": "Berkat Tanaman"
         },
         {
             "key": "ability.play_burn.desc",
-            "value": "Target character gains burn. They lose 2 hp each turn."
+            "value": "Karakter target terbakar. Mereka kehilangan 2 HP setiap giliran."
         },
         {
             "key": "ability.play_burn.title",
-            "value": "Burn"
+            "value": "Bakar"
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.desc",
-            "value": "Gain Spell or Ability Immunity"
+            "value": "Dapatkan Imunitas Mantra atau Kemampuan"
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.title",
-            "value": "Choice"
+            "value": "Pilihan"
         },
         {
             "key": "ability.play_choice_taunt_fury.desc",
-            "value": "Gain Taunt or Fury"
+            "value": "Dapatkan Taunt atau Amukan"
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
-            "value": "Choice"
+            "value": "Pilihan"
         },
         {
             "key": "ability.play_cure.desc",
-            "value": "On play, heal another character of all negative status effects. "
+            "value": "Saat dimainkan, sembuhkan karakter lain dari semua efek negatif."
         },
         {
             "key": "ability.play_cure.title",
-            "value": "Cure"
+            "value": "Sembuhkan"
         },
         {
             "key": "ability.play_cure_bless2.desc",
-            "value": "On play, heal another character of all negative status effects and grant +2HP"
+            "value": "Saat dimainkan, sembuhkan karakter lain dari semua efek negatif dan berikan +2 HP"
         },
         {
             "key": "ability.play_cure_bless2.title",
-            "value": "Cure Blessing"
+            "value": "Berkat Penyembuhan"
         },
         {
             "key": "ability.play_curse.desc",
-            "value": "Target character gains cursed. They lose 1 attack each turn."
+            "value": "Karakter target terkena kutuk. Mereka kehilangan 1 serangan setiap giliran."
         },
         {
             "key": "ability.play_curse.title",
-            "value": "Curse"
+            "value": "Kutuk"
         },
         {
             "key": "ability.play_curse_all.desc",
-            "value": "On play, curse all cards in play."
+            "value": "Saat dimainkan, kutuk semua kartu di permainan."
         },
         {
             "key": "ability.play_curse_all.title",
-            "value": "Curse All"
+            "value": "Kutuk Semua"
         },
         {
             "key": "ability.play_damage_all_players2.desc",
-            "value": "On play, deal 2 damage to both players."
+            "value": "Saat dimainkan, berikan 2 kerusakan kepada kedua pemain."
         },
         {
             "key": "ability.play_damage_all_players2.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.play_damage_all1.desc",
-            "value": "On play, deal 1 damage to all other cards."
+            "value": "Saat dimainkan, berikan 1 kerusakan ke semua kartu lainnya."
         },
         {
             "key": "ability.play_damage_all1.title",
-            "value": "Damage All"
+            "value": "Kerusakan Semua"
         },
         {
             "key": "ability.play_damage_all2.desc",
-            "value": "On play, deal 2 damage to all other cards."
+            "value": "Saat dimainkan, berikan 2 kerusakan ke semua kartu lainnya."
         },
         {
             "key": "ability.play_damage_all2.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.play_damage_electric_all2.desc",
-            "value": "On play, deal 2 damage to enemy monsters"
+            "value": "Saat dimainkan, berikan 2 kerusakan ke monster musuh"
         },
         {
             "key": "ability.play_damage_electric_all2.title",
-            "value": "Electric Damage"
+            "value": "Kerusakan Listrik"
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
-            "value": "On play, deal 1 damage to any target."
+            "value": "Saat dimainkan, berikan 1 kerusakan ke target mana pun."
         },
         {
             "key": "ability.play_deal_damage_cards_players2.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.play_deal_damage1.desc",
-            "value": "On play, deal 1 damage to any target."
+            "value": "Saat dimainkan, berikan 1 kerusakan ke target mana pun."
         },
         {
             "key": "ability.play_deal_damage1.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.play_deal_damage2.desc",
-            "value": "On play, deal 2 damage to any target."
+            "value": "Saat dimainkan, berikan 2 kerusakan ke target mana pun."
         },
         {
             "key": "ability.play_deal_damage2.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.play_destroy_less2.desc",
-            "value": "On play, destroy a character with 2 or less attack. If you do, draw a card."
+            "value": "Saat dimainkan, hancurkan karakter dengan serangan 2 atau kurang. Jika berhasil, tarik sebuah kartu."
         },
         {
             "key": "ability.play_destroy_less2.title",
-            "value": "Killer"
+            "value": "Pembunuh"
         },
         {
             "key": "ability.play_destroy_less3.desc",
-            "value": "On play, destroy a character with 3 or less attack. If you do, draw a card."
+            "value": "Saat dimainkan, hancurkan karakter dengan serangan 3 atau kurang. Jika berhasil, tarik sebuah kartu."
         },
         {
             "key": "ability.play_destroy_less3.title",
-            "value": "Killer"
+            "value": "Pembunuh"
         },
         {
             "key": "ability.play_destroy_less4.desc",
-            "value": "On play, destroy a character with 3 or less attack."
+            "value": "Saat dimainkan, hancurkan karakter dengan serangan 3 atau kurang."
         },
         {
             "key": "ability.play_destroy_less4.title",
-            "value": "Killer"
+            "value": "Pembunuh"
         },
         {
             "key": "ability.play_discard.desc",
-            "value": "Opponent discards a random card from their hand."
+            "value": "Lawan membuang kartu acak dari tangannya."
         },
         {
             "key": "ability.play_discard.title",
-            "value": "Discard"
+            "value": "Buang"
         },
         {
             "key": "ability.play_discard_draw.desc",
-            "value": "Discard a random card from player's hand and draw two new cards."
+            "value": "Buang kartu acak dari tangan pemain dan tarik dua kartu baru."
         },
         {
             "key": "ability.play_discard_draw.title",
-            "value": "Gamble"
+            "value": "Bertaruh"
         },
         {
             "key": "ability.play_discard3.desc",
-            "value": "Opponent discards 3 random cards from their hand."
+            "value": "Lawan membuang 3 kartu acak dari tangannya."
         },
         {
             "key": "ability.play_discard3.title",
-            "value": "Discard"
+            "value": "Buang"
         },
         {
             "key": "ability.play_draw.desc",
-            "value": "Draw a card"
+            "value": "Tarik sebuah kartu"
         },
         {
             "key": "ability.play_draw.title",
-            "value": "Draw"
+            "value": "Tarik"
         },
         {
             "key": "ability.play_enemy_discard.desc",
-            "value": "Opponent discard a random card from their hand."
+            "value": "Lawan membuang kartu acak dari tangannya."
         },
         {
             "key": "ability.play_enemy_discard.title",
-            "value": "Discard"
+            "value": "Buang"
         },
         {
             "key": "ability.play_freeze.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Karakter target menjadi beku selama 1 giliran."
         },
         {
             "key": "ability.play_freeze.title",
-            "value": "Freeze"
+            "value": "Bekukan"
         },
         {
             "key": "ability.play_gain_rush_ice_location.desc",
-            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+            "value": "Dapatkan Rush jika ada lokasi es di permainan. Rush memungkinkanmu menyerang kartu lain pada giliran saat dimainkan."
         },
         {
             "key": "ability.play_gain_rush_ice_location.title",
@@ -1142,223 +1142,223 @@
         },
         {
             "key": "ability.play_heal_player2.desc",
-            "value": "On play, heal the player for 4 HP"
+            "value": "Saat dimainkan, sembuhkan pemain sebesar 4 HP"
         },
         {
             "key": "ability.play_heal_player2.title",
-            "value": "Player Blessing"
+            "value": "Berkat Pemain"
         },
         {
             "key": "ability.play_heal_player4.desc",
-            "value": "On play, heal the player for 4 HP"
+            "value": "Saat dimainkan, sembuhkan pemain sebesar 4 HP"
         },
         {
             "key": "ability.play_heal_player4.title",
-            "value": "Player Blessing"
+            "value": "Berkat Pemain"
         },
         {
             "key": "ability.play_other_sacrifice.desc",
-            "value": "When an allied creature enter play, destroy this card."
+            "value": "Saat makhluk sekutu masuk permainan, hancurkan kartu ini."
         },
         {
             "key": "ability.play_other_sacrifice.title",
-            "value": "Extinction"
+            "value": "Kepunahan"
         },
         {
             "key": "ability.play_poison.desc",
-            "value": "Target character gains poison. They lose 1 hp each turn."
+            "value": "Karakter target terkena racun. Mereka kehilangan 1 HP setiap giliran."
         },
         {
             "key": "ability.play_poison.title",
-            "value": "Poison"
+            "value": "Racun"
         },
         {
             "key": "ability.play_poison_all.desc",
-            "value": "On play, poison all cards in play."
+            "value": "Saat dimainkan, racuni semua kartu di permainan."
         },
         {
             "key": "ability.play_poison_all.title",
-            "value": "Poison All"
+            "value": "Racuni Semua"
         },
         {
             "key": "ability.play_poison_all_enemies.desc",
-            "value": "On play, poison all enemies in play."
+            "value": "Saat dimainkan, racuni semua musuh di permainan."
         },
         {
             "key": "ability.play_poison_all_enemies.title",
-            "value": "Poison Enemies"
+            "value": "Racuni Musuh"
         },
         {
             "key": "ability.play_return_target_hand.desc",
-            "value": "Return any target to owner's hand."
+            "value": "Kembalikan target apa pun ke tangan pemiliknya."
         },
         {
             "key": "ability.play_return_target_hand.title",
-            "value": "Bounce"
+            "value": "Kembalikan"
         },
         {
             "key": "ability.play_roll_attack.desc",
-            "value": "Roll a D6, increase this card's attack by the result."
+            "value": "Lempar D6, tingkatkan serangan kartu ini sebesar hasilnya."
         },
         {
             "key": "ability.play_roll_attack.title",
-            "value": "Random Attack."
+            "value": "Serangan Acak."
         },
         {
             "key": "ability.play_select_discard_any.desc",
-            "value": "On play, return a card from your graveyard to your hand."
+            "value": "Saat dimainkan, kembalikan kartu dari kuburanmu ke tanganmu."
         },
         {
             "key": "ability.play_select_discard_any.title",
-            "value": "Deep Dig"
+            "value": "Galian Dalam"
         },
         {
             "key": "ability.play_select_discard_character.desc",
-            "value": "On play, return a character from your graveyard to your hand."
+            "value": "Saat dimainkan, kembalikan karakter dari kuburanmu ke tanganmu."
         },
         {
             "key": "ability.play_select_discard_character.title",
-            "value": "Dig"
+            "value": "Gali"
         },
         {
             "key": "ability.play_send_hand.desc",
-            "value": "On Play, return a character to its owner's hand."
+            "value": "Saat dimainkan, kembalikan karakter ke tangan pemiliknya."
         },
         {
             "key": "ability.play_send_hand.title",
-            "value": "Bounce"
+            "value": "Kembalikan"
         },
         {
             "key": "ability.play_set_attack1.desc",
-            "value": "On play, selected target's attack is reduced to 1."
+            "value": "Saat dimainkan, serangan target yang dipilih dikurangi menjadi 1."
         },
         {
             "key": "ability.play_set_attack1.title",
-            "value": "Electrify"
+            "value": "Listrikkan"
         },
         {
             "key": "ability.play_set_attack3.desc",
-            "value": "On play, selected target's attack is set to 3."
+            "value": "Saat dimainkan, serangan target yang dipilih disetel menjadi 3."
         },
         {
             "key": "ability.play_set_attack3.title",
-            "value": "Psychic"
+            "value": "Psikis"
         },
         {
             "key": "ability.play_silence.desc",
-            "value": "Target abilities are canceled."
+            "value": "Kemampuan target dibatalkan."
         },
         {
             "key": "ability.play_silence.title",
-            "value": "Silence"
+            "value": "Bungkam"
         },
         {
             "key": "ability.play_silence_curse.desc",
-            "value": "Target abilities are canceled and monster is cursed"
+            "value": "Kemampuan target dibatalkan dan monster dikutuk"
         },
         {
             "key": "ability.play_silence_curse.title",
-            "value": "Silenced Curse"
+            "value": "Kutuk Bungkam"
         },
         {
             "key": "ability.play_suffer.desc",
-            "value": "Target creature gains \"Suffer 3 damage before attacking\"."
+            "value": "Makhluk target mendapatkan \"Terima 3 kerusakan sebelum menyerang\"."
         },
         {
             "key": "ability.play_suffer.title",
-            "value": "Ground Split"
+            "value": "Retakan Tanah"
         },
         {
             "key": "ability.play_summon_cat.desc",
-            "value": "On play, summon a 1/1 baby Jagur cat on an adjacent empty slot."
+            "value": "Saat dimainkan, panggil anak kucing Jagur 1/1 pada slot kosong yang berdekatan."
         },
         {
             "key": "ability.play_summon_cat.title",
-            "value": "Summon Jagur"
+            "value": "Panggil Jagur"
         },
         {
             "key": "ability.play_summon_fractail.desc",
-            "value": "On play, summon a baby Lizo on an adjacent empty slot."
+            "value": "Saat dimainkan, panggil bayi Lizo pada slot kosong yang berdekatan."
         },
         {
             "key": "ability.play_summon_fractail.title",
-            "value": "Summon Lizo"
+            "value": "Panggil Lizo"
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "On death summon a Hajiko"
+            "value": "Saat mati, panggil Hajiko"
         },
         {
             "key": "ability.play_summon_hajiko.title",
-            "value": "Summon Hajiko"
+            "value": "Panggil Hajiko"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
-            "value": "On play, select a target character with a mana cost of 2 or less to switch sides"
+            "value": "Saat dimainkan, pilih karakter target dengan biaya mana 2 atau kurang untuk bertukar sisi"
         },
         {
             "key": "ability.play_switch_sides_2ml.title",
-            "value": "Loyalty Swap"
+            "value": "Pertukaran Loyalitas"
         },
         {
             "key": "ability.play_switch_sides_any.desc",
-            "value": "On play, select any character on the board and send them to the other player."
+            "value": "Saat dimainkan, pilih karakter apa pun di papan dan kirim ke pemain lain."
         },
         {
             "key": "ability.play_switch_sides_any.title",
-            "value": "Loyalty Swap"
+            "value": "Pertukaran Loyalitas"
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
-            "value": "On play, select any character on the board and send them to the other player."
+            "value": "Saat dimainkan, pilih karakter apa pun di papan dan kirim ke pemain lain."
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.title",
-            "value": "Loyalty Swap"
+            "value": "Pertukaran Loyalitas"
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.desc",
-            "value": "On play, select a character under your control, and send them to the other player."
+            "value": "Saat dimainkan, pilih karakter di bawah kendalimu dan kirim ke pemain lain."
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.title",
-            "value": "Loyalty Swap"
+            "value": "Pertukaran Loyalitas"
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.desc",
-            "value": "On play, select a character under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
+            "value": "Saat dimainkan, pilih karakter di bawah kendalimu dan kirim ke pemain lain dengan kemampuan: buang 2 kartu dari tangan setiap giliran"
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.title",
-            "value": "Loyalty Swap"
+            "value": "Pertukaran Loyalitas"
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
-            "value": "On play, select a character under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
+            "value": "Saat dimainkan, pilih karakter di bawah kendalimu dan kirim ke pemain lain dengan kemampuan: buang 2 kartu dari tangan setiap giliran"
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
-            "value": "Loyalty Swap"
+            "value": "Pertukaran Loyalitas"
         },
         {
             "key": "ability.regen_all.desc",
-            "value": "At the start of your turn, this creature fully heal."
+            "value": "Di awal giliranmu, makhluk ini pulih sepenuhnya."
         },
         {
             "key": "ability.regen_all.title",
-            "value": "Regeneration"
+            "value": "Regenerasi"
         },
         {
             "key": "ability.regen3.desc",
-            "value": "At the start of your turn, heal 3 hp."
+            "value": "Di awal giliranmu, pulihkan 3 HP."
         },
         {
             "key": "ability.regen3.title",
-            "value": "Regeneration"
+            "value": "Regenerasi"
         },
         {
             "key": "ability.rush.desc",
-            "value": "Can attack immediately, but cannot target the enemy player on the turn it's played."
+            "value": "Dapat menyerang segera, tetapi tidak dapat menargetkan pemain musuh pada giliran saat dimainkan."
         },
         {
             "key": "ability.rush.title",
@@ -1366,7 +1366,7 @@
         },
         {
             "key": "ability.secret_return_hand.desc",
-            "value": "When the next enemy creature is played, return them back to the hand."
+            "value": "Saat makhluk musuh berikutnya dimainkan, kembalikan ke tangannya."
         },
         {
             "key": "ability.secret_return_hand.title",
@@ -1374,363 +1374,363 @@
         },
         {
             "key": "ability.secret_silence.desc",
-            "value": "Clear any abilities from trapped character"
+            "value": "Hapus semua kemampuan dari karakter yang terperangkap"
         },
         {
             "key": "ability.secret_silence.title",
-            "value": "Silence"
+            "value": "Bungkam"
         },
         {
             "key": "ability.secret_transform_fish.desc",
-            "value": "When the next enemy creature is played, transform it into a 1/1 fish."
+            "value": "Saat makhluk musuh berikutnya dimainkan, ubah menjadi ikan 1/1."
         },
         {
             "key": "ability.secret_transform_fish.title",
-            "value": "Transform to Fish"
+            "value": "Berubah menjadi Ikan"
         },
         {
             "key": "ability.shell.desc",
-            "value": "On the first hit, takes no damage."
+            "value": "Pada pukulan pertama, tidak menerima kerusakan."
         },
         {
             "key": "ability.shell.title",
-            "value": "Shell"
+            "value": "Cangkang"
         },
         {
             "key": "ability.spell_add_attack_suffer.desc",
-            "value": "Target creature gains \"Suffer 3 damage before attacking\"."
+            "value": "Makhluk target mendapatkan \"Terima 3 kerusakan sebelum menyerang\"."
         },
         {
             "key": "ability.spell_add_attack_suffer.title",
-            "value": "Curse of Suffering"
+            "value": "Kutukan Penderitaan"
         },
         {
             "key": "ability.spell_add_play_extinct.desc",
-            "value": "Target card gains \"When an allied creature enter play, destroy this card\"."
+            "value": "Kartu target mendapatkan \"Saat makhluk sekutu masuk permainan, hancurkan kartu ini\"."
         },
         {
             "key": "ability.spell_add_play_extinct.title",
-            "value": "Extinct"
+            "value": "Punah"
         },
         {
             "key": "ability.spell_add_submerge.desc",
-            "value": "Target card gains \"When attacked, opponent must discard 1 random card\"."
+            "value": "Kartu target mendapatkan \"Saat diserang, lawan harus membuang 1 kartu acak\"."
         },
         {
             "key": "ability.spell_add_submerge.title",
-            "value": "Return"
+            "value": "Kembalikan"
         },
         {
             "key": "ability.spell_ally_attack_2.desc",
-            "value": "All allied characters gain +2/2"
+            "value": "Semua karakter sekutu mendapatkan +2/+2"
         },
         {
             "key": "ability.spell_ally_attack_2.title",
-            "value": "Growth"
+            "value": "Pertumbuhan"
         },
         {
             "key": "ability.spell_ally_plant_attack_2.desc",
-            "value": "All allied characters gain +2/2"
+            "value": "Semua karakter sekutu mendapatkan +2/+2"
         },
         {
             "key": "ability.spell_ally_plant_attack_2.title",
-            "value": "Growth"
+            "value": "Pertumbuhan"
         },
         {
             "key": "ability.spell_armor2.desc",
-            "value": "Target gains armor 2 reducing direct damage from characters by 2."
+            "value": "Target mendapatkan zirah 2 yang mengurangi kerusakan langsung dari karakter sebesar 2."
         },
         {
             "key": "ability.spell_armor2.title",
-            "value": "Armor +2"
+            "value": "Zirah +2"
         },
         {
             "key": "ability.spell_attack1.desc",
-            "value": "Target gains 1 attack."
+            "value": "Target mendapatkan 1 serangan."
         },
         {
             "key": "ability.spell_attack1.title",
-            "value": "Attack +1"
+            "value": "Serangan +1"
         },
         {
             "key": "ability.spell_coin.desc",
-            "value": "Gain 1 mana this turn."
+            "value": "Dapatkan 1 mana pada giliran ini."
         },
         {
             "key": "ability.spell_coin.title",
-            "value": "Coin"
+            "value": "Koin"
         },
         {
             "key": "ability.spell_cure_2_2.desc",
-            "value": "Target gains +2/+2 permanently and cures any negative status effects."
+            "value": "Target mendapatkan +2/+2 permanen dan menyembuhkan semua efek negatif."
         },
         {
             "key": "ability.spell_cure_2_2.title",
-            "value": "Cure Boost"
+            "value": "Peningkatan Penyembuhan"
         },
         {
             "key": "ability.spell_damage_per_hand.desc",
-            "value": "The hp of all characters on the board is lowered to 1."
+            "value": "HP semua karakter di papan diturunkan menjadi 1."
         },
         {
             "key": "ability.spell_damage_per_hand.title",
-            "value": "Flood"
+            "value": "Banjir"
         },
         {
             "key": "ability.spell_damage1.desc",
-            "value": "Deal 1 damage."
+            "value": "Berikan 1 kerusakan."
         },
         {
             "key": "ability.spell_damage1.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.spell_damage3.desc",
-            "value": "Deal 3 damage."
+            "value": "Berikan 3 kerusakan."
         },
         {
             "key": "ability.spell_damage3.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.spell_destroy.desc",
-            "value": "Destroy target character or location."
+            "value": "Hancurkan karakter atau lokasi target."
         },
         {
             "key": "ability.spell_destroy.title",
-            "value": "Destroy"
+            "value": "Hancurkan"
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Destroy all creatures on the board"
+            "value": "Hancurkan semua makhluk di papan"
         },
         {
             "key": "ability.spell_destroy_all.title",
-            "value": "Armageddon"
+            "value": "Armagedon"
         },
         {
             "key": "ability.spell_destroy_frozen_all.desc",
-            "value": "Destroy all frozen cards on board"
+            "value": "Hancurkan semua kartu beku di papan"
         },
         {
             "key": "ability.spell_destroy_frozen_all.title",
-            "value": "Frozen Wave"
+            "value": "Gelombang Beku"
         },
         {
             "key": "ability.spell_destroy_locations.desc",
-            "value": "Destroy all locations on the board"
+            "value": "Hancurkan semua lokasi di papan"
         },
         {
             "key": "ability.spell_destroy_locations.title",
-            "value": "Landslide"
+            "value": "Longsor"
         },
         {
             "key": "ability.spell_dragon_summon.desc",
-            "value": "Select a dragon from your deck to summon into your hand."
+            "value": "Pilih naga dari dekmu untuk dipanggil ke tanganmu."
         },
         {
             "key": "ability.spell_dragon_summon.title",
-            "value": "Discover Dragon"
+            "value": "Temukan Naga"
         },
         {
             "key": "ability.spell_draw1.desc",
-            "value": "Draw 1 card."
+            "value": "Tarik 1 kartu."
         },
         {
             "key": "ability.spell_draw1.title",
-            "value": "Draw"
+            "value": "Tarik"
         },
         {
             "key": "ability.spell_draw2.desc",
-            "value": "Draw 2 card."
+            "value": "Tarik 2 kartu."
         },
         {
             "key": "ability.spell_draw2.title",
-            "value": "Draw"
+            "value": "Tarik"
         },
         {
             "key": "ability.spell_electric_ally.desc",
-            "value": "Look at the next 7 cards in your deck, and take 1 Electric Monster into your hand."
+            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 1 Monster Listrik ke tanganmu."
         },
         {
             "key": "ability.spell_electric_ally.title",
-            "value": "Electric Ally"
+            "value": "Sekutu Listrik"
         },
         {
             "key": "ability.spell_electric_attack_2.desc",
-            "value": "All Electric monsters gain +2 attack"
+            "value": "Semua monster Listrik mendapatkan +2 serangan"
         },
         {
             "key": "ability.spell_freeze.desc",
-            "value": "Freeze target  for 1 turn."
+            "value": "Bekukan target selama 1 giliran."
         },
         {
             "key": "ability.spell_freeze.title",
-            "value": "Freeze"
+            "value": "Bekukan"
         },
         {
             "key": "ability.spell_fury.desc",
-            "value": "Target character gains Fury. It can attack twice per turn."
+            "value": "Karakter target mendapatkan Amukan. Ia dapat menyerang dua kali per giliran."
         },
         {
             "key": "ability.spell_fury.title",
-            "value": "Fury"
+            "value": "Amukan"
         },
         {
             "key": "ability.spell_haste.desc",
-            "value": "Target character gains Haste. It can attack immediately."
+            "value": "Karakter target mendapatkan Kilatan. Ia dapat menyerang segera."
         },
         {
             "key": "ability.spell_haste.title",
-            "value": "Haste"
+            "value": "Kilatan"
         },
         {
             "key": "ability.spell_heal_full.desc",
-            "value": "Target card is fully healed."
+            "value": "Kartu target pulih sepenuhnya."
         },
         {
             "key": "ability.spell_heal_full.title",
-            "value": "Heal"
+            "value": "Sembuhkan"
         },
         {
             "key": "ability.spell_hibernate.desc",
-            "value": "Target character gains +4/4 and goes to sleep for the next 2 turns."
+            "value": "Karakter target mendapatkan +4/+4 dan tertidur selama 2 giliran berikutnya."
         },
         {
             "key": "ability.spell_hibernate.title",
-            "value": "Hibernate"
+            "value": "Hibernasi"
         },
         {
             "key": "ability.spell_hp2.desc",
-            "value": "Target gains 2 hp."
+            "value": "Target mendapatkan 2 HP."
         },
         {
             "key": "ability.spell_hp2.title",
-            "value": "Hp +2"
+            "value": "HP +2"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
-            "value": "Look at the next 7 cards in your deck, and take 1 ice card into your hand."
+            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 1 kartu es ke tanganmu."
         },
         {
             "key": "ability.spell_ice_treasure.title",
-            "value": "Ice Treasure"
+            "value": "Harta Karun Es"
         },
         {
             "key": "ability.spell_immunity.desc",
-            "value": "Cannot be targeted or damaged by spells cards."
+            "value": "Tidak dapat menjadi target atau dirusak oleh kartu mantra."
         },
         {
             "key": "ability.spell_immunity.title",
-            "value": "Spell Immunity"
+            "value": "Imunitas Mantra"
         },
         {
             "key": "ability.spell_kill_lowest_hp.desc",
-            "value": "Kill the character in play with the lowest hp (including yours)."
+            "value": "Bunuh karakter di permainan dengan HP terendah (termasuk milikmu)."
         },
         {
             "key": "ability.spell_kill_lowest_hp.title",
-            "value": "Stomp"
+            "value": "Injak"
         },
         {
             "key": "ability.spell_paralyse.desc",
-            "value": "Paralyse target character for 3 turns."
+            "value": "Lumpuhkan karakter target selama 3 giliran."
         },
         {
             "key": "ability.spell_paralyse.title",
-            "value": "Paralyse"
+            "value": "Lumpuhkan"
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Deal 1 damage to a random enemy card.\nRepeat X times."
+            "value": "Berikan 1 kerusakan ke kartu musuh acak.\nUlangi X kali."
         },
         {
             "key": "ability.spell_projectile1_repeat.title",
-            "value": "Projectiles"
+            "value": "Proyektil"
         },
         {
             "key": "ability.spell_return_all.desc",
-            "value": "All cards on the board return to their owner's hand."
+            "value": "Semua kartu di papan kembali ke tangan pemiliknya."
         },
         {
             "key": "ability.spell_return_all.title",
-            "value": "Sea Storm"
+            "value": "Badai Laut"
         },
         {
             "key": "ability.spell_send_hand_any.desc",
-            "value": "Return any played target to its owner's hand."
+            "value": "Kembalikan target yang dimainkan ke tangan pemiliknya."
         },
         {
             "key": "ability.spell_send_hand_any.title",
-            "value": "Return Hand Any"
+            "value": "Kembalikan Tangan Apa Pun"
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.desc",
-            "value": "Return any played target to its owner's hand."
+            "value": "Kembalikan target yang dimainkan ke tangan pemiliknya."
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.title",
-            "value": "Return Hand Any"
+            "value": "Kembalikan Tangan Apa Pun"
         },
         {
             "key": "ability.spell_send_hand_enemy.desc",
-            "value": "Return target to its owner's hand."
+            "value": "Kembalikan target ke tangan pemiliknya."
         },
         {
             "key": "ability.spell_send_hand_enemy.title",
-            "value": "Return Hand"
+            "value": "Kembalikan ke Tangan"
         },
         {
             "key": "ability.spell_set_hp_attack_1.desc",
-            "value": "The hp and attack of all characters on the board is lowered to 1."
+            "value": "HP dan serangan semua karakter di papan diturunkan menjadi 1."
         },
         {
             "key": "ability.spell_set_hp_attack_1.title",
-            "value": "Flood"
+            "value": "Banjir"
         },
         {
             "key": "ability.spell_set_hp_attack_3.desc",
-            "value": "The hp and attack of all characters on the board is set to 1."
+            "value": "HP dan serangan semua karakter di papan disetel menjadi 1."
         },
         {
             "key": "ability.spell_set_hp_attack_3.title",
-            "value": "Flood"
+            "value": "Banjir"
         },
         {
             "key": "ability.spell_shell.desc",
-            "value": "Target gains shell, it ignores damage on the next hit."
+            "value": "Target mendapatkan cangkang, mengabaikan kerusakan pada pukulan berikutnya."
         },
         {
             "key": "ability.spell_shell.title",
-            "value": "Shell"
+            "value": "Cangkang"
         },
         {
             "key": "ability.spell_summon_hammi.desc",
-            "value": "Summon three Hammi into your hand."
+            "value": "Panggil tiga Hammi ke tanganmu."
         },
         {
             "key": "ability.spell_summon_hammi.title",
-            "value": "Hammi Strike"
+            "value": "Serangan Hammi"
         },
         {
             "key": "ability.spell_summon_lampi.desc",
-            "value": "Summon three 2/2 Lampi into your hand."
+            "value": "Panggil tiga Lampi 2/2 ke tanganmu."
         },
         {
             "key": "ability.spell_summon_lampi.title",
-            "value": "Lampi Storm"
+            "value": "Badai Lampi"
         },
         {
             "key": "ability.spell_summon_pyro.desc",
-            "value": "Summon three 1/1 Pyra with Egg abilities into your hand."
+            "value": "Panggil tiga Pyra 1/1 dengan kemampuan Telur ke tanganmu."
         },
         {
             "key": "ability.spell_summon_pyro.title",
-            "value": "Aerial Strike"
+            "value": "Serangan Udara"
         },
         {
             "key": "ability.spell_taunt.desc",
-            "value": "Target character gains Taunt. Your other characters cannot be attacked."
+            "value": "Karakter target mendapatkan Taunt. Karaktermu yang lain tidak dapat diserang."
         },
         {
             "key": "ability.spell_taunt.title",
@@ -1738,23 +1738,23 @@
         },
         {
             "key": "ability.spell_water_treasure.desc",
-            "value": "Look at the next 7 cards in your deck, and take 1 water card into your hand."
+            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 1 kartu air ke tanganmu."
         },
         {
             "key": "ability.spell_water_treasure.title",
-            "value": "Water Treasure"
+            "value": "Harta Karun Air"
         },
         {
             "key": "ability.stealth.desc",
-            "value": "Cannot be targeted or attacked until it performs an action."
+            "value": "Tidak dapat menjadi target atau diserang sampai melakukan aksi."
         },
         {
             "key": "ability.stealth.title",
-            "value": "Stealth"
+            "value": "Sembunyi"
         },
         {
             "key": "ability.taunt.desc",
-            "value": "Your other characters cannot be attacked."
+            "value": "Karaktermu yang lain tidak dapat diserang."
         },
         {
             "key": "ability.taunt.title",
@@ -1762,291 +1762,291 @@
         },
         {
             "key": "ability.taunt_flying.desc",
-            "value": "Your other characters are protected by flying monsters."
+            "value": "Karaktermu yang lain dilindungi oleh monster terbang."
         },
         {
             "key": "ability.taunt_flying.title",
-            "value": "Reach"
+            "value": "Jangkau"
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "All Electric monsters cost 2 mana less (includes enemies)"
+            "value": "Semua monster Listrik berbiaya 2 mana lebih sedikit (termasuk musuh)"
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Electric Aura"
+            "value": "Aura Listrik"
         },
         {
             "key": "ability.town_aura_fire.desc",
-            "value": "All allied Fire creatures gain +2 attack."
+            "value": "Semua makhluk Api sekutu mendapatkan +2 serangan."
         },
         {
             "key": "ability.town_aura_fire.title",
-            "value": "Fire Aura"
+            "value": "Aura Api"
         },
         {
             "key": "ability.town_aura_ice.desc",
-            "value": "All allied Ice creatures gain +1 attack and HP."
+            "value": "Semua makhluk Es sekutu mendapatkan +1 serangan dan HP."
         },
         {
             "key": "ability.town_aura_ice.title",
-            "value": "Ice Aura"
+            "value": "Aura Es"
         },
         {
             "key": "ability.town_aura_plant.desc",
-            "value": "All allied Plant characters gain +2 hp."
+            "value": "Semua karakter Tanaman sekutu mendapatkan +2 HP."
         },
         {
             "key": "ability.town_aura_plant.title",
-            "value": "Plant Aura"
+            "value": "Aura Tanaman"
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.desc",
-            "value": "When you take control of an opponent monster, opponent discards a random card. "
+            "value": "Saat kamu mengambil alih monster lawan, lawan membuang kartu acak."
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.title",
-            "value": "Psychic Aura Discard"
+            "value": "Aura Psikis Buang"
         },
         {
             "key": "ability.town_aura_psychic_played_discard.desc",
-            "value": "When you play a psychic monster opponent discards a random card. "
+            "value": "Saat kamu memainkan monster psikis, lawan membuang kartu acak."
         },
         {
             "key": "ability.town_aura_psychic_played_discard.title",
-            "value": "Psychic Aura Discard"
+            "value": "Aura Psikis Buang"
         },
         {
             "key": "ability.town_aura_rock.desc",
-            "value": "All allied Rock creatures gain +2 HP."
+            "value": "Semua makhluk Batu sekutu mendapatkan +2 HP."
         },
         {
             "key": "ability.town_aura_rock.title",
-            "value": "Rock Aura"
+            "value": "Aura Batu"
         },
         {
             "key": "ability.town_aura_shadow.desc",
-            "value": "All allied Shadow characters gain +2 attack."
+            "value": "Semua karakter Bayangan sekutu mendapatkan +2 serangan."
         },
         {
             "key": "ability.town_aura_shadow.title",
-            "value": "Shadow Aura"
+            "value": "Aura Bayangan"
         },
         {
             "key": "ability.town_aura_water.desc",
-            "value": "All allied Water cards cost 1 less."
+            "value": "Semua kartu Air sekutu berbiaya 1 lebih sedikit."
         },
         {
             "key": "ability.town_aura_water.title",
-            "value": "Blue Aura"
+            "value": "Aura Biru"
         },
         {
             "key": "ability.town_mystic_woods_psychic.desc",
-            "value": "All allied Psychic cards cost 1 less mana."
+            "value": "Semua kartu Psikis sekutu berbiaya 1 mana lebih sedikit."
         },
         {
             "key": "ability.town_mystic_woods_psychic.title",
-            "value": "Psychic Aura"
+            "value": "Aura Psikis"
         },
         {
             "key": "ability.trample.desc",
-            "value": "Excess damage is dealt to player hp."
+            "value": "Kerusakan berlebih diarahkan ke HP pemain."
         },
         {
             "key": "ability.trample.title",
-            "value": "Trample"
+            "value": "Lindas"
         },
         {
             "key": "ability.transform_to_discarded_card.desc",
-            "value": "If the opponent discards a character card, this character becomes a copy of that character"
+            "value": "Jika lawan membuang kartu karakter, karakter ini menjadi salinan karakter tersebut"
         },
         {
             "key": "ability.transform_to_discarded_card.title",
-            "value": "Graveyard Clone"
+            "value": "Klon Pemakaman"
         },
         {
             "key": "ability.trap_all_damage1.desc",
-            "value": "Damage enemies for 1 HP"
+            "value": "Lukai musuh sebesar 1 HP"
         },
         {
             "key": "ability.trap_all_damage1.title",
-            "value": "Damage Board"
+            "value": "Kerusakan Papan"
         },
         {
             "key": "ability.trap_damage_all2.desc",
-            "value": "When an enemy creature attacks, damage all enemy creatures by 2."
+            "value": "Saat makhluk musuh menyerang, lukai semua makhluk musuh sebesar 2."
         },
         {
             "key": "ability.trap_damage_all2.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.trap_damage2.desc",
-            "value": "Damage attacker for 2 HP"
+            "value": "Lukai penyerang sebesar 2 HP"
         },
         {
             "key": "ability.trap_damage2.title",
-            "value": "Trap"
+            "value": "Jebakan"
         },
         {
             "key": "ability.trap_damage3.desc",
-            "value": "Damage attacker for 3 HP"
+            "value": "Lukai penyerang sebesar 3 HP"
         },
         {
             "key": "ability.trap_damage3.title",
-            "value": "Trap"
+            "value": "Jebakan"
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "After an enemy creature attacks, freeze it for 2 turns."
+            "value": "Setelah makhluk musuh menyerang, bekukan selama 2 giliran."
         },
         {
             "key": "ability.trap_freeze.title",
-            "value": "Frozen"
+            "value": "Membeku"
         },
         {
             "key": "ability.trap_heal4.desc",
-            "value": "When an enemy attacks the player, heal 4 HP."
+            "value": "Saat musuh menyerang pemain, pulihkan 4 HP."
         },
         {
             "key": "ability.trap_heal4.title",
-            "value": "Fortification"
+            "value": "Benteng"
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
-            "value": "After an enemy creature attacks, Mind Control it for 1 turn and grant taunt"
+            "value": "Setelah makhluk musuh menyerang, kendalikan pikirannya selama 1 giliran dan berikan Taunt"
         },
         {
             "key": "ability.trap_mind_control_taunt.title",
-            "value": "Mind Control"
+            "value": "Kendali Pikiran"
         },
         {
             "key": "ability.trap_paralyse3.desc",
-            "value": "After an enemy creature attacks, paralyse it for 3 turns."
+            "value": "Setelah makhluk musuh menyerang, lumpuhkan selama 3 giliran."
         },
         {
             "key": "ability.trap_paralyse3.title",
-            "value": "Paralysis"
+            "value": "Kelumpuhan"
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "Setelah makhluk musuh menyerang, racuni"
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Poison"
+            "value": "Racun"
         },
         {
             "key": "ability.trap_shock.desc",
-            "value": "After an enemy creature attacks, shock paralyze it for 1 turn."
+            "value": "Setelah makhluk musuh menyerang, kejut dan lumpuhkan selama 1 giliran."
         },
         {
             "key": "ability.trap_shock.title",
-            "value": "Shock Paralyzed"
+            "value": "Kejut Lumpuh"
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "After an enemy creature attacks, shock paralyze it for 1 turn."
+            "value": "Setelah makhluk musuh menyerang, kejut dan lumpuhkan selama 1 giliran."
         },
         {
             "key": "ability.trap_shock_all.title",
-            "value": "Shock Paralyzed"
+            "value": "Kejut Lumpuh"
         },
         {
             "key": "ability.turn_add_armor1.desc",
-            "value": "At the start of each turn, gain +1 armor."
+            "value": "Di awal setiap giliran, dapatkan +1 zirah."
         },
         {
             "key": "ability.turn_add_armor1.title",
-            "value": "Armor"
+            "value": "Zirah"
         },
         {
             "key": "ability.turn_add_armor2.desc",
-            "value": "At the start of each turn, gain +2 armor."
+            "value": "Di awal setiap giliran, dapatkan +2 zirah."
         },
         {
             "key": "ability.turn_add_armor2.title",
-            "value": "Armor"
+            "value": "Zirah"
         },
         {
             "key": "ability.turn_add_attack1.desc",
-            "value": "At the start of each turn, gain +1 attack."
+            "value": "Di awal setiap giliran, dapatkan +1 serangan."
         },
         {
             "key": "ability.turn_add_attack1.title",
-            "value": "Furious"
+            "value": "Mengamuk"
         },
         {
             "key": "ability.turn_add_attack2.desc",
-            "value": "At the start of each turn, gain +2 attack."
+            "value": "Di awal setiap giliran, dapatkan +2 serangan."
         },
         {
             "key": "ability.turn_add_attack2.title",
-            "value": "Furious"
+            "value": "Mengamuk"
         },
         {
             "key": "ability.turn_add_draw.desc",
-            "value": "At the start of each turn, draw 1 card"
+            "value": "Di awal setiap giliran, tarik 1 kartu"
         },
         {
             "key": "ability.turn_add_draw.title",
-            "value": "Explorer"
+            "value": "Penjelajah"
         },
         {
             "key": "ability.turn_damage_allies1.desc",
-            "value": "On the start of each turn, deal 1 damage to all ally characters"
+            "value": "Pada awal setiap giliran, berikan 1 kerusakan kepada semua karakter sekutu"
         },
         {
             "key": "ability.turn_damage_allies1.title",
-            "value": "Betrayal Damage"
+            "value": "Kerusakan Pengkhianatan"
         },
         {
             "key": "ability.turn_damage_allies2.desc",
-            "value": "On the start of each turn, deal 2 damage to all ally characters"
+            "value": "Pada awal setiap giliran, berikan 2 kerusakan kepada semua karakter sekutu"
         },
         {
             "key": "ability.turn_damage_allies2.title",
-            "value": "Betrayal Damage"
+            "value": "Kerusakan Pengkhianatan"
         },
         {
             "key": "ability.turn_green_heal.desc",
-            "value": "At the start of each turn, all allied green creatures and locations heal by 3."
+            "value": "Di awal setiap giliran, semua makhluk dan lokasi hijau sekutu pulih 3."
         },
         {
             "key": "ability.turn_green_heal.title",
-            "value": "Green Heal"
+            "value": "Penyembuhan Hijau"
         },
         {
             "key": "ability.turn_kill_lowest.desc",
-            "value": "At the start of your turn, kill characters in play with the lowest attack (including yours)."
+            "value": "Di awal giliranmu, bunuh karakter yang sedang dimainkan dengan serangan terendah (termasuk milikmu)."
         },
         {
             "key": "ability.turn_kill_lowest.title",
-            "value": "Reaper"
+            "value": "Penuai"
         },
         {
             "key": "ability.turn_own_discard2.desc",
-            "value": "Player discards 2 random cards from their hand."
+            "value": "Pemain membuang 2 kartu acak dari tangannya."
         },
         {
             "key": "ability.turn_own_discard2.title",
-            "value": "Discard"
+            "value": "Buang"
         },
         {
             "key": "ability.turn_shadow_add_attack1.desc",
-            "value": "At the start of each turn, all Shadow monsters gain +1 attack."
+            "value": "Di awal setiap giliran, semua monster Bayangan mendapatkan +1 serangan."
         },
         {
             "key": "ability.turn_shadow_add_attack1.title",
-            "value": "Shadow Bonus"
+            "value": "Bonus Bayangan"
         },
         {
             "key": "ability.turn_stealth.desc",
-            "value": "At the end of your turn, if you have at least one other character in play, go in stealth."
+            "value": "Di akhir giliranmu, jika kamu memiliki setidaknya satu karakter lain di permainan, masuk ke mode sembunyi."
         },
         {
             "key": "ability.turn_stealth.title",
-            "value": "Stealth"
+            "value": "Sembunyi"
         },
         {
             "key": "status.addhp.desc",
@@ -2054,115 +2054,115 @@
         },
         {
             "key": "status.addhp.title",
-            "value": "HP Bonus"
+            "value": "Bonus HP"
         },
         {
             "key": "status.addmanacost.desc",
-            "value": "Mana cost is now +1"
+            "value": "Biaya mana sekarang +1"
         },
         {
             "key": "status.addmanacost.title",
-            "value": "Mental Drain"
+            "value": "Hisap Mental"
         },
         {
             "key": "status.armor.desc",
-            "value": "Add Armor"
+            "value": "Tambahkan Zirah"
         },
         {
             "key": "status.armor.title",
-            "value": "Armor"
+            "value": "Zirah"
         },
         {
             "key": "status.attacklossimmunity.desc",
-            "value": "Protects character's attack from being reduced."
+            "value": "Melindungi serangan karakter agar tidak berkurang."
         },
         {
             "key": "status.attacklossimmunity.title",
-            "value": "Attack Loss Immunity"
+            "value": "Kebal Kehilangan Serangan"
         },
         {
             "key": "status.burned.desc",
-            "value": "Each turn, will lose 2 hp."
+            "value": "Setiap giliran akan kehilangan 2 HP."
         },
         {
             "key": "status.burned.title",
-            "value": "Burned"
+            "value": "Terbakar"
         },
         {
             "key": "status.characterabilityimmunity.desc",
-            "value": "Cannot be targeted by character abilities"
+            "value": "Tidak dapat menjadi target oleh kemampuan karakter"
         },
         {
             "key": "status.characterabilityimmunity.title",
-            "value": "Ability Immunity"
+            "value": "Imunitas Kemampuan"
         },
         {
             "key": "status.cursed.desc",
-            "value": "Each turn, will lose attack."
+            "value": "Setiap giliran akan kehilangan serangan."
         },
         {
             "key": "status.cursed.title",
-            "value": "Cursed"
+            "value": "Terkutuk"
         },
         {
             "key": "status.deathtouch.desc",
-            "value": "Kill any creature it damages."
+            "value": "Bunuh makhluk apa pun yang dilukainya."
         },
         {
             "key": "status.deathtouch.title",
-            "value": "Deathtouch"
+            "value": "Sentuhan Maut"
         },
         {
             "key": "status.flying.desc",
-            "value": "Ignores Taunt."
+            "value": "Mengabaikan Taunt."
         },
         {
             "key": "status.flying.title",
-            "value": "Flying"
+            "value": "Terbang"
         },
         {
             "key": "status.frozen.desc",
-            "value": "Cannot perform any actions for 1 turn."
+            "value": "Tidak dapat melakukan aksi apa pun selama 1 giliran."
         },
         {
             "key": "status.frozen.title",
-            "value": "Frozen"
+            "value": "Membeku"
         },
         {
             "key": "status.fury.desc",
-            "value": "Can attack twice per turn"
+            "value": "Dapat menyerang dua kali per giliran"
         },
         {
             "key": "status.fury.title",
-            "value": "Fury"
+            "value": "Amukan"
         },
         {
             "key": "status.intimidate.desc",
-            "value": "When attacking, target does not counter-attack."
+            "value": "Saat menyerang, target tidak membalas."
         },
         {
             "key": "status.intimidate.title",
-            "value": "Intimidate"
+            "value": "Intimidasi"
         },
         {
             "key": "status.invincibility.desc",
-            "value": "Cannot be destroyed."
+            "value": "Tidak dapat dihancurkan."
         },
         {
             "key": "status.invincibility.title",
-            "value": "Invincible"
+            "value": "Tak Terkalahkan"
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "Heal yourself when dealing damage."
+            "value": "Sembuhkan dirimu saat memberikan kerusakan."
         },
         {
             "key": "status.lifesteal.title",
-            "value": "Life Steal"
+            "value": "Curian Nyawa"
         },
         {
             "key": "status.overkill.desc",
-            "value": "Excess damage heals attacker."
+            "value": "Kerusakan berlebih menyembuhkan penyerang."
         },
         {
             "key": "status.overkill.title",
@@ -2170,31 +2170,31 @@
         },
         {
             "key": "status.paralysed.desc",
-            "value": "Cannot perform any actions."
+            "value": "Tidak dapat melakukan aksi apa pun."
         },
         {
             "key": "status.paralysed.title",
-            "value": "Shock Paralysed"
+            "value": "Kejut Lumpuh"
         },
         {
             "key": "status.poisoned.desc",
-            "value": "Each turn, will lose hp."
+            "value": "Setiap giliran akan kehilangan HP."
         },
         {
             "key": "status.poisoned.title",
-            "value": "Poisoned"
+            "value": "Keracunan"
         },
         {
             "key": "status.protected.desc",
-            "value": "Cannot be attacked. Protected by Taunt."
+            "value": "Tidak dapat diserang. Dilindungi oleh Taunt."
         },
         {
             "key": "status.protected.title",
-            "value": "Protected"
+            "value": "Dilindungi"
         },
         {
             "key": "status.protection.desc",
-            "value": "Protects other cards."
+            "value": "Melindungi kartu lain."
         },
         {
             "key": "status.protection.title",
@@ -2202,103 +2202,103 @@
         },
         {
             "key": "status.protectionflying.desc",
-            "value": "Protects other cards from flying monsters."
+            "value": "Melindungi kartu lain dari monster terbang."
         },
         {
             "key": "status.protectionflying.title",
-            "value": "Reach"
+            "value": "Jangkau"
         },
         {
             "key": "status.shell.desc",
-            "value": "On the first hit, takes no damage."
+            "value": "Pada pukulan pertama, tidak menerima kerusakan."
         },
         {
             "key": "status.shell.title",
-            "value": "Shell"
+            "value": "Cangkang"
         },
         {
             "key": "status.silenced.desc",
-            "value": "Cannot use abilities or evolve."
+            "value": "Tidak dapat menggunakan kemampuan atau berevolusi."
         },
         {
             "key": "status.silenced.title",
-            "value": "Silenced"
+            "value": "Dibungkam"
         },
         {
             "key": "status.sleep.desc",
-            "value": "1 in 3 chance to wake up. Removed if attacked."
+            "value": "Peluang 1 dari 3 untuk bangun. Hilang jika diserang."
         },
         {
             "key": "status.sleep.title",
-            "value": "Sleep"
+            "value": "Tidur"
         },
         {
             "key": "status.spellimmunity.desc",
-            "value": "Cannot be targeted or damaged by spell cards"
+            "value": "Tidak dapat menjadi target atau dirusak oleh kartu mantra"
         },
         {
             "key": "status.spellimmunity.title",
-            "value": "Spell Immunity"
+            "value": "Imunitas Mantra"
         },
         {
             "key": "status.stealth.desc",
-            "value": "Cannot be targeted."
+            "value": "Tidak dapat menjadi target."
         },
         {
             "key": "status.stealth.title",
-            "value": "Stealth"
+            "value": "Sembunyi"
         },
         {
             "key": "status.trample.desc",
-            "value": "Extra damage is dealt to player."
+            "value": "Kerusakan tambahan diberikan kepada pemain."
         },
         {
             "key": "status.trample.title",
-            "value": "Trample"
+            "value": "Lindas"
         },
         {
             "key": "status.trapevasion.desc",
-            "value": "Monsters with this ability do not trigger traps. "
+            "value": "Monster dengan kemampuan ini tidak memicu jebakan."
         },
         {
             "key": "status.trapevasion.title",
-            "value": "Trap Evasion"
+            "value": "Menghindari Jebakan"
         },
         {
             "key": "trait.cat.title",
-            "value": "Cat"
+            "value": "Kucing"
         },
         {
             "key": "trait.dragon.title",
-            "value": "Dragon"
+            "value": "Naga"
         },
         {
             "key": "trait.evolution.title",
-            "value": "Evolution"
+            "value": "Evolusi"
         },
         {
             "key": "trait.fish.title",
-            "value": "Fish"
+            "value": "Ikan"
         },
         {
             "key": "trait.growth.title",
-            "value": "Growth"
+            "value": "Pertumbuhan"
         },
         {
             "key": "trait.mind_control_counter.title",
-            "value": "Mind Controlled"
+            "value": "Dikendalikan Pikiran"
         },
         {
             "key": "trait.mind_control_link.title",
-            "value": "Mind Control Link"
+            "value": "Tautan Kendali Pikiran"
         },
         {
             "key": "trait.reptile.title",
-            "value": "Reptile"
+            "value": "Reptil"
         },
         {
             "key": "trait.spell_damage.title",
-            "value": "Spell Damage"
+            "value": "Kerusakan Mantra"
         }
     ]
 }
