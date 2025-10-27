@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "--_guild_points",
-            "value": "-- guild points"
+            "value": "-- poin guild"
         },
         {
             "key": "0",
@@ -18,7 +18,7 @@
         },
         {
             "key": "1._scan_the_qr_code_shown_above_2._choose_your_desired_wallet_account_in_pera_3._enter_0_for_the_algo_amount_to_send_4._sign_the_txn_in_the_pera_mobile_app_5._click_the_confirm_button_to_the_right",
-            "value": "1. SCAN THE QR CODE SHOWN ABOVE\n 2. CHOOSE YOUR DESIRED WALLET ACCOUNT IN PERA\n 3. ENTER 0 FOR THE ALGO AMOUNT TO SEND\n 4. SIGN THE TXN IN THE PERA MOBILE APP\n 5. CLICK THE CONFIRM BUTTON TO THE RIGHT"
+            "value": "1. PINDAI KODE QR YANG DITAMPILKAN DI ATAS\n 2. PILIH AKUN DOMPET YANG DIINGINKAN DI PERA\n 3. MASUKKAN 0 UNTUK JUMLAH ALGO YANG DIKIRIM\n 4. TANDATANGANI TRANSAKSI DI APLIKASI PERA MOBILE\n 5. KLIK TOMBOL KONFIRMASI DI SEBELAH KANAN"
         },
         {
             "key": "100",
@@ -26,7 +26,7 @@
         },
         {
             "key": "100_essence",
-            "value": "100 ESSENCE"
+            "value": "100 ESENSI"
         },
         {
             "key": "1000",
@@ -42,11 +42,11 @@
         },
         {
             "key": "2_rare_packs",
-            "value": "2 rare packs"
+            "value": "2 paket langka"
         },
         {
             "key": "2_standard_packs",
-            "value": "2 standard packs"
+            "value": "2 paket standar"
         },
         {
             "key": "20",
@@ -66,7 +66,7 @@
         },
         {
             "key": "30_essence",
-            "value": "30 ESSENCE"
+            "value": "30 ESENSI"
         },
         {
             "key": "30_xp",
@@ -98,7 +98,7 @@
         },
         {
             "key": "50_essence",
-            "value": "50 ESSENCE"
+            "value": "50 ESENSI"
         },
         {
             "key": "50_xp",
@@ -110,7 +110,7 @@
         },
         {
             "key": "500_essence",
-            "value": "500 ESSENCE"
+            "value": "500 ESENSI"
         },
         {
             "key": "533",
@@ -118,7 +118,7 @@
         },
         {
             "key": "55_guild_pts_70_coins_each_150_xp_each",
-            "value": "55 guild pts\n 70 coins each\n 150 xp each"
+            "value": "55 poin guild\n 70 koin tiap kartu\n 150 xp tiap kartu"
         },
         {
             "key": "60",
@@ -142,43 +142,43 @@
         },
         {
             "key": "ability_1",
-            "value": "Ability 1"
+            "value": "Kemampuan 1"
         },
         {
             "key": "accept",
-            "value": "ACCEPT"
+            "value": "TERIMA"
         },
         {
             "key": "account",
-            "value": "ACCOUNT"
+            "value": "AKUN"
         },
         {
             "key": "account_address",
-            "value": "Account Address"
+            "value": "Alamat Akun"
         },
         {
             "key": "account_link",
-            "value": "ACCOUNT LINK"
+            "value": "TAUTAN AKUN"
         },
         {
             "key": "account_recovery",
-            "value": "ACCOUNT RECOVERY"
+            "value": "PEMULIHAN AKUN"
         },
         {
             "key": "add",
-            "value": "ADD"
+            "value": "TAMBAHKAN"
         },
         {
             "key": "admin_team",
-            "value": "admin team"
+            "value": "tim admin"
         },
         {
             "key": "adventure",
-            "value": "ADVENTURE"
+            "value": "PETUALANGAN"
         },
         {
             "key": "adventures",
-            "value": "ADVENTURES"
+            "value": "PETUALANGAN"
         },
         {
             "key": "antonio_f.",
@@ -186,19 +186,19 @@
         },
         {
             "key": "asset_earnings",
-            "value": "ASSET EARNINGS"
+            "value": "PENDAPATAN ASET"
         },
         {
             "key": "asset_forger",
-            "value": "ASSET FORGER"
+            "value": "PENEMPA ASET"
         },
         {
             "key": "asstes_total",
-            "value": "ASSTES TOTAL"
+            "value": "TOTAL ASET"
         },
         {
             "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
-            "value": "Attack by dragging one of your Jagur on an enemy."
+            "value": "Serang dengan menyeret salah satu Jagur-mu ke musuh."
         },
         {
             "key": "audio",
@@ -206,11 +206,11 @@
         },
         {
             "key": "avatars",
-            "value": "AVATARS"
+            "value": "AVATAR"
         },
         {
             "key": "backgrounds",
-            "value": "BACKGROUNDS"
+            "value": "LATAR BELAKANG"
         },
         {
             "key": "batlepass",
@@ -222,99 +222,99 @@
         },
         {
             "key": "battlepass_rewards",
-            "value": "Battlepass rewards"
+            "value": "Hadiah Battlepass"
         },
         {
             "key": "before_they_destroy_yours",
-            "value": "Before they destroy yours"
+            "value": "Sebelum mereka menghancurkan milikmu"
         },
         {
             "key": "block",
-            "value": "BLOCK"
+            "value": "BLOKIR"
         },
         {
             "key": "body",
-            "value": "BODY"
+            "value": "BADAN"
         },
         {
             "key": "bronze_iii",
-            "value": "BRONZE iii"
+            "value": "PERUNGGU iii"
         },
         {
             "key": "brows",
-            "value": "BROWS"
+            "value": "ALIS"
         },
         {
             "key": "build_deck",
-            "value": "BUILD DECK"
+            "value": "BANGUN DEK"
         },
         {
             "key": "built_with",
-            "value": "BUILT WITH"
+            "value": "DIBUAT DENGAN"
         },
         {
             "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
-            "value": "But you can certainly attack with the monsters that were already in play. "
+            "value": "Tapi kamu tentu bisa menyerang dengan monster yang sudah berada di arena. "
         },
         {
             "key": "buy",
-            "value": "BUY"
+            "value": "BELI"
         },
         {
             "key": "buy_cards",
-            "value": "BUY CARDS"
+            "value": "BELI KARTU"
         },
         {
             "key": "buy_pack",
-            "value": "BUY PACK"
+            "value": "BELI PAKET"
         },
         {
             "key": "cancel",
-            "value": "CANCEL"
+            "value": "BATAL"
         },
         {
             "key": "cancelled",
-            "value": "CANCELLED"
+            "value": "DIBATALKAN"
         },
         {
             "key": "card",
-            "value": "CARD"
+            "value": "KARTU"
         },
         {
             "key": "card_artist",
-            "value": "CARD ARTIST"
+            "value": "SENIMAN KARTU"
         },
         {
             "key": "card_description",
-            "value": "Card Description"
+            "value": "Deskripsi Kartu"
         },
         {
             "key": "card_level",
-            "value": "CARD LEVEL"
+            "value": "TINGKAT KARTU"
         },
         {
             "key": "cardback",
-            "value": "CARDBACK"
+            "value": "BELAKANG KARTU"
         },
         {
             "key": "cardbacks",
-            "value": "CARDBACKS"
+            "value": "BELAKANG KARTU"
         },
         {
             "key": "cards_owned",
-            "value": "CARDS OWNED"
+            "value": "KARTU DIMILIKI"
         },
         {
             "key": "challenge",
-            "value": "CHALLENGE"
+            "value": "TANTANGAN"
         },
         {
             "key": "character",
-            "value": "CHARACTER"
+            "value": "KARAKTER"
         },
         {
             "key": "characters",
-            "value": "Characters"
+            "value": "Karakter"
         },
         {
             "key": "chargement",
@@ -322,123 +322,123 @@
         },
         {
             "key": "check_optin",
-            "value": "CHECK OPTIN"
+            "value": "PERIKSA OPT-IN"
         },
         {
             "key": "choose_a_quick_chat_option",
-            "value": "Choose a quick chat option"
+            "value": "Pilih opsi obrolan cepat"
         },
         {
             "key": "claim",
-            "value": "CLAIM"
+            "value": "KLAIM"
         },
         {
             "key": "claim_all",
-            "value": "CLAIM ALL"
+            "value": "KLAIM SEMUA"
         },
         {
             "key": "click_this_button_to_generate_your_code_and_join_discord",
-            "value": "CLICK THIS BUTTON TO GENERATE YOUR CODE AND JOIN DISCORD"
+            "value": "KLIK TOMBOL INI UNTUK MENGHASILKAN KODEMU DAN BERGABUNG KE DISCORD"
         },
         {
             "key": "click_to_chat",
-            "value": "CLICK TO CHAT"
+            "value": "KLIK UNTUK MENGOBROL"
         },
         {
             "key": "client_outdated",
-            "value": "CLIENT OUTDATED"
+            "value": "CLIENT KADALUARSA"
         },
         {
             "key": "clone",
-            "value": "CLONE"
+            "value": "KLON"
         },
         {
             "key": "close",
-            "value": "CLOSE"
+            "value": "TUTUP"
         },
         {
             "key": "cloth",
-            "value": "CLOTH"
+            "value": "KAIN"
         },
         {
             "key": "code",
-            "value": "CODE"
+            "value": "KODE"
         },
         {
             "key": "code...",
-            "value": "Code..."
+            "value": "Kode..."
         },
         {
             "key": "collection",
-            "value": "Collection"
+            "value": "Koleksi"
         },
         {
             "key": "collection.create_new_deck",
-            "value": "CREATE NEW DECK"
+            "value": "BUAT DEK BARU"
         },
         {
             "key": "common",
-            "value": "Common"
+            "value": "Umum"
         },
         {
             "key": "community_guilds",
-            "value": "COMMUNITY GUILDS"
+            "value": "GUILD KOMUNITAS"
         },
         {
             "key": "confirm",
-            "value": "CONFIRM"
+            "value": "KONFIRMASI"
         },
         {
             "key": "confirm...",
-            "value": "Confirm..."
+            "value": "Konfirmasi..."
         },
         {
             "key": "confirm_delete",
-            "value": "CONFIRM DELETE"
+            "value": "KONFIRMASI HAPUS"
         },
         {
             "key": "confirm_delete_account",
-            "value": "CONFIRM DELETE ACCOUNT"
+            "value": "KONFIRMASI HAPUS AKUN"
         },
         {
             "key": "confirm_delete_guild",
-            "value": "CONFIRM DELETE GUILD"
+            "value": "KONFIRMASI HAPUS GUILD"
         },
         {
             "key": "connecting_to_server...",
-            "value": "Connecting to server..."
+            "value": "Menghubungkan ke server..."
         },
         {
             "key": "connecting_to_server....",
-            "value": "Connecting to server...."
+            "value": "Menghubungkan ke server...."
         },
         {
             "key": "continue",
-            "value": "CONTINUE"
+            "value": "LANJUTKAN"
         },
         {
             "key": "cost",
-            "value": "COST"
+            "value": "BIAYA"
         },
         {
             "key": "cost_breakdown",
-            "value": "COST BREAKDOWN"
+            "value": "RINCIAN BIAYA"
         },
         {
             "key": "create",
-            "value": "CREATE"
+            "value": "BUAT"
         },
         {
             "key": "create_guild",
-            "value": "CREATE GUILD"
+            "value": "BUAT GUILD"
         },
         {
             "key": "create_username",
-            "value": "CREATE USERNAME"
+            "value": "BUAT NAMA PENGGUNA"
         },
         {
             "key": "credits",
-            "value": "CREDITS"
+            "value": "KREDIT"
         },
         {
             "key": "crueltek",
@@ -446,35 +446,35 @@
         },
         {
             "key": "currently_in_the_main_menu",
-            "value": "Currently in the main menu"
+            "value": "Saat ini di menu utama"
         },
         {
             "key": "currently_playing_a_solo_match...",
-            "value": "Currently playing a solo match..."
+            "value": "Sedang memainkan pertandingan solo..."
         },
         {
             "key": "custom_player_decks",
-            "value": "CUSTOM PLAYER DECKS"
+            "value": "DEK PEMAIN KUSTOM"
         },
         {
             "key": "customize",
-            "value": "CUSTOMIZE"
+            "value": "SESUAIKAN"
         },
         {
             "key": "customize_tamer",
-            "value": "CUSTOMIZE TAMER"
+            "value": "SESUAIKAN TAMER"
         },
         {
             "key": "daily_rewards",
-            "value": "DAILY\n REWARDS"
+            "value": "HADIAH\n HARIAN"
         },
         {
             "key": "daily_daily_tournament",
-            "value": "DAILY DAILY TOURNAMENT"
+            "value": "TURNAMEN HARIAN"
         },
         {
             "key": "daily_missions",
-            "value": "DAILY MISSIONS"
+            "value": "MISI HARIAN"
         },
         {
             "key": "dangocat",
@@ -482,91 +482,91 @@
         },
         {
             "key": "dark_forest",
-            "value": "DARK FOREST"
+            "value": "HUTAN GELAP"
         },
         {
             "key": "day_1",
-            "value": "DAY 1"
+            "value": "HARI 1"
         },
         {
             "key": "day_2",
-            "value": "DAY 2"
+            "value": "HARI 2"
         },
         {
             "key": "day_3",
-            "value": "DAY 3"
+            "value": "HARI 3"
         },
         {
             "key": "day_4",
-            "value": "DAY 4"
+            "value": "HARI 4"
         },
         {
             "key": "day_5",
-            "value": "DAY 5"
+            "value": "HARI 5"
         },
         {
             "key": "day_6",
-            "value": "DAY 6"
+            "value": "HARI 6"
         },
         {
             "key": "day_7",
-            "value": "DAY 7"
+            "value": "HARI 7"
         },
         {
             "key": "day_text",
-            "value": "day text"
+            "value": "teks hari"
         },
         {
             "key": "deal_25_damage_with_shadow_monsters",
-            "value": "Deal 25 damage with Shadow monsters"
+            "value": "Berikan 25 kerusakan dengan monster Bayangan"
         },
         {
             "key": "deal_50_damage_with_shadow_monsters",
-            "value": "Deal 50 damage with Shadow monsters"
+            "value": "Berikan 50 kerusakan dengan monster Bayangan"
         },
         {
             "key": "deck",
-            "value": "DECK"
+            "value": "DEK"
         },
         {
             "key": "deck_name",
-            "value": "Deck Name"
+            "value": "Nama Dek"
         },
         {
             "key": "deck_select",
-            "value": "DECK SELECT"
+            "value": "PILIH DEK"
         },
         {
             "key": "deck_title",
-            "value": "Deck Title"
+            "value": "Judul Dek"
         },
         {
             "key": "decks",
-            "value": "DECKS"
+            "value": "DEK"
         },
         {
             "key": "decline",
-            "value": "DECLINE"
+            "value": "TOLAK"
         },
         {
             "key": "defeats",
-            "value": "DEFEATS"
+            "value": "KEKALAHAN"
         },
         {
             "key": "delete",
-            "value": "DELETE"
+            "value": "HAPUS"
         },
         {
             "key": "delete_account",
-            "value": "DELETE ACCOUNT"
+            "value": "HAPUS AKUN"
         },
         {
             "key": "delete_guild",
-            "value": "DELETE GUILD"
+            "value": "HAPUS GUILD"
         },
         {
             "key": "deny",
-            "value": "DENY"
+            "value": "TOLAK"
         },
         {
             "key": "desc",
@@ -574,11 +574,11 @@
         },
         {
             "key": "description",
-            "value": "Description"
+            "value": "Deskripsi"
         },
         {
             "key": "destroy_5_monsters_using_fire_team",
-            "value": "Destroy 5 monsters using Fire team"
+            "value": "Hancurkan 5 monster menggunakan tim Api"
         },
         {
             "key": "detail",
@@ -586,7 +586,7 @@
         },
         {
             "key": "dev_team",
-            "value": "DEV TEAM"
+            "value": "TIM PENGEMBANG"
         },
         {
             "key": "devfraccas",
@@ -594,7 +594,7 @@
         },
         {
             "key": "do_not_show_tips",
-            "value": "DO NOT SHOW TIPS"
+            "value": "JANGAN TAMPILKAN TIPS"
         },
         {
             "key": "dogson",
@@ -602,19 +602,19 @@
         },
         {
             "key": "download_pera",
-            "value": "DOWNLOAD PERA"
+            "value": "UNDUH PERA"
         },
         {
             "key": "earnings",
-            "value": "EARNINGS"
+            "value": "PENDAPATAN"
         },
         {
             "key": "earnings_per_day",
-            "value": "EARNINGS PER DAY"
+            "value": "PENDAPATAN PER HARI"
         },
         {
             "key": "earnings_per_week",
-            "value": "EARNINGS PER WEEK"
+            "value": "PENDAPATAN PER MINGGU"
         },
         {
             "key": "edit",
@@ -622,7 +622,7 @@
         },
         {
             "key": "elemental_types",
-            "value": "ELEMENTAL TYPES"
+            "value": "JENIS ELEMEN"
         },
         {
             "key": "elo",
@@ -634,7 +634,7 @@
         },
         {
             "key": "e-mail",
-            "value": "E-Mail"
+            "value": "Email"
         },
         {
             "key": "email...",
@@ -642,7 +642,7 @@
         },
         {
             "key": "email_was_sent_with_a_code._enter_the_code_here_to_reset_your_password.",
-            "value": "Email was sent with a code.\n Enter the code here to reset your password."
+            "value": "Email telah dikirim beserta kode.\n Masukkan kode di sini untuk menyetel ulang kata sandimu."
         },
         {
             "key": "emote",
@@ -650,71 +650,71 @@
         },
         {
             "key": "end_turn",
-            "value": "END\n TURN"
+            "value": "AKHIRI\n GILIRAN"
         },
         {
             "key": "enter_discord_code...",
-            "value": "Enter discord code..."
+            "value": "Masukkan kode Discord..."
         },
         {
             "key": "enter_guild_description...",
-            "value": "Enter guild description..."
+            "value": "Masukkan deskripsi guild..."
         },
         {
             "key": "enter_guild_name...",
-            "value": "Enter guild name..."
+            "value": "Masukkan nama guild..."
         },
         {
             "key": "enter_your_email",
-            "value": "Enter your Email"
+            "value": "Masukkan Email-mu"
         },
         {
             "key": "entry_fee",
-            "value": "ENTRY FEE"
+            "value": "BIAYA MASUK"
         },
         {
             "key": "equipment",
-            "value": "Equipment"
+            "value": "Peralatan"
         },
         {
             "key": "error",
-            "value": "error"
+            "value": "galat"
         },
         {
             "key": "error_msg",
-            "value": "Error Msg"
+            "value": "Pesan Galat"
         },
         {
             "key": "evolves_to_danish",
-            "value": "EVOLVES TO DANISH"
+            "value": "BEREVOLUSI MENJADI DANISH"
         },
         {
             "key": "evolves_to_gracelia",
-            "value": "EVOLVES TO Gracelia"
+            "value": "BEREVOLUSI MENJADI Gracelia"
         },
         {
             "key": "exit_game",
-            "value": "EXIT GAME"
+            "value": "KELUAR DARI GIM"
         },
         {
             "key": "eyes",
-            "value": "EYES"
+            "value": "MATA"
         },
         {
             "key": "fairy_powers",
-            "value": "FAIRY POWERS"
+            "value": "KEKUATAN PERI"
         },
         {
             "key": "filters",
-            "value": "Filters"
+            "value": "Filter"
         },
         {
             "key": "finding_opponent...",
-            "value": "Finding Opponent..."
+            "value": "Mencari lawan..."
         },
         {
             "key": "fire_deck",
-            "value": "FIRE DECK"
+            "value": "DEK API"
         },
         {
             "key": "flemmy_suit",
@@ -722,51 +722,51 @@
         },
         {
             "key": "forge",
-            "value": "FORGE"
+            "value": "TEMPA"
         },
         {
             "key": "forgot_password",
-            "value": "Forgot Password"
+            "value": "Lupa Kata Sandi"
         },
         {
             "key": "fracctal_tcg_squad",
-            "value": "Fracctal TCG Squad"
+            "value": "Skuad Fracctal TCG"
         },
         {
             "key": "free",
-            "value": "FREE"
+            "value": "GRATIS"
         },
         {
             "key": "friend_list_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
-            "value": "Friend list is not available in Test mode.\n Install the web api server to use this feature."
+            "value": "Daftar teman tidak tersedia dalam mode Uji.\n Instal server web API untuk menggunakan fitur ini."
         },
         {
             "key": "friends",
-            "value": "FRIENDS"
+            "value": "TEMAN"
         },
         {
             "key": "game_artist",
-            "value": "GAME ARTIST"
+            "value": "ARTIS GIM"
         },
         {
             "key": "game_developer",
-            "value": "game developer"
+            "value": "pengembang gim"
         },
         {
             "key": "glasses",
-            "value": "Glasses"
+            "value": "Kacamata"
         },
         {
             "key": "gold_3",
-            "value": "GOLD 3"
+            "value": "EMAS 3"
         },
         {
             "key": "gold_asset",
-            "value": "GOLD ASSET"
+            "value": "ASET EMAS"
         },
         {
             "key": "graphics",
-            "value": "Graphics"
+            "value": "Grafis"
         },
         {
             "key": "grocelia",
@@ -774,47 +774,47 @@
         },
         {
             "key": "guide_fairy",
-            "value": "GUIDE FAIRY"
+            "value": "PERI PANDU"
         },
         {
             "key": "guild_description",
-            "value": "GUILD DESCRIPTION"
+            "value": "DESKRIPSI GUILD"
         },
         {
             "key": "guild_leader",
-            "value": "GUILD LEADER"
+            "value": "PEMIMPIN GUILD"
         },
         {
             "key": "guild_name",
-            "value": "GUILD NAME"
+            "value": "NAMA GUILD"
         },
         {
             "key": "guild_requests",
-            "value": "GUILD REQUESTS"
+            "value": "PERMINTAAN GUILD"
         },
         {
             "key": "guild_vault_cards",
-            "value": "GUILD VAULT CARDS"
+            "value": "KARTU GUDANG GUILD"
         },
         {
             "key": "guilds",
-            "value": "GUILDS"
+            "value": "GUILD"
         },
         {
             "key": "hands",
-            "value": "HANDS"
+            "value": "TANGAN"
         },
         {
             "key": "head",
-            "value": "HEAD"
+            "value": "KEPALA"
         },
         {
             "key": "in_progress",
-            "value": "IN PROGRESS"
+            "value": "SEDANG BERJALAN"
         },
         {
             "key": "inbox",
-            "value": "INBOX"
+            "value": "KOTAK MASUK"
         },
         {
             "key": "james_ward",
@@ -822,31 +822,31 @@
         },
         {
             "key": "join",
-            "value": "JOIN"
+            "value": "BERGABUNG"
         },
         {
             "key": "join_discord",
-            "value": "JOIN DISCORD"
+            "value": "GABUNG DISCORD"
         },
         {
             "key": "join_guild",
-            "value": "JOIN GUILD"
+            "value": "GABUNG GUILD"
         },
         {
             "key": "join_with_code",
-            "value": "JOIN WITH CODE"
+            "value": "GABUNG DENGAN KODE"
         },
         {
             "key": "kick",
-            "value": "KICK"
+            "value": "TENDANG"
         },
         {
             "key": "kill_5_monsters_using_fire_monsters",
-            "value": "Kill 5 monsters using Fire monsters"
+            "value": "Bunuh 5 monster menggunakan monster Api"
         },
         {
             "key": "kill_5_monsters_using_plant_monsters",
-            "value": "Kill 5 monsters using Plant monsters"
+            "value": "Bunuh 5 monster menggunakan monster Tanaman"
         },
         {
             "key": "kk_honey",
@@ -854,15 +854,15 @@
         },
         {
             "key": "language",
-            "value": "LANGUAGE"
+            "value": "BAHASA"
         },
         {
             "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
-            "value": "Leaderboard is not available in Test mode.\n Install the web api server to use this feature."
+            "value": "Papan peringkat tidak tersedia dalam mode Uji.\n Instal server web API untuk menggunakan fitur ini."
         },
         {
             "key": "leave_guild",
-            "value": "LEAVE GUILD"
+            "value": "KELUAR DARI GUILD"
         },
         {
             "key": "level",
@@ -878,35 +878,35 @@
         },
         {
             "key": "level_up_10_cards",
-            "value": "Level up 10 cards"
+            "value": "Naikkan level 10 kartu"
         },
         {
             "key": "level_up_5_cards",
-            "value": "Level up 5 cards"
+            "value": "Naikkan level 5 kartu"
         },
         {
             "key": "loading...",
-            "value": "LOADING..."
+            "value": "MEMUAT..."
         },
         {
             "key": "locations",
-            "value": "Locations"
+            "value": "Lokasi"
         },
         {
             "key": "login",
-            "value": "LOGIN"
+            "value": "MASUK"
         },
         {
             "key": "login_with_immutable",
-            "value": "LOGIN WITH IMMUTABLE"
+            "value": "MASUK DENGAN IMMUTABLE"
         },
         {
             "key": "logout",
-            "value": "LOGOUT"
+            "value": "KELUAR"
         },
         {
             "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
-            "value": "Mana cost is indicated in the corner of the card."
+            "value": "Biaya mana ditunjukkan di sudut kartu."
         },
         {
             "key": "marc",
@@ -926,7 +926,7 @@
         },
         {
             "key": "missions",
-            "value": "MISSIONS"
+            "value": "MISI"
         },
         {
             "key": "monster",
@@ -934,15 +934,15 @@
         },
         {
             "key": "monster_name",
-            "value": "MONSTER NAME"
+            "value": "NAMA MONSTER"
         },
         {
             "key": "monsters",
-            "value": "MONSTERS"
+            "value": "MONSTER"
         },
         {
             "key": "mouth",
-            "value": "MOUTH"
+            "value": "MULUT"
         },
         {
             "key": "mulligan",
@@ -954,31 +954,31 @@
         },
         {
             "key": "music",
-            "value": "Music"
+            "value": "Musik"
         },
         {
             "key": "mythic",
-            "value": "Mythic"
+            "value": "Mitis"
         },
         {
             "key": "name",
-            "value": "Name"
+            "value": "Nama"
         },
         {
             "key": "new_password",
-            "value": "NEW PASSWORD"
+            "value": "KATA SANDI BARU"
         },
         {
             "key": "new_password...",
-            "value": "New Password..."
+            "value": "Kata sandi baru..."
         },
         {
             "key": "new_text",
-            "value": "New Text"
+            "value": "Teks Baru"
         },
         {
             "key": "next",
-            "value": "NEXT"
+            "value": "BERIKUTNYA"
         },
         {
             "key": "nicolas_oliver",
@@ -990,15 +990,15 @@
         },
         {
             "key": "nose",
-            "value": "NOSE"
+            "value": "HIDUNG"
         },
         {
             "key": "not_enrolled",
-            "value": "NOT ENROLLED"
+            "value": "BELUM TERDAFTAR"
         },
         {
             "key": "not_owned",
-            "value": "Not Owned"
+            "value": "Tidak Dimiliki"
         },
         {
             "key": "ok",
@@ -1006,19 +1006,19 @@
         },
         {
             "key": "ongoing",
-            "value": "ONGOING"
+            "value": "BERLANGSUNG"
         },
         {
             "key": "online_players",
-            "value": "ONLINE PLAYERS"
+            "value": "PEMAIN ONLINE"
         },
         {
             "key": "open_packs",
-            "value": "OPEN PACKS"
+            "value": "BUKA PAKET"
         },
         {
             "key": "opponent",
-            "value": "Opponent"
+            "value": "Lawan"
         },
         {
             "key": "optin",
@@ -1030,83 +1030,83 @@
         },
         {
             "key": "option_a",
-            "value": "Option A"
+            "value": "Opsi A"
         },
         {
             "key": "owned",
-            "value": "Owned"
+            "value": "Dimiliki"
         },
         {
             "key": "owned_assets",
-            "value": "OWNED ASSETS"
+            "value": "ASET DIMILIKI"
         },
         {
             "key": "ownership",
-            "value": "OWNERSHIP"
+            "value": "KEPEMILIKAN"
         },
         {
             "key": "pack",
-            "value": "PACK"
+            "value": "PAKET"
         },
         {
             "key": "pack_description",
-            "value": "Pack Description"
+            "value": "Deskripsi Paket"
         },
         {
             "key": "packs",
-            "value": "PACKS"
+            "value": "PAKET"
         },
         {
             "key": "partners",
-            "value": "PARTNERS"
+            "value": "MITRA"
         },
         {
             "key": "password",
-            "value": "PASSWORD"
+            "value": "KATA SANDI"
         },
         {
             "key": "password_recovery",
-            "value": "Password Recovery"
+            "value": "Pemulihan Kata Sandi"
         },
         {
             "key": "per_day",
-            "value": "per day"
+            "value": "per hari"
         },
         {
             "key": "pera_account_uid",
-            "value": "PERA ACCOUNT UID"
+            "value": "UID AKUN PERA"
         },
         {
             "key": "pets",
-            "value": "PETS"
+            "value": "HEWAN PELIHARAAN"
         },
         {
             "key": "plant_starter",
-            "value": "plant starter"
+            "value": "starter tanaman"
         },
         {
             "key": "play",
-            "value": "PLAY"
+            "value": "MAIN"
         },
         {
             "key": "play_a_match_to_re-activate",
-            "value": "Play a match to re-activate"
+            "value": "Mainkan pertandingan untuk mengaktifkan kembali"
         },
         {
             "key": "play_with_code",
-            "value": "Play With Code"
+            "value": "Main Dengan Kode"
         },
         {
             "key": "player",
-            "value": "Player"
+            "value": "Pemain"
         },
         {
             "key": "players",
-            "value": "PLAYERS"
+            "value": "PEMAIN"
         },
         {
             "key": "practice",
-            "value": "PRACTICE"
+            "value": "LATIHAN"
         },
         {
             "key": "premium",
@@ -1114,55 +1114,55 @@
         },
         {
             "key": "preview",
-            "value": "PREVIEW"
+            "value": "PRATINJAU"
         },
         {
             "key": "previous",
-            "value": "Previous"
+            "value": "Sebelumnya"
         },
         {
             "key": "previous_password",
-            "value": "PREVIOUS PASSWORD"
+            "value": "KATA SANDI SEBELUMNYA"
         },
         {
             "key": "prismatic",
-            "value": "Prismatic"
+            "value": "Prismatik"
         },
         {
             "key": "private",
-            "value": "PRIVATE"
+            "value": "PRIVAT"
         },
         {
             "key": "prizes",
-            "value": "PRIZES"
+            "value": "HADIAH"
         },
         {
             "key": "profile",
-            "value": "PROFILE"
+            "value": "PROFIL"
         },
         {
             "key": "promote",
-            "value": "PROMOTE"
+            "value": "PROMOSIKAN"
         },
         {
             "key": "purchase_pack",
-            "value": "PURCHASE PACK"
+            "value": "BELI PAKET"
         },
         {
             "key": "quality",
-            "value": "Quality"
+            "value": "Kualitas"
         },
         {
             "key": "quantity",
-            "value": "QUANTITY"
+            "value": "JUMLAH"
         },
         {
             "key": "quick_chat.close_game",
-            "value": "Close Game!"
+            "value": "Tutup Gim!"
         },
         {
             "key": "quick_chat.close_one",
-            "value": "Close One"
+            "value": "Nyaris"
         },
         {
             "key": "quick_chat.glhf",
@@ -1174,47 +1174,47 @@
         },
         {
             "key": "quick_chat.good_game",
-            "value": "Good game!"
+            "value": "Permainan bagus!"
         },
         {
             "key": "quick_chat.great_battle",
-            "value": "Great Battle!"
+            "value": "Pertempuran Hebat!"
         },
         {
             "key": "quick_chat.hello",
-            "value": "Hello!"
+            "value": "Halo!"
         },
         {
             "key": "quick_chat.lets_battle",
-            "value": "Let's battle!"
+            "value": "Ayo bertarung!"
         },
         {
             "key": "quick_chat.lets_fight",
-            "value": "Let's fight!"
+            "value": "Mari bertarung!"
         },
         {
             "key": "quick_chat.lets_go",
-            "value": "Let's go!"
+            "value": "Ayo pergi!"
         },
         {
             "key": "quick_chat.lets_have_fun",
-            "value": "Let's have fun!"
+            "value": "Mari bersenang-senang!"
         },
         {
             "key": "quick_chat.nice_move",
-            "value": "Nice move!"
+            "value": "Gerakan bagus!"
         },
         {
             "key": "quick_chat.oops",
-            "value": "Oops!"
+            "value": "Ups!"
         },
         {
             "key": "quick_chat.placeholder",
-            "value": "Select a quick chat option..."
+            "value": "Pilih opsi obrolan cepat..."
         },
         {
             "key": "quick_chat.respect",
-            "value": "Respect"
+            "value": "Respek"
         },
         {
             "key": "quick_chat.rip",
@@ -1226,19 +1226,19 @@
         },
         {
             "key": "quick_chat.thanks",
-            "value": "Thanks!"
+            "value": "Terima kasih!"
         },
         {
             "key": "quick_chat.well_played",
-            "value": "Well played!"
+            "value": "Permainan bagus!"
         },
         {
             "key": "quick_chat.what_a_battle",
-            "value": "What a battle!"
+            "value": "Pertempuran yang hebat!"
         },
         {
             "key": "quit",
-            "value": "QUIT"
+            "value": "KELUAR"
         },
         {
             "key": "rafael_santos",
@@ -1246,31 +1246,31 @@
         },
         {
             "key": "random",
-            "value": "RANDOM"
+            "value": "ACAK"
         },
         {
             "key": "random_rare_reward",
-            "value": "RANDOM RARE REWARD"
+            "value": "HADIAH LANGKA ACAK"
         },
         {
             "key": "rank",
-            "value": "RANK"
+            "value": "PERINGKAT"
         },
         {
             "key": "rankings",
-            "value": "RANKINGS"
+            "value": "PERINGKAT"
         },
         {
             "key": "rare",
-            "value": "Rare"
+            "value": "Langka"
         },
         {
             "key": "rare_avatar",
-            "value": "RARE AVATAR"
+            "value": "AVATAR LANGKA"
         },
         {
             "key": "rarity",
-            "value": "Rarity"
+            "value": "Kelangkaan"
         },
         {
             "key": "raz",
@@ -1278,131 +1278,131 @@
         },
         {
             "key": "recover_username",
-            "value": "RECOVER USERNAME"
+            "value": "PULIHKAN NAMA PENGGUNA"
         },
         {
             "key": "register",
-            "value": "REGISTER"
+            "value": "DAFTAR"
         },
         {
             "key": "remove",
-            "value": "REMOVE"
+            "value": "HAPUS"
         },
         {
             "key": "requests",
-            "value": "REQUESTS"
+            "value": "PERMINTAAN"
         },
         {
             "key": "resend_confirmation",
-            "value": "RESEND CONFIRMATION"
+            "value": "KIRIM ULANG KONFIRMASI"
         },
         {
             "key": "resolution",
-            "value": "Resolution"
+            "value": "Resolusi"
         },
         {
             "key": "result",
-            "value": "result"
+            "value": "hasil"
         },
         {
             "key": "resume",
-            "value": "RESUME"
+            "value": "LANJUT"
         },
         {
             "key": "retype",
-            "value": "RETYPE"
+            "value": "KETIK ULANG"
         },
         {
             "key": "rewards",
-            "value": "REWARDS"
+            "value": "HADIAH"
         },
         {
             "key": "round",
-            "value": "round"
+            "value": "putaran"
         },
         {
             "key": "round_3",
-            "value": "ROUND 3"
+            "value": "PUTARAN 3"
         },
         {
             "key": "save",
-            "value": "SAVE"
+            "value": "SIMPAN"
         },
         {
             "key": "save_changes",
-            "value": "SAVE CHANGES"
+            "value": "SIMPAN PERUBAHAN"
         },
         {
             "key": "save_success",
-            "value": "SAVE SUCCESS"
+            "value": "BERHASIL DISIMPAN"
         },
         {
             "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
-            "value": "SCAN THE QR CODE\n SIGN THE TXN IN THE PERA MOBILE APP\n CLICK THE CONFIRM BUTTON TO THE RIGHT"
+            "value": "PINDAI KODE QR\n TANDATANGANI TRANSAKSI DI APLIKASI PERA MOBILE\n KLIK TOMBOL KONFIRMASI DI SEBELAH KANAN"
         },
         {
             "key": "search",
-            "value": "SEARCH"
+            "value": "CARI"
         },
         {
             "key": "search_by_name",
-            "value": "SEARCH BY NAME"
+            "value": "CARI BERDASARKAN NAMA"
         },
         {
             "key": "select",
-            "value": "SELECT"
+            "value": "PILIH"
         },
         {
             "key": "select_a_card",
-            "value": "Select a card"
+            "value": "Pilih sebuah kartu"
         },
         {
             "key": "select_a_choice",
-            "value": "SELECT A CHOICE"
+            "value": "PILIH SEBUAH OPSI"
         },
         {
             "key": "select_a_target",
-            "value": "Select a target"
+            "value": "Pilih target"
         },
         {
             "key": "select_card_cost",
-            "value": "SELECT CARD COST"
+            "value": "PILIH BIAYA KARTU"
         },
         {
             "key": "select_cards_to_replace",
-            "value": "Select cards to replace"
+            "value": "Pilih kartu untuk diganti"
         },
         {
             "key": "select_deck",
-            "value": "SELECT DECK"
+            "value": "PILIH DEK"
         },
         {
             "key": "select_one_starter_deck",
-            "value": "Select ONE Starter Deck"
+            "value": "Pilih SATU Dek Pemula"
         },
         {
             "key": "sell",
-            "value": "SELL"
+            "value": "JUAL"
         },
         {
             "key": "sell_duplicate_cards",
-            "value": "Sell Duplicate Cards"
+            "value": "Jual Kartu Duplikat"
         },
         {
             "key": "sell_duplicates",
-            "value": "Sell Duplicates"
+            "value": "Jual Duplikat"
         },
         {
             "key": "send",
-            "value": "SEND"
+            "value": "KIRIM"
         },
         {
             "key": "send_guild",
-            "value": "SEND GUILD"
+            "value": "KIRIM GUILD"
         },
         {
             "key": "settings",
-            "value": "SETTINGS"
+            "value": "PENGATURAN"
         },
         {
             "key": "sfx",
@@ -1410,11 +1410,11 @@
         },
         {
             "key": "sign_in_with_steam",
-            "value": "sign in with steam"
+            "value": "masuk dengan Steam"
         },
         {
             "key": "silence_target_card.",
-            "value": "Silence target card."
+            "value": "Bungkam kartu target."
         },
         {
             "key": "smokenstein",
@@ -1422,27 +1422,27 @@
         },
         {
             "key": "sort",
-            "value": "SORT"
+            "value": "URUTKAN"
         },
         {
             "key": "spectate",
-            "value": "SPECTATE"
+            "value": "TONTON"
         },
         {
             "key": "spells",
-            "value": "Spells"
+            "value": "Mantra"
         },
         {
             "key": "standard_pack",
-            "value": "STANDARD PACK"
+            "value": "PAKET STANDAR"
         },
         {
             "key": "start",
-            "value": "START"
+            "value": "MULAI"
         },
         {
             "key": "start_time",
-            "value": "START TIME"
+            "value": "WAKTU MULAI"
         },
         {
             "key": "status",
@@ -1450,35 +1450,35 @@
         },
         {
             "key": "status_title",
-            "value": "Status Title"
+            "value": "Judul Status"
         },
         {
             "key": "statusline.evolution_description",
-            "value": "CARD WILL EVOLVE IN {0} TURNS"
+            "value": "KARTU AKAN BEREVOLUSI DALAM {0} GILIRAN"
         },
         {
             "key": "statusline.evolution_title",
-            "value": "EVOLUTION"
+            "value": "EVOLUSI"
         },
         {
             "key": "statusline.mind_control.desc_currently_controlled",
-            "value": "This card is currently under mind control."
+            "value": "Kartu ini sedang berada di bawah kendali pikiran."
         },
         {
             "key": "statusline.mind_control.desc_double_condition",
-            "value": "Control returns to its original owner {0} or {1}."
+            "value": "Kendali kembali ke pemilik asli {0} atau {1}."
         },
         {
             "key": "statusline.mind_control.desc_fallback_timed",
-            "value": "This card is currently under mind control and will return in {0} {1}."
+            "value": "Kartu ini sedang berada di bawah kendali pikiran dan akan kembali dalam {0} {1}."
         },
         {
             "key": "statusline.mind_control.desc_multiple_conditions",
-            "value": "Control returns to its original owner {0}, or {1}."
+            "value": "Kendali kembali ke pemilik asli {0}, atau {1}."
         },
         {
             "key": "statusline.mind_control.desc_single_condition",
-            "value": "Control returns to its original owner {0}."
+            "value": "Kendali kembali ke pemilik asli {0}."
         },
         {
             "key": "statusline.mind_control.list_separator",
@@ -1486,91 +1486,91 @@
         },
         {
             "key": "statusline.mind_control.owner_active",
-            "value": "the active player's"
+            "value": "milik pemain aktif"
         },
         {
             "key": "statusline.mind_control.owner_controller",
-            "value": "the controller's"
+            "value": "milik pengendali"
         },
         {
             "key": "statusline.mind_control.owner_opponent",
-            "value": "your opponent's"
+            "value": "milik lawanmu"
         },
         {
             "key": "statusline.mind_control.owner_opponent_label",
-            "value": "Opponent"
+            "value": "Lawan"
         },
         {
             "key": "statusline.mind_control.owner_original",
-            "value": "the original owner's"
+            "value": "milik pemilik asli"
         },
         {
             "key": "statusline.mind_control.owner_player_number",
-            "value": "Player {0}"
+            "value": "Pemain {0}"
         },
         {
             "key": "statusline.mind_control.owner_prefix",
-            "value": "<color=orange>Original owner: {0}</color>"
+            "value": "<color=orange>Pemilik asli: {0}</color>"
         },
         {
             "key": "statusline.mind_control.owner_you",
-            "value": "You"
+            "value": "Kamu"
         },
         {
             "key": "statusline.mind_control.owner_your",
-            "value": "your"
+            "value": "milikmu"
         },
         {
             "key": "statusline.mind_control.possessive_format",
-            "value": "{0}'s"
+            "value": "milik {0}"
         },
         {
             "key": "statusline.mind_control.possessive_format_s",
-            "value": "{0}'"
+            "value": "milik {0}"
         },
         {
             "key": "statusline.mind_control.possessive_pronoun",
-            "value": "their"
+            "value": "mereka"
         },
         {
             "key": "statusline.mind_control.release_caster_leaves",
-            "value": "when the caster leaves play"
+            "value": "saat penyihir meninggalkan permainan"
         },
         {
             "key": "statusline.mind_control.release_if_evolves",
-            "value": "if it evolves"
+            "value": "jika berevolusi"
         },
         {
             "key": "statusline.mind_control.turn_condition_remaining",
-            "value": "after {0} of {1} {2}"
+            "value": "setelah {0} dari {1} {2}"
         },
         {
             "key": "statusline.mind_control.turn_condition_zero",
-            "value": "once {0} next turn ends"
+            "value": "setelah {0} giliran berikutnya berakhir"
         },
         {
             "key": "statusline.mind_control.turn_plural",
-            "value": "turns"
+            "value": "giliran"
         },
         {
             "key": "statusline.mind_control.turn_singular",
-            "value": "turn"
+            "value": "giliran"
         },
         {
             "key": "statusline.mind_control_title",
-            "value": "MIND CONTROL"
+            "value": "KENDALI PIKIRAN"
         },
         {
             "key": "statusline.trait_label",
-            "value": "TRAIT: {0}"
+            "value": "SIFAT: {0}"
         },
         {
             "key": "submit",
-            "value": "SUBMIT"
+            "value": "KIRIM"
         },
         {
             "key": "success",
-            "value": "SUCCESS"
+            "value": "SUKSES"
         },
         {
             "key": "tamer_silvo",
@@ -1578,7 +1578,7 @@
         },
         {
             "key": "tamers",
-            "value": "TAMERS"
+            "value": "TAMER"
         },
         {
             "key": "tbd",
@@ -1586,327 +1586,327 @@
         },
         {
             "key": "tcg_council",
-            "value": "TCG COUNCIL"
+            "value": "DEWAN TCG"
         },
         {
             "key": "tcg_engine",
-            "value": "TCG ENGINE"
+            "value": "MESIN TCG"
         },
         {
             "key": "tcgs",
-            "value": "TCGs"
+            "value": "TCG"
         },
         {
             "key": "test_tournament",
-            "value": "TEST TOURNAMENT"
+            "value": "TURNAMEN UJI"
         },
         {
             "key": "tip_ability_destroyed",
-            "value": "Your {0} was destroyed by {1}'s ability!\n  \n  Ability Description: {2}"
+            "value": "{0}-mu dihancurkan oleh kemampuan {1}!\n  \n  Deskripsi Kemampuan: {2}"
         },
         {
             "key": "tip_armor_message",
-            "value": "The enemy played an armored monster! It takes less damage from attacks."
+            "value": "Musuh memainkan monster berzirah! Ia menerima kerusakan lebih sedikit dari serangan."
         },
         {
             "key": "tip_characterabilityimmunity_message",
-            "value": "The enemy played an ability-immune monster! Character abilities that require a target cannot affect it, but fairy powers still can."
+            "value": "Musuh memainkan monster kebal kemampuan! Kemampuan karakter yang membutuhkan target tidak dapat memengaruhinya, tetapi kekuatan peri masih bisa."
         },
         {
             "key": "tip_deathtouch_message",
-            "value": "The enemy played a deathtouch monster! Any character it damages will be destroyed."
+            "value": "Musuh memainkan monster sentuhan kematian! Karakter apa pun yang dikenainya akan hancur."
         },
         {
             "key": "tip_flying_message",
-            "value": "The enemy played a flying monster! It can ignore taunt blockers."
+            "value": "Musuh memainkan monster terbang! Ia dapat mengabaikan pemblokir ejekan."
         },
         {
             "key": "tip_fury_message",
-            "value": "The enemy played a furious monster! It can attack twice each turn."
+            "value": "Musuh memainkan monster garang! Ia dapat menyerang dua kali tiap giliran."
         },
         {
             "key": "tip_heropower_message",
-            "value": "The enemy has played their fairy power with {0}!\n  \n  Ability: {1}"
+            "value": "Musuh memainkan kekuatan peri mereka dengan {0}!\n  \n  Kemampuan: {1}"
         },
         {
             "key": "tip_intimidate_message",
-            "value": "The enemy played an intimidating monster! It does not take damage when attacking."
+            "value": "Musuh memainkan monster mengintimidasi! Ia tidak menerima kerusakan saat menyerang."
         },
         {
             "key": "tip_invincibility_message",
-            "value": "The enemy played an invincible monster! It cannot be attacked for a few turns."
+            "value": "Musuh memainkan monster tak terkalahkan! Ia tidak dapat diserang selama beberapa giliran."
         },
         {
             "key": "tip_lifesteal_message",
-            "value": "The enemy played a lifesteal monster! It heals when dealing combat damage."
+            "value": "Musuh memainkan monster serap nyawa! Ia menyembuhkan diri saat memberikan kerusakan tempur."
         },
         {
             "key": "tip_mind_control_ability",
-            "value": "Ability: {0}"
+            "value": "Kemampuan: {0}"
         },
         {
             "key": "tip_mind_control_base",
-            "value": "{0} has taken control of {1}! They will obey their controller until the effect ends."
+            "value": "{0} telah mengambil kendali atas {1}! Mereka akan mematuhi pengendalinya sampai efek berakhir."
         },
         {
             "key": "tip_mind_control_caster_fallback",
-            "value": "the controlling source"
+            "value": "sumber pengendali"
         },
         {
             "key": "tip_mind_control_evolution_return",
-            "value": "If the controlled monster evolves, it will return to its original owner."
+            "value": "Jika monster yang dikendalikan berevolusi, ia akan kembali ke pemilik aslinya."
         },
         {
             "key": "tip_mind_control_hint_caster",
-            "value": "Defeat {0} to free your monster."
+            "value": "Kalahkan {0} untuk membebaskan monstermu."
         },
         {
             "key": "tip_mind_control_hint_none",
-            "value": "No known way to break this control yet."
+            "value": "Belum ada cara diketahui untuk mematahkan kendali ini."
         },
         {
             "key": "tip_mind_control_hint_turns",
-            "value": "Wait {0} more turn(s) of {1} to break the control."
+            "value": "Tunggu {0} giliran lagi dari {1} untuk mematahkan kendali."
         },
         {
             "key": "tip_mind_control_turn_owner_active",
-            "value": "the active player"
+            "value": "pemain aktif"
         },
         {
             "key": "tip_mind_control_turn_owner_controller",
-            "value": "the controller's turns"
+            "value": "giliran pengendali"
         },
         {
             "key": "tip_mind_control_turn_owner_original",
-            "value": "your turns"
+            "value": "giliranmu"
         },
         {
             "key": "tip_overkill_message",
-            "value": "The enemy played an overkill monster! Excess damage heals it."
+            "value": "Musuh memainkan monster overkill! Kerusakan berlebih menyembuhkannya."
         },
         {
             "key": "tip_shell_message",
-            "value": "The enemy played a shell monster! The first damage it would take is ignored."
+            "value": "Musuh memainkan monster cangkang! Kerusakan pertama yang akan diterimanya diabaikan."
         },
         {
             "key": "tip_spellimmunity_message",
-            "value": "The enemy played a spell-immune monster! Spells cannot target or damage it, but non-targeted spells that destroy still work."
+            "value": "Musuh memainkan monster kebal mantra! Mantra tidak dapat menarget atau merusaknya, tetapi mantra tanpa target yang menghancurkan tetap bekerja."
         },
         {
             "key": "tip_status_generic",
-            "value": "Your monster has been {0}!\n  \n  Description: {1}"
+            "value": "Monstermu telah {0}!\n  \n  Deskripsi: {1}"
         },
         {
             "key": "tip_status_sleep",
-            "value": "Your monster has been put to sleep!\n  \n  Description: {0}"
+            "value": "Monstermu telah ditidurkan!\n  \n  Deskripsi: {0}"
         },
         {
             "key": "tip_stealth_message",
-            "value": "The enemy played a stealth monster! You cannot attack or target it until it acts."
+            "value": "Musuh memainkan monster siluman! Kamu tidak dapat menyerang atau menargetkannya sampai ia bertindak."
         },
         {
             "key": "tip_swap_slots_ability",
-            "value": "Ability: {0}"
+            "value": "Kemampuan: {0}"
         },
         {
             "key": "tip_swap_slots_base",
-            "value": "{0} swapped the positions of {1} and {2}!"
+            "value": "{0} menukar posisi {1} dan {2}!"
         },
         {
             "key": "tip_taunt_message",
-            "value": "The enemy played a taunt monster! You must attack it before other enemies."
+            "value": "Musuh memainkan monster ejekan! Kamu harus menyerangnya sebelum musuh lainnya."
         },
         {
             "key": "tip_trample_message",
-            "value": "The enemy played a trample monster! Excess damage it deals to your monsters will hit you."
+            "value": "Musuh memainkan monster injak! Kerusakan berlebih yang diberikannya kepada monster-mu akan mengenai dirimu."
         },
         {
             "key": "tip_transform_into_with_trigger",
-            "value": "Transform Into copies the discarded card. The targeted card is now {0} because it transformed into {1}."
+            "value": "Transform Into menyalin kartu yang dibuang. Kartu yang ditarget kini menjadi {0} karena berubah menjadi {1}."
         },
         {
             "key": "tip_transform_into_without_trigger",
-            "value": "Transform Into copies the discarded card. The targeted card is now {0} because it transformed into the discarded card that triggered the ability."
+            "value": "Transform Into menyalin kartu yang dibuang. Kartu yang ditarget kini menjadi {0} karena berubah menjadi kartu buangan yang memicu kemampuan."
         },
         {
             "key": "tip_unknown_card",
-            "value": "an unknown card"
+            "value": "kartu yang tidak diketahui"
         },
         {
             "key": "title",
-            "value": "Title"
+            "value": "Judul"
         },
         {
             "key": "to_play_cards_you_must_spend_mana",
-            "value": "To play cards you must spend mana"
+            "value": "Untuk memainkan kartu kamu harus menghabiskan mana"
         },
         {
             "key": "total_earnings",
-            "value": "TOTAL EARNINGS"
+            "value": "TOTAL PENDAPATAN"
         },
         {
             "key": "tournament",
-            "value": "TOURNAMENT"
+            "value": "TURNAMEN"
         },
         {
             "key": "tournament_confirmation",
-            "value": "TOURNAMENT CONFIRMATION"
+            "value": "KONFIRMASI TURNAMEN"
         },
         {
             "key": "tournament_wins",
-            "value": "TOURNAMENT WINS"
+            "value": "KEMENANGAN TURNAMEN"
         },
         {
             "key": "tournaments",
-            "value": "TOURNAMENTS"
+            "value": "TURNAMEN"
         },
         {
             "key": "traits",
-            "value": "TRAITS"
+            "value": "SIFAT"
         },
         {
             "key": "traps",
-            "value": "Traps"
+            "value": "Jebakan"
         },
         {
             "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
-            "value": "Try playing a card by dragging it on one of the empty spaces on the board.\n \n Any card in your hand that has a green highlight can be played."
+            "value": "Cobalah mainkan kartu dengan menyeretnya ke salah satu ruang kosong di papan.\n \n Kartu apa pun di tanganmu yang memiliki sorotan hijau dapat dimainkan."
         },
         {
             "key": "turn_6",
-            "value": "TURN 6"
+            "value": "GILIRAN 6"
         },
         {
             "key": "type",
-            "value": "type"
+            "value": "jenis"
         },
         {
             "key": "uncommon",
-            "value": "Uncommon"
+            "value": "Tidak Umum"
         },
         {
             "key": "uncommon_avatar",
-            "value": "UNCOMMON AVATAR"
+            "value": "AVATAR TIDAK UMUM"
         },
         {
             "key": "unity_engine",
-            "value": "UNITY ENGINE"
+            "value": "MESIN UNITY"
         },
         {
             "key": "unlink",
-            "value": "UNLINK"
+            "value": "PUTUSKAN TAUTAN"
         },
         {
             "key": "update_password",
-            "value": "UPDATE PASSWORD"
+            "value": "PERBARUI KATA SANDI"
         },
         {
             "key": "username",
-            "value": "username"
+            "value": "nama pengguna"
         },
         {
             "key": "username...",
-            "value": "Username..."
+            "value": "Nama pengguna..."
         },
         {
             "key": "vault",
-            "value": "VAULT"
+            "value": "BRANKAS"
         },
         {
             "key": "version_1.00",
-            "value": "Version 1.00"
+            "value": "Versi 1.00"
         },
         {
             "key": "victories",
-            "value": "VICTORIES"
+            "value": "KEMENANGAN"
         },
         {
             "key": "victory",
-            "value": "VICTORY"
+            "value": "KEMENANGAN"
         },
         {
             "key": "view",
-            "value": "VIEW"
+            "value": "LIHAT"
         },
         {
             "key": "wallet_confirmation_txn",
-            "value": "WALLET CONFIRMATION TXN"
+            "value": "TRANSAKSI KONFIRMASI DOMPET"
         },
         {
             "key": "warning.invalid_target",
-            "value": "Invalid target"
+            "value": "Target tidak valid"
         },
         {
             "key": "warning.maximum_traps",
-            "value": "Maximum 5 traps"
+            "value": "Maksimal 5 jebakan"
         },
         {
             "key": "warning.no_more_actions",
-            "value": "No more action"
+            "value": "Tidak ada aksi lagi"
         },
         {
             "key": "warning.not_enough_mana",
-            "value": "Not enough mana"
+            "value": "Mana tidak cukup"
         },
         {
             "key": "warning.not_enough_team_points",
-            "value": "Not enough team points"
+            "value": "Poin tim tidak cukup"
         },
         {
             "key": "warning.not_your_turn",
-            "value": "Not your turn"
+            "value": "Bukan giliranmu"
         },
         {
             "key": "warning.rush_cant_attack_player",
-            "value": "Rush cards cannot attack players on the turn they're played"
+            "value": "Kartu Rush tidak dapat menyerang pemain pada giliran saat dimainkan"
         },
         {
             "key": "warning.spell_immunity",
-            "value": "Spell Immunity"
+            "value": "Kebal Mantra"
         },
         {
             "key": "warning_text",
-            "value": "Warning Text"
+            "value": "Teks Peringatan"
         },
         {
             "key": "weekly_guild_missions",
-            "value": "WEEKLY GUILD MISSIONS"
+            "value": "MISI GUILD MINGGUAN"
         },
         {
             "key": "weekly_missions",
-            "value": "WEEKLY MISSIONS"
+            "value": "MISI MINGGUAN"
         },
         {
             "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
-            "value": "When a new player uses your username as their referral code they will receive 1 rare pack and you will receive a rare pack every time they level up their account "
+            "value": "Saat pemain baru menggunakan nama penggunamu sebagai kode referensi mereka, mereka akan menerima 1 paket langka dan kamu akan menerima paket langka setiap kali mereka menaikkan level akun"
         },
         {
             "key": "when_you_are_done_with_your_turn._click_on_end_turn",
-            "value": "When you are done with your turn. Click on End Turn"
+            "value": "Saat kamu selesai dengan giliranmu. Klik Akhiri Giliran"
         },
         {
             "key": "win_3_ranked_matches",
-            "value": "Win 3 Ranked Matches"
+            "value": "Menangkan 3 Pertandingan Peringkat"
         },
         {
             "key": "windowed",
-            "value": "Windowed"
+            "value": "Mode Jendela"
         },
         {
             "key": "winner",
-            "value": "WINNER"
+            "value": "Pemenang"
         },
         {
             "key": "winrate",
-            "value": "WINRATE"
+            "value": "Winrate"
         },
         {
             "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
-            "value": "You must play at least one match every 24 hours to keep reward earnings active. Rewards pause until you play again.\n "
+            "value": "Kamu harus bermain setidaknya satu pertandingan setiap 24 jam untuk menjaga pendapatan hadiah tetap aktif. Hadiah akan berhenti sampai kamu bermain lagi.\n "
         },
         {
             "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
-            "value": "YOUR DECK HAS BEEN SAVED AND CAN BE USED IN BATTLE."
+            "value": "DEK-MU TELAH DISIMPAN DAN DAPAT DIGUNAKAN DALAM PERTEMPURAN."
         },
         {
             "key": "zhamster",
@@ -1914,263 +1914,263 @@
         },
         {
             "key": "modal.version_warning_message",
-            "value": "YOUR GAME VERSION {0} IS OUT OF DATE. LATEST VERSION IS {1}."
+            "value": "VERSI GIMMU {0} SUDAH KEDALUWARSA. VERSI TERBARU ADALAH {1}."
         },
         {
             "key": "welcome_to_fracctal_tcg_beta!_let's_learn_a_bit_about_the_game.",
-            "value": "Welcome to Fracctal TCG Beta!\n Let's learn a bit about the game."
+            "value": "Selamat datang di Fracctal TCG Beta!\n Mari pelajari sedikit tentang gim ini."
         },
         {
             "key": "in_adventure_mode_you_learn_the_basics_of_the_game_as_well_as_the_different_types_of_cards_and_abilites.you_also_earn_rewards_as_you_defeat_challenges!",
-            "value": "In Adventure mode, you learn the basics of the game as well as the different types of cards and abilities.\n \n You also earn rewards as you defeat challenges!"
+            "value": "Dalam mode Petualangan, kamu mempelajari dasar gim serta berbagai jenis kartu dan kemampuan.\n \n Kamu juga mendapatkan hadiah saat menaklukkan tantangan!"
         },
         {
             "key": "in_practice_mode_you_can_test_your_different_decks,_complete_missions,_and_learn_the_game_wihtout_affecting_your_ranking.",
-            "value": "In Practice mode you can test your different decks, complete missions, and learn the game without affecting your ranking."
+            "value": "Dalam mode Latihan kamu dapat mencoba berbagai dek, menyelesaikan misi, dan mempelajari gim tanpa memengaruhi peringkatmu."
         },
         {
             "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
-            "value": "Battle against other players in Ranked Multiplayer.\n \n You can check your PvP ranking using the button at the top of the nav bar."
+            "value": "Bertarung melawan pemain lain di Ranked Multiplayer.\n \n Kamu dapat memeriksa peringkat PvP menggunakan tombol di bagian atas bilah navigasi."
         },
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_mode.win_essence_currency,_account_xp,_packs,_and_guild_points_in_these_competions!",
-            "value": "Compete in daily automated tournaments against other players in our Tournament mode.\n \n Win Essence currency, account XP, packs, and guild points in these competitions!"
+            "value": "Bertanding dalam turnamen otomatis harian melawan pemain lain di mode Turnamen kami.\n \n Menangkan mata uang Esensi, XP akun, paket, dan poin guild di kompetisi ini!"
         },
         {
             "key": "missions_are_the_primary_method_of_gaining_currency_to_open_new_packs._there_are_many_more_features_like_match_spectating,_daily_login_streak_rewards,_friends_list,_player_created_guilds,_battlepass_rewards,_and_much_more!we_suggest_you_start_with_adventure_mode._good_luck!",
-            "value": "Missions are the primary method of gaining currency to open new packs.\n \n There are many more features like match spectating, daily login streak rewards, friends list, player-created guilds, battle pass rewards, and much more!\n \n We suggest you start with Adventure mode. Good luck!"
+            "value": "Misi adalah cara utama mendapatkan mata uang untuk membuka paket baru.\n \n Ada banyak fitur lain seperti menonton pertandingan, hadiah login harian beruntun, daftar teman, guild buatan pemain, hadiah battle pass, dan masih banyak lagi!\n \n Kami menyarankan kamu memulai dengan mode Petualangan. Semoga berhasil!"
         },
         {
             "key": "great_job!_creatures_that_just_entered_play_cannot_attack_in_the_same_turn.",
-            "value": "Great job! Creatures that just entered play cannot attack in the same turn."
+            "value": "Kerja bagus! Makhluk yang baru masuk bermain tidak bisa menyerang pada giliran yang sama."
         },
         {
             "key": "now_destroy_the_other_monster!",
-            "value": "Now destroy the other monster!"
+            "value": "Sekarang hancurkan monster lainnya!"
         },
         {
             "key": "your_goal_is_to_reduce_your_opponent's_hp_to_0.",
-            "value": "Your goal is to reduce your opponent's HP to 0."
+            "value": "Tujuanmu adalah menurunkan HP lawan ke 0."
         },
         {
             "key": "many_monsters_are_quite_strong_because_their_fury_ability_let_them_attack_twice_per_turn!",
-            "value": "Many monsters are quite strong because their Fury ability lets them attack twice per turn!"
+            "value": "Banyak monster sangat kuat karena kemampuan Amarah memungkinkan mereka menyerang dua kali per giliran!"
         },
         {
             "key": "you_will_probably_want_to_get_rid_of_the_ignitas_this_turn,_otherwise_it_could_damage_most_of_your_hp!",
-            "value": "You will probably want to get rid of the Ignitus this turn, otherwise it could damage most of your HP!"
+            "value": "Kamu mungkin ingin menyingkirkan Ignitus pada giliran ini, jika tidak ia bisa menghabiskan sebagian besar HP-mu!"
         },
         {
             "key": "your_jagur_can_only_deal_1_damage,_but_you_need_2_to_destroy_the_ignitas.",
-            "value": "Your Jagur can only deal 1 damage, but you need 2 to destroy the Ignitus."
+            "value": "Jagur-mu hanya dapat memberikan 1 kerusakan, tetapi kamu membutuhkan 2 untuk menghancurkan Ignitus."
         },
         {
             "key": "you_have_two_choices._you_can_either_try_to_paralyze_the_ignitus,_or_play_a_cheetula_to_boost_your_jagur_attack.",
-            "value": "You have two choices. You can either try to paralyze the Ignitus, or play a Cheetula to boost your Jagur's attack."
+            "value": "Kamu memiliki dua pilihan. Kamu bisa mencoba melumpuhkan Ignitus, atau memainkan Cheetula untuk meningkatkan serangan Jagur-mu."
         },
         {
             "key": "great_choice,_the_ignitas_won't_be_able_to_attack_for_the_next_2_turns.",
-            "value": "Great choice, the Ignitus won't be able to attack for the next 2 turns."
+            "value": "Pilihan hebat, Ignitus tidak akan bisa menyerang selama 2 giliran berikutnya."
         },
         {
             "key": "now_you_could_attack_the_opponent,_or_end_your_turn.",
-            "value": "Now you could attack the opponent, or end your turn."
+            "value": "Sekarang kamu bisa menyerang lawan atau mengakhiri giliranmu."
         },
         {
             "key": "great_choice,_now_your_jagur_has_2_attack._you_can_attack_and_kill_the_ignitas!",
-            "value": "Great choice, now your Jagur has 2 attack. You can attack and kill the Ignitus!"
+            "value": "Pilihan hebat, sekarang Jagur-mu memiliki 2 serangan. Kamu bisa menyerang dan mengalahkan Ignitus!"
         },
         {
             "key": "to_attack_the_opponent's_hp._drag_one_of_your_characters_in_play_on_top_of_the_opponent's_hand_area.",
-            "value": "To attack the opponent's HP. Drag one of your characters in play on top of the opponent's hand area."
+            "value": "Untuk menyerang HP lawan, seret salah satu karaktermu yang sedang bermain ke area tangan lawan."
         },
         {
             "key": "good_luck!",
-            "value": "Good luck!"
+            "value": "Semoga beruntung!"
         },
         {
             "key": "hero_power_popup.contribution_line1",
-            "value": "Playing {0} cards charges your fairy power."
+            "value": "Memainkan {0} kartu mengisi kekuatan perimu."
         },
         {
             "key": "hero_power_popup.contribution_line2",
-            "value": "You just contributed to it! Progress: {0}/{1} element points."
+            "value": "Kamu baru saja berkontribusi! Progres: {0}/{1} poin elemen."
         },
         {
             "key": "hero_power_popup.contribution_line3",
-            "value": "Reach the required points to activate it."
+            "value": "Capai poin yang dibutuhkan untuk mengaktifkannya."
         },
         {
             "key": "hero_power_popup.fairy_power_label",
-            "value": "Fairy Power: {0}"
+            "value": "Kekuatan Peri: {0}"
         },
         {
             "key": "tip_heropower_electric",
-            "value": "Target gains Haste (must be Electric monster)."
+            "value": "Target mendapatkan Buru-buru (harus monster Listrik)."
         },
         {
             "key": "tip_heropower_fire",
-            "value": "Deal 1 damage."
+            "value": "Berikan 1 kerusakan."
         },
         {
             "key": "tip_heropower_ice",
-            "value": "Freeze an enemy for 1 turn."
+            "value": "Bekukan musuh selama 1 giliran."
         },
         {
             "key": "tip_heropower_plant",
-            "value": "Heal 2 HP."
+            "value": "Sembuhkan 2 HP."
         },
         {
             "key": "tip_heropower_psychic",
-            "value": "Opponent discards a random card from their hand."
+            "value": "Lawan membuang secara acak satu kartu dari tangannya."
         },
         {
             "key": "tip_heropower_rock",
-            "value": "Target character gains +1 Armor."
+            "value": "Karakter target mendapatkan +1 Zirah."
         },
         {
             "key": "tip_heropower_shadow",
-            "value": "Target becomes Cursed."
+            "value": "Target menjadi Terkutuk."
         },
         {
             "key": "tip_heropower_water",
-            "value": "Draw a card."
+            "value": "Ambil sebuah kartu."
         },
         {
             "key": "turn_popup.your_turn",
-            "value": "YOUR TURN"
+            "value": "GILIRANMU"
         },
         {
             "key": "turn_popup.opponent_turn",
-            "value": "OPPONENT'S TURN"
+            "value": "GILIRAN LAWAN"
         },
         {
             "key": "status.addattack.title",
-            "value": "Attack Boost"
+            "value": "Peningkatan Serangan"
         },
         {
             "key": "status.addattack.desc",
-            "value": "Gains +<value> attack for a limited time."
+            "value": "Mendapat +<value> serangan untuk waktu terbatas."
         },
         {
             "key": "status.addhp.title",
-            "value": "HP Boost"
+            "value": "Peningkatan HP"
         },
         {
             "key": "status.addhp.desc",
-            "value": "Gains +<value> HP for a limited time."
+            "value": "Mendapat +<value> HP untuk waktu terbatas."
         },
         {
             "key": "status.addmanacost.title",
-            "value": "Mana Cost Modifier"
+            "value": "Pengubah Biaya Mana"
         },
         {
             "key": "status.addmanacost.desc",
-            "value": "Mana cost is adjusted by <value> for a limited time."
+            "value": "Biaya mana disesuaikan sebesar <value> untuk waktu terbatas."
         },
         {
             "key": "status.stealth.title",
-            "value": "Stealth"
+            "value": "Tersembunyi"
         },
         {
             "key": "status.stealth.desc",
-            "value": "Cannot be attacked or targeted until it acts."
+            "value": "Tidak dapat diserang atau ditargetkan sampai bertindak."
         },
         {
             "key": "status.invincibility.title",
-            "value": "Invincibility"
+            "value": "Kebal"
         },
         {
             "key": "status.invincibility.desc",
-            "value": "Cannot be attacked for <value> turn(s)."
+            "value": "Tidak dapat diserang selama <value> giliran."
         },
         {
             "key": "status.shell.title",
-            "value": "Shell"
+            "value": "Cangkang"
         },
         {
             "key": "status.shell.desc",
-            "value": "Ignores the first source of damage it would take."
+            "value": "Mengabaikan sumber kerusakan pertama yang akan diterimanya."
         },
         {
             "key": "status.protection.title",
-            "value": "Taunt"
+            "value": "Ejek"
         },
         {
             "key": "status.protection.desc",
-            "value": "Enemies must attack this card before other allies."
+            "value": "Musuh harus menyerang kartu ini sebelum sekutu lainnya."
         },
         {
             "key": "status.protected.title",
-            "value": "Protected"
+            "value": "Terlindungi"
         },
         {
             "key": "status.protected.desc",
-            "value": "Cannot be attacked while protected by a taunt ally."
+            "value": "Tidak dapat diserang saat dilindungi sekutu ejekan."
         },
         {
             "key": "status.armor.title",
-            "value": "Armor"
+            "value": "Zirah"
         },
         {
             "key": "status.armor.desc",
-            "value": "Reduces incoming damage by <value>."
+            "value": "Mengurangi kerusakan yang masuk sebesar <value>."
         },
         {
             "key": "status.spellimmunity.title",
-            "value": "Spell Immunity"
+            "value": "Kebal Mantra"
         },
         {
             "key": "status.spellimmunity.desc",
-            "value": "Cannot be targeted or damaged by spells."
+            "value": "Tidak dapat ditarget atau dirusak oleh mantra."
         },
         {
             "key": "status.characterabilityimmunity.title",
-            "value": "Ability Immunity"
+            "value": "Kebal Kemampuan"
         },
         {
             "key": "status.characterabilityimmunity.desc",
-            "value": "Cannot be targeted by character abilities; fairy powers still affect it."
+            "value": "Tidak dapat ditarget oleh kemampuan karakter; kekuatan peri masih memengaruhinya."
         },
         {
             "key": "status.deathtouch.title",
-            "value": "Deathtouch"
+            "value": "Sentuhan Kematian"
         },
         {
             "key": "status.deathtouch.desc",
-            "value": "Destroys any character it deals damage to."
+            "value": "Menghancurkan karakter mana pun yang diberi kerusakan."
         },
         {
             "key": "status.fury.title",
-            "value": "Fury"
+            "value": "Amarah"
         },
         {
             "key": "status.fury.desc",
-            "value": "May attack twice each turn."
+            "value": "Dapat menyerang dua kali tiap giliran."
         },
         {
             "key": "status.intimidate.title",
-            "value": "Intimidate"
+            "value": "Intimidasi"
         },
         {
             "key": "status.intimidate.desc",
-            "value": "Enemies damaged by this do not counterattack."
+            "value": "Musuh yang terluka olehnya tidak melakukan serangan balik."
         },
         {
             "key": "status.flying.title",
-            "value": "Flying"
+            "value": "Terbang"
         },
         {
             "key": "status.flying.desc",
-            "value": "Can ignore taunt blockers when attacking."
+            "value": "Dapat mengabaikan pemblokir ejekan saat menyerang."
         },
         {
             "key": "status.trample.title",
-            "value": "Trample"
+            "value": "Injak"
         },
         {
             "key": "status.trample.desc",
-            "value": "Excess damage dealt to blockers hits the opposing player."
+            "value": "Kerusakan berlebih yang diberikan ke pemblokir mengenai pemain lawan."
         },
         {
             "key": "status.overkill.title",
@@ -2178,119 +2178,119 @@
         },
         {
             "key": "status.overkill.desc",
-            "value": "Excess damage heals this card."
+            "value": "Kerusakan berlebih menyembuhkan kartu ini."
         },
         {
             "key": "status.lifesteal.title",
-            "value": "Lifesteal"
+            "value": "Serap Nyawa"
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "Heals its controller for the damage it deals."
+            "value": "Menyembuhkan pengendalinya sebesar kerusakan yang diberikannya."
         },
         {
             "key": "status.silenced.title",
-            "value": "Silenced"
+            "value": "Dibungkam"
         },
         {
             "key": "status.silenced.desc",
-            "value": "Abilities are disabled."
+            "value": "Kemampuan dinonaktifkan."
         },
         {
             "key": "status.paralysed.title",
-            "value": "Paralysed"
+            "value": "Terlumpuh"
         },
         {
             "key": "status.paralysed.desc",
-            "value": "Cannot act for <value> turn(s)."
+            "value": "Tidak dapat bertindak selama <value> giliran."
         },
         {
             "key": "status.poisoned.title",
-            "value": "Poisoned"
+            "value": "Keracunan"
         },
         {
             "key": "status.poisoned.desc",
-            "value": "Loses <value> HP at the start of each turn."
+            "value": "Kehilangan <value> HP di awal setiap giliran."
         },
         {
             "key": "status.sleep.title",
-            "value": "Sleep"
+            "value": "Tidur"
         },
         {
             "key": "status.sleep.desc",
-            "value": "Does not ready at the start of turn."
+            "value": "Tidak siap di awal giliran."
         },
         {
             "key": "status.frozen.title",
-            "value": "Frozen"
+            "value": "Beku"
         },
         {
             "key": "status.frozen.desc",
-            "value": "Cannot act for <value> turn(s)."
+            "value": "Tidak dapat bertindak selama <value> giliran."
         },
         {
             "key": "status.cursed.title",
-            "value": "Cursed"
+            "value": "Terkutuk"
         },
         {
             "key": "status.cursed.desc",
-            "value": "Loses <value> attack at the start of its controller's turn."
+            "value": "Kehilangan <value> serangan di awal giliran pengendalinya."
         },
         {
             "key": "status.ghost.title",
-            "value": "Ghost"
+            "value": "Hantu"
         },
         {
             "key": "status.ghost.desc",
-            "value": "While cursed, this card gains +5 attack."
+            "value": "Saat terkutuk, kartu ini mendapatkan +5 serangan."
         },
         {
             "key": "status.burned.title",
-            "value": "Burned"
+            "value": "Terbakar"
         },
         {
             "key": "status.burned.desc",
-            "value": "Loses <value> HP at the start of each turn."
+            "value": "Kehilangan <value> HP di awal setiap giliran."
         },
         {
             "key": "status.trapevasion.title",
-            "value": "Trap Evasion"
+            "value": "Menghindari Jebakan"
         },
         {
             "key": "status.trapevasion.desc",
-            "value": "Does not trigger enemy traps when acting."
+            "value": "Tidak memicu jebakan musuh saat bertindak."
         },
         {
             "key": "status.protectionflying.title",
-            "value": "Aerial Taunt"
+            "value": "Ejekan Udara"
         },
         {
             "key": "status.protectionflying.desc",
-            "value": "Taunts only flying attackers, protecting all allies."
+            "value": "Hanya mengejek penyerang terbang, melindungi semua sekutu."
         },
         {
             "key": "status.protectedflying.title",
-            "value": "Protected from Flying"
+            "value": "Terlindungi dari Terbang"
         },
         {
             "key": "status.protectedflying.desc",
-            "value": "Cannot be attacked by flying enemies while an aerial taunt ally remains."
+            "value": "Tidak dapat diserang oleh musuh terbang selama ada sekutu ejekan udara."
         },
         {
             "key": "status.attacklossimmunity.title",
-            "value": "Attack Loss Immunity"
+            "value": "Kebal Pengurangan Serangan"
         },
         {
             "key": "status.attacklossimmunity.desc",
-            "value": "Attack cannot be reduced."
+            "value": "Serangan tidak dapat dikurangi."
         },
         {
             "key": "evolves_to",
-            "value": "Evolves To"
+            "value": "Berevolusi Menjadi"
         },
         {
             "key": "cardzoompanel.trait_label",
-            "value": "TRAIT"
+            "value": "SIFAT"
         },
         {
             "key": "cardzoompanel.trait_format",
@@ -2298,47 +2298,47 @@
         },
         {
             "key": "cardzoompanel.evolution_label",
-            "value": "EVOLUTION"
+            "value": "EVOLUSI"
         },
         {
             "key": "cardzoompanel.evolution_description",
-            "value": "Monster will evolve in {0} turns"
+            "value": "Monster akan berevolusi dalam {0} giliran"
         },
         {
             "key": "main_menu.tournament_countdown_minute",
-            "value": "Next tournament starts in 1 minute"
+            "value": "Turnamen berikutnya dimulai dalam 1 menit"
         },
         {
             "key": "main_menu.tournament_countdown_minutes",
-            "value": "Next tournament starts in {0} minutes"
+            "value": "Turnamen berikutnya dimulai dalam {0} menit"
         },
         {
             "key": "main_menu.tournament_countdown_second",
-            "value": "Next tournament starts in 1 second"
+            "value": "Turnamen berikutnya dimulai dalam 1 detik"
         },
         {
             "key": "main_menu.tournament_countdown_seconds",
-            "value": "Next tournament starts in {0} seconds"
+            "value": "Turnamen berikutnya dimulai dalam {0} detik"
         },
         {
             "key": "main_menu.tournament_countdown_hour",
-            "value": "Next tournament starts in 1 hour"
+            "value": "Turnamen berikutnya dimulai dalam 1 jam"
         },
         {
             "key": "main_menu.tournament_countdown_hours",
-            "value": "Next tournament starts in {0} hours"
+            "value": "Turnamen berikutnya dimulai dalam {0} jam"
         },
         {
             "key": "shop",
-            "value": "Shop"
+            "value": "Toko"
         },
         {
             "key": "tip_hand_limit_message",
-            "value": "Your hand is full—you can't hold more than {0} cards. Play or discard cards to draw more."
+            "value": "Tanganmu penuh—kamu tidak dapat memegang lebih dari {0} kartu. Mainkan atau buang kartu untuk menarik lagi."
         },
         {
             "key": "tip_card_evolution_message",
-            "value": "{0} just evolved! Characters evolve after they survive {1} of your turns on the board. If the evolved form is still on the board, its On Play ability triggers again, and any negative status effects are removed first."
+            "value": "{0} baru saja berevolusi! Karakter berevolusi setelah bertahan {1} giliranmu di papan. Jika bentuk evolusi masih berada di papan, kemampuan Saat Dimainkan-nya aktif lagi, dan efek status negatif apa pun dihapus terlebih dahulu."
         }
     ]
 }
