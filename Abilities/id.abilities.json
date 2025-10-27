@@ -2,2303 +2,2303 @@
     "entries": [
         {
             "key": "ability.ability_immunity.desc",
-            "value": "不能被角色卡牌能力针对"
+            "value": "Cannot be targeted by character card abilities"
         },
         {
             "key": "ability.ability_immunity.title",
-            "value": "能力免疫"
+            "value": "Ability Immunity"
         },
         {
             "key": "ability.ability_swap_characters_3ml.desc",
-            "value": "用敌方场上法力消耗不超过3的角色替换此角色。"
+            "value": "Replace this character with an enemies' board character that a mana cost of 3 or less."
         },
         {
             "key": "ability.ability_swap_characters_3ml.title",
-            "value": "心灵交换"
+            "value": "Psychic Swap"
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "用法力值4的敌人牌面角色替换此角色"
+            "value": "Replace this character with an enemies' board character that has a mana cost of 4."
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
-            "value": "心灵交换"
+            "value": "Psychic Swap"
         },
         {
             "key": "ability.ability_swap_characters_7ml.desc",
-            "value": "用敌方场上法力消耗不超过7的角色替换此角色。"
+            "value": "Replace this character with an enemies' board character that a mana cost of 7 or less."
         },
         {
             "key": "ability.ability_swap_characters_7ml.title",
-            "value": "心灵交换"
+            "value": "Psychic Swap"
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "所有盟友生物获得 +2 护甲。会占用此生物的行动并消耗 5 点法力"
+            "value": "All allied creatures gain +2 armor. Uses this creature's action and costs 5 mana."
         },
         {
             "key": "ability.activate_armor2.title",
-            "value": "护甲支持"
+            "value": "Armor Support"
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "所有盟友生物在本回合结束前获得 +1 攻击力。会占用此生物的行动"
+            "value": "All allied creatures gain +1 attack until the end of the turn. Uses this creature's action."
         },
         {
             "key": "ability.activate_boost1.title",
-            "value": "咆哮"
+            "value": "Roar"
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "所有盟友生物在本回合结束前获得 +3 攻击力。会占用此生物的行动"
+            "value": "All allied creatures gain +3 attack until the end of the turn. Uses this creature's action."
         },
         {
             "key": "ability.activate_boost3.title",
-            "value": "支持"
+            "value": "Support"
         },
         {
             "key": "ability.activate_burst.desc",
-            "value": "承受1点伤害以获得+1攻击力"
+            "value": "Take 1 damage to gain +1 attack."
         },
         {
             "key": "ability.activate_burst.title",
-            "value": "爆发"
+            "value": "Burst"
         },
         {
             "key": "ability.activate_damage2.desc",
-            "value": "造成 2 点伤害。消耗 3 点法力，不会消耗此角色的行动。"
+            "value": "Deal 2 damage. Cost 3 mana. Does not exhaust action. "
         },
         {
             "key": "ability.activate_damage2.title",
-            "value": "额外攻击"
+            "value": "Extra Attack"
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "使对手随机弃置一张手牌。会占用此生物的行动"
+            "value": "Opponent discard a random card from their hand. Uses this creature's action."
         },
         {
             "key": "ability.activate_discard.title",
-            "value": "丢弃"
+            "value": "Discard"
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "使对手随机弃置一张手牌。会占用此生物的行动"
+            "value": "Opponent discard a random card from their hand. Uses this creature's action."
         },
         {
             "key": "ability.activate_discard_random_3l.title",
-            "value": "丢弃"
+            "value": "Discard"
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "目标获得急速（必须是电系怪物）。"
+            "value": "Target gains haste (must be electric monster)"
         },
         {
             "key": "ability.activate_electric.title",
-            "value": "电系"
+            "value": "Electric"
         },
         {
             "key": "ability.activate_fire.desc",
-            "value": "造成 1 点伤害。"
+            "value": "Deal 1 damage."
         },
         {
             "key": "ability.activate_fire.title",
-            "value": "火系"
+            "value": "Fire"
         },
         {
             "key": "ability.activate_heal_player3.desc",
-            "value": "为玩家恢复3点生命值"
+            "value": "Heal Player for 3 HP."
         },
         {
             "key": "ability.activate_heal_player3.title",
-            "value": "自我治疗"
+            "value": "Self Heal"
         },
         {
             "key": "ability.activate_ice.desc",
-            "value": "冻结一名敌人 1 个回合。"
+            "value": "Freeze an enemy for 1 turn"
         },
         {
             "key": "ability.activate_ice.title",
-            "value": "冻结"
+            "value": "Freeze"
         },
         {
             "key": "ability.activate_plant.desc",
-            "value": "恢复2点生命值"
+            "value": "Heal 2 HP."
         },
         {
             "key": "ability.activate_plant.title",
-            "value": "植物系"
+            "value": "Plant"
         },
         {
             "key": "ability.activate_psychic.desc",
-            "value": "对手从手牌中随机丢弃一张牌"
+            "value": "Opponent discards a random card from their hand."
         },
         {
             "key": "ability.activate_psychic.title",
-            "value": "精神系"
+            "value": "Psychic"
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "目标角色获得 +1 护甲。"
+            "value": "Target character gains +1 Armor"
         },
         {
             "key": "ability.activate_rock.title",
-            "value": "岩石系"
+            "value": "Rock"
         },
         {
             "key": "ability.activate_rock_hammi_old.desc",
-            "value": "召唤一个1/1哈米"
+            "value": "Summon a 1/1 Hammi"
         },
         {
             "key": "ability.activate_rock_hammi_old.title",
-            "value": "岩石系"
+            "value": "Rock"
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "选择一个角色并掷一次六面骰，若结果为4或以上，则将其返回拥有者的手牌。消耗2法力。"
+            "value": "Select a character and roll a D6, on 4+ return it to its owner's hand. Cost 2 mana."
         },
         {
             "key": "ability.activate_roll_send_hand.title",
-            "value": "冲锋"
+            "value": "Charge"
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "从你的墓地将一张法术返回手牌。消耗 2 点法力"
+            "value": "Return a spell from your graveyard to your hand. Cost 2 mana."
         },
         {
             "key": "ability.activate_select_discard_spell.title",
-            "value": "魔法专注"
+            "value": "Magic Focus"
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "将一个角色返回其拥有者的手牌。会占用此生物的行动。"
+            "value": "Return a character to its owner's hand. Uses this creature's action."
         },
         {
             "key": "ability.activate_send_hand.title",
-            "value": "弹回"
+            "value": "Bounce"
         },
         {
             "key": "ability.activate_shadow.desc",
-            "value": "目标变为被诅咒状态"
+            "value": "Target becomes Cursed"
         },
         {
             "key": "ability.activate_shadow.title",
-            "value": "阴影系"
+            "value": "Shadow"
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "打出时，选择一个目标角色改换阵营"
+            "value": "On play, select a target character to switch sides"
         },
         {
             "key": "ability.activate_switch_sides.title",
-            "value": "忠诚交换"
+            "value": "Loyalty Swap"
         },
         {
             "key": "ability.activate_water.desc",
-            "value": "抽一张牌"
+            "value": "Draw a card."
         },
         {
             "key": "ability.activate_water.title",
-            "value": "水系"
+            "value": "Water"
         },
         {
             "key": "ability.add_attack_traps.desc",
-            "value": "每有一个敌方陷阱，就获得 +1 攻击力"
+            "value": "Gain +1 damage for each enemy trap"
         },
         {
             "key": "ability.add_attack_traps.title",
-            "value": "陷阱增强"
+            "value": "Trap Boost"
         },
         {
             "key": "ability.add_hp_location.desc",
-            "value": "每有一个相同元素的盟友地点在场，就获得 +2 生命值"
+            "value": "Gain +2 HP for every allied location of the same element type is in play."
         },
         {
             "key": "ability.add_hp_location.title",
-            "value": "位置增强"
+            "value": "Location Boost"
         },
         {
             "key": "ability.add_spell_damage1.desc",
-            "value": "你的所有法术与能力造成 +1 伤害"
+            "value": "All your spells and abilities deal +1 damage."
         },
         {
             "key": "ability.add_spell_damage1.title",
-            "value": "法术伤害"
+            "value": "Spell Damage"
         },
         {
             "key": "ability.add_spell_damage2.desc",
-            "value": "你的所有法术与能力造成 +2 伤害"
+            "value": "All your spells and abilities deal +2 damage."
         },
         {
             "key": "ability.add_spell_damage2.title",
-            "value": "法术伤害"
+            "value": "Spell Damage"
         },
         {
             "key": "ability.add_spell_damage4.desc",
-            "value": "你的所有法术与能力造成 +4 伤害"
+            "value": "All your spells and abilities deal +4 damage."
         },
         {
             "key": "ability.add_spell_damage4.title",
-            "value": "法术伤害"
+            "value": "Spell Damage"
         },
         {
             "key": "ability.after_spell_attack2.desc",
-            "value": "每当你施放法术，获得 +2 攻击力"
+            "value": "After playing a spell, gain +2 attack."
         },
         {
             "key": "ability.after_spell_attack2.title",
-            "value": "热量"
+            "value": "Heat"
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "被攻击的角色会被灼烧，每回合失去 2 点生命值"
+            "value": "Attacked character is burned. They lose 2 HP each turn."
         },
         {
             "key": "ability.attack_burned.title",
-            "value": "灼烧"
+            "value": "Burned"
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "被攻击的角色会被诅咒，每回合失去 1 点攻击力"
+            "value": "Attacked characters gain curse. They lose 1 attack each turn."
         },
         {
             "key": "ability.attack_curse.title",
-            "value": "诅咒"
+            "value": "Curse"
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "保护角色的攻击力不被降低"
+            "value": "Protects character's attack from being reduced."
         },
         {
             "key": "ability.attack_loss_immunity.title",
-            "value": "攻击力损失免疫"
+            "value": "Attack Loss Immunity"
         },
         {
             "key": "ability.attack_mana1.desc",
-            "value": "攻击后获得 1 点法力。"
+            "value": "After attacking gain 1 mana."
         },
         {
             "key": "ability.attack_mana1.title",
-            "value": "掠夺"
+            "value": "Pillage"
         },
         {
             "key": "ability.attack_mana2.desc",
-            "value": "攻击后获得 2 点法力。"
+            "value": "After attacking gain 2 mana."
         },
         {
             "key": "ability.attack_mana2.title",
-            "value": "掠夺"
+            "value": "Pillage"
         },
         {
             "key": "ability.attack_player_mana1.desc",
-            "value": "攻击对手生命后获得 1 点法力"
+            "value": "After attacking the opponent's life, gain 1 mana."
         },
         {
             "key": "ability.attack_player_mana1.title",
-            "value": "掠夺"
+            "value": "Pillage"
         },
         {
             "key": "ability.attack_player_mana2.desc",
-            "value": "攻击对手生命后获得 2 点法力"
+            "value": "After attacking the opponent's life, gain 2 mana."
         },
         {
             "key": "ability.attack_player_mana2.title",
-            "value": "掠夺"
+            "value": "Pillage"
         },
         {
             "key": "ability.attack_player_mana3.desc",
-            "value": "攻击对手生命后获得 3 点法力"
+            "value": "After attacking the opponent's life, gain 3 mana."
         },
         {
             "key": "ability.attack_player_mana3.title",
-            "value": "掠夺"
+            "value": "Pillage"
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "被攻击的角色会中毒，每回合失去 1 点生命值"
+            "value": "Attacked characters gain poison. They lose 1 hp each turn."
         },
         {
             "key": "ability.attack_poison.title",
-            "value": "中毒"
+            "value": "Poison"
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "攻击前掷一次六面骰，结果为 4 或以上时，获得 +3 攻击力。"
+            "value": "Before attacking, roll a D6, on 4+ gain +3 attack."
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.title",
-            "value": "触手"
+            "value": "Tentacles"
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "攻击前掷一次六面骰，结果为 4 或以上时，直到回合结束获得 +3 攻击力。"
+            "value": "Before attacking, roll a D6, on 4+ gain +3 attack until the end of the turn."
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
-            "value": "触手"
+            "value": "Tentacles"
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "攻击前掷一次六面骰，结果为 4 或以上时，直到回合结束获得 +6 攻击力。"
+            "value": "Before attacking, roll a D6, on 4+ gain +6 attack until the end of the turn."
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
-            "value": "触手"
+            "value": "Tentacles"
         },
         {
             "key": "ability.attack_suffer_damage.desc",
-            "value": "攻击前承受 3 点伤害"
+            "value": "Before attacking, suffer 3 damage."
         },
         {
             "key": "ability.attack_suffer_damage.title",
-            "value": "地裂"
+            "value": "Ground Split"
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "所有盟友火系生物获得：“承受 1 点伤害以获得 +1 攻击力”。"
+            "value": "All allied Fire creatures gain: \"Take 1 damage to gain +1 attack\"."
         },
         {
             "key": "ability.aura_ability_red.title",
-            "value": "火爆"
+            "value": "Fire Burst"
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "所有盟友岩石系生物获得：“承受 1 点伤害以获得 +1 攻击力”。"
+            "value": "All allied Rock creatures gain: \"Take 1 damage to gain +1 attack\"."
         },
         {
             "key": "ability.aura_ability_rock.title",
-            "value": "岩爆"
+            "value": "Rock Burst"
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "所有敌方角色 -1 攻击力"
+            "value": "All enemy characters have -1 attack."
         },
         {
             "key": "ability.aura_attack_m1.title",
-            "value": "恐惧"
+            "value": "Fear"
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "所有敌方角色 -2 攻击力"
+            "value": "All enemy characters have -2 attack."
         },
         {
             "key": "ability.aura_attack_m2.title",
-            "value": "恐惧"
+            "value": "Fear"
         },
         {
             "key": "ability.aura_cat.desc",
-            "value": "所有其他盟友猫获得+1攻击力"
+            "value": "All other allied cats gain +1 attack."
         },
         {
             "key": "ability.aura_cat.title",
-            "value": "猫光环"
+            "value": "Cat Aura"
         },
         {
             "key": "ability.aura_enemy_attack1.desc",
-            "value": "所有敌方角色获得+1攻击力"
+            "value": "All enemy characters gain +1 attack."
         },
         {
             "key": "ability.aura_enemy_attack1.title",
-            "value": "背叛"
+            "value": "Betrayal"
         },
         {
             "key": "ability.aura_enemy_hp2.desc",
-            "value": "所有敌方角色获得+2生命值"
+            "value": "All enemy characters gain +2 HP"
         },
         {
             "key": "ability.aura_enemy_hp2.title",
-            "value": "背叛"
+            "value": "Betrayal"
         },
         {
             "key": "ability.aura_hp_rock_1.desc",
-            "value": "所有盟友岩石角色+1生命值"
+            "value": "All ally rock characters have +1 HP."
         },
         {
             "key": "ability.aura_hp_rock_1.title",
-            "value": "岩石盟友"
+            "value": "Stone Ally"
         },
         {
             "key": "ability.aura_hp_rock_m1.desc",
-            "value": "所有盟友阴影角色+1生命值"
+            "value": "All ally shadow characters have +1 HP."
         },
         {
             "key": "ability.aura_hp_rock_m1.title",
-            "value": "阴影盟友"
+            "value": "Shadow Ally"
         },
         {
             "key": "ability.aura_reptile.desc",
-            "value": "所有其他盟友爬行动物获得 +1 攻击力"
+            "value": "All other allied reptiles gain +1 attack."
         },
         {
             "key": "ability.aura_reptile.title",
-            "value": "爬行动物"
+            "value": "Reptiles"
         },
         {
             "key": "ability.aura_reptile_2.desc",
-            "value": "所有其他盟友爬行动物获得 +2 攻击力"
+            "value": "All other allied reptiles gain +2 attack."
         },
         {
             "key": "ability.aura_reptile_2.title",
-            "value": "爬行动物"
+            "value": "Reptiles"
         },
         {
             "key": "ability.bypass_trap.desc",
-            "value": "此角色不会触发陷阱。"
+            "value": "This character does not trigger traps. "
         },
         {
             "key": "ability.bypass_trap.title",
-            "value": "陷阱闪避"
+            "value": "Trap Evasion"
         },
         {
             "key": "ability.chain_ice_treasure.desc",
-            "value": "查看牌库顶的 7 张牌，选择 2 张冰系牌加入手牌"
+            "value": "Look at the next 7 cards in your deck, and take 2 ice cards into your hand."
         },
         {
             "key": "ability.chain_ice_treasure.title",
-            "value": "冰之宝藏"
+            "value": "Ice Treasure"
         },
         {
             "key": "ability.chain_water_treasure.desc",
-            "value": "查看牌库顶的 7 张牌，选择 2 张水系牌加入手牌"
+            "value": "Look at the next 7 cards in your deck, and take 2 water cards into your hand."
         },
         {
             "key": "ability.chain_water_treasure.title",
-            "value": "水之宝藏"
+            "value": "Water Treasure"
         },
         {
             "key": "ability.choice_ability_immunity.desc",
-            "value": "无法成为角色能力的目标。"
+            "value": "Cannot be targeted by character abilities"
         },
         {
             "key": "ability.choice_ability_immunity.title",
-            "value": "能力免疫"
+            "value": "Ability Immunity"
         },
         {
             "key": "ability.choice_fury.desc",
-            "value": "每回合可攻击两次"
+            "value": "Can attack twice per turn."
         },
         {
             "key": "ability.choice_fury.title",
-            "value": "狂怒"
+            "value": "Fury"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
-            "value": "不会成为法术牌的目标，也不会受到法术伤害。"
+            "value": "Cannot be targeted or damaged by spells cards."
         },
         {
             "key": "ability.choice_spell_immunity.title",
-            "value": "法术免疫"
+            "value": "Spell Immunity"
         },
         {
             "key": "ability.choice_taunt.desc",
-            "value": "你的其他角色不会被攻击"
+            "value": "Your other characters cannot be attacked."
         },
         {
             "key": "ability.choice_taunt.title",
-            "value": "嘲讽"
+            "value": "Taunt"
         },
         {
             "key": "ability.death_blue_draw.desc",
-            "value": "你拥有的水系生物死亡时抽一张牌"
+            "value": "When a Water creature you own dies, draw a card."
         },
         {
             "key": "ability.death_blue_draw.title",
-            "value": "抽牌"
+            "value": "Draw"
         },
         {
             "key": "ability.death_damage2_player.desc",
-            "value": "此生物死亡时，对敌方玩家造成 2 点伤害"
+            "value": "When this creature dies, deal damage to enemy player."
         },
         {
             "key": "ability.death_damage2_player.title",
-            "value": "死亡伤害"
+            "value": "Death Damage"
         },
         {
             "key": "ability.death_draw.desc",
-            "value": "此生物死亡时抽一张牌"
+            "value": "When this creature dies, draw a card."
         },
         {
             "key": "ability.death_draw.title",
-            "value": "抽牌"
+            "value": "Draw"
         },
         {
             "key": "ability.death_egg.desc",
-            "value": "此生物死亡时召唤一个菲拉蛋"
+            "value": "When this creatures dies, summon a Phyra egg."
         },
         {
             "key": "ability.death_egg.title",
-            "value": "召唤蛋"
+            "value": "Summon Egg"
         },
         {
             "key": "ability.death_heal2.desc",
-            "value": "此生物死亡时恢复2点生命值"
+            "value": "When this creatures dies, you restore 2 HP."
         },
         {
             "key": "ability.death_heal2.title",
-            "value": "治疗"
+            "value": "Heal"
         },
         {
             "key": "ability.death_heal3.desc",
-            "value": "此生物死亡时恢复3点生命值"
+            "value": "When this creatures dies, you restore 3 HP."
         },
         {
             "key": "ability.death_heal3.title",
-            "value": "治疗"
+            "value": "Heal"
         },
         {
             "key": "ability.death_other_draw.desc",
-            "value": "其他角色死亡时抽一张牌"
+            "value": "Whenever another character dies, draw a card."
         },
         {
             "key": "ability.death_other_draw.title",
-            "value": "吞食"
+            "value": "Eat"
         },
         {
             "key": "ability.death_other_draw2.desc",
-            "value": "其他角色死亡时抽2张牌"
+            "value": "Whenever another character dies, draw 2 cards."
         },
         {
             "key": "ability.death_other_draw2.title",
-            "value": "吞食"
+            "value": "Eat"
         },
         {
             "key": "ability.death_summon_twii.desc",
-            "value": "当该生物死亡时，召唤一只特维。"
+            "value": "When this creatures dies, summon a Twii."
         },
         {
             "key": "ability.death_summon_twii.title",
-            "value": "召唤特维"
+            "value": "Summon Twii"
         },
         {
             "key": "ability.deathtouch.desc",
-            "value": "对造成的任何伤害杀死生物"
+            "value": "Kill any creature it damages."
         },
         {
             "key": "ability.deathtouch.title",
-            "value": "致死一击"
+            "value": "Deathtouch"
         },
         {
             "key": "ability.defend_discard.desc",
-            "value": "被攻击时对手必须丢弃1张随机牌"
+            "value": "When attacked, opponent must discard 1 random card."
         },
         {
             "key": "ability.defend_discard.title",
-            "value": "潜伏"
+            "value": "Submerged"
         },
         {
             "key": "ability.defend_draw1.desc",
-            "value": "当该角色被攻击时，抽一张牌。"
+            "value": "When this character is attacked draw a card."
         },
         {
             "key": "ability.defend_draw1.title",
-            "value": "抽牌"
+            "value": "Draw"
         },
         {
             "key": "ability.defense_attack3.desc",
-            "value": "对手回合期间+3攻击力"
+            "value": "Has +3 attack during the opponent's turn."
         },
         {
             "key": "ability.defense_attack3.title",
-            "value": "防御"
+            "value": "Defense"
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "在对手回合拥有+3攻击力。"
+            "value": "Has +3 attack during the opponent's turn."
         },
         {
             "key": "ability.defense_attack5.title",
-            "value": "防御"
+            "value": "Defense"
         },
         {
             "key": "ability.discard_add_attack1.desc",
-            "value": "对手被迫丢弃时每次获得+1攻击力"
+            "value": "Each time the opponent is forced to discard gain +1 attack."
         },
         {
             "key": "ability.discard_add_attack1.title",
-            "value": "丢弃增益"
+            "value": "Discard Gain"
         },
         {
             "key": "ability.egg_growth.desc",
-            "value": "3回合后转化为菲拉"
+            "value": "After 3 turns, transforms into a Phyra."
         },
         {
             "key": "ability.egg_growth.title",
-            "value": "蛋"
+            "value": "Egg"
         },
         {
             "key": "ability.egg_transform.desc",
-            "value": "3回合后转化为菲拉"
+            "value": "After 3 turns, transforms into a Phyra."
         },
         {
             "key": "ability.egg_transform.title",
-            "value": "菲拉转化"
+            "value": "Transform Phyra"
         },
         {
             "key": "ability.equip_armor2.desc",
-            "value": "持有者+2护甲"
+            "value": "Bearer has +2 armor."
         },
         {
             "key": "ability.equip_armor2.title",
-            "value": "护甲"
+            "value": "Armor"
         },
         {
             "key": "ability.equip_attack_no_damage.desc",
-            "value": "攻击时目标不反击"
+            "value": "When attacking, target does not counter-attack."
         },
         {
             "key": "ability.equip_attack_no_damage.title",
-            "value": "威吓"
+            "value": "Intimidate"
         },
         {
             "key": "ability.equip_attack_use.desc",
-            "value": "每次攻击后损失1耐久度"
+            "value": "Loses 1 durability after each attack."
         },
         {
             "key": "ability.equip_attack_use.title",
-            "value": "剑"
+            "value": "Sword"
         },
         {
             "key": "ability.equip_attack1.desc",
-            "value": "持有者+1攻击力"
+            "value": "Bearer has +1 attack."
         },
         {
             "key": "ability.equip_attack1.title",
-            "value": "攻击"
+            "value": "Attack"
         },
         {
             "key": "ability.equip_attack2.desc",
-            "value": "持有者+2攻击力"
+            "value": "Bearer has +2 attack."
         },
         {
             "key": "ability.equip_attack2.title",
-            "value": "攻击"
+            "value": "Attack"
         },
         {
             "key": "ability.equip_defend_use.desc",
-            "value": "被攻击时损失1耐久度"
+            "value": "Loses 1 durability when attacked."
         },
         {
             "key": "ability.equip_defend_use.title",
-            "value": "盾牌"
+            "value": "Shield"
         },
         {
             "key": "ability.equip_gain_mana.desc",
-            "value": "接下来3回合每回合额外获得2法力"
+            "value": "Gain 2 extra mana per turn for the next 3 turns."
         },
         {
             "key": "ability.equip_gain_mana.title",
-            "value": "法力戒指"
+            "value": "Mana Ring"
         },
         {
             "key": "ability.equip_mana_kill.desc",
-            "value": "持有者杀死一张牌时获得3法力"
+            "value": "When the bearer kills a card, gain 3 mana."
         },
         {
             "key": "ability.equip_mana_kill.title",
-            "value": "法力戒指"
+            "value": "Mana Ring"
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "接下来3回合每回合额外获得2法力"
+            "value": "Gain 2 extra mana per turn for the next 3 turns."
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "法力戒指"
+            "value": "Mana Ring"
         },
         {
             "key": "ability.equip_taunt.desc",
-            "value": "持有者获得嘲讽"
+            "value": "Bearer has taunt."
         },
         {
             "key": "ability.equip_taunt.title",
-            "value": "嘲讽"
+            "value": "Taunt"
         },
         {
             "key": "ability.equip_turn_use.desc",
-            "value": "每回合后损失1耐久度"
+            "value": "Loses 1 durability after each turn."
         },
         {
             "key": "ability.flying.desc",
-            "value": "可忽略嘲讽"
+            "value": "Can ignore Taunt."
         },
         {
             "key": "ability.flying.title",
-            "value": "飞行"
+            "value": "Flying"
         },
         {
             "key": "ability.fury.desc",
-            "value": "每回合可攻击两次"
+            "value": "Can attack twice per turn."
         },
         {
             "key": "ability.fury.title",
-            "value": "狂怒"
+            "value": "Fury"
         },
         {
             "key": "ability.ghost.desc",
-            "value": "攻击时不承受伤害"
+            "value": "Do not take damage when attacking."
         },
         {
             "key": "ability.ghost.title",
-            "value": "幽灵"
+            "value": "Ghost"
         },
         {
             "key": "ability.haste.desc",
-            "value": "可以立即发动攻击。"
+            "value": "Can attack immediately."
         },
         {
             "key": "ability.haste.title",
-            "value": "急速"
+            "value": "Haste"
         },
         {
             "key": "ability.kill_draw1.desc",
-            "value": "用该生物消灭另一名角色时，抽1张牌。"
+            "value": "When you kill another character with this creature, draw 1 card."
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "抽牌"
+            "value": "Draw"
         },
         {
             "key": "ability.kill_draw2.desc",
-            "value": "用此生物杀死其他角色时抽2张牌"
+            "value": "When you kill another character with this creature, draw 2 cards."
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "抽牌"
+            "value": "Draw"
         },
         {
             "key": "ability.lifesteal.desc",
-            "value": "造成伤害时治疗玩家"
+            "value": "Heal player when dealing damage."
         },
         {
             "key": "ability.lifesteal.title",
-            "value": "生命窃取"
+            "value": "Life Steal"
         },
         {
             "key": "ability.location_mana_discount.desc",
-            "value": "相同元素类型的地点卡牌法力值减1"
+            "value": "Location cards of the same elemental type have a mana discount of 1. "
         },
         {
             "key": "ability.location_mana_discount.title",
-            "value": "地点光环"
+            "value": "Location Aura"
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
-            "value": "控制3法力值以下的敌方角色1回合。目标获得冲锋"
+            "value": "Take control of an enemy character with 3 or less mana for 1 turn. Target gains Rush."
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.desc",
-            "value": "控制敌方角色1回合并赋予冲锋"
+            "value": "Take control of an enemy character for 1 turn and give it rush"
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_any.desc",
-            "value": "控制敌方角色3回合，或直到其进化"
+            "value": "Take control of an enemy character for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_any.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_any_spell.desc",
-            "value": "获得一名敌方角色的控制权，持续3回合或直到其进化。"
+            "value": "Take control of an enemy character for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_any_spell.title",
-            "value": "心灵控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
-            "value": "控制4法力值以下的敌方角色3回合，或直到其进化"
+            "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.desc",
-            "value": "控制4法力值以下的敌方角色3回合，或直到其进化"
+            "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.desc",
-            "value": "获得一名攻击力为2的敌方角色的控制权，持续3回合，或直到其进化或离开场面。"
+            "value": "Take control of an enemy character with 2 attack for 3 turns, or until it evolves or leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.title",
-            "value": "心灵控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
-            "value": "控制3攻击力的敌方角色3回合，或直到其进化或离开牌面"
+            "value": "Take control of an enemy character with 3 attack for 3 turns, or until it evolves or leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.desc",
-            "value": "获得一名攻击力为5的敌方角色的控制权，持续2回合，或直到其进化或离开场面。"
+            "value": "Take control of an enemy character with 5 attack for 2 turns, or until it evolves or leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.title",
-            "value": "心灵控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.desc",
-            "value": "控制2法力值以下的敌方角色3回合，或直到其进化/离开游戏"
+            "value": "Take control of an enemy character with 2 mana or less cost for 3 turns, or until it evolves / leaves play"
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.desc",
-            "value": "控制3法力值以下的敌方角色3回合，或直到其进化/离开游戏"
+            "value": "Take control of an enemy character with 3 mana or less cost for 3 turns, or until it evolves / leaves play"
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.desc",
-            "value": "控制4法力值的敌方角色3回合，或直到其进化"
+            "value": "Take control of an enemy character with 4 mana cost for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.desc",
-            "value": "控制5法力值以上的敌方角色3回合，或直到其进化，或此牌离开牌面"
+            "value": "Take control of an enemy character with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.desc",
-            "value": "控制5法力值以上的敌方角色3回合，或直到其进化，或此牌离开牌面"
+            "value": "Take control of an enemy character with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.mind_control_ability_m5l.desc",
-            "value": "控制5法力值以下的敌方角色3回合，或直到其进化"
+            "value": "Take control of an enemy character with 5 or less mana cost for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_m5l.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.ongoing_cannot_attack.desc",
-            "value": "此怪物不能攻击敌方目标"
+            "value": "This monster cannot attack enemy targets. "
         },
         {
             "key": "ability.ongoing_cannot_attack.title",
-            "value": "无法攻击"
+            "value": "No Attack"
         },
         {
             "key": "ability.overkill.desc",
-            "value": "多余伤害治疗攻击者"
+            "value": "Excess damage heals attacker."
         },
         {
             "key": "ability.overkill.title",
-            "value": "过载"
+            "value": "Overkill"
         },
         {
             "key": "ability.play_boost_hp_1.desc",
-            "value": "出牌时，为另一生物赋予下回合前+2生命值"
+            "value": "On play, give +2 HP to another creature until your next turn."
         },
         {
             "key": "ability.play_boost_hp_1.title",
-            "value": "生命祝福"
+            "value": "Bless HP"
         },
         {
             "key": "ability.play_boost2.desc",
-            "value": "出牌时，为另一生物赋予下回合前+2/+2"
+            "value": "On play, give +2/2 to another creature until your next turn."
         },
         {
             "key": "ability.play_boost2.title",
-            "value": "祝福"
+            "value": "Bless"
         },
         {
             "key": "ability.play_boost2_permanent.desc",
-            "value": "出场时，使另一名生物在你的下个回合前获得+2/+2。"
+            "value": "On play, give +2/2 to another creature until your next turn."
         },
         {
             "key": "ability.play_boost2_permanent.title",
-            "value": "祝福"
+            "value": "Bless"
         },
         {
             "key": "ability.play_boost3.desc",
-            "value": "出牌时，为另一生物赋予3回合+3/+3"
+            "value": "On play, give +3/3 to another creature for 3 turns"
         },
         {
             "key": "ability.play_boost3.title",
-            "value": "祝福"
+            "value": "Plant Blessing"
         },
         {
             "key": "ability.play_burn.desc",
-            "value": "目标角色获得灼烧状态，每回合失去2点生命值。"
+            "value": "Target character gains burn. They lose 2 hp each turn."
         },
         {
             "key": "ability.play_burn.title",
-            "value": "灼烧"
+            "value": "Burn"
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.desc",
-            "value": "获得法术免疫或能力免疫。"
+            "value": "Gain Spell or Ability Immunity"
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.title",
-            "value": "抉择"
+            "value": "Choice"
         },
         {
             "key": "ability.play_choice_taunt_fury.desc",
-            "value": "获得嘲讽或狂怒。"
+            "value": "Gain Taunt or Fury"
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
-            "value": "抉择"
+            "value": "Choice"
         },
         {
             "key": "ability.play_cure.desc",
-            "value": "登场时，治疗另一名角色，移除其所有负面状态。"
+            "value": "On play, heal another character of all negative status effects. "
         },
         {
             "key": "ability.play_cure.title",
-            "value": "治愈"
+            "value": "Cure"
         },
         {
             "key": "ability.play_cure_bless2.desc",
-            "value": "登场时，治疗另一名角色，移除其所有负面状态并使其获得+2生命值。"
+            "value": "On play, heal another character of all negative status effects and grant +2HP"
         },
         {
             "key": "ability.play_cure_bless2.title",
-            "value": "治愈祝福"
+            "value": "Cure Blessing"
         },
         {
             "key": "ability.play_curse.desc",
-            "value": "目标角色获得诅咒状态，每回合失去1点攻击力。"
+            "value": "Target character gains cursed. They lose 1 attack each turn."
         },
         {
             "key": "ability.play_curse.title",
-            "value": "诅咒"
+            "value": "Curse"
         },
         {
             "key": "ability.play_curse_all.desc",
-            "value": "登场时，使场上所有卡牌陷入诅咒。"
+            "value": "On play, curse all cards in play."
         },
         {
             "key": "ability.play_curse_all.title",
-            "value": "群体诅咒"
+            "value": "Curse All"
         },
         {
             "key": "ability.play_damage_all_players2.desc",
-            "value": "出场时，对双方玩家造成2点伤害。"
+            "value": "On play, deal 2 damage to both players."
         },
         {
             "key": "ability.play_damage_all_players2.title",
-            "value": "伤害"
+            "value": "Damage"
         },
         {
             "key": "ability.play_damage_all1.desc",
-            "value": "登场时，对其他所有卡牌造成1点伤害。"
+            "value": "On play, deal 1 damage to all other cards."
         },
         {
             "key": "ability.play_damage_all1.title",
-            "value": "全体伤害"
+            "value": "Damage All"
         },
         {
             "key": "ability.play_damage_all2.desc",
-            "value": "登场时，对其他所有卡牌造成2点伤害。"
+            "value": "On play, deal 2 damage to all other cards."
         },
         {
             "key": "ability.play_damage_all2.title",
-            "value": "伤害"
+            "value": "Damage"
         },
         {
             "key": "ability.play_damage_electric_all2.desc",
-            "value": "登场时，对敌方怪物造成2点伤害。"
+            "value": "On play, deal 2 damage to enemy monsters"
         },
         {
             "key": "ability.play_damage_electric_all2.title",
-            "value": "电击伤害"
+            "value": "Electric Damage"
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
-            "value": "出场时，对任意目标造成1点伤害。"
+            "value": "On play, deal 1 damage to any target."
         },
         {
             "key": "ability.play_deal_damage_cards_players2.title",
-            "value": "伤害"
+            "value": "Damage"
         },
         {
             "key": "ability.play_deal_damage1.desc",
-            "value": "登场时，对任意目标造成1点伤害。"
+            "value": "On play, deal 1 damage to any target."
         },
         {
             "key": "ability.play_deal_damage1.title",
-            "value": "伤害"
+            "value": "Damage"
         },
         {
             "key": "ability.play_deal_damage2.desc",
-            "value": "登场时，对任意目标造成2点伤害。"
+            "value": "On play, deal 2 damage to any target."
         },
         {
             "key": "ability.play_deal_damage2.title",
-            "value": "伤害"
+            "value": "Damage"
         },
         {
             "key": "ability.play_destroy_less2.desc",
-            "value": "登场时，摧毁一名攻击力不超过2的角色。若如此做，抽一张牌。"
+            "value": "On play, destroy a character with 2 or less attack. If you do, draw a card."
         },
         {
             "key": "ability.play_destroy_less2.title",
-            "value": "杀手"
+            "value": "Killer"
         },
         {
             "key": "ability.play_destroy_less3.desc",
-            "value": "登场时，摧毁一名攻击力不超过3的角色。若如此做，抽一张牌。"
+            "value": "On play, destroy a character with 3 or less attack. If you do, draw a card."
         },
         {
             "key": "ability.play_destroy_less3.title",
-            "value": "杀手"
+            "value": "Killer"
         },
         {
             "key": "ability.play_destroy_less4.desc",
-            "value": "登场时，摧毁一名攻击力不超过3的角色。"
+            "value": "On play, destroy a character with 3 or less attack."
         },
         {
             "key": "ability.play_destroy_less4.title",
-            "value": "杀手"
+            "value": "Killer"
         },
         {
             "key": "ability.play_discard.desc",
-            "value": "令对手随机弃掉一张手牌。"
+            "value": "Opponent discards a random card from their hand."
         },
         {
             "key": "ability.play_discard.title",
-            "value": "弃牌"
+            "value": "Discard"
         },
         {
             "key": "ability.play_discard_draw.desc",
-            "value": "随机弃掉你手牌中的一张牌，然后抽两张牌。"
+            "value": "Discard a random card from player's hand and draw two new cards."
         },
         {
             "key": "ability.play_discard_draw.title",
-            "value": "豪赌"
+            "value": "Gamble"
         },
         {
             "key": "ability.play_discard3.desc",
-            "value": "令对手随机弃掉3张手牌。"
+            "value": "Opponent discards 3 random cards from their hand."
         },
         {
             "key": "ability.play_discard3.title",
-            "value": "弃牌"
+            "value": "Discard"
         },
         {
             "key": "ability.play_draw.desc",
-            "value": "抽一张牌"
+            "value": "Draw a card"
         },
         {
             "key": "ability.play_draw.title",
-            "value": "抽牌"
+            "value": "Draw"
         },
         {
             "key": "ability.play_enemy_discard.desc",
-            "value": "令对手随机弃掉一张手牌。"
+            "value": "Opponent discard a random card from their hand."
         },
         {
             "key": "ability.play_enemy_discard.title",
-            "value": "弃牌"
+            "value": "Discard"
         },
         {
             "key": "ability.play_freeze.desc",
-            "value": "使目标角色冻结1个回合。"
+            "value": "Target character becomes frozen for 1 turn."
         },
         {
             "key": "ability.play_freeze.title",
-            "value": "冻结"
+            "value": "Freeze"
         },
         {
             "key": "ability.play_gain_rush_ice_location.desc",
-            "value": "若场上有冰系场地，则获得突袭。突袭允许你在出牌的同一回合攻击其他卡牌。"
+            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
         },
         {
             "key": "ability.play_gain_rush_ice_location.title",
-            "value": "雪地突袭"
+            "value": "Slush Rush"
         },
         {
             "key": "ability.play_heal_player2.desc",
-            "value": "登场时，为玩家恢复4点生命值。"
+            "value": "On play, heal the player for 4 HP"
         },
         {
             "key": "ability.play_heal_player2.title",
-            "value": "玩家祝福"
+            "value": "Player Blessing"
         },
         {
             "key": "ability.play_heal_player4.desc",
-            "value": "登场时，为玩家恢复4点生命值。"
+            "value": "On play, heal the player for 4 HP"
         },
         {
             "key": "ability.play_heal_player4.title",
-            "value": "玩家祝福"
+            "value": "Player Blessing"
         },
         {
             "key": "ability.play_other_sacrifice.desc",
-            "value": "当另一名友方生物入场时，摧毁此牌。"
+            "value": "When an allied creature enter play, destroy this card."
         },
         {
             "key": "ability.play_other_sacrifice.title",
-            "value": "灭绝"
+            "value": "Extinction"
         },
         {
             "key": "ability.play_poison.desc",
-            "value": "目标角色获得中毒状态，每回合失去1点生命值。"
+            "value": "Target character gains poison. They lose 1 hp each turn."
         },
         {
             "key": "ability.play_poison.title",
-            "value": "中毒"
+            "value": "Poison"
         },
         {
             "key": "ability.play_poison_all.desc",
-            "value": "登场时，使场上所有卡牌中毒。"
+            "value": "On play, poison all cards in play."
         },
         {
             "key": "ability.play_poison_all.title",
-            "value": "群体中毒"
+            "value": "Poison All"
         },
         {
             "key": "ability.play_poison_all_enemies.desc",
-            "value": "出场时，使战场上所有敌人中毒。"
+            "value": "On play, poison all enemies in play."
         },
         {
             "key": "ability.play_poison_all_enemies.title",
-            "value": "敌方中毒"
+            "value": "Poison Enemies"
         },
         {
             "key": "ability.play_return_target_hand.desc",
-            "value": "将任意目标返回其拥有者的手牌。"
+            "value": "Return any target to owner's hand."
         },
         {
             "key": "ability.play_return_target_hand.title",
-            "value": "弹回"
+            "value": "Bounce"
         },
         {
             "key": "ability.play_roll_attack.desc",
-            "value": "掷一次六面骰，本牌的攻击力提升等同于点数。"
+            "value": "Roll a D6, increase this card's attack by the result."
         },
         {
             "key": "ability.play_roll_attack.title",
-            "value": "随机攻击"
+            "value": "Random Attack."
         },
         {
             "key": "ability.play_select_discard_any.desc",
-            "value": "出场时，将你墓地中的一张牌返回手牌。"
+            "value": "On play, return a card from your graveyard to your hand."
         },
         {
             "key": "ability.play_select_discard_any.title",
-            "value": "深挖"
+            "value": "Deep Dig"
         },
         {
             "key": "ability.play_select_discard_character.desc",
-            "value": "出场时，将你墓地中的一名角色返回手牌。"
+            "value": "On play, return a character from your graveyard to your hand."
         },
         {
             "key": "ability.play_select_discard_character.title",
-            "value": "挖掘"
+            "value": "Dig"
         },
         {
             "key": "ability.play_send_hand.desc",
-            "value": "登场时，将一个角色返回其拥有者的手牌。"
+            "value": "On Play, return a character to its owner's hand."
         },
         {
             "key": "ability.play_send_hand.title",
-            "value": "回手"
+            "value": "Bounce"
         },
         {
             "key": "ability.play_set_attack1.desc",
-            "value": "登场时，将所选目标的攻击力降至1。"
+            "value": "On play, selected target's attack is reduced to 1."
         },
         {
             "key": "ability.play_set_attack1.title",
-            "value": "电击"
+            "value": "Electrify"
         },
         {
             "key": "ability.play_set_attack3.desc",
-            "value": "登场时，将所选目标的攻击力设为3。"
+            "value": "On play, selected target's attack is set to 3."
         },
         {
             "key": "ability.play_set_attack3.title",
-            "value": "心灵术"
+            "value": "Psychic"
         },
         {
             "key": "ability.play_silence.desc",
-            "value": "目标的能力被取消。"
+            "value": "Target abilities are canceled."
         },
         {
             "key": "ability.play_silence.title",
-            "value": "沉默"
+            "value": "Silence"
         },
         {
             "key": "ability.play_silence_curse.desc",
-            "value": "目标的能力被取消，并陷入诅咒。"
+            "value": "Target abilities are canceled and monster is cursed"
         },
         {
             "key": "ability.play_silence_curse.title",
-            "value": "沉默诅咒"
+            "value": "Silenced Curse"
         },
         {
             "key": "ability.play_suffer.desc",
-            "value": "令目标生物获得“在攻击前先承受3点伤害”。"
+            "value": "Target creature gains \"Suffer 3 damage before attacking\"."
         },
         {
             "key": "ability.play_suffer.title",
-            "value": "地裂"
+            "value": "Ground Split"
         },
         {
             "key": "ability.play_summon_cat.desc",
-            "value": "登场时，在相邻的空位召唤一只1/1小美洲虎。"
+            "value": "On play, summon a 1/1 baby Jagur cat on an adjacent empty slot."
         },
         {
             "key": "ability.play_summon_cat.title",
-            "value": "召唤美洲虎"
+            "value": "Summon Jagur"
         },
         {
             "key": "ability.play_summon_fractail.desc",
-            "value": "登场时，在相邻的空位召唤一只小蜥蜴。"
+            "value": "On play, summon a baby Lizo on an adjacent empty slot."
         },
         {
             "key": "ability.play_summon_fractail.title",
-            "value": "召唤蜥蜴"
+            "value": "Summon Lizo"
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "死亡时，召唤一只哈吉子。"
+            "value": "On death summon a Hajiko"
         },
         {
             "key": "ability.play_summon_hajiko.title",
-            "value": "召唤哈吉子"
+            "value": "Summon Hajiko"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
-            "value": "登场时，选择一名法力消耗不超过2的目标角色，使其转换阵营。"
+            "value": "On play, select a target character with a mana cost of 2 or less to switch sides"
         },
         {
             "key": "ability.play_switch_sides_2ml.title",
-            "value": "忠诚转换"
+            "value": "Loyalty Swap"
         },
         {
             "key": "ability.play_switch_sides_any.desc",
-            "value": "登场时，选择场上的任意角色，将其转交给另一名玩家。"
+            "value": "On play, select any character on the board and send them to the other player."
         },
         {
             "key": "ability.play_switch_sides_any.title",
-            "value": "忠诚转换"
+            "value": "Loyalty Swap"
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
-            "value": "登场时，选择场上的任意角色，将其转交给另一名玩家。"
+            "value": "On play, select any character on the board and send them to the other player."
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.title",
-            "value": "忠诚转换"
+            "value": "Loyalty Swap"
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.desc",
-            "value": "登场时，选择你操控的一名角色，将其交给另一名玩家。"
+            "value": "On play, select a character under your control, and send them to the other player."
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.title",
-            "value": "忠诚转换"
+            "value": "Loyalty Swap"
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.desc",
-            "value": "登场时，选择你操控的一名角色，将其交给另一名玩家，并赋予其“每回合从手牌弃掉2张牌”。"
+            "value": "On play, select a character under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.title",
-            "value": "忠诚转换"
+            "value": "Loyalty Swap"
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
-            "value": "登场时，选择你操控的一名角色，将其交给另一名玩家，并赋予其“每回合从手牌弃掉2张牌”。"
+            "value": "On play, select a character under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
-            "value": "忠诚转换"
+            "value": "Loyalty Swap"
         },
         {
             "key": "ability.regen_all.desc",
-            "value": "在你的回合开始时，此生物完全恢复生命。"
+            "value": "At the start of your turn, this creature fully heal."
         },
         {
             "key": "ability.regen_all.title",
-            "value": "再生"
+            "value": "Regeneration"
         },
         {
             "key": "ability.regen3.desc",
-            "value": "在你的回合开始时，恢复3点生命值。"
+            "value": "At the start of your turn, heal 3 hp."
         },
         {
             "key": "ability.regen3.title",
-            "value": "再生"
+            "value": "Regeneration"
         },
         {
             "key": "ability.rush.desc",
-            "value": "可以立即发动攻击，但在本回合内不能以敌方玩家为目标。"
+            "value": "Can attack immediately, but cannot target the enemy player on the turn it's played."
         },
         {
             "key": "ability.rush.title",
-            "value": "突袭"
+            "value": "Rush"
         },
         {
             "key": "ability.secret_return_hand.desc",
-            "value": "当下一只敌方生物被打出时，将其返回其拥有者的手牌。"
+            "value": "When the next enemy creature is played, return them back to the hand."
         },
         {
             "key": "ability.secret_return_hand.title",
-            "value": "念力"
+            "value": "Telekinesis"
         },
         {
             "key": "ability.secret_silence.desc",
-            "value": "清除被陷阱困住角色的所有能力。"
+            "value": "Clear any abilities from trapped character"
         },
         {
             "key": "ability.secret_silence.title",
-            "value": "沉默"
+            "value": "Silence"
         },
         {
             "key": "ability.secret_transform_fish.desc",
-            "value": "当下一只敌方生物被打出时，将其变为1/1的鱼。"
+            "value": "When the next enemy creature is played, transform it into a 1/1 fish."
         },
         {
             "key": "ability.secret_transform_fish.title",
-            "value": "化为鱼"
+            "value": "Transform to Fish"
         },
         {
             "key": "ability.shell.desc",
-            "value": "首次命中时不承受伤害"
+            "value": "On the first hit, takes no damage."
         },
         {
             "key": "ability.shell.title",
-            "value": "壳"
+            "value": "Shell"
         },
         {
             "key": "ability.spell_add_attack_suffer.desc",
-            "value": "目标生物获得\"攻击前承受3点伤害\""
+            "value": "Target creature gains \"Suffer 3 damage before attacking\"."
         },
         {
             "key": "ability.spell_add_attack_suffer.title",
-            "value": "苦痛诅咒"
+            "value": "Curse of Suffering"
         },
         {
             "key": "ability.spell_add_play_extinct.desc",
-            "value": "目标牌获得\"当盟友生物入场时，摧毁此牌\""
+            "value": "Target card gains \"When an allied creature enter play, destroy this card\"."
         },
         {
             "key": "ability.spell_add_play_extinct.title",
-            "value": "灭绝"
+            "value": "Extinct"
         },
         {
             "key": "ability.spell_add_submerge.desc",
-            "value": "目标牌获得\"被攻击时，对手必须丢弃1张随机牌\""
+            "value": "Target card gains \"When attacked, opponent must discard 1 random card\"."
         },
         {
             "key": "ability.spell_add_submerge.title",
-            "value": "归还"
+            "value": "Return"
         },
         {
             "key": "ability.spell_ally_attack_2.desc",
-            "value": "所有盟友角色获得+2/+2"
+            "value": "All allied characters gain +2/2"
         },
         {
             "key": "ability.spell_ally_attack_2.title",
-            "value": "成长"
+            "value": "Growth"
         },
         {
             "key": "ability.spell_ally_plant_attack_2.desc",
-            "value": "所有盟友角色获得+2/+2"
+            "value": "All allied characters gain +2/2"
         },
         {
             "key": "ability.spell_ally_plant_attack_2.title",
-            "value": "成长"
+            "value": "Growth"
         },
         {
             "key": "ability.spell_armor2.desc",
-            "value": "目标获得2护甲，减少来自角色的直接伤害2点"
+            "value": "Target gains armor 2 reducing direct damage from characters by 2."
         },
         {
             "key": "ability.spell_armor2.title",
-            "value": "护甲+2"
+            "value": "Armor +2"
         },
         {
             "key": "ability.spell_attack1.desc",
-            "value": "目标获得1攻击力"
+            "value": "Target gains 1 attack."
         },
         {
             "key": "ability.spell_attack1.title",
-            "value": "攻击+1"
+            "value": "Attack +1"
         },
         {
             "key": "ability.spell_coin.desc",
-            "value": "本回合获得1法力"
+            "value": "Gain 1 mana this turn."
         },
         {
             "key": "ability.spell_coin.title",
-            "value": "金币"
+            "value": "Coin"
         },
         {
             "key": "ability.spell_cure_2_2.desc",
-            "value": "目标永久获得+2/+2并解除所有负面状态。"
+            "value": "Target gains +2/+2 permanently and cures any negative status effects."
         },
         {
             "key": "ability.spell_cure_2_2.title",
-            "value": "治愈强化"
+            "value": "Cure Boost"
         },
         {
             "key": "ability.spell_damage_per_hand.desc",
-            "value": "牌面所有角色的生命值降至1"
+            "value": "The hp of all characters on the board is lowered to 1."
         },
         {
             "key": "ability.spell_damage_per_hand.title",
-            "value": "洪水"
+            "value": "Flood"
         },
         {
             "key": "ability.spell_damage1.desc",
-            "value": "造成1点伤害"
+            "value": "Deal 1 damage."
         },
         {
             "key": "ability.spell_damage1.title",
-            "value": "伤害"
+            "value": "Damage"
         },
         {
             "key": "ability.spell_damage3.desc",
-            "value": "造成3点伤害"
+            "value": "Deal 3 damage."
         },
         {
             "key": "ability.spell_damage3.title",
-            "value": "伤害"
+            "value": "Damage"
         },
         {
             "key": "ability.spell_destroy.desc",
-            "value": "摧毁目标角色或位置"
+            "value": "Destroy target character or location."
         },
         {
             "key": "ability.spell_destroy.title",
-            "value": "摧毁"
+            "value": "Destroy"
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "摧毁牌面所有生物"
+            "value": "Destroy all creatures on the board"
         },
         {
             "key": "ability.spell_destroy_all.title",
-            "value": "世界末日"
+            "value": "Armageddon"
         },
         {
             "key": "ability.spell_destroy_frozen_all.desc",
-            "value": "摧毁牌面所有冻结牌"
+            "value": "Destroy all frozen cards on board"
         },
         {
             "key": "ability.spell_destroy_frozen_all.title",
-            "value": "冻结波"
+            "value": "Frozen Wave"
         },
         {
             "key": "ability.spell_destroy_locations.desc",
-            "value": "摧毁牌面所有位置"
+            "value": "Destroy all locations on the board"
         },
         {
             "key": "ability.spell_destroy_locations.title",
-            "value": "山崩"
+            "value": "Landslide"
         },
         {
             "key": "ability.spell_dragon_summon.desc",
-            "value": "从牌库中选择一个龙并召唤到手牌"
+            "value": "Select a dragon from your deck to summon into your hand."
         },
         {
             "key": "ability.spell_dragon_summon.title",
-            "value": "发现龙"
+            "value": "Discover Dragon"
         },
         {
             "key": "ability.spell_draw1.desc",
-            "value": "抽1张牌"
+            "value": "Draw 1 card."
         },
         {
             "key": "ability.spell_draw1.title",
-            "value": "抽牌"
+            "value": "Draw"
         },
         {
             "key": "ability.spell_draw2.desc",
-            "value": "抽2张牌。"
+            "value": "Draw 2 card."
         },
         {
             "key": "ability.spell_draw2.title",
-            "value": "抽牌"
+            "value": "Draw"
         },
         {
             "key": "ability.spell_electric_ally.desc",
-            "value": "查看牌库接下来的7张牌，将1张电系怪物加入手牌"
+            "value": "Look at the next 7 cards in your deck, and take 1 Electric Monster into your hand."
         },
         {
             "key": "ability.spell_electric_ally.title",
-            "value": "电系盟友"
+            "value": "Electric Ally"
         },
         {
             "key": "ability.spell_electric_attack_2.desc",
-            "value": "所有电系怪物获得+2攻击力"
+            "value": "All Electric monsters gain +2 attack"
         },
         {
             "key": "ability.spell_freeze.desc",
-            "value": "冻结目标1回合"
+            "value": "Freeze target  for 1 turn."
         },
         {
             "key": "ability.spell_freeze.title",
-            "value": "冻结"
+            "value": "Freeze"
         },
         {
             "key": "ability.spell_fury.desc",
-            "value": "目标角色获得狂怒。每回合可攻击两次"
+            "value": "Target character gains Fury. It can attack twice per turn."
         },
         {
             "key": "ability.spell_fury.title",
-            "value": "狂怒"
+            "value": "Fury"
         },
         {
             "key": "ability.spell_haste.desc",
-            "value": "目标角色获得急速。可立即攻击"
+            "value": "Target character gains Haste. It can attack immediately."
         },
         {
             "key": "ability.spell_haste.title",
-            "value": "急速"
+            "value": "Haste"
         },
         {
             "key": "ability.spell_heal_full.desc",
-            "value": "目标牌完全治疗"
+            "value": "Target card is fully healed."
         },
         {
             "key": "ability.spell_heal_full.title",
-            "value": "治疗"
+            "value": "Heal"
         },
         {
             "key": "ability.spell_hibernate.desc",
-            "value": "目标角色获得+4/+4并进入睡眠2回合"
+            "value": "Target character gains +4/4 and goes to sleep for the next 2 turns."
         },
         {
             "key": "ability.spell_hibernate.title",
-            "value": "冬眠"
+            "value": "Hibernate"
         },
         {
             "key": "ability.spell_hp2.desc",
-            "value": "目标获得2生命值"
+            "value": "Target gains 2 hp."
         },
         {
             "key": "ability.spell_hp2.title",
-            "value": "生命+2"
+            "value": "Hp +2"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
-            "value": "查看牌库接下来的7张牌，将1张冰系牌加入手牌"
+            "value": "Look at the next 7 cards in your deck, and take 1 ice card into your hand."
         },
         {
             "key": "ability.spell_ice_treasure.title",
-            "value": "冰之宝藏"
+            "value": "Ice Treasure"
         },
         {
             "key": "ability.spell_immunity.desc",
-            "value": "不能被法术牌针对或伤害"
+            "value": "Cannot be targeted or damaged by spells cards."
         },
         {
             "key": "ability.spell_immunity.title",
-            "value": "法术免疫"
+            "value": "Spell Immunity"
         },
         {
             "key": "ability.spell_kill_lowest_hp.desc",
-            "value": "杀死场上生命值最低的角色（包括你的）"
+            "value": "Kill the character in play with the lowest hp (including yours)."
         },
         {
             "key": "ability.spell_kill_lowest_hp.title",
-            "value": "踩踏"
+            "value": "Stomp"
         },
         {
             "key": "ability.spell_paralyse.desc",
-            "value": "麻痹目标角色3回合"
+            "value": "Paralyse target character for 3 turns."
         },
         {
             "key": "ability.spell_paralyse.title",
-            "value": "麻痹"
+            "value": "Paralyse"
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "对随机敌方牌造成1点伤害，重复相应次数。"
+            "value": "Deal 1 damage to a random enemy card.\nRepeat X times."
         },
         {
             "key": "ability.spell_projectile1_repeat.title",
-            "value": "投射物"
+            "value": "Projectiles"
         },
         {
             "key": "ability.spell_return_all.desc",
-            "value": "牌面所有牌返回拥有者手牌"
+            "value": "All cards on the board return to their owner's hand."
         },
         {
             "key": "ability.spell_return_all.title",
-            "value": "海洋风暴"
+            "value": "Sea Storm"
         },
         {
             "key": "ability.spell_send_hand_any.desc",
-            "value": "将任意已出牌目标返回拥有者手牌"
+            "value": "Return any played target to its owner's hand."
         },
         {
             "key": "ability.spell_send_hand_any.title",
-            "value": "任意手牌返回"
+            "value": "Return Hand Any"
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.desc",
-            "value": "将任意已出牌目标返回拥有者手牌"
+            "value": "Return any played target to its owner's hand."
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.title",
-            "value": "任意手牌返回"
+            "value": "Return Hand Any"
         },
         {
             "key": "ability.spell_send_hand_enemy.desc",
-            "value": "将目标返回拥有者手牌"
+            "value": "Return target to its owner's hand."
         },
         {
             "key": "ability.spell_send_hand_enemy.title",
-            "value": "手牌返回"
+            "value": "Return Hand"
         },
         {
             "key": "ability.spell_set_hp_attack_1.desc",
-            "value": "牌面所有角色的生命值和攻击力降至1"
+            "value": "The hp and attack of all characters on the board is lowered to 1."
         },
         {
             "key": "ability.spell_set_hp_attack_1.title",
-            "value": "洪水"
+            "value": "Flood"
         },
         {
             "key": "ability.spell_set_hp_attack_3.desc",
-            "value": "牌面所有角色的生命值和攻击力设为1"
+            "value": "The hp and attack of all characters on the board is set to 1."
         },
         {
             "key": "ability.spell_set_hp_attack_3.title",
-            "value": "洪水"
+            "value": "Flood"
         },
         {
             "key": "ability.spell_shell.desc",
-            "value": "目标获得壳，下次命中忽略伤害"
+            "value": "Target gains shell, it ignores damage on the next hit."
         },
         {
             "key": "ability.spell_shell.title",
-            "value": "壳"
+            "value": "Shell"
         },
         {
             "key": "ability.spell_summon_hammi.desc",
-            "value": "将3个哈米召唤到手牌"
+            "value": "Summon three Hammi into your hand."
         },
         {
             "key": "ability.spell_summon_hammi.title",
-            "value": "哈米打击"
+            "value": "Hammi Strike"
         },
         {
             "key": "ability.spell_summon_lampi.desc",
-            "value": "将3个2/2兰皮召唤到手牌"
+            "value": "Summon three 2/2 Lampi into your hand."
         },
         {
             "key": "ability.spell_summon_lampi.title",
-            "value": "兰皮风暴"
+            "value": "Lampi Storm"
         },
         {
             "key": "ability.spell_summon_pyro.desc",
-            "value": "将3个1/1带蛋能力的皮拉召唤到手牌"
+            "value": "Summon three 1/1 Pyra with Egg abilities into your hand."
         },
         {
             "key": "ability.spell_summon_pyro.title",
-            "value": "空中打击"
+            "value": "Aerial Strike"
         },
         {
             "key": "ability.spell_taunt.desc",
-            "value": "目标角色获得嘲讽。你的其他角色不能被攻击"
+            "value": "Target character gains Taunt. Your other characters cannot be attacked."
         },
         {
             "key": "ability.spell_taunt.title",
-            "value": "嘲讽"
+            "value": "Taunt"
         },
         {
             "key": "ability.spell_water_treasure.desc",
-            "value": "查看牌库接下来的7张牌，将1张水系牌加入手牌"
+            "value": "Look at the next 7 cards in your deck, and take 1 water card into your hand."
         },
         {
             "key": "ability.spell_water_treasure.title",
-            "value": "水之宝藏"
+            "value": "Water Treasure"
         },
         {
             "key": "ability.stealth.desc",
-            "value": "直到执行行动前不能被针对或攻击"
+            "value": "Cannot be targeted or attacked until it performs an action."
         },
         {
             "key": "ability.stealth.title",
-            "value": "潜行"
+            "value": "Stealth"
         },
         {
             "key": "ability.taunt.desc",
-            "value": "你的其他角色不能被攻击"
+            "value": "Your other characters cannot be attacked."
         },
         {
             "key": "ability.taunt.title",
-            "value": "嘲讽"
+            "value": "Taunt"
         },
         {
             "key": "ability.taunt_flying.desc",
-            "value": "你的其他角色受到飞行怪物的保护"
+            "value": "Your other characters are protected by flying monsters."
         },
         {
             "key": "ability.taunt_flying.title",
-            "value": "射程"
+            "value": "Reach"
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "所有电系怪物法力值减2（包括敌人）"
+            "value": "All Electric monsters cost 2 mana less (includes enemies)"
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "电系光环"
+            "value": "Electric Aura"
         },
         {
             "key": "ability.town_aura_fire.desc",
-            "value": "所有盟友火系生物获得+2攻击力"
+            "value": "All allied Fire creatures gain +2 attack."
         },
         {
             "key": "ability.town_aura_fire.title",
-            "value": "火系光环"
+            "value": "Fire Aura"
         },
         {
             "key": "ability.town_aura_ice.desc",
-            "value": "所有盟友冰系生物获得+1攻击力和生命值"
+            "value": "All allied Ice creatures gain +1 attack and HP."
         },
         {
             "key": "ability.town_aura_ice.title",
-            "value": "冰系光环"
+            "value": "Ice Aura"
         },
         {
             "key": "ability.town_aura_plant.desc",
-            "value": "所有盟友植物角色获得+2生命值"
+            "value": "All allied Plant characters gain +2 hp."
         },
         {
             "key": "ability.town_aura_plant.title",
-            "value": "植物光环"
+            "value": "Plant Aura"
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.desc",
-            "value": "控制对手怪物时，对手随机丢弃一张牌"
+            "value": "When you take control of an opponent monster, opponent discards a random card. "
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.title",
-            "value": "精神光环丢弃"
+            "value": "Psychic Aura Discard"
         },
         {
             "key": "ability.town_aura_psychic_played_discard.desc",
-            "value": "出精神怪物时，对手随机丢弃一张牌"
+            "value": "When you play a psychic monster opponent discards a random card. "
         },
         {
             "key": "ability.town_aura_psychic_played_discard.title",
-            "value": "精神光环丢弃"
+            "value": "Psychic Aura Discard"
         },
         {
             "key": "ability.town_aura_rock.desc",
-            "value": "所有盟友岩石生物获得+2生命值"
+            "value": "All allied Rock creatures gain +2 HP."
         },
         {
             "key": "ability.town_aura_rock.title",
-            "value": "岩石光环"
+            "value": "Rock Aura"
         },
         {
             "key": "ability.town_aura_shadow.desc",
-            "value": "所有盟友阴影角色获得+2攻击力"
+            "value": "All allied Shadow characters gain +2 attack."
         },
         {
             "key": "ability.town_aura_shadow.title",
-            "value": "阴影光环"
+            "value": "Shadow Aura"
         },
         {
             "key": "ability.town_aura_water.desc",
-            "value": "所有盟友水系牌法力值减1"
+            "value": "All allied Water cards cost 1 less."
         },
         {
             "key": "ability.town_aura_water.title",
-            "value": "蓝色光环"
+            "value": "Blue Aura"
         },
         {
             "key": "ability.town_mystic_woods_psychic.desc",
-            "value": "所有盟友精神牌法力值减1"
+            "value": "All allied Psychic cards cost 1 less mana."
         },
         {
             "key": "ability.town_mystic_woods_psychic.title",
-            "value": "精神光环"
+            "value": "Psychic Aura"
         },
         {
             "key": "ability.trample.desc",
-            "value": "多余伤害对玩家生命值造成伤害"
+            "value": "Excess damage is dealt to player hp."
         },
         {
             "key": "ability.trample.title",
-            "value": "践踏"
+            "value": "Trample"
         },
         {
             "key": "ability.transform_to_discarded_card.desc",
-            "value": "如果对手丢弃角色牌，此角色变为该角色的复制"
+            "value": "If the opponent discards a character card, this character becomes a copy of that character"
         },
         {
             "key": "ability.transform_to_discarded_card.title",
-            "value": "墓地克隆"
+            "value": "Graveyard Clone"
         },
         {
             "key": "ability.trap_all_damage1.desc",
-            "value": "对敌人造成1点伤害。"
+            "value": "Damage enemies for 1 HP"
         },
         {
             "key": "ability.trap_all_damage1.title",
-            "value": "战场伤害"
+            "value": "Damage Board"
         },
         {
             "key": "ability.trap_damage_all2.desc",
-            "value": "敌方生物攻击时，对所有敌方生物造成2点伤害"
+            "value": "When an enemy creature attacks, damage all enemy creatures by 2."
         },
         {
             "key": "ability.trap_damage_all2.title",
-            "value": "伤害"
+            "value": "Damage"
         },
         {
             "key": "ability.trap_damage2.desc",
-            "value": "对攻击者造成2点生命伤害"
+            "value": "Damage attacker for 2 HP"
         },
         {
             "key": "ability.trap_damage2.title",
-            "value": "陷阱"
+            "value": "Trap"
         },
         {
             "key": "ability.trap_damage3.desc",
-            "value": "对攻击者造成3点生命伤害"
+            "value": "Damage attacker for 3 HP"
         },
         {
             "key": "ability.trap_damage3.title",
-            "value": "陷阱"
+            "value": "Trap"
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "在敌方生物攻击后，使其冻结2个回合。"
+            "value": "After an enemy creature attacks, freeze it for 2 turns."
         },
         {
             "key": "ability.trap_freeze.title",
-            "value": "冻结"
+            "value": "Frozen"
         },
         {
             "key": "ability.trap_heal4.desc",
-            "value": "当敌人攻击玩家时，恢复4点生命。"
+            "value": "When an enemy attacks the player, heal 4 HP."
         },
         {
             "key": "ability.trap_heal4.title",
-            "value": "加固"
+            "value": "Fortification"
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
-            "value": "敌方生物攻击后，精神控制其1回合并赋予嘲讽"
+            "value": "After an enemy creature attacks, Mind Control it for 1 turn and grant taunt"
         },
         {
             "key": "ability.trap_mind_control_taunt.title",
-            "value": "精神控制"
+            "value": "Mind Control"
         },
         {
             "key": "ability.trap_paralyse3.desc",
-            "value": "敌方生物攻击后，麻痹其3回合"
+            "value": "After an enemy creature attacks, paralyse it for 3 turns."
         },
         {
             "key": "ability.trap_paralyse3.title",
-            "value": "麻痹"
+            "value": "Paralysis"
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "在敌方生物攻击后，使其中毒。"
+            "value": "After an enemy creature attacks, poison it"
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "中毒"
+            "value": "Poison"
         },
         {
             "key": "ability.trap_shock.desc",
-            "value": "敌方生物攻击后，电击麻痹其1回合"
+            "value": "After an enemy creature attacks, shock paralyze it for 1 turn."
         },
         {
             "key": "ability.trap_shock.title",
-            "value": "电击麻痹"
+            "value": "Shock Paralyzed"
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "在敌方生物攻击后，使其感电麻痹1个回合。"
+            "value": "After an enemy creature attacks, shock paralyze it for 1 turn."
         },
         {
             "key": "ability.trap_shock_all.title",
-            "value": "感电麻痹"
+            "value": "Shock Paralyzed"
         },
         {
             "key": "ability.turn_add_armor1.desc",
-            "value": "每个回合开始时获得+1护甲"
+            "value": "At the start of each turn, gain +1 armor."
         },
         {
             "key": "ability.turn_add_armor1.title",
-            "value": "护甲"
+            "value": "Armor"
         },
         {
             "key": "ability.turn_add_armor2.desc",
-            "value": "每个回合开始时获得+2护甲"
+            "value": "At the start of each turn, gain +2 armor."
         },
         {
             "key": "ability.turn_add_armor2.title",
-            "value": "护甲"
+            "value": "Armor"
         },
         {
             "key": "ability.turn_add_attack1.desc",
-            "value": "每个回合开始时获得+1攻击力"
+            "value": "At the start of each turn, gain +1 attack."
         },
         {
             "key": "ability.turn_add_attack1.title",
-            "value": "狂暴"
+            "value": "Furious"
         },
         {
             "key": "ability.turn_add_attack2.desc",
-            "value": "每个回合开始时获得+2攻击力"
+            "value": "At the start of each turn, gain +2 attack."
         },
         {
             "key": "ability.turn_add_attack2.title",
-            "value": "狂暴"
+            "value": "Furious"
         },
         {
             "key": "ability.turn_add_draw.desc",
-            "value": "每个回合开始时抽1张牌"
+            "value": "At the start of each turn, draw 1 card"
         },
         {
             "key": "ability.turn_add_draw.title",
-            "value": "探险家"
+            "value": "Explorer"
         },
         {
             "key": "ability.turn_damage_allies1.desc",
-            "value": "每个回合开始时，对所有盟友角色造成1点伤害"
+            "value": "On the start of each turn, deal 1 damage to all ally characters"
         },
         {
             "key": "ability.turn_damage_allies1.title",
-            "value": "背叛伤害"
+            "value": "Betrayal Damage"
         },
         {
             "key": "ability.turn_damage_allies2.desc",
-            "value": "每个回合开始时，对所有盟友角色造成2点伤害"
+            "value": "On the start of each turn, deal 2 damage to all ally characters"
         },
         {
             "key": "ability.turn_damage_allies2.title",
-            "value": "背叛伤害"
+            "value": "Betrayal Damage"
         },
         {
             "key": "ability.turn_green_heal.desc",
-            "value": "每个回合开始时，所有盟友绿色生物和位置恢复3点"
+            "value": "At the start of each turn, all allied green creatures and locations heal by 3."
         },
         {
             "key": "ability.turn_green_heal.title",
-            "value": "绿色治疗"
+            "value": "Green Heal"
         },
         {
             "key": "ability.turn_kill_lowest.desc",
-            "value": "你的回合开始时，杀死场上攻击力最低的角色（包括你的）"
+            "value": "At the start of your turn, kill characters in play with the lowest attack (including yours)."
         },
         {
             "key": "ability.turn_kill_lowest.title",
-            "value": "收割者"
+            "value": "Reaper"
         },
         {
             "key": "ability.turn_own_discard2.desc",
-            "value": "玩家从手牌中丢弃2张随机牌"
+            "value": "Player discards 2 random cards from their hand."
         },
         {
             "key": "ability.turn_own_discard2.title",
-            "value": "丢弃"
+            "value": "Discard"
         },
         {
             "key": "ability.turn_shadow_add_attack1.desc",
-            "value": "每个回合开始时，所有阴影怪物获得+1攻击力"
+            "value": "At the start of each turn, all Shadow monsters gain +1 attack."
         },
         {
             "key": "ability.turn_shadow_add_attack1.title",
-            "value": "阴影加成"
+            "value": "Shadow Bonus"
         },
         {
             "key": "ability.turn_stealth.desc",
-            "value": "你的回合结束时，如果场上至少有一个其他角色，则进入潜行"
+            "value": "At the end of your turn, if you have at least one other character in play, go in stealth."
         },
         {
             "key": "ability.turn_stealth.title",
-            "value": "潜行"
+            "value": "Stealth"
         },
         {
             "key": "status.addhp.desc",
-            "value": "奖励生命值"
+            "value": "Bonus HP."
         },
         {
             "key": "status.addhp.title",
-            "value": "生命加成"
+            "value": "HP Bonus"
         },
         {
             "key": "status.addmanacost.desc",
-            "value": "法力值现在+1"
+            "value": "Mana cost is now +1"
         },
         {
             "key": "status.addmanacost.title",
-            "value": "精神消耗"
+            "value": "Mental Drain"
         },
         {
             "key": "status.armor.desc",
-            "value": "添加护甲"
+            "value": "Add Armor"
         },
         {
             "key": "status.armor.title",
-            "value": "护甲"
+            "value": "Armor"
         },
         {
             "key": "status.attacklossimmunity.desc",
-            "value": "保护角色的攻击力不被降低"
+            "value": "Protects character's attack from being reduced."
         },
         {
             "key": "status.attacklossimmunity.title",
-            "value": "攻击力损失免疫"
+            "value": "Attack Loss Immunity"
         },
         {
             "key": "status.burned.desc",
-            "value": "每回合损失2点生命值"
+            "value": "Each turn, will lose 2 hp."
         },
         {
             "key": "status.burned.title",
-            "value": "灼烧"
+            "value": "Burned"
         },
         {
             "key": "status.characterabilityimmunity.desc",
-            "value": "不能被角色能力针对"
+            "value": "Cannot be targeted by character abilities"
         },
         {
             "key": "status.characterabilityimmunity.title",
-            "value": "能力免疫"
+            "value": "Ability Immunity"
         },
         {
             "key": "status.cursed.desc",
-            "value": "每回合损失攻击力"
+            "value": "Each turn, will lose attack."
         },
         {
             "key": "status.cursed.title",
-            "value": "被诅咒"
+            "value": "Cursed"
         },
         {
             "key": "status.deathtouch.desc",
-            "value": "对造成的任何伤害杀死生物"
+            "value": "Kill any creature it damages."
         },
         {
             "key": "status.deathtouch.title",
-            "value": "致死一击"
+            "value": "Deathtouch"
         },
         {
             "key": "status.flying.desc",
-            "value": "忽略嘲讽"
+            "value": "Ignores Taunt."
         },
         {
             "key": "status.flying.title",
-            "value": "飞行"
+            "value": "Flying"
         },
         {
             "key": "status.frozen.desc",
-            "value": "1回合内不能执行任何行动"
+            "value": "Cannot perform any actions for 1 turn."
         },
         {
             "key": "status.frozen.title",
-            "value": "冻结"
+            "value": "Frozen"
         },
         {
             "key": "status.fury.desc",
-            "value": "每回合可攻击两次"
+            "value": "Can attack twice per turn"
         },
         {
             "key": "status.fury.title",
-            "value": "狂怒"
+            "value": "Fury"
         },
         {
             "key": "status.intimidate.desc",
-            "value": "攻击时目标不反击"
+            "value": "When attacking, target does not counter-attack."
         },
         {
             "key": "status.intimidate.title",
-            "value": "威吓"
+            "value": "Intimidate"
         },
         {
             "key": "status.invincibility.desc",
-            "value": "不能被摧毁"
+            "value": "Cannot be destroyed."
         },
         {
             "key": "status.invincibility.title",
-            "value": "无敌"
+            "value": "Invincible"
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "造成伤害时治疗自己"
+            "value": "Heal yourself when dealing damage."
         },
         {
             "key": "status.lifesteal.title",
-            "value": "生命窃取"
+            "value": "Life Steal"
         },
         {
             "key": "status.overkill.desc",
-            "value": "多余伤害治疗攻击者"
+            "value": "Excess damage heals attacker."
         },
         {
             "key": "status.overkill.title",
-            "value": "过载"
+            "value": "Overkill"
         },
         {
             "key": "status.paralysed.desc",
-            "value": "不能执行任何行动"
+            "value": "Cannot perform any actions."
         },
         {
             "key": "status.paralysed.title",
-            "value": "电击麻痹"
+            "value": "Shock Paralysed"
         },
         {
             "key": "status.poisoned.desc",
-            "value": "每回合损失生命值"
+            "value": "Each turn, will lose hp."
         },
         {
             "key": "status.poisoned.title",
-            "value": "中毒"
+            "value": "Poisoned"
         },
         {
             "key": "status.protected.desc",
-            "value": "不能被攻击。由嘲讽保护"
+            "value": "Cannot be attacked. Protected by Taunt."
         },
         {
             "key": "status.protected.title",
-            "value": "受保护"
+            "value": "Protected"
         },
         {
             "key": "status.protection.desc",
-            "value": "保护其他牌"
+            "value": "Protects other cards."
         },
         {
             "key": "status.protection.title",
-            "value": "嘲讽"
+            "value": "Taunt"
         },
         {
             "key": "status.protectionflying.desc",
-            "value": "保护其他牌免受飞行怪物伤害"
+            "value": "Protects other cards from flying monsters."
         },
         {
             "key": "status.protectionflying.title",
-            "value": "射程"
+            "value": "Reach"
         },
         {
             "key": "status.shell.desc",
-            "value": "首次命中时不承受伤害"
+            "value": "On the first hit, takes no damage."
         },
         {
             "key": "status.shell.title",
-            "value": "壳"
+            "value": "Shell"
         },
         {
             "key": "status.silenced.desc",
-            "value": "不能使用能力或进化"
+            "value": "Cannot use abilities or evolve."
         },
         {
             "key": "status.silenced.title",
-            "value": "沉默"
+            "value": "Silenced"
         },
         {
             "key": "status.sleep.desc",
-            "value": "1/3几率醒来。被攻击时移除"
+            "value": "1 in 3 chance to wake up. Removed if attacked."
         },
         {
             "key": "status.sleep.title",
-            "value": "睡眠"
+            "value": "Sleep"
         },
         {
             "key": "status.spellimmunity.desc",
-            "value": "不能被法术牌针对或伤害"
+            "value": "Cannot be targeted or damaged by spell cards"
         },
         {
             "key": "status.spellimmunity.title",
-            "value": "法术免疫"
+            "value": "Spell Immunity"
         },
         {
             "key": "status.stealth.desc",
-            "value": "不能被针对"
+            "value": "Cannot be targeted."
         },
         {
             "key": "status.stealth.title",
-            "value": "潜行"
+            "value": "Stealth"
         },
         {
             "key": "status.trample.desc",
-            "value": "额外伤害对玩家造成伤害"
+            "value": "Extra damage is dealt to player."
         },
         {
             "key": "status.trample.title",
-            "value": "践踏"
+            "value": "Trample"
         },
         {
             "key": "status.trapevasion.desc",
-            "value": "拥有此能力的怪物不触发陷阱"
+            "value": "Monsters with this ability do not trigger traps. "
         },
         {
             "key": "status.trapevasion.title",
-            "value": "陷阱闪避"
+            "value": "Trap Evasion"
         },
         {
             "key": "trait.cat.title",
-            "value": "猫"
+            "value": "Cat"
         },
         {
             "key": "trait.dragon.title",
-            "value": "龙"
+            "value": "Dragon"
         },
         {
             "key": "trait.evolution.title",
-            "value": "进化"
+            "value": "Evolution"
         },
         {
             "key": "trait.fish.title",
-            "value": "鱼"
+            "value": "Fish"
         },
         {
             "key": "trait.growth.title",
-            "value": "成长"
+            "value": "Growth"
         },
         {
             "key": "trait.mind_control_counter.title",
-            "value": "精神控制"
+            "value": "Mind Controlled"
         },
         {
             "key": "trait.mind_control_link.title",
-            "value": "精神控制链接"
+            "value": "Mind Control Link"
         },
         {
             "key": "trait.reptile.title",
-            "value": "爬行动物"
+            "value": "Reptile"
         },
         {
             "key": "trait.spell_damage.title",
-            "value": "法术伤害"
+            "value": "Spell Damage"
         }
     ]
 }

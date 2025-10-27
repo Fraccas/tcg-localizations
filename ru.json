@@ -34,7 +34,7 @@
         },
         {
             "key": "1000_xp",
-            "value": "1000 ОО"
+            "value": "1000 ОП"
         },
         {
             "key": "2",
@@ -54,7 +54,7 @@
         },
         {
             "key": "25_xp",
-            "value": "25 ОО"
+            "value": "25 ОП"
         },
         {
             "key": "250",
@@ -70,7 +70,7 @@
         },
         {
             "key": "30_xp",
-            "value": "30 ОО"
+            "value": "30 ОП"
         },
         {
             "key": "300",
@@ -86,7 +86,7 @@
         },
         {
             "key": "333_xp",
-            "value": "333 ОО"
+            "value": "333 ОП"
         },
         {
             "key": "3333",
@@ -102,7 +102,7 @@
         },
         {
             "key": "50_xp",
-            "value": "50 ОО"
+            "value": "50 ОП"
         },
         {
             "key": "500",
@@ -118,7 +118,7 @@
         },
         {
             "key": "55_guild_pts_70_coins_each_150_xp_each",
-            "value": "55 очков гильдии\n 70 монет каждая\n 150 ОО каждая"
+            "value": "55 очков гильдии\n70 монет за каждую\n150 ОП за каждую"
         },
         {
             "key": "60",
@@ -126,7 +126,7 @@
         },
         {
             "key": "75_xp",
-            "value": "75 ОО"
+            "value": "75 ОП"
         },
         {
             "key": "9",
@@ -150,19 +150,19 @@
         },
         {
             "key": "account",
-            "value": "учетная запись"
+            "value": "учётная запись"
         },
         {
             "key": "account_address",
-            "value": "Адрес учетной записи"
+            "value": "Адрес учётной записи"
         },
         {
             "key": "account_link",
-            "value": "СВЯЗЬ УЧЕТНОЙ ЗАПИСИ"
+            "value": "ПРИВЯЗКА АККАУНТА"
         },
         {
             "key": "account_recovery",
-            "value": "ВОССТАНОВЛЕНИЕ УЧЕТНОЙ ЗАПИСИ"
+            "value": "ВОССТАНОВЛЕНИЕ АККАУНТА"
         },
         {
             "key": "add",
@@ -194,7 +194,7 @@
         },
         {
             "key": "asstes_total",
-            "value": "ОБЩИЙ АКТИВОВ"
+            "value": "ВСЕГО АКТИВОВ"
         },
         {
             "key": "audio",
@@ -242,7 +242,7 @@
         },
         {
             "key": "built_with",
-            "value": "ПОСТРОЕНО С"
+            "value": "СОЗДАНО С ПОМОЩЬЮ"
         },
         {
             "key": "buy",
@@ -270,7 +270,7 @@
         },
         {
             "key": "card_artist",
-            "value": "ХУДОЖНИК КАРТ"
+            "value": "ХУДОЖНИК КАРТЫ"
         },
         {
             "key": "card_description",
@@ -282,15 +282,15 @@
         },
         {
             "key": "cardback",
-            "value": "ЛИЦЕВАЯ СТОРОНА КАРТЫ"
+            "value": "РУБАШКА КАРТЫ"
         },
         {
             "key": "cardbacks",
-            "value": "ЛИЦЕВЫЕ СТОРОНЫ КАРТ"
+            "value": "РУБАШКИ КАРТ"
         },
         {
             "key": "cards_owned",
-            "value": "КАРТЫ В СОБСТВЕННОСТИ"
+            "value": "КАРТЫ В КОЛЛЕКЦИИ"
         },
         {
             "key": "challenge",
@@ -318,11 +318,11 @@
         },
         {
             "key": "claim",
-            "value": "ЗАЯВИТЬ"
+            "value": "ЗАБРАТЬ"
         },
         {
             "key": "claim_all",
-            "value": "ЗАЯВИТЬ ВСЕ"
+            "value": "ЗАБРАТЬ ВСЁ"
         },
         {
             "key": "click_this_button_to_generate_your_code_and_join_discord",
@@ -330,7 +330,7 @@
         },
         {
             "key": "click_to_chat",
-            "value": "НАЖМИТЕ ДЛЯ ЧАТА"
+            "value": "НАЖМИТЕ, ЧТОБЫ ОТКРЫТЬ ЧАТ"
         },
         {
             "key": "client_outdated",
@@ -366,7 +366,7 @@
         },
         {
             "key": "community_guilds",
-            "value": "ОБЩИННЫЕ ГИЛЬДИИ"
+            "value": "ГИЛЬДИИ СООБЩЕСТВА"
         },
         {
             "key": "confirm",
@@ -438,7 +438,7 @@
         },
         {
             "key": "custom_player_decks",
-            "value": "ПЕРСОНАЛИЗИРОВАННЫЕ КОЛОДЫ ИГРОКОВ"
+            "value": "ПОЛЬЗОВАТЕЛЬСКИЕ КОЛОДЫ"
         },
         {
             "key": "customize",
@@ -562,11 +562,11 @@
         },
         {
             "key": "destroy_5_monsters_using_fire_team",
-            "value": "Уничтожьте 5 монстров с помощью команды Огня"
+            "value": "Уничтожьте 5 монстров командой Огня"
         },
         {
             "key": "detail",
-            "value": "ДЕТАЛЬ"
+            "value": "ДЕТАЛИ"
         },
         {
             "key": "dev_team",
@@ -650,11 +650,11 @@
         },
         {
             "key": "enter_your_email",
-            "value": "Введите вашу электронную почту"
+            "value": "Введите адрес электронной почты"
         },
         {
             "key": "entry_fee",
-            "value": "ВХОДНАЯ ПЛАТА"
+            "value": "ВСТУПИТЕЛЬНЫЙ ВЗНОС"
         },
         {
             "key": "equipment",
@@ -706,7 +706,7 @@
         },
         {
             "key": "forge",
-            "value": "КУЗНЕЧНОЕ ДЕЛО"
+            "value": "КУЗНИЦА"
         },
         {
             "key": "forgot_password",
@@ -734,7 +734,7 @@
         },
         {
             "key": "game_developer",
-            "value": "разработчик игры"
+            "value": "РАЗРАБОТЧИК ИГРЫ"
         },
         {
             "key": "glasses",
@@ -758,7 +758,7 @@
         },
         {
             "key": "guide_fairy",
-            "value": "ФЕЯ-ПРОВОДНИК"
+            "value": "ФЕЯ-НАСТАВНИК"
         },
         {
             "key": "guild_description",
@@ -906,7 +906,7 @@
         },
         {
             "key": "monster",
-            "value": "МОНАСТР"
+            "value": "МОНСТР"
         },
         {
             "key": "monster_name",
@@ -926,7 +926,7 @@
         },
         {
             "key": "multiplayer",
-            "value": "МУЛЬТИПЛЕЕР"
+            "value": "СЕТЕВАЯ ИГРА"
         },
         {
             "key": "music",
@@ -970,7 +970,7 @@
         },
         {
             "key": "not_enrolled",
-            "value": "НЕ ЗАРЕГИСТРИРОВАН"
+            "value": "НЕ УЧАСТВУЕТ"
         },
         {
             "key": "not_owned",
@@ -994,11 +994,11 @@
         },
         {
             "key": "optin",
-            "value": "ОПТИН"
+            "value": "ОПТ-ИН"
         },
         {
             "key": "optin_asa_txn",
-            "value": "OPTIN ASA TXN"
+            "value": "OPT-IN ASA TXN"
         },
         {
             "key": "option_a",
@@ -1006,11 +1006,11 @@
         },
         {
             "key": "owned",
-            "value": "В собственности"
+            "value": "В НАЛИЧИИ"
         },
         {
             "key": "owned_assets",
-            "value": "АКТИВЫ В СОБСТВЕННОСТИ"
+            "value": "АКТИВЫ В НАЛИЧИИ"
         },
         {
             "key": "ownership",
@@ -1030,7 +1030,7 @@
         },
         {
             "key": "partners",
-            "value": "ПАРТНЕРЫ"
+            "value": "ПАРТНЁРЫ"
         },
         {
             "key": "password",
@@ -1050,11 +1050,11 @@
         },
         {
             "key": "pets",
-            "value": "МАСТЬ"
+            "value": "ПИТОМЦЫ"
         },
         {
             "key": "plant_starter",
-            "value": "стартер растений"
+            "value": "стартовая колода Растений"
         },
         {
             "key": "play",
@@ -1062,7 +1062,7 @@
         },
         {
             "key": "play_a_match_to_re-activate",
-            "value": "Играйте матч для реактивации"
+            "value": "Сыграйте матч, чтобы снова активировать"
         },
         {
             "key": "play_with_code",
@@ -1078,7 +1078,7 @@
         },
         {
             "key": "practice",
-            "value": "ПРАКТИКА"
+            "value": "ТРЕНИРОВКА"
         },
         {
             "key": "premium",
@@ -1154,7 +1154,7 @@
         },
         {
             "key": "rare",
-            "value": "Редкий"
+            "value": "Редкая"
         },
         {
             "key": "rare_avatar",
@@ -1202,7 +1202,7 @@
         },
         {
             "key": "retype",
-            "value": "ПЕРЕПЕЧАТАТЬ"
+            "value": "ПОВТОРИТЕ ВВОД"
         },
         {
             "key": "rewards",
@@ -1210,11 +1210,11 @@
         },
         {
             "key": "round",
-            "value": "круг"
+            "value": "РАУНД"
         },
         {
             "key": "round_3",
-            "value": "КРУГ 3"
+            "value": "РАУНД 3"
         },
         {
             "key": "save",
@@ -1226,11 +1226,11 @@
         },
         {
             "key": "save_success",
-            "value": "СОХРАНЕНИЕ УСПЕШНО"
+            "value": "СОХРАНЕНО УСПЕШНО"
         },
         {
             "key": "scan_the_qr_code_sign_the_txn_in_the_pera_mobile_app_click_the_confirm_button_to_the_right",
-            "value": "СКАНИРОВАТЬ QR-КОД\n ПОДПИСАТЬ TXN В МОБИЛЬНОМ ПРИЛОЖЕНИИ PERA\n НАЖАТЬ КНОПКУ ПОДТВЕРЖДЕНИЯ СПРАВА"
+            "value": "СКАНИРУЙТЕ QR-КОД\nПОДПИШИТЕ TXN В МОБИЛЬНОМ ПРИЛОЖЕНИИ PERA\nНАЖМИТЕ КНОПКУ ПОДТВЕРЖДЕНИЯ СПРАВА"
         },
         {
             "key": "search",
@@ -1250,7 +1250,7 @@
         },
         {
             "key": "select_a_choice",
-            "value": "ВЫБРАТЬ ВАРИАНТ"
+            "value": "ВЫБЕРИТЕ ВАРИАНТ"
         },
         {
             "key": "select_a_target",
@@ -1290,7 +1290,7 @@
         },
         {
             "key": "send_guild",
-            "value": "ОТПРАВИТЬ ГИЛЬДИЮ"
+            "value": "ОТПРАВИТЬ В ГИЛЬДИЮ"
         },
         {
             "key": "settings",
@@ -1302,11 +1302,11 @@
         },
         {
             "key": "sign_in_with_steam",
-            "value": "войти с steam"
+            "value": "ВОЙТИ ЧЕРЕЗ STEAM"
         },
         {
             "key": "silence_target_card.",
-            "value": "Замолчать карту-цель."
+            "value": "Заглушите выбранную карту."
         },
         {
             "key": "smokenstein",
@@ -1322,7 +1322,7 @@
         },
         {
             "key": "spells",
-            "value": "Заклинания"
+            "value": "ЗАКЛИНАНИЯ"
         },
         {
             "key": "standard_pack",
@@ -1342,7 +1342,7 @@
         },
         {
             "key": "status_title",
-            "value": "Заголовок статуса"
+            "value": "Название статуса"
         },
         {
             "key": "submit",
@@ -1358,11 +1358,11 @@
         },
         {
             "key": "tamers",
-            "value": "ДРЕССИРОВЩИКИ"
+            "value": "УКРОТИТЕЛИ"
         },
         {
             "key": "tbd",
-            "value": "ТРЕБУЕТСЯ УТОЧНЕНИЕ"
+            "value": "БУДЕТ ОПРЕДЕЛЕНО"
         },
         {
             "key": "tcg_council",
@@ -1370,11 +1370,11 @@
         },
         {
             "key": "tcg_engine",
-            "value": "ДВИГАТЕЛЬ TCG"
+            "value": "ДВИЖОК TCG"
         },
         {
             "key": "tcgs",
-            "value": "TCGs"
+            "value": "ККИ"
         },
         {
             "key": "test_tournament",
@@ -1382,7 +1382,7 @@
         },
         {
             "key": "title",
-            "value": "Заголовок"
+            "value": "Название"
         },
         {
             "key": "total_earnings",
@@ -1486,7 +1486,7 @@
         },
         {
             "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
-            "value": "Когда новый игрок использует ваше имя пользователя как код реферала, он получит 1 редкий набор, и вы получите редкий набор каждый раз, когда он повышает уровень аккаунта "
+            "value": "Когда новый игрок использует ваше имя пользователя как реферальный код, он получит 1 редкий набор, а вы будете получать редкий набор каждый раз, когда он повышает уровень аккаунта."
         },
         {
             "key": "win_3_ranked_matches",
@@ -1506,7 +1506,7 @@
         },
         {
             "key": "you_must_play_at_least_one_match_every_24_hours_to_keep_reward_earnings_active._rewards_pause_until_you_play_again.",
-            "value": "Вы должны играть хотя бы один матч каждые 24 часа, чтобы поддерживать активные доходы от наград. Награды приостанавливаются, пока вы не сыграете снова.\n "
+            "value": "Вы должны сыграть хотя бы один матч каждые 24 часа, чтобы награды оставались активными. Награды приостанавливаются, пока вы не сыграете снова."
         },
         {
             "key": "your_deck_has_been_saved_and_can_be_used_in_battle.",
@@ -1542,7 +1542,7 @@
         },
         {
             "key": "warning.maximum_traps",
-            "value": "Максимум 5 ловушки"
+            "value": "Максимум 5 ловушек"
         },
         {
             "key": "warning.spell_immunity",
@@ -1650,7 +1650,7 @@
         },
         {
             "key": "tip_mind_control_caster_fallback",
-            "value": "источник заклинания"
+            "value": "Источник заклинания"
         },
         {
             "key": "tip_mind_control_hint_caster",
@@ -1662,7 +1662,7 @@
         },
         {
             "key": "tip_mind_control_turn_owner_original",
-            "value": "оригинальный владелец"
+            "value": "исходный владелец"
         },
         {
             "key": "tip_mind_control_turn_owner_active",
@@ -1670,11 +1670,11 @@
         },
         {
             "key": "tip_mind_control_turn_owner_controller",
-            "value": "контроллер"
+            "value": "контролирующий игрок"
         },
         {
             "key": "tip_swap_slots_base",
-            "value": "{0} поменял позиции {1} и {2}."
+            "value": "{0} поменял местами {1} и {2}."
         },
         {
             "key": "tip_swap_slots_ability",
@@ -1690,7 +1690,7 @@
         },
         {
             "key": "before_they_destroy_yours",
-            "value": "Пока они не уничтожили ваше"
+            "value": "Прежде чем они уничтожат ваших"
         },
         {
             "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
@@ -1798,7 +1798,7 @@
         },
         {
             "key": "you_have_two_choices._you_can_either_try_to_paralyze_the_ignitus,_or_play_a_cheetula_to_boost_your_jagur_attack.",
-            "value": "У вас два варианта. Вы можете попытаться парализовать Игнитуса или разыграть Чеетулу, чтобы усилить атаку Ягура."
+            "value": "У вас два варианта. Вы можете попытаться парализовать Игнитуса или разыграть Читулу, чтобы усилить атаку Ягура."
         },
         {
             "key": "great_choice,_the_ignitas_won't_be_able_to_attack_for_the_next_2_turns.",
@@ -1814,7 +1814,7 @@
         },
         {
             "key": "to_attack_the_opponent's_hp._drag_one_of_your_characters_in_play_on_top_of_the_opponent's_hand_area.",
-            "value": "Чтобы атаковать ОЗ противника. Перетащите одного из ваших персонажей в игре на область руки противника."
+            "value": "Чтобы атаковать ОЗ противника, перетащите одного из ваших персонажей из игры на область руки оппонента."
         },
         {
             "key": "good_luck!",
@@ -1822,11 +1822,11 @@
         },
         {
             "key": "hero_power_popup.contribution_line1",
-            "value": "Игра {0} карт заряжает вашу силу феи."
+            "value": "Разыгрывайте карты {0}, чтобы заряжать силу вашей феи."
         },
         {
             "key": "hero_power_popup.contribution_line2",
-            "value": "Вы только что внесли вклад! Прогресс: {0}/{1} очков элемента."
+            "value": "Вы только что внесли вклад! Прогресс: {0}/{1} очков стихии."
         },
         {
             "key": "hero_power_popup.contribution_line3",
@@ -1842,7 +1842,7 @@
         },
         {
             "key": "tip_heropower_fire",
-            "value": "Нанесите 1 урон."
+            "value": "Нанесите 1 ед. урона."
         },
         {
             "key": "tip_heropower_ice",
@@ -1990,7 +1990,7 @@
         },
         {
             "key": "status.flying.title",
-            "value": "Полет"
+            "value": "Полёт"
         },
         {
             "key": "status.flying.desc",
@@ -2018,7 +2018,7 @@
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "Лечит контроллера на величину нанесённого урона."
+            "value": "Лечит контролирующего игрока на величину нанесённого урона."
         },
         {
             "key": "status.silenced.title",
@@ -2090,7 +2090,7 @@
         },
         {
             "key": "status.trapevasion.desc",
-            "value": "Не активирует вражеские ловушки при действии."
+            "value": "Не активирует вражеские ловушки при действиях."
         },
         {
             "key": "status.protectionflying.title",
@@ -2114,7 +2114,7 @@
         },
         {
             "key": "status.attacklossimmunity.desc",
-            "value": "Атаку нельзя уменьшить."
+            "value": "Атаку нельзя понизить."
         },
         {
             "key": "evolves_to",
@@ -2126,7 +2126,7 @@
         },
         {
             "key": "cardzoompanel.trait_format",
-            "value": "<b>{0}</b>: {1}\n \n "
+            "value": "<b>{0}</b>: {1}\\n\\n"
         },
         {
             "key": "cardzoompanel.evolution_label",
@@ -2170,7 +2170,7 @@
         },
         {
             "key": "tip_card_evolution_message",
-            "value": "{0} только что эволюционировал! Персонажи эволюционируют после того, как переживут {1} ваших ходов на поле. Если эволюционировавшая форма всё ещё на поле, её способность 'При розыгрыше' активируется снова, а все отрицательные эффекты снимаются первыми."
+            "value": "{0} только что эволюционировал! Персонажи эволюционируют, если переживают {1} ваших ходов на поле. Если эволюционировавшая форма остаётся на поле, её способность «При розыгрыше» активируется снова, а отрицательные эффекты снимаются первыми."
         }
     ]
 }
