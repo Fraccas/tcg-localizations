@@ -858,7 +858,7 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "판 위 모든 생물 파괴"
+            "value": "보드의 모든 카드를 파괴합니다"
         },
         {
             "key": "card.spell_rock_projectiles.text",

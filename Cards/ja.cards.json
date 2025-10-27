@@ -858,7 +858,7 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "ボード上のすべてのクリーチャーを破壊"
+            "value": "盤面上のすべてのカードを破壊する"
         },
         {
             "key": "card.spell_rock_projectiles.text",

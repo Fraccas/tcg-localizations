@@ -770,7 +770,7 @@
         },
         {
             "key": "card.spell_armageddon.text",
-            "value": "Alle Kreaturen auf dem Brett zerstören"
+            "value": "Zerstöre alle Karten auf dem Spielfeld"
         },
         {
             "key": "card.spell_avalanche_ice.text",
@@ -858,7 +858,7 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Alle Kreaturen auf dem Brett zerstören"
+            "value": "Zerstöre alle Karten auf dem Spielfeld"
         },
         {
             "key": "card.spell_rock_projectiles.text",

@@ -858,7 +858,7 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "摧毁战场上的所有生物"
+            "value": "摧毁场上的所有卡牌"
         },
         {
             "key": "card.spell_rock_projectiles.text",

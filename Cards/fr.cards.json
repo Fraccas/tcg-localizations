@@ -770,7 +770,7 @@
         },
         {
             "key": "card.spell_armageddon.text",
-            "value": "Détruit toutes les créatures sur le plateau"
+             "value": "Détruisez toutes les cartes sur le plateau"
         },
         {
             "key": "card.spell_avalanche_ice.text",
@@ -858,7 +858,7 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Détruit toutes les créatures sur le plateau"
+            "value": "Détruisez toutes les cartes sur le plateau"
         },
         {
             "key": "card.spell_rock_projectiles.text",

@@ -770,7 +770,7 @@
         },
         {
             "key": "card.spell_armageddon.text",
-            "value": "Distrugge tutte le creature sul campo"
+            "value": "Distruggi tutte le carte sul tabellone"
         },
         {
             "key": "card.spell_avalanche_ice.text",
@@ -858,7 +858,7 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Distrugge tutte le creature sul campo"
+            "value": "Distruggi tutte le carte sul tabellone"
         },
         {
             "key": "card.spell_rock_projectiles.text",
