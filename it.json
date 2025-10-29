@@ -2267,6 +2267,38 @@
         {
             "key": "token_redeem.success_claimed",
             "value": "{0} riscattato con successo!"
+        },
+        {
+            "key": "tip_heropower_electric_long",
+            "value": "La Fata Elettrica ti permette di spendere {0} punti elemento per scegliere uno dei tuoi mostri Elettrici sul campo e dargli Rapidità.\n\nIn breve, la Fata Elettrica potenzia la tua squadra, rompendo i limiti di un turno e permettendo loro di attaccare prima."
+        },
+        {
+            "key": "tip_heropower_fire_long",
+            "value": "La Fata del Fuoco ti permette di spendere {0} punti elemento per colpire qualsiasi carta attiva sul campo o uno dei giocatori infliggendo 1 danno.\n\nQuesto ti dà flessibilità:\nColpisci un mostro nemico per indebolirlo o finirlo.\nOppure colpisci direttamente l’avversario per abbassare i suoi punti vita."
+        },
+        {
+            "key": "tip_heropower_ice_long",
+            "value": "La Fata del Ghiaccio ti permette di congelare una qualsiasi carta attiva sul campo per 1 turno al costo di {0} punti elemento.\n\nUna carta congelata non può agire nel turno successivo, rendendo la Fata del Ghiaccio un ottimo strumento di controllo.\n\nIn breve, la Fata del Ghiaccio può rallentare anche le minacce più pericolose."
+        },
+        {
+            "key": "tip_heropower_plant_long",
+            "value": "La Fata della Pianta ti permette di spendere {0} punti elemento per curare qualsiasi carta o giocatore di 2 punti vita.\n\nQuesto la rende un utile supporto.\n\nIn breve, la Fata della Pianta porta equilibrio alla tua strategia, ripristinando la salute dove serve di più."
+        },
+        {
+            "key": "tip_heropower_psychic_long",
+            "value": "La Fata Psichica ti permette di spendere {0} punti elemento per costringere l’avversario a scartare una carta dalla mano."
+        },
+        {
+            "key": "tip_heropower_rock_long",
+            "value": "La Fata della Roccia ti permette di spendere {0} punti elemento per dare 1 Armatura a un personaggio.\n\nL’Armatura riduce i danni ricevuti.\n\nÈ permanente e non si rompe quando assorbe danni.\n\nIn breve, la Fata della Roccia offre protezione duratura, rendendo i tuoi personaggi più difficili da sconfiggere."
+        },
+        {
+            "key": "tip_heropower_shadow_long",
+            "value": "La Fata dell’Ombra ti permette di spendere {0} punti elemento per maledire una qualsiasi carta sul campo.\n\nUn personaggio maledetto perde 1 Attacco a ogni turno.\n\nIn breve, la Fata dell’Ombra indebolisce lentamente le forze del tuo avversario."
+        },
+        {
+            "key": "tip_heropower_water_long",
+            "value": "La Fata dell’Acqua ti permette di spendere {0} punti elemento per pescare 1 carta dal tuo mazzo.\n\nUsala quando hai poche carte o cerchi quella giusta.\n\nIn breve, la Fata dell’Acqua mantiene fluido il flusso di risorse e amplia le tue opzioni."
         }
     ]
 }

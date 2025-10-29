@@ -2379,6 +2379,38 @@
         {
             "key": "token_redeem.success_claimed",
             "value": "Successfully claimed {0}!"
+        },
+        {
+            "key": "tip_heropower_electric_long",
+            "value": "The Electric Fairy lets you spend {0} element points to target one of your Electric monsters on the board and give it Haste.\n\nIn short, the Electric Fairy supercharges your Electric team—breaking the usual limits of a turn and letting them strike early with Haste."
+        },
+        {
+            "key": "tip_heropower_fire_long",
+            "value": "The Fire Fairy lets you spend {0} element points to target any active card on the board or either player and deal 1 damage to that target.\n\nThis gives you flexibility in how you use it:\nTarget an enemy monster to chip away at its health or finish it off.\nTarget your opponent directly to push their life total lower."
+        },
+        {
+            "key": "tip_heropower_ice_long",
+            "value": "The Ice Fairy lets you target any active card on the board and freeze it for 1 turn at the cost of {0} element points.\n\nWhen a card is frozen, it cannot take actions on its next turn. This makes the Ice Fairy especially useful.\n\nIn short, the Ice Fairy is a tool of control—able to stall dangerous threats, even those normally resistant to spells."
+        },
+        {
+            "key": "tip_heropower_plant_long",
+            "value": "The Plant Fairy lets you spend {0} element points to heal any card on the board or either player for 2 health.\n\nThis makes the Plant Fairy a versatile support tool.\n\nIn short, the Plant Fairy brings balance to your strategy—restoring health where it's most needed."
+        },
+        {
+            "key": "tip_heropower_psychic_long",
+            "value": "The Psychic Fairy lets you spend {0} elemental points to force the opponent to discard a card from their hand."
+        },
+        {
+            "key": "tip_heropower_rock_long",
+            "value": "The Rock Fairy lets you spend {0} element points to grant 1 Armor to any character.\n\nArmor reduces incoming damage from other characters by the amount of armor applied.\n\nArmor is permanent and does not break when absorbing damage.\n\nIn short, the Rock Fairy provides lasting protection—making your characters harder to kill unless the opponent finds a way to Silence them."
+        },
+        {
+            "key": "tip_heropower_shadow_long",
+            "value": "The Shadow Fairy lets you spend {0} element points to target any card on the board and place a Curse on it.\n\nA cursed character's Attack is reduced by 1 at the start of each turn.\n\nIn short, the Shadow Fairy steadily drains the power of your opponent's forces, weakening them turn by turn until they can no longer fight back."
+        },
+        {
+            "key": "tip_heropower_water_long",
+            "value": "The Water Fairy lets you spend {0} element points to draw 1 card from your deck.\n\nUse it when your hand is running low, or when you're searching for a specific card to complete your strategy.\n\nIn short, the Water Fairy gives you a steady flow of resources, keeping your deck moving and your options open."
         }
     ]
 }

@@ -2407,6 +2407,38 @@
         {
             "key": "token_redeem.success_claimed",
             "value": "{0} erfolgreich erhalten!"
+        },
+        {
+            "key": "tip_heropower_electric_long",
+            "value": "Die Elektro-Fee lässt dich {0} Elementpunkte ausgeben, um eines deiner Elektro-Monster auf dem Spielfeld anzuzielen und ihm Eile zu verleihen.\n\nKurz gesagt, die Elektro-Fee überlädt dein Elektro-Team – sie bricht die üblichen Grenzen eines Zuges und lässt sie früh angreifen."
+        },
+        {
+            "key": "tip_heropower_fire_long",
+            "value": "Die Feuer-Fee lässt dich {0} Elementpunkte ausgeben, um eine beliebige aktive Karte auf dem Spielfeld oder einen Spieler zu treffen und diesem Ziel 1 Schaden zuzufügen.\n\nDies gibt dir Flexibilität:\nZiele auf ein gegnerisches Monster, um dessen Gesundheit zu schwächen oder es zu besiegen.\nZiele direkt auf deinen Gegner, um seine Lebenspunkte zu senken."
+        },
+        {
+            "key": "tip_heropower_ice_long",
+            "value": "Die Eis-Fee lässt dich eine beliebige aktive Karte auf dem Spielfeld für 1 Runde einfrieren, was {0} Elementpunkte kostet.\n\nEine eingefrorene Karte kann in ihrem nächsten Zug keine Aktionen ausführen. Dadurch ist die Eis-Fee besonders nützlich.\n\nKurz gesagt, die Eis-Fee ist ein Werkzeug der Kontrolle – sie kann gefährliche Bedrohungen aufhalten, selbst solche, die normalerweise gegen Zauber resistent sind."
+        },
+        {
+            "key": "tip_heropower_plant_long",
+            "value": "Die Pflanzen-Fee lässt dich {0} Elementpunkte ausgeben, um eine beliebige Karte auf dem Spielfeld oder einen Spieler um 2 Lebenspunkte zu heilen.\n\nDas macht die Pflanzen-Fee zu einem vielseitigen Unterstützungswerkzeug.\n\nKurz gesagt, die Pflanzen-Fee bringt Gleichgewicht in deine Strategie – sie stellt Gesundheit dort wieder her, wo sie am meisten gebraucht wird."
+        },
+        {
+            "key": "tip_heropower_psychic_long",
+            "value": "Die Psycho-Fee lässt dich {0} Elementpunkte ausgeben, um den Gegner dazu zu zwingen, eine Karte aus seiner Hand abzuwerfen."
+        },
+        {
+            "key": "tip_heropower_rock_long",
+            "value": "Die Felsen-Fee lässt dich {0} Elementpunkte ausgeben, um einem Charakter 1 Rüstung zu verleihen.\n\nRüstung reduziert den erlittenen Schaden um den angewendeten Wert.\n\nRüstung ist dauerhaft und zerbricht nicht beim Absorbieren von Schaden.\n\nKurz gesagt, die Felsen-Fee bietet dauerhaften Schutz – sie macht deine Charaktere schwerer zu besiegen, es sei denn, der Gegner findet einen Weg, sie zum Schweigen zu bringen."
+        },
+        {
+            "key": "tip_heropower_shadow_long",
+            "value": "Die Schatten-Fee lässt dich {0} Elementpunkte ausgeben, um eine beliebige Karte auf dem Spielfeld zu verfluchen.\n\nEin verfluchter Charakter verliert zu Beginn jeder Runde 1 Angriff.\n\nKurz gesagt, die Schatten-Fee entzieht den gegnerischen Kräften langsam ihre Stärke, bis sie nicht mehr kämpfen können."
+        },
+        {
+            "key": "tip_heropower_water_long",
+            "value": "Die Wasser-Fee lässt dich {0} Elementpunkte ausgeben, um 1 Karte aus deinem Deck zu ziehen.\n\nNutze sie, wenn deine Hand leer wird oder du nach einer bestimmten Karte suchst.\n\nKurz gesagt, die Wasser-Fee sorgt für einen stetigen Ressourcenfluss und hält deine Optionen offen."
         }
     ]
 }

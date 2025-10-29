@@ -2407,6 +2407,38 @@
         {
             "key": "token_redeem.success_claimed",
             "value": "{0}领取成功！"
+        },
+        {
+            "key": "tip_heropower_electric_long",
+            "value": "电系妖精让你花费 {0} 元素点，选择场上一个电系怪物并给予它“急速”。\n\n简而言之，电系妖精让你的队伍超负荷运转，打破回合限制并提前攻击。"
+        },
+        {
+            "key": "tip_heropower_fire_long",
+            "value": "火系妖精让你花费 {0} 元素点，对场上任意激活的卡牌或任一玩家造成1点伤害。\n\n你可以灵活使用：\n攻击敌方怪物削弱或击杀它。\n直接攻击对手以降低其生命值。"
+        },
+        {
+            "key": "tip_heropower_ice_long",
+            "value": "冰系妖精让你花费 {0} 元素点冻结场上一张卡牌1回合。\n\n被冻结的卡牌下回合无法行动，非常适合控制危险单位。"
+        },
+        {
+            "key": "tip_heropower_plant_long",
+            "value": "植物妖精让你花费 {0} 元素点，为场上任意卡牌或玩家回复2点生命值。\n\n让你的策略保持平衡。"
+        },
+        {
+            "key": "tip_heropower_psychic_long",
+            "value": "超能妖精让你花费 {0} 元素点，迫使对手弃掉1张手牌。"
+        },
+        {
+            "key": "tip_heropower_rock_long",
+            "value": "岩石妖精让你花费 {0} 元素点，为任意角色授予1点护甲。\n\n护甲会减少受到的伤害并且不会消失。"
+        },
+        {
+            "key": "tip_heropower_shadow_long",
+            "value": "暗影妖精让你花费 {0} 元素点，诅咒场上的一张卡牌。\n\n被诅咒的角色每回合开始时攻击力-1。"
+        },
+        {
+            "key": "tip_heropower_water_long",
+            "value": "水系妖精让你花费 {0} 元素点，从牌库抽1张牌。\n\n当手牌不足或寻找关键牌时使用。"
         }
     ]
 }

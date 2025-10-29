@@ -2431,6 +2431,38 @@
         {
             "key": "token_redeem.success_claimed",
             "value": "¡{0} reclamado con éxito!"
+        },
+        {
+            "key": "tip_heropower_electric_long",
+            "value": "El Hada Eléctrica te permite gastar {0} puntos elementales para apuntar a uno de tus monstruos Eléctricos en el tablero y otorgarle Prisa.\n\nEn resumen, el Hada Eléctrica sobrecarga a tu equipo Eléctrico, rompiendo los límites habituales de un turno y permitiéndoles atacar antes."
+        },
+        {
+            "key": "tip_heropower_fire_long",
+            "value": "El Hada de Fuego te permite gastar {0} puntos elementales para apuntar a cualquier carta activa en el tablero o a cualquiera de los jugadores y hacer 1 punto de daño a ese objetivo.\n\nEsto te da flexibilidad:\nApunta a un monstruo enemigo para debilitarlo o rematarlo.\nApunta directamente al oponente para reducir su vida."
+        },
+        {
+            "key": "tip_heropower_ice_long",
+            "value": "El Hada de Hielo te permite apuntar a cualquier carta activa en el tablero y congelarla por 1 turno a cambio de {0} puntos elementales.\n\nUna carta congelada no puede actuar en su siguiente turno. Esto hace que el Hada de Hielo sea especialmente útil.\n\nEn resumen, el Hada de Hielo es una herramienta de control que puede frenar amenazas peligrosas, incluso aquellas resistentes a los hechizos."
+        },
+        {
+            "key": "tip_heropower_plant_long",
+            "value": "El Hada de Planta te permite gastar {0} puntos elementales para curar cualquier carta en el tablero o a cualquiera de los jugadores por 2 de salud.\n\nEsto convierte al Hada de Planta en una herramienta de apoyo versátil.\n\nEn resumen, el Hada de Planta equilibra tu estrategia restaurando salud donde más se necesita."
+        },
+        {
+            "key": "tip_heropower_psychic_long",
+            "value": "El Hada Psíquica te permite gastar {0} puntos elementales para obligar al oponente a descartar una carta de su mano."
+        },
+        {
+            "key": "tip_heropower_rock_long",
+            "value": "El Hada de Roca te permite gastar {0} puntos elementales para otorgar 1 de Armadura a cualquier personaje.\n\nLa Armadura reduce el daño recibido según su valor aplicado.\n\nLa Armadura es permanente y no se rompe al absorber daño.\n\nEn resumen, el Hada de Roca proporciona protección duradera, haciendo que tus personajes sean más difíciles de eliminar a menos que el oponente los silencie."
+        },
+        {
+            "key": "tip_heropower_shadow_long",
+            "value": "El Hada de Sombra te permite gastar {0} puntos elementales para colocar una Maldición en cualquier carta del tablero.\n\nUn personaje maldito pierde 1 de Ataque al comienzo de cada turno.\n\nEn resumen, el Hada de Sombra debilita lentamente a las fuerzas de tu oponente, drenando su poder turno a turno."
+        },
+        {
+            "key": "tip_heropower_water_long",
+            "value": "El Hada de Agua te permite gastar {0} puntos elementales para robar 1 carta de tu mazo.\n\nÚsala cuando tu mano esté vacía o busques una carta clave para tu estrategia.\n\nEn resumen, el Hada de Agua te da un flujo constante de recursos, manteniendo tu mazo activo y tus opciones abiertas."
         }
     ]
 }

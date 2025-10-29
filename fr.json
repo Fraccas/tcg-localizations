@@ -2407,6 +2407,38 @@
         {
             "key": "token_redeem.success_claimed",
             "value": "{0} obtenu !"
+        },
+        {
+            "key": "tip_heropower_electric_long",
+            "value": "La Fée Électrique vous permet de dépenser {0} points élémentaires pour cibler l’un de vos monstres Électriques sur le plateau et lui donner Hâte.\n\nEn bref, la Fée Électrique suralimente votre équipe – brisant les limites habituelles d’un tour et leur permettant d’attaquer plus tôt."
+        },
+        {
+            "key": "tip_heropower_fire_long",
+            "value": "La Fée de Feu vous permet de dépenser {0} points élémentaires pour cibler n’importe quelle carte active sur le plateau ou un joueur et infliger 1 point de dégât à cette cible.\n\nCela vous donne de la flexibilité :\nCiblez un monstre ennemi pour l’affaiblir ou le finir.\nCiblez directement votre adversaire pour réduire ses points de vie."
+        },
+        {
+            "key": "tip_heropower_ice_long",
+            "value": "La Fée de Glace vous permet de cibler n’importe quelle carte active sur le plateau et de la geler pendant 1 tour en dépensant {0} points élémentaires.\n\nUne carte gelée ne peut pas agir à son prochain tour. Cela rend la Fée de Glace particulièrement utile.\n\nEn bref, la Fée de Glace est un outil de contrôle – capable de ralentir les menaces dangereuses, même celles résistantes aux sorts."
+        },
+        {
+            "key": "tip_heropower_plant_long",
+            "value": "La Fée de Plante vous permet de dépenser {0} points élémentaires pour soigner n’importe quelle carte sur le plateau ou un joueur de 2 points de vie.\n\nCela fait de la Fée de Plante un excellent outil de soutien.\n\nEn bref, la Fée de Plante apporte l’équilibre à votre stratégie – restaurant la santé là où elle est le plus nécessaire."
+        },
+        {
+            "key": "tip_heropower_psychic_long",
+            "value": "La Fée Psychique vous permet de dépenser {0} points élémentaires pour forcer l’adversaire à défausser une carte de sa main."
+        },
+        {
+            "key": "tip_heropower_rock_long",
+            "value": "La Fée de Roche vous permet de dépenser {0} points élémentaires pour accorder 1 Armure à n’importe quel personnage.\n\nL’Armure réduit les dégâts entrants du montant appliqué.\n\nL’Armure est permanente et ne se brise pas en absorbant des dégâts.\n\nEn bref, la Fée de Roche offre une protection durable, rendant vos personnages plus difficiles à tuer à moins d’être réduits au silence."
+        },
+        {
+            "key": "tip_heropower_shadow_long",
+            "value": "La Fée de l’Ombre vous permet de dépenser {0} points élémentaires pour placer une Malédiction sur n’importe quelle carte du plateau.\n\nUn personnage maudit perd 1 Attaque au début de chaque tour.\n\nEn bref, la Fée de l’Ombre épuise lentement les forces de votre adversaire jusqu’à ce qu’elles ne puissent plus riposter."
+        },
+        {
+            "key": "tip_heropower_water_long",
+            "value": "La Fée de l’Eau vous permet de dépenser {0} points élémentaires pour piocher 1 carte de votre deck.\n\nUtilisez-la lorsque votre main est faible ou que vous recherchez une carte spécifique.\n\nEn bref, la Fée de l’Eau assure un flux constant de ressources, gardant vos options ouvertes."
         }
     ]
 }

@@ -2379,6 +2379,38 @@
         {
             "key": "token_redeem.success_claimed",
             "value": "Berhasil menukarkan {0}!"
+        },
+        {
+            "key": "tip_heropower_electric_long",
+            "value": "Peri Listrik memungkinkanmu menghabiskan {0} poin elemen untuk menargetkan satu monster Listrik di papan dan memberinya Kecepatan.\n\nSingkatnya, Peri Listrik memberi energi tambahan pada timmu, melampaui batas giliran normal dan memungkinkan serangan lebih awal."
+        },
+        {
+            "key": "tip_heropower_fire_long",
+            "value": "Peri Api memungkinkanmu menghabiskan {0} poin elemen untuk menargetkan kartu aktif di papan atau pemain mana pun dan memberikan 1 kerusakan.\n\nIni memberikan fleksibilitas:\nTargetkan monster musuh untuk melemahkannya atau menghabisinya.\nAtau serang lawan langsung untuk menurunkan HP-nya."
+        },
+        {
+            "key": "tip_heropower_ice_long",
+            "value": "Peri Es memungkinkanmu menargetkan kartu aktif di papan dan membekukannya selama 1 giliran dengan biaya {0} poin elemen.\n\nKartu beku tidak dapat bertindak di giliran berikutnya, menjadikannya alat kontrol yang efektif."
+        },
+        {
+            "key": "tip_heropower_plant_long",
+            "value": "Peri Tanaman memungkinkanmu menghabiskan {0} poin elemen untuk menyembuhkan kartu atau pemain mana pun sebesar 2 HP.\n\nIni membuatnya menjadi alat pendukung yang serbaguna."
+        },
+        {
+            "key": "tip_heropower_psychic_long",
+            "value": "Peri Psikis memungkinkanmu menghabiskan {0} poin elemen untuk memaksa lawan membuang satu kartu dari tangannya."
+        },
+        {
+            "key": "tip_heropower_rock_long",
+            "value": "Peri Batu memungkinkanmu menghabiskan {0} poin elemen untuk memberikan 1 Armor ke karakter mana pun.\n\nArmor mengurangi kerusakan yang diterima dan bersifat permanen."
+        },
+        {
+            "key": "tip_heropower_shadow_long",
+            "value": "Peri Bayangan memungkinkanmu menghabiskan {0} poin elemen untuk mengutuk kartu di papan.\n\nKarakter terkutuk kehilangan 1 Serangan di awal setiap giliran."
+        },
+        {
+            "key": "tip_heropower_water_long",
+            "value": "Peri Air memungkinkanmu menghabiskan {0} poin elemen untuk menarik 1 kartu dari dekmu.\n\nGunakan saat kartu di tanganmu menipis atau kamu mencari kartu penting."
         }
     ]
 }
