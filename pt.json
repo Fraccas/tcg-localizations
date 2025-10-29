@@ -2367,6 +2367,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0} acabou de evoluir! Os personagens evoluem depois de sobreviver a {1} dos seus turnos no tabuleiro. Se a forma evoluída ainda estiver em campo, sua habilidade de 'Ao Jogar' é ativada novamente e quaisquer efeitos negativos são removidos primeiro."
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "Selecione um token"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "Escolha um token para ver as cartas resgatáveis."
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "Pode ser trocado por qualquer carta {0}."
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "Pode ser trocado por qualquer carta correspondente."
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "Resgatando..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "Resgatar"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "Selecionar recompensa"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "Token indisponível."
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "Resgatado com sucesso!"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "{0} resgatado com sucesso!"
         }
     ]
 }

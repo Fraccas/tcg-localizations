@@ -2227,6 +2227,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0} si è appena evoluto! I personaggi si evolvono dopo aver resistito per {1} dei tuoi turni sul campo. Se la forma evoluta è ancora sul campo, la sua abilità 'Quando entra in gioco' si attiva di nuovo e gli effetti negativi vengono rimossi per primi."
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "Seleziona un gettone"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "Scegli un gettone per vedere le carte riscattabili."
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "Può essere riscattato per qualsiasi carta {0}."
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "Può essere riscattato per qualsiasi carta corrispondente."
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "Riscatto in corso..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "Riscatta"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "Seleziona ricompensa"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "Gettone non disponibile."
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "Riscatto effettuato con successo!"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "{0} riscattato con successo!"
         }
     ]
 }

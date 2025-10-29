@@ -2339,6 +2339,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0} baru saja berevolusi! Karakter berevolusi setelah bertahan {1} giliranmu di papan. Jika bentuk evolusi masih berada di papan, kemampuan Saat Dimainkan-nya aktif lagi, dan efek status negatif apa pun dihapus terlebih dahulu."
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "Pilih Token"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "Pilih token untuk melihat kartu yang dapat ditukar."
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "Tukar untuk kartu {0} apa pun."
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "Tukar untuk kartu yang sesuai."
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "Menukar..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "Tukar"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "Pilih Hadiah"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "Token tidak tersedia."
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "Berhasil ditukarkan!"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "Berhasil menukarkan {0}!"
         }
     ]
 }

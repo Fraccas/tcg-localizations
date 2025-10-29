@@ -2367,6 +2367,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0} vient d’évoluer ! Les personnages évoluent après avoir survécu à {1} de vos tours sur le plateau. Si la forme évoluée est toujours sur le plateau, sa capacité « À la mise en jeu » se déclenche à nouveau et les effets négatifs sont d’abord supprimés."
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "Sélectionnez un jeton"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "Choisissez un jeton pour voir les cartes échangeables."
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "Échangez contre n'importe quelle carte {0}."
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "Échangez contre n'importe quelle carte correspondante."
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "Échange en cours..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "Échanger"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "Sélectionner une récompense"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "Jeton non disponible."
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "Réclamé avec succès !"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "{0} obtenu !"
         }
     ]
 }

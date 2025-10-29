@@ -2339,6 +2339,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0} just evolved! Characters evolve after they survive {1} of your turns on the board. If the evolved form is still on the board, its On Play ability triggers again, and any negative status effects are removed first."
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "Select a Token"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "Choose a token to see redeemable cards."
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "Redeem for any {0} card."
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "Redeem for any matching card."
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "Redeeming..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "Redeem"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "Select Reward"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "Token not available."
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "Successfully claimed!"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "Successfully claimed {0}!"
         }
     ]
 }

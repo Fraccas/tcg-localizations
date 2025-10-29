@@ -2391,6 +2391,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "¡{0} acaba de evolucionar! Los personajes evolucionan después de sobrevivir {1} de tus turnos en el tablero. Si la forma evolucionada sigue en el tablero, su habilidad 'Al jugar' se activa de nuevo, y los efectos negativos se eliminan primero."
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "Selecciona un token"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "Elige un token para ver las cartas canjeables."
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "Canjear por cualquier carta de {0}."
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "Canjear por cualquier carta correspondiente."
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "Canjeando..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "Canjear"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "Seleccionar recompensa"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "Token no disponible."
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "¡Reclamado con éxito!"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "¡{0} reclamado con éxito!"
         }
     ]
 }

@@ -2171,6 +2171,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0} только что эволюционировал! Персонажи эволюционируют, если переживают {1} ваших ходов на поле. Если эволюционировавшая форма остаётся на поле, её способность «При розыгрыше» активируется снова, а отрицательные эффекты снимаются первыми."
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "Выберите жетон"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "Выберите жетон, чтобы просмотреть доступные для обмена карты."
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "Можно обменять на любую карту {0}."
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "Можно обменять на любую подходящую карту."
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "Обмен..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "Обменять"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "Выбрать награду"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "Жетон недоступен."
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "Успешно получено!"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "Вы успешно получили {0}!"
         }
     ]
 }

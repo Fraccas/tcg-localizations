@@ -2367,6 +2367,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0}が進化しました！キャラクターは盤面であなたのターンを{1}回生き残ると進化します。進化後の形態がまだ盤面に残っている場合、そのプレイ時効果が再度発動し、すべての負の状態異常が先に解除されます。"
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "トークンを選択"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "交換可能なカードを見るには、トークンを選択してください。"
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "任意の{0}カードと交換できます。"
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "任意の対応するカードと交換できます。"
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "引き換え中..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "引き換え"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "報酬を選択"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "トークンは利用できません。"
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "受け取り完了！"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "「{0}」を受け取りました！"
         }
     ]
 }

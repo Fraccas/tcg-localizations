@@ -2367,6 +2367,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0} hat sich gerade weiterentwickelt! Charaktere entwickeln sich, nachdem sie {1} deiner Runden auf dem Spielfeld überlebt haben. Wenn die weiterentwickelte Form noch auf dem Spielfeld ist, wird ihre 'Beim Ausspielen'-Fähigkeit erneut ausgelöst, und alle negativen Statuseffekte werden zuerst entfernt."
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "Wählen Sie einen Token aus"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "Wählen Sie einen Token aus, um einlösbare Karten anzuzeigen."
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "Kann gegen jede {0}-Karte eingelöst werden."
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "Kann gegen jede passende Karte eingelöst werden."
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "Einlösen..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "Einlösen"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "Belohnung auswählen"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "Token nicht verfügbar."
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "Erfolgreich eingelöst!"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "{0} erfolgreich erhalten!"
         }
     ]
 }

@@ -2367,6 +2367,46 @@
         {
             "key": "tip_card_evolution_message",
             "value": "{0}刚刚进化了！角色在场上存活{1}个回合后会进化。如果进化后的形态仍在场上，其登场技能会再次触发，并且所有负面状态效果会先被移除。"
+        },
+        {
+            "key": "token_redeem.header_select_token",
+            "value": "选择一个代币"
+        },
+        {
+            "key": "token_redeem.details_select_token",
+            "value": "选择一个代币以查看可兑换的卡牌。"
+        },
+        {
+            "key": "token_redeem.details_team",
+            "value": "可兑换任意{0}卡牌。"
+        },
+        {
+            "key": "token_redeem.details_generic",
+            "value": "可兑换任意匹配的卡牌。"
+        },
+        {
+            "key": "token_redeem.button_redeeming",
+            "value": "兑换中..."
+        },
+        {
+            "key": "token_redeem.button_redeem",
+            "value": "兑换"
+        },
+        {
+            "key": "token_redeem.button_select_reward",
+            "value": "选择奖励"
+        },
+        {
+            "key": "token_redeem.error_token_unavailable",
+            "value": "代币不可用。"
+        },
+        {
+            "key": "token_redeem.success_claimed_generic",
+            "value": "领取成功！"
+        },
+        {
+            "key": "token_redeem.success_claimed",
+            "value": "{0}领取成功！"
         }
     ]
 }
