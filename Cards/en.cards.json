@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "RUSH"
+            "value": "RUSH\nGain +1/+1 when a card is frozen."
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "Enemy characters have -1 attack.\nCan ignore taunt."
+            "value": "<b>Play:</b> Freeze all enemy characters that have 4 or less attack.\nFlying"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>Attack</b>: Curse and poison the target monster"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "Exchange Electric Token for any one Electric Card"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "All Electric monsters cost 2 mana less (includes enemies)"
         },
@@ -225,6 +229,10 @@
             "value": "<b>Play:</b> Mind Control an enemy character with 5 or less attack"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "Exchange Fire Token for any one Fire Card"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>Attack:</b> Burn the enemy. They lose 2 HP each turn."
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "When attacking, roll a D6. On 4+ gain +6 attack."
+            "value": "RUSH\nGain +1/+1 when a card is frozen."
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Deathtouch"
+            "value": "Gain shell whenever you summon a location. \nGain +1/+1 for every ice location in play. "
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "Has +3 attack during the opponent's turn."
+            "value": "<b>Play:</b> Draw a card.\nGain +1/+1 for each ice location in play."
         },
         {
-            "key": "card.ice_town.text",
-            "value": "All allied Ice creatures have +1 attack and +1 HP."
+            "key": "card.ice_token.text",
+            "value": "Exchange Ice Token for any one Ice Card"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "If HP 2+ all allied ice characters gain +0/+1\nIf HP 4+ all allied ice characters gain +1/+0\nIf HP 6+ all Ice cards cost 1 less from hand."
         },
         {
             "key": "card.ignitas.text",
@@ -462,7 +474,7 @@
         },
         {
             "key": "card.lumini.text",
-            "value": "<b>Play:</b> Target character's attack is reduced to 1."
+            "value": "<b>Play:</b> Summon an Igloo\nFlying"
         },
         {
             "key": "card.luminus.text",
@@ -470,7 +482,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Play:</b> Target character's attack is reduced to 1."
+            "value": "<b>Play:</b> Summon Igloo twice and freeze an enemy character with 3 attack or less\nFlying"
         },
         {
             "key": "card.lurian.text",
@@ -486,7 +498,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "Taunt\nShell"
+            "value": "<b>Play:</b> Gain +1 attack for each Igloo you have summoned this game.\nGain Shell whenver you summon a location\nShell\n"
         },
         {
             "key": "card.mimi.text",
@@ -590,7 +602,7 @@
         },
         {
             "key": "card.peako.text",
-            "value": "<b>Death:</b> Draw a card."
+            "value": "<b>Play:</b> Summon an Igloo.\nIf you already have an Igloo, draw a card."
         },
         {
             "key": "card.perllusion.text",
@@ -623,6 +635,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>Play:</b> Deal 1 damage."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Exchange Plant Token for any one Plant Card"
         },
         {
             "key": "card.plator.text",
@@ -673,6 +689,10 @@
             "value": "<b>Play:</b> Select an ally under your control, and send them to the other player with the ability: each turn deal 2 damage to all other allies. "
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "Exchange Psychic Token for any one Psychic Card"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>Play:</b> Select an ally under your control, and send them to the other player with the ability: at the start of each turn discard 2 cards"
         },
@@ -705,6 +725,10 @@
             "value": "All rock creatures gain: \"Take 1 damage to gain +1 attack\". 1 mana cost per use."
         },
         {
+            "key": "card.rock_token.text",
+            "value": "Exchange Rock Token for any one Rock Card"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "Regeneration"
         },
@@ -723,6 +747,10 @@
         {
             "key": "card.scarles.text",
             "value": "Each turn, gain +1 attack.\n<b>Flying</b> Can ignore taunt"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Exchange Shadow Token for any one Shadow Card"
         },
         {
             "key": "card.shama.text",
@@ -746,7 +774,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Flying"
+            "value": "Flying\n<b>Play:</b> Freeze an enemy with attack of 2 or less. "
         },
         {
             "key": "card.soligator.text",
@@ -830,7 +858,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Deals 2 damage to all characters"
+            "value": "Deal 1 damage to all characters, then deal 2 damage to all frozen characters. "
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -934,7 +962,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "When attacking a player, gain 1 mana."
+            "value": "RUSH"
         },
         {
             "key": "card.swamp.text",
@@ -1087,6 +1115,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "Enemy characters have -1 attack.\n<b>Action:</b> +1 attack to allies."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Exchange Water Token for any one Water Card"
         },
         {
             "key": "card.wido.text",
