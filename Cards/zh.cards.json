@@ -473,6 +473,10 @@
             "value": "<b>打出：</b>将目标角色的攻击力减少至 1。"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>出场：</b> 召唤一个冰屋。\n如果你已经有冰屋，则抽一张牌。"
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>打出：</b>使目标获得 +2/+2\n<b>打出：</b>为玩家回复 4 点生命值\n<b>飞行：</b>可无视嘲讽"
         },
@@ -605,6 +609,10 @@
             "value": "打出时：为另一名生物赋予 +2/+2，直到你的下一个回合。"
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "经过3个回合后，变成扇羽。\n召唤一个冰屋。"
+        },
+        {
             "key": "card.phanti.text",
             "value": "每当其他角色死亡时，抽一张牌。"
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "目标获得 2 点护甲，减少角色直接伤害 2 点。"
+            "value": "使一个冰属性角色的进化计数减1；若降到0，则该角色会进化。"
         },
         {
             "key": "card.potion_psychic.text",
@@ -774,7 +782,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "将所有角色的生命值减少至 1。"
+            "value": "摧毁一个被冻结的目标。\n摧毁一个场地。"
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "将所有牌返回其拥有者的手牌。"
+            "value": "冻结场上的所有角色。\n摧毁已经被冻结的角色。"
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "查看您牌堆的接下来 7 张牌，并选择 1 张冰系牌。"
+            "value": "冻结目标角色。\n抽一张牌。\n召唤冰屋。"
         },
         {
             "key": "card.spell_ice_wave.text",

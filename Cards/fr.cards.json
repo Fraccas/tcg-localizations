@@ -473,6 +473,10 @@
             "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Jeu :</b> Invoquez un igloo.\nSi vous avez déjà un igloo, piochez une carte."
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>Jouer :</b> Donne +2/2\n <b>Jouer :</b> Soigne le joueur de 4 PV\n <b>Volant :</b> Peut ignorer la provocation"
         },
@@ -605,6 +609,10 @@
             "value": "Lors du jeu, donne +2/2 à une autre créature jusqu'à votre prochain tour."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Après 3 tours, se transforme en Peafan.\nInvoquez un igloo."
+        },
+        {
             "key": "card.phanti.text",
             "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte."
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "La cible gagne 2 armure réduisant les dégâts directs des personnages de 2."
+            "value": "Réduisez de 1 le compteur d'évolution d'un personnage de glace ; s'il atteint 0, il évoluera."
         },
         {
             "key": "card.potion_psychic.text",
@@ -770,11 +778,11 @@
         },
         {
             "key": "card.spell_armageddon.text",
-             "value": "Détruisez toutes les cartes sur le plateau"
+            "value": "Détruisez toutes les cartes sur le plateau"
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Réduit les PV de tous les personnages à 1."
+            "value": "Détruisez une cible gelée.\nDétruisez un lieu."
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Toutes les cartes retournent dans la main de leur propriétaire."
+            "value": "Gelez tous les personnages en jeu.\nDétruisez les personnages déjà gelés."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Regardez les 7 prochaines cartes de votre deck et choisissez 1 carte de Glace."
+            "value": "Gelez le personnage ciblé.\nPiochez une carte.\nInvoquez un igloo."
         },
         {
             "key": "card.spell_ice_wave.text",

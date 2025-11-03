@@ -473,6 +473,10 @@
             "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Ausspielen:</b> Beschwöre ein Iglu.\nWenn du bereits ein Iglu hast, ziehe eine Karte."
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>Spielen:</b> +2/2 geben\n <b>Spielen:</b> Spieler um 4 LP heilen\n <b>Fliegen:</b> Kann Spott ignorieren"
         },
@@ -605,6 +609,10 @@
             "value": "Beim Spielen +2/2 an eine andere Kreatur bis zu Ihrem nächsten Zug geben."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Verwandelt sich nach 3 Zügen in einen Peafan.\nBeschwöre ein Iglu."
+        },
+        {
             "key": "card.phanti.text",
             "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen."
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Das Ziel gewinnt 2 Rüstung und reduziert direkten Charakterschaden um 2."
+            "value": "Verringere den Evolutionszähler eines Eis-Charakters um 1; erreicht er 0, entwickelt er sich."
         },
         {
             "key": "card.potion_psychic.text",
@@ -774,7 +782,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Die LP aller Charaktere auf 1 reduzieren."
+            "value": "Zerstöre ein eingefrorenes Ziel.\nZerstöre einen Ort."
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Alle Karten in die Hand ihres Besitzers zurückgeben."
+            "value": "Friere alle Charaktere im Spiel ein.\nZerstöre Charaktere, die bereits eingefroren waren."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Die nächsten 7 Karten Ihres Decks anschauen und 1 Eis-Karte wählen."
+            "value": "Friere einen Zielcharakter ein.\nZiehe eine Karte.\nBeschwöre ein Iglu."
         },
         {
             "key": "card.spell_ice_wave.text",

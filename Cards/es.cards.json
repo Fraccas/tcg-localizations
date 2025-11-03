@@ -473,6 +473,10 @@
             "value": "<b>Jugar:</b> El ataque del personaje objetivo se reduce a 1."
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Jugar:</b> Invoca un iglú.\nSi ya tienes un iglú, roba una carta."
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>Jugar:</b> Da +2/2\n <b>Jugar:</b> Cura al jugador por 4 HP\n <b>Volador:</b> Puede ignorar provocación"
         },
@@ -605,6 +609,10 @@
             "value": "Al jugar, da +2/2 a otra criatura hasta tu próximo turno."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Después de 3 turnos, se transforma en un Peafan.\nInvoca un iglú."
+        },
+        {
             "key": "card.phanti.text",
             "value": "Cada vez que otro personaje muere, roba 1 carta."
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "El objetivo gana armadura 2 reduciendo el daño directo de personajes por 2."
+            "value": "Reduce en 1 el contador de evolución de un personaje de hielo; si llega a 0, evolucionará."
         },
         {
             "key": "card.potion_psychic.text",
@@ -774,7 +782,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Reduce los hp de todos los personajes a 1."
+            "value": "Destruye un objetivo congelado.\nDestruye una ubicación."
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Todas las cartas regresan a la mano de su propietario."
+            "value": "Congela a todos los personajes en juego.\nDestruye a los personajes que ya estaban congelados."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Mira las próximas 7 cartas de tu mazo y elige 1 carta de hielo."
+            "value": "Congela al personaje objetivo.\nRoba una carta.\nInvoca un iglú."
         },
         {
             "key": "card.spell_ice_wave.text",

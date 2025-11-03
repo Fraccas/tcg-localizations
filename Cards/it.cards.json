@@ -473,6 +473,10 @@
             "value": "<b>Giocare:</b> L'attacco del personaggio bersaglio è ridotto a 1."
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Gioca:</b> Evoca un igloo.\nSe hai già un igloo, pesca una carta."
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>Giocare:</b> +2/2\n <b>Giocare:</b> Cura il giocatore di 4 HP\n <b>Volante:</b> Può ignorare provocazione"
         },
@@ -605,6 +609,10 @@
             "value": "Durante il gioco, dona +2/2 a un'altra creatura fino al tuo prossimo turno."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Dopo 3 turni si trasforma in un Peafan.\nEvoca un igloo."
+        },
+        {
             "key": "card.phanti.text",
             "value": "Ogni volta che un altro personaggio muore, pesca 1 carta."
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Il bersaglio guadagna 2 armatura riducendo i danni diretti dei personaggi di 2."
+            "value": "Riduci di 1 il contatore evoluzione di un personaggio di ghiaccio; se arriva a 0, si evolverà."
         },
         {
             "key": "card.potion_psychic.text",
@@ -774,7 +782,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Riduce gli HP di tutti i personaggi a 1."
+            "value": "Distruggi un bersaglio congelato.\nDistruggi una posizione."
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Tutte le carte tornano nella mano del loro proprietario."
+            "value": "Congela tutti i personaggi in gioco.\nDistruggi i personaggi che erano già congelati."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Guarda le prossime 7 carte del tuo mazzo e scegli 1 carta Ghiaccio."
+            "value": "Congela il personaggio bersaglio.\nPesca una carta.\nEvoca un igloo."
         },
         {
             "key": "card.spell_ice_wave.text",
