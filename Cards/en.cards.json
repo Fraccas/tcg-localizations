@@ -473,6 +473,10 @@
             "value": "Taunt"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Play:</b> Summon an Igloo.\nIf you already have an Igloo, draw a card."
+        },
+        {
             "key": "card.lumini.text",
             "value": "<b>Play:</b> Summon an Igloo\nFlying"
         },
@@ -601,6 +605,10 @@
             "value": "<b>Play:</b> Destroy a character with 4 or less attack."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "After 3 turns, transforms into a Peafan.\nSummon an Igloo."
+        },
+        {
             "key": "card.peako.text",
             "value": "<b>Play:</b> Summon an Igloo.\nIf you already have an Igloo, draw a card."
         },
@@ -662,7 +670,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Target gains armor 2 reducing direct damage from characters by 2."
+            "value": "Lower the evolution counter of an ice character by 1, if it reaches 0 it will evolve. "
         },
         {
             "key": "card.potion_psychic.text",
@@ -802,7 +810,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Reduce the hp of all characters to 1."
+            "value": "Destroy a frozen target.\nDestroy a location."
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -846,11 +854,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "All cards return to their owner's hand."
+            "value": "Freeze all characters in play.\nDestroy characters that were already frozen. "
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Look at the next 7 cards in your deck, and choose 1 ice card."
+            "value": "Freeze target character.\nDraw a card.\nSummon Igloo"
         },
         {
             "key": "card.spell_ice_wave.text",
