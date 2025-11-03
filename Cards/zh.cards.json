@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "急速"
+            "value": "冲锋\n当有卡牌被冻结时获得 +1/+1。"
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "敌方角色 -1 攻击力。\n可无视嘲讽。"
+            "value": "<b>打出：</b>冻结所有攻击力不超过 4 点的敌方角色。\n飞行"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>攻击：</b>对目标怪物施加诅咒并使其中毒"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "将一个电系代币兑换为任意一张电系卡牌"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "所有电系怪物法力消耗减少 2（包括敌人）"
         },
@@ -225,6 +229,10 @@
             "value": "<b>打出：</b>心灵控制一名攻击力不超过 5 点的敌方角色"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "将一个火系代币兑换为任意一张火系卡牌"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>攻击：</b>使敌人灼烧。每回合失去 2 点生命值。"
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "攻击时掷 D6。在 4+ 时获得 +6 攻击力。"
+            "value": "冲锋\n当有卡牌被冻结时获得 +1/+1。"
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "死触"
+            "value": "每当你召唤地点时获得壳。\n战场上每有一个冰属性地点，获得 +1/+1。"
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "在对手回合中获得 +3 攻击力。"
+            "value": "<b>打出：</b>抽一张牌。\n战场上每有一个冰属性地点，获得 +1/+1。"
         },
         {
-            "key": "card.ice_town.text",
-            "value": "所有盟友冰系生物 +1 攻击力和 +1 生命值。"
+            "key": "card.ice_token.text",
+            "value": "将一个冰系代币兑换为任意一张冰系卡牌"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "若生命值 ≥ 2，所有友方冰属性角色获得 +0/+1\n若生命值 ≥ 4，所有友方冰属性角色获得 +1/+0\n若生命值 ≥ 6，手牌中的所有冰属性卡牌法力消耗减少 1。"
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "嘲讽"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>出场：</b> 召唤一个冰屋。\n如果你已经有冰屋，则抽一张牌。"
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>打出：</b>将目标角色的攻击力减少至 1。"
+            "value": "<b>打出：</b>召唤一个冰屋\n飞行"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>打出：</b>将目标角色的攻击力减少至 1。"
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>出场：</b> 召唤一个冰屋。\n如果你已经有冰屋，则抽一张牌。"
+            "value": "<b>打出：</b>召唤冰屋两次，并冻结一名攻击力不超过 3 点的敌方角色\n飞行"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "嘲讽\n壳"
+            "value": "<b>打出：</b>你在本局游戏中每召唤过一个冰屋，获得 +1 攻击力。\n每当你召唤地点时获得壳\n壳\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>打出：</b>摧毁一名攻击力 4 或更低的角色。"
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "经过3个回合后，变成扇羽。\n召唤一个冰屋。"
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>死亡：</b>抽一张牌。"
+            "value": "<b>打出：</b>召唤一个冰屋。\n如果你已有冰屋，则抽一张牌。"
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "打出时：为另一名生物赋予 +2/+2，直到你的下一个回合。"
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "经过3个回合后，变成扇羽。\n召唤一个冰屋。"
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>打出：</b>造成 1 点伤害。"
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "将一个植物系代币兑换为任意一张植物卡牌"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>打出：</b>选择一名你控制的盟友，将其交给对手，并赋予能力：每个回合对所有其他盟友造成 2 点伤害。"
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "将一个精神代币兑换为任意一张精神卡牌"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>打出：</b>选择一名你控制的盟友，将其交给对手，并赋予能力：每个回合开始时弃 2 张牌。"
         },
@@ -713,6 +733,10 @@
             "value": "所有岩石生物获得：“承受 1 点伤害以获得 +1 攻击力”。每次使用消耗 1 点法力。"
         },
         {
+            "key": "card.rock_token.text",
+            "value": "将一个岩石代币兑换为任意一张岩石卡牌"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "再生"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "每个回合获得 +1 攻击力。\n<b>飞行：</b>可无视嘲讽"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "将一个暗影代币兑换为任意一张暗影卡牌"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "飞行"
+            "value": "飞行\n<b>打出：</b>冻结一名攻击力不超过 2 点的敌人。"
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "对所有角色造成 2 点伤害"
+            "value": "对所有角色造成 1 点伤害，然后对所有被冻结的角色造成 2 点伤害。"
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "攻击玩家时，获得 1 点法力。"
+            "value": "冲锋"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "敌方角色 -1 攻击力。\n<b>行动：</b>使盟友获得 +1 攻击力。"
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "将一个水系代币兑换为任意一张水系卡牌"
         },
         {
             "key": "card.wido.text",

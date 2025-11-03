@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "돌진"
+            "value": "돌진\n카드가 얼려질 때마다 +1/+1을 얻습니다."
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "적 캐릭터 공격력 -1.\n 도발 무시 가능."
+            "value": "<b>놓기:</b> 공격력이 4 이하인 모든 적 캐릭터를 동결합니다.\n비행"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>공격</b>: 대상 몬스터에 저주와 독 부여"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "전기 토큰을 아무 전기 카드와 교환합니다"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "모든 전기 몬스터 2 마나 적게 (적 포함)"
         },
@@ -225,6 +229,10 @@
             "value": "<b>놓기:</b> 마나 비용 5 이하 적 캐릭터 정신 지배"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "불 토큰을 아무 불 카드와 교환합니다"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>공격:</b> 적 화상. 턴당 2 HP 감소."
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "공격 시 D6 굴리기. 4+ 시 +6 공격."
+            "value": "돌진\n카드가 얼려질 때마다 +1/+1을 얻습니다."
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "치명타"
+            "value": "지역을 소환할 때마다 껍데기를 얻습니다.\n전장에 있는 얼음 지역마다 +1/+1을 얻습니다."
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "상대 턴 중 +3 공격."
+            "value": "<b>놓기:</b> 카드 1장을 뽑습니다.\n전장에 있는 얼음 지역마다 +1/+1을 얻습니다."
         },
         {
-            "key": "card.ice_town.text",
-            "value": "모든 아군 얼음 생물 +1 공격과 +1 HP."
+            "key": "card.ice_token.text",
+            "value": "얼음 토큰을 아무 얼음 카드와 교환합니다"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "HP가 2 이상이면 모든 아군 얼음 캐릭터는 +0/+1을 얻습니다\nHP가 4 이상이면 모든 아군 얼음 캐릭터는 +1/+0을 얻습니다\nHP가 6 이상이면 손의 모든 얼음 카드 비용이 1 감소합니다."
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "도발"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>플레이:</b> 이글루를 소환합니다.\n이미 이글루가 있다면 카드를 1장 뽑습니다."
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
+            "value": "<b>놓기:</b> 이글루를 소환합니다\n비행"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>플레이:</b> 이글루를 소환합니다.\n이미 이글루가 있다면 카드를 1장 뽑습니다."
+            "value": "<b>놓기:</b> 이글루를 두 번 소환하고 공격력 3 이하의 적 캐릭터 하나를 동결합니다\n비행"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "도발\n 껍데기"
+            "value": "<b>놓기:</b> 이번 게임에서 소환한 이글루마다 +1 공격력을 얻습니다.\n지역을 소환할 때마다 껍데기를 얻습니다\n껍데기\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>놓기:</b> 공격 4 이하 캐릭터 파괴."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "3턴 후 피팬으로 변신합니다.\n이글루를 소환합니다."
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>죽음:</b> 카드 1장 뽑기."
+            "value": "<b>놓기:</b> 이글루를 소환합니다.\n이미 이글루가 있다면 카드 1장을 뽑습니다."
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "놓을 때 다른 생물에 다음 턴까지 +2/2 부여."
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "3턴 후 피팬으로 변신합니다.\n이글루를 소환합니다."
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>놓기:</b> 1 피해 주기."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "식물 토큰을 아무 식물 카드와 교환합니다"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>놓기:</b> 양측 캐릭터 선택 후 상대에게 보내기.\n 각 턴 시작 시 모든 아군에게 2 피해. "
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "정신 토큰을 아무 정신 카드와 교환합니다"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>플레이:</b> 자신의 캐릭터 하나를 선택해 상대에게 보냅니다. 능력: 적 캐릭터가 +1/+2를 얻습니다"
         },
@@ -713,6 +733,10 @@
             "value": "모든 바위 생물: \"1 피해 받아 +1 공격 획득\". 사용당 1 마나."
         },
         {
+            "key": "card.rock_token.text",
+            "value": "바위 토큰을 아무 바위 카드와 교환합니다"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "재생"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "각 턴, +1 공격 획득.\n <b>비행</b> 도발 무시 가능"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "그림자 토큰을 아무 그림자 카드와 교환합니다"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "비행"
+            "value": "비행\n<b>놓기:</b> 공격력 2 이하의 적을 동결합니다."
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "모든 캐릭터에게 2 피해"
+            "value": "모든 캐릭터에게 1 피해를 주고, 얼어 있는 모든 캐릭터에게 추가로 2 피해를 줍니다."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "플레이어 공격 시 1 마나 획득."
+            "value": "돌진"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "적 캐릭터 공격 -1.\n <b>행동:</b> 아군 +1 공격."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "물 토큰을 아무 물 카드와 교환합니다"
         },
         {
             "key": "card.wido.text",

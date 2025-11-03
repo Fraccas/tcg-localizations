@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "ラッシュ"
+            "value": "ラッシュ\nカードが凍結するたびに+1/+1を得る。"
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "敵キャラクターの攻撃力-1。\n挑発を無視できる。"
+            "value": "<b>プレイ:</b> 攻撃力4以下の敵キャラクターをすべて凍結する。\nフライング"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>攻撃</b>: 対象のモンスターに呪いと毒を与える"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "エレクトリックトークンを任意のエレクトリックカードと交換する"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "すべての電気モンスター（敵味方問わず）のマナコストが2少なくなる"
         },
@@ -225,6 +229,10 @@
             "value": "<b>プレイ:</b> 攻撃力5以下の敵キャラクターをマインドコントロールする"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "ファイアトークンを任意のファイアカードと交換する"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>攻撃:</b> 敵を火傷させ、毎ターン2HP失わせる。"
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "攻撃時にD6を振り、4以上なら攻撃力+6を得る。"
+            "value": "ラッシュ\nカードが凍結するたびに+1/+1を得る。"
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "接死"
+            "value": "ロケーションを召喚するたびにシェルを得る。\n場にあるアイスロケーション1つにつき+1/+1を得る。"
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "相手のターン中に+3攻撃。"
+            "value": "<b>プレイ:</b> カードを1枚引く。\n場にあるアイスロケーション1つにつき+1/+1を得る。"
         },
         {
-            "key": "card.ice_town.text",
-            "value": "すべての同盟アイスクリーチャーは+1攻撃と+1 HP。"
+            "key": "card.ice_token.text",
+            "value": "アイストークンを任意のアイスカードと交換する"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "HPが2以上なら味方のアイスキャラクターは+0/+1を得る\nHPが4以上なら味方のアイスキャラクターは+1/+0を得る\nHPが6以上なら手札のアイスカードのコストが1減る。"
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "挑発"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>プレイ:</b> イグルーを召喚する。\nすでにイグルーがあるなら、カードを1枚引く。"
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>プレイ:</b> 対象キャラクターの攻撃を1に減少。"
+            "value": "<b>プレイ:</b> イグルーを召喚する\nフライング"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>プレイ:</b> 対象キャラクターの攻撃を1に減少。"
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>プレイ:</b> イグルーを召喚する。\nすでにイグルーがあるなら、カードを1枚引く。"
+            "value": "<b>プレイ:</b> イグルーを2回召喚し、攻撃力3以下の敵キャラクターを1体凍結する\nフライング"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "挑発\n シェル"
+            "value": "<b>プレイ:</b> このゲームで召喚したイグルー1つにつき+1攻撃力を得る。\nロケーションを召喚するたびにシェルを得る\nシェル\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>プレイ:</b> 攻撃4以下のキャラクターを破壊。"
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "3ターン後、ピーファンに変身する。\nイグルーを召喚する。"
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>死:</b> カードを1枚引く。"
+            "value": "<b>プレイ:</b> イグルーを召喚する。\nすでにイグルーがあるならカードを1枚引く。"
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "プレイ時に、他のクリーチャーに次のターンまで+2/2を付与。"
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "3ターン後、ピーファンに変身する。\nイグルーを召喚する。"
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>プレイ:</b> 1ダメージを与える。"
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "プラントトークンを任意のプラントカードと交換する"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>プレイ:</b> 自分のキャラクターを1体選び、相手側へ送る。そのキャラクターは「各ターン全味方に2ダメージ」を得る。"
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "サイキックトークンを任意のサイキックカードと交換する"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>プレイ:</b> 自分のキャラクターを1体選び、相手側へ送る。そのキャラクターは「各ターン開始時にカードを2枚捨てる」を得る。"
         },
@@ -713,6 +733,10 @@
             "value": "すべてのロッククリーチャーは「1ダメージを受けて+1攻撃を獲得」。1マナ/使用。"
         },
         {
+            "key": "card.rock_token.text",
+            "value": "ロックトークンを任意のロックカードと交換する"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "再生"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "各ターン、+1攻撃を獲得。\n <b>フライング</b> 挑発を無視可能"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "シャドウトークンを任意のシャドウカードと交換する"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "フライング"
+            "value": "フライング\n<b>プレイ:</b> 攻撃力2以下の敵を凍結する。"
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "すべてのキャラクターに2ダメージ"
+            "value": "すべてのキャラクターに1ダメージを与え、その後凍結しているすべてのキャラクターに2ダメージを与える。"
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "プレイヤーを攻撃すると、1マナを獲得。"
+            "value": "ラッシュ"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "敵キャラクターは-1攻撃。\n <b>アクション:</b> 味方に+1攻撃。"
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "ウォータートークンを任意のウォーターカードと交換する"
         },
         {
             "key": "card.wido.text",

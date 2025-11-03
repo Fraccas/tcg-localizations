@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "ASSAUT"
+            "value": "Ruée\nGagne +1/+1 lorsqu'une carte est gelée."
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "Les personnages ennemis ont -1 attaque.\n Peut ignorer la provocation."
+            "value": "<b>Jouer :</b> Gèle tous les personnages ennemis ayant 4 d'attaque ou moins.\nVolant"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>Attaque</b> : Maudit et empoisonne le monstre ciblé"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "Échangez un jeton électrique contre n'importe quelle carte électrique"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "Tous les monstres Électriques coûtent 2 mana de moins (y compris les ennemis)"
         },
@@ -225,6 +229,10 @@
             "value": "<b>Jouer :</b> Contrôle mental sur un personnage ennemi avec un coût de mana de 5 ou moins"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "Échangez un jeton de feu contre n'importe quelle carte de feu"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>Attaque :</b> Brûle l'ennemi. Ils perdent 2 PV par tour."
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Lors de l'attaque, lancez un D6. À 4+ gagnez +6 attaque."
+            "value": "Ruée\nGagne +1/+1 lorsqu'une carte est gelée."
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Toucher mortel"
+            "value": "Gagne Coquille chaque fois que vous invoquez un lieu.\nGagne +1/+1 pour chaque lieu de glace en jeu."
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "A +3 attaque pendant le tour de l'adversaire."
+            "value": "<b>Jouer :</b> Piochez une carte.\nGagne +1/+1 pour chaque lieu de glace en jeu."
         },
         {
-            "key": "card.ice_town.text",
-            "value": "Toutes les créatures de Glace alliées ont +1 attaque et +1 PV."
+            "key": "card.ice_token.text",
+            "value": "Échangez un jeton de glace contre n'importe quelle carte de glace"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "Si les PV ≥ 2, tous les personnages de glace alliés gagnent +0/+1\nSi les PV ≥ 4, tous les personnages de glace alliés gagnent +1/+0\nSi les PV ≥ 6, toutes les cartes de glace en main coûtent 1 de moins."
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "Provocation"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Jeu :</b> Invoquez un igloo.\nSi vous avez déjà un igloo, piochez une carte."
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
+            "value": "<b>Jouer :</b> Invoque un igloo\nVolant"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>Jeu :</b> Invoquez un igloo.\nSi vous avez déjà un igloo, piochez une carte."
+            "value": "<b>Jouer :</b> Invoque deux fois un igloo et gèle un personnage ennemi avec 3 d'attaque ou moins\nVolant"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "Provocation\n Coquille"
+            "value": "<b>Jouer :</b> Gagne +1 attaque pour chaque igloo que vous avez invoqué dans cette partie.\nGagne Coquille chaque fois que vous invoquez un lieu\nCoquille\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>Jouer :</b> Détruit un personnage avec 4 attaque ou moins."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Après 3 tours, se transforme en Peafan.\nInvoquez un igloo."
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>Mort :</b> Piochez une carte."
+            "value": "<b>Jouer :</b> Invoque un igloo.\nSi vous avez déjà un igloo, piochez une carte."
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "Lors du jeu, donne +2/2 à une autre créature jusqu'à votre prochain tour."
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "Après 3 tours, se transforme en Peafan.\nInvoquez un igloo."
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>Jouer :</b> Inflige 1 dégât."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Échangez un jeton de plante contre n'importe quelle carte de plante"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>Jouer :</b> Sélectionnez un personnage de n'importe quel côté et envoyez-le à l'autre joueur.\n Au début de chaque tour inflige 2 dégâts à tous les alliés. "
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "Échangez un jeton psychique contre n'importe quelle carte psychique"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>Jouer :</b> Sélectionnez un personnage sous votre contrôle et envoyez-le à l’autre joueur avec la capacité : les personnages ennemis gagnent +1/+2"
         },
@@ -713,6 +733,10 @@
             "value": "Toutes les créatures Roche gagnent : \"Subit 1 dégât pour gagner +1 attaque\". Coût de 1 mana par utilisation."
         },
         {
+            "key": "card.rock_token.text",
+            "value": "Échangez un jeton de roche contre n'importe quelle carte de roche"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "Régénération"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "Chaque tour, gagnez +1 attaque.\n <b>Volant</b> Peut ignorer la provocation"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Échangez un jeton d'ombre contre n'importe quelle carte d'ombre"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Volant"
+            "value": "Volant\n<b>Jouer :</b> Gèle un ennemi avec 2 d'attaque ou moins."
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Inflige 2 dégâts à tous les personnages"
+            "value": "Inflige 1 dégât à tous les personnages, puis 2 dégâts à tous les personnages gelés."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "Lors de l'attaque d'un joueur, gagnez 1 mana."
+            "value": "Ruée"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "Les personnages ennemis ont -1 attaque.\n <b>Action :</b> +1 attaque aux alliés."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Échangez un jeton d'eau contre n'importe quelle carte d'eau"
         },
         {
             "key": "card.wido.text",
