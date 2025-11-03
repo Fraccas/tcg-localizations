@@ -473,6 +473,10 @@
             "value": "<b>놓기:</b> 대상 캐릭터 공격력 1로 감소."
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>플레이:</b> 이글루를 소환합니다.\n이미 이글루가 있다면 카드를 1장 뽑습니다."
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>놓기:</b> +2/2 부여\n <b>놓기:</b> 플레이어 4 HP 치유\n <b>비행:</b> 도발 무시 가능"
         },
@@ -605,6 +609,10 @@
             "value": "놓을 때 다른 생물에 다음 턴까지 +2/2 부여."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "3턴 후 피팬으로 변신합니다.\n이글루를 소환합니다."
+        },
+        {
             "key": "card.phanti.text",
             "value": "다른 캐릭터 죽을 때마다 카드 1장 뽑기."
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "대상 2 방어막 획득, 캐릭터 직접 피해 2 감소."
+            "value": "얼음 캐릭터의 진화 카운터를 1 낮춥니다. 0이 되면 진화합니다."
         },
         {
             "key": "card.potion_psychic.text",
@@ -774,7 +782,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "모든 캐릭터 HP 1로 감소."
+            "value": "얼어붙은 대상을 파괴합니다.\n지역을 파괴합니다."
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "모든 카드 소유자 손으로 돌려보내기."
+            "value": "전장에 있는 모든 캐릭터를 얼립니다.\n이미 얼어 있던 캐릭터를 파괴합니다."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "덱 다음 7장 보고 얼음 카드 1장 선택."
+            "value": "대상 캐릭터를 얼립니다.\n카드를 1장 뽑습니다.\n이글루를 소환합니다."
         },
         {
             "key": "card.spell_ice_wave.text",

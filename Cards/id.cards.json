@@ -473,6 +473,10 @@
             "value": "<b>Mainkan:</b> Serangan karakter target menjadi 1."
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Mainkan:</b> Panggil Igloo.\nJika kamu sudah memiliki Igloo, ambil satu kartu."
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>Mainkan:</b> Berikan +2/2\n<b>Mainkan:</b> Pulihkan pemain sebesar 4 HP\n<b>Terbang:</b> Dapat mengabaikan tantang"
         },
@@ -605,6 +609,10 @@
             "value": "Saat dimainkan, berikan +2/2 kepada makhluk lain hingga giliranmu berikutnya."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Setelah 3 giliran, berubah menjadi Peafan.\nPanggil Igloo."
+        },
+        {
             "key": "card.phanti.text",
             "value": "Setiap kali karakter lain mati, ambil 1 kartu."
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Target mendapat perisai 2 yang mengurangi kerusakan langsung dari karakter sebesar 2."
+            "value": "Turunkan penghitung evolusi karakter es sebanyak 1; jika mencapai 0, karakter itu akan berevolusi."
         },
         {
             "key": "card.potion_psychic.text",
@@ -774,7 +782,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Kurangi HP semua karakter menjadi 1."
+            "value": "Hancurkan target yang beku.\nHancurkan lokasi."
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Semua kartu kembali ke tangan pemiliknya."
+            "value": "Bekukan semua karakter di permainan.\nHancurkan karakter yang sudah beku."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Lihat 7 kartu berikutnya di dekmu, dan pilih 1 kartu es."
+            "value": "Bekukan karakter target.\nAmbil satu kartu.\nPanggil Igloo."
         },
         {
             "key": "card.spell_ice_wave.text",

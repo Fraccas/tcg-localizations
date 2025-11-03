@@ -473,6 +473,10 @@
             "value": "<b>プレイ:</b> 対象キャラクターの攻撃を1に減少。"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>プレイ:</b> イグルーを召喚する。\nすでにイグルーがあるなら、カードを1枚引く。"
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>プレイ:</b> +2/2を付与\n <b>プレイ:</b> プレイヤーを4 HP回復\n <b>フライング:</b> 挑発を無視可能"
         },
@@ -605,6 +609,10 @@
             "value": "プレイ時に、他のクリーチャーに次のターンまで+2/2を付与。"
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "3ターン後、ピーファンに変身する。\nイグルーを召喚する。"
+        },
+        {
             "key": "card.phanti.text",
             "value": "他のキャラクターが死ぬたび、1枚のカードを引く。"
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "対象はアーマー+2を得て、キャラクターから受けるダメージを2軽減する。"
+            "value": "氷キャラクターの進化カウンターを1減らす。0になった場合、そのキャラクターは進化する。"
         },
         {
             "key": "card.potion_psychic.text",
@@ -774,7 +782,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "すべてのキャラクターのHPを1に減少。"
+            "value": "凍結状態の対象を破壊する。\nロケーションを破壊する。"
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "すべてのカードを所有者の手札に戻す。"
+            "value": "場のすべてのキャラクターを凍結する。\nすでに凍結されているキャラクターを破壊する。"
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "デッキの次の7枚を見て、1枚のアイスカードを選択。"
+            "value": "対象のキャラクターを凍結する。\nカードを1枚引く。\nイグルーを召喚する。"
         },
         {
             "key": "card.spell_ice_wave.text",

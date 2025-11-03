@@ -473,6 +473,10 @@
             "value": "<b>Jogar:</b> O ataque do personagem alvo é reduzido para 1."
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Jogar:</b> Invoque um iglu.\nSe você já tiver um iglu, compre uma carta."
+        },
+        {
             "key": "card.lurian.text",
             "value": "<b>Jogar:</b> Dá +2/2\n <b>Jogar:</b> Cura o jogador em 4 PV\n <b>Voador:</b> Pode ignorar provocação"
         },
@@ -605,6 +609,10 @@
             "value": "Ao jogar, dá +2/2 para outra criatura até o seu próximo turno."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Após 3 turnos, transforma-se em um Peafan.\nInvoque um iglu."
+        },
+        {
             "key": "card.phanti.text",
             "value": "Sempre que outro personagem morrer, compre 1 carta."
         },
@@ -646,7 +654,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "O alvo ganha 2 armaduras reduzindo o dano direto de personagens em 2."
+            "value": "Reduza em 1 o contador de evolução de um personagem de gelo; se chegar a 0, ele evolui."
         },
         {
             "key": "card.potion_psychic.text",
@@ -774,7 +782,7 @@
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Reduz os PV de todos os personagens para 1."
+            "value": "Destrua um alvo congelado.\nDestrua uma localização."
         },
         {
             "key": "card.spell_boost_electric.text",
@@ -818,11 +826,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Todas as cartas retornam à mão de seu proprietário."
+            "value": "Congele todos os personagens em jogo.\nDestrua os personagens que já estavam congelados."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Veja as próximas 7 cartas do seu baralho e escolha 1 carta de Gelo."
+            "value": "Congele o personagem alvo.\nCompre uma carta.\nInvoque um iglu."
         },
         {
             "key": "card.spell_ice_wave.text",
