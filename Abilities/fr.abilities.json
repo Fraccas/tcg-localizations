@@ -217,6 +217,14 @@
       "value": "Boost Lieu"
     },
     {
+      "key": "ability.add_hp1_attack1_location.desc",
+      "value": "Gain +1 HP and +1 Attack for every allied location of the same element type is in play."
+    },
+    {
+      "key": "ability.add_hp1_attack1_location.title",
+      "value": "Location Boost"
+    },
+    {
       "key": "ability.add_spell_damage1.desc",
       "value": "Tous tes sorts et capacités infligent +1 dégât."
     },
@@ -561,6 +569,14 @@
       "value": "Manger"
     },
     {
+      "key": "ability.death_summon_igloo.desc",
+      "value": "On death summon an Igloo"
+    },
+    {
+      "key": "ability.death_summon_igloo.title",
+      "value": "Summon Igloo"
+    },
+    {
       "key": "ability.death_summon_twii.desc",
       "value": "Quand cette créature meurt, invoquez un Twii."
     },
@@ -602,7 +618,7 @@
     },
     {
       "key": "ability.defense_attack5.desc",
-      "value": "A +3 d'attaque pendant le tour de l'adversaire."
+      "value": "Has +5 attack during the opponent's turn."
     },
     {
       "key": "ability.defense_attack5.title",
@@ -733,6 +749,14 @@
       "value": "Furie"
     },
     {
+      "key": "ability.gain_shell_on_artifact_play.desc",
+      "value": "Gain shell each time you summon a location."
+    },
+    {
+      "key": "ability.gain_shell_on_artifact_play.title",
+      "value": "Gain Shell"
+    },
+    {
       "key": "ability.ghost.desc",
       "value": "Ne subit pas de dégâts en attaquant."
     },
@@ -747,6 +771,14 @@
     {
       "key": "ability.haste.title",
       "value": "Hâte"
+    },
+    {
+      "key": "ability.icy_buff1.desc",
+      "value": "Gain +1 for when an enemy is frozen."
+    },
+    {
+      "key": "ability.icy_buff1.title",
+      "value": "Icy Buff"
     },
     {
       "key": "ability.kill_draw1.desc",
@@ -1037,6 +1069,14 @@
       "value": "Dégâts Électriques"
     },
     {
+      "key": "ability.play_damage_frozen2.desc",
+      "value": "On play, deal 2 damage to frozen characters"
+    },
+    {
+      "key": "ability.play_damage_frozen2.title",
+      "value": "Damage"
+    },
+    {
       "key": "ability.play_deal_damage_cards_players2.desc",
       "value": "À l'entrée en jeu, infligez 1 dégât à n'importe quelle cible."
     },
@@ -1117,6 +1157,14 @@
       "value": "Pioche"
     },
     {
+      "key": "ability.play_draw_ice_location.desc",
+      "value": "If an igloo is in play, draw a card."
+    },
+    {
+      "key": "ability.play_draw_ice_location.title",
+      "value": "Igloo Draw"
+    },
+    {
       "key": "ability.play_enemy_discard.desc",
       "value": "L'adversaire défausse une carte aléatoire de sa main."
     },
@@ -1133,12 +1181,60 @@
       "value": "Gel"
     },
     {
+      "key": "ability.play_freeze_2al.desc",
+      "value": "Target character becomes frozen for 1 turn."
+    },
+    {
+      "key": "ability.play_freeze_2al.title",
+      "value": "Freeze"
+    },
+    {
+      "key": "ability.play_freeze_3al.desc",
+      "value": "Target character becomes frozen for 1 turn."
+    },
+    {
+      "key": "ability.play_freeze_3al.title",
+      "value": "Freeze"
+    },
+    {
+      "key": "ability.play_freeze_all.desc",
+      "value": "All characters become frozen."
+    },
+    {
+      "key": "ability.play_freeze_all.title",
+      "value": "Big Blizzard"
+    },
+    {
+      "key": "ability.play_freeze_all_4al.desc",
+      "value": "All enemies with 4 or less attack become frozen."
+    },
+    {
+      "key": "ability.play_freeze_all_4al.title",
+      "value": "Blizzard"
+    },
+    {
+      "key": "ability.play_gain_attack1_ice_location_played.desc",
+      "value": "Grants +1 attack for every Igloo played this game. "
+    },
+    {
+      "key": "ability.play_gain_attack1_ice_location_played.title",
+      "value": "Igloo Bonus"
+    },
+    {
       "key": "ability.play_gain_rush_ice_location.desc",
       "value": "Gagne Ruée si un lieu de glace est en jeu. La Ruée permet d'attaquer d'autres cartes le tour où elle est jouée."
     },
     {
       "key": "ability.play_gain_rush_ice_location.title",
       "value": "Ruée Verglacée"
+    },
+    {
+      "key": "ability.play_gain_rush_if_igloo.desc",
+      "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+    },
+    {
+      "key": "ability.play_gain_rush_if_igloo.title",
+      "value": "Slush Rush"
     },
     {
       "key": "ability.play_heal_player2.desc",
@@ -1286,11 +1382,35 @@
     },
     {
       "key": "ability.play_summon_hajiko.desc",
-      "value": "À la mort, invoquez un Hajiko."
+      "value": "On play summon a Hajiko"
     },
     {
       "key": "ability.play_summon_hajiko.title",
       "value": "Invoquer Hajiko"
+    },
+    {
+      "key": "ability.play_summon_igloo.desc",
+      "value": "On play summon an Igloo"
+    },
+    {
+      "key": "ability.play_summon_igloo.title",
+      "value": "Summon Igloo"
+    },
+    {
+      "key": "ability.play_summon_igloo_if_none.desc",
+      "value": "Summon an igloo is one is not already in play."
+    },
+    {
+      "key": "ability.play_summon_igloo_if_none.title",
+      "value": "Build Igloo"
+    },
+    {
+      "key": "ability.play_summon_igloo2.desc",
+      "value": "On play summon 2 Igloos"
+    },
+    {
+      "key": "ability.play_summon_igloo2.title",
+      "value": "Summon Igloo"
     },
     {
       "key": "ability.play_switch_sides_2ml.desc",
@@ -1502,7 +1622,7 @@
     },
     {
       "key": "ability.spell_destroy_all.desc",
-      "value": "Détruit toutes les créatures sur le plateau"
+      "value": "Destroy all cards on the board"
     },
     {
       "key": "ability.spell_destroy_all.title",
@@ -1515,6 +1635,22 @@
     {
       "key": "ability.spell_destroy_frozen_all.title",
       "value": "Vague Gelée"
+    },
+    {
+      "key": "ability.spell_destroy_frozen_target.desc",
+      "value": "Target and destroy a frozen character."
+    },
+    {
+      "key": "ability.spell_destroy_frozen_target.title",
+      "value": "Ice Breaker"
+    },
+    {
+      "key": "ability.spell_destroy_location_target.desc",
+      "value": "Target a location and destroy it."
+    },
+    {
+      "key": "ability.spell_destroy_location_target.title",
+      "value": "Avalanche"
     },
     {
       "key": "ability.spell_destroy_locations.desc",
@@ -1607,6 +1743,14 @@
     {
       "key": "ability.spell_hp2.title",
       "value": "PV +2"
+    },
+    {
+      "key": "ability.spell_ice_lower_evolution_counter1.desc",
+      "value": "Speed up evolution by 1 turn for an ice character"
+    },
+    {
+      "key": "ability.spell_ice_lower_evolution_counter1.title",
+      "value": "Ice Evolution Decrease"
     },
     {
       "key": "ability.spell_ice_treasure.desc",
@@ -1785,12 +1929,28 @@
       "value": "Aura de Feu"
     },
     {
-      "key": "ability.town_aura_ice.desc",
-      "value": "Toutes les créatures alliées Glace gagnent +1 attaque et PV."
+      "key": "ability.town_aura_ice_igloo1.desc",
+      "value": "All allied Ice creatures gain +1 HP."
     },
     {
-      "key": "ability.town_aura_ice.title",
-      "value": "Aura de Glace"
+      "key": "ability.town_aura_ice_igloo1.title",
+      "value": "Igloo Aura"
+    },
+    {
+      "key": "ability.town_aura_ice_igloo2.desc",
+      "value": "All allied Ice creatures gain +1 Attack."
+    },
+    {
+      "key": "ability.town_aura_ice_igloo2.title",
+      "value": "Igloo Aura 2"
+    },
+    {
+      "key": "ability.town_aura_ice_igloo3.desc",
+      "value": "All allied Ice cards cost 1 less."
+    },
+    {
+      "key": "ability.town_aura_ice_igloo3.title",
+      "value": "Igloo Aura 3"
     },
     {
       "key": "ability.town_aura_plant.desc",
@@ -1934,6 +2094,14 @@
     },
     {
       "key": "ability.trap_poison_all.title",
+      "value": "Poison"
+    },
+    {
+      "key": "ability.trap_poison_attacker.desc",
+      "value": "After an enemy creature attacks, poison it"
+    },
+    {
+      "key": "ability.trap_poison_attacker.title",
       "value": "Poison"
     },
     {
@@ -2283,6 +2451,14 @@
     {
       "key": "trait.growth.title",
       "value": "Croissance"
+    },
+    {
+      "key": "trait.ice_nature.title",
+      "value": "Ice Nature"
+    },
+    {
+      "key": "trait.igloo.title",
+      "value": "Igloo"
     },
     {
       "key": "trait.mind_control_counter.title",
