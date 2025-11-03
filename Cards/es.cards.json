@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "EMBESTIDA"
+            "value": "Embate\nObtiene +1/+1 cuando una carta se congela."
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "Los personajes enemigos tienen -1 ataque.\n Puede ignorar provocación."
+            "value": "<b>Jugar:</b> Congela a todos los personajes enemigos con 4 o menos de ataque.\nVolador"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>Ataque</b>: Maldice y envenena al monstruo objetivo"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "Intercambia una ficha Eléctrica por cualquier carta Eléctrica"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "Todos los monstruos Eléctricos cuestan 2 maná menos (incluye enemigos)"
         },
@@ -225,6 +229,10 @@
             "value": "<b>Jugar:</b> Control Mental a un personaje enemigo con un costo de maná de 5 o menos"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "Intercambia una ficha de Fuego por cualquier carta de Fuego"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>Ataque:</b> Quema al enemigo. Pierden 2 HP cada turno."
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Al atacar, tira un D6. En 4+ gana +6 ataque."
+            "value": "Embate\nObtiene +1/+1 cuando una carta se congela."
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Toque Mortal"
+            "value": "Gana Caparazón cada vez que invoques una ubicación.\nGana +1/+1 por cada ubicación de hielo en juego."
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "Tiene +3 ataque durante el turno del oponente."
+            "value": "<b>Jugar:</b> Roba una carta.\nGana +1/+1 por cada ubicación de hielo en juego."
         },
         {
-            "key": "card.ice_town.text",
-            "value": "Todas las criaturas de Hielo aliadas tienen +1 ataque y +1 HP."
+            "key": "card.ice_token.text",
+            "value": "Intercambia una ficha de Hielo por cualquier carta de Hielo"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "Si los PV son 2+, todos los personajes de hielo aliados ganan +0/+1\nSi los PV son 4+, todos los personajes de hielo aliados ganan +1/+0\nSi los PV son 6+, todas las cartas de Hielo en la mano cuestan 1 menos."
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "Provocación"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Jugar:</b> Invoca un iglú.\nSi ya tienes un iglú, roba una carta."
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>Jugar:</b> El ataque del personaje objetivo se reduce a 1."
+            "value": "<b>Jugar:</b> Invoca un iglú\nVolador"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Jugar:</b> El ataque del personaje objetivo se reduce a 1."
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>Jugar:</b> Invoca un iglú.\nSi ya tienes un iglú, roba una carta."
+            "value": "<b>Jugar:</b> Invoca iglú dos veces y congela a un personaje enemigo con 3 o menos de ataque\nVolador"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "Provocación\n Caparazón"
+            "value": "<b>Jugar:</b> Gana +1 ataque por cada iglú que hayas invocado en esta partida.\nGana Caparazón cada vez que invoques una ubicación\nCaparazón\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>Jugar:</b> Destruye un personaje con 4 o menos ataque."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Después de 3 turnos, se transforma en un Peafan.\nInvoca un iglú."
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>Muerte:</b> Roba una carta."
+            "value": "<b>Jugar:</b> Invoca un iglú.\nSi ya tienes un iglú, roba una carta."
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "Al jugar, da +2/2 a otra criatura hasta tu próximo turno."
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "Después de 3 turnos, se transforma en un Peafan.\nInvoca un iglú."
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>Jugar:</b> Inflige 1 daño."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Intercambia una ficha de Planta por cualquier carta de Planta"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>Jugar:</b> Selecciona un personaje de cualquier lado y envíalo al otro jugador.\n Al inicio de cada turno inflige 2 daños a todos los aliados. "
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "Intercambia una ficha Psíquica por cualquier carta Psíquica"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>Jugar:</b> Selecciona un personaje bajo tu control y envíalo al otro jugador con la habilidad: los personajes enemigos obtienen +1/+2"
         },
@@ -713,6 +733,10 @@
             "value": "Todas las criaturas de Roca ganan: \"Recibe 1 daño para ganar +1 ataque\". Costo de 1 maná por uso."
         },
         {
+            "key": "card.rock_token.text",
+            "value": "Intercambia una ficha de Roca por cualquier carta de Roca"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "Regeneración"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "Cada turno, gana +1 ataque.\n <b>Volador</b> Puede ignorar provocación"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Intercambia una ficha de Sombra por cualquier carta de Sombra"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Volador"
+            "value": "Volador\n<b>Jugar:</b> Congela a un enemigo con 2 o menos de ataque."
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Inflige 2 daños a todos los personajes"
+            "value": "Inflige 1 de daño a todos los personajes, luego inflige 2 de daño a todos los personajes congelados."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "Al atacar a un jugador, gana 1 maná."
+            "value": "Embate"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "Los personajes enemigos tienen -1 ataque.\n <b>Acción:</b> +1 ataque a aliados."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Intercambia una ficha de Agua por cualquier carta de Agua"
         },
         {
             "key": "card.wido.text",

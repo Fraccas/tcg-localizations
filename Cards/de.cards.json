@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "ANSTURM"
+            "value": "Sturmangriff\nErhält +1/+1, wenn eine Karte eingefroren wird."
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "Feindliche Charaktere haben -1 Angriff.\n Kann Spott ignorieren."
+            "value": "<b>Spielen:</b> Friere alle feindlichen Charaktere mit 4 oder weniger Angriff ein.\nFliegen"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>Angriff</b>: Das Zielmonster verfluchen und vergiften"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "Tausche Elektro-Token gegen eine beliebige Elektro-Karte ein"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "Alle Elektro-Monster kosten 2 Mana weniger (einschließlich Feinde)"
         },
@@ -225,6 +229,10 @@
             "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Charakter mit Mana-Kosten von 5 oder weniger"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "Tausche Feuer-Token gegen eine beliebige Feuer-Karte ein"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>Angriff:</b> Den Feind verbrennen. Sie verlieren 2 LP pro Zug."
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Beim Angreifen D6 würfeln. Bei 4+ +6 Angriff gewinnen."
+            "value": "Sturmangriff\nErhält +1/+1, wenn eine Karte eingefroren wird."
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Todesberührung"
+            "value": "Erhalte Schale, wann immer du einen Ort beschwörst.\nErhält +1/+1 für jeden Eis-Ort im Spiel."
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "Hat +3 Angriff während des Zuges des Gegners."
+            "value": "<b>Spielen:</b> Ziehe eine Karte.\nErhält +1/+1 für jeden Eis-Ort im Spiel."
         },
         {
-            "key": "card.ice_town.text",
-            "value": "Alle verbündeten Eis-Kreaturen haben +1 Angriff und +1 LP."
+            "key": "card.ice_token.text",
+            "value": "Tausche Eis-Token gegen eine beliebige Eis-Karte ein"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "Wenn LP ≥ 2, erhalten alle verbündeten Eischaraktere +0/+1\nWenn LP ≥ 4, erhalten alle verbündeten Eischaraktere +1/+0\nWenn LP ≥ 6, kosten alle Eiskarten auf der Hand 1 weniger."
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "Spott"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Ausspielen:</b> Beschwöre ein Iglu.\nWenn du bereits ein Iglu hast, ziehe eine Karte."
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
+            "value": "<b>Spielen:</b> Beschwöre ein Iglu\nFliegen"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>Ausspielen:</b> Beschwöre ein Iglu.\nWenn du bereits ein Iglu hast, ziehe eine Karte."
+            "value": "<b>Spielen:</b> Beschwöre zweimal ein Iglu und friere einen feindlichen Charakter mit 3 oder weniger Angriff ein\nFliegen"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "Spott\n Schale"
+            "value": "<b>Spielen:</b> Erhalte +1 Angriff für jedes Iglu, das du in diesem Spiel beschworen hast.\nErhalte Schale, wann immer du einen Ort beschwörst\nSchale\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>Spielen:</b> Einen Charakter mit 4 oder weniger Angriff zerstören."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Verwandelt sich nach 3 Zügen in einen Peafan.\nBeschwöre ein Iglu."
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>Tod:</b> Eine Karte ziehen."
+            "value": "<b>Spielen:</b> Beschwöre ein Iglu.\nWenn du bereits ein Iglu hast, ziehe eine Karte."
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "Beim Spielen +2/2 an eine andere Kreatur bis zu Ihrem nächsten Zug geben."
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "Verwandelt sich nach 3 Zügen in einen Peafan.\nBeschwöre ein Iglu."
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>Spielen:</b> 1 Schaden zufügen."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Tausche Pflanzen-Token gegen eine beliebige Pflanzen-Karte ein"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>Spielen:</b> Wählen Sie ein Charakter von jeder Seite und senden Sie sie an den anderen Spieler.\n Zu Beginn jedes Zuges 2 Schaden an alle Verbündeten zufügen. "
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "Tausche Psychisch-Token gegen eine beliebige psychische Karte ein"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>Spielen:</b> Wähle einen Charakter unter deiner Kontrolle und schicke ihn zum anderen Spieler mit der Fähigkeit: feindliche Charaktere erhalten +1/+2"
         },
@@ -713,6 +733,10 @@
             "value": "Alle Fels-Kreaturen gewinnen: \"1 Schaden erleiden, um +1 Angriff zu gewinnen\". Kosten 1 Mana pro Nutzung."
         },
         {
+            "key": "card.rock_token.text",
+            "value": "Tausche Fels-Token gegen eine beliebige Fels-Karte ein"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "Regeneration"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "Jeden Zug +1 Angriff gewinnen.\n <b>Fliegen</b> Kann Spott ignorieren"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Tausche Schatten-Token gegen eine beliebige Schatten-Karte ein"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Fliegen"
+            "value": "Fliegen\n<b>Spielen:</b> Friere einen Feind mit 2 oder weniger Angriff ein."
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "2 Schaden an alle Charaktere zufügen"
+            "value": "Füge allen Charakteren 1 Schaden zu und anschließend allen eingefrorenen Charakteren 2 Schaden."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "Beim Angriff auf einen Spieler 1 Mana gewinnen."
+            "value": "Sturmangriff"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "Feindliche Charaktere haben -1 Angriff.\n <b>Aktion:</b> +1 Angriff an Verbündete."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Tausche Wasser-Token gegen eine beliebige Wasser-Karte ein"
         },
         {
             "key": "card.wido.text",

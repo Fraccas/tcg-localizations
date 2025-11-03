@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "SERBU"
+            "value": "Serbuan\nDapat +1/+1 saat sebuah kartu dibekukan."
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "Karakter musuh memiliki -1 serangan.\nDapat mengabaikan tantang."
+            "value": "<b>Mainkan:</b> Bekukan semua karakter musuh dengan 4 atau kurang serangan.\nTerbang"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>Serang</b>: Kutuk dan racuni monster target"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "Tukar Token Listrik dengan satu Kartu Listrik apa pun"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "Semua monster Listrik biayanya 2 mana lebih murah (termasuk milik musuh)"
         },
@@ -225,6 +229,10 @@
             "value": "<b>Mainkan:</b> Kendalikan pikiran karakter musuh dengan 5 serangan atau kurang"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "Tukar Token Api dengan satu Kartu Api apa pun"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>Serang:</b> Bakar musuh. Mereka kehilangan 2 HP tiap giliran."
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Saat menyerang, lempar D6. Pada 4+ dapatkan +6 serangan."
+            "value": "Serbuan\nDapat +1/+1 saat sebuah kartu dibekukan."
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Sentuhan Kematian"
+            "value": "Dapatkan Cangkang setiap kali kamu memanggil lokasi.\nDapat +1/+1 untuk setiap lokasi es di arena."
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "Memiliki +3 serangan saat giliran lawan."
+            "value": "<b>Mainkan:</b> Ambil satu kartu.\nDapat +1/+1 untuk setiap lokasi es di arena."
         },
         {
-            "key": "card.ice_town.text",
-            "value": "Semua makhluk Es sekutu memiliki +1 serangan dan +1 HP."
+            "key": "card.ice_token.text",
+            "value": "Tukar Token Es dengan satu Kartu Es apa pun"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "Jika HP ≥ 2 semua karakter es sekutu mendapat +0/+1\nJika HP ≥ 4 semua karakter es sekutu mendapat +1/+0\nJika HP ≥ 6 semua kartu Es di tangan biayanya 1 lebih murah."
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "Tantang"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Mainkan:</b> Panggil Igloo.\nJika kamu sudah memiliki Igloo, ambil satu kartu."
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>Mainkan:</b> Serangan karakter target menjadi 1."
+            "value": "<b>Mainkan:</b> Panggil sebuah Iglu\nTerbang"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Mainkan:</b> Serangan karakter target menjadi 1."
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>Mainkan:</b> Panggil Igloo.\nJika kamu sudah memiliki Igloo, ambil satu kartu."
+            "value": "<b>Mainkan:</b> Panggil Iglu dua kali dan bekukan satu karakter musuh dengan 3 atau kurang serangan\nTerbang"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "Tantang\nCangkang"
+            "value": "<b>Mainkan:</b> Dapat +1 serangan untuk tiap Iglu yang sudah kamu panggil di permainan ini.\nDapatkan Cangkang setiap kali kamu memanggil lokasi\nCangkang\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>Mainkan:</b> Hancurkan karakter dengan 4 serangan atau kurang."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Setelah 3 giliran, berubah menjadi Peafan.\nPanggil Igloo."
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>Kematian:</b> Ambil satu kartu."
+            "value": "<b>Mainkan:</b> Panggil sebuah Iglu.\nJika kamu sudah punya Iglu, ambil satu kartu."
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "Saat dimainkan, berikan +2/2 kepada makhluk lain hingga giliranmu berikutnya."
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "Setelah 3 giliran, berubah menjadi Peafan.\nPanggil Igloo."
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>Mainkan:</b> Beri 1 kerusakan."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Tukar Token Tumbuhan dengan satu Kartu Tumbuhan apa pun"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>Mainkan:</b> Pilih sekutu di bawah kendalimu, lalu kirim ke pemain lain dengan kemampuan: setiap giliran beri 2 kerusakan ke semua sekutu lainnya. "
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "Tukar Token Psikis dengan satu Kartu Psikis apa pun"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>Mainkan:</b> Pilih sekutu di bawah kendalimu, lalu kirim ke pemain lain dengan kemampuan: di awal setiap giliran buang 2 kartu"
         },
@@ -713,6 +733,10 @@
             "value": "Semua makhluk Batu mendapatkan: \"Terima 1 kerusakan untuk mendapat +1 serangan\". Biaya 1 mana per penggunaan."
         },
         {
+            "key": "card.rock_token.text",
+            "value": "Tukar Token Batu dengan satu Kartu Batu apa pun"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "Regenerasi"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "Setiap giliran, dapatkan +1 serangan.\n<b>Terbang</b> Dapat mengabaikan tantang"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Tukar Token Bayangan dengan satu Kartu Bayangan apa pun"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Terbang"
+            "value": "Terbang\n<b>Mainkan:</b> Bekukan satu musuh dengan 2 atau kurang serangan."
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Memberikan 2 kerusakan ke semua karakter"
+            "value": "Berikan 1 kerusakan ke semua karakter, lalu berikan 2 kerusakan ke semua karakter yang dibekukan."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "Saat menyerang pemain, dapatkan 1 mana."
+            "value": "Serbuan"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "Karakter musuh memiliki -1 serangan.\n<b>Aksi:</b> +1 serangan untuk sekutu."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Tukar Token Air dengan satu Kartu Air apa pun"
         },
         {
             "key": "card.wido.text",

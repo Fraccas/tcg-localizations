@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "CORRIDA"
+            "value": "Investida\nGanha +1/+1 quando uma carta é congelada."
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "Personagens inimigos têm -1 ataque.\n Pode ignorar provocação."
+            "value": "<b>Jogar:</b> Congele todos os personagens inimigos com 4 ou menos de ataque.\nVoador"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>Ataque</b>: Amaldiçoa e envenena o monstro alvo"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "Troque um Token Elétrico por qualquer Carta Elétrica"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "Todos os monstros Elétricos custam 2 manas a menos (incluindo inimigos)"
         },
@@ -225,6 +229,10 @@
             "value": "<b>Jogar:</b> Controle mental sobre um personagem inimigo com custo de mana de 5 ou menos"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "Troque um Token de Fogo por qualquer Carta de Fogo"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>Ataque:</b> Queima o inimigo. Perdem 2 PV por turno."
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Ao atacar, role um D6. Em 4+ ganhe +6 ataque."
+            "value": "Investida\nGanha +1/+1 quando uma carta é congelada."
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Toque Mortal"
+            "value": "Ganha Casca sempre que você invocar uma localização.\nGanha +1/+1 para cada localização de gelo em jogo."
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "Tem +3 ataque durante o turno do oponente."
+            "value": "<b>Jogar:</b> Compre uma carta.\nGanha +1/+1 para cada localização de gelo em jogo."
         },
         {
-            "key": "card.ice_town.text",
-            "value": "Todas as criaturas de Gelo aliadas têm +1 ataque e +1 PV."
+            "key": "card.ice_token.text",
+            "value": "Troque um Token de Gelo por qualquer Carta de Gelo"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "Se o PV for 2+, todos os personagens de gelo aliados ganham +0/+1\nSe o PV for 4+, todos os personagens de gelo aliados ganham +1/+0\nSe o PV for 6+, todas as cartas de Gelo na mão custam 1 a menos."
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "Provocação"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Jogar:</b> Invoque um iglu.\nSe você já tiver um iglu, compre uma carta."
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>Jogar:</b> O ataque do personagem alvo é reduzido para 1."
+            "value": "<b>Jogar:</b> Invoque um iglu\nVoador"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Jogar:</b> O ataque do personagem alvo é reduzido para 1."
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>Jogar:</b> Invoque um iglu.\nSe você já tiver um iglu, compre uma carta."
+            "value": "<b>Jogar:</b> Invoque iglu duas vezes e congele um personagem inimigo com 3 ou menos de ataque\nVoador"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "Provocação\n Casca"
+            "value": "<b>Jogar:</b> Ganha +1 ataque para cada iglu que você invocou nesta partida.\nGanha Casca sempre que você invocar uma localização\nCasca\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>Jogar:</b> Destrói um personagem com 4 ou menos ataque."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Após 3 turnos, transforma-se em um Peafan.\nInvoque um iglu."
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>Morte:</b> Compre uma carta."
+            "value": "<b>Jogar:</b> Invoque um iglu.\nSe você já tiver um iglu, compre uma carta."
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "Ao jogar, dá +2/2 para outra criatura até o seu próximo turno."
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "Após 3 turnos, transforma-se em um Peafan.\nInvoque um iglu."
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>Jogar:</b> Inflige 1 dano."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Troque um Token de Planta por qualquer Carta de Planta"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>Jogar:</b> Selecione um personagem de qualquer lado e envie-o para o outro jogador.\n No início de cada turno inflige 2 danos a todos os aliados. "
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "Troque um Token Psíquico por qualquer Carta Psíquica"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>Jogar:</b> Selecione um personagem sob seu controle e envie-o para o outro jogador com a habilidade: personagens inimigos recebem +1/+2"
         },
@@ -713,6 +733,10 @@
             "value": "Todas as criaturas de Rocha ganham: \"Recebe 1 dano para ganhar +1 ataque\". Custo de 1 mana por uso."
         },
         {
+            "key": "card.rock_token.text",
+            "value": "Troque um Token de Rocha por qualquer Carta de Rocha"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "Regeneração"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "A cada turno, ganhe +1 ataque.\n <b>Voador</b> Pode ignorar provocação"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Troque um Token de Sombra por qualquer Carta de Sombra"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Voador"
+            "value": "Voador\n<b>Jogar:</b> Congele um inimigo com 2 ou menos de ataque."
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Inflige 2 danos a todos os personagens"
+            "value": "Cause 1 de dano a todos os personagens e então cause 2 de dano a todos os personagens congelados."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "Ao atacar um jogador, ganhe 1 mana."
+            "value": "Investida"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "Personagens inimigos têm -1 ataque.\n <b>Ação:</b> +1 ataque aos aliados."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Troque um Token de Água por qualquer Carta de Água"
         },
         {
             "key": "card.wido.text",

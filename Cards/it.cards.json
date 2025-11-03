@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "ASSALTO"
+            "value": "Assalto\nOttiene +1/+1 quando una carta viene congelata."
         },
         {
             "key": "card.antairy.text",
@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "I personaggi nemici hanno -1 attacco.\n Può ignorare la provocazione."
+            "value": "<b>Giocare:</b> Congela tutti i personaggi nemici con 4 o meno attacco.\nVolante"
         },
         {
             "key": "card.cyowl.text",
@@ -177,6 +177,10 @@
             "value": "<b>Attacco</b>: Maledici e avvelena il mostro bersaglio"
         },
         {
+            "key": "card.electric_token.text",
+            "value": "Scambia un Gettone Elettrico con una qualsiasi Carta Elettrica"
+        },
+        {
             "key": "card.electric_town.text",
             "value": "Tutti i mostri Elettrici costano 2 mana in meno (inclusi i nemici)"
         },
@@ -225,6 +229,10 @@
             "value": "<b>Giocare:</b> Controllo mentale su un personaggio nemico con costo mana di 5 o meno"
         },
         {
+            "key": "card.fire_token.text",
+            "value": "Scambia un Gettone Fuoco con una qualsiasi Carta Fuoco"
+        },
+        {
             "key": "card.flamitto.text",
             "value": "<b>Attacco:</b> Brucia il nemico. Perdono 2 HP per turno."
         },
@@ -250,7 +258,7 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Durante l'attacco, tira un D6. Su 4+ guadagna +6 attacco."
+            "value": "Assalto\nOttiene +1/+1 quando una carta viene congelata."
         },
         {
             "key": "card.galasu.text",
@@ -350,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Tocco letale"
+            "value": "Ottieni Guscio ogni volta che evochi una posizione.\nOttiene +1/+1 per ogni posizione di ghiaccio in gioco."
         },
         {
             "key": "card.headrac.text",
@@ -398,11 +406,15 @@
         },
         {
             "key": "card.hito.text",
-            "value": "Ha +3 attacco durante il turno dell'avversario."
+            "value": "<b>Giocare:</b> Pesca una carta.\nOttiene +1/+1 per ogni posizione di ghiaccio in gioco."
         },
         {
-            "key": "card.ice_town.text",
-            "value": "Tutte le creature di Ghiaccio alleate hanno +1 attacco e +1 HP."
+            "key": "card.ice_token.text",
+            "value": "Scambia un Gettone Ghiaccio con una qualsiasi Carta Ghiaccio"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "Se gli HP ≥ 2 tutti i personaggi di ghiaccio alleati ottengono +0/+1\nSe gli HP ≥ 4 tutti i personaggi di ghiaccio alleati ottengono +1/+0\nSe gli HP ≥ 6 tutte le carte Ghiaccio in mano costano 1 in meno."
         },
         {
             "key": "card.ignitas.text",
@@ -461,8 +473,12 @@
             "value": "Provocazione"
         },
         {
+            "key": "card.loneguin.text",
+            "value": "<b>Gioca:</b> Evoca un igloo.\nSe hai già un igloo, pesca una carta."
+        },
+        {
             "key": "card.lumini.text",
-            "value": "<b>Giocare:</b> L'attacco del personaggio bersaglio è ridotto a 1."
+            "value": "<b>Giocare:</b> Evoca un igloo\nVolante"
         },
         {
             "key": "card.luminus.text",
@@ -470,11 +486,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Giocare:</b> L'attacco del personaggio bersaglio è ridotto a 1."
-        },
-        {
-            "key": "card.loneguin.text",
-            "value": "<b>Gioca:</b> Evoca un igloo.\nSe hai già un igloo, pesca una carta."
+            "value": "<b>Giocare:</b> Evoca due volte un igloo e congela un personaggio nemico con 3 o meno attacco\nVolante"
         },
         {
             "key": "card.lurian.text",
@@ -490,7 +502,7 @@
         },
         {
             "key": "card.mighto.text",
-            "value": "Provocazione\n Guscio"
+            "value": "<b>Giocare:</b> Ottiene +1 attacco per ogni igloo che hai evocato in questa partita.\nOttieni Guscio ogni volta che evochi una posizione\nGuscio\n"
         },
         {
             "key": "card.mimi.text",
@@ -593,8 +605,12 @@
             "value": "<b>Giocare:</b> Distrugge un personaggio con 4 o meno attacco."
         },
         {
+            "key": "card.peafan_egg.text",
+            "value": "Dopo 3 turni si trasforma in un Peafan.\nEvoca un igloo."
+        },
+        {
             "key": "card.peako.text",
-            "value": "<b>Morte:</b> Pesca una carta."
+            "value": "<b>Giocare:</b> Evoca un igloo.\nSe hai già un igloo, pesca una carta."
         },
         {
             "key": "card.perllusion.text",
@@ -607,10 +623,6 @@
         {
             "key": "card.petili.text",
             "value": "Durante il gioco, dona +2/2 a un'altra creatura fino al tuo prossimo turno."
-        },
-        {
-            "key": "card.peafan_egg.text",
-            "value": "Dopo 3 turni si trasforma in un Peafan.\nEvoca un igloo."
         },
         {
             "key": "card.phanti.text",
@@ -631,6 +643,10 @@
         {
             "key": "card.picko.text",
             "value": "<b>Giocare:</b> Infligge 1 danno."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Scambia un Gettone Pianta con una qualsiasi Carta Pianta"
         },
         {
             "key": "card.plator.text",
@@ -681,6 +697,10 @@
             "value": "<b>Giocare:</b> Seleziona un personaggio da qualsiasi lato e invialo all'altro giocatore.\n All'inizio di ogni turno infligge 2 danni a tutti gli alleati. "
         },
         {
+            "key": "card.psychic_token.text",
+            "value": "Scambia un Gettone Psichico con una qualsiasi Carta Psichica"
+        },
+        {
             "key": "card.psylant.text",
             "value": "<b>Giocare:</b> Seleziona un alleato sotto il tuo controllo e invialo all'altro giocatore con l'abilità: all'inizio di ogni turno scarta 2 carte"
         },
@@ -713,6 +733,10 @@
             "value": "Tutte le creature Roccia guadagnano: \"Subisce 1 danno per guadagnare +1 attacco\". Costo 1 mana per uso."
         },
         {
+            "key": "card.rock_token.text",
+            "value": "Scambia un Gettone Roccia con una qualsiasi Carta Roccia"
+        },
+        {
             "key": "card.rootiny.text",
             "value": "Rigenerazione"
         },
@@ -731,6 +755,10 @@
         {
             "key": "card.scarles.text",
             "value": "Ogni turno, guadagna +1 attacco.\n <b>Volante</b> Può ignorare provocazione"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Scambia un Gettone Ombra con una qualsiasi Carta Ombra"
         },
         {
             "key": "card.shama.text",
@@ -754,7 +782,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Volante"
+            "value": "Volante\n<b>Giocare:</b> Congela un nemico con 2 o meno attacco."
         },
         {
             "key": "card.soligator.text",
@@ -838,7 +866,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Infligge 2 danni a tutti i personaggi"
+            "value": "Infligge 1 danno a tutti i personaggi, poi infligge 2 danni a tutti i personaggi congelati."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -942,7 +970,7 @@
         },
         {
             "key": "card.stormy.text",
-            "value": "Durante l'attacco a un giocatore, guadagna 1 mana."
+            "value": "Assalto"
         },
         {
             "key": "card.swamp.text",
@@ -1095,6 +1123,10 @@
         {
             "key": "card.waru_mount.text",
             "value": "I personaggi nemici hanno -1 attacco.\n <b>Azione:</b> +1 attacco agli alleati."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Scambia un Gettone Acqua con una qualsiasi Carta Acqua"
         },
         {
             "key": "card.wido.text",
