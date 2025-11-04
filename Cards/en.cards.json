@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Gain shell whenever you summon a location. \nGain +1/+1 for every ice location in play. "
+            "value": "Gain shell whenever you summon a location. \nGain +1/+1 if an ice location is in play."
         },
         {
             "key": "card.headrac.text",
@@ -406,7 +406,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Play:</b> Draw a card.\nGain +1/+1 for each ice location in play."
+            "value": "<b>Play:</b> Draw a card.\nGain +1/+1 if an ice location is in play."
         },
         {
             "key": "card.ice_token.text",
