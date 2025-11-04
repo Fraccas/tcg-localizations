@@ -1197,6 +1197,14 @@
             "value": "Freeze"
         },
         {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "攻撃力4以下の対象キャラクターを1ターンの間凍結する。"
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "標的凍結（攻撃力4）"
+        },
+        {
             "key": "ability.play_freeze_all.desc",
             "value": "All characters become frozen."
         },
@@ -1205,12 +1213,20 @@
             "value": "Big Blizzard"
         },
         {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "攻撃力3以下の敵をすべて凍結する。"
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "ブリザード"
+        },
+        {
             "key": "ability.play_freeze_all_4al.desc",
-            "value": "All enemies with 4 or less attack become frozen."
+            "value": "攻撃力4以下の敵をすべて凍結する。"
         },
         {
             "key": "ability.play_freeze_all_4al.title",
-            "value": "Blizzard"
+            "value": "ブリザード"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",

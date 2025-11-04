@@ -1197,6 +1197,14 @@
             "value": "Freeze"
         },
         {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "Karakter target dengan 4 atau kurang serangan menjadi beku selama 1 giliran."
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "Beku Terarah (4 Serangan)"
+        },
+        {
             "key": "ability.play_freeze_all.desc",
             "value": "All characters become frozen."
         },
@@ -1205,12 +1213,20 @@
             "value": "Big Blizzard"
         },
         {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "Semua musuh dengan 3 atau kurang serangan menjadi beku."
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "Badai Salju"
+        },
+        {
             "key": "ability.play_freeze_all_4al.desc",
-            "value": "All enemies with 4 or less attack become frozen."
+            "value": "Semua musuh dengan 4 atau kurang serangan menjadi beku."
         },
         {
             "key": "ability.play_freeze_all_4al.title",
-            "value": "Blizzard"
+            "value": "Badai Salju"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",

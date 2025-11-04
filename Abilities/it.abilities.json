@@ -1196,6 +1196,14 @@
       "key": "ability.play_freeze_3al.title",
       "value": "Freeze"
     },
+        {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "Un personaggio bersaglio con 4 o meno attacco diventa congelato per 1 turno."
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "Congelamento mirato (4 attacco)"
+        },
     {
       "key": "ability.play_freeze_all.desc",
       "value": "All characters become frozen."
@@ -1204,13 +1212,21 @@
       "key": "ability.play_freeze_all.title",
       "value": "Big Blizzard"
     },
+        {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "Tutti i nemici con 3 o meno attacco diventano congelati."
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "Bufera"
+        },
     {
       "key": "ability.play_freeze_all_4al.desc",
-      "value": "All enemies with 4 or less attack become frozen."
+      "value": "Tutti i nemici con 4 o meno attacco diventano congelati."
     },
     {
       "key": "ability.play_freeze_all_4al.title",
-      "value": "Blizzard"
+      "value": "Bufera"
     },
     {
       "key": "ability.play_gain_attack1_ice_location_played.desc",

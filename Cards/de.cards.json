@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Spielen:</b> Friere alle feindlichen Charaktere mit 4 oder weniger Angriff ein.\nFliegen"
+            "value": "<b>Spielen:</b> Friere alle feindlichen Charaktere mit 3 oder weniger Angriff ein.\nFliegen"
         },
         {
             "key": "card.cyowl.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Erhalte Schale, wann immer du einen Ort beschwörst.\nErhält +1/+1 für jeden Eis-Ort im Spiel."
+            "value": "Erhalte Schale, wann immer du einen Ort beschwörst.\nErhalte +1/+1, wenn ein Eis-Ort im Spiel ist."
         },
         {
             "key": "card.headrac.text",
@@ -406,7 +406,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Spielen:</b> Ziehe eine Karte.\nErhält +1/+1 für jeden Eis-Ort im Spiel."
+            "value": "<b>Spielen:</b> Ziehe eine Karte.\nErhalte +1/+1, wenn ein Eis-Ort im Spiel ist."
         },
         {
             "key": "card.ice_token.text",
@@ -862,7 +862,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Alle eingefrorenen Karten auf dem Brett zerstören"
+            "value": "Friere ein Ziel für 1 Zug ein."
         },
         {
             "key": "card.spell_icy_rain.text",

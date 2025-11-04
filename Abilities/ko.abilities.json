@@ -1197,6 +1197,14 @@
             "value": "Freeze"
         },
         {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "공격력이 4 이하인 대상 캐릭터를 1턴 동안 얼립니다."
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "표적 동결 (공격력 4)"
+        },
+        {
             "key": "ability.play_freeze_all.desc",
             "value": "All characters become frozen."
         },
@@ -1205,12 +1213,20 @@
             "value": "Big Blizzard"
         },
         {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "공격력이 3 이하인 모든 적을 얼립니다."
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "블리자드"
+        },
+        {
             "key": "ability.play_freeze_all_4al.desc",
-            "value": "All enemies with 4 or less attack become frozen."
+            "value": "\uacf5\uaca9\ub825\uc774 4 \uc774\ud558\uc778 \ubaa8\ub4e0 \uc801\uc744 \uc5bc\ub9bd\ub2c8\ub2e4."
         },
         {
             "key": "ability.play_freeze_all_4al.title",
-            "value": "Blizzard"
+            "value": "\ube14\ub9ac\uc790\ub4dc"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",

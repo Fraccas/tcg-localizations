@@ -1197,6 +1197,14 @@
             "value": "Freeze"
         },
         {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "Целевой персонаж с атакой 4 или меньше замораживается на 1 ход."
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "Прицельная заморозка (4 атаки)"
+        },
+        {
             "key": "ability.play_freeze_all.desc",
             "value": "All characters become frozen."
         },
@@ -1205,12 +1213,20 @@
             "value": "Big Blizzard"
         },
         {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "Все враги с атакой 3 или меньше замораживаются."
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "Вьюга"
+        },
+        {
             "key": "ability.play_freeze_all_4al.desc",
-            "value": "All enemies with 4 or less attack become frozen."
+            "value": "\u0412\u0441\u0435 \u0432\u0440\u0430\u0433\u0438 \u0441 \u0430\u0442\u0430\u043a\u043e\u0439 4 \u0438\u043b\u0438 \u043c\u0435\u043d\u044c\u0448\u0435 \u0437\u0430\u043c\u043e\u0440\u0430\u0436\u0438\u0432\u0430\u044e\u0442\u0441\u044f."
         },
         {
             "key": "ability.play_freeze_all_4al.title",
-            "value": "Blizzard"
+            "value": "\u0412\u044c\u044e\u0433\u0430"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",

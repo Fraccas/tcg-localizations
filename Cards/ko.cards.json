@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>놓기:</b> 공격력이 4 이하인 모든 적 캐릭터를 동결합니다.\n비행"
+            "value": "<b>놓기:</b> 공격력이 3 이하인 모든 적 캐릭터를 동결합니다.\n비행"
         },
         {
             "key": "card.cyowl.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "지역을 소환할 때마다 껍데기를 얻습니다.\n전장에 있는 얼음 지역마다 +1/+1을 얻습니다."
+            "value": "지역을 소환할 때마다 껍데기를 얻습니다.\n전장에 얼음 지역이 있다면 +1/+1을 얻습니다."
         },
         {
             "key": "card.headrac.text",
@@ -406,7 +406,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>놓기:</b> 카드 1장을 뽑습니다.\n전장에 있는 얼음 지역마다 +1/+1을 얻습니다."
+            "value": "<b>놓기:</b> 카드 1장을 뽑습니다.\n전장에 얼음 지역이 있다면 +1/+1을 얻습니다."
         },
         {
             "key": "card.ice_token.text",
@@ -862,7 +862,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "판 위 모든 동결 카드 파괴"
+            "value": "대상을 1턴 동안 얼립니다."
         },
         {
             "key": "card.spell_icy_rain.text",

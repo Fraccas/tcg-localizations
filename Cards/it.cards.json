@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Giocare:</b> Congela tutti i personaggi nemici con 4 o meno attacco.\nVolante"
+            "value": "<b>Gioca:</b> Congela tutti i personaggi nemici con 3 o meno attacco.\nVolare"
         },
         {
             "key": "card.cyowl.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Ottieni Guscio ogni volta che evochi una posizione.\nOttiene +1/+1 per ogni posizione di ghiaccio in gioco."
+            "value": "Ottieni Guscio ogni volta che evochi una posizione.\nOttieni +1/+1 se è in gioco una posizione di ghiaccio."
         },
         {
             "key": "card.headrac.text",
@@ -406,7 +406,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Giocare:</b> Pesca una carta.\nOttiene +1/+1 per ogni posizione di ghiaccio in gioco."
+            "value": "<b>Gioca:</b> Pesca una carta.\nOttieni +1/+1 se è in gioco una posizione di ghiaccio."
         },
         {
             "key": "card.ice_token.text",
@@ -862,7 +862,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Distrugge tutte le carte congelate sul campo"
+            "value": "Congela un bersaglio per 1 turno."
         },
         {
             "key": "card.spell_icy_rain.text",
