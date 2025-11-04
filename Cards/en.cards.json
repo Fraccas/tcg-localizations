@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Play:</b> Freeze all enemy characters that have 4 or less attack.\nFlying"
+            "value": "<b>Play:</b> Freeze all enemy characters that have 3 or less attack.\nFlying"
         },
         {
             "key": "card.cyowl.text",
@@ -862,7 +862,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Destroy all frozen cards on the board"
+            "value": "Freeze a target for 1 turn."
         },
         {
             "key": "card.spell_icy_rain.text",

@@ -1197,12 +1197,28 @@
             "value": "Freeze"
         },
         {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "Target character with 4 or less attack becomes frozen for 1 turn."
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "Targeted Freeze 4 Attack"
+        },
+        {
             "key": "ability.play_freeze_all.desc",
             "value": "All characters become frozen."
         },
         {
             "key": "ability.play_freeze_all.title",
             "value": "Big Blizzard"
+        },
+        {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "All enemies with 3 or less attack become frozen."
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "Blizzard"
         },
         {
             "key": "ability.play_freeze_all_4al.desc",
@@ -1698,7 +1714,7 @@
         },
         {
             "key": "ability.spell_freeze.desc",
-            "value": "Freeze target  for 1 turn."
+            "value": "Freeze target for 1 turn."
         },
         {
             "key": "ability.spell_freeze.title",
