@@ -1197,6 +1197,14 @@
             "value": "Freeze"
         },
         {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "Um personagem alvo com 4 ou menos de ataque fica congelado por 1 turno."
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "Congelamento Direcionado (4 de Ataque)"
+        },
+        {
             "key": "ability.play_freeze_all.desc",
             "value": "All characters become frozen."
         },
@@ -1205,12 +1213,20 @@
             "value": "Big Blizzard"
         },
         {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "Todos os inimigos com 3 ou menos de ataque ficam congelados."
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "Nevasca"
+        },
+        {
             "key": "ability.play_freeze_all_4al.desc",
-            "value": "All enemies with 4 or less attack become frozen."
+            "value": "Todos os inimigos com 4 ou menos de ataque ficam congelados."
         },
         {
             "key": "ability.play_freeze_all_4al.title",
-            "value": "Blizzard"
+            "value": "Nevasca"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",

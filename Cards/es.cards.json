@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Jugar:</b> Congela a todos los personajes enemigos con 4 o menos de ataque.\nVolador"
+            "value": "<b>Jugar:</b> Congela a todos los personajes enemigos con 3 o menos de ataque.\nVolador"
         },
         {
             "key": "card.cyowl.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Gana Caparazón cada vez que invoques una ubicación.\nGana +1/+1 por cada ubicación de hielo en juego."
+            "value": "Gana Caparazón cada vez que invoques una ubicación.\nGana +1/+1 si hay una ubicación de hielo en juego."
         },
         {
             "key": "card.headrac.text",
@@ -406,7 +406,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Jugar:</b> Roba una carta.\nGana +1/+1 por cada ubicación de hielo en juego."
+            "value": "<b>Jugar:</b> Roba una carta.\nGana +1/+1 si hay una ubicación de hielo en juego."
         },
         {
             "key": "card.ice_token.text",
@@ -862,7 +862,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Destruye todas las cartas congeladas en el tablero"
+            "value": "Congela a un objetivo durante 1 turno."
         },
         {
             "key": "card.spell_icy_rain.text",

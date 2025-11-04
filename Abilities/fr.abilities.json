@@ -1196,6 +1196,14 @@
       "key": "ability.play_freeze_3al.title",
       "value": "Freeze"
     },
+        {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "Un personnage ciblé ayant 4 d'attaque ou moins est gelé pendant 1 tour."
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "Gel ciblé (4 Attaque)"
+        },
     {
       "key": "ability.play_freeze_all.desc",
       "value": "All characters become frozen."
@@ -1204,9 +1212,17 @@
       "key": "ability.play_freeze_all.title",
       "value": "Big Blizzard"
     },
+        {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "Tous les ennemis ayant 3 d'attaque ou moins sont gelés."
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "Blizzard"
+        },
     {
       "key": "ability.play_freeze_all_4al.desc",
-      "value": "All enemies with 4 or less attack become frozen."
+      "value": "Tous les ennemis ayant 4 d'attaque ou moins sont gel\u00e9s."
     },
     {
       "key": "ability.play_freeze_all_4al.title",

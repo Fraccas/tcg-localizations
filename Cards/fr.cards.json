@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Jouer :</b> Gèle tous les personnages ennemis ayant 4 d'attaque ou moins.\nVolant"
+            "value": "<b>Jeu :</b> Gèle tous les personnages ennemis ayant 3 d'attaque ou moins.\nVol"
         },
         {
             "key": "card.cyowl.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Gagne Coquille chaque fois que vous invoquez un lieu.\nGagne +1/+1 pour chaque lieu de glace en jeu."
+            "value": "Gagne Carapace chaque fois que vous invoquez un lieu.\nGagne +1/+1 si un lieu de glace est en jeu."
         },
         {
             "key": "card.headrac.text",
@@ -406,7 +406,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Jouer :</b> Piochez une carte.\nGagne +1/+1 pour chaque lieu de glace en jeu."
+            "value": "<b>Jeu :</b> Piochez une carte.\nGagne +1/+1 si un lieu de glace est en jeu."
         },
         {
             "key": "card.ice_token.text",
@@ -862,7 +862,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Détruit toutes les cartes gelées sur le plateau"
+            "value": "Gèle une cible pendant 1 tour."
         },
         {
             "key": "card.spell_icy_rain.text",

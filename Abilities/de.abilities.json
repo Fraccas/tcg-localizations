@@ -1197,6 +1197,14 @@
             "value": "Freeze"
         },
         {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "Ein Zielcharakter mit 4 oder weniger Angriff wird für 1 Zug eingefroren."
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "Gezieltes Einfrieren (4 Angriff)"
+        },
+        {
             "key": "ability.play_freeze_all.desc",
             "value": "All characters become frozen."
         },
@@ -1205,8 +1213,16 @@
             "value": "Big Blizzard"
         },
         {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "Alle Feinde mit 3 oder weniger Angriff werden eingefroren."
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "Blizzard"
+        },
+        {
             "key": "ability.play_freeze_all_4al.desc",
-            "value": "All enemies with 4 or less attack become frozen."
+            "value": "Alle Feinde mit 4 oder weniger Angriff werden eingefroren."
         },
         {
             "key": "ability.play_freeze_all_4al.title",

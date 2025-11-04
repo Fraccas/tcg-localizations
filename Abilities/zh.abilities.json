@@ -1197,6 +1197,14 @@
             "value": "Freeze"
         },
         {
+            "key": "ability.play_freeze_4al.desc",
+            "value": "将攻击力不超过 4 点的目标角色冻结 1 个回合。"
+        },
+        {
+            "key": "ability.play_freeze_4al.title",
+            "value": "定点冻结（4 攻击力）"
+        },
+        {
             "key": "ability.play_freeze_all.desc",
             "value": "All characters become frozen."
         },
@@ -1205,12 +1213,20 @@
             "value": "Big Blizzard"
         },
         {
+            "key": "ability.play_freeze_all_3al.desc",
+            "value": "将所有攻击力不超过 3 点的敌人冻结。"
+        },
+        {
+            "key": "ability.play_freeze_all_3al.title",
+            "value": "暴风雪"
+        },
+        {
             "key": "ability.play_freeze_all_4al.desc",
-            "value": "All enemies with 4 or less attack become frozen."
+            "value": "\u5c06\u6240\u6709\u653b\u51fb\u529b\u4e0d\u8d85\u8fc74\u70b9\u7684\u654c\u4eba\u51bb\u7ed3\u3002"
         },
         {
             "key": "ability.play_freeze_all_4al.title",
-            "value": "Blizzard"
+            "value": "\u66b4\u98ce\u96ea"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",

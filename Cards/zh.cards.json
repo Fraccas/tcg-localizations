@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>打出：</b>冻结所有攻击力不超过 4 点的敌方角色。\n飞行"
+            "value": "<b>打出：</b>冻结所有攻击力不超过 3 点的敌方角色。\n飞行"
         },
         {
             "key": "card.cyowl.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "每当你召唤地点时获得壳。\n战场上每有一个冰属性地点，获得 +1/+1。"
+            "value": "每当你召唤地点时获得壳。\n若战场上有冰属性地点，获得 +1/+1。"
         },
         {
             "key": "card.headrac.text",
@@ -406,7 +406,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>打出：</b>抽一张牌。\n战场上每有一个冰属性地点，获得 +1/+1。"
+            "value": "<b>打出：</b>抽一张牌。\n若战场上有冰属性地点，获得 +1/+1。"
         },
         {
             "key": "card.ice_token.text",
@@ -862,7 +862,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "摧毁战场上所有被冻结的牌"
+            "value": "冻结一个目标 1 个回合。"
         },
         {
             "key": "card.spell_icy_rain.text",

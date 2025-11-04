@@ -94,7 +94,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Jogar:</b> Congele todos os personagens inimigos com 4 ou menos de ataque.\nVoador"
+            "value": "<b>Jogar:</b> Congele todos os personagens inimigos com 3 ou menos de ataque.\nVoar"
         },
         {
             "key": "card.cyowl.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Ganha Casca sempre que você invocar uma localização.\nGanha +1/+1 para cada localização de gelo em jogo."
+            "value": "Ganha Casca sempre que você invocar uma localização.\nGanha +1/+1 se houver uma localização de gelo em jogo."
         },
         {
             "key": "card.headrac.text",
@@ -406,7 +406,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Jogar:</b> Compre uma carta.\nGanha +1/+1 para cada localização de gelo em jogo."
+            "value": "<b>Jogar:</b> Compre uma carta.\nGanha +1/+1 se houver uma localização de gelo em jogo."
         },
         {
             "key": "card.ice_token.text",
@@ -862,7 +862,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Destrói todas as cartas congeladas no campo"
+            "value": "Congele um alvo por 1 turno."
         },
         {
             "key": "card.spell_icy_rain.text",
