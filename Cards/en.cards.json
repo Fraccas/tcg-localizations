@@ -238,7 +238,7 @@
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>Play:</b> Mind Control a target character that 2 or less attack"
+            "value": "<b>Play:</b> Mind Control a target character that costs 2 or less mana."
         },
         {
             "key": "card.flozo.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.hato.text",
-            "value": "Gain shell whenever you summon a location.\nGain +1/+1 if an ice location is in play."
+            "value": "Gain shell whenever you summon a location. \nGain +1/+1 if an ice location is in play."
         },
         {
             "key": "card.headrac.text",
