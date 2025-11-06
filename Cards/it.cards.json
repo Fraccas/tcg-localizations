@@ -242,7 +242,7 @@
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Giocare:</b> Controllo mentale su un personaggio bersaglio che costa 3 mana o meno"
+            "value": "<b>Giocare:</b> Controllo mentale su un personaggio bersaglio che ha 3 di attacco o meno"
         },
         {
             "key": "card.froggyo.text",

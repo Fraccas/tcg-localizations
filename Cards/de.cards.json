@@ -242,7 +242,7 @@
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielcharakter mit Kosten von 3 Mana oder weniger"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielcharakter mit 3 oder weniger Angriffspunkten"
         },
         {
             "key": "card.froggyo.text",

@@ -242,7 +242,7 @@
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Jouer :</b> Contrôle mental sur un personnage cible coûtant 3 mana ou moins"
+            "value": "<b>Jouer :</b> Contrôle mental sur un personnage cible ayant 3 d'attaque ou moins"
         },
         {
             "key": "card.froggyo.text",

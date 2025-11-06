@@ -238,7 +238,7 @@
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>打出：</b>心灵控制一名攻击力不超过 2 点的角色"
+            "value": "<b>打出：</b>心灵控制一名法力消耗不超过 2 点的角色"
         },
         {
             "key": "card.flozo.text",
