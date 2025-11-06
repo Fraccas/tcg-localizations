@@ -242,7 +242,7 @@
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>놓기:</b> 마나 비용 3 이하 대상 캐릭터 정신 지배"
+            "value": "<b>놓기:</b> 공격력 3 이하 대상 캐릭터 정신 지배"
         },
         {
             "key": "card.froggyo.text",

@@ -242,7 +242,7 @@
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Jugar:</b> Control Mental a un personaje objetivo que cueste 3 maná o menos"
+            "value": "<b>Jugar:</b> Control Mental a un personaje objetivo que tenga 3 de ataque o menos"
         },
         {
             "key": "card.froggyo.text",
