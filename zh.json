@@ -2439,6 +2439,10 @@
         {
             "key": "tip_heropower_water_long",
             "value": "水系妖精让你花费 {0} 元素点，从牌库抽1张牌。\n\n当手牌不足或寻找关键牌时使用。"
+        },
+        {
+            "key": "tip_start_turn_status_destroyed",
+            "value": "你的卡牌 {0} 被 {1} 摧毁，无法触发其“回合开始时”的能力{2}。"
         }
     ]
 }

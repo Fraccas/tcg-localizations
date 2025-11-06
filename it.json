@@ -2299,6 +2299,10 @@
         {
             "key": "tip_heropower_water_long",
             "value": "La Fata dell’Acqua ti permette di spendere {0} punti elemento per pescare 1 carta dal tuo mazzo.\n\nUsala quando hai poche carte o cerchi quella giusta.\n\nIn breve, la Fata dell’Acqua mantiene fluido il flusso di risorse e amplia le tue opzioni."
+        },
+        {
+            "key": "tip_start_turn_status_destroyed",
+            "value": "La tua carta {0} è stata distrutta da {1}, impedendo la sua abilità \"All'inizio del turno\"{2}."
         }
     ]
 }

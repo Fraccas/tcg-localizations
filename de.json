@@ -2439,6 +2439,10 @@
         {
             "key": "tip_heropower_water_long",
             "value": "Die Wasser-Fee lässt dich {0} Elementpunkte ausgeben, um 1 Karte aus deinem Deck zu ziehen.\n\nNutze sie, wenn deine Hand leer wird oder du nach einer bestimmten Karte suchst.\n\nKurz gesagt, die Wasser-Fee sorgt für einen stetigen Ressourcenfluss und hält deine Optionen offen."
+        },
+        {
+            "key": "tip_start_turn_status_destroyed",
+            "value": "Deine Karte {0} wurde von {1} zerstört, wodurch ihre Fähigkeit „Zu Beginn des Zuges“{2} verhindert wurde."
         }
     ]
 }

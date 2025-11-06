@@ -2439,6 +2439,10 @@
         {
             "key": "tip_heropower_water_long",
             "value": "Peri Air memungkinkanmu menghabiskan {0} poin elemen untuk menarik 1 kartu dari dekmu.\n\nGunakan saat kartu di tanganmu menipis atau kamu mencari kartu penting."
+        },
+        {
+            "key": "tip_start_turn_status_destroyed",
+            "value": "Seu card {0} foi destruído por {1}, impedindo sua habilidade de \"No início do turno\"{2}."
         }
     ]
 }

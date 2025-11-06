@@ -2463,6 +2463,10 @@
         {
             "key": "tip_heropower_water_long",
             "value": "El Hada de Agua te permite gastar {0} puntos elementales para robar 1 carta de tu mazo.\n\nÚsala cuando tu mano esté vacía o busques una carta clave para tu estrategia.\n\nEn resumen, el Hada de Agua te da un flujo constante de recursos, manteniendo tu mazo activo y tus opciones abiertas."
+        },
+        {
+            "key": "tip_start_turn_status_destroyed",
+            "value": "Tu carta {0} fue destruida por {1}, impidiendo su habilidad de \"Al comienzo del turno\"{2}."
         }
     ]
 }

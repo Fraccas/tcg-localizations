@@ -2439,6 +2439,10 @@
         {
             "key": "tip_heropower_water_long",
             "value": "La Fée de l’Eau vous permet de dépenser {0} points élémentaires pour piocher 1 carte de votre deck.\n\nUtilisez-la lorsque votre main est faible ou que vous recherchez une carte spécifique.\n\nEn bref, la Fée de l’Eau assure un flux constant de ressources, gardant vos options ouvertes."
+        },
+        {
+            "key": "tip_start_turn_status_destroyed",
+            "value": "Votre carte {0} a été détruite par {1}, empêchant sa capacité \"Au début du tour\"{2}."
         }
     ]
 }

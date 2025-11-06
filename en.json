@@ -2411,6 +2411,10 @@
         {
             "key": "tip_heropower_water_long",
             "value": "The Water Fairy lets you spend {0} element points to draw 1 card from your deck.\n\nUse it when your hand is running low, or when you're searching for a specific card to complete your strategy.\n\nIn short, the Water Fairy gives you a steady flow of resources, keeping your deck moving and your options open."
+        },
+        {
+            "key": "tip_start_turn_status_destroyed",
+            "value": "Your card {0} was destroyed by {1}, preventing its \"On Turn Start\" ability{2}."
         }
     ]
 }
