@@ -273,6 +273,14 @@
             "value": "Fluch"
         },
         {
+            "key": "ability.attack_freeze.desc",
+            "value": "Angegriffenes Monster wird eingefroren."
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "Einfrieren"
+        },
+        {
             "key": "ability.attack_loss_immunity.desc",
             "value": "Schützt den Angriff des Charakters vor Reduzierung."
         },
@@ -433,6 +441,14 @@
             "value": "Schattenverbündeter"
         },
         {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "Iglus werden unzerstörbar."
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "Iglu-Schutz"
+        },
+        {
             "key": "ability.aura_reptile.desc",
             "value": "Alle anderen verbündeten Reptilien erhalten +1 Angriff."
         },
@@ -487,6 +503,14 @@
         {
             "key": "ability.choice_fury.title",
             "value": "Wut"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "Kann sofort angreifen, darf in diesem Zug jedoch nicht den gegnerischen Spieler angreifen."
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "Sturmangriff"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
@@ -773,6 +797,14 @@
             "value": "Eile"
         },
         {
+            "key": "ability.ice punch.desc",
+            "value": "Erleidet beim Angreifen keinen Schaden."
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "Eishieb"
+        },
+        {
             "key": "ability.icy_buff1.desc",
             "value": "Gain +1 for when an enemy is frozen."
         },
@@ -1002,6 +1034,14 @@
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
+            "value": "Wahl"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "Erhalte Spott oder Sturmangriff"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
             "value": "Wahl"
         },
         {
@@ -1427,6 +1467,14 @@
         {
             "key": "ability.play_summon_igloo2.title",
             "value": "Summon Igloo"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "Beim Ausspielen zweimal ein Iglu beschwören"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
+            "value": "Iglu beschwören"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",

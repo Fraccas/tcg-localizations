@@ -21,6 +21,10 @@
             "value": "<b>Töten:</b> Eine Karte ziehen\nZu Beginn jedes Zuges 1 Rüstung erhalten."
         },
         {
+            "key": "card.astroguin.text",
+            "value": "Spott\n<b>Spielen:</b> Beschwöre zweimal ein Iglu.\nIglu-Unverwundbarkeit."
+        },
+        {
             "key": "card.bashker.text",
             "value": "<b>Fallen-Ausweichen:</b> Aktiviert keine Fallen beim Angreifen.\n +1 Schaden pro Feindefalle im Spiel gewinnen."
         },
@@ -30,7 +34,7 @@
         },
         {
             "key": "card.bay.text",
-            "value": "Wenn eine Wasser-Kreatur, die Sie besitzen, stirbt, ziehen Sie eine Karte."
+            "value": "Wenn ein Wassermonster, das Sie besitzen, stirbt, ziehen Sie eine Karte."
         },
         {
             "key": "card.boilin.text",
@@ -42,11 +46,11 @@
         },
         {
             "key": "card.burnibu.text",
-            "value": "<b>Spielen:</b> Eine zufällige Karte aus der Hand des Spielers verwerfen und zwei neue Karten ziehen."
+            "value": "<b>Spielen:</b> Werfen Sie eine zufällige Karte aus Ihrer Hand ab und ziehen Sie zwei neue Karten."
         },
         {
             "key": "card.burnion.text",
-            "value": "<b>Spielen:</b> Charakter erhält Brand und nimmt 2 Schaden pro Zug."
+            "value": "<b>Spielen:</b> Zielmonster erhält Brand und erleidet 2 Schaden pro Zug."
         },
         {
             "key": "card.burny.text",
@@ -58,6 +62,10 @@
         },
         {
             "key": "card.cabyron.text",
+            "value": "<b>Wirken:</b> +2 Rüstung an alle Verbündeten im Spiel verleihen. Kostet 5 Mana und verwendet Aktion."
+        },
+        {
+            "key": "card.cabyron_full.text",
             "value": "<b>Wirken:</b> +2 Rüstung an alle Verbündeten im Spiel verleihen. Kostet 5 Mana und verwendet Aktion."
         },
         {
@@ -94,14 +102,18 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Spielen:</b> Friere alle feindlichen Charaktere mit 3 oder weniger Angriff ein.\nFliegen"
+            "value": "<b>Spielen:</b> Friere alle feindlichen Monster mit 3 oder weniger Angriff ein.\nFliegen"
         },
         {
             "key": "card.cyowl.text",
-            "value": "Fliegen / Entwickelt sich zu Cryonix\n <b>Spielen:</b> Einen feindlichen Charakter einfrieren"
+            "value": "<b>Spielen:</b> Friere ein feindliches Monster mit 4 oder weniger Angriff ein\nFliegen"
         },
         {
             "key": "card.cypha.text",
+            "value": "Tarnung"
+        },
+        {
+            "key": "card.cypha_full.text",
             "value": "Tarnung"
         },
         {
@@ -110,10 +122,14 @@
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>Spielen</b>: Alle Charaktere im Spiel verfluchen."
+            "value": "<b>Spielen</b>: Alle Monster im Spiel verfluchen."
         },
         {
             "key": "card.devastor.text",
+            "value": "Zauberimmunität / Schale\n<b>Spielen:</b> Allen 2 Schaden zufügen."
+        },
+        {
+            "key": "card.devastor_full.text",
             "value": "Zauberimmunität / Schale\n<b>Spielen:</b> Allen 2 Schaden zufügen."
         },
         {
@@ -166,11 +182,11 @@
         },
         {
             "key": "card.drion.text",
-            "value": "<b>Spielen</b>: Ein Zielcharakter zum Schweigen bringen, dann ein Zielcharakter verfluchen"
+            "value": "<b>Spielen</b>: Ein Zielmonster zum Schweigen bringen, dann ein Zielmonster verfluchen"
         },
         {
             "key": "card.dryaow.text",
-            "value": "<b>Spielen</b>: Alle Charaktere im Spiel verfluchen"
+            "value": "<b>Spielen</b>: Alle Monster im Spiel verfluchen"
         },
         {
             "key": "card.dulster.text",
@@ -190,7 +206,7 @@
         },
         {
             "key": "card.envish.text",
-            "value": "<b>Spielen:</b> Einen Charakter mit 3 oder weniger Angriff zerstören."
+            "value": "<b>Spielen:</b> Ein Monster mit 3 oder weniger Angriff zerstören."
         },
         {
             "key": "card.equip_psychic_ring.text",
@@ -214,7 +230,7 @@
         },
         {
             "key": "card.espe.text",
-            "value": "Gedankenkontrolle über ein feindliches Zielcharakter mit Mana-Kosten von 5+ bis dieser Charakter das Brett verlässt"
+            "value": "Gedankenkontrolle über ein feindliches Zielmonster mit Mana-Kosten von 5+, bis dieses Monster das Brett verlässt"
         },
         {
             "key": "card.evira.text",
@@ -226,7 +242,7 @@
         },
         {
             "key": "card.ezonea.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Charakter mit Mana-Kosten von 5 oder weniger"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Monster mit Mana-Kosten von 5 oder weniger"
         },
         {
             "key": "card.fire_token.text",
@@ -234,23 +250,23 @@
         },
         {
             "key": "card.flamitto.text",
-            "value": "<b>Angriff:</b> Den Feind verbrennen. Sie verlieren 2 LP pro Zug."
+            "value": "<b>Angriff:</b> Das feindliche Monster verbrennen. Es verliert jede Runde 2 LP."
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielcharakter mit Kosten von 2 Mana oder weniger"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielmonster mit Kosten von 2 Mana oder weniger"
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielcharakter mit 3 oder weniger Angriffspunkten"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielmonster mit 3 oder weniger Angriff"
         },
         {
             "key": "card.froggyo.text",
-            "value": "<b>Spielen:</b> Wählen Sie ein Zielcharakter mit Mana-Kosten von 2 oder weniger von jeder Seite und senden Sie sie an den anderen Spieler."
+            "value": "<b>Spielen:</b> Wählen Sie ein Zielmonster mit Manakosten von 2 oder weniger auf einer beliebigen Seite und senden Sie es an den anderen Spieler."
         },
         {
             "key": "card.frojest.text",
-            "value": "Wenn der Gegner eine Charakterkarte verwirft, wird dieser Charakter eine Kopie des verworfenen Charakters."
+            "value": "Wenn der Gegner eine Monsterkarte abwirft, wird dieses Monster zu einer Kopie des abgeworfenen Monsters."
         },
         {
             "key": "card.frojesti.text",
@@ -258,11 +274,15 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Sturmangriff\nErhält +1/+1, wenn eine Karte eingefroren wird."
+            "value": "Sturmangriff\nErhält +1/+1, wenn ein Monster eingefroren wird."
         },
         {
             "key": "card.galasu.text",
             "value": "Zauberimmunität\n Fähigkeitsimmunität\n Spott ignorieren"
+        },
+        {
+            "key": "card.galasu_full.text",
+            "value": "Erhalte Zauberimmunität oder Fähigkeitsimmunität\nSpott ignorieren"
         },
         {
             "key": "card.gamud.text",
@@ -270,7 +290,7 @@
         },
         {
             "key": "card.gargarm.text",
-            "value": "Nach dem Spielen eines Zaubers +2 Angriff gewinnen.\n <b>Fliegen</b> Kann Spott ignorieren"
+            "value": "Nach dem Wirken eines Zaubers +2 Angriff erhalten.\nFliegen"
         },
         {
             "key": "card.gargoli.text",
@@ -293,8 +313,12 @@
             "value": "Eile"
         },
         {
+            "key": "card.glidara.text",
+            "value": "Wahl: Spott oder Sturmangriff\n<b>Tod:</b> Beschwöre ein Iglu."
+        },
+        {
             "key": "card.glummy.text",
-            "value": "<b>Angriff:</b> Gift.\n <b>Fliegen:</b> Kann Spott ignorieren."
+            "value": "<b>Angriff:</b> Gift.\nFliegen"
         },
         {
             "key": "card.gluttrats.text",
@@ -314,7 +338,7 @@
         },
         {
             "key": "card.gracelia.text",
-            "value": "<b>Spielen:</b> Einen Charakter von allen negativen Status-Effekten heilen und +2 LP gewähren"
+            "value": "<b>Spielen:</b> Heile ein Monster von allen negativen Statuseffekten und gewähre +2 LP"
         },
         {
             "key": "card.graceliaex.text",
@@ -330,11 +354,11 @@
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Spott</b>\n <b>Jeden Zug:</b> Charaktere mit dem niedrigsten Angriff töten.\n "
+            "value": "<b>Spott</b>\n<b>Jeden Zug:</b> Monster mit dem niedrigsten Angriff töten."
         },
         {
             "key": "card.hajiko.text",
-            "value": "<b>Spielen:</b> Fluch des Leidens zum Ziel hinzufügen"
+            "value": "<b>Spielen:</b> Fluch des Leidens auf ein Monster legen"
         },
         {
             "key": "card.hammar.text",
@@ -342,7 +366,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen.\n Angriffsverlust-Immunität"
+            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 1 Karte.\nImmunität gegen Angriffsverlust"
         },
         {
             "key": "card.hammi.text",
@@ -354,7 +378,7 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen."
+            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 1 Karte."
         },
         {
             "key": "card.hato.text",
@@ -366,7 +390,7 @@
         },
         {
             "key": "card.heara.text",
-            "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
+            "value": "<b>Spielen:</b> Setzt den Angriff eines Zielmonsters auf 1."
         },
         {
             "key": "card.hero_electric.text",
@@ -414,7 +438,7 @@
         },
         {
             "key": "card.ice_town_igloo.text",
-            "value": "Wenn LP ≥ 2, erhalten alle verbündeten Eischaraktere +0/+1\nWenn LP ≥ 4, erhalten alle verbündeten Eischaraktere +1/+0\nWenn LP ≥ 6, kosten alle Eiskarten auf der Hand 1 weniger."
+            "value": "Wenn LP 2+ erhalten alle verbündeten Eis-Monster +0/+1\nWenn LP 4+ erhalten alle verbündeten Eis-Monster +1/+0\nWenn LP 6+ kosten alle Eiskarten auf der Hand 1 weniger."
         },
         {
             "key": "card.ignitas.text",
@@ -454,7 +478,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "Ansturm / Fliegen"
+            "value": "Sturmangriff\nFliegen"
         },
         {
             "key": "card.lizordo.text",
@@ -469,12 +493,16 @@
             "value": "<b>Spielen</b>: Ein Lizo beschwören\n Alle Reptilien +2 Angriff."
         },
         {
+            "key": "card.lizorus_full.text",
+            "value": "<b>Spielen</b>: Beschwöre ein Lizo\nAlle Reptilien +2 Angriff."
+        },
+        {
             "key": "card.lizteel.text",
             "value": "Spott"
         },
         {
             "key": "card.loneguin.text",
-            "value": "<b>Ausspielen:</b> Beschwöre ein Iglu.\nWenn du bereits ein Iglu hast, ziehe eine Karte."
+            "value": "Spott\n<b>Tod:</b> Beschwöre ein Iglu."
         },
         {
             "key": "card.lumini.text",
@@ -482,15 +510,15 @@
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>Spielen:</b> +2/2 geben.\n <b>Fliegen:</b> Kann Spott ignorieren."
+            "value": "<b>Spielen:</b> +2/+2 geben.\nFliegen"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Spielen:</b> Beschwöre zweimal ein Iglu und friere einen feindlichen Charakter mit 3 oder weniger Angriff ein\nFliegen"
+            "value": "<b>Spielen:</b> Beschwöre zweimal ein Iglu und friere ein feindliches Monster mit 3 oder weniger Angriff ein\nFliegen"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>Spielen:</b> +2/2 geben\n <b>Spielen:</b> Spieler um 4 LP heilen\n <b>Fliegen:</b> Kann Spott ignorieren"
+            "value": "<b>Spielen:</b> +2/+2 geben\n<b>Spielen:</b> Heilen Sie den Spieler um 4 LP\nFliegen"
         },
         {
             "key": "card.marshland.text",
@@ -506,7 +534,7 @@
         },
         {
             "key": "card.mimi.text",
-            "value": "Zu Beginn Ihres Zuges heilt diese Kreatur vollständig."
+            "value": "Zu Beginn Ihres Zuges heilt dieses Monster vollständig."
         },
         {
             "key": "card.minask.text",
@@ -514,11 +542,11 @@
         },
         {
             "key": "card.miraibow.text",
-            "value": "Immer wenn ein anderer Charakter stirbt, zwei Karten ziehen."
+            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 2 Karten."
         },
         {
             "key": "card.mirion.text",
-            "value": "Immer wenn ein anderer Charakter stirbt, zwei Karten ziehen."
+            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 2 Karten."
         },
         {
             "key": "card.momburn.text",
@@ -534,7 +562,7 @@
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Zielcharakter mit Angriff von 3 oder weniger bis diese Kreatur das Brett verlässt"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Monster mit Manakosten von 3 oder weniger"
         },
         {
             "key": "card.mosheedark.text",
@@ -545,8 +573,12 @@
             "value": "Stampfen"
         },
         {
+            "key": "card.mosslug_full.text",
+            "value": "Durchtrampeln"
+        },
+        {
             "key": "card.mountough.text",
-            "value": "Der überschüssige Schaden heilt die LP dieser Kreatur um die Differenz"
+            "value": "Überschüssiger Schaden heilt die LP dieses Monsters um die Differenz"
         },
         {
             "key": "card.muni.text",
@@ -554,7 +586,7 @@
         },
         {
             "key": "card.murple.text",
-            "value": "Zu Beginn Ihres Zuges heilt diese Kreatur vollständig."
+            "value": "Zu Beginn Ihres Zuges heilt dieses Monster vollständig."
         },
         {
             "key": "card.nadzu.text",
@@ -566,7 +598,7 @@
         },
         {
             "key": "card.nobu.text",
-            "value": "Beim Spielen +2 LP an eine andere Kreatur bis zu Ihrem nächsten Zug geben."
+            "value": "Beim Ausspielen erhält ein anderes Monster bis zu Ihrem nächsten Zug +2 LP."
         },
         {
             "key": "card.nophulos.text",
@@ -578,7 +610,7 @@
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>Zugende:</b> Tarnung erhalten, wenn Sie andere Charaktere haben."
+            "value": "<b>Zugende:</b> Geht in Tarnung, wenn Sie andere Monster haben."
         },
         {
             "key": "card.operant.text",
@@ -601,8 +633,12 @@
             "value": "Zauberimmunität\n Spott ignorieren\n<b>Spielen:</b> Ein Ziel einfrieren"
         },
         {
+            "key": "card.owind_full.text",
+            "value": "Zauberimmunität\nSpott ignorieren\n<b>Spielen: </b> Ein Ziel einfrieren"
+        },
+        {
             "key": "card.peafan.text",
-            "value": "<b>Spielen:</b> Einen Charakter mit 4 oder weniger Angriff zerstören."
+            "value": "<b>Spielen:</b> Zerstöre ein Monster mit 4 oder weniger Angriff."
         },
         {
             "key": "card.peafan_egg.text",
@@ -618,11 +654,11 @@
         },
         {
             "key": "card.petami.text",
-            "value": "Zu Beginn Ihres Zuges heilt diese Kreatur vollständig."
+            "value": "Zu Beginn Ihres Zuges heilt dieses Monster vollständig."
         },
         {
             "key": "card.petili.text",
-            "value": "Beim Spielen +2/2 an eine andere Kreatur bis zu Ihrem nächsten Zug geben."
+            "value": "Beim Ausspielen erhält ein anderes Monster bis zu deinem nächsten Zug +2/+2."
         },
         {
             "key": "card.phanti.text",
@@ -650,7 +686,7 @@
         },
         {
             "key": "card.plator.text",
-            "value": "Wenn Sie einen anderen Charakter mit dieser Kreatur töten, zwei Karten ziehen."
+            "value": "Wenn Sie mit diesem Monster ein anderes Monster töten, ziehen Sie 2 Karten."
         },
         {
             "key": "card.polip.text",
@@ -670,15 +706,15 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Verringere den Evolutionszähler eines Eis-Charakters um 1; erreicht er 0, entwickelt er sich."
+            "value": "Senke den Evolutionszähler eines Eis-Monsters um 1. Erreicht er 0, entwickelt es sich."
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Ziel auf ein Charakter auf dem Brett mit Mana-Kosten von 3 oder weniger für Gedankenkontrolle für 1 Zug. Das Ziel gewinnt Ansturm. "
+            "value": "Wählen Sie ein Monster auf dem Brett mit Manakosten von 3 oder weniger, um es für 1 Zug zu kontrollieren. Das Ziel erhält Sturmangriff."
         },
         {
             "key": "card.potion_rock.text",
-            "value": "Das Ziel gewinnt 2 Rüstung und reduziert direkten Charakterschaden um 2."
+            "value": "Das Ziel erhält Rüstung 2 und reduziert direkten Schaden durch Monster um 2."
         },
         {
             "key": "card.potion_shadow.text",
@@ -726,11 +762,11 @@
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>Jeden Zug:</b> Charaktere mit dem niedrigsten Angriff töten (einschließlich Verbündeter und dieses Monsters)."
+            "value": "<b>Jeden Zug:</b> Monster mit dem niedrigsten Angriff töten (einschließlich Verbündete und dieses Monster)."
         },
         {
             "key": "card.rock_cave.text",
-            "value": "Alle Fels-Kreaturen gewinnen: \"1 Schaden erleiden, um +1 Angriff zu gewinnen\". Kosten 1 Mana pro Nutzung."
+            "value": "Alle Stein-Monster erhalten: „Erleide 1 Schaden, um +1 Angriff zu erhalten“. 1 Mana pro Einsatz."
         },
         {
             "key": "card.rock_token.text",
@@ -754,7 +790,7 @@
         },
         {
             "key": "card.scarles.text",
-            "value": "Jeden Zug +1 Angriff gewinnen.\n <b>Fliegen</b> Kann Spott ignorieren"
+            "value": "Jeden Zug +1 Angriff erhalten.\nFliegen"
         },
         {
             "key": "card.shadow_token.text",
@@ -769,12 +805,16 @@
             "value": "<b>Angriff:</b> Gift."
         },
         {
+            "key": "card.skatrix.text",
+            "value": "Wut / Sturmangriff / Fliegen\n<b>Angriff:</b> Das Ziel einfrieren und keinen Gegenschaden erleiden."
+        },
+        {
             "key": "card.skipo.text",
             "value": "Spott\n "
         },
         {
             "key": "card.slime.text",
-            "value": "<b>Spielen:</b> Einen Charakter in Ihre Hand zurückgeben."
+            "value": "<b>Spielen:</b> Bringe ein Monster auf deine Hand zurück."
         },
         {
             "key": "card.sneel.text",
@@ -790,11 +830,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "Spott ignorieren"
+            "value": "Fliegen"
         },
         {
             "key": "card.sovis.text",
-            "value": "Spott ignorieren"
+            "value": "Fliegen"
         },
         {
             "key": "card.sparkig.text",
@@ -822,11 +862,11 @@
         },
         {
             "key": "card.spell_cursed_potion.text",
-            "value": "Ein Zielcharakter zum Schweigen bringen, dann ein Zielcharakter verfluchen"
+            "value": "Bringe ein Zielmonster zum Schweigen und verfluche dann ein Zielmonster"
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "Die Zielkarte gewinnt \"Wenn ein verbündeter Charakter ins Spiel kommt, dies zerstören\"."
+            "value": "Zielkarte erhält „Wenn ein verbündetes Monster ins Spiel kommt, zerstöre dieses Monster.“"
         },
         {
             "key": "card.spell_electric_ally.text",
@@ -834,7 +874,7 @@
         },
         {
             "key": "card.spell_extinct.text",
-            "value": "Die Zielkarte gewinnt \"Wenn ein verbündeter Charakter ins Spiel kommt, dies zerstören\"."
+            "value": "Zielkarte erhält „Wenn ein verbündetes Monster ins Spiel kommt, zerstöre dieses Monster.“"
         },
         {
             "key": "card.spell_falling_stones.text",
@@ -842,11 +882,11 @@
         },
         {
             "key": "card.spell_flood.text",
-            "value": "Die LP aller Charaktere auf 1 reduzieren."
+            "value": "Reduziere die LP aller Monster auf 1."
         },
         {
             "key": "card.spell_growth.text",
-            "value": "Alle verbündeten Pflanzen-Charaktere gewinnen +2/2"
+            "value": "Alle verbündeten Pflanzen-Monster erhalten +2/+2"
         },
         {
             "key": "card.spell_hammi_strike.text",
@@ -854,11 +894,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Friere alle Charaktere im Spiel ein.\nZerstöre Charaktere, die bereits eingefroren waren."
+            "value": "Friere alle Monster im Spiel ein.\nZerstöre Monster, die bereits eingefroren waren."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Friere einen Zielcharakter ein.\nZiehe eine Karte.\nBeschwöre ein Iglu."
+            "value": "Friere ein Zielmonster ein.\nZiehe eine Karte.\nBeschwöre ein Iglu"
         },
         {
             "key": "card.spell_ice_wave.text",
@@ -866,7 +906,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Füge allen Charakteren 1 Schaden zu und anschließend allen eingefrorenen Charakteren 2 Schaden."
+            "value": "Füge allen Monstern 1 Schaden zu und dann allen eingefrorenen Monstern 2 Schaden."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -890,7 +930,7 @@
         },
         {
             "key": "card.spell_psychic_staff.text",
-            "value": "Einen feindlichen Charakter für 3 Züge kontrollieren, oder bis er evolviert"
+            "value": "Übernehmen Sie für 3 Züge ein feindliches Monster oder bis es sich entwickelt"
         },
         {
             "key": "card.spell_rock_armageddon.text",
@@ -914,15 +954,15 @@
         },
         {
             "key": "card.spell_split.text",
-            "value": "Die Zielkreatur gewinnt \"3 Schaden erleiden, bevor angegriffen wird\"."
+            "value": "Zielmonster erhält „Erleidet 3 Schaden, bevor es angreift.“"
         },
         {
             "key": "card.spell_stomp.text",
-            "value": "Den Charakter mit den niedrigsten LP zerstören."
+            "value": "Zerstöre das Monster mit den niedrigsten LP."
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "Die Zielkreatur gewinnt \"3 Schaden erleiden, bevor angegriffen wird\"."
+            "value": "Zielmonster erhält „Erleidet 3 Schaden, bevor es angreift.“"
         },
         {
             "key": "card.spell_stones.text",
@@ -954,7 +994,7 @@
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>Spielen:</b> Einen Charakter mit 2 oder weniger Angriff zerstören."
+            "value": "<b>Spielen:</b> Zerstöre ein Monster mit 2 oder weniger Angriff."
         },
         {
             "key": "card.stingor.text",
@@ -966,7 +1006,7 @@
         },
         {
             "key": "card.stormus.text",
-            "value": "Feindliche Charaktere haben -1 Angriff.\n Kann Spott ignorieren."
+            "value": "Feindliche Monster haben -1 Angriff.\nKann Spott ignorieren."
         },
         {
             "key": "card.stormy.text",
@@ -974,7 +1014,7 @@
         },
         {
             "key": "card.swamp.text",
-            "value": "<b>Zugbeginn: </b>Alle verbündeten Schattenkarten gewinnen +1 Angriff."
+            "value": "<b>Zugbeginn:</b> Alle verbündeten Schatten-Monster erhalten +1 Angriff."
         },
         {
             "key": "card.tahlu.text",
@@ -986,11 +1026,15 @@
         },
         {
             "key": "card.tectan.text",
-            "value": "Alle verbündeten Fels-Charaktere haben +1 LP.\n Spott"
+            "value": "Alle verbündeten Stein-Monster haben +1 LP.\nSpott"
         },
         {
             "key": "card.tempish.text",
             "value": "<b>Spielen:</b> Ein beliebiges Ziel auf die Hand seines Besitzers zurückschicken."
+        },
+        {
+            "key": "card.tempish_full.text",
+            "value": "<b>Spielen:</b> Bringe ein beliebiges Ziel zurück auf die Hand seines Besitzers."
         },
         {
             "key": "card.tensei.text",
@@ -1014,11 +1058,11 @@
         },
         {
             "key": "card.town_rock.text",
-            "value": "Alle verbündeten Fels-Kreaturen haben +2 LP."
+            "value": "Alle verbündeten Stein-Monster haben +2 LP."
         },
         {
             "key": "card.town_volcano.text",
-            "value": "Alle verbündeten Feuer-Kreaturen haben +2 Angriff."
+            "value": "Alle verbündeten Feuer-Monster erhalten +2 Angriff."
         },
         {
             "key": "card.town_water.text",
@@ -1026,7 +1070,7 @@
         },
         {
             "key": "card.trap_bomb_electric.text",
-            "value": "<b>Falle:</b> Wenn ein Feind angreift, allen feindlichen Kreaturen 1 Schaden zufügen und sie für 1 Zug lähmen."
+            "value": "<b>Falle:</b> Wenn ein Feind angreift, füge allen feindlichen Monstern 1 Schaden zu und lähme sie für 1 Zug."
         },
         {
             "key": "card.trap_explosive.text",
@@ -1046,7 +1090,7 @@
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "Wenn der nächste feindliche Charakter angreift, Gedankenkontrolle für 1 Zug übernehmen und Spott geben. "
+            "value": "Wenn das nächste feindliche Monster angreift, kontrolliere es 1 Zug lang und verleihe ihm Spott."
         },
         {
             "key": "card.trap_spike.text",
@@ -1058,7 +1102,7 @@
         },
         {
             "key": "card.turbowing.text",
-            "value": "Eile\n Kann Spott ignorieren"
+            "value": "Eile\nFliegen"
         },
         {
             "key": "card.turtod.text",
@@ -1074,7 +1118,7 @@
         },
         {
             "key": "card.urnog.text",
-            "value": "<b>Spielen</b>: Angriff der Zielkarte auf 3 setzen"
+            "value": "<b>Spielen</b>: Setzen Sie den Angriff der Zielmonsterkarte auf 3"
         },
         {
             "key": "card.urogorth.text",
@@ -1089,6 +1133,10 @@
             "value": "Alle Elektro-Monster kosten 2 Mana weniger "
         },
         {
+            "key": "card.vertron_full.text",
+            "value": "Alle Elektro-Monster kosten 2 Mana weniger "
+        },
+        {
             "key": "card.viborus.text",
             "value": "Tarnung\n Angriff: Gift"
         },
@@ -1098,11 +1146,11 @@
         },
         {
             "key": "card.volcano.text",
-            "value": "Alle Feuer-Kreaturen gewinnen: \"1 Schaden erleiden, um +1 Angriff zu gewinnen\". Kosten 1 Mana pro Nutzung."
+            "value": "Alle Feuer-Monster erhalten: „Erleide 1 Schaden, um +1 Angriff zu erhalten“. 1 Mana pro Einsatz."
         },
         {
             "key": "card.vorteru.text",
-            "value": "<b>Spielen</b>: Angriff der Zielkarte auf 1 setzen"
+            "value": "<b>Spielen</b>: Setzen Sie den Angriff der Zielmonsterkarte auf 1"
         },
         {
             "key": "card.vulkong.text",
@@ -1122,7 +1170,7 @@
         },
         {
             "key": "card.waru_mount.text",
-            "value": "Feindliche Charaktere haben -1 Angriff.\n <b>Aktion:</b> +1 Angriff an Verbündete."
+            "value": "Feindliche Monster haben -1 Angriff.\n<b>Aktion:</b> Verbündete erhalten +1 Angriff."
         },
         {
             "key": "card.water_token.text",
@@ -1130,15 +1178,15 @@
         },
         {
             "key": "card.wido.text",
-            "value": "<b>Zugende:</b> Tarnung erhalten, wenn Sie andere Charaktere haben."
+            "value": "<b>Zugende:</b> Geht in Tarnung, wenn Sie andere Monster im Spiel haben."
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>Zugende:</b> Tarnung erhalten, wenn Sie andere Charaktere haben."
+            "value": "<b>Zugende:</b> Geht in Tarnung, wenn Sie andere Monster im Spiel haben."
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>Spielen:</b> Einen Charakter aus dem Ablagestapel auf die Hand nehmen."
+            "value": "<b>Spielen:</b> Fügen Sie Ihrer Hand ein Monster aus dem Ablagestapel hinzu."
         },
         {
             "key": "card.woodost.text",
@@ -1161,6 +1209,10 @@
             "value": "Zauberimmunität\n Wenn sie angegriffen wird, eine Karte ziehen"
         },
         {
+            "key": "card.zaphyra_full.text",
+            "value": "Zauberimmunität\nBeim Angegriffenwerden eine Karte ziehen"
+        },
+        {
             "key": "card.zargon.text",
             "value": "Fähigkeitsimmunität\n Regeneration\n<b>Spielen:</b> Eine Karte aus dem Ablagestapel auf die Hand nehmen."
         },
@@ -1173,20 +1225,24 @@
             "value": "Zauberschaden +4.\n Fliegen"
         },
         {
+            "key": "card.zenphire_full.text",
+            "value": "Zauberschaden +4.\nFliegen"
+        },
+        {
             "key": "card.zeras.text",
             "value": "<b>Spielen:</b> Fluch\n<b>Spielen:</b> Einen Hajiko beschwören"
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Immer wenn ein anderer Charakter stirbt, zwei Karten ziehen."
+            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 2 Karten."
         },
         {
             "key": "card.zithex.text",
-            "value": "<b>Spielen:</b> Angriff des Zielcharakters auf 1 reduzieren."
+            "value": "<b>Spielen:</b> Setzt den Angriff eines Zielmonsters auf 1."
         },
         {
             "key": "card.ziwing.text",
-            "value": "Eile / Fliegen"
+            "value": "Eile\nFliegen"
         },
         {
             "key": "card.zorni.text",
