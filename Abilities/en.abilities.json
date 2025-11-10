@@ -273,6 +273,14 @@
             "value": "Curse"
         },
         {
+            "key": "ability.attack_freeze.desc",
+            "value": "Attacked character becomes frozen."
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "Freeze"
+        },
+        {
             "key": "ability.attack_loss_immunity.desc",
             "value": "Protects character's attack from being reduced."
         },
@@ -433,6 +441,14 @@
             "value": "Shadow Ally"
         },
         {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "Igloos become invincible. "
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "Igloo Protection"
+        },
+        {
             "key": "ability.aura_reptile.desc",
             "value": "All other allied reptiles gain +1 attack."
         },
@@ -487,6 +503,14 @@
         {
             "key": "ability.choice_fury.title",
             "value": "Fury"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "Can attack immediately, but cannot target the enemy player on the turn it's played."
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "Rush"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
@@ -773,6 +797,14 @@
             "value": "Haste"
         },
         {
+            "key": "ability.ice punch.desc",
+            "value": "Do not take damage when attacking."
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "Ice Punch"
+        },
+        {
             "key": "ability.icy_buff1.desc",
             "value": "Gain +1 for when an enemy is frozen."
         },
@@ -1002,6 +1034,14 @@
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
+            "value": "Choice"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "Gain Taunt or Rush"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
             "value": "Choice"
         },
         {
@@ -1426,6 +1466,14 @@
         },
         {
             "key": "ability.play_summon_igloo2.title",
+            "value": "Summon Igloo"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "On play summon 2 Igloos"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
             "value": "Summon Igloo"
         },
         {
