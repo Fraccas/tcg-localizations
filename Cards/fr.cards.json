@@ -21,6 +21,10 @@
             "value": "<b>Tuer :</b> Piochez une carte\nAu début de chaque tour, gagnez 1 armure."
         },
         {
+            "key": "card.astroguin.text",
+            "value": "Provocation\n<b>Jouer :</b> Invoque deux igloos.\nInvincibilité d'Igloo."
+        },
+        {
             "key": "card.bashker.text",
             "value": "<b>Évasion de piège :</b> Ne déclenche pas les pièges lors de l'attaque.\n Gagnez +1 dégâts pour chaque piège ennemi en jeu."
         },
@@ -30,7 +34,7 @@
         },
         {
             "key": "card.bay.text",
-            "value": "Lorsque une créature d'Eau que vous possédez meurt, piochez une carte."
+            "value": "Quand un monstre Eau que vous possédez meurt, piochez une carte."
         },
         {
             "key": "card.boilin.text",
@@ -42,11 +46,11 @@
         },
         {
             "key": "card.burnibu.text",
-            "value": "<b>Jouer :</b> Défaussez une carte aléatoire de la main du joueur et piochez deux nouvelles cartes."
+            "value": "<b>Jouer :</b> Défaussez une carte aléatoire de votre main et piochez deux nouvelles cartes."
         },
         {
             "key": "card.burnion.text",
-            "value": "<b>Jouer :</b> Le personnage gagne brûlure et subit 2 dégâts par tour."
+            "value": "<b>Jouer :</b> Le monstre ciblé est brûlé et subit 2 dégâts par tour."
         },
         {
             "key": "card.burny.text",
@@ -58,6 +62,10 @@
         },
         {
             "key": "card.cabyron.text",
+            "value": "<b>Lancer :</b> Accorde +2 armure à tous les alliés en jeu. Coûte 5 mana et utilise une action."
+        },
+        {
+            "key": "card.cabyron_full.text",
             "value": "<b>Lancer :</b> Accorde +2 armure à tous les alliés en jeu. Coûte 5 mana et utilise une action."
         },
         {
@@ -94,14 +102,18 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Jeu :</b> Gèle tous les personnages ennemis ayant 3 d'attaque ou moins.\nVol"
+            "value": "<b>Jouer :</b> Gèle tous les monstres ennemis ayant 3 d'attaque ou moins.\nVol"
         },
         {
             "key": "card.cyowl.text",
-            "value": "Volant / Évolue en Cryonix\n <b>Jouer :</b> Gèle un personnage ennemi"
+            "value": "<b>Jouer :</b> Gèle un monstre ennemi avec 4 d'attaque ou moins\nVol"
         },
         {
             "key": "card.cypha.text",
+            "value": "Furtivité"
+        },
+        {
+            "key": "card.cypha_full.text",
             "value": "Furtivité"
         },
         {
@@ -110,10 +122,14 @@
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>Jouer</b> : Maudire tous les personnages en jeu."
+            "value": "<b>Jouer :</b> Maudit tous les monstres en jeu."
         },
         {
             "key": "card.devastor.text",
+            "value": "Immunité aux sorts / Coquille\n<b>Jouer :</b> Inflige 2 dégâts à toutes les cibles"
+        },
+        {
+            "key": "card.devastor_full.text",
             "value": "Immunité aux sorts / Coquille\n<b>Jouer :</b> Inflige 2 dégâts à toutes les cibles"
         },
         {
@@ -150,7 +166,7 @@
         },
         {
             "key": "card.dracon.text",
-            "value": "Piétinement\n Ignorer la provocation"
+            "value": "Piétinement\nVol"
         },
         {
             "key": "card.dragin.text",
@@ -166,11 +182,11 @@
         },
         {
             "key": "card.drion.text",
-            "value": "<b>Jouer</b> : Silence un personnage cible, puis maudis un personnage cible"
+            "value": "<b>Jouer :</b> Réduit au silence un monstre ciblé, puis maudit un monstre ciblé"
         },
         {
             "key": "card.dryaow.text",
-            "value": "<b>Jouer</b> : Maudire tous les personnages en jeu"
+            "value": "<b>Jouer :</b> Maudit tous les monstres en jeu"
         },
         {
             "key": "card.dulster.text",
@@ -190,7 +206,7 @@
         },
         {
             "key": "card.envish.text",
-            "value": "<b>Jouer :</b> Détruit un personnage avec 3 attaque ou moins."
+            "value": "<b>Jouer :</b> Détruit un monstre avec 3 d'attaque ou moins."
         },
         {
             "key": "card.equip_psychic_ring.text",
@@ -214,7 +230,7 @@
         },
         {
             "key": "card.espe.text",
-            "value": "Contrôle mental sur un personnage ennemi cible avec un coût de mana de 5+ jusqu'à ce que ce personnage quitte le plateau"
+            "value": "Contrôle mental d'un monstre ennemi ciblé coûtant 5 mana ou plus jusqu'à ce que ce monstre quitte le plateau"
         },
         {
             "key": "card.evira.text",
@@ -226,7 +242,7 @@
         },
         {
             "key": "card.ezonea.text",
-            "value": "<b>Jouer :</b> Contrôle mental sur un personnage ennemi avec un coût de mana de 5 ou moins"
+            "value": "<b>Jouer :</b> Contrôle mental d'un monstre ennemi avec 5 d'attaque ou moins"
         },
         {
             "key": "card.fire_token.text",
@@ -234,23 +250,23 @@
         },
         {
             "key": "card.flamitto.text",
-            "value": "<b>Attaque :</b> Brûle l'ennemi. Ils perdent 2 PV par tour."
+            "value": "<b>Attaque :</b> Brûle le monstre ennemi. Il perd 2 PV par tour."
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>Jouer :</b> Contrôle mental sur un personnage cible coûtant 2 mana ou moins"
+            "value": "<b>Jouer :</b> Contrôle mental d'un monstre ciblé coûtant 2 mana ou moins."
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Jouer :</b> Contrôle mental sur un personnage cible ayant 3 d'attaque ou moins"
+            "value": "<b>Jouer :</b> Contrôle mental d'un monstre ciblé ayant 3 d'attaque ou moins"
         },
         {
             "key": "card.froggyo.text",
-            "value": "<b>Jouer :</b> Sélectionnez un personnage cible avec un coût de mana de 2 ou moins de n'importe quel côté et envoyez-le à l'autre joueur."
+            "value": "<b>Jouer :</b> Sélectionnez un monstre ciblé coûtant 2 mana ou moins de n'importe quel côté et envoyez-le à l'autre joueur."
         },
         {
             "key": "card.frojest.text",
-            "value": "Lorsque l'adversaire défausse une carte de personnage, cette créature devient une copie du personnage défaussé."
+            "value": "Quand l'adversaire défausse une carte monstre, ce monstre devient une copie du monstre défaussé."
         },
         {
             "key": "card.frojesti.text",
@@ -258,11 +274,15 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Ruée\nGagne +1/+1 lorsqu'une carte est gelée."
+            "value": "Ruée\nGagne +1/+1 lorsqu'un monstre est gelé."
         },
         {
             "key": "card.galasu.text",
-            "value": "Immunité aux sorts\n Immunité aux capacités\n Ignorer la provocation"
+            "value": "Gagne Immunité aux sorts ou Immunité aux capacités\nIgnore la provocation"
+        },
+        {
+            "key": "card.galasu_full.text",
+            "value": "Gagne Immunité aux sorts ou Immunité aux capacités\nIgnore la provocation"
         },
         {
             "key": "card.gamud.text",
@@ -270,7 +290,7 @@
         },
         {
             "key": "card.gargarm.text",
-            "value": "Après avoir joué un sort, gagnez +2 attaque.\n <b>Volant</b> Peut ignorer la provocation"
+            "value": "Après avoir lancé un sort, gagne +2 attaque.\nVol"
         },
         {
             "key": "card.gargoli.text",
@@ -286,15 +306,19 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte."
+            "value": "Chaque fois qu'un autre monstre meurt, piochez 1 carte."
         },
         {
             "key": "card.gizord.text",
             "value": "Hâte"
         },
         {
+            "key": "card.glidara.text",
+            "value": "Choix : Provocation ou Ruée\n<b>Mort :</b> Invoque un Igloo."
+        },
+        {
             "key": "card.glummy.text",
-            "value": "<b>Attaque :</b> Poison.\n <b>Volant :</b> Peut ignorer la provocation."
+            "value": "<b>Attaque :</b> Poison.\nVol"
         },
         {
             "key": "card.gluttrats.text",
@@ -314,7 +338,7 @@
         },
         {
             "key": "card.gracelia.text",
-            "value": "<b>Jouer :</b> Guérit un personnage de tous les effets négatifs et accorde +2 PV"
+            "value": "<b>Jouer :</b> Soigne un monstre de tous ses effets négatifs et lui accorde +2 PV"
         },
         {
             "key": "card.graceliaex.text",
@@ -330,11 +354,11 @@
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Provocation</b>\n <b>Chaque tour :</b> Tue les personnages avec l'attaque la plus basse.\n "
+            "value": "<b>Provocation</b>\n<b>Chaque tour :</b> Tue les monstres avec l'attaque la plus basse.\n"
         },
         {
             "key": "card.hajiko.text",
-            "value": "<b>Jouer :</b> Ajoute Malédiction de la Souffrance à la cible"
+            "value": "<b>Jouer :</b> Inflige Malédiction de Souffrance à un monstre"
         },
         {
             "key": "card.hammar.text",
@@ -342,7 +366,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte.\n Immunité à la perte d'attaque"
+            "value": "Chaque fois qu'un autre monstre meurt, piochez 1 carte.\nImmunité à la perte d'attaque"
         },
         {
             "key": "card.hammi.text",
@@ -354,11 +378,11 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte."
+            "value": "Chaque fois qu'un autre monstre meurt, piochez 1 carte."
         },
         {
             "key": "card.hato.text",
-            "value": "Gagne Carapace chaque fois que vous invoquez un lieu.\nGagne +1/+1 si un lieu de glace est en jeu."
+            "value": "<b>Attaque :</b> Malédiction."
         },
         {
             "key": "card.headrac.text",
@@ -366,7 +390,7 @@
         },
         {
             "key": "card.heara.text",
-            "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
+            "value": "<b>Jouer :</b> L'attaque du monstre ciblé est réduite à 1."
         },
         {
             "key": "card.hero_electric.text",
@@ -414,7 +438,7 @@
         },
         {
             "key": "card.ice_town_igloo.text",
-            "value": "Si les PV ≥ 2, tous les personnages de glace alliés gagnent +0/+1\nSi les PV ≥ 4, tous les personnages de glace alliés gagnent +1/+0\nSi les PV ≥ 6, toutes les cartes de glace en main coûtent 1 de moins."
+            "value": "Si PV 2+, tous les monstres Glace alliés gagnent +0/+1\nSi PV 4+, tous les monstres Glace alliés gagnent +1/+0\nSi PV 6+, toutes les cartes Glace coûtent 1 de moins depuis la main."
         },
         {
             "key": "card.ignitas.text",
@@ -454,7 +478,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "Assaut / Volant"
+            "value": "Ruée\nVol"
         },
         {
             "key": "card.lizordo.text",
@@ -469,12 +493,16 @@
             "value": "<b>Jouer</b> : Invoque un Lizo\n Tous les Reptiles +2 attaque."
         },
         {
+            "key": "card.lizorus_full.text",
+            "value": "<b>Jouer :</b> Invoque un Lizo\nTous les Reptiles +2 attaque."
+        },
+        {
             "key": "card.lizteel.text",
             "value": "Provocation"
         },
         {
             "key": "card.loneguin.text",
-            "value": "<b>Jeu :</b> Invoquez un igloo.\nSi vous avez déjà un igloo, piochez une carte."
+            "value": "Provocation\n<b>Mort :</b> Invoque un Igloo."
         },
         {
             "key": "card.lumini.text",
@@ -482,15 +510,15 @@
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>Jouer :</b> Donne +2/2.\n <b>Volant :</b> Peut ignorer la provocation."
+            "value": "<b>Jouer :</b> Donne +2/+2.\nVol"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Jouer :</b> Invoque deux fois un igloo et gèle un personnage ennemi avec 3 d'attaque ou moins\nVolant"
+            "value": "<b>Jouer :</b> Invoque deux Igloos et gèle un monstre ennemi avec 3 d'attaque ou moins\nVol"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>Jouer :</b> Donne +2/2\n <b>Jouer :</b> Soigne le joueur de 4 PV\n <b>Volant :</b> Peut ignorer la provocation"
+            "value": "<b>Jouer :</b> Donne +2/+2\n<b>Jouer :</b> Soigne le joueur de 4 PV\nVol"
         },
         {
             "key": "card.marshland.text",
@@ -506,7 +534,7 @@
         },
         {
             "key": "card.mimi.text",
-            "value": "Au début de votre tour, cette créature se soigne complètement."
+            "value": "Au début de votre tour, ce monstre se soigne entièrement."
         },
         {
             "key": "card.minask.text",
@@ -514,11 +542,11 @@
         },
         {
             "key": "card.miraibow.text",
-            "value": "À chaque fois qu'un autre personnage meurt, piochez 2 cartes."
+            "value": "Chaque fois qu'un autre monstre meurt, piochez 2 cartes."
         },
         {
             "key": "card.mirion.text",
-            "value": "À chaque fois qu'un autre personnage meurt, piochez 2 cartes."
+            "value": "Chaque fois qu'un autre monstre meurt, piochez 2 cartes."
         },
         {
             "key": "card.momburn.text",
@@ -534,7 +562,7 @@
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>Jouer :</b> Contrôle mental sur un personnage ennemi cible avec une attaque de 3 ou moins jusqu'à ce que cette créature quitte le plateau"
+            "value": "<b>Jouer :</b> Contrôle mental d'un monstre ennemi ciblé coûtant 3 mana ou moins"
         },
         {
             "key": "card.mosheedark.text",
@@ -545,8 +573,12 @@
             "value": "Piétinement"
         },
         {
+            "key": "card.mosslug_full.text",
+            "value": "Piétinement"
+        },
+        {
             "key": "card.mountough.text",
-            "value": "Les dégâts excédentaires soignent les PV de cette créature de la différence"
+            "value": "Les dégâts excédentaires soignent ce monstre de la différence"
         },
         {
             "key": "card.muni.text",
@@ -554,11 +586,11 @@
         },
         {
             "key": "card.murple.text",
-            "value": "Au début de votre tour, cette créature se soigne complètement."
+            "value": "Au début de votre tour, ce monstre se soigne entièrement."
         },
         {
             "key": "card.nadzu.text",
-            "value": "Furie"
+            "value": "<b>Mort :</b> Piochez 2 cartes."
         },
         {
             "key": "card.nhomnhom.text",
@@ -566,7 +598,7 @@
         },
         {
             "key": "card.nobu.text",
-            "value": "Lors du jeu, donne +2 PV à une autre créature jusqu'à votre prochain tour."
+            "value": "À la mise en jeu, donne +2 PV à un autre monstre jusqu'à votre prochain tour."
         },
         {
             "key": "card.nophulos.text",
@@ -578,7 +610,7 @@
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>Fin de tour :</b> Entre en furtivité si vous avez d'autres personnages."
+            "value": "<b>Fin de tour :</b> Passe en furtivité si vous avez d'autres monstres en jeu."
         },
         {
             "key": "card.operant.text",
@@ -598,11 +630,15 @@
         },
         {
             "key": "card.owind.text",
-            "value": "Immunité aux sorts\n Ignorer la provocation\n<b>Jouer :</b> Geler une cible"
+            "value": "Immunité aux sorts\nIgnore la provocation\n<b>Jouer :</b> Gèle une cible"
+        },
+        {
+            "key": "card.owind_full.text",
+            "value": "Immunité aux sorts\nIgnore la provocation\n<b>Jouer :</b> Gèle une cible"
         },
         {
             "key": "card.peafan.text",
-            "value": "<b>Jouer :</b> Détruit un personnage avec 4 attaque ou moins."
+            "value": "<b>Jouer :</b> Détruit un monstre avec 4 d'attaque ou moins."
         },
         {
             "key": "card.peafan_egg.text",
@@ -618,15 +654,15 @@
         },
         {
             "key": "card.petami.text",
-            "value": "Au début de votre tour, cette créature se soigne complètement."
+            "value": "Au début de votre tour, ce monstre se soigne entièrement."
         },
         {
             "key": "card.petili.text",
-            "value": "Lors du jeu, donne +2/2 à une autre créature jusqu'à votre prochain tour."
+            "value": "<b>Jouer :</b> Donne +2/+2 à un autre monstre jusqu'à votre prochain tour."
         },
         {
             "key": "card.phanti.text",
-            "value": "À chaque fois qu'un autre personnage meurt, piochez 1 carte."
+            "value": "Chaque fois qu'un autre monstre meurt, piochez 1 carte."
         },
         {
             "key": "card.phyra.text",
@@ -650,7 +686,7 @@
         },
         {
             "key": "card.plator.text",
-            "value": "Lorsque vous tuez un autre personnage avec cette créature, piochez 2 cartes."
+            "value": "Quand vous tuez un autre monstre avec cette créature, piochez 2 cartes."
         },
         {
             "key": "card.polip.text",
@@ -670,15 +706,15 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Réduisez de 1 le compteur d'évolution d'un personnage de glace ; s'il atteint 0, il évoluera."
+            "value": "Réduit de 1 le compteur d'évolution d'un monstre Glace ; s'il atteint 0, il évolue."
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Cible un personnage sur le plateau avec un coût de mana de 3 ou moins pour Contrôle Mental pendant 1 tour. La cible gagne Assaut. "
+            "value": "Ciblez un monstre sur le plateau coûtant 3 mana ou moins pour le contrôler mentalement pendant 1 tour. La cible gagne Ruée."
         },
         {
             "key": "card.potion_rock.text",
-            "value": "La cible gagne 2 armure réduisant les dégâts directs des personnages de 2."
+            "value": "La cible gagne Armure 2, réduisant de 2 les dégâts directs infligés par les monstres."
         },
         {
             "key": "card.potion_shadow.text",
@@ -726,11 +762,11 @@
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>Chaque tour :</b> Tue les personnages avec l'attaque la plus basse (y compris les alliés et ce monstre)."
+            "value": "<b>Chaque tour :</b> Tue les monstres avec l'attaque la plus basse (alliés et ce monstre inclus)."
         },
         {
             "key": "card.rock_cave.text",
-            "value": "Toutes les créatures Roche gagnent : \"Subit 1 dégât pour gagner +1 attaque\". Coût de 1 mana par utilisation."
+            "value": "Tous les monstres Roche gagnent : « Subissez 1 dégât pour gagner +1 attaque ». Coût : 1 mana par utilisation."
         },
         {
             "key": "card.rock_token.text",
@@ -754,7 +790,7 @@
         },
         {
             "key": "card.scarles.text",
-            "value": "Chaque tour, gagnez +1 attaque.\n <b>Volant</b> Peut ignorer la provocation"
+            "value": "Chaque tour, gagne +1 attaque.\nVol"
         },
         {
             "key": "card.shadow_token.text",
@@ -769,12 +805,16 @@
             "value": "<b>Attaque :</b> Poison."
         },
         {
+            "key": "card.skatrix.text",
+            "value": "Furie / Ruée / Vol\n<b>Attaque :</b> Gèle la cible et ne subit pas de riposte."
+        },
+        {
             "key": "card.skipo.text",
             "value": "Provocation\n "
         },
         {
             "key": "card.slime.text",
-            "value": "<b>Jouer :</b> Renvoie un personnage dans votre main."
+            "value": "<b>Jouer :</b> Renvoyez un monstre dans votre main."
         },
         {
             "key": "card.sneel.text",
@@ -790,11 +830,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "Ignorer la provocation"
+            "value": "Vol"
         },
         {
             "key": "card.sovis.text",
-            "value": "Ignorer la provocation"
+            "value": "Vol"
         },
         {
             "key": "card.sparkig.text",
@@ -822,11 +862,11 @@
         },
         {
             "key": "card.spell_cursed_potion.text",
-            "value": "Silence un personnage cible, puis maudis un personnage cible"
+            "value": "Réduit au silence un monstre ciblé, puis maudit un monstre ciblé"
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "La carte cible gagne \"Lorsque un personnage allié entre en jeu, détruis ceci\"."
+            "value": "La carte ciblée gagne « Lorsqu'un monstre allié entre en jeu, détruisez ce monstre. »"
         },
         {
             "key": "card.spell_electric_ally.text",
@@ -834,7 +874,7 @@
         },
         {
             "key": "card.spell_extinct.text",
-            "value": "La carte cible gagne \"Lorsque un personnage allié entre en jeu, détruis ceci\"."
+            "value": "La carte ciblée gagne « Lorsqu'un monstre allié entre en jeu, détruisez ce monstre. »"
         },
         {
             "key": "card.spell_falling_stones.text",
@@ -842,11 +882,11 @@
         },
         {
             "key": "card.spell_flood.text",
-            "value": "Réduit les PV de tous les personnages à 1."
+            "value": "Réduit les PV de tous les monstres à 1."
         },
         {
             "key": "card.spell_growth.text",
-            "value": "Tous les personnages Plante alliés gagnent +2/2"
+            "value": "Tous les monstres Plante alliés gagnent +2/+2"
         },
         {
             "key": "card.spell_hammi_strike.text",
@@ -854,19 +894,19 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Gelez tous les personnages en jeu.\nDétruisez les personnages déjà gelés."
+            "value": "Gèle tous les monstres en jeu.\nDétruit les monstres déjà gelés."
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Gelez le personnage ciblé.\nPiochez une carte.\nInvoquez un igloo."
+            "value": "Gèle un monstre ciblé.\nPiochez une carte.\nInvoquez un Igloo"
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Gèle une cible pendant 1 tour."
+            "value": "Inflige 2 dégâts à tous les monstres ennemis."
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Inflige 1 dégât à tous les personnages, puis 2 dégâts à tous les personnages gelés."
+            "value": "Inflige 1 dégât à tous les monstres, puis 2 dégâts à tous les monstres gelés."
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -890,7 +930,7 @@
         },
         {
             "key": "card.spell_psychic_staff.text",
-            "value": "Prenez le contrôle d'un personnage ennemi pendant 3 tours, ou jusqu'à ce qu'il évolue"
+            "value": "Prenez le contrôle d'un monstre ennemi pendant 3 tours, ou jusqu'à son évolution"
         },
         {
             "key": "card.spell_rock_armageddon.text",
@@ -914,15 +954,15 @@
         },
         {
             "key": "card.spell_split.text",
-            "value": "La créature cible gagne \"Subit 3 dégâts avant d'attaquer\"."
+            "value": "Le monstre ciblé gagne « Subit 3 dégâts avant d'attaquer. »"
         },
         {
             "key": "card.spell_stomp.text",
-            "value": "Détruit le personnage avec les PV les plus bas."
+            "value": "Détruit le monstre ayant le moins de PV."
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "La créature cible gagne \"Subit 3 dégâts avant d'attaquer\"."
+            "value": "Le monstre ciblé gagne « Subit 3 dégâts avant d'attaquer. »"
         },
         {
             "key": "card.spell_stones.text",
@@ -954,7 +994,7 @@
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>Jouer :</b> Détruit un personnage avec 2 attaque ou moins."
+            "value": "<b>Jouer :</b> Détruit un monstre avec 2 d'attaque ou moins."
         },
         {
             "key": "card.stingor.text",
@@ -966,7 +1006,7 @@
         },
         {
             "key": "card.stormus.text",
-            "value": "Les personnages ennemis ont -1 attaque.\n Peut ignorer la provocation."
+            "value": "Les monstres ennemis ont -1 attaque.\nPeut ignorer la provocation."
         },
         {
             "key": "card.stormy.text",
@@ -974,7 +1014,7 @@
         },
         {
             "key": "card.swamp.text",
-            "value": "<b>Début de tour : </b>Toutes les cartes Ombre alliées gagnent +1 attaque."
+            "value": "<b>Début de tour :</b> Tous les monstres Ombre alliés gagnent +1 attaque."
         },
         {
             "key": "card.tahlu.text",
@@ -986,10 +1026,14 @@
         },
         {
             "key": "card.tectan.text",
-            "value": "Tous les personnages Roche alliés ont +1 PV.\n Provocation"
+            "value": "Tous les monstres Roche alliés ont +1 PV.\nProvocation"
         },
         {
             "key": "card.tempish.text",
+            "value": "<b>Jouer :</b> Renvoyez n'importe quelle cible dans la main de son propriétaire."
+        },
+        {
+            "key": "card.tempish_full.text",
             "value": "<b>Jouer :</b> Renvoyez n'importe quelle cible dans la main de son propriétaire."
         },
         {
@@ -1014,11 +1058,11 @@
         },
         {
             "key": "card.town_rock.text",
-            "value": "Toutes les créatures Roche alliées ont +2 PV."
+            "value": "Tous les monstres Roche alliés ont +2 PV."
         },
         {
             "key": "card.town_volcano.text",
-            "value": "Toutes les créatures de Feu alliées ont +2 attaque."
+            "value": "Tous les monstres Feu alliés ont +2 attaque."
         },
         {
             "key": "card.town_water.text",
@@ -1026,7 +1070,7 @@
         },
         {
             "key": "card.trap_bomb_electric.text",
-            "value": "<b>Piège :</b> Lorsqu'un ennemi attaque, inflige 1 dégât à toutes les créatures ennemies et les paralyse pendant 1 tour."
+            "value": "<b>Piège :</b> Lorsqu'un ennemi attaque, inflige 1 dégât à tous les monstres ennemis et les paralyse pendant 1 tour."
         },
         {
             "key": "card.trap_explosive.text",
@@ -1046,7 +1090,7 @@
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "Lorsque le prochain personnage ennemi attaque, prenez le Contrôle Mental de celui-ci pendant 1 tour et donnez-lui provocation. "
+            "value": "Quand le prochain monstre ennemi attaque, prenez-en le contrôle mental pendant 1 tour et donnez-lui Provocation."
         },
         {
             "key": "card.trap_spike.text",
@@ -1058,7 +1102,7 @@
         },
         {
             "key": "card.turbowing.text",
-            "value": "Hâte\n Peut Ignorer la Provocation"
+            "value": "Hâte\nVol"
         },
         {
             "key": "card.turtod.text",
@@ -1074,7 +1118,7 @@
         },
         {
             "key": "card.urnog.text",
-            "value": "<b>Jouer</b> : Fixe l'attaque de la carte cible à 3"
+            "value": "<b>Jouer :</b> Fixe l'attaque du monstre ciblé à 3"
         },
         {
             "key": "card.urogorth.text",
@@ -1089,6 +1133,10 @@
             "value": "Tous les monstres Électriques coûtent 2 mana de moins "
         },
         {
+            "key": "card.vertron_full.text",
+            "value": "Tous les monstres Électriques coûtent 2 mana de moins "
+        },
+        {
             "key": "card.viborus.text",
             "value": "Furtivité\n Attaque : Poison"
         },
@@ -1098,11 +1146,11 @@
         },
         {
             "key": "card.volcano.text",
-            "value": "Toutes les créatures de Feu gagnent : \"Subit 1 dégât pour gagner +1 attaque\". Coût de 1 mana par utilisation."
+            "value": "Tous les monstres Feu gagnent : « Subissez 1 dégât pour gagner +1 attaque ». Coût : 1 mana par utilisation."
         },
         {
             "key": "card.vorteru.text",
-            "value": "<b>Jouer</b> : Fixe l'attaque de la carte cible à 1"
+            "value": "<b>Jouer :</b> Fixe l'attaque du monstre ciblé à 1"
         },
         {
             "key": "card.vulkong.text",
@@ -1122,7 +1170,7 @@
         },
         {
             "key": "card.waru_mount.text",
-            "value": "Les personnages ennemis ont -1 attaque.\n <b>Action :</b> +1 attaque aux alliés."
+            "value": "Les monstres ennemis ont -1 attaque.\n<b>Action :</b> +1 attaque pour les alliés."
         },
         {
             "key": "card.water_token.text",
@@ -1130,15 +1178,15 @@
         },
         {
             "key": "card.wido.text",
-            "value": "<b>Fin de tour :</b> Entre en furtivité si vous avez d'autres personnages."
+            "value": "<b>Fin de tour :</b> Passe en furtivité si vous avez d'autres monstres en jeu."
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>Fin de tour :</b> Entre en furtivité si vous avez d'autres personnages."
+            "value": "<b>Fin de tour :</b> Passe en furtivité si vous avez d'autres monstres en jeu."
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>Jouer :</b> Ajoutez un personnage de votre défausse à votre main."
+            "value": "<b>Jouer :</b> Ajoutez un monstre de la défausse à votre main."
         },
         {
             "key": "card.woodost.text",
@@ -1161,6 +1209,10 @@
             "value": "Immunité aux sorts\n Lorsqu'elle est attaquée, piochez une carte"
         },
         {
+            "key": "card.zaphyra_full.text",
+            "value": "Immunité aux sorts\nLorsqu'elle est attaquée, piochez une carte"
+        },
+        {
             "key": "card.zargon.text",
             "value": "Immunité aux capacités\n Régénération\n<b>Jouer :</b> Ajoutez une carte de votre défausse à votre main."
         },
@@ -1173,20 +1225,24 @@
             "value": "Dégâts des sorts +4.\n Volant"
         },
         {
+            "key": "card.zenphire_full.text",
+            "value": "Dégâts des sorts +4.\nVol"
+        },
+        {
             "key": "card.zeras.text",
             "value": "<b>Jouer :</b> Malédiction\n<b>Jouer :</b> Invoquez un Hajiko"
         },
         {
             "key": "card.ziraffe.text",
-            "value": "À chaque fois qu'un autre personnage meurt, piochez 2 cartes."
+            "value": "Chaque fois qu'un autre monstre meurt, piochez 2 cartes."
         },
         {
             "key": "card.zithex.text",
-            "value": "<b>Jouer :</b> L'attaque du personnage cible est réduite à 1."
+            "value": "<b>Jouer :</b> L'attaque du monstre ciblé est réduite à 1."
         },
         {
             "key": "card.ziwing.text",
-            "value": "Hâte / Volant"
+            "value": "Hâte\nVol"
         },
         {
             "key": "card.zorni.text",
