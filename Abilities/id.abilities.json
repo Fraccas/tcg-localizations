@@ -118,7 +118,7 @@
         },
         {
             "key": "ability.activate_ice.title",
-            "value": "Bekukan"
+            "value": "Beku"
         },
         {
             "key": "ability.activate_plant.desc",
@@ -574,7 +574,7 @@
         },
         {
             "key": "ability.death_summon_igloo.title",
-            "value": "Summon Igloo"
+            "value": "Panggil Igloo"
         },
         {
             "key": "ability.death_summon_twii.desc",
@@ -758,7 +758,7 @@
         },
         {
             "key": "ability.ghost.desc",
-            "value": "Tidak menerima kerusakan saat menyerang."
+            "value": "Nggak kena damage waktu nyerang."
         },
         {
             "key": "ability.ghost.title",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "ability.play_freeze.title",
-            "value": "Bekukan"
+            "value": "Beku"
         },
         {
             "key": "ability.play_freeze_2al.desc",
@@ -1186,7 +1186,7 @@
         },
         {
             "key": "ability.play_freeze_2al.title",
-            "value": "Freeze"
+            "value": "Beku"
         },
         {
             "key": "ability.play_freeze_3al.desc",
@@ -1194,7 +1194,7 @@
         },
         {
             "key": "ability.play_freeze_3al.title",
-            "value": "Freeze"
+            "value": "Beku"
         },
         {
             "key": "ability.play_freeze_4al.desc",
@@ -1410,7 +1410,7 @@
         },
         {
             "key": "ability.play_summon_igloo.title",
-            "value": "Summon Igloo"
+            "value": "Panggil Igloo"
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
@@ -1422,11 +1422,11 @@
         },
         {
             "key": "ability.play_summon_igloo2.desc",
-            "value": "On play summon 2 Igloos"
+            "value": "Waktu dimainkan, panggil 2 Igloo."
         },
         {
             "key": "ability.play_summon_igloo2.title",
-            "value": "Summon Igloo"
+            "value": "Panggil Igloo"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1494,11 +1494,11 @@
         },
         {
             "key": "ability.rush.desc",
-            "value": "Dapat menyerang segera, tetapi tidak dapat menargetkan pemain musuh pada giliran saat dimainkan."
+            "value": "Bisa langsung nyerang, tapi nggak bisa nyerang pemain lawan di giliran ini."
         },
         {
             "key": "ability.rush.title",
-            "value": "Rush"
+            "value": "Serangan Kilat"
         },
         {
             "key": "ability.secret_return_hand.desc",
@@ -1718,7 +1718,7 @@
         },
         {
             "key": "ability.spell_freeze.title",
-            "value": "Bekukan"
+            "value": "Beku"
         },
         {
             "key": "ability.spell_fury.desc",
@@ -2491,6 +2491,54 @@
         {
             "key": "trait.spell_damage.title",
             "value": "Kerusakan Mantra"
+        },
+        {
+            "key": "ability.attack_freeze.desc",
+            "value": "Karakter yang diserang jadi beku."
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "Beku"
+        },
+        {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "Igloo jadi kebal."
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "Perlindungan Igloo"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "Bisa langsung nyerang, tapi nggak bisa nyerang pemain lawan di giliran ini."
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "Serangan Kilat"
+        },
+        {
+            "key": "ability.ice punch.desc",
+            "value": "Nggak kena damage waktu nyerang."
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "Tinju Es"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "Dapat Provokasi atau Serangan Kilat."
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
+            "value": "Pilihan"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "Waktu dimainkan, panggil 2 Igloo."
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
+            "value": "Panggil Igloo"
         }
     ]
 }
