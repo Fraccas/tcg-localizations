@@ -218,11 +218,11 @@
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Gain +1 HP and +1 Attack for every allied location of the same element type is in play."
+            "value": "Ottieni +1 Salute e +1 Attacco per ogni luogo alleato dello stesso tipo di elemento in gioco."
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "Location Boost"
+            "value": "Potere del luogo"
         },
         {
             "key": "ability.add_spell_damage1.desc",
@@ -271,6 +271,14 @@
         {
             "key": "ability.attack_curse.title",
             "value": "Maledizione"
+        },
+        {
+            "key": "ability.attack_freeze.desc",
+            "value": "Il personaggio attaccato viene congelato."
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "Congelamento"
         },
         {
             "key": "ability.attack_loss_immunity.desc",
@@ -433,6 +441,14 @@
             "value": "Alleato di Ombra"
         },
         {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "Gli igloo diventano invincibili."
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "Protezione Igloo"
+        },
+        {
             "key": "ability.aura_reptile.desc",
             "value": "Tutti gli altri rettili alleati guadagnano +1 attacco."
         },
@@ -487,6 +503,14 @@
         {
             "key": "ability.choice_fury.title",
             "value": "Furia"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "Può attaccare subito, ma non può colpire il giocatore nemico in questo turno."
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "Assalto"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
@@ -570,7 +594,7 @@
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "On death summon an Igloo"
+            "value": "Alla morte evoca un igloo."
         },
         {
             "key": "ability.death_summon_igloo.title",
@@ -618,7 +642,7 @@
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "Has +5 attack during the opponent's turn."
+            "value": "Ottiene +5 Attacco durante il turno dell'avversario."
         },
         {
             "key": "ability.defense_attack5.title",
@@ -750,11 +774,11 @@
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Gain shell each time you summon a location."
+            "value": "Ottieni scudo ogni volta che evochi un luogo."
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Gain Shell"
+            "value": "Ottieni scudo"
         },
         {
             "key": "ability.ghost.desc",
@@ -773,12 +797,20 @@
             "value": "Rapidità"
         },
         {
+            "key": "ability.ice punch.desc",
+            "value": "Non subisce danni durante l'attacco."
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "Pugno di Ghiaccio"
+        },
+        {
             "key": "ability.icy_buff1.desc",
-            "value": "Gain +1 for when an enemy is frozen."
+            "value": "Ottiene +1 Attacco quando un nemico è congelato."
         },
         {
             "key": "ability.icy_buff1.title",
-            "value": "Icy Buff"
+            "value": "Potere glaciale"
         },
         {
             "key": "ability.kill_draw1.desc",
@@ -1005,6 +1037,14 @@
             "value": "Scelta"
         },
         {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "Ottiene Provocazione o Assalto."
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
+            "value": "Scelta"
+        },
+        {
             "key": "ability.play_cure.desc",
             "value": "All'ingresso in gioco, cura un altro personaggio da tutti gli effetti di stato negativi."
         },
@@ -1070,11 +1110,11 @@
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "On play, deal 2 damage to frozen characters"
+            "value": "Quando viene giocata, infligge 2 danni ai personaggi congelati."
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "Damage"
+            "value": "Danno"
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
@@ -1158,11 +1198,11 @@
         },
         {
             "key": "ability.play_draw_ice_location.desc",
-            "value": "If an igloo is in play, draw a card."
+            "value": "Se c'è un igloo in gioco, pesca una carta."
         },
         {
             "key": "ability.play_draw_ice_location.title",
-            "value": "Igloo Draw"
+            "value": "Pesca igloo"
         },
         {
             "key": "ability.play_enemy_discard.desc",
@@ -1182,7 +1222,7 @@
         },
         {
             "key": "ability.play_freeze_2al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Il personaggio bersaglio viene congelato per 1 turno."
         },
         {
             "key": "ability.play_freeze_2al.title",
@@ -1190,7 +1230,7 @@
         },
         {
             "key": "ability.play_freeze_3al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Il personaggio bersaglio viene congelato per 1 turno."
         },
         {
             "key": "ability.play_freeze_3al.title",
@@ -1206,11 +1246,11 @@
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "All characters become frozen."
+            "value": "Tutti i personaggi vengono congelati."
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "Big Blizzard"
+            "value": "Grande bufera"
         },
         {
             "key": "ability.play_freeze_all_3al.desc",
@@ -1230,11 +1270,11 @@
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Grants +1 attack for every Igloo played this game. "
+            "value": "Conferisce +1 Attacco per ogni igloo giocato in questa partita."
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "Igloo Bonus"
+            "value": "Bonus igloo"
         },
         {
             "key": "ability.play_gain_rush_ice_location.desc",
@@ -1246,11 +1286,11 @@
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+            "value": "Ottiene Assalto se è in gioco un luogo Ghiaccio. Assalto consente di attaccare altre carte nello stesso turno in cui viene giocata."
         },
         {
             "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "Slush Rush"
+            "value": "Spalaneve"
         },
         {
             "key": "ability.play_heal_player2.desc",
@@ -1398,7 +1438,7 @@
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "On play summon a Hajiko"
+            "value": "Quando viene giocata, evoca un Hajiko."
         },
         {
             "key": "ability.play_summon_hajiko.title",
@@ -1406,19 +1446,19 @@
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "On play summon an Igloo"
+            "value": "Quando viene giocata, evoca un igloo."
         },
         {
             "key": "ability.play_summon_igloo.title",
-            "value": "Evoca Igloo"
+            "value": "Evoca igloo"
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Summon an igloo is one is not already in play."
+            "value": "Evoca un igloo se non ce n'è già uno in gioco."
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Build Igloo"
+            "value": "Costruisci igloo"
         },
         {
             "key": "ability.play_summon_igloo2.desc",
@@ -1426,6 +1466,14 @@
         },
         {
             "key": "ability.play_summon_igloo2.title",
+            "value": "Evoca Igloo"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "Quando viene giocato, evoca 2 Igloo."
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
             "value": "Evoca Igloo"
         },
         {
@@ -1638,7 +1686,7 @@
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Destroy all cards on the board"
+            "value": "Distrugge tutte le carte sul tabellone."
         },
         {
             "key": "ability.spell_destroy_all.title",
@@ -1654,19 +1702,19 @@
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Target and destroy a frozen character."
+            "value": "Prendi di mira e distruggi un personaggio congelato."
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
-            "value": "Ice Breaker"
+            "value": "Spacca-ghiaccio"
         },
         {
             "key": "ability.spell_destroy_location_target.desc",
-            "value": "Target a location and destroy it."
+            "value": "Prendi di mira un luogo e distruggilo."
         },
         {
             "key": "ability.spell_destroy_location_target.title",
-            "value": "Avalanche"
+            "value": "Valanga"
         },
         {
             "key": "ability.spell_destroy_locations.desc",
@@ -1762,11 +1810,11 @@
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Speed up evolution by 1 turn for an ice character"
+            "value": "Accelera di 1 turno l'evoluzione di un personaggio Ghiaccio."
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "Ice Evolution Decrease"
+            "value": "Riduzione evoluzione ghiaccio"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
@@ -1946,27 +1994,27 @@
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "All allied Ice creatures gain +1 HP."
+            "value": "Tutte le creature Ghiaccio alleate ottengono +1 Salute."
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
-            "value": "Igloo Aura"
+            "value": "Aura igloo"
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "All allied Ice creatures gain +1 Attack."
+            "value": "Tutte le creature Ghiaccio alleate ottengono +1 Attacco."
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
-            "value": "Igloo Aura 2"
+            "value": "Aura igloo 2"
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "All allied Ice cards cost 1 less."
+            "value": "Tutte le carte Ghiaccio alleate costano 1 in meno."
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
-            "value": "Igloo Aura 3"
+            "value": "Aura igloo 3"
         },
         {
             "key": "ability.town_aura_plant.desc",
@@ -2114,11 +2162,11 @@
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "Dopo che una creatura nemica ha attaccato, avvelenala."
         },
         {
             "key": "ability.trap_poison_attacker.title",
-            "value": "Poison"
+            "value": "Veleno"
         },
         {
             "key": "ability.trap_shock.desc",
@@ -2470,11 +2518,11 @@
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "Ice Nature"
+            "value": "Natura del ghiaccio"
         },
         {
             "key": "trait.igloo.title",
-            "value": "Igloo"
+            "value": "Iglu"
         },
         {
             "key": "trait.mind_control_counter.title",
@@ -2491,54 +2539,6 @@
         {
             "key": "trait.spell_damage.title",
             "value": "Danno Incantesimo"
-        },
-        {
-            "key": "ability.attack_freeze.desc",
-            "value": "Il personaggio attaccato viene congelato."
-        },
-        {
-            "key": "ability.attack_freeze.title",
-            "value": "Congelamento"
-        },
-        {
-            "key": "ability.aura_protect_igloo.desc",
-            "value": "Gli igloo diventano invincibili."
-        },
-        {
-            "key": "ability.aura_protect_igloo.title",
-            "value": "Protezione Igloo"
-        },
-        {
-            "key": "ability.choice_rush.desc",
-            "value": "Può attaccare subito, ma non può colpire il giocatore nemico in questo turno."
-        },
-        {
-            "key": "ability.choice_rush.title",
-            "value": "Assalto"
-        },
-        {
-            "key": "ability.ice punch.desc",
-            "value": "Non subisce danni durante l'attacco."
-        },
-        {
-            "key": "ability.ice punch.title",
-            "value": "Pugno di Ghiaccio"
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.desc",
-            "value": "Ottiene Provocazione o Assalto."
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.title",
-            "value": "Scelta"
-        },
-        {
-            "key": "ability.play_summon_igloo2_freeze3al.desc",
-            "value": "Quando viene giocato, evoca 2 Igloo."
-        },
-        {
-            "key": "ability.play_summon_igloo2_freeze3al.title",
-            "value": "Evoca Igloo"
         }
     ]
 }

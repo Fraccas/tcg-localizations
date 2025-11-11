@@ -218,11 +218,11 @@
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Gain +1 HP and +1 Attack for every allied location of the same element type is in play."
+            "value": "同じ属性の味方ロケーションが場にあるごとに、HPと攻撃力をそれぞれ+1得る。"
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "Location Boost"
+            "value": "ロケーション強化"
         },
         {
             "key": "ability.add_spell_damage1.desc",
@@ -594,11 +594,11 @@
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "On death summon an Igloo"
+            "value": "戦闘不能になるとイグルーを1体召喚する。"
         },
         {
             "key": "ability.death_summon_igloo.title",
-            "value": "Summon Igloo"
+            "value": "イグルー召喚"
         },
         {
             "key": "ability.death_summon_twii.desc",
@@ -642,7 +642,7 @@
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "Has +5 attack during the opponent's turn."
+            "value": "相手のターンの間、攻撃力が+5される。"
         },
         {
             "key": "ability.defense_attack5.title",
@@ -774,11 +774,11 @@
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Gain shell each time you summon a location."
+            "value": "ロケーションを召喚するたびにシェルを得る。"
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Gain Shell"
+            "value": "シェル獲得"
         },
         {
             "key": "ability.ghost.desc",
@@ -806,11 +806,11 @@
         },
         {
             "key": "ability.icy_buff1.desc",
-            "value": "Gain +1 for when an enemy is frozen."
+            "value": "敵が凍結していると攻撃力+1を得る。"
         },
         {
             "key": "ability.icy_buff1.title",
-            "value": "Icy Buff"
+            "value": "氷の強化"
         },
         {
             "key": "ability.kill_draw1.desc",
@@ -1110,11 +1110,11 @@
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "On play, deal 2 damage to frozen characters"
+            "value": "登場時、凍結しているキャラクターに2ダメージを与える。"
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "Damage"
+            "value": "ダメージ"
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
@@ -1198,11 +1198,11 @@
         },
         {
             "key": "ability.play_draw_ice_location.desc",
-            "value": "If an igloo is in play, draw a card."
+            "value": "イグルーが場にあるならカードを1枚引く。"
         },
         {
             "key": "ability.play_draw_ice_location.title",
-            "value": "Igloo Draw"
+            "value": "イグルードロー"
         },
         {
             "key": "ability.play_enemy_discard.desc",
@@ -1222,19 +1222,19 @@
         },
         {
             "key": "ability.play_freeze_2al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "対象のキャラクターを1ターン凍結する"
         },
         {
             "key": "ability.play_freeze_2al.title",
-            "value": "Freeze"
+            "value": "凍結"
         },
         {
             "key": "ability.play_freeze_3al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "対象のキャラクターを1ターン凍結する"
         },
         {
             "key": "ability.play_freeze_3al.title",
-            "value": "Freeze"
+            "value": "凍結"
         },
         {
             "key": "ability.play_freeze_4al.desc",
@@ -1246,11 +1246,11 @@
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "All characters become frozen."
+            "value": "すべてのキャラクターを凍結させる。"
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "Big Blizzard"
+            "value": "大吹雪"
         },
         {
             "key": "ability.play_freeze_all_3al.desc",
@@ -1270,11 +1270,11 @@
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Grants +1 attack for every Igloo played this game. "
+            "value": "この対戦で出したイグルー1つにつき攻撃力+1を得る。"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "Igloo Bonus"
+            "value": "イグルーボーナス"
         },
         {
             "key": "ability.play_gain_rush_ice_location.desc",
@@ -1286,11 +1286,11 @@
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+            "value": "氷のロケーションが場にあるならラッシュを得る。ラッシュはプレイしたターンに他のカードを攻撃できる"
         },
         {
             "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "Slush Rush"
+            "value": "スラッシュラッシュ"
         },
         {
             "key": "ability.play_heal_player2.desc",
@@ -1438,7 +1438,7 @@
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "On play summon a Hajiko"
+            "value": "登場時にハジコを召喚する。"
         },
         {
             "key": "ability.play_summon_hajiko.title",
@@ -1446,27 +1446,27 @@
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "On play summon an Igloo"
+            "value": "登場時にイグルーを召喚する。"
         },
         {
             "key": "ability.play_summon_igloo.title",
-            "value": "Summon Igloo"
+            "value": "イグルー召喚"
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Summon an igloo is one is not already in play."
+            "value": "場にイグルーがなければイグルーを召喚する。"
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Build Igloo"
+            "value": "イグルー建造"
         },
         {
             "key": "ability.play_summon_igloo2.desc",
-            "value": "On play summon 2 Igloos"
+            "value": "プレイ時にイグルーを2体召喚する"
         },
         {
             "key": "ability.play_summon_igloo2.title",
-            "value": "Summon Igloo"
+            "value": "イグルー召喚"
         },
         {
             "key": "ability.play_summon_igloo2_freeze3al.desc",
@@ -1686,7 +1686,7 @@
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Destroy all cards on the board"
+            "value": "盤面のカードをすべて破壊する。"
         },
         {
             "key": "ability.spell_destroy_all.title",
@@ -1702,19 +1702,19 @@
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Target and destroy a frozen character."
+            "value": "凍結したキャラクターを対象にして破壊する。"
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
-            "value": "Ice Breaker"
+            "value": "アイスブレイカー"
         },
         {
             "key": "ability.spell_destroy_location_target.desc",
-            "value": "Target a location and destroy it."
+            "value": "ロケーションを対象にして破壊する。"
         },
         {
             "key": "ability.spell_destroy_location_target.title",
-            "value": "Avalanche"
+            "value": "アバランチ"
         },
         {
             "key": "ability.spell_destroy_locations.desc",
@@ -1810,11 +1810,11 @@
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Speed up evolution by 1 turn for an ice character"
+            "value": "氷属性キャラクターの進化を1ターン早める。"
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "Ice Evolution Decrease"
+            "value": "氷進化短縮"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
@@ -1994,27 +1994,27 @@
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "All allied Ice creatures gain +1 HP."
+            "value": "味方の氷クリーチャーがHP+1を得る。"
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
-            "value": "Igloo Aura"
+            "value": "イグルーのオーラ"
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "All allied Ice creatures gain +1 Attack."
+            "value": "味方の氷クリーチャーが攻撃力+1を得る。"
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
-            "value": "Igloo Aura 2"
+            "value": "イグルーのオーラ2"
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "All allied Ice cards cost 1 less."
+            "value": "味方の氷カードのコストが1減少する。"
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
-            "value": "Igloo Aura 3"
+            "value": "イグルーのオーラ3"
         },
         {
             "key": "ability.town_aura_plant.desc",
@@ -2162,11 +2162,11 @@
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "敵のクリーチャーが攻撃した後、それに毒を与える。"
         },
         {
             "key": "ability.trap_poison_attacker.title",
-            "value": "Poison"
+            "value": "毒"
         },
         {
             "key": "ability.trap_shock.desc",
@@ -2518,11 +2518,11 @@
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "Ice Nature"
+            "value": "氷の性質"
         },
         {
             "key": "trait.igloo.title",
-            "value": "Igloo"
+            "value": "イグルー"
         },
         {
             "key": "trait.mind_control_counter.title",

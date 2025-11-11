@@ -633,6 +633,10 @@
             "value": "주문 무효\n 도발 무시\n<b>놓기:</b> 대상을 빙결"
         },
         {
+            "key": "card.owind_full.text",
+            "value": "주문 면역\n도발 무시\n<b>소환: </b> 대상을 빙결시킵니다"
+        },
+        {
             "key": "card.peafan.text",
             "value": "<b>놓기:</b> 공격력 4 이하 몬스터 파괴."
         },

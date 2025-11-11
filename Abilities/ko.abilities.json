@@ -218,11 +218,11 @@
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Gain +1 HP and +1 Attack for every allied location of the same element type is in play."
+            "value": "같은 속성의 아군 위치가 필드에 있을 때마다 체력과 공격력을 +1 얻습니다."
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "Location Boost"
+            "value": "위치 강화"
         },
         {
             "key": "ability.add_spell_damage1.desc",
@@ -271,6 +271,14 @@
         {
             "key": "ability.attack_curse.title",
             "value": "저주"
+        },
+        {
+            "key": "ability.attack_freeze.desc",
+            "value": "공격한 대상은 얼어붙습니다."
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "빙결"
         },
         {
             "key": "ability.attack_loss_immunity.desc",
@@ -433,6 +441,14 @@
             "value": "그림자 동료"
         },
         {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "이글루가 무적이 됩니다."
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "이글루 보호"
+        },
+        {
             "key": "ability.aura_reptile.desc",
             "value": "다른 모든 아군 파충류가 +1 공격력을 얻습니다"
         },
@@ -487,6 +503,14 @@
         {
             "key": "ability.choice_fury.title",
             "value": "분노"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "소환된 턴에 바로 공격할 수 있지만 그 턴에는 상대 플레이어를 공격할 수 없습니다."
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "돌진"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
@@ -570,11 +594,11 @@
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "On death summon an Igloo"
+            "value": "사망 시 이글루를 소환합니다."
         },
         {
             "key": "ability.death_summon_igloo.title",
-            "value": "Summon Igloo"
+            "value": "이글루 소환"
         },
         {
             "key": "ability.death_summon_twii.desc",
@@ -618,7 +642,7 @@
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "Has +5 attack during the opponent's turn."
+            "value": "상대 턴 동안 공격력이 +5가 됩니다."
         },
         {
             "key": "ability.defense_attack5.title",
@@ -750,11 +774,11 @@
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Gain shell each time you summon a location."
+            "value": "위치를 소환할 때마다 보호막을 얻습니다."
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Gain Shell"
+            "value": "보호막 획득"
         },
         {
             "key": "ability.ghost.desc",
@@ -773,12 +797,20 @@
             "value": "서두름"
         },
         {
+            "key": "ability.ice punch.desc",
+            "value": "공격할 때 피해를 받지 않습니다."
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "아이스 펀치"
+        },
+        {
             "key": "ability.icy_buff1.desc",
-            "value": "Gain +1 for when an enemy is frozen."
+            "value": "적이 얼어 있을 때 공격력이 +1 증가합니다."
         },
         {
             "key": "ability.icy_buff1.title",
-            "value": "Icy Buff"
+            "value": "서리 강화"
         },
         {
             "key": "ability.kill_draw1.desc",
@@ -1005,6 +1037,14 @@
             "value": "선택"
         },
         {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "도발 또는 돌진 중 하나를 얻습니다."
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
+            "value": "선택"
+        },
+        {
             "key": "ability.play_cure.desc",
             "value": "플레이 시 다른 캐릭터의 모든 부정적 상태 이상을 치료합니다"
         },
@@ -1070,11 +1110,11 @@
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "On play, deal 2 damage to frozen characters"
+            "value": "소환 시 얼어 있는 캐릭터에게 피해 2를 줍니다."
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "Damage"
+            "value": "피해"
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
@@ -1158,11 +1198,11 @@
         },
         {
             "key": "ability.play_draw_ice_location.desc",
-            "value": "If an igloo is in play, draw a card."
+            "value": "이글루가 필드에 있으면 카드를 1장 뽑습니다."
         },
         {
             "key": "ability.play_draw_ice_location.title",
-            "value": "Igloo Draw"
+            "value": "이글루 드로우"
         },
         {
             "key": "ability.play_enemy_discard.desc",
@@ -1182,19 +1222,19 @@
         },
         {
             "key": "ability.play_freeze_2al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "대상 캐릭터를 1턴 동안 얼립니다"
         },
         {
             "key": "ability.play_freeze_2al.title",
-            "value": "Freeze"
+            "value": "얼음"
         },
         {
             "key": "ability.play_freeze_3al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "대상 캐릭터를 1턴 동안 얼립니다"
         },
         {
             "key": "ability.play_freeze_3al.title",
-            "value": "Freeze"
+            "value": "얼음"
         },
         {
             "key": "ability.play_freeze_4al.desc",
@@ -1206,11 +1246,11 @@
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "All characters become frozen."
+            "value": "모든 캐릭터를 얼립니다."
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "Big Blizzard"
+            "value": "거대한 눈보라"
         },
         {
             "key": "ability.play_freeze_all_3al.desc",
@@ -1222,19 +1262,19 @@
         },
         {
             "key": "ability.play_freeze_all_4al.desc",
-            "value": "\uacf5\uaca9\ub825\uc774 4 \uc774\ud558\uc778 \ubaa8\ub4e0 \uc801\uc744 \uc5bc\ub9bd\ub2c8\ub2e4."
+            "value": "공격력이 4 이하인 모든 적을 얼립니다."
         },
         {
             "key": "ability.play_freeze_all_4al.title",
-            "value": "\ube14\ub9ac\uc790\ub4dc"
+            "value": "블리자드"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Grants +1 attack for every Igloo played this game. "
+            "value": "이 경기에서 소환한 이글루마다 공격력을 +1 얻습니다."
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "Igloo Bonus"
+            "value": "이글루 보너스"
         },
         {
             "key": "ability.play_gain_rush_ice_location.desc",
@@ -1246,11 +1286,11 @@
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+            "value": "얼음 위치가 보드에 있으면 돌진을 얻습니다. 돌진은 플레이된 턴에 다른 카드를 공격할 수 있게 해줍니다"
         },
         {
             "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "Slush Rush"
+            "value": "슬러시 러시"
         },
         {
             "key": "ability.play_heal_player2.desc",
@@ -1398,7 +1438,7 @@
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "On play summon a Hajiko"
+            "value": "소환 시 하지코를 부릅니다."
         },
         {
             "key": "ability.play_summon_hajiko.title",
@@ -1406,27 +1446,35 @@
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "On play summon an Igloo"
+            "value": "소환 시 이글루를 부릅니다."
         },
         {
             "key": "ability.play_summon_igloo.title",
-            "value": "Summon Igloo"
+            "value": "이글루 소환"
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Summon an igloo is one is not already in play."
+            "value": "필드에 이글루가 없다면 하나를 소환합니다."
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Build Igloo"
+            "value": "이글루 건설"
         },
         {
             "key": "ability.play_summon_igloo2.desc",
-            "value": "On play summon 2 Igloos"
+            "value": "소환 시 이글루 2개를 부릅니다."
         },
         {
             "key": "ability.play_summon_igloo2.title",
-            "value": "Summon Igloo"
+            "value": "이글루 소환"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "소환 시 이글루 2개를 부릅니다."
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
+            "value": "이글루 소환"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1638,7 +1686,7 @@
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Destroy all cards on the board"
+            "value": "필드의 모든 카드를 파괴합니다."
         },
         {
             "key": "ability.spell_destroy_all.title",
@@ -1654,19 +1702,19 @@
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Target and destroy a frozen character."
+            "value": "얼어 있는 캐릭터를 지정해 파괴합니다."
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
-            "value": "Ice Breaker"
+            "value": "아이스 브레이커"
         },
         {
             "key": "ability.spell_destroy_location_target.desc",
-            "value": "Target a location and destroy it."
+            "value": "위치를 지정해 파괴합니다."
         },
         {
             "key": "ability.spell_destroy_location_target.title",
-            "value": "Avalanche"
+            "value": "눈사태"
         },
         {
             "key": "ability.spell_destroy_locations.desc",
@@ -1762,11 +1810,11 @@
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Speed up evolution by 1 turn for an ice character"
+            "value": "얼음 캐릭터의 진화를 1턴 빠르게 합니다."
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "Ice Evolution Decrease"
+            "value": "얼음 진화 단축"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
@@ -1946,27 +1994,27 @@
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "All allied Ice creatures gain +1 HP."
+            "value": "아군 얼음 크리처가 체력 +1을 얻습니다."
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
-            "value": "Igloo Aura"
+            "value": "이글루의 오라"
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "All allied Ice creatures gain +1 Attack."
+            "value": "아군 얼음 크리처가 공격력 +1을 얻습니다."
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
-            "value": "Igloo Aura 2"
+            "value": "이글루의 오라 2"
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "All allied Ice cards cost 1 less."
+            "value": "아군 얼음 카드의 비용이 1 감소합니다."
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
-            "value": "Igloo Aura 3"
+            "value": "이글루의 오라 3"
         },
         {
             "key": "ability.town_aura_plant.desc",
@@ -2114,11 +2162,11 @@
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "적 생물이 공격한 후, 그 생물을 중독시킵니다."
         },
         {
             "key": "ability.trap_poison_attacker.title",
-            "value": "Poison"
+            "value": "독"
         },
         {
             "key": "ability.trap_shock.desc",
@@ -2470,11 +2518,11 @@
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "Ice Nature"
+            "value": "얼음 속성"
         },
         {
             "key": "trait.igloo.title",
-            "value": "Igloo"
+            "value": "이글루"
         },
         {
             "key": "trait.mind_control_counter.title",

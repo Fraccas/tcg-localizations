@@ -218,11 +218,11 @@
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Gain +1 HP and +1 Attack for every allied location of the same element type is in play."
+            "value": "Dapat +1 HP dan +1 Serangan untuk setiap lokasi sekutu dengan tipe elemen yang sama di medan."
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "Location Boost"
+            "value": "Peningkatan Lokasi"
         },
         {
             "key": "ability.add_spell_damage1.desc",
@@ -271,6 +271,14 @@
         {
             "key": "ability.attack_curse.title",
             "value": "Kutuk"
+        },
+        {
+            "key": "ability.attack_freeze.desc",
+            "value": "Karakter yang diserang jadi beku."
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "Beku"
         },
         {
             "key": "ability.attack_loss_immunity.desc",
@@ -433,6 +441,14 @@
             "value": "Sekutu Bayangan"
         },
         {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "Igloo jadi kebal."
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "Perlindungan Igloo"
+        },
+        {
             "key": "ability.aura_reptile.desc",
             "value": "Semua reptil sekutu lainnya mendapatkan +1 serangan."
         },
@@ -489,6 +505,14 @@
             "value": "Amukan"
         },
         {
+            "key": "ability.choice_rush.desc",
+            "value": "Bisa langsung nyerang, tapi nggak bisa nyerang pemain lawan di giliran ini."
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "Serangan Kilat"
+        },
+        {
             "key": "ability.choice_spell_immunity.desc",
             "value": "Tidak dapat menjadi target atau dirusak oleh kartu mantra."
         },
@@ -502,7 +526,7 @@
         },
         {
             "key": "ability.choice_taunt.title",
-            "value": "Taunt"
+            "value": "Provokasi"
         },
         {
             "key": "ability.death_blue_draw.desc",
@@ -570,7 +594,7 @@
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "On death summon an Igloo"
+            "value": "Saat mati memanggil sebuah Igloo."
         },
         {
             "key": "ability.death_summon_igloo.title",
@@ -618,7 +642,7 @@
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "Has +5 attack during the opponent's turn."
+            "value": "Memiliki +5 Serangan pada giliran lawan."
         },
         {
             "key": "ability.defense_attack5.title",
@@ -726,7 +750,7 @@
         },
         {
             "key": "ability.equip_taunt.title",
-            "value": "Taunt"
+            "value": "Provokasi"
         },
         {
             "key": "ability.equip_turn_use.desc",
@@ -750,11 +774,11 @@
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Gain shell each time you summon a location."
+            "value": "Mendapat pelindung setiap kali kamu memanggil lokasi."
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Gain Shell"
+            "value": "Dapatkan Pelindung"
         },
         {
             "key": "ability.ghost.desc",
@@ -773,12 +797,20 @@
             "value": "Kilatan"
         },
         {
+            "key": "ability.ice punch.desc",
+            "value": "Nggak kena damage waktu nyerang."
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "Tinju Es"
+        },
+        {
             "key": "ability.icy_buff1.desc",
-            "value": "Gain +1 for when an enemy is frozen."
+            "value": "Mendapat +1 Serangan ketika musuh sedang beku."
         },
         {
             "key": "ability.icy_buff1.title",
-            "value": "Icy Buff"
+            "value": "Penguat Es"
         },
         {
             "key": "ability.kill_draw1.desc",
@@ -946,7 +978,7 @@
         },
         {
             "key": "ability.overkill.title",
-            "value": "Overkill"
+            "value": "Pembantaian"
         },
         {
             "key": "ability.play_boost_hp_1.desc",
@@ -1002,6 +1034,14 @@
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
+            "value": "Pilihan"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "Dapat Provokasi atau Serangan Kilat."
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
             "value": "Pilihan"
         },
         {
@@ -1070,11 +1110,11 @@
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "On play, deal 2 damage to frozen characters"
+            "value": "Saat dimainkan, berikan 2 kerusakan kepada karakter yang beku."
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "Damage"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
@@ -1158,11 +1198,11 @@
         },
         {
             "key": "ability.play_draw_ice_location.desc",
-            "value": "If an igloo is in play, draw a card."
+            "value": "Jika ada Igloo di medan, tarik satu kartu."
         },
         {
             "key": "ability.play_draw_ice_location.title",
-            "value": "Igloo Draw"
+            "value": "Tarikan Igloo"
         },
         {
             "key": "ability.play_enemy_discard.desc",
@@ -1182,7 +1222,7 @@
         },
         {
             "key": "ability.play_freeze_2al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Karakter target menjadi beku selama 1 giliran."
         },
         {
             "key": "ability.play_freeze_2al.title",
@@ -1190,7 +1230,7 @@
         },
         {
             "key": "ability.play_freeze_3al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Karakter target menjadi beku selama 1 giliran."
         },
         {
             "key": "ability.play_freeze_3al.title",
@@ -1206,11 +1246,11 @@
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "All characters become frozen."
+            "value": "Semua karakter menjadi beku."
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "Big Blizzard"
+            "value": "Badai Salju Besar"
         },
         {
             "key": "ability.play_freeze_all_3al.desc",
@@ -1230,11 +1270,11 @@
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Grants +1 attack for every Igloo played this game. "
+            "value": "Memberikan +1 Serangan untuk setiap Igloo yang telah dimainkan di pertandingan ini."
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "Igloo Bonus"
+            "value": "Bonus Igloo"
         },
         {
             "key": "ability.play_gain_rush_ice_location.desc",
@@ -1242,15 +1282,15 @@
         },
         {
             "key": "ability.play_gain_rush_ice_location.title",
-            "value": "Slush Rush"
+            "value": "Lari Salju"
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+            "value": "Dapatkan Rush jika ada lokasi es di permainan. Rush memungkinkanmu menyerang kartu lain pada giliran saat dimainkan."
         },
         {
             "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "Slush Rush"
+            "value": "Lari Salju"
         },
         {
             "key": "ability.play_heal_player2.desc",
@@ -1398,7 +1438,7 @@
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "On play summon a Hajiko"
+            "value": "Saat dimainkan, panggil seorang Hajiko."
         },
         {
             "key": "ability.play_summon_hajiko.title",
@@ -1406,7 +1446,7 @@
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "On play summon an Igloo"
+            "value": "Saat dimainkan, panggil sebuah Igloo."
         },
         {
             "key": "ability.play_summon_igloo.title",
@@ -1414,11 +1454,11 @@
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Summon an igloo is one is not already in play."
+            "value": "Panggil sebuah Igloo jika belum ada yang berada di medan."
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Build Igloo"
+            "value": "Bangun Igloo"
         },
         {
             "key": "ability.play_summon_igloo2.desc",
@@ -1426,6 +1466,14 @@
         },
         {
             "key": "ability.play_summon_igloo2.title",
+            "value": "Panggil Igloo"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "Waktu dimainkan, panggil 2 Igloo."
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
             "value": "Panggil Igloo"
         },
         {
@@ -1506,7 +1554,7 @@
         },
         {
             "key": "ability.secret_return_hand.title",
-            "value": "Telekinesis"
+            "value": "Daya Pikir"
         },
         {
             "key": "ability.secret_silence.desc",
@@ -1638,7 +1686,7 @@
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Destroy all cards on the board"
+            "value": "Hancurkan semua kartu di papan."
         },
         {
             "key": "ability.spell_destroy_all.title",
@@ -1654,19 +1702,19 @@
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Target and destroy a frozen character."
+            "value": "Bidik dan hancurkan karakter yang beku."
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
-            "value": "Ice Breaker"
+            "value": "Pemecah Es"
         },
         {
             "key": "ability.spell_destroy_location_target.desc",
-            "value": "Target a location and destroy it."
+            "value": "Bidik sebuah lokasi lalu hancurkan."
         },
         {
             "key": "ability.spell_destroy_location_target.title",
-            "value": "Avalanche"
+            "value": "Longsoran Salju"
         },
         {
             "key": "ability.spell_destroy_locations.desc",
@@ -1762,11 +1810,11 @@
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Speed up evolution by 1 turn for an ice character"
+            "value": "Mempercepat evolusi karakter Es sebanyak 1 giliran."
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "Ice Evolution Decrease"
+            "value": "Pengurangan Evolusi Es"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
@@ -1894,7 +1942,7 @@
         },
         {
             "key": "ability.spell_taunt.title",
-            "value": "Taunt"
+            "value": "Provokasi"
         },
         {
             "key": "ability.spell_water_treasure.desc",
@@ -1918,7 +1966,7 @@
         },
         {
             "key": "ability.taunt.title",
-            "value": "Taunt"
+            "value": "Provokasi"
         },
         {
             "key": "ability.taunt_flying.desc",
@@ -1946,27 +1994,27 @@
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "All allied Ice creatures gain +1 HP."
+            "value": "Semua makhluk Es sekutu mendapatkan +1 HP."
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
-            "value": "Igloo Aura"
+            "value": "Aura Igloo"
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "All allied Ice creatures gain +1 Attack."
+            "value": "Semua makhluk Es sekutu mendapatkan +1 Serangan."
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
-            "value": "Igloo Aura 2"
+            "value": "Aura Igloo 2"
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "All allied Ice cards cost 1 less."
+            "value": "Semua kartu Es sekutu biayanya berkurang 1."
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
-            "value": "Igloo Aura 3"
+            "value": "Aura Igloo 3"
         },
         {
             "key": "ability.town_aura_plant.desc",
@@ -2114,11 +2162,11 @@
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "Setelah makhluk musuh menyerang, racuni"
         },
         {
             "key": "ability.trap_poison_attacker.title",
-            "value": "Poison"
+            "value": "Racun"
         },
         {
             "key": "ability.trap_shock.desc",
@@ -2234,7 +2282,7 @@
         },
         {
             "key": "status.addhp.desc",
-            "value": "Bonus HP."
+            "value": "Tambahan HP."
         },
         {
             "key": "status.addhp.title",
@@ -2350,7 +2398,7 @@
         },
         {
             "key": "status.overkill.title",
-            "value": "Overkill"
+            "value": "Pembantaian"
         },
         {
             "key": "status.paralysed.desc",
@@ -2382,7 +2430,7 @@
         },
         {
             "key": "status.protection.title",
-            "value": "Taunt"
+            "value": "Provokasi"
         },
         {
             "key": "status.protectionflying.desc",
@@ -2470,11 +2518,11 @@
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "Ice Nature"
+            "value": "Alam Es"
         },
         {
             "key": "trait.igloo.title",
-            "value": "Igloo"
+            "value": "Iglu"
         },
         {
             "key": "trait.mind_control_counter.title",
@@ -2491,54 +2539,6 @@
         {
             "key": "trait.spell_damage.title",
             "value": "Kerusakan Mantra"
-        },
-        {
-            "key": "ability.attack_freeze.desc",
-            "value": "Karakter yang diserang jadi beku."
-        },
-        {
-            "key": "ability.attack_freeze.title",
-            "value": "Beku"
-        },
-        {
-            "key": "ability.aura_protect_igloo.desc",
-            "value": "Igloo jadi kebal."
-        },
-        {
-            "key": "ability.aura_protect_igloo.title",
-            "value": "Perlindungan Igloo"
-        },
-        {
-            "key": "ability.choice_rush.desc",
-            "value": "Bisa langsung nyerang, tapi nggak bisa nyerang pemain lawan di giliran ini."
-        },
-        {
-            "key": "ability.choice_rush.title",
-            "value": "Serangan Kilat"
-        },
-        {
-            "key": "ability.ice punch.desc",
-            "value": "Nggak kena damage waktu nyerang."
-        },
-        {
-            "key": "ability.ice punch.title",
-            "value": "Tinju Es"
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.desc",
-            "value": "Dapat Provokasi atau Serangan Kilat."
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.title",
-            "value": "Pilihan"
-        },
-        {
-            "key": "ability.play_summon_igloo2_freeze3al.desc",
-            "value": "Waktu dimainkan, panggil 2 Igloo."
-        },
-        {
-            "key": "ability.play_summon_igloo2_freeze3al.title",
-            "value": "Panggil Igloo"
         }
     ]
 }
