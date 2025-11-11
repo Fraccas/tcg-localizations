@@ -21,6 +21,10 @@
             "value": "<b>Uccidere:</b> Pesca una carta\nAll'inizio di ogni turno, guadagna 1 armatura."
         },
         {
+            "key": "card.astroguin.text",
+            "value": "Provocazione\n<b>Giocare:</b> Evoca igloo due volte.\nIgloo invincibile."
+        },
+        {
             "key": "card.bashker.text",
             "value": "<b>Evasione Trappola:</b> Non attiva trappole quando attacca.\n Guadagna +1 danno per ogni trappola nemica in gioco."
         },
@@ -30,7 +34,7 @@
         },
         {
             "key": "card.bay.text",
-            "value": "Quando una creatura Acqua che possiedi muore, pesca una carta."
+            "value": "Quando un tuo mostro Acqua muore, pesca una carta."
         },
         {
             "key": "card.boilin.text",
@@ -42,11 +46,11 @@
         },
         {
             "key": "card.burnibu.text",
-            "value": "<b>Giocare:</b> Scarta una carta casuale dalla mano del giocatore e pesca due nuove carte."
+            "value": "<b>Giocare:</b> Scarta una carta casuale dalla tua mano e pesca due nuove carte."
         },
         {
             "key": "card.burnion.text",
-            "value": "<b>Giocare:</b> Il personaggio guadagna ustione e subisce 2 danni per turno."
+            "value": "<b>Giocare:</b> Il mostro bersaglio ottiene ustione e subisce 2 danni per turno."
         },
         {
             "key": "card.burny.text",
@@ -58,6 +62,10 @@
         },
         {
             "key": "card.cabyron.text",
+            "value": "<b>Lanciare:</b> Concede +2 armatura a tutti gli alleati in gioco. Costa 5 mana e usa azione."
+        },
+        {
+            "key": "card.cabyron_full.text",
             "value": "<b>Lanciare:</b> Concede +2 armatura a tutti gli alleati in gioco. Costa 5 mana e usa azione."
         },
         {
@@ -94,14 +102,18 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Gioca:</b> Congela tutti i personaggi nemici con 3 o meno attacco.\nVolare"
+            "value": "<b>Giocare:</b> Congela tutti i mostri nemici con 3 o meno attacco.\nVolante"
         },
         {
             "key": "card.cyowl.text",
-            "value": "Volante / Evoluzione Cryonix\n <b>Giocare:</b> Congela un personaggio nemico"
+            "value": "<b>Giocare:</b> Congela un mostro nemico con 4 o meno attacco.\nVolante"
         },
         {
             "key": "card.cypha.text",
+            "value": "Furtività"
+        },
+        {
+            "key": "card.cypha_full.text",
             "value": "Furtività"
         },
         {
@@ -110,10 +122,14 @@
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>Giocare</b>: Maledice tutti i personaggi in gioco."
+            "value": "<b>Giocare:</b> Maledici tutti i mostri in campo."
         },
         {
             "key": "card.devastor.text",
+            "value": "Immunità magia / Guscio\n<b>Giocare:</b> Infligge 2 danni a tutto."
+        },
+        {
+            "key": "card.devastor_full.text",
             "value": "Immunità magia / Guscio\n<b>Giocare:</b> Infligge 2 danni a tutto."
         },
         {
@@ -150,7 +166,7 @@
         },
         {
             "key": "card.dracon.text",
-            "value": "Sfondamento\n Ignorare provocazione"
+            "value": "Travolgere\nVolante"
         },
         {
             "key": "card.dragin.text",
@@ -166,11 +182,11 @@
         },
         {
             "key": "card.drion.text",
-            "value": "<b>Giocare</b>: Silenzia un personaggio bersaglio, poi maledici un personaggio bersaglio"
+            "value": "<b>Giocare:</b> Silenzia il mostro bersaglio, poi maledici il mostro bersaglio"
         },
         {
             "key": "card.dryaow.text",
-            "value": "<b>Giocare</b>: Maledice tutti i personaggi in gioco"
+            "value": "<b>Giocare:</b> Maledici tutti i mostri in campo"
         },
         {
             "key": "card.dulster.text",
@@ -190,7 +206,7 @@
         },
         {
             "key": "card.envish.text",
-            "value": "<b>Giocare:</b> Distrugge un personaggio con 3 o meno attacco."
+            "value": "<b>Giocare:</b> Distruggi un mostro con 3 o meno attacco."
         },
         {
             "key": "card.equip_psychic_ring.text",
@@ -214,7 +230,7 @@
         },
         {
             "key": "card.espe.text",
-            "value": "Controllo mentale su un personaggio nemico bersaglio con costo mana di 5+ fino a quando questo personaggio lascia il campo"
+            "value": "Controllo mentale di un mostro nemico bersaglio con costo in mana di 5+ finché quel mostro non lascia il campo"
         },
         {
             "key": "card.evira.text",
@@ -226,7 +242,7 @@
         },
         {
             "key": "card.ezonea.text",
-            "value": "<b>Giocare:</b> Controllo mentale su un personaggio nemico con costo mana di 5 o meno"
+            "value": "<b>Giocare:</b> Controllo mentale di un mostro nemico con 5 o meno attacco"
         },
         {
             "key": "card.fire_token.text",
@@ -234,23 +250,23 @@
         },
         {
             "key": "card.flamitto.text",
-            "value": "<b>Attacco:</b> Brucia il nemico. Perdono 2 HP per turno."
+            "value": "<b>Attacco:</b> Brucia il mostro nemico. Perde 2 HP ogni turno."
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>Giocare:</b> Controllo mentale su un personaggio bersaglio che costa 2 mana o meno"
+            "value": "<b>Giocare:</b> Controllo mentale di un mostro bersaglio che costa 2 o meno mana."
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Giocare:</b> Controllo mentale su un personaggio bersaglio che ha 3 di attacco o meno"
+            "value": "<b>Giocare:</b> Controllo mentale di un mostro bersaglio con 3 o meno attacco"
         },
         {
             "key": "card.froggyo.text",
-            "value": "<b>Giocare:</b> Seleziona un personaggio bersaglio con costo mana di 2 o meno da qualsiasi lato e invialo all'altro giocatore."
+            "value": "<b>Giocare:</b> Scegli un mostro bersaglio da entrambi i lati con costo di 2 o meno mana e invialo all'altro giocatore."
         },
         {
             "key": "card.frojest.text",
-            "value": "Quando l'avversario scarta una carta personaggio, questa creatura diventa una copia del personaggio scartato."
+            "value": "Quando l'avversario scarta una carta mostro, questo mostro diventa una copia del mostro scartato."
         },
         {
             "key": "card.frojesti.text",
@@ -258,11 +274,15 @@
         },
         {
             "key": "card.froster.text",
-            "value": "Assalto\nOttiene +1/+1 quando una carta viene congelata."
+            "value": "Assalto\nOttiene +1/+1 quando un mostro viene congelato."
         },
         {
             "key": "card.galasu.text",
-            "value": "Immunità incantesimi\n Immunità abilità\n Ignorare provocazione"
+            "value": "Ottiene Immunità agli Incantesimi o Immunità alle Abilità\nIgnora Provocazione"
+        },
+        {
+            "key": "card.galasu_full.text",
+            "value": "Ottiene Immunità agli Incantesimi o Immunità alle Abilità\nIgnora Provocazione"
         },
         {
             "key": "card.gamud.text",
@@ -270,7 +290,7 @@
         },
         {
             "key": "card.gargarm.text",
-            "value": "Dopo aver giocato un incantesimo, guadagna +2 attacco.\n <b>Volante</b> Può ignorare provocazione"
+            "value": "Dopo aver giocato una magia, ottieni +2 attacco.\nVolante"
         },
         {
             "key": "card.gargoli.text",
@@ -286,15 +306,19 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "Ogni volta che un altro personaggio muore, pesca 1 carta."
+            "value": "Ogni volta che un altro mostro muore, pesca 1 carta."
         },
         {
             "key": "card.gizord.text",
             "value": "Accelerazione"
         },
         {
+            "key": "card.glidara.text",
+            "value": "Scelta: Provocazione o Assalto\n<b>Morte:</b> Evoca un Igloo."
+        },
+        {
             "key": "card.glummy.text",
-            "value": "<b>Attacco:</b> Veleno.\n <b>Volante:</b> Può ignorare provocazione."
+            "value": "<b>Attacco:</b> Veleno.\nVolante"
         },
         {
             "key": "card.gluttrats.text",
@@ -314,7 +338,7 @@
         },
         {
             "key": "card.gracelia.text",
-            "value": "<b>Giocare:</b> Cura un personaggio da tutti gli effetti negativi e concede +2 HP"
+            "value": "<b>Giocare:</b> Cura un mostro da tutti gli effetti negativi e concede +2 HP"
         },
         {
             "key": "card.graceliaex.text",
@@ -330,11 +354,11 @@
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Provocazione</b>\n <b>Ogni turno:</b> Uccide i personaggi con l'attacco più basso.\n "
+            "value": "<b>Provocazione</b>\n<b>Ogni turno:</b> Uccide i mostri con il minimo attacco.\n"
         },
         {
             "key": "card.hajiko.text",
-            "value": "<b>Giocare:</b> Aggiunge Maledizione del Sofferenza al bersaglio"
+            "value": "<b>Giocare:</b> Aggiungi Maledizione della Sofferenza a un mostro"
         },
         {
             "key": "card.hammar.text",
@@ -342,7 +366,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "Ogni volta che un altro personaggio muore, pesca 1 carta.\n Immunità alla perdita di attacco"
+            "value": "Ogni volta che un altro mostro muore, pesca 1 carta.\nImmunità alla perdita di attacco"
         },
         {
             "key": "card.hammi.text",
@@ -354,7 +378,7 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "Ogni volta che un altro personaggio muore, pesca 1 carta."
+            "value": "Ogni volta che un altro mostro muore, pesca 1 carta."
         },
         {
             "key": "card.hato.text",
@@ -366,7 +390,7 @@
         },
         {
             "key": "card.heara.text",
-            "value": "<b>Giocare:</b> L'attacco del personaggio bersaglio è ridotto a 1."
+            "value": "<b>Giocare:</b> L'attacco del mostro bersaglio è ridotto a 1."
         },
         {
             "key": "card.hero_electric.text",
@@ -414,7 +438,7 @@
         },
         {
             "key": "card.ice_town_igloo.text",
-            "value": "Se gli HP ≥ 2 tutti i personaggi di ghiaccio alleati ottengono +0/+1\nSe gli HP ≥ 4 tutti i personaggi di ghiaccio alleati ottengono +1/+0\nSe gli HP ≥ 6 tutte le carte Ghiaccio in mano costano 1 in meno."
+            "value": "Se HP 2+ tutti i mostri Ghiaccio alleati ottengono +0/+1\nSe HP 4+ tutti i mostri Ghiaccio alleati ottengono +1/+0\nSe HP 6+ tutte le carte Ghiaccio in mano costano 1 in meno."
         },
         {
             "key": "card.ignitas.text",
@@ -454,7 +478,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "Assalto / Volante"
+            "value": "Assalto\nVolante"
         },
         {
             "key": "card.lizordo.text",
@@ -469,12 +493,16 @@
             "value": "<b>Giocare</b>: Evoca un Lizo\n Tutti i Rettili +2 attacco."
         },
         {
+            "key": "card.lizorus_full.text",
+            "value": "<b>Giocare</b>: Evoca un Lizo\n Tutti i Rettili +2 attacco."
+        },
+        {
             "key": "card.lizteel.text",
             "value": "Provocazione"
         },
         {
             "key": "card.loneguin.text",
-            "value": "<b>Gioca:</b> Evoca un igloo.\nSe hai già un igloo, pesca una carta."
+            "value": "Provocazione\n<b>Morte:</b> Evoca un Igloo."
         },
         {
             "key": "card.lumini.text",
@@ -482,15 +510,15 @@
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>Giocare:</b> +2/2.\n <b>Volante:</b> Può ignorare provocazione."
+            "value": "<b>Giocare:</b> Conferisci +2/+2.\nVolante"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Giocare:</b> Evoca due volte un igloo e congela un personaggio nemico con 3 o meno attacco\nVolante"
+            "value": "<b>Giocare:</b> Evoca Igloo due volte e congela un mostro nemico con 3 o meno attacco\nVolante"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>Giocare:</b> +2/2\n <b>Giocare:</b> Cura il giocatore di 4 HP\n <b>Volante:</b> Può ignorare provocazione"
+            "value": "<b>Giocare:</b> Conferisci +2/+2\n<b>Giocare:</b> Cura il giocatore di 4 HP\nVolante"
         },
         {
             "key": "card.marshland.text",
@@ -506,7 +534,7 @@
         },
         {
             "key": "card.mimi.text",
-            "value": "All'inizio del tuo turno, questa creatura si cura completamente."
+            "value": "All'inizio del tuo turno, questo mostro si cura completamente."
         },
         {
             "key": "card.minask.text",
@@ -514,11 +542,11 @@
         },
         {
             "key": "card.miraibow.text",
-            "value": "Ogni volta che un altro personaggio muore, pesca 2 carte."
+            "value": "Ogni volta che un altro mostro muore, pesca 2 carte."
         },
         {
             "key": "card.mirion.text",
-            "value": "Ogni volta che un altro personaggio muore, pesca 2 carte."
+            "value": "Ogni volta che un altro mostro muore, pesca 2 carte."
         },
         {
             "key": "card.momburn.text",
@@ -534,7 +562,7 @@
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>Giocare:</b> Controllo mentale su un personaggio nemico bersaglio con attacco di 3 o meno fino a quando questa creatura lascia il campo"
+            "value": "<b>Giocare:</b> Controllo mentale di un mostro nemico bersaglio con costo di 3 o meno mana"
         },
         {
             "key": "card.mosheedark.text",
@@ -545,8 +573,12 @@
             "value": "Sfondamento"
         },
         {
+            "key": "card.mosslug_full.text",
+            "value": "Sfondamento"
+        },
+        {
             "key": "card.mountough.text",
-            "value": "Il danno eccedente cura gli HP di questa creatura della differenza"
+            "value": "Il danno in eccesso cura gli HP di questo mostro della differenza"
         },
         {
             "key": "card.muni.text",
@@ -554,7 +586,7 @@
         },
         {
             "key": "card.murple.text",
-            "value": "All'inizio del tuo turno, questa creatura si cura completamente."
+            "value": "All'inizio del tuo turno, questo mostro si cura completamente."
         },
         {
             "key": "card.nadzu.text",
@@ -566,7 +598,7 @@
         },
         {
             "key": "card.nobu.text",
-            "value": "Durante il gioco, dona +2 HP a un'altra creatura fino al tuo prossimo turno."
+            "value": "Quando viene giocato, conferisci +2 HP a un altro mostro fino al tuo prossimo turno."
         },
         {
             "key": "card.nophulos.text",
@@ -578,7 +610,7 @@
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>Fine turno:</b> Entra in furtività se hai altri personaggi."
+            "value": "<b>Fine turno:</b> Va in furtività se hai altri mostri."
         },
         {
             "key": "card.operant.text",
@@ -602,7 +634,7 @@
         },
         {
             "key": "card.peafan.text",
-            "value": "<b>Giocare:</b> Distrugge un personaggio con 4 o meno attacco."
+            "value": "<b>Giocare:</b> Distruggi un mostro con 4 o meno attacco."
         },
         {
             "key": "card.peafan_egg.text",
@@ -618,11 +650,11 @@
         },
         {
             "key": "card.petami.text",
-            "value": "All'inizio del tuo turno, questa creatura si cura completamente."
+            "value": "All'inizio del tuo turno, questo mostro si cura completamente."
         },
         {
             "key": "card.petili.text",
-            "value": "Durante il gioco, dona +2/2 a un'altra creatura fino al tuo prossimo turno."
+            "value": "Quando viene giocato, conferisci +2/+2 a un altro mostro fino al tuo prossimo turno."
         },
         {
             "key": "card.phanti.text",
@@ -650,7 +682,7 @@
         },
         {
             "key": "card.plator.text",
-            "value": "Quando uccidi un altro personaggio con questa creatura, pesca 2 carte."
+            "value": "Quando uccidi un altro mostro con questo mostro, pesca 2 carte."
         },
         {
             "key": "card.polip.text",
@@ -670,15 +702,15 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Riduci di 1 il contatore evoluzione di un personaggio di ghiaccio; se arriva a 0, si evolverà."
+            "value": "Riduci di 1 il contatore evoluzione di un mostro Ghiaccio; se raggiunge 0 evolverà. "
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Bersaglio un personaggio sul campo con costo mana di 3 o meno per Controllo Mentale per 1 turno. Il bersaglio guadagna Assalto. "
+            "value": "Controllo mentale di un mostro sul campo con costo di 3 o meno mana per 1 turno. Il bersaglio ottiene Assalto. "
         },
         {
             "key": "card.potion_rock.text",
-            "value": "Il bersaglio guadagna 2 armatura riducendo i danni diretti dei personaggi di 2."
+            "value": "Il bersaglio ottiene armatura 2 riducendo di 2 il danno diretto dei mostri."
         },
         {
             "key": "card.potion_shadow.text",
@@ -726,11 +758,11 @@
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>Ogni turno:</b> Uccide i personaggi con l'attacco più basso (inclusi alleati e questo mostro)."
+            "value": "<b>Ogni turno:</b> Uccide i mostri con il minimo attacco (inclusi alleati e questo mostro)."
         },
         {
             "key": "card.rock_cave.text",
-            "value": "Tutte le creature Roccia guadagnano: \"Subisce 1 danno per guadagnare +1 attacco\". Costo 1 mana per uso."
+            "value": "Tutti i mostri Roccia ottengono: \"Subisci 1 danno per guadagnare +1 attacco\". Costa 1 mana per uso."
         },
         {
             "key": "card.rock_token.text",
@@ -754,7 +786,7 @@
         },
         {
             "key": "card.scarles.text",
-            "value": "Ogni turno, guadagna +1 attacco.\n <b>Volante</b> Può ignorare provocazione"
+            "value": "Ogni turno, guadagna +1 attacco.\nVolante"
         },
         {
             "key": "card.shadow_token.text",
@@ -769,12 +801,16 @@
             "value": "<b>Attacco:</b> Veleno."
         },
         {
+            "key": "card.skatrix.text",
+            "value": "Furia / Assalto / Volante\n<b>Attacco:</b> Congela il bersaglio e non subire danni di contrattacco."
+        },
+        {
             "key": "card.skipo.text",
             "value": "Provocazione\n "
         },
         {
             "key": "card.slime.text",
-            "value": "<b>Giocare:</b> Rimanda un personaggio nella tua mano."
+            "value": "<b>Giocare:</b> Riporta un mostro nella tua mano."
         },
         {
             "key": "card.sneel.text",
@@ -790,11 +826,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "Ignorare provocazione"
+            "value": "Volante"
         },
         {
             "key": "card.sovis.text",
-            "value": "Ignorare provocazione"
+            "value": "Volante"
         },
         {
             "key": "card.sparkig.text",
@@ -822,11 +858,11 @@
         },
         {
             "key": "card.spell_cursed_potion.text",
-            "value": "Silenzia un personaggio bersaglio, poi maledici un personaggio bersaglio"
+            "value": "Silenzia il mostro bersaglio, poi maledici il mostro bersaglio"
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "La carta bersaglio guadagna \"Quando un personaggio alleato entra in gioco, distruggi questo\"."
+            "value": "La carta bersaglio ottiene: \"Quando entra in gioco un mostro alleato, distruggi questo mostro.\""
         },
         {
             "key": "card.spell_electric_ally.text",
@@ -834,7 +870,7 @@
         },
         {
             "key": "card.spell_extinct.text",
-            "value": "La carta bersaglio guadagna \"Quando un personaggio alleato entra in gioco, distruggi questo\"."
+            "value": "La carta bersaglio ottiene: \"Quando entra in gioco un mostro alleato, distruggi questo mostro.\""
         },
         {
             "key": "card.spell_falling_stones.text",
@@ -842,11 +878,11 @@
         },
         {
             "key": "card.spell_flood.text",
-            "value": "Riduce gli HP di tutti i personaggi a 1."
+            "value": "Riduci gli HP di tutti i mostri a 1."
         },
         {
             "key": "card.spell_growth.text",
-            "value": "Tutti i personaggi Pianta alleati guadagnano +2/2"
+            "value": "Tutti i mostri Pianta alleati ottengono +2/+2"
         },
         {
             "key": "card.spell_hammi_strike.text",
@@ -854,11 +890,11 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Congela tutti i personaggi in gioco.\nDistruggi i personaggi che erano già congelati."
+            "value": "Congela tutti i mostri in campo.\nDistruggi i mostri che erano già congelati. "
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Congela il personaggio bersaglio.\nPesca una carta.\nEvoca un igloo."
+            "value": "Congela il mostro bersaglio.\nPesca una carta.\nEvoca un Igloo"
         },
         {
             "key": "card.spell_ice_wave.text",
@@ -866,7 +902,7 @@
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Infligge 1 danno a tutti i personaggi, poi infligge 2 danni a tutti i personaggi congelati."
+            "value": "Infliggi 1 danno a tutti i mostri, poi infliggi 2 danni a tutti i mostri congelati. "
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
@@ -890,7 +926,7 @@
         },
         {
             "key": "card.spell_psychic_staff.text",
-            "value": "Prendi il controllo di un personaggio nemico per 3 turni, o fino a quando evolve"
+            "value": "Prendi il controllo di un mostro nemico per 3 turni, o finché non evolve"
         },
         {
             "key": "card.spell_rock_armageddon.text",
@@ -914,15 +950,15 @@
         },
         {
             "key": "card.spell_split.text",
-            "value": "La creatura bersaglio guadagna \"Subisce 3 danni prima di attaccare\"."
+            "value": "Il mostro bersaglio ottiene: \"Subisci 3 danni prima di attaccare\"."
         },
         {
             "key": "card.spell_stomp.text",
-            "value": "Distrugge il personaggio con gli HP più bassi."
+            "value": "Distruggi il mostro con meno HP."
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "La creatura bersaglio guadagna \"Subisce 3 danni prima di attaccare\"."
+            "value": "Il mostro bersaglio ottiene: \"Subisci 3 danni prima di attaccare\"."
         },
         {
             "key": "card.spell_stones.text",
@@ -954,7 +990,7 @@
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>Giocare:</b> Distrugge un personaggio con 2 o meno attacco."
+            "value": "<b>Giocare:</b> Distruggi un mostro con 2 o meno attacco."
         },
         {
             "key": "card.stingor.text",
@@ -966,7 +1002,7 @@
         },
         {
             "key": "card.stormus.text",
-            "value": "I personaggi nemici hanno -1 attacco.\n Può ignorare la provocazione."
+            "value": "I mostri nemici hanno -1 attacco.\nPuò ignorare provocazione."
         },
         {
             "key": "card.stormy.text",
@@ -974,7 +1010,7 @@
         },
         {
             "key": "card.swamp.text",
-            "value": "<b>Inizio turno: </b>Tutte le carte Ombra alleate guadagnano +1 attacco."
+            "value": "<b>Inizio turno:</b> Tutti i mostri Ombra alleati ottengono +1 attacco."
         },
         {
             "key": "card.tahlu.text",
@@ -986,10 +1022,14 @@
         },
         {
             "key": "card.tectan.text",
-            "value": "Tutti i personaggi Roccia alleati hanno +1 HP.\n Provocazione"
+            "value": "Tutti i mostri Roccia alleati hanno +1 HP.\nProvocazione"
         },
         {
             "key": "card.tempish.text",
+            "value": "<b>Giocare:</b> Restituisci qualsiasi bersaglio alla mano del suo proprietario."
+        },
+        {
+            "key": "card.tempish_full.text",
             "value": "<b>Giocare:</b> Restituisci qualsiasi bersaglio alla mano del suo proprietario."
         },
         {
@@ -1014,11 +1054,11 @@
         },
         {
             "key": "card.town_rock.text",
-            "value": "Tutte le creature Roccia alleate hanno +2 HP."
+            "value": "Tutti i mostri Roccia alleati hanno +2 HP."
         },
         {
             "key": "card.town_volcano.text",
-            "value": "Tutte le creature di Fuoco alleate hanno +2 attacco."
+            "value": "Tutti i mostri Fuoco alleati hanno +2 attacco."
         },
         {
             "key": "card.town_water.text",
@@ -1026,7 +1066,7 @@
         },
         {
             "key": "card.trap_bomb_electric.text",
-            "value": "<b>Trappola:</b> Quando un nemico attacca, infligge 1 danno a tutte le creature nemiche e le paralizza per 1 turno."
+            "value": "<b>Trappola:</b> Quando un nemico attacca, infliggi 1 danno a tutti i mostri nemici e paralizzali per 1 turno."
         },
         {
             "key": "card.trap_explosive.text",
@@ -1046,7 +1086,7 @@
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "Quando il prossimo personaggio nemico attacca, prendi il Controllo Mentale di esso per 1 turno e dagli provocazione. "
+            "value": "Quando il prossimo mostro nemico attacca, prendine il controllo mentale per 1 turno e dagli provocazione. "
         },
         {
             "key": "card.trap_spike.text",
@@ -1058,7 +1098,7 @@
         },
         {
             "key": "card.turbowing.text",
-            "value": "Accelerazione\n Può Ignorare Provocazione"
+            "value": "Accelerazione\nVolante"
         },
         {
             "key": "card.turtod.text",
@@ -1074,7 +1114,7 @@
         },
         {
             "key": "card.urnog.text",
-            "value": "<b>Giocare</b>: Imposta l'attacco della carta bersaglio a 3"
+            "value": "<b>Giocare:</b> Imposta l'attacco del mostro bersaglio a 3"
         },
         {
             "key": "card.urogorth.text",
@@ -1089,6 +1129,10 @@
             "value": "Tutti i mostri Elettrici costano 2 mana in meno "
         },
         {
+            "key": "card.vertron_full.text",
+            "value": "Tutti i mostri Elettrici costano 2 mana in meno "
+        },
+        {
             "key": "card.viborus.text",
             "value": "Furtività\n Attacco: Veleno"
         },
@@ -1098,11 +1142,11 @@
         },
         {
             "key": "card.volcano.text",
-            "value": "Tutte le creature di Fuoco guadagnano: \"Subisce 1 danno per guadagnare +1 attacco\". Costo 1 mana per uso."
+            "value": "Tutti i mostri Fuoco ottengono: \"Subisci 1 danno per guadagnare +1 attacco\". Costa 1 mana per uso."
         },
         {
             "key": "card.vorteru.text",
-            "value": "<b>Giocare</b>: Imposta l'attacco della carta bersaglio a 1"
+            "value": "<b>Giocare:</b> Imposta l'attacco del mostro bersaglio a 1"
         },
         {
             "key": "card.vulkong.text",
@@ -1122,7 +1166,7 @@
         },
         {
             "key": "card.waru_mount.text",
-            "value": "I personaggi nemici hanno -1 attacco.\n <b>Azione:</b> +1 attacco agli alleati."
+            "value": "I mostri nemici hanno -1 attacco.\n<b>Azione:</b> +1 attacco agli alleati."
         },
         {
             "key": "card.water_token.text",
@@ -1130,15 +1174,15 @@
         },
         {
             "key": "card.wido.text",
-            "value": "<b>Fine turno:</b> Entra in furtività se hai altri personaggi."
+            "value": "<b>Fine turno:</b> Va in furtività se hai altri mostri."
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>Fine turno:</b> Entra in furtività se hai altri personaggi."
+            "value": "<b>Fine turno:</b> Va in furtività se hai altri mostri."
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>Giocare:</b> Aggiungi alla tua mano un personaggio dalla pila degli scarti."
+            "value": "<b>Giocare:</b> Aggiungi un mostro dal cimitero alla tua mano."
         },
         {
             "key": "card.woodost.text",
@@ -1161,6 +1205,10 @@
             "value": "Immunità magia\n Quando viene attaccata, pesca una carta"
         },
         {
+            "key": "card.zaphyra_full.text",
+            "value": "Immunità magia\n Quando viene attaccata, pesca una carta"
+        },
+        {
             "key": "card.zargon.text",
             "value": "Immunità alle abilità\n Rigenerazione\n<b>Giocare:</b> Aggiungi alla tua mano una carta dalla pila degli scarti."
         },
@@ -1173,20 +1221,24 @@
             "value": "Danno magia +4.\n Volante"
         },
         {
+            "key": "card.zenphire_full.text",
+            "value": "Danno magia +4.\n Volante"
+        },
+        {
             "key": "card.zeras.text",
             "value": "<b>Giocare:</b> Maledizione\n<b>Giocare:</b> Evoca un Hajiko"
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Ogni volta che un altro personaggio muore, pesca 2 carte."
+            "value": "Ogni volta che un altro mostro muore, pesca 2 carte."
         },
         {
             "key": "card.zithex.text",
-            "value": "<b>Giocare:</b> L'attacco del personaggio bersaglio è ridotto a 1."
+            "value": "<b>Giocare:</b> L'attacco del mostro bersaglio è ridotto a 1."
         },
         {
             "key": "card.ziwing.text",
-            "value": "Accelerazione / Volante"
+            "value": "Accelerazione\nVolante"
         },
         {
             "key": "card.zorni.text",

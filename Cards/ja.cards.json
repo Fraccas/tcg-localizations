@@ -133,6 +133,10 @@
             "value": "呪文無効／シェル\n<b>プレイ:</b> すべてのモンスターに2ダメージを与える"
         },
         {
+            "key": "card.devastor_full.text",
+            "value": "呪文無効／シェル\n<b>プレイ:</b> すべてのキャラクターに2ダメージを与える"
+        },
+        {
             "key": "card.djinnas.text",
             "value": "<b>プレイ:</b> このモンスターをコスト7以下の敵モンスターと入れ替える。"
         },
@@ -166,7 +170,7 @@
         },
         {
             "key": "card.dracon.text",
-            "value": "トランプル\n挑発無視"
+            "value": "トランプル\nフライング"
         },
         {
             "key": "card.dragin.text",
@@ -278,7 +282,11 @@
         },
         {
             "key": "card.galasu.text",
-            "value": "スペル無効\n アビリティ無効\n 挑発無視"
+            "value": "スペル無効またはアビリティ無効を得る\n挑発無視"
+        },
+        {
+            "key": "card.galasu_full.text",
+            "value": "スペル無効またはアビリティ無効を得る\n挑発無視"
         },
         {
             "key": "card.galasu_full.text",
@@ -306,7 +314,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "他のキャラクターが死ぬたび、1枚のカードを引く。"
+            "value": "他のモンスターが倒れるたびカードを1枚引く。"
         },
         {
             "key": "card.gizord.text",
@@ -1230,7 +1238,7 @@
         },
         {
             "key": "card.zeras.text",
-            "value": "<b>プレイ:</b> 呪い\n<b>プレイ:</b> ハジコを召喚"
+            "value": "<b>プレイ:</b> 呪い\n<b>プレイ:</b> ハジコを召喚する"
         },
         {
             "key": "card.ziraffe.text",
