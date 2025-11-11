@@ -218,11 +218,11 @@
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Gain +1 HP and +1 Attack for every allied location of the same element type is in play."
+            "value": "每有一个相同元素类型的友方场地在场上，便获得+1生命值和+1攻击力。"
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "Location Boost"
+            "value": "场地增幅"
         },
         {
             "key": "ability.add_spell_damage1.desc",
@@ -271,6 +271,14 @@
         {
             "key": "ability.attack_curse.title",
             "value": "诅咒"
+        },
+        {
+            "key": "ability.attack_freeze.desc",
+            "value": "被攻击的怪物会被冻结。"
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "冻结"
         },
         {
             "key": "ability.attack_loss_immunity.desc",
@@ -433,6 +441,14 @@
             "value": "阴影盟友"
         },
         {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "使冰屋变为无敌状态。"
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "冰屋守护"
+        },
+        {
             "key": "ability.aura_reptile.desc",
             "value": "所有其他盟友爬行动物获得 +1 攻击力"
         },
@@ -487,6 +503,14 @@
         {
             "key": "ability.choice_fury.title",
             "value": "狂怒"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "可立即攻击，但本回合无法直接攻击敌方玩家。"
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "冲锋"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
@@ -570,7 +594,7 @@
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "On death summon an Igloo"
+            "value": "死亡时召唤一个冰屋。"
         },
         {
             "key": "ability.death_summon_igloo.title",
@@ -618,7 +642,7 @@
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "Has +5 attack during the opponent's turn."
+            "value": "在对手的回合期间获得+5攻击力。"
         },
         {
             "key": "ability.defense_attack5.title",
@@ -750,11 +774,11 @@
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Gain shell each time you summon a location."
+            "value": "每当你召唤一个场地时获得护盾。"
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Gain Shell"
+            "value": "获得护盾"
         },
         {
             "key": "ability.ghost.desc",
@@ -773,12 +797,20 @@
             "value": "急速"
         },
         {
+            "key": "ability.ice punch.desc",
+            "value": "攻击时不受反击伤害。"
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "冰拳"
+        },
+        {
             "key": "ability.icy_buff1.desc",
-            "value": "Gain +1 for when an enemy is frozen."
+            "value": "当敌人被冰冻时获得+1攻击力。"
         },
         {
             "key": "ability.icy_buff1.title",
-            "value": "Icy Buff"
+            "value": "寒霜强化"
         },
         {
             "key": "ability.kill_draw1.desc",
@@ -1005,6 +1037,14 @@
             "value": "抉择"
         },
         {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "获得嘲讽或冲锋。"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
+            "value": "抉择"
+        },
+        {
             "key": "ability.play_cure.desc",
             "value": "登场时，治疗另一名角色，移除其所有负面状态。"
         },
@@ -1070,11 +1110,11 @@
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "On play, deal 2 damage to frozen characters"
+            "value": "登场时，对被冰冻的角色造成2点伤害。"
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "Damage"
+            "value": "伤害"
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
@@ -1158,11 +1198,11 @@
         },
         {
             "key": "ability.play_draw_ice_location.desc",
-            "value": "If an igloo is in play, draw a card."
+            "value": "如果场上有冰屋，抽一张牌。"
         },
         {
             "key": "ability.play_draw_ice_location.title",
-            "value": "Igloo Draw"
+            "value": "冰屋抽牌"
         },
         {
             "key": "ability.play_enemy_discard.desc",
@@ -1182,7 +1222,7 @@
         },
         {
             "key": "ability.play_freeze_2al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "使目标角色冻结1个回合。"
         },
         {
             "key": "ability.play_freeze_2al.title",
@@ -1190,7 +1230,7 @@
         },
         {
             "key": "ability.play_freeze_3al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "使目标角色冻结1个回合。"
         },
         {
             "key": "ability.play_freeze_3al.title",
@@ -1206,11 +1246,11 @@
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "All characters become frozen."
+            "value": "使所有角色陷入冰冻状态。"
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "Big Blizzard"
+            "value": "大暴风雪"
         },
         {
             "key": "ability.play_freeze_all_3al.desc",
@@ -1230,11 +1270,11 @@
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Grants +1 attack for every Igloo played this game. "
+            "value": "本局中每打出一个冰屋便获得+1攻击力。"
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "Igloo Bonus"
+            "value": "冰屋奖励"
         },
         {
             "key": "ability.play_gain_rush_ice_location.desc",
@@ -1246,11 +1286,11 @@
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+            "value": "若场上有冰系场地，则获得突袭。突袭允许你在出牌的同一回合攻击其他卡牌。"
         },
         {
             "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "Slush Rush"
+            "value": "雪地突袭"
         },
         {
             "key": "ability.play_heal_player2.desc",
@@ -1398,7 +1438,7 @@
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "On play summon a Hajiko"
+            "value": "登场时召唤一个哈吉子。"
         },
         {
             "key": "ability.play_summon_hajiko.title",
@@ -1406,7 +1446,7 @@
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "On play summon an Igloo"
+            "value": "登场时召唤一个冰屋。"
         },
         {
             "key": "ability.play_summon_igloo.title",
@@ -1414,11 +1454,11 @@
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Summon an igloo is one is not already in play."
+            "value": "若场上没有冰屋，则召唤一个冰屋。"
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Build Igloo"
+            "value": "建造冰屋"
         },
         {
             "key": "ability.play_summon_igloo2.desc",
@@ -1426,6 +1466,14 @@
         },
         {
             "key": "ability.play_summon_igloo2.title",
+            "value": "召唤冰屋"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "登场时召唤2个冰屋。"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
             "value": "召唤冰屋"
         },
         {
@@ -1638,7 +1686,7 @@
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Destroy all cards on the board"
+            "value": "摧毁场上的所有卡牌。"
         },
         {
             "key": "ability.spell_destroy_all.title",
@@ -1654,19 +1702,19 @@
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Target and destroy a frozen character."
+            "value": "指定并摧毁一个被冰冻的角色。"
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
-            "value": "Ice Breaker"
+            "value": "破冰者"
         },
         {
             "key": "ability.spell_destroy_location_target.desc",
-            "value": "Target a location and destroy it."
+            "value": "以一个场地为目标并将其摧毁。"
         },
         {
             "key": "ability.spell_destroy_location_target.title",
-            "value": "Avalanche"
+            "value": "雪崩"
         },
         {
             "key": "ability.spell_destroy_locations.desc",
@@ -1762,11 +1810,11 @@
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Speed up evolution by 1 turn for an ice character"
+            "value": "使一个冰属性角色的进化加速1回合。"
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "Ice Evolution Decrease"
+            "value": "冰之进化缩减"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
@@ -1946,27 +1994,27 @@
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "All allied Ice creatures gain +1 HP."
+            "value": "所有友方冰系生物获得+1生命值。"
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
-            "value": "Igloo Aura"
+            "value": "冰屋光环"
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "All allied Ice creatures gain +1 Attack."
+            "value": "所有友方冰系生物获得+1攻击力。"
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
-            "value": "Igloo Aura 2"
+            "value": "冰屋光环2"
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "All allied Ice cards cost 1 less."
+            "value": "所有友方冰系卡牌的费用减少1点。"
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
-            "value": "Igloo Aura 3"
+            "value": "冰屋光环3"
         },
         {
             "key": "ability.town_aura_plant.desc",
@@ -2114,11 +2162,11 @@
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "在敌方生物攻击后，使其中毒。"
         },
         {
             "key": "ability.trap_poison_attacker.title",
-            "value": "Poison"
+            "value": "中毒"
         },
         {
             "key": "ability.trap_shock.desc",
@@ -2470,11 +2518,11 @@
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "Ice Nature"
+            "value": "冰之本性"
         },
         {
             "key": "trait.igloo.title",
-            "value": "Igloo"
+            "value": "冰屋"
         },
         {
             "key": "trait.mind_control_counter.title",
@@ -2491,54 +2539,6 @@
         {
             "key": "trait.spell_damage.title",
             "value": "法术伤害"
-        },
-        {
-            "key": "ability.attack_freeze.desc",
-            "value": "被攻击的怪物会被冻结。"
-        },
-        {
-            "key": "ability.attack_freeze.title",
-            "value": "冻结"
-        },
-        {
-            "key": "ability.aura_protect_igloo.desc",
-            "value": "使冰屋变为无敌状态。"
-        },
-        {
-            "key": "ability.aura_protect_igloo.title",
-            "value": "冰屋守护"
-        },
-        {
-            "key": "ability.choice_rush.desc",
-            "value": "可立即攻击，但本回合无法直接攻击敌方玩家。"
-        },
-        {
-            "key": "ability.choice_rush.title",
-            "value": "冲锋"
-        },
-        {
-            "key": "ability.ice punch.desc",
-            "value": "攻击时不受反击伤害。"
-        },
-        {
-            "key": "ability.ice punch.title",
-            "value": "冰拳"
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.desc",
-            "value": "获得嘲讽或冲锋。"
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.title",
-            "value": "抉择"
-        },
-        {
-            "key": "ability.play_summon_igloo2_freeze3al.desc",
-            "value": "登场时召唤2个冰屋。"
-        },
-        {
-            "key": "ability.play_summon_igloo2_freeze3al.title",
-            "value": "召唤冰屋"
         }
     ]
 }

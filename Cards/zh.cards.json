@@ -21,6 +21,10 @@
             "value": "<b>击杀：</b>抽一张牌\n每个回合开始时获得 1 点护甲。"
         },
         {
+            "key": "card.astroguin.text",
+            "value": "嘲讽\n<b>登场：</b>召唤冰屋两次。\n冰屋无敌。"
+        },
+        {
             "key": "card.bashker.text",
             "value": "<b>陷阱回避：</b>攻击时不会触发陷阱。\n每有一个敌方陷阱，就获得 +1 攻击力。"
         },
@@ -59,6 +63,10 @@
         {
             "key": "card.cabyron.text",
             "value": "<b>施放：</b>为场上所有盟友授予 +2 护甲。消耗 5 点法力并占用此角色的行动。"
+        },
+        {
+            "key": "card.cabyron_full.text",
+            "value": "<b>施放：</b>为所有友方随从授予+2护甲。消耗5点法力并占用行动。"
         },
         {
             "key": "card.cabywara.text",
@@ -105,6 +113,10 @@
             "value": "潜行"
         },
         {
+            "key": "card.cypha_full.text",
+            "value": "潜行"
+        },
+        {
             "key": "card.darcelia.text",
             "value": "<b>打出：</b>诅咒。"
         },
@@ -115,6 +127,10 @@
         {
             "key": "card.devastor.text",
             "value": "法术免疫 / 壳\n<b>打出：</b>对所有目标造成 2 点伤害"
+        },
+        {
+            "key": "card.devastor_full.text",
+            "value": "法术免疫 / 护壳\n<b>登场：</b>对所有单位造成2点伤害"
         },
         {
             "key": "card.djinnas.text",
@@ -265,6 +281,10 @@
             "value": "法术免疫 / 能力免疫\n可无视嘲讽。"
         },
         {
+            "key": "card.galasu_full.text",
+            "value": "获得法术免疫或能力免疫\n无视嘲讽"
+        },
+        {
             "key": "card.gamud.text",
             "value": "每个回合开始时抽一张牌。"
         },
@@ -291,6 +311,10 @@
         {
             "key": "card.gizord.text",
             "value": "急速"
+        },
+        {
+            "key": "card.glidara.text",
+            "value": "抉择：嘲讽或冲锋\n<b>亡语：</b>召唤一个冰屋。"
         },
         {
             "key": "card.glummy.text",
@@ -469,6 +493,10 @@
             "value": "<b>打出：</b>召唤一只 Lizo\n所有爬行动物获得 +2 攻击力。"
         },
         {
+            "key": "card.lizorus_full.text",
+            "value": "<b>登场</b>：召唤一只利佐\n所有爬行动物+2攻击。"
+        },
+        {
             "key": "card.lizteel.text",
             "value": "嘲讽"
         },
@@ -545,6 +573,10 @@
             "value": "践踏"
         },
         {
+            "key": "card.mosslug_full.text",
+            "value": "践踏"
+        },
+        {
             "key": "card.mountough.text",
             "value": "造成的溢出伤害会为本怪兽回复相同数值的生命。"
         },
@@ -599,6 +631,10 @@
         {
             "key": "card.owind.text",
             "value": "法术免疫\n可无视嘲讽\n<b>打出：</b>冻结一个目标"
+        },
+        {
+            "key": "card.owind_full.text",
+            "value": "法术免疫\n无视嘲讽\n<b>登场：</b>冻结一个目标"
         },
         {
             "key": "card.peafan.text",
@@ -767,6 +803,10 @@
         {
             "key": "card.shawla.text",
             "value": "<b>攻击：</b>使目标中毒。"
+        },
+        {
+            "key": "card.skatrix.text",
+            "value": "狂暴 / 冲锋 / 飞行\n<b>攻击：</b>冻结目标且不受反击伤害。"
         },
         {
             "key": "card.skipo.text",
@@ -993,6 +1033,10 @@
             "value": "<b>打出：</b>将任意目标返回其拥有者的手牌。"
         },
         {
+            "key": "card.tempish_full.text",
+            "value": "<b>登场：</b>将任意目标返回其拥有者手牌。"
+        },
+        {
             "key": "card.tensei.text",
             "value": "狂怒"
         },
@@ -1089,6 +1133,10 @@
             "value": "所有电系怪物的法力消耗减少 2 点"
         },
         {
+            "key": "card.vertron_full.text",
+            "value": "所有电系怪兽的费用减少2点法力 "
+        },
+        {
             "key": "card.viborus.text",
             "value": "潜行\n<b>攻击：</b>使目标中毒"
         },
@@ -1161,6 +1209,10 @@
             "value": "法术免疫\n被攻击时抽一张牌"
         },
         {
+            "key": "card.zaphyra_full.text",
+            "value": "法术免疫\n被攻击时抽一张牌"
+        },
+        {
             "key": "card.zargon.text",
             "value": "能力免疫\n再生\n<b>打出：</b>将弃牌堆中的一张牌加入你的手牌。"
         },
@@ -1170,6 +1222,10 @@
         },
         {
             "key": "card.zenphire.text",
+            "value": "法术伤害 +4。\n飞行"
+        },
+        {
+            "key": "card.zenphire_full.text",
             "value": "法术伤害 +4。\n飞行"
         },
         {
@@ -1195,58 +1251,6 @@
         {
             "key": "card.zortan.text",
             "value": "所有其他盟友爬行动物获得 +2 攻击力。"
-        },
-        {
-            "key": "card.astroguin.text",
-            "value": "嘲讽\n<b>登场：</b>召唤冰屋两次。\n冰屋无敌。"
-        },
-        {
-            "key": "card.cabyron_full.text",
-            "value": "<b>施放：</b>为所有友方随从授予+2护甲。消耗5点法力并占用行动。"
-        },
-        {
-            "key": "card.cypha_full.text",
-            "value": "潜行"
-        },
-        {
-            "key": "card.devastor_full.text",
-            "value": "法术免疫 / 护壳\n<b>登场：</b>对所有单位造成2点伤害"
-        },
-        {
-            "key": "card.galasu_full.text",
-            "value": "获得法术免疫或能力免疫\n无视嘲讽"
-        },
-        {
-            "key": "card.glidara.text",
-            "value": "抉择：嘲讽或冲锋\n<b>亡语：</b>召唤一个冰屋。"
-        },
-        {
-            "key": "card.lizorus_full.text",
-            "value": "<b>登场</b>：召唤一只利佐\n所有爬行动物+2攻击。"
-        },
-        {
-            "key": "card.mosslug_full.text",
-            "value": "践踏"
-        },
-        {
-            "key": "card.owind_full.text",
-            "value": "法术免疫\n无视嘲讽\n<b>登场：</b>冻结一个目标"
-        },
-        {
-            "key": "card.skatrix.text",
-            "value": "狂暴 / 冲锋 / 飞行\n<b>攻击：</b>冻结目标且不受反击伤害。"
-        },
-        {
-            "key": "card.tempish_full.text",
-            "value": "<b>登场：</b>将任意目标返回其拥有者手牌。"
-        },
-        {
-            "key": "card.vertron_full.text",
-            "value": "所有电系怪兽的费用减少2点法力 "
-        },
-        {
-            "key": "card.zaphyra_full.text",
-            "value": "法术免疫\n被攻击时抽一张牌"
         }
     ]
 }

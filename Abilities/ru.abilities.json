@@ -218,11 +218,11 @@
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Gain +1 HP and +1 Attack for every allied location of the same element type is in play."
+            "value": "Получает +1 к здоровью и +1 к атаке за каждую союзную локацию того же типа стихии на поле."
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "Location Boost"
+            "value": "Усиление локации"
         },
         {
             "key": "ability.add_spell_damage1.desc",
@@ -271,6 +271,14 @@
         {
             "key": "ability.attack_curse.title",
             "value": "Проклятие"
+        },
+        {
+            "key": "ability.attack_freeze.desc",
+            "value": "Атакованный монстр замораживается."
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "Заморозка"
         },
         {
             "key": "ability.attack_loss_immunity.desc",
@@ -433,6 +441,14 @@
             "value": "Теневой союзник"
         },
         {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "Иглу становятся неуязвимыми."
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "Защита Иглу"
+        },
+        {
             "key": "ability.aura_reptile.desc",
             "value": "Все другие союзные рептилии получают +1 к атаке."
         },
@@ -487,6 +503,14 @@
         {
             "key": "ability.choice_fury.title",
             "value": "Ярость"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "Может атаковать сразу, но не может атаковать вражеского игрока в этот ход."
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "Натиск"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
@@ -570,7 +594,7 @@
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "On death summon an Igloo"
+            "value": "При смерти призывает иглу."
         },
         {
             "key": "ability.death_summon_igloo.title",
@@ -618,7 +642,7 @@
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "Has +5 attack during the opponent's turn."
+            "value": "Во время хода противника получает +5 к атаке."
         },
         {
             "key": "ability.defense_attack5.title",
@@ -750,11 +774,11 @@
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Gain shell each time you summon a location."
+            "value": "Получает щит каждый раз, когда ты призываешь локацию."
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Gain Shell"
+            "value": "Получить щит"
         },
         {
             "key": "ability.ghost.desc",
@@ -773,12 +797,20 @@
             "value": "Спешка"
         },
         {
+            "key": "ability.ice punch.desc",
+            "value": "Не получает урона при атаке."
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "Ледяной Удар"
+        },
+        {
             "key": "ability.icy_buff1.desc",
-            "value": "Gain +1 for when an enemy is frozen."
+            "value": "Получает +1 к атаке, когда враг заморожен."
         },
         {
             "key": "ability.icy_buff1.title",
-            "value": "Icy Buff"
+            "value": "Ледяное усиление"
         },
         {
             "key": "ability.kill_draw1.desc",
@@ -1005,6 +1037,14 @@
             "value": "Выбор"
         },
         {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "Получает Провокацию или Натиск."
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
+            "value": "Выбор"
+        },
+        {
             "key": "ability.play_cure.desc",
             "value": "При розыгрыше исцелите другого персонажа от всех негативных эффектов."
         },
@@ -1070,11 +1110,11 @@
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "On play, deal 2 damage to frozen characters"
+            "value": "При выходе наносит 2 урона замороженным персонажам."
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "Damage"
+            "value": "Урон"
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
@@ -1158,11 +1198,11 @@
         },
         {
             "key": "ability.play_draw_ice_location.desc",
-            "value": "If an igloo is in play, draw a card."
+            "value": "Если на поле есть иглу, возьми карту."
         },
         {
             "key": "ability.play_draw_ice_location.title",
-            "value": "Igloo Draw"
+            "value": "Добор иглу"
         },
         {
             "key": "ability.play_enemy_discard.desc",
@@ -1182,7 +1222,7 @@
         },
         {
             "key": "ability.play_freeze_2al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Целевой персонаж замерзает на 1 ход"
         },
         {
             "key": "ability.play_freeze_2al.title",
@@ -1190,7 +1230,7 @@
         },
         {
             "key": "ability.play_freeze_3al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Целевой персонаж замерзает на 1 ход"
         },
         {
             "key": "ability.play_freeze_3al.title",
@@ -1206,11 +1246,11 @@
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "All characters become frozen."
+            "value": "Все персонажи замораживаются."
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "Big Blizzard"
+            "value": "Большая метель"
         },
         {
             "key": "ability.play_freeze_all_3al.desc",
@@ -1230,11 +1270,11 @@
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Grants +1 attack for every Igloo played this game. "
+            "value": "Даёт +1 к атаке за каждую иглу, сыгранную в этой партии."
         },
         {
             "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "Igloo Bonus"
+            "value": "Бонус иглу"
         },
         {
             "key": "ability.play_gain_rush_ice_location.desc",
@@ -1246,11 +1286,11 @@
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. "
+            "value": "Получает Рывок, если в игре есть ледяная локация. Рывок позволяет атаковать другие карты в тот же ход, когда она разыграна"
         },
         {
             "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "Slush Rush"
+            "value": "Ледяной рывок"
         },
         {
             "key": "ability.play_heal_player2.desc",
@@ -1398,7 +1438,7 @@
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "On play summon a Hajiko"
+            "value": "При выходе призывает Хадзико."
         },
         {
             "key": "ability.play_summon_hajiko.title",
@@ -1406,19 +1446,19 @@
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "On play summon an Igloo"
+            "value": "При выходе призывает иглу."
         },
         {
             "key": "ability.play_summon_igloo.title",
-            "value": "Призыв Иглу"
+            "value": "Призвать иглу"
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Summon an igloo is one is not already in play."
+            "value": "Призывает иглу, если её ещё нет на поле."
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Build Igloo"
+            "value": "Построить иглу"
         },
         {
             "key": "ability.play_summon_igloo2.desc",
@@ -1426,6 +1466,14 @@
         },
         {
             "key": "ability.play_summon_igloo2.title",
+            "value": "Призыв Иглу"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "При розыгрыше призывает 2 Иглу."
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
             "value": "Призыв Иглу"
         },
         {
@@ -1638,7 +1686,7 @@
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Destroy all cards on the board"
+            "value": "Уничтожает все карты на поле."
         },
         {
             "key": "ability.spell_destroy_all.title",
@@ -1654,19 +1702,19 @@
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Target and destroy a frozen character."
+            "value": "Выбери замороженного персонажа и уничтожь его."
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
-            "value": "Ice Breaker"
+            "value": "Ледокол"
         },
         {
             "key": "ability.spell_destroy_location_target.desc",
-            "value": "Target a location and destroy it."
+            "value": "Выбери локацию и уничтожь её."
         },
         {
             "key": "ability.spell_destroy_location_target.title",
-            "value": "Avalanche"
+            "value": "Лавина"
         },
         {
             "key": "ability.spell_destroy_locations.desc",
@@ -1762,11 +1810,11 @@
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Speed up evolution by 1 turn for an ice character"
+            "value": "Ускоряет эволюцию ледяного персонажа на 1 ход."
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "Ice Evolution Decrease"
+            "value": "Сокращение эволюции льда"
         },
         {
             "key": "ability.spell_ice_treasure.desc",
@@ -1946,27 +1994,27 @@
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "All allied Ice creatures gain +1 HP."
+            "value": "Все союзные ледяные существа получают +1 к здоровью."
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
-            "value": "Igloo Aura"
+            "value": "Аура иглу"
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "All allied Ice creatures gain +1 Attack."
+            "value": "Все союзные ледяные существа получают +1 к атаке."
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
-            "value": "Igloo Aura 2"
+            "value": "Аура иглу 2"
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "All allied Ice cards cost 1 less."
+            "value": "Стоимость всех союзных ледяных карт уменьшается на 1."
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
-            "value": "Igloo Aura 3"
+            "value": "Аура иглу 3"
         },
         {
             "key": "ability.town_aura_plant.desc",
@@ -2114,11 +2162,11 @@
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "После атаки вражеского существа отравите его."
         },
         {
             "key": "ability.trap_poison_attacker.title",
-            "value": "Poison"
+            "value": "Яд"
         },
         {
             "key": "ability.trap_shock.desc",
@@ -2470,11 +2518,11 @@
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "Ice Nature"
+            "value": "Ледяная стихия"
         },
         {
             "key": "trait.igloo.title",
-            "value": "Igloo"
+            "value": "Иглу"
         },
         {
             "key": "trait.mind_control_counter.title",
@@ -2491,54 +2539,6 @@
         {
             "key": "trait.spell_damage.title",
             "value": "Урон от заклинаний"
-        },
-        {
-            "key": "ability.attack_freeze.desc",
-            "value": "Атакованный монстр замораживается."
-        },
-        {
-            "key": "ability.attack_freeze.title",
-            "value": "Заморозка"
-        },
-        {
-            "key": "ability.aura_protect_igloo.desc",
-            "value": "Иглу становятся неуязвимыми."
-        },
-        {
-            "key": "ability.aura_protect_igloo.title",
-            "value": "Защита Иглу"
-        },
-        {
-            "key": "ability.choice_rush.desc",
-            "value": "Может атаковать сразу, но не может атаковать вражеского игрока в этот ход."
-        },
-        {
-            "key": "ability.choice_rush.title",
-            "value": "Натиск"
-        },
-        {
-            "key": "ability.ice punch.desc",
-            "value": "Не получает урона при атаке."
-        },
-        {
-            "key": "ability.ice punch.title",
-            "value": "Ледяной Удар"
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.desc",
-            "value": "Получает Провокацию или Натиск."
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.title",
-            "value": "Выбор"
-        },
-        {
-            "key": "ability.play_summon_igloo2_freeze3al.desc",
-            "value": "При розыгрыше призывает 2 Иглу."
-        },
-        {
-            "key": "ability.play_summon_igloo2_freeze3al.title",
-            "value": "Призыв Иглу"
         }
     ]
 }

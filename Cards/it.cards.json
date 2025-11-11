@@ -633,6 +633,10 @@
             "value": "Immunità magia\n Ignora provocazione\n<b>Giocare:</b> Congela un bersaglio"
         },
         {
+            "key": "card.owind_full.text",
+            "value": "Immunità alle magie\nIgnora Provocazione\n<b>Gioca: </b> Congela un bersaglio"
+        },
+        {
             "key": "card.peafan.text",
             "value": "<b>Giocare:</b> Distruggi un mostro con 4 o meno attacco."
         },

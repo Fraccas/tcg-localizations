@@ -633,6 +633,10 @@
             "value": "Kebal Mantra\nAbaikan Tantang\n<b>Mainkan: </b> Bekukan satu target"
         },
         {
+            "key": "card.owind_full.text",
+            "value": "Kebal Sihir\nAbaikan Provokasi\n<b>Mainkan: </b> Bekukan target"
+        },
+        {
             "key": "card.peafan.text",
             "value": "<b>Mainkan:</b> Hancurkan monster dengan 4 atau kurang serangan."
         },

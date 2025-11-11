@@ -633,6 +633,10 @@
             "value": "Imunidade a Feitiços\n Ignorar Provocação\n<b>Jogar:</b> Congele um alvo"
         },
         {
+            "key": "card.owind_full.text",
+            "value": "Imunidade a feitiços\nIgnora Provocação\n<b>Jogar: </b> Congele um alvo"
+        },
+        {
             "key": "card.peafan.text",
             "value": "<b>Jogar:</b> Destrua um monstro com 4 ou menos de ataque."
         },
