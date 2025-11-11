@@ -273,6 +273,14 @@
       "value": "Maldición"
     },
     {
+      "key": "ability.attack_freeze.desc",
+      "value": "El monstruo atacado queda congelado."
+    },
+    {
+      "key": "ability.attack_freeze.title",
+      "value": "Congelar"
+    },
+    {
       "key": "ability.attack_loss_immunity.desc",
       "value": "Protege el ataque del personaje de ser reducido."
     },
@@ -433,6 +441,14 @@
       "value": "Aliado de Sombra"
     },
     {
+      "key": "ability.aura_protect_igloo.desc",
+      "value": "Los Iglús se vuelven invencibles."
+    },
+    {
+      "key": "ability.aura_protect_igloo.title",
+      "value": "Protección de Iglú"
+    },
+    {
       "key": "ability.aura_reptile.desc",
       "value": "Todos los otros reptiles aliados ganan +1 de ataque."
     },
@@ -487,6 +503,14 @@
     {
       "key": "ability.choice_fury.title",
       "value": "Furia"
+    },
+    {
+      "key": "ability.choice_rush.desc",
+      "value": "Puede atacar de inmediato, pero no puede apuntar al jugador enemigo en el turno en que se juega."
+    },
+    {
+      "key": "ability.choice_rush.title",
+      "value": "Embate"
     },
     {
       "key": "ability.choice_spell_immunity.desc",
@@ -773,6 +797,14 @@
       "value": "Prisa"
     },
     {
+      "key": "ability.ice punch.desc",
+      "value": "No recibe daño al atacar."
+    },
+    {
+      "key": "ability.ice punch.title",
+      "value": "Puño de Hielo"
+    },
+    {
       "key": "ability.icy_buff1.desc",
       "value": "Gain +1 for when an enemy is frozen."
     },
@@ -1002,6 +1034,14 @@
     },
     {
       "key": "ability.play_choice_taunt_fury.title",
+      "value": "Elección"
+    },
+    {
+      "key": "ability.play_choice_taunt_rush.desc",
+      "value": "Gana Provocación o Embate"
+    },
+    {
+      "key": "ability.play_choice_taunt_rush.title",
       "value": "Elección"
     },
     {
@@ -1427,6 +1467,14 @@
     {
       "key": "ability.play_summon_igloo2.title",
       "value": "Summon Igloo"
+    },
+    {
+      "key": "ability.play_summon_igloo2_freeze3al.desc",
+      "value": "Al jugar, invoca 2 Iglús."
+    },
+    {
+      "key": "ability.play_summon_igloo2_freeze3al.title",
+      "value": "Invocar Iglú"
     },
     {
       "key": "ability.play_switch_sides_2ml.desc",

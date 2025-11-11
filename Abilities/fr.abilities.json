@@ -273,6 +273,14 @@
       "value": "Malédiction"
     },
     {
+      "key": "ability.attack_freeze.desc",
+      "value": "Le monstre attaqué est gelé."
+    },
+    {
+      "key": "ability.attack_freeze.title",
+      "value": "Gel"
+    },
+    {
       "key": "ability.attack_loss_immunity.desc",
       "value": "Protège l'attaque du personnage d'être réduite."
     },
@@ -433,6 +441,14 @@
       "value": "Allié d'Ombre"
     },
     {
+      "key": "ability.aura_protect_igloo.desc",
+      "value": "Les igloos deviennent invincibles."
+    },
+    {
+      "key": "ability.aura_protect_igloo.title",
+      "value": "Protection d'Igloo"
+    },
+    {
       "key": "ability.aura_reptile.desc",
       "value": "Tous les autres reptiles alliés gagnent +1 attaque."
     },
@@ -487,6 +503,14 @@
     {
       "key": "ability.choice_fury.title",
       "value": "Furie"
+    },
+    {
+      "key": "ability.choice_rush.desc",
+      "value": "Peut attaquer immédiatement, mais ne peut pas cibler le joueur adverse pendant le tour où il est joué."
+    },
+    {
+      "key": "ability.choice_rush.title",
+      "value": "Ruée"
     },
     {
       "key": "ability.choice_spell_immunity.desc",
@@ -773,6 +797,14 @@
       "value": "Hâte"
     },
     {
+      "key": "ability.ice punch.desc",
+      "value": "Ne subit pas de dégâts en attaquant."
+    },
+    {
+      "key": "ability.ice punch.title",
+      "value": "Poing Glacé"
+    },
+    {
       "key": "ability.icy_buff1.desc",
       "value": "Gain +1 for when an enemy is frozen."
     },
@@ -1005,6 +1037,14 @@
       "value": "Choix"
     },
     {
+      "key": "ability.play_choice_taunt_rush.desc",
+      "value": "Gagne Provocation ou Ruée"
+    },
+    {
+      "key": "ability.play_choice_taunt_rush.title",
+      "value": "Choix"
+    },
+    {
       "key": "ability.play_cure.desc",
       "value": "À la mise en jeu, soigne un autre personnage de tous ses effets négatifs."
     },
@@ -1196,14 +1236,14 @@
       "key": "ability.play_freeze_3al.title",
       "value": "Freeze"
     },
-        {
-            "key": "ability.play_freeze_4al.desc",
-            "value": "Un personnage ciblé ayant 4 d'attaque ou moins est gelé pendant 1 tour."
-        },
-        {
-            "key": "ability.play_freeze_4al.title",
-            "value": "Gel ciblé (4 Attaque)"
-        },
+    {
+      "key": "ability.play_freeze_4al.desc",
+      "value": "Un personnage ciblé ayant 4 d'attaque ou moins est gelé pendant 1 tour."
+    },
+    {
+      "key": "ability.play_freeze_4al.title",
+      "value": "Gel ciblé (4 Attaque)"
+    },
     {
       "key": "ability.play_freeze_all.desc",
       "value": "All characters become frozen."
@@ -1212,17 +1252,17 @@
       "key": "ability.play_freeze_all.title",
       "value": "Big Blizzard"
     },
-        {
-            "key": "ability.play_freeze_all_3al.desc",
-            "value": "Tous les ennemis ayant 3 d'attaque ou moins sont gelés."
-        },
-        {
-            "key": "ability.play_freeze_all_3al.title",
-            "value": "Blizzard"
-        },
+    {
+      "key": "ability.play_freeze_all_3al.desc",
+      "value": "Tous les ennemis ayant 3 d'attaque ou moins sont gelés."
+    },
+    {
+      "key": "ability.play_freeze_all_3al.title",
+      "value": "Blizzard"
+    },
     {
       "key": "ability.play_freeze_all_4al.desc",
-      "value": "Tous les ennemis ayant 4 d'attaque ou moins sont gel\u00e9s."
+      "value": "Tous les ennemis ayant 4 d'attaque ou moins sont gelés."
     },
     {
       "key": "ability.play_freeze_all_4al.title",
@@ -1406,27 +1446,35 @@
     },
     {
       "key": "ability.play_summon_igloo.desc",
-      "value": "On play summon an Igloo"
+      "value": "À la mise en jeu, invoque un igloo."
     },
     {
       "key": "ability.play_summon_igloo.title",
-      "value": "Summon Igloo"
+      "value": "Invoquer Igloo"
     },
     {
       "key": "ability.play_summon_igloo_if_none.desc",
-      "value": "Summon an igloo is one is not already in play."
+      "value": "Invoque un igloo s'il n'y en a pas déjà en jeu."
     },
     {
       "key": "ability.play_summon_igloo_if_none.title",
-      "value": "Build Igloo"
+      "value": "Construire un Igloo"
     },
     {
       "key": "ability.play_summon_igloo2.desc",
-      "value": "On play summon 2 Igloos"
+      "value": "À la mise en jeu, invoque 2 igloos."
     },
     {
       "key": "ability.play_summon_igloo2.title",
-      "value": "Summon Igloo"
+      "value": "Invoquer Igloo"
+    },
+    {
+      "key": "ability.play_summon_igloo2_freeze3al.desc",
+      "value": "À la mise en jeu, invoque 2 igloos."
+    },
+    {
+      "key": "ability.play_summon_igloo2_freeze3al.title",
+      "value": "Invoquer Igloo"
     },
     {
       "key": "ability.play_switch_sides_2ml.desc",

@@ -273,6 +273,14 @@
             "value": "呪い"
         },
         {
+            "key": "ability.attack_freeze.desc",
+            "value": "攻撃したモンスターを凍結する。"
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "フリーズ"
+        },
+        {
             "key": "ability.attack_loss_immunity.desc",
             "value": "攻撃力が減少しない"
         },
@@ -433,6 +441,14 @@
             "value": "影の味方"
         },
         {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "イグルーが無敵になる。"
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "イグルー防護"
+        },
+        {
             "key": "ability.aura_reptile.desc",
             "value": "他のすべての味方爬虫類が+1攻撃を得る"
         },
@@ -487,6 +503,14 @@
         {
             "key": "ability.choice_fury.title",
             "value": "狂戦士"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "すぐに攻撃できるが、このターンは敵プレイヤーを攻撃できない。"
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "ラッシュ"
         },
         {
             "key": "ability.choice_spell_immunity.desc",
@@ -773,6 +797,14 @@
             "value": "ヘイスト"
         },
         {
+            "key": "ability.ice punch.desc",
+            "value": "攻撃時にダメージを受けない。"
+        },
+        {
+            "key": "ability.ice punch.title",
+            "value": "れいとうパンチ"
+        },
+        {
             "key": "ability.icy_buff1.desc",
             "value": "Gain +1 for when an enemy is frozen."
         },
@@ -1002,6 +1034,14 @@
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
+            "value": "選択"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.desc",
+            "value": "挑発かラッシュを得る"
+        },
+        {
+            "key": "ability.play_choice_taunt_rush.title",
             "value": "選択"
         },
         {
@@ -1427,6 +1467,14 @@
         {
             "key": "ability.play_summon_igloo2.title",
             "value": "Summon Igloo"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "プレイ時にイグルーを2体召喚する"
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
+            "value": "イグルー召喚"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
