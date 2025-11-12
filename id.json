@@ -2411,6 +2411,14 @@
         {
             "key": "tip_heropower_water_long",
             "value": "Peri Air memungkinkanmu menghabiskan {0} poin elemen untuk menarik 1 kartu dari dekmu.\n\nGunakan saat kartu di tanganmu menipis atau kamu mencari kartu penting."
+        },
+        {
+            "key": "tip_adventure_board_card_message_single",
+            "value": "Permainan biasanya dimulai tanpa kartu papan di lapangan, tetapi untuk memandu Anda melalui tutorial petualangan, {0} ada di sini untuk membantu!"
+        },
+        {
+            "key": "tip_adventure_board_card_message_plural",
+            "value": "Permainan biasanya dimulai tanpa kartu papan di lapangan, tetapi untuk memandu Anda melalui tutorial petualangan, {0} ada di sini untuk membantu!"
         }
     ]
 }

@@ -2443,6 +2443,14 @@
         {
             "key": "tip_start_turn_status_destroyed",
             "value": "Votre carte {0} a été détruite par {1}, empêchant sa capacité \"Au début du tour\"{2}."
+        },
+        {
+            "key": "tip_adventure_board_card_message_single",
+            "value": "Les jeux commencent généralement sans cartes de plateau sur le terrain, mais pour te guider dans le didacticiel d’aventure, {0} est là pour t’aider !"
+        },
+        {
+            "key": "tip_adventure_board_card_message_plural",
+            "value": "Les jeux commencent généralement sans cartes de plateau sur le terrain, mais pour te guider dans le didacticiel d’aventure, {0} sont là pour t’aider !"
         }
     ]
 }

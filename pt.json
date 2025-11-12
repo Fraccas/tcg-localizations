@@ -2443,6 +2443,14 @@
         {
             "key": "tip_start_turn_status_destroyed",
             "value": "Seu card {0} foi destruído por {1}, impedindo sua habilidade de \"No início do turno\"{2}."
+        },
+        {
+            "key": "tip_adventure_board_card_message_single",
+            "value": "Os jogos geralmente começam sem cartas de tabuleiro no campo, mas para guiá-lo pelo tutorial de aventura, {0} está aqui para ajudar!"
+        },
+        {
+            "key": "tip_adventure_board_card_message_plural",
+            "value": "Os jogos geralmente começam sem cartas de tabuleiro no campo, mas para guiá-lo pelo tutorial de aventura, {0} estão aqui para ajudar!"
         }
     ]
 }

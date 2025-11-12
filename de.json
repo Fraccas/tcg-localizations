@@ -2443,6 +2443,14 @@
         {
             "key": "tip_start_turn_status_destroyed",
             "value": "Deine Karte {0} wurde von {1} zerstört, wodurch ihre Fähigkeit „Zu Beginn des Zuges“{2} verhindert wurde."
+        },
+        {
+            "key": "tip_adventure_board_card_message_single",
+            "value": "Spiele beginnen normalerweise ohne Brettkarten auf dem Spielfeld, aber um dich durch das Abenteuertutorial zu führen, ist {0} hier, um zu helfen!"
+        },
+        {
+            "key": "tip_adventure_board_card_message_plural",
+            "value": "Spiele beginnen normalerweise ohne Brettkarten auf dem Spielfeld, aber um dich durch das Abenteuertutorial zu führen, sind {0} hier, um zu helfen!"
         }
     ]
 }

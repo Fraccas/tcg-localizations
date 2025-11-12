@@ -2443,6 +2443,14 @@
         {
             "key": "tip_start_turn_status_destroyed",
             "value": "あなたのカード{0}は{1}によって破壊され、「ターン開始時」の能力{2}が発動できませんでした。"
+        },
+        {
+            "key": "tip_adventure_board_card_message_single",
+            "value": "ゲームは通常、フィールド上にボードカードがない状態で始まりますが、冒険チュートリアルを案内するために{0}が手助けしてくれます！"
+        },
+        {
+            "key": "tip_adventure_board_card_message_plural",
+            "value": "ゲームは通常、フィールド上にボードカードがない状態で始まりますが、冒険チュートリアルを案内するために{0}たちが手助けしてくれます！"
         }
     ]
 }
