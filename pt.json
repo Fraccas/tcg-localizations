@@ -2451,6 +2451,10 @@
         {
             "key": "tip_adventure_board_card_message_plural",
             "value": "Os jogos geralmente começam sem cartas de tabuleiro no campo, mas para guiá-lo pelo tutorial de aventura, {0} estão aqui para ajudar!"
+        },
+        {
+            "key": "tip_location_slot_message",
+            "value": "Locações são artefatos poderosos que concedem bônus duradouros. Você deve jogar a carta no slot de Locoção à esquerda dos seus espaços normais do tabuleiro, e apenas uma Locoção pode ficar ativa do seu lado por vez."
         }
     ]
 }

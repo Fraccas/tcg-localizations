@@ -2311,6 +2311,10 @@
         {
             "key": "tip_adventure_board_card_message_plural",
             "value": "I giochi di solito iniziano senza carte sul campo, ma per guidarti nel tutorial d’avventura {0} sono qui per aiutarti!"
+        },
+        {
+            "key": "tip_location_slot_message",
+            "value": "Le Località sono potenti artefatti che garantiscono bonus duraturi. Devi giocarle nello slot Località a sinistra degli slot normali del tabellone, e solo una Località può essere attiva sul tuo lato alla volta."
         }
     ]
 }

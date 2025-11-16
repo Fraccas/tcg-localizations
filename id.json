@@ -2419,6 +2419,10 @@
         {
             "key": "tip_adventure_board_card_message_plural",
             "value": "Permainan biasanya dimulai tanpa kartu papan di lapangan, tetapi untuk memandu Anda melalui tutorial petualangan, {0} ada di sini untuk membantu!"
+        },
+        {
+            "key": "tip_location_slot_message",
+            "value": "Lokasi adalah artefak kuat yang memberikan bonus permanen. Kamu harus memainkannya di slot Lokasi di sebelah kiri slot papan normalmu, dan hanya satu Lokasi yang dapat aktif di sisimu pada satu waktu."
         }
     ]
 }

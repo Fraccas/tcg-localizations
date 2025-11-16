@@ -2451,6 +2451,10 @@
         {
             "key": "tip_adventure_board_card_message_plural",
             "value": "游戏通常在场上没有任何棋盘卡的情况下开始，但为了引导你完成冒险教程，{0}们在这里帮助你！"
+        },
+        {
+            "key": "tip_location_slot_message",
+            "value": "地点是能够提供持续增益的强力神器。你必须将它们放置在普通卡槽左侧的地点槽中，并且每次只能在你这边激活一个地点。"
         }
     ]
 }

@@ -2451,6 +2451,10 @@
         {
             "key": "tip_adventure_board_card_message_plural",
             "value": "Spiele beginnen normalerweise ohne Brettkarten auf dem Spielfeld, aber um dich durch das Abenteuertutorial zu führen, sind {0} hier, um zu helfen!"
+        },
+        {
+            "key": "tip_location_slot_message",
+            "value": "Orte sind mächtige Artefakte, die dauerhafte Boni gewähren. Du musst sie im Standortfeld links von deinen normalen Brettfeldern ausspielen, und es kann immer nur ein Ort auf deiner Seite aktiv sein."
         }
     ]
 }

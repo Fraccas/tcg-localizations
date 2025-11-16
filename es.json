@@ -2475,6 +2475,10 @@
         {
             "key": "tip_adventure_board_card_message_plural",
             "value": "Los juegos normalmente comienzan sin cartas de tablero en el campo, pero para guiarte en el tutorial de aventuras, ¡{0} están aquí para ayudar!"
+        },
+        {
+            "key": "tip_location_slot_message",
+            "value": "Las ubicaciones son artefactos poderosos que otorgan bonificaciones duraderas. Debes jugarlas en la ranura de Ubicación, a la izquierda de tus espacios normales del tablero, y solo una Ubicación puede estar activa en tu lado a la vez."
         }
     ]
 }

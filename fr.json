@@ -2451,6 +2451,10 @@
         {
             "key": "tip_adventure_board_card_message_plural",
             "value": "Les jeux commencent généralement sans cartes de plateau sur le terrain, mais pour te guider dans le didacticiel d’aventure, {0} sont là pour t’aider !"
+        },
+        {
+            "key": "tip_location_slot_message",
+            "value": "Les Lieux sont de puissants artefacts qui offrent des bonus durables. Vous devez les placer dans l’emplacement de Lieu à gauche de vos emplacements habituels, et un seul Lieu peut être actif de votre côté à la fois."
         }
     ]
 }
