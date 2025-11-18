@@ -102,7 +102,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>登场：</b>冻结所有攻击≤3的敌方怪兽。\n飞行"
+            "value": "<b>登场：</b>冻结所有攻击≤4的敌方怪兽。\n飞行"
         },
         {
             "key": "card.cyowl.text",
@@ -950,7 +950,7 @@
         },
         {
             "key": "card.spell_shadow_staff.text",
-            "value": "将所有角色的生命值和攻击力减少至 1"
+            "value": "将所有怪兽的生命值和攻击力减少至 1"
         },
         {
             "key": "card.spell_split.text",
@@ -1086,7 +1086,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>陷阱:</b> 对下一个攻击者施加毒素并造成 2 点伤害。"
+            "value": "<b>陷阱:</b> 对下一个攻击者施加毒素并造成 3 点伤害。"
         },
         {
             "key": "card.trap_psychic_pit.text",
