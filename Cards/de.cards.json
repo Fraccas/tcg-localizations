@@ -166,7 +166,7 @@
         },
         {
             "key": "card.dracon.text",
-            "value": "Stampfen\n Spott ignorieren"
+            "value": "Stampfen\nFliegend"
         },
         {
             "key": "card.dragin.text",
@@ -278,7 +278,7 @@
         },
         {
             "key": "card.galasu.text",
-            "value": "Zauberimmunität\n Fähigkeitsimmunität\n Spott ignorieren"
+            "value": "Erhalte Zauberimmunität oder Fähigkeitsimmunität\nSpott ignorieren"
         },
         {
             "key": "card.galasu_full.text",
