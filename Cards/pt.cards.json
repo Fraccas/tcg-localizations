@@ -102,7 +102,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Jogar:</b> Congele todos os monstros inimigos com 3 ou menos de ataque.\nVoador"
+            "value": "<b>Jogar:</b> Congele todos os monstros inimigos com 4 ou menos de ataque.\nVoador"
         },
         {
             "key": "card.cyowl.text",
@@ -950,7 +950,7 @@
         },
         {
             "key": "card.spell_shadow_staff.text",
-            "value": "Reduz todos os PV e Ataques de personagens para 1"
+            "value": "Reduz todos os PV e Ataques dos monstros para 1"
         },
         {
             "key": "card.spell_split.text",
@@ -1086,7 +1086,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Armadilha:</b> Envenena e inflige 2 danos ao próximo atacante."
+            "value": "<b>Armadilha:</b> Envenena e inflige 3 danos ao próximo atacante."
         },
         {
             "key": "card.trap_psychic_pit.text",

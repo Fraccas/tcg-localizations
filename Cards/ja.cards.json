@@ -102,7 +102,7 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>プレイ:</b> 攻撃力3以下の敵モンスターをすべて凍結する。\nフライング"
+            "value": "<b>プレイ:</b> 攻撃力4以下の敵モンスターをすべて凍結する。\nフライング"
         },
         {
             "key": "card.cyowl.text",
@@ -958,7 +958,7 @@
         },
         {
             "key": "card.spell_shadow_staff.text",
-            "value": "すべてのキャラクターのHPと攻撃を1に減少"
+            "value": "すべてのモンスターのHPと攻撃を1に減少"
         },
         {
             "key": "card.spell_split.text",
@@ -1094,7 +1094,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>トラップ:</b> 次の攻撃者にポイズンと2ダメージ。"
+            "value": "<b>トラップ:</b> 次の攻撃者にポイズンと3ダメージ。"
         },
         {
             "key": "card.trap_psychic_pit.text",
