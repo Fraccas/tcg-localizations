@@ -6,11 +6,11 @@
         },
         {
             "key": "card.antairy.text",
-            "value": "Fúria"
+            "value": "Enfurecer\nDestrua um monstro voador alvo."
         },
         {
             "key": "card.armoru.text",
-            "value": "A cada turno, ganhe +1 armadura."
+            "value": "Enfurecer\nEscolha: Provocação ou +2 Armadura"
         },
         {
             "key": "card.aros.text",
@@ -18,7 +18,7 @@
         },
         {
             "key": "card.astor.text",
-            "value": "<b>Matar:</b> Compre uma carta\nNo início de cada turno, ganhe 1 armadura."
+            "value": "Casca\nNo início de cada turno, ganhe 1 de armadura. "
         },
         {
             "key": "card.astroguin.text",
@@ -58,19 +58,19 @@
         },
         {
             "key": "card.buumi.text",
-            "value": "Furtividade"
+            "value": "<b>Jogar:</b> Destrua todas as armadilhas inimigas e ganhe +2/+2 para cada armadilha destruída."
         },
         {
             "key": "card.cabyron.text",
-            "value": "<b>Lançar:</b> Concede +2 armadura a todos os aliados em jogo. Custa 5 manas e usa ação."
+            "value": "Provocação\n<b>Morte:</b> Invoque um Cabyron com Enfurecer II."
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "<b>Lançar:</b> Concede +2 armadura a todos os aliados em jogo. Custa 5 manas e usa ação."
+            "value": "Provocação\n<b>Morte:</b> Invoque um Cabyron com Enfurecer II."
         },
         {
             "key": "card.cabywara.text",
-            "value": "No início de cada turno, compre 1 carta"
+            "value": "Uma vez por turno, ao receber dano e sobreviver, compre uma carta."
         },
         {
             "key": "card.cactoon.text",
@@ -222,7 +222,7 @@
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "Ataque +2\n Dura dois ataques"
+            "value": "O ataque do portador é igual ao seu HP máximo"
         },
         {
             "key": "card.equip_water_ring.text",
@@ -286,7 +286,7 @@
         },
         {
             "key": "card.gamud.text",
-            "value": "No início de cada turno, compre 1 carta"
+            "value": "Uma vez por turno, ao receber dano e sobreviver, compre uma carta."
         },
         {
             "key": "card.gargarm.text",
@@ -302,7 +302,7 @@
         },
         {
             "key": "card.gemash.text",
-            "value": "A cada turno, ganhe +1 armadura."
+            "value": "Escolha: Provocação ou +2 Armadura"
         },
         {
             "key": "card.gizap.text",
@@ -330,7 +330,7 @@
         },
         {
             "key": "card.gookie.text",
-            "value": "Casca"
+            "value": "Provocação\n<b>Jogar:</b> +1 Armadura"
         },
         {
             "key": "card.gorupt.text",
@@ -354,7 +354,7 @@
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Provocação</b>\n<b>A cada turno:</b> Mata os monstros com o menor ataque.\n"
+            "value": "<b>Provocação</b>\nQuando receber dano e sobreviver, dê +1 armadura a todos os monstros de pedra aliados."
         },
         {
             "key": "card.hajiko.text",
@@ -362,7 +362,7 @@
         },
         {
             "key": "card.hammar.text",
-            "value": "Fúria\n A cada turno, ganhe +1 armadura."
+            "value": "Enfurecer\n<b>Jogar:</b> Ganhe 1 armadura.\nApós atacar o jogador inimigo, compre uma carta de feitiço de pedra do seu baralho."
         },
         {
             "key": "card.hammark.text",
@@ -370,11 +370,11 @@
         },
         {
             "key": "card.hammi.text",
-            "value": "<b>Morte:</b> Compre uma carta."
+            "value": "Enfurecer III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "<b>Turno:</b> Compre uma carta."
+            "value": "Enfurecer\nApós atacar o jogador inimigo, compre uma carta de feitiço de pedra do seu baralho."
         },
         {
             "key": "card.hammish.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lizteel.text",
-            "value": "Provocação"
+            "value": "Enfurecer II"
         },
         {
             "key": "card.loneguin.text",
@@ -578,7 +578,7 @@
         },
         {
             "key": "card.mountough.text",
-            "value": "Dano excedente cura os PV deste monstro pela diferença"
+            "value": "<b>Jogar:</b> Ganhe 3 Armaduras.\nNo final do seu turno, compre uma carta."
         },
         {
             "key": "card.muni.text",
@@ -590,7 +590,7 @@
         },
         {
             "key": "card.nadzu.text",
-            "value": "Fúria"
+            "value": "Fúria\nEnfurecer"
         },
         {
             "key": "card.nhomnhom.text",
@@ -598,11 +598,11 @@
         },
         {
             "key": "card.nobu.text",
-            "value": "Ao jogar, conceda +2 PV a outro monstro até o seu próximo turno."
+            "value": "Provocação\nRecebe no máximo 2 de dano por ataque/contra-ataque."
         },
         {
             "key": "card.nophulos.text",
-            "value": "Fúria"
+            "value": "Fúria / Investida\nEnfurecer"
         },
         {
             "key": "card.numind.text",
@@ -614,7 +614,7 @@
         },
         {
             "key": "card.operant.text",
-            "value": "<b>Jogar:</b> Inflige 1 dano."
+            "value": "Enfurecer\n<b>Jogar:</b> Cause 1 de dano a uma carta no tabuleiro.\n"
         },
         {
             "key": "card.ophala.text",
@@ -678,7 +678,7 @@
         },
         {
             "key": "card.picko.text",
-            "value": "<b>Jogar:</b> Inflige 1 dano."
+            "value": "Enfurecer\n<b>Jogar:</b> Cause 1 de dano a si mesmo e depois 1 de dano a qualquer monstro alvo."
         },
         {
             "key": "card.plant_token.text",
@@ -686,7 +686,7 @@
         },
         {
             "key": "card.plator.text",
-            "value": "Quando você mata outro monstro com este monstro, compre 2 cartas."
+            "value": "Casca\nNo início de cada turno, ganhe 1 armadura. "
         },
         {
             "key": "card.polip.text",
@@ -714,7 +714,7 @@
         },
         {
             "key": "card.potion_rock.text",
-            "value": "O alvo ganha armadura 2, reduzindo em 2 o dano direto de monstros."
+            "value": "O alvo recebe Provocação, mas não pode atacar."
         },
         {
             "key": "card.potion_shadow.text",
@@ -786,7 +786,7 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "A cada turno, ganhe +1 armadura."
+            "value": "<b>Jogar:</b> Ganhe 2 de armadura. "
         },
         {
             "key": "card.scarles.text",
@@ -806,7 +806,7 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "Fúria / Investida / Voador\n<b>Ataque:</b> Congele o alvo e não receba dano de resposta."
+            "value": "Fúria / Investida\n<b>Ataque:</b> Congele o alvo e não receba dano de resposta."
         },
         {
             "key": "card.skipo.text",
@@ -878,7 +878,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Inflige 3 danos.\n Compre uma carta."
+            "value": "Cause 1 de dano a um monstro aliado e depois cause 2 de dano a um alvo aleatório duas vezes. "
         },
         {
             "key": "card.spell_flood.text",
@@ -890,7 +890,7 @@
         },
         {
             "key": "card.spell_hammi_strike.text",
-            "value": "Invoca 3 Hammi em sua mão."
+            "value": "Cause 3 de dano a qualquer alvo"
         },
         {
             "key": "card.spell_ice_storm.text",
@@ -934,15 +934,15 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Destrua todas as cartas no tabuleiro"
+            "value": "Invoque um golem de pedra com Provocação e X ataque e X HP com base na quantidade de mana que você gastar. "
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "Destrói todos os locais em jogo. "
+            "value": "Cause 1 de dano a um monstro aliado e depois cause 2 de dano a qualquer alvo."
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "O alvo ganha casca, ignora o próximo golpe."
+            "value": "O monstro alvo ganha +2 armadura."
         },
         {
             "key": "card.spell_roots.text",
@@ -962,7 +962,7 @@
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "O monstro alvo ganha: \"Sofre 3 de dano antes de atacar\"."
+            "value": "O monstro alvo não pode atacar e recebe 1 de dano no final do turno."
         },
         {
             "key": "card.spell_stones.text",
@@ -1026,7 +1026,7 @@
         },
         {
             "key": "card.tectan.text",
-            "value": "Todos os monstros Rocha aliados têm +1 de PV.\nProvocação"
+            "value": "Todos os monstros de pedra aliados têm +2 de armadura"
         },
         {
             "key": "card.tempish.text",
@@ -1038,11 +1038,11 @@
         },
         {
             "key": "card.tensei.text",
-            "value": "Fúria"
+            "value": "Provocação\n<b>Jogar:</b> +1 Armadura"
         },
         {
             "key": "card.terrastrus.text",
-            "value": "<b>Jogar:</b> Inflige 1 dano a todas as outras cartas em jogo."
+            "value": "Enfurecer\n<b>Jogar:</b> Cause 1 de dano a todas as outras cartas em jogo, depois cure todas as cartas aliadas em 1 HP."
         },
         {
             "key": "card.town_darkwoods_shadow.text",
@@ -1058,7 +1058,7 @@
         },
         {
             "key": "card.town_rock.text",
-            "value": "Todos os monstros Rocha aliados têm +2 de PV."
+            "value": "Todos os monstros de pedra aliados ganham uma carga de Enfurecer."
         },
         {
             "key": "card.town_volcano.text",
@@ -1122,7 +1122,7 @@
         },
         {
             "key": "card.urogorth.text",
-            "value": "Provocação"
+            "value": "Provocação\n<b>Jogar:</b> +2 Armadura"
         },
         {
             "key": "card.venorus.text",
@@ -1251,6 +1251,66 @@
         {
             "key": "card.zortan.text",
             "value": "Todos os outros répteis aliados ganham +2 ataque."
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "Enfurecer II"
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "Casca\nEnfurecer II"
+        },
+        {
+            "key": "card.emberstorm.text",
+            "value": "Ao jogar e no início de cada um de seus turnos, queime todos os outros monstros não fogo no tabuleiro."
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "Ao jogar e no início de cada um de seus turnos, queime todos os outros monstros não fogo no tabuleiro."
+        },
+        {
+            "key": "card.frojesti_full.text",
+            "value": "Quando o oponente descartar um feitiço, crie uma cópia de custo zero mana em sua mão.\n "
+        },
+        {
+            "key": "card.gizord_full.text",
+            "value": "Pressa"
+        },
+        {
+            "key": "card.lurian_full.text",
+            "value": "<b>Jogar:</b> Conceda +2/+2\n<b>Jogar:</b> Cure o jogador em 4 PV\nVoador"
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>Jogar:</b> Ganhe 3 Armaduras.\nNo final do seu turno, compre uma carta."
+        },
+        {
+            "key": "card.ophalant_full.text",
+            "value": "Tem +3 ataque durante o turno do oponente.\n Provocação / Casca"
+        },
+        {
+            "key": "card.rock_golem_spawn.text",
+            "value": "Provocação"
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "Fúria / Investida\n<b>Ataque:</b> Congele o alvo e não receba dano de resposta."
+        },
+        {
+            "key": "card.venorus_full.text",
+            "value": "<b>Jogar:</b> Envenena todos os inimigos em jogo."
+        },
+        {
+            "key": "card.worpi.text",
+            "value": "<b>Jogar:</b> Pegue a maior quantidade de armadura no tabuleiro e aplique neste monstro."
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>Jogar:</b> Pegue a maior quantidade de armadura no tabuleiro e aplique neste monstro."
+        },
+        {
+            "key": "card.zargon_full.text",
+            "value": "Imunidade a Habilidades\n Regeneração\n<b>Jogar:</b> Adicione uma carta do descarte à sua mão."
         }
     ]
 }

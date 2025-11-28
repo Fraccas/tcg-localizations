@@ -2178,7 +2178,7 @@
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "在敌方生物攻击后，使其感电麻痹1个回合。"
+            "value": "当敌方怪兽攻击时，使其触电麻痹1回合。"
         },
         {
             "key": "ability.trap_shock_all.title",
@@ -2215,14 +2215,6 @@
         {
             "key": "ability.turn_add_attack2.title",
             "value": "狂暴"
-        },
-        {
-            "key": "ability.turn_add_draw.desc",
-            "value": "每个回合开始时抽1张牌"
-        },
-        {
-            "key": "ability.turn_add_draw.title",
-            "value": "探险家"
         },
         {
             "key": "ability.turn_damage_allies1.desc",
@@ -2539,6 +2531,330 @@
         {
             "key": "trait.spell_damage.title",
             "value": "法术伤害"
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.desc",
+            "value": "攻击敌方玩家后，从你的牌库中抽取一张岩石法术牌。"
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.title",
+            "value": "岩石珍宝"
+        },
+        {
+            "key": "ability.aura_add_enrage.desc",
+            "value": "所有友方岩石怪兽获得1层激怒。"
+        },
+        {
+            "key": "ability.aura_add_enrage.title",
+            "value": "岩石激怒光环"
+        },
+        {
+            "key": "ability.aura_armor_rock_2.desc",
+            "value": "所有友方岩石角色拥有+2护甲。"
+        },
+        {
+            "key": "ability.aura_armor_rock_2.title",
+            "value": "石之护甲 2"
+        },
+        {
+            "key": "ability.aura_hp_rock_2.desc",
+            "value": "所有友方岩石角色+2生命值。"
+        },
+        {
+            "key": "ability.aura_hp_rock_2.title",
+            "value": "石之盟友 2"
+        },
+        {
+            "key": "ability.choice_armor2.desc",
+            "value": "登场时获得+2护甲。"
+        },
+        {
+            "key": "ability.choice_armor2.title",
+            "value": "选择护甲 2"
+        },
+        {
+            "key": "ability.damage_cap.desc",
+            "value": "攻击或反击时每次最多受到2点伤害。"
+        },
+        {
+            "key": "ability.damage_cap.title",
+            "value": "伤害上限"
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.desc",
+            "value": "该生物死亡时，召唤一只激怒 II 的卡比龙。"
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.title",
+            "value": "召唤卡比龙复制体"
+        },
+        {
+            "key": "ability.enrage.desc",
+            "value": "每当该怪兽受到伤害时，获得+1攻击力。"
+        },
+        {
+            "key": "ability.enrage.title",
+            "value": "激怒"
+        },
+        {
+            "key": "ability.enrage2.desc",
+            "value": "每当该怪兽受到伤害时，获得+2攻击力。"
+        },
+        {
+            "key": "ability.enrage2.title",
+            "value": "激怒 II"
+        },
+        {
+            "key": "ability.enrage3.desc",
+            "value": "每当该怪兽受到伤害时，获得+3攻击力。"
+        },
+        {
+            "key": "ability.enrage3.title",
+            "value": "激怒 III"
+        },
+        {
+            "key": "ability.enrage4.desc",
+            "value": "每当该怪兽受到伤害时，获得+4攻击力。"
+        },
+        {
+            "key": "ability.enrage4.title",
+            "value": "激怒 IV"
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.desc",
+            "value": "持有者的攻击力变为其当前生命值。"
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.title",
+            "value": "均衡者"
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.desc",
+            "value": "持有者的攻击力等于其最大生命值。"
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.title",
+            "value": "均衡者"
+        },
+        {
+            "key": "ability.play_add_armor1.desc",
+            "value": "登场时，获得1点护甲。"
+        },
+        {
+            "key": "ability.play_add_armor1.title",
+            "value": "初始护甲 1"
+        },
+        {
+            "key": "ability.play_add_armor2.desc",
+            "value": "登场时，获得2点护甲。"
+        },
+        {
+            "key": "ability.play_add_armor2.title",
+            "value": "初始护甲 2"
+        },
+        {
+            "key": "ability.play_add_armor3.desc",
+            "value": "登场时，获得3点护甲。"
+        },
+        {
+            "key": "ability.play_add_armor3.title",
+            "value": "初始护甲 3"
+        },
+        {
+            "key": "ability.play_burn_all.desc",
+            "value": "登场时，灼烧场上所有其他怪兽。"
+        },
+        {
+            "key": "ability.play_burn_all.title",
+            "value": "灼烧全部"
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.desc",
+            "value": "登场时，灼烧场上所有其他非火系怪兽。"
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.title",
+            "value": "灼烧全部"
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.desc",
+            "value": "获得嘲讽或2点护甲"
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.title",
+            "value": "嘲讽护甲选择"
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.desc",
+            "value": "复制场上任意怪兽的最高护甲值并赋予此怪兽。"
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.title",
+            "value": "复制最高护甲"
+        },
+        {
+            "key": "ability.play_copy_sum_board_armor.title",
+            "value": "复制护甲"
+        },
+        {
+            "key": "ability.play_deal_damage1_self.desc",
+            "value": "登场时，对自己造成1点伤害。"
+        },
+        {
+            "key": "ability.play_deal_damage1_self.title",
+            "value": "自我伤害"
+        },
+        {
+            "key": "ability.play_heal_all_allies1.desc",
+            "value": "为所有友方在场卡牌恢复1点生命值。"
+        },
+        {
+            "key": "ability.play_heal_all_allies1.title",
+            "value": "恢复盟友"
+        },
+        {
+            "key": "ability.spell_add_cant_attack.desc",
+            "value": "使目标无法攻击。"
+        },
+        {
+            "key": "ability.spell_add_cant_attack.title",
+            "value": "无法攻击"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.desc",
+            "value": "目标怪兽无法攻击，并在其回合结束时受到1点伤害。"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.title",
+            "value": "石之重压"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.desc",
+            "value": "赋予嘲讽并禁止目标攻击。"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.title",
+            "value": "无法攻击嘲讽"
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.desc",
+            "value": "目标怪兽在其回合结束时受到1点伤害。"
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.title",
+            "value": "流血"
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.desc",
+            "value": "对一个友方怪兽造成1点伤害，然后对任意目标造成2点伤害。"
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.title",
+            "value": "岩石弹射"
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.desc",
+            "value": "对一个友方怪兽造成1点伤害，然后对随机敌方目标两次造成2点伤害。"
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.title",
+            "value": "岩石弹射"
+        },
+        {
+            "key": "ability.spell_damage2_random.desc",
+            "value": "对一个随机敌人造成2点伤害。"
+        },
+        {
+            "key": "ability.spell_damage2_random.title",
+            "value": "随机敌伤害 2"
+        },
+        {
+            "key": "ability.spell_destroy_flying.desc",
+            "value": "摧毁一个具有飞行的目标怪兽。"
+        },
+        {
+            "key": "ability.spell_destroy_flying.title",
+            "value": "摧毁飞行"
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.desc",
+            "value": "根据你消耗的法力值，召唤一个X/X且具有嘲讽的魔像到场上。"
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.title",
+            "value": "魔像召唤"
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.desc",
+            "value": "根据你消耗的法力值，召唤一个X/X且具有嘲讽的魔像到场上。"
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.title",
+            "value": "魔像召唤"
+        },
+        {
+            "key": "ability.spell_trap_sweep.desc",
+            "value": "摧毁所有敌方陷阱，每摧毁一个获得+2攻击和+2生命。"
+        },
+        {
+            "key": "ability.spell_trap_sweep.title",
+            "value": "扫除陷阱"
+        },
+        {
+            "key": "ability.survive_damage_add_draw.desc",
+            "value": "每回合开始时，抽1张牌"
+        },
+        {
+            "key": "ability.survive_damage_add_draw.title",
+            "value": "探险者"
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.desc",
+            "value": "如果这只怪兽在一次攻击后存活，所有友军获得+1护甲。"
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.title",
+            "value": "生存护甲支援 1"
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.desc",
+            "value": "回合开始时，灼烧场上所有其他非火系怪兽。"
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.title",
+            "value": "灼烧全部"
+        },
+        {
+            "key": "ability.turn_end_add_draw.desc",
+            "value": "每回合结束时，抽1张牌"
+        },
+        {
+            "key": "ability.turn_end_add_draw.title",
+            "value": "探险者 II"
+        },
+        {
+            "key": "ability.turn_start_add_draw.desc",
+            "value": "每回合开始时，抽1张牌"
+        },
+        {
+            "key": "ability.turn_start_add_draw.title",
+            "value": "探险者"
+        },
+        {
+            "key": "status.damagecap.desc",
+            "value": "攻击或反击时最多受到2点伤害。"
+        },
+        {
+            "key": "status.damagecap.title",
+            "value": "伤害上限"
+        },
+        {
+            "key": "status.endturnbleed.desc",
+            "value": "回合结束时受到伤害。"
+        },
+        {
+            "key": "status.endturnbleed.title",
+            "value": "回合末流血"
         }
     ]
 }

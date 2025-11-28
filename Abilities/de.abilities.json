@@ -209,20 +209,20 @@
             "value": "Fallenboost"
         },
         {
-            "key": "ability.add_hp_location.desc",
-            "value": "Erhalte +2 LP für jeden verbündeten Ort gleichen Elementtyps im Spiel."
-        },
-        {
-            "key": "ability.add_hp_location.title",
-            "value": "Ortsboost"
-        },
-        {
             "key": "ability.add_hp1_attack1_location.desc",
             "value": "Erhalte +1 LP und +1 Angriff für jeden verbündeten Ort desselben Elementtyps, der im Spiel ist."
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
             "value": "Ortsverstärkung"
+        },
+        {
+            "key": "ability.add_hp_location.desc",
+            "value": "Erhalte +2 LP für jeden verbündeten Ort gleichen Elementtyps im Spiel."
+        },
+        {
+            "key": "ability.add_hp_location.title",
+            "value": "Ortsboost"
         },
         {
             "key": "ability.add_spell_damage1.desc",
@@ -305,6 +305,14 @@
             "value": "Plünderung"
         },
         {
+            "key": "ability.attack_player_draw_rock_spell.desc",
+            "value": "Nach einem Angriff auf den gegnerischen Spieler ziehst du eine Felszauber-Karte aus deinem Deck."
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.title",
+            "value": "Steinschatz"
+        },
+        {
             "key": "ability.attack_player_mana1.desc",
             "value": "Nach dem Angriff auf das Leben des Gegners erhältst du 1 Mana."
         },
@@ -385,6 +393,22 @@
             "value": "Steinausbruch"
         },
         {
+            "key": "ability.aura_add_enrage.desc",
+            "value": "Alle verbündeten Steinkreaturen erhalten einen Raserei-Stapel."
+        },
+        {
+            "key": "ability.aura_add_enrage.title",
+            "value": "Aura Steinraserei"
+        },
+        {
+            "key": "ability.aura_armor_rock_2.desc",
+            "value": "Alle verbündeten Steincharaktere haben +2 Rüstung."
+        },
+        {
+            "key": "ability.aura_armor_rock_2.title",
+            "value": "Steinrüstung 2"
+        },
+        {
             "key": "ability.aura_attack_m1.desc",
             "value": "Alle gegnerischen Charaktere haben -1 Angriff."
         },
@@ -431,6 +455,14 @@
         {
             "key": "ability.aura_hp_rock_1.title",
             "value": "Steinverbündeter"
+        },
+        {
+            "key": "ability.aura_hp_rock_2.desc",
+            "value": "Alle verbündeten Steincharaktere haben +2 LP."
+        },
+        {
+            "key": "ability.aura_hp_rock_2.title",
+            "value": "Steinverbündeter 2"
         },
         {
             "key": "ability.aura_hp_rock_m1.desc",
@@ -497,6 +529,14 @@
             "value": "Fähigkeitsimmunität"
         },
         {
+            "key": "ability.choice_armor2.desc",
+            "value": "Erhalte beim Erscheinen +2 Rüstung."
+        },
+        {
+            "key": "ability.choice_armor2.title",
+            "value": "Auswahl Rüstung 2"
+        },
+        {
             "key": "ability.choice_fury.desc",
             "value": "Kann zweimal pro Zug angreifen."
         },
@@ -527,6 +567,14 @@
         {
             "key": "ability.choice_taunt.title",
             "value": "Spott"
+        },
+        {
+            "key": "ability.damage_cap.desc",
+            "value": "Erhält höchstens 2 Schaden bei Angriff oder Gegenangriff."
+        },
+        {
+            "key": "ability.damage_cap.title",
+            "value": "Schadensgrenze"
         },
         {
             "key": "ability.death_blue_draw.desc",
@@ -591,6 +639,14 @@
         {
             "key": "ability.death_other_draw2.title",
             "value": "Fressen"
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.desc",
+            "value": "Wenn diese Kreatur stirbt, beschwöre einen Cabyron mit Raserei II."
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.title",
+            "value": "Cabyron-Kopie beschwören"
         },
         {
             "key": "ability.death_summon_igloo.desc",
@@ -673,28 +729,44 @@
             "value": "Verwandlung Phyra"
         },
         {
+            "key": "ability.enrage.desc",
+            "value": "Erhält +1 Angriff jedes Mal, wenn das Monster Schaden nimmt."
+        },
+        {
+            "key": "ability.enrage.title",
+            "value": "Raserei"
+        },
+        {
+            "key": "ability.enrage2.desc",
+            "value": "Erhält +2 Angriff jedes Mal, wenn das Monster Schaden nimmt."
+        },
+        {
+            "key": "ability.enrage2.title",
+            "value": "Raserei II"
+        },
+        {
+            "key": "ability.enrage3.desc",
+            "value": "Erhält +3 Angriff jedes Mal, wenn das Monster Schaden nimmt."
+        },
+        {
+            "key": "ability.enrage3.title",
+            "value": "Raserei III"
+        },
+        {
+            "key": "ability.enrage4.desc",
+            "value": "Erhält +4 Angriff jedes Mal, wenn das Monster Schaden nimmt."
+        },
+        {
+            "key": "ability.enrage4.title",
+            "value": "Raserei IV"
+        },
+        {
             "key": "ability.equip_armor2.desc",
             "value": "Träger hat +2 Rüstung."
         },
         {
             "key": "ability.equip_armor2.title",
             "value": "Rüstung"
-        },
-        {
-            "key": "ability.equip_attack_no_damage.desc",
-            "value": "Beim Angriff kontert das Ziel nicht."
-        },
-        {
-            "key": "ability.equip_attack_no_damage.title",
-            "value": "Einschüchtern"
-        },
-        {
-            "key": "ability.equip_attack_use.desc",
-            "value": "Verliert 1 Haltbarkeit nach jedem Angriff."
-        },
-        {
-            "key": "ability.equip_attack_use.title",
-            "value": "Schwert"
         },
         {
             "key": "ability.equip_attack1.desc",
@@ -711,6 +783,38 @@
         {
             "key": "ability.equip_attack2.title",
             "value": "Angriff"
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.desc",
+            "value": "Angriff des Trägers entspricht seinen aktuellen LP."
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.title",
+            "value": "Ausgleicher"
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.desc",
+            "value": "Angriff des Trägers entspricht seinen LP."
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.title",
+            "value": "Ausgleicher"
+        },
+        {
+            "key": "ability.equip_attack_no_damage.desc",
+            "value": "Beim Angriff kontert das Ziel nicht."
+        },
+        {
+            "key": "ability.equip_attack_no_damage.title",
+            "value": "Einschüchtern"
+        },
+        {
+            "key": "ability.equip_attack_use.desc",
+            "value": "Verliert 1 Haltbarkeit nach jedem Angriff."
+        },
+        {
+            "key": "ability.equip_attack_use.title",
+            "value": "Schwert"
         },
         {
             "key": "ability.equip_defend_use.desc",
@@ -981,12 +1085,28 @@
             "value": "Überkill"
         },
         {
-            "key": "ability.play_boost_hp_1.desc",
-            "value": "Beim Ausspielen gib +2 LP an eine andere Kreatur bis zu deinem nächsten Zug."
+            "key": "ability.play_add_armor1.desc",
+            "value": "Beim Ausspielen erhältst du 1 Rüstung."
         },
         {
-            "key": "ability.play_boost_hp_1.title",
-            "value": "LP-Segen"
+            "key": "ability.play_add_armor1.title",
+            "value": "Startrüstung 1"
+        },
+        {
+            "key": "ability.play_add_armor2.desc",
+            "value": "Beim Ausspielen erhältst du 2 Rüstung."
+        },
+        {
+            "key": "ability.play_add_armor2.title",
+            "value": "Startrüstung 2"
+        },
+        {
+            "key": "ability.play_add_armor3.desc",
+            "value": "Beim Ausspielen erhältst du 3 Rüstung."
+        },
+        {
+            "key": "ability.play_add_armor3.title",
+            "value": "Startrüstung 3"
         },
         {
             "key": "ability.play_boost2.desc",
@@ -1013,6 +1133,14 @@
             "value": "Pflanzensegen"
         },
         {
+            "key": "ability.play_boost_hp_1.desc",
+            "value": "Beim Ausspielen gib +2 LP an eine andere Kreatur bis zu deinem nächsten Zug."
+        },
+        {
+            "key": "ability.play_boost_hp_1.title",
+            "value": "LP-Segen"
+        },
+        {
             "key": "ability.play_burn.desc",
             "value": "Zielcharakter erhält Verbrennung. Er verliert 2 LP jeden Zug."
         },
@@ -1021,12 +1149,36 @@
             "value": "Verbrennung"
         },
         {
+            "key": "ability.play_burn_all.desc",
+            "value": "Beim Ausspielen werden alle anderen Monster im Spiel verbrannt."
+        },
+        {
+            "key": "ability.play_burn_all.title",
+            "value": "Alle verbrennen"
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.desc",
+            "value": "Beim Ausspielen werden alle anderen Nicht-Feuer-Monster im Spiel verbrannt."
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.title",
+            "value": "Alle verbrennen"
+        },
+        {
             "key": "ability.play_choice_spell_ability_immunity.desc",
             "value": "Erhalte Zauber- oder Fähigkeitsimmunität"
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.title",
             "value": "Wahl"
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.desc",
+            "value": "Erhalte Spott oder 2 Rüstung"
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.title",
+            "value": "Spott-Rüstungswahl"
         },
         {
             "key": "ability.play_choice_taunt_fury.desc",
@@ -1043,6 +1195,18 @@
         {
             "key": "ability.play_choice_taunt_rush.title",
             "value": "Wahl"
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.desc",
+            "value": "Kopiere den höchsten Rüstungswert eines Monsters auf dem Spielfeld und gewähre ihn diesem Monster."
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.title",
+            "value": "Höchste Rüstung kopieren"
+        },
+        {
+            "key": "ability.play_copy_sum_board_armor.title",
+            "value": "Rüstung kopieren"
         },
         {
             "key": "ability.play_cure.desc",
@@ -1077,14 +1241,6 @@
             "value": "Alle verfluchen"
         },
         {
-            "key": "ability.play_damage_all_players2.desc",
-            "value": "Beim Ausspielen füge beiden Spielern 2 Schaden zu."
-        },
-        {
-            "key": "ability.play_damage_all_players2.title",
-            "value": "Schaden"
-        },
-        {
             "key": "ability.play_damage_all1.desc",
             "value": "Beim Ausspielen verursache 1 Schaden an allen anderen Karten."
         },
@@ -1098,6 +1254,14 @@
         },
         {
             "key": "ability.play_damage_all2.title",
+            "value": "Schaden"
+        },
+        {
+            "key": "ability.play_damage_all_players2.desc",
+            "value": "Beim Ausspielen füge beiden Spielern 2 Schaden zu."
+        },
+        {
+            "key": "ability.play_damage_all_players2.title",
             "value": "Schaden"
         },
         {
@@ -1117,14 +1281,6 @@
             "value": "Schaden"
         },
         {
-            "key": "ability.play_deal_damage_cards_players2.desc",
-            "value": "Beim Ausspielen füge einem beliebigen Ziel 1 Schaden zu."
-        },
-        {
-            "key": "ability.play_deal_damage_cards_players2.title",
-            "value": "Schaden"
-        },
-        {
             "key": "ability.play_deal_damage1.desc",
             "value": "Beim Ausspielen verursache 1 Schaden an ein beliebiges Ziel."
         },
@@ -1133,11 +1289,27 @@
             "value": "Schaden"
         },
         {
+            "key": "ability.play_deal_damage1_self.desc",
+            "value": "Beim Ausspielen füge dir selbst 1 Schaden zu."
+        },
+        {
+            "key": "ability.play_deal_damage1_self.title",
+            "value": "Selbstschaden"
+        },
+        {
             "key": "ability.play_deal_damage2.desc",
             "value": "Beim Ausspielen verursache 2 Schaden an ein beliebiges Ziel."
         },
         {
             "key": "ability.play_deal_damage2.title",
+            "value": "Schaden"
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.desc",
+            "value": "Beim Ausspielen füge einem beliebigen Ziel 1 Schaden zu."
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.title",
             "value": "Schaden"
         },
         {
@@ -1173,20 +1345,20 @@
             "value": "Ausrangieren"
         },
         {
-            "key": "ability.play_discard_draw.desc",
-            "value": "Wirf eine zufällige Karte aus der Hand des Spielers ab und ziehe zwei neue Karten."
-        },
-        {
-            "key": "ability.play_discard_draw.title",
-            "value": "Wetten"
-        },
-        {
             "key": "ability.play_discard3.desc",
             "value": "Gegner wirft 3 zufällige Karten aus seiner Hand ab."
         },
         {
             "key": "ability.play_discard3.title",
             "value": "Ausrangieren"
+        },
+        {
+            "key": "ability.play_discard_draw.desc",
+            "value": "Wirf eine zufällige Karte aus der Hand des Spielers ab und ziehe zwei neue Karten."
+        },
+        {
+            "key": "ability.play_discard_draw.title",
+            "value": "Wetten"
         },
         {
             "key": "ability.play_draw.desc",
@@ -1291,6 +1463,14 @@
         {
             "key": "ability.play_gain_rush_if_igloo.title",
             "value": "Schlamm-Ansturm"
+        },
+        {
+            "key": "ability.play_heal_all_allies1.desc",
+            "value": "Heile alle verbündeten Karten im Spiel um 1 LP."
+        },
+        {
+            "key": "ability.play_heal_all_allies1.title",
+            "value": "Verbündete heilen"
         },
         {
             "key": "ability.play_heal_player2.desc",
@@ -1453,14 +1633,6 @@
             "value": "Iglu beschwören"
         },
         {
-            "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Beschwöre ein Iglu, wenn noch keines im Spiel ist."
-        },
-        {
-            "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Iglu bauen"
-        },
-        {
             "key": "ability.play_summon_igloo2.desc",
             "value": "Beim Ausspielen zweimal ein Iglu beschwören"
         },
@@ -1475,6 +1647,14 @@
         {
             "key": "ability.play_summon_igloo2_freeze3al.title",
             "value": "Iglu beschwören"
+        },
+        {
+            "key": "ability.play_summon_igloo_if_none.desc",
+            "value": "Beschwöre ein Iglu, wenn noch keines im Spiel ist."
+        },
+        {
+            "key": "ability.play_summon_igloo_if_none.title",
+            "value": "Iglu bauen"
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
@@ -1525,19 +1705,19 @@
             "value": "Loyalitätstausch"
         },
         {
-            "key": "ability.regen_all.desc",
-            "value": "Zu Beginn deines Zuges heilt diese Kreatur vollständig."
-        },
-        {
-            "key": "ability.regen_all.title",
-            "value": "Erneuerung"
-        },
-        {
             "key": "ability.regen3.desc",
             "value": "Zu Beginn deines Zuges heile 3 LP."
         },
         {
             "key": "ability.regen3.title",
+            "value": "Erneuerung"
+        },
+        {
+            "key": "ability.regen_all.desc",
+            "value": "Zu Beginn deines Zuges heilt diese Kreatur vollständig."
+        },
+        {
+            "key": "ability.regen_all.title",
             "value": "Erneuerung"
         },
         {
@@ -1589,6 +1769,38 @@
             "value": "Fluch des Leidens"
         },
         {
+            "key": "ability.spell_add_cant_attack.desc",
+            "value": "Verhindert, dass das Ziel angreift."
+        },
+        {
+            "key": "ability.spell_add_cant_attack.title",
+            "value": "Kein Angriff"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.desc",
+            "value": "Das Zielmonster kann nicht angreifen und erleidet am Ende seines Zuges 1 Schaden."
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.title",
+            "value": "Steingewichte"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.desc",
+            "value": "Fügt Spott hinzu und verhindert, dass das Ziel angreift."
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.title",
+            "value": "Kein Angriff (Spott)"
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.desc",
+            "value": "Das Zielmonster erleidet am Ende seines Zuges 1 Schaden."
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.title",
+            "value": "Blutung"
+        },
+        {
             "key": "ability.spell_add_play_extinct.desc",
             "value": "Zielkarte erhält „Wenn eine verbündete Kreatur ins Spiel kommt, zerstöre diese Karte“."
         },
@@ -1611,6 +1823,22 @@
         {
             "key": "ability.spell_ally_attack_2.title",
             "value": "Wachstum"
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.desc",
+            "value": "Füge einem verbündeten Monster 1 Schaden zu, füge dann einem beliebigen Ziel 2 Schaden zu."
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.title",
+            "value": "Felsgeschosse"
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.desc",
+            "value": "Füge einem verbündeten Monster 1 Schaden zu, füge dann zweimal einem zufälligen gegnerischen Ziel 2 Schaden zu."
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.title",
+            "value": "Felsgeschosse"
         },
         {
             "key": "ability.spell_ally_plant_attack_2.desc",
@@ -1653,14 +1881,6 @@
             "value": "Heilungsboost"
         },
         {
-            "key": "ability.spell_damage_per_hand.desc",
-            "value": "Die LP aller Charaktere auf dem Brett werden auf 1 gesenkt."
-        },
-        {
-            "key": "ability.spell_damage_per_hand.title",
-            "value": "Überschwemmung"
-        },
-        {
             "key": "ability.spell_damage1.desc",
             "value": "Verursache 1 Schaden."
         },
@@ -1669,12 +1889,28 @@
             "value": "Schaden"
         },
         {
+            "key": "ability.spell_damage2_random.desc",
+            "value": "Füge einem zufälligen Gegner 2 Schaden zu."
+        },
+        {
+            "key": "ability.spell_damage2_random.title",
+            "value": "Zufälliger Schaden 2"
+        },
+        {
             "key": "ability.spell_damage3.desc",
             "value": "Verursache 3 Schaden."
         },
         {
             "key": "ability.spell_damage3.title",
             "value": "Schaden"
+        },
+        {
+            "key": "ability.spell_damage_per_hand.desc",
+            "value": "Die LP aller Charaktere auf dem Brett werden auf 1 gesenkt."
+        },
+        {
+            "key": "ability.spell_damage_per_hand.title",
+            "value": "Überschwemmung"
         },
         {
             "key": "ability.spell_destroy.desc",
@@ -1691,6 +1927,14 @@
         {
             "key": "ability.spell_destroy_all.title",
             "value": "Weltuntergang"
+        },
+        {
+            "key": "ability.spell_destroy_flying.desc",
+            "value": "Zerstöre ein fliegendes Zielmonster."
+        },
+        {
+            "key": "ability.spell_destroy_flying.title",
+            "value": "Flug zerstören"
         },
         {
             "key": "ability.spell_destroy_frozen_all.desc",
@@ -1905,12 +2149,28 @@
             "value": "Überschwemmung"
         },
         {
+            "key": "ability.spell_set_stats_equal_mana_selector.desc",
+            "value": "Beschwöre einen X/X-Golem mit Spott auf das Feld, basierend auf der Menge Mana, die du ausgibst."
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.title",
+            "value": "Golem-Beschwörung"
+        },
+        {
             "key": "ability.spell_shell.desc",
             "value": "Ziel erhält Schale, es ignoriert Schaden beim nächsten Treffer."
         },
         {
             "key": "ability.spell_shell.title",
             "value": "Schale"
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.desc",
+            "value": "Beschwöre einen X/X-Golem mit Spott auf das Feld, basierend auf der Menge Mana, die du ausgibst."
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.title",
+            "value": "Golem-Beschwörung"
         },
         {
             "key": "ability.spell_summon_hammi.desc",
@@ -1945,6 +2205,14 @@
             "value": "Spott"
         },
         {
+            "key": "ability.spell_trap_sweep.desc",
+            "value": "Zerstöre alle gegnerischen Fallen und erhalte für jede zerstörte Falle +2 Angriff und +2 LP."
+        },
+        {
+            "key": "ability.spell_trap_sweep.title",
+            "value": "Fallenfeger"
+        },
+        {
             "key": "ability.spell_water_treasure.desc",
             "value": "Schaue dir die nächsten 7 Karten in deinem Deck an und nimm 1 Wasser-Karte in deine Hand."
         },
@@ -1959,6 +2227,22 @@
         {
             "key": "ability.stealth.title",
             "value": "Tarnung"
+        },
+        {
+            "key": "ability.survive_damage_add_draw.desc",
+            "value": "Zu Beginn jedes Zuges ziehst du 1 Karte."
+        },
+        {
+            "key": "ability.survive_damage_add_draw.title",
+            "value": "Erkunder"
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.desc",
+            "value": "Überlebt dieses Monster einen Angriff, erhalten alle Verbündeten +1 Rüstung."
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.title",
+            "value": "Überlebens-Rüstungsunterstützung 1"
         },
         {
             "key": "ability.taunt.desc",
@@ -2097,14 +2381,6 @@
             "value": "Brettschaden"
         },
         {
-            "key": "ability.trap_damage_all2.desc",
-            "value": "Wenn eine gegnerische Kreatur angreift, verursache 2 Schaden an allen gegnerischen Kreaturen."
-        },
-        {
-            "key": "ability.trap_damage_all2.title",
-            "value": "Schaden"
-        },
-        {
             "key": "ability.trap_damage2.desc",
             "value": "Füge dem Angreifer 2 LP Schaden zu."
         },
@@ -2119,6 +2395,14 @@
         {
             "key": "ability.trap_damage3.title",
             "value": "Falle"
+        },
+        {
+            "key": "ability.trap_damage_all2.desc",
+            "value": "Wenn eine gegnerische Kreatur angreift, verursache 2 Schaden an allen gegnerischen Kreaturen."
+        },
+        {
+            "key": "ability.trap_damage_all2.title",
+            "value": "Schaden"
         },
         {
             "key": "ability.trap_freeze.desc",
@@ -2178,7 +2462,7 @@
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "Nachdem eine gegnerische Kreatur angegriffen hat, schockparalysiere sie für 1 Zug."
+            "value": "Wenn ein gegnerisches Monster angreift, versetze es für 1 Runde in Schockstarre."
         },
         {
             "key": "ability.trap_shock_all.title",
@@ -2217,12 +2501,12 @@
             "value": "Wütend"
         },
         {
-            "key": "ability.turn_add_draw.desc",
-            "value": "Zu Beginn jedes Zuges ziehe 1 Karte"
+            "key": "ability.turn_burn_all_minus_fire.desc",
+            "value": "Zu Beginn des Zuges werden alle anderen Nicht-Feuer-Monster im Spiel verbrannt."
         },
         {
-            "key": "ability.turn_add_draw.title",
-            "value": "Entdecker"
+            "key": "ability.turn_burn_all_minus_fire.title",
+            "value": "Alle verbrennen"
         },
         {
             "key": "ability.turn_damage_allies1.desc",
@@ -2239,6 +2523,14 @@
         {
             "key": "ability.turn_damage_allies2.title",
             "value": "Verratsschaden"
+        },
+        {
+            "key": "ability.turn_end_add_draw.desc",
+            "value": "Am Ende jedes Zuges ziehst du 1 Karte."
+        },
+        {
+            "key": "ability.turn_end_add_draw.title",
+            "value": "Erkunder II"
         },
         {
             "key": "ability.turn_green_heal.desc",
@@ -2271,6 +2563,14 @@
         {
             "key": "ability.turn_shadow_add_attack1.title",
             "value": "Schattenbonus"
+        },
+        {
+            "key": "ability.turn_start_add_draw.desc",
+            "value": "Zu Beginn jedes Zuges ziehst du 1 Karte."
+        },
+        {
+            "key": "ability.turn_start_add_draw.title",
+            "value": "Erkunder"
         },
         {
             "key": "ability.turn_stealth.desc",
@@ -2337,12 +2637,28 @@
             "value": "Verflucht"
         },
         {
+            "key": "status.damagecap.desc",
+            "value": "Erhält höchstens 2 Schaden bei Angriff oder Gegenangriff."
+        },
+        {
+            "key": "status.damagecap.title",
+            "value": "Schadensgrenze"
+        },
+        {
             "key": "status.deathtouch.desc",
             "value": "Töte jede Kreatur, die er beschädigt."
         },
         {
             "key": "status.deathtouch.title",
             "value": "Todesberührung"
+        },
+        {
+            "key": "status.endturnbleed.desc",
+            "value": "Am Ende des Zuges erleidest du Schaden."
+        },
+        {
+            "key": "status.endturnbleed.title",
+            "value": "Zugend-Blutung"
         },
         {
             "key": "status.flying.desc",
