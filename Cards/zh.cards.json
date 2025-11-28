@@ -6,11 +6,11 @@
         },
         {
             "key": "card.antairy.text",
-            "value": "狂怒"
+            "value": "激怒\n摧毁一个具有飞行的目标怪兽。"
         },
         {
             "key": "card.armoru.text",
-            "value": "每个回合，获得 +1 护甲。"
+            "value": "激怒\n选择：嘲讽或+2护甲"
         },
         {
             "key": "card.aros.text",
@@ -18,7 +18,7 @@
         },
         {
             "key": "card.astor.text",
-            "value": "<b>击杀：</b>抽一张牌\n每个回合开始时获得 1 点护甲。"
+            "value": "护壳\n每个回合开始时获得1点护甲。"
         },
         {
             "key": "card.astroguin.text",
@@ -58,19 +58,19 @@
         },
         {
             "key": "card.buumi.text",
-            "value": "潜行"
+            "value": "<b>登场：</b>摧毁所有敌方陷阱，每摧毁一个获得+2/+2。"
         },
         {
             "key": "card.cabyron.text",
-            "value": "<b>施放：</b>为场上所有盟友授予 +2 护甲。消耗 5 点法力并占用此角色的行动。"
+            "value": "嘲讽\n<b>死亡：</b>召唤一只激怒 II 的卡比龙。"
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "<b>施放：</b>为所有友方随从授予+2护甲。消耗5点法力并占用行动。"
+            "value": "嘲讽\n<b>死亡：</b>召唤一只激怒 II 的卡比龙。"
         },
         {
             "key": "card.cabywara.text",
-            "value": "每个回合开始时抽一张牌。"
+            "value": "每回合一次，承受伤害且存活时，抽一张牌。"
         },
         {
             "key": "card.cactoon.text",
@@ -222,7 +222,7 @@
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "攻击 +2\n持续两次攻击"
+            "value": "持有者的攻击力等于其最大生命值。"
         },
         {
             "key": "card.equip_water_ring.text",
@@ -286,7 +286,7 @@
         },
         {
             "key": "card.gamud.text",
-            "value": "每个回合开始时抽一张牌。"
+            "value": "每回合一次，当受到伤害且存活时，抽一张牌。"
         },
         {
             "key": "card.gargarm.text",
@@ -302,7 +302,7 @@
         },
         {
             "key": "card.gemash.text",
-            "value": "每个回合，获得 +1 护甲。"
+            "value": "选择：嘲讽或+2护甲"
         },
         {
             "key": "card.gizap.text",
@@ -330,7 +330,7 @@
         },
         {
             "key": "card.gookie.text",
-            "value": "壳"
+            "value": "嘲讽\n<b>登场：</b>+1护甲"
         },
         {
             "key": "card.gorupt.text",
@@ -354,7 +354,7 @@
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>嘲讽</b>\n<b>每回合：</b>处决攻击力最低的怪兽。\n"
+            "value": "<b>嘲讽</b>\n当其受到伤害并存活时，使所有盟友岩石怪兽获得+1护甲。"
         },
         {
             "key": "card.hajiko.text",
@@ -362,7 +362,7 @@
         },
         {
             "key": "card.hammar.text",
-            "value": "狂怒\n每个回合获得 +1 护甲。"
+            "value": "激怒\n<b>登场：</b>获得1护甲。\n攻击敌方玩家后，从你的牌库中抽取一张岩石法术牌。"
         },
         {
             "key": "card.hammark.text",
@@ -370,11 +370,11 @@
         },
         {
             "key": "card.hammi.text",
-            "value": "<b>死亡：</b>抽一张牌。"
+            "value": "激怒 III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "<b>每个回合：</b>抽一张牌。"
+            "value": "激怒\n攻击敌方玩家后，从你的牌库中抽取一张岩石法术牌。"
         },
         {
             "key": "card.hammish.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lizteel.text",
-            "value": "嘲讽"
+            "value": "激怒 II"
         },
         {
             "key": "card.loneguin.text",
@@ -578,7 +578,7 @@
         },
         {
             "key": "card.mountough.text",
-            "value": "造成的溢出伤害会为本怪兽回复相同数值的生命。"
+            "value": "<b>登场：</b>获得3护甲。\n在你的回合结束时，抽一张牌。"
         },
         {
             "key": "card.muni.text",
@@ -590,7 +590,7 @@
         },
         {
             "key": "card.nadzu.text",
-            "value": "狂怒"
+            "value": "狂怒\n激怒"
         },
         {
             "key": "card.nhomnhom.text",
@@ -598,11 +598,11 @@
         },
         {
             "key": "card.nobu.text",
-            "value": "登场时，使另一只怪兽在你的下个回合开始前获得+2生命。"
+            "value": "嘲讽\n每次攻击/反击最多承受2点伤害。"
         },
         {
             "key": "card.nophulos.text",
-            "value": "狂怒"
+            "value": "狂怒 / 冲锋\n激怒"
         },
         {
             "key": "card.numind.text",
@@ -614,7 +614,7 @@
         },
         {
             "key": "card.operant.text",
-            "value": "<b>打出：</b>造成 1 点伤害。"
+            "value": "激怒\n<b>登场：</b>对场上一张卡造成1点伤害。\n"
         },
         {
             "key": "card.ophala.text",
@@ -678,7 +678,7 @@
         },
         {
             "key": "card.picko.text",
-            "value": "<b>打出：</b>造成 1 点伤害。"
+            "value": "激怒\n<b>登场：</b>对自己造成1点伤害，然后对任意目标怪兽造成1点伤害。"
         },
         {
             "key": "card.plant_token.text",
@@ -686,7 +686,7 @@
         },
         {
             "key": "card.plator.text",
-            "value": "当本怪兽击杀另一只怪兽时，抽2张牌。"
+            "value": "护壳\n每个回合开始时获得1点护甲。 "
         },
         {
             "key": "card.polip.text",
@@ -714,7 +714,7 @@
         },
         {
             "key": "card.potion_rock.text",
-            "value": "目标获得护甲2，将来自怪兽的直接伤害减少2点。"
+            "value": "目标获得嘲讽，但不能攻击。"
         },
         {
             "key": "card.potion_shadow.text",
@@ -786,7 +786,7 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "每个回合，获得 +1 护甲。"
+            "value": "<b>登场：</b>获得2护甲。 "
         },
         {
             "key": "card.scarles.text",
@@ -806,7 +806,7 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "狂暴 / 冲锋 / 飞行\n<b>攻击：</b>冻结目标且不受反击伤害。"
+            "value": "狂怒 / 冲锋\n<b>攻击：</b>冻结目标并且不受反击伤害。"
         },
         {
             "key": "card.skipo.text",
@@ -878,7 +878,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "造成 3 点伤害。\n抽一张牌。"
+            "value": "对一个友方怪兽造成1点伤害，然后对随机目标两次造成2点伤害。 "
         },
         {
             "key": "card.spell_flood.text",
@@ -890,7 +890,7 @@
         },
         {
             "key": "card.spell_hammi_strike.text",
-            "value": "在您的手牌中召唤 3 只 Hammi。"
+            "value": "对任意目标造成3点伤害"
         },
         {
             "key": "card.spell_ice_storm.text",
@@ -934,15 +934,15 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "摧毁场上的所有卡牌"
+            "value": "根据你消耗的法力，召唤一只拥有X攻/X血并具有嘲讽的岩石魔像。 "
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "摧毁游戏中的所有位置。"
+            "value": "对一个友方怪兽造成1点伤害，然后对任意目标造成2点伤害。"
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "目标获得壳，忽略下一次打击。"
+            "value": "目标怪兽获得+2护甲。"
         },
         {
             "key": "card.spell_roots.text",
@@ -962,7 +962,7 @@
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "目标怪兽获得“在攻击前先承受3点伤害”。"
+            "value": "目标怪兽无法攻击，并在其回合结束时受到1点伤害。"
         },
         {
             "key": "card.spell_stones.text",
@@ -1026,7 +1026,7 @@
         },
         {
             "key": "card.tectan.text",
-            "value": "所有友方岩系怪兽+1生命。\n嘲讽"
+            "value": "所有友方岩石怪兽拥有+2护甲"
         },
         {
             "key": "card.tempish.text",
@@ -1038,11 +1038,11 @@
         },
         {
             "key": "card.tensei.text",
-            "value": "狂怒"
+            "value": "嘲讽\n<b>登场：</b>+1护甲"
         },
         {
             "key": "card.terrastrus.text",
-            "value": "<b>打出：</b>对游戏中所有其他牌造成 1 点伤害。"
+            "value": "激怒\n<b>登场：</b>对场上所有其他卡造成1点伤害，然后为所有友方卡恢复1点生命。"
         },
         {
             "key": "card.town_darkwoods_shadow.text",
@@ -1058,7 +1058,7 @@
         },
         {
             "key": "card.town_rock.text",
-            "value": "所有友方岩系怪兽+2生命。"
+            "value": "所有友方岩石怪兽获得1层激怒。"
         },
         {
             "key": "card.town_volcano.text",
@@ -1122,7 +1122,7 @@
         },
         {
             "key": "card.urogorth.text",
-            "value": "嘲讽"
+            "value": "嘲讽\n<b>登场：</b>+2护甲"
         },
         {
             "key": "card.venorus.text",
@@ -1251,6 +1251,66 @@
         {
             "key": "card.zortan.text",
             "value": "所有其他盟友爬行动物获得 +2 攻击力。"
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "激怒 II"
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "护壳\n激怒 II"
+        },
+        {
+            "key": "card.emberstorm.text",
+            "value": "登场时以及你的每个回合开始时，灼烧场上其他所有非火系怪兽。"
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "登场时以及你的每个回合开始时，灼烧场上其他所有非火系怪兽。"
+        },
+        {
+            "key": "card.frojesti_full.text",
+            "value": "当对手弃掉法术时，在你手牌中创建一张零费用复制。\n"
+        },
+        {
+            "key": "card.gizord_full.text",
+            "value": "急速"
+        },
+        {
+            "key": "card.lurian_full.text",
+            "value": "<b>登场：</b>给予+2/2\n<b>登场：</b>为玩家恢复4生命\n飞行"
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>登场：</b>获得3护甲。\n在你的回合结束时，抽一张牌。"
+        },
+        {
+            "key": "card.ophalant_full.text",
+            "value": "在对手的回合期间获得 +3 攻击力。\n嘲讽 / 护壳"
+        },
+        {
+            "key": "card.rock_golem_spawn.text",
+            "value": "嘲讽"
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "狂怒 / 冲锋\n<b>攻击：</b>冻结目标并且不受反击伤害。"
+        },
+        {
+            "key": "card.venorus_full.text",
+            "value": "登场时，对场上所有敌人造成毒素。"
+        },
+        {
+            "key": "card.worpi.text",
+            "value": "<b>登场：</b>复制场上最高护甲值并赋予此怪兽。"
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>登场：</b>复制场上最高护甲值并赋予此怪兽。"
+        },
+        {
+            "key": "card.zargon_full.text",
+            "value": "能力免疫\n再生\n<b>登场：</b>从弃牌堆加入一张卡到手牌。"
         }
     ]
 }

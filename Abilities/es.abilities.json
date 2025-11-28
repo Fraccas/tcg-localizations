@@ -2178,7 +2178,7 @@
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "Después de que una criatura enemiga ataque, paralízala por choque por 1 turno."
+            "value": "Cuando un monstruo enemigo ataca, paralízalo por choque durante 1 turno."
         },
         {
             "key": "ability.trap_shock_all.title",
@@ -2215,14 +2215,6 @@
         {
             "key": "ability.turn_add_attack2.title",
             "value": "Furioso"
-        },
-        {
-            "key": "ability.turn_add_draw.desc",
-            "value": "Al inicio de cada turno, roba 1 carta"
-        },
-        {
-            "key": "ability.turn_add_draw.title",
-            "value": "Explorador"
         },
         {
             "key": "ability.turn_damage_allies1.desc",
@@ -2539,6 +2531,330 @@
         {
             "key": "trait.spell_damage.title",
             "value": "Daño de Hechizo"
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.desc",
+            "value": "Tras atacar al jugador enemigo, roba un hechizo de roca de tu mazo."
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.title",
+            "value": "Tesoro de Roca"
+        },
+        {
+            "key": "ability.aura_add_enrage.desc",
+            "value": "Todos los monstruos de roca aliados ganan 1 acumulación de Enfurecer."
+        },
+        {
+            "key": "ability.aura_add_enrage.title",
+            "value": "Aura de Enfurecer de Roca"
+        },
+        {
+            "key": "ability.aura_armor_rock_2.desc",
+            "value": "Todos los personajes de roca aliados tienen +2 de Armadura."
+        },
+        {
+            "key": "ability.aura_armor_rock_2.title",
+            "value": "Armadura de Piedra 2"
+        },
+        {
+            "key": "ability.aura_hp_rock_2.desc",
+            "value": "Todos los personajes de roca aliados tienen +2 de HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_2.title",
+            "value": "Aliado de Piedra 2"
+        },
+        {
+            "key": "ability.choice_armor2.desc",
+            "value": "Obtiene +2 de Armadura al aparecer."
+        },
+        {
+            "key": "ability.choice_armor2.title",
+            "value": "Elección de Armadura 2"
+        },
+        {
+            "key": "ability.damage_cap.desc",
+            "value": "Recibe un máximo de 2 de daño al atacar o contraatacar."
+        },
+        {
+            "key": "ability.damage_cap.title",
+            "value": "Límite de Daño"
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.desc",
+            "value": "Cuando esta criatura muere, invoca un Cabyron con Enfurecer 2."
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.title",
+            "value": "Invocar copia de Cabyron"
+        },
+        {
+            "key": "ability.enrage.desc",
+            "value": "Gana +1 de ataque cada vez que el monstruo recibe daño."
+        },
+        {
+            "key": "ability.enrage.title",
+            "value": "Enfurecer"
+        },
+        {
+            "key": "ability.enrage2.desc",
+            "value": "Gana +2 de ataque cada vez que el monstruo recibe daño."
+        },
+        {
+            "key": "ability.enrage2.title",
+            "value": "Enfurecer 2"
+        },
+        {
+            "key": "ability.enrage3.desc",
+            "value": "Gana +3 de ataque cada vez que el monstruo recibe daño."
+        },
+        {
+            "key": "ability.enrage3.title",
+            "value": "Enfurecer 3"
+        },
+        {
+            "key": "ability.enrage4.desc",
+            "value": "Gana +4 de ataque cada vez que el monstruo recibe daño."
+        },
+        {
+            "key": "ability.enrage4.title",
+            "value": "Enfurecer 4"
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.desc",
+            "value": "El ataque del portador se vuelve igual a su HP."
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.title",
+            "value": "Igualador"
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.desc",
+            "value": "El ataque del portador se vuelve igual a su HP."
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.title",
+            "value": "Igualador"
+        },
+        {
+            "key": "ability.play_add_armor1.desc",
+            "value": "Al jugar, gana 1 de armadura."
+        },
+        {
+            "key": "ability.play_add_armor1.title",
+            "value": "Armadura Inicial 1"
+        },
+        {
+            "key": "ability.play_add_armor2.desc",
+            "value": "Al jugar, gana 2 de armadura."
+        },
+        {
+            "key": "ability.play_add_armor2.title",
+            "value": "Armadura Inicial 2"
+        },
+        {
+            "key": "ability.play_add_armor3.desc",
+            "value": "Al jugar, gana 3 de armadura."
+        },
+        {
+            "key": "ability.play_add_armor3.title",
+            "value": "Armadura Inicial 3"
+        },
+        {
+            "key": "ability.play_burn_all.desc",
+            "value": "Al jugar, quema a todos los demás monstruos en juego."
+        },
+        {
+            "key": "ability.play_burn_all.title",
+            "value": "Quemar a todos"
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.desc",
+            "value": "Al jugar, quema a todos los demás monstruos que no sean de fuego en juego."
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.title",
+            "value": "Quemar a todos"
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.desc",
+            "value": "Obtén Provocación o 2 de Armadura"
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.title",
+            "value": "Elección de Provocación y Armadura"
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.desc",
+            "value": "Copia la mayor cantidad de armadura de cualquier monstruo en el tablero y la otorga a este monstruo."
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.title",
+            "value": "Copiar mayor armadura"
+        },
+        {
+            "key": "ability.play_copy_sum_board_armor.title",
+            "value": "Copiar Armadura"
+        },
+        {
+            "key": "ability.play_deal_damage1_self.desc",
+            "value": "Al jugar, inflige 1 de daño a sí mismo."
+        },
+        {
+            "key": "ability.play_deal_damage1_self.title",
+            "value": "Daño propio"
+        },
+        {
+            "key": "ability.play_heal_all_allies1.desc",
+            "value": "Cura 1 HP a todas las cartas aliadas en juego."
+        },
+        {
+            "key": "ability.play_heal_all_allies1.title",
+            "value": "Restaurar aliado"
+        },
+        {
+            "key": "ability.spell_add_cant_attack.desc",
+            "value": "Impide que el objetivo ataque."
+        },
+        {
+            "key": "ability.spell_add_cant_attack.title",
+            "value": "No atacar"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.desc",
+            "value": "El monstruo objetivo no puede atacar y recibe 1 de daño al final de su turno."
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.title",
+            "value": "Pesos de piedra"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.desc",
+            "value": "Añade Provocación y evita que el objetivo ataque."
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.title",
+            "value": "Provocación sin ataque"
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.desc",
+            "value": "El monstruo objetivo recibe 1 de daño al final de su turno."
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.title",
+            "value": "Sangrado"
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.desc",
+            "value": "Inflige 1 de daño a un monstruo aliado, luego inflige 2 de daño a cualquier objetivo."
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.title",
+            "value": "Proyectiles de roca"
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.desc",
+            "value": "Inflige 1 de daño a un monstruo aliado, luego inflige 2 de daño a un objetivo enemigo aleatorio dos veces."
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.title",
+            "value": "Proyectiles de roca"
+        },
+        {
+            "key": "ability.spell_damage2_random.desc",
+            "value": "Inflige 2 de daño a un enemigo aleatorio."
+        },
+        {
+            "key": "ability.spell_damage2_random.title",
+            "value": "Daño 2 a enemigo aleatorio"
+        },
+        {
+            "key": "ability.spell_destroy_flying.desc",
+            "value": "Destruye a un monstruo volador objetivo."
+        },
+        {
+            "key": "ability.spell_destroy_flying.title",
+            "value": "Destruir vuelo"
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.desc",
+            "value": "Invoca a la mesa un gólem X/X con provocación según el maná que gastes."
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.title",
+            "value": "Generar gólem"
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.desc",
+            "value": "Invoca a la mesa un gólem X/X con provocación según el maná que gastes."
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.title",
+            "value": "Generar gólem"
+        },
+        {
+            "key": "ability.spell_trap_sweep.desc",
+            "value": "Destruye todas las trampas enemigas y gana +2 de ataque y +2 de HP por cada trampa destruida."
+        },
+        {
+            "key": "ability.spell_trap_sweep.title",
+            "value": "Barrido de trampas"
+        },
+        {
+            "key": "ability.survive_damage_add_draw.desc",
+            "value": "Al comienzo de cada turno, roba 1 carta"
+        },
+        {
+            "key": "ability.survive_damage_add_draw.title",
+            "value": "Explorador"
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.desc",
+            "value": "Si este monstruo sobrevive a un ataque, todos los aliados ganan +1 armadura."
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.title",
+            "value": "Soporte de armadura 1"
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.desc",
+            "value": "Inicio de turno, quema a todos los demás monstruos que no sean de fuego en juego."
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.title",
+            "value": "Quemar a todos"
+        },
+        {
+            "key": "ability.turn_end_add_draw.desc",
+            "value": "Al final de cada turno, roba 1 carta"
+        },
+        {
+            "key": "ability.turn_end_add_draw.title",
+            "value": "Explorador II"
+        },
+        {
+            "key": "ability.turn_start_add_draw.desc",
+            "value": "Al comienzo de cada turno, roba 1 carta"
+        },
+        {
+            "key": "ability.turn_start_add_draw.title",
+            "value": "Explorador"
+        },
+        {
+            "key": "status.damagecap.desc",
+            "value": "Recibe un máximo de 2 de daño al atacar o contraatacar."
+        },
+        {
+            "key": "status.damagecap.title",
+            "value": "Límite de Daño"
+        },
+        {
+            "key": "status.endturnbleed.desc",
+            "value": "Al final del turno recibe daño."
+        },
+        {
+            "key": "status.endturnbleed.title",
+            "value": "Sangrado al final del turno"
         }
     ]
 }

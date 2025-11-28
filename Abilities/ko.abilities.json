@@ -2178,7 +2178,7 @@
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "적 생물이 공격한 후, 그 생물을 1턴 동안 감전 마비시킵니다."
+            "value": "적 몬스터가 공격하면 1턴 동안 감전 마비시킵니다."
         },
         {
             "key": "ability.trap_shock_all.title",
@@ -2215,14 +2215,6 @@
         {
             "key": "ability.turn_add_attack2.title",
             "value": "맹렬"
-        },
-        {
-            "key": "ability.turn_add_draw.desc",
-            "value": "각 턴 시작 시 카드 1장 뽑기"
-        },
-        {
-            "key": "ability.turn_add_draw.title",
-            "value": "탐험가"
         },
         {
             "key": "ability.turn_damage_allies1.desc",
@@ -2539,6 +2531,330 @@
         {
             "key": "trait.spell_damage.title",
             "value": "주문 피해"
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.desc",
+            "value": "적 플레이어를 공격한 후, 덱에서 바위 주문 카드를 1장 뽑습니다."
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.title",
+            "value": "바위 보물"
+        },
+        {
+            "key": "ability.aura_add_enrage.desc",
+            "value": "모든 아군 바위 몬스터가 격노 스택을 1개 얻습니다."
+        },
+        {
+            "key": "ability.aura_add_enrage.title",
+            "value": "바위 격노 오라"
+        },
+        {
+            "key": "ability.aura_armor_rock_2.desc",
+            "value": "모든 아군 바위 캐릭터가 +2 방어도를 얻습니다."
+        },
+        {
+            "key": "ability.aura_armor_rock_2.title",
+            "value": "돌 갑옷 2"
+        },
+        {
+            "key": "ability.aura_hp_rock_2.desc",
+            "value": "모든 아군 바위 캐릭터가 +2 HP를 얻습니다."
+        },
+        {
+            "key": "ability.aura_hp_rock_2.title",
+            "value": "돌 동료 2"
+        },
+        {
+            "key": "ability.choice_armor2.desc",
+            "value": "소환 시 +2 방어도를 얻습니다."
+        },
+        {
+            "key": "ability.choice_armor2.title",
+            "value": "선택: 방어도 2"
+        },
+        {
+            "key": "ability.damage_cap.desc",
+            "value": "공격/반격 시 최대 2의 피해만 받습니다."
+        },
+        {
+            "key": "ability.damage_cap.title",
+            "value": "피해 제한"
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.desc",
+            "value": "이 생물이 사망하면 분노 II 카비론을 소환합니다."
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.title",
+            "value": "카비론 복제 소환"
+        },
+        {
+            "key": "ability.enrage.desc",
+            "value": "몬스터가 피해를 받을 때마다 공격력이 +1 증가합니다."
+        },
+        {
+            "key": "ability.enrage.title",
+            "value": "격노"
+        },
+        {
+            "key": "ability.enrage2.desc",
+            "value": "몬스터가 피해를 받을 때마다 공격력이 +2 증가합니다."
+        },
+        {
+            "key": "ability.enrage2.title",
+            "value": "격노 II"
+        },
+        {
+            "key": "ability.enrage3.desc",
+            "value": "몬스터가 피해를 받을 때마다 공격력이 +3 증가합니다."
+        },
+        {
+            "key": "ability.enrage3.title",
+            "value": "격노 III"
+        },
+        {
+            "key": "ability.enrage4.desc",
+            "value": "몬스터가 피해를 받을 때마다 공격력이 +4 증가합니다."
+        },
+        {
+            "key": "ability.enrage4.title",
+            "value": "격노 IV"
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.desc",
+            "value": "지니는 이의 공격력이 현재 체력과 동일해집니다."
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.title",
+            "value": "균형자"
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.desc",
+            "value": "지니는 이의 공격력이 최대 체력과 동일해집니다."
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.title",
+            "value": "균형자"
+        },
+        {
+            "key": "ability.play_add_armor1.desc",
+            "value": "소환 시 방어도를 1 얻습니다."
+        },
+        {
+            "key": "ability.play_add_armor1.title",
+            "value": "시작 방어 1"
+        },
+        {
+            "key": "ability.play_add_armor2.desc",
+            "value": "소환 시 방어도를 2 얻습니다."
+        },
+        {
+            "key": "ability.play_add_armor2.title",
+            "value": "시작 방어 2"
+        },
+        {
+            "key": "ability.play_add_armor3.desc",
+            "value": "소환 시 방어도를 3 얻습니다."
+        },
+        {
+            "key": "ability.play_add_armor3.title",
+            "value": "시작 방어 3"
+        },
+        {
+            "key": "ability.play_burn_all.desc",
+            "value": "소환 시 전장의 다른 모든 몬스터를 화상 입힙니다."
+        },
+        {
+            "key": "ability.play_burn_all.title",
+            "value": "모두 연소"
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.desc",
+            "value": "소환 시 전장의 다른 모든 비화염 몬스터를 화상 입힙니다."
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.title",
+            "value": "모두 연소"
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.desc",
+            "value": "도발 또는 방어도 2를 얻습니다."
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.title",
+            "value": "도발/방어 선택"
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.desc",
+            "value": "보드의 가장 높은 방어도 수치를 복사해 이 몬스터에게 부여합니다."
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.title",
+            "value": "최고 방어 복사"
+        },
+        {
+            "key": "ability.play_copy_sum_board_armor.title",
+            "value": "방어 복사"
+        },
+        {
+            "key": "ability.play_deal_damage1_self.desc",
+            "value": "소환 시 자신에게 1 피해."
+        },
+        {
+            "key": "ability.play_deal_damage1_self.title",
+            "value": "자해"
+        },
+        {
+            "key": "ability.play_heal_all_allies1.desc",
+            "value": "모든 아군 필드 카드의 체력을 1 회복합니다."
+        },
+        {
+            "key": "ability.play_heal_all_allies1.title",
+            "value": "아군 회복"
+        },
+        {
+            "key": "ability.spell_add_cant_attack.desc",
+            "value": "대상을 공격하지 못하게 합니다."
+        },
+        {
+            "key": "ability.spell_add_cant_attack.title",
+            "value": "공격 불가"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.desc",
+            "value": "대상 몬스터는 공격할 수 없고 턴 종료 시 1 피해를 받습니다."
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.title",
+            "value": "돌 무게"
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.desc",
+            "value": "도발을 부여하고 공격을 막습니다."
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.title",
+            "value": "공격 불가 도발"
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.desc",
+            "value": "대상 몬스터는 턴 종료 시 1 피해를 받습니다."
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.title",
+            "value": "출혈"
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.desc",
+            "value": "아군 몬스터 1개에 1 피해를 주고, 그 후 아무 대상에 2 피해를 줍니다."
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.title",
+            "value": "바위 탄환"
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.desc",
+            "value": "아군 몬스터 1개에 1 피해를 주고, 그 후 무작위 적 대상 두 곳에 2 피해를 두 번 줍니다."
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.title",
+            "value": "바위 탄환"
+        },
+        {
+            "key": "ability.spell_damage2_random.desc",
+            "value": "무작위 적에게 2 피해를 줍니다."
+        },
+        {
+            "key": "ability.spell_damage2_random.title",
+            "value": "무작위 적 피해 2"
+        },
+        {
+            "key": "ability.spell_destroy_flying.desc",
+            "value": "비행 몬스터 하나를 파괴합니다."
+        },
+        {
+            "key": "ability.spell_destroy_flying.title",
+            "value": "비행 파괴"
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.desc",
+            "value": "지불한 마나만큼의 공격력/체력을 가진 도발 골렘을 소환합니다."
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.title",
+            "value": "골렘 소환"
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.desc",
+            "value": "지불한 마나만큼의 공격력/체력을 가진 도발 골렘을 소환합니다."
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.title",
+            "value": "골렘 소환"
+        },
+        {
+            "key": "ability.spell_trap_sweep.desc",
+            "value": "모든 적 함정을 파괴하고, 함정마다 +2 공격력과 +2 HP를 얻습니다."
+        },
+        {
+            "key": "ability.spell_trap_sweep.title",
+            "value": "함정 소거"
+        },
+        {
+            "key": "ability.survive_damage_add_draw.desc",
+            "value": "매 턴 시작 시 카드 1장 드로우합니다."
+        },
+        {
+            "key": "ability.survive_damage_add_draw.title",
+            "value": "탐험가"
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.desc",
+            "value": "이 몬스터가 공격을 버티면 모든 아군이 +1 방어도를 얻습니다."
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.title",
+            "value": "생존 방어 지원 1"
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.desc",
+            "value": "턴 시작 시 전장의 다른 모든 비화염 몬스터를 화상 입힙니다."
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.title",
+            "value": "모두 연소"
+        },
+        {
+            "key": "ability.turn_end_add_draw.desc",
+            "value": "턴 종료 시 카드 1장 드로우합니다."
+        },
+        {
+            "key": "ability.turn_end_add_draw.title",
+            "value": "탐험가 II"
+        },
+        {
+            "key": "ability.turn_start_add_draw.desc",
+            "value": "턴 시작 시 카드 1장 드로우합니다."
+        },
+        {
+            "key": "ability.turn_start_add_draw.title",
+            "value": "탐험가"
+        },
+        {
+            "key": "status.damagecap.desc",
+            "value": "공격/반격 시 최대 2 피해만 받습니다."
+        },
+        {
+            "key": "status.damagecap.title",
+            "value": "피해 제한"
+        },
+        {
+            "key": "status.endturnbleed.desc",
+            "value": "턴 종료 시 피해를 받습니다."
+        },
+        {
+            "key": "status.endturnbleed.title",
+            "value": "턴 종료 출혈"
         }
     ]
 }

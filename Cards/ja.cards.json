@@ -6,11 +6,11 @@
         },
         {
             "key": "card.antairy.text",
-            "value": "フューリー"
+            "value": "激昂\n対象の飛行モンスターを破壊する。"
         },
         {
             "key": "card.armoru.text",
-            "value": "各ターン、+1アーマーを獲得。"
+            "value": "激昂\n選択: 挑発または+2アーマー"
         },
         {
             "key": "card.aros.text",
@@ -18,7 +18,7 @@
         },
         {
             "key": "card.astor.text",
-            "value": "<b>キル:</b> カードを1枚引く\n各ターンの開始時にアーマーを1得る。"
+            "value": "シェル\n各ターンの開始時にアーマーを1得る。"
         },
         {
             "key": "card.astroguin.text",
@@ -58,19 +58,23 @@
         },
         {
             "key": "card.buumi.text",
-            "value": "ステルス"
+            "value": "<b>プレイ:</b> 敵のトラップをすべて破壊し、破壊したトラップ1枚につき+2/+2を得る。"
         },
         {
             "key": "card.cabyron.text",
-            "value": "<b>キャスト:</b> プレイ中のすべての味方に+2アーマーを付与。5マナとアクションを使用。"
+            "value": "挑発\n<b>死亡:</b> 激昂IIを持つカビュロンを1体召喚する。"
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "激昂II"
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "<b>キャスト:</b> プレイ中のすべての味方に+2アーマーを付与。5マナとアクションを使用。"
+            "value": "挑発\n<b>死亡:</b> 激昂IIを持つカビュロンを1体召喚する。"
         },
         {
             "key": "card.cabywara.text",
-            "value": "各ターンの開始時にカードを1枚引く。"
+            "value": "1ターンに1回、ダメージを受けて生き残ったときカードを1枚引く。"
         },
         {
             "key": "card.cactoon.text",
@@ -91,6 +95,10 @@
         {
             "key": "card.chewanha.text",
             "value": "<b>キル:</b> 2枚のカードを引く。"
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "シェル\n激昂II"
         },
         {
             "key": "card.clampion.text",
@@ -126,10 +134,6 @@
         },
         {
             "key": "card.devastor.text",
-            "value": "呪文無効／シェル\n<b>プレイ:</b> すべてのモンスターに2ダメージを与える"
-        },
-        {
-            "key": "card.devastor_full.text",
             "value": "呪文無効／シェル\n<b>プレイ:</b> すべてのモンスターに2ダメージを与える"
         },
         {
@@ -209,6 +213,14 @@
             "value": "<b>プレイ:</b> 相手はランダムなカードを捨てる"
         },
         {
+            "key": "card.emberstorm.text",
+            "value": "プレイ時および自分の各ターン開始時に、盤面の他の非火属性モンスターをすべて燃焼させる。"
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "プレイ時および自分の各ターン開始時に、盤面の他の非火属性モンスターをすべて燃焼させる。"
+        },
+        {
             "key": "card.envish.text",
             "value": "<b>プレイ:</b> 攻撃力3以下のモンスターを破壊する。"
         },
@@ -226,7 +238,7 @@
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "攻撃+2\n2回の攻撃で消耗"
+            "value": "装備者の攻撃力は最大HPと同じになる"
         },
         {
             "key": "card.equip_water_ring.text",
@@ -277,6 +289,10 @@
             "value": "相手がスペルを捨てると、手札に0マナのコピーを生成する。"
         },
         {
+            "key": "card.frojesti_full.text",
+            "value": "相手がスペルを捨てると、手札に0マナのコピーを生成する。"
+        },
+        {
             "key": "card.froster.text",
             "value": "ラッシュ\nモンスターが凍結するたびに+1/+1を得る。"
         },
@@ -286,15 +302,11 @@
         },
         {
             "key": "card.galasu_full.text",
-            "value": "スペル無効またはアビリティ無効を得る\n挑発無視"
-        },
-        {
-            "key": "card.galasu_full.text",
             "value": "スペル無効かアビリティ無効を得る\n挑発無視"
         },
         {
             "key": "card.gamud.text",
-            "value": "各ターン開始時に、1枚のカードを引く"
+            "value": "1ターンに1回、ダメージを受けて生き残ったときカードを1枚引く。"
         },
         {
             "key": "card.gargarm.text",
@@ -310,7 +322,7 @@
         },
         {
             "key": "card.gemash.text",
-            "value": "各ターン、+1アーマーを獲得。"
+            "value": "選択: 挑発または+2アーマー"
         },
         {
             "key": "card.gizap.text",
@@ -318,6 +330,10 @@
         },
         {
             "key": "card.gizord.text",
+            "value": "ヘイスト"
+        },
+        {
+            "key": "card.gizord_full.text",
             "value": "ヘイスト"
         },
         {
@@ -338,7 +354,7 @@
         },
         {
             "key": "card.gookie.text",
-            "value": "シェル"
+            "value": "挑発\n<b>プレイ:</b> +1アーマー"
         },
         {
             "key": "card.gorupt.text",
@@ -362,7 +378,7 @@
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>挑発</b>\n<b>各ターン:</b> 最も攻撃力の低いモンスターを倒す。"
+            "value": "<b>挑発</b>\nダメージを受けて生き残ったとき、味方の岩モンスターすべてに+1アーマーを与える。"
         },
         {
             "key": "card.hajiko.text",
@@ -370,7 +386,7 @@
         },
         {
             "key": "card.hammar.text",
-            "value": "フューリー\n各ターン、アーマーを1得る。"
+            "value": "激昂\n<b>プレイ:</b> アーマーを1得る。\n敵プレイヤーを攻撃した後、デッキから岩のスペルカードを1枚引く。"
         },
         {
             "key": "card.hammark.text",
@@ -378,11 +394,11 @@
         },
         {
             "key": "card.hammi.text",
-            "value": "<b>死:</b> カードを1枚引く。"
+            "value": "激昂III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "<b>ターン:</b> カードを1枚引く。"
+            "value": "激昂\n敵プレイヤーを攻撃した後、デッキから岩のスペルカードを1枚引く。"
         },
         {
             "key": "card.hammish.text",
@@ -506,7 +522,7 @@
         },
         {
             "key": "card.lizteel.text",
-            "value": "挑発"
+            "value": "激昂II"
         },
         {
             "key": "card.loneguin.text",
@@ -527,6 +543,10 @@
         {
             "key": "card.lurian.text",
             "value": "<b>プレイ:</b> +2/+2を与える\n<b>プレイ:</b> プレイヤーのHPを4回復する\nフライング"
+        },
+        {
+            "key": "card.lurian_full.text",
+            "value": "<b>プレイ:</b> +2/+2を与える\n<b>プレイ:</b> プレイヤーのHPを4回復\n飛行"
         },
         {
             "key": "card.marshland.text",
@@ -586,7 +606,11 @@
         },
         {
             "key": "card.mountough.text",
-            "value": "余剰ダメージはこのモンスターのHPを差分だけ回復する"
+            "value": "<b>プレイ:</b> 3アーマーを得る。\nターン終了時にカードを1枚引く。"
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>プレイ:</b> 3アーマーを得る。\nターン終了時にカードを1枚引く。"
         },
         {
             "key": "card.muni.text",
@@ -598,7 +622,7 @@
         },
         {
             "key": "card.nadzu.text",
-            "value": "フューリー"
+            "value": "狂戦士\n激昂"
         },
         {
             "key": "card.nhomnhom.text",
@@ -606,11 +630,11 @@
         },
         {
             "key": "card.nobu.text",
-            "value": "プレイ時、次の自分のターンまで別のモンスターにHP+2を与える。"
+            "value": "挑発\n1回の攻撃/反撃で受けるダメージは最大2。"
         },
         {
             "key": "card.nophulos.text",
-            "value": "フューリー"
+            "value": "狂戦士 / ラッシュ\n激昂"
         },
         {
             "key": "card.numind.text",
@@ -622,7 +646,7 @@
         },
         {
             "key": "card.operant.text",
-            "value": "<b>プレイ:</b> 1ダメージを与える。"
+            "value": "激昂\n<b>プレイ:</b> 盤面のカード1枚に1ダメージを与える。\n"
         },
         {
             "key": "card.ophala.text",
@@ -630,6 +654,10 @@
         },
         {
             "key": "card.ophalant.text",
+            "value": "相手のターン中に+3攻撃。\n 挑発 / シェル"
+        },
+        {
+            "key": "card.ophalant_full.text",
             "value": "相手のターン中に+3攻撃。\n 挑発 / シェル"
         },
         {
@@ -686,7 +714,7 @@
         },
         {
             "key": "card.picko.text",
-            "value": "<b>プレイ:</b> 1ダメージを与える。"
+            "value": "激昂\n<b>プレイ:</b> 自身に1ダメージを与え、その後任意の対象モンスターに1ダメージ。"
         },
         {
             "key": "card.plant_token.text",
@@ -694,7 +722,7 @@
         },
         {
             "key": "card.plator.text",
-            "value": "このモンスターで別のモンスターを倒すたびカードを2枚引く。"
+            "value": "シェル\n各ターンの開始時にアーマーを1得る。"
         },
         {
             "key": "card.polip.text",
@@ -722,7 +750,7 @@
         },
         {
             "key": "card.potion_rock.text",
-            "value": "対象はアーマー2を得て、モンスターからの直接ダメージを2軽減する。"
+            "value": "対象は挑発を得て、攻撃できなくなる。"
         },
         {
             "key": "card.potion_shadow.text",
@@ -777,6 +805,10 @@
             "value": "岩モンスター全員が「1ダメージを受けて攻撃力+1を得る」を得る。使用ごとに1マナ。"
         },
         {
+            "key": "card.rock_golem_spawn.text",
+            "value": "挑発"
+        },
+        {
             "key": "card.rock_token.text",
             "value": "ロックトークンを任意のロックカードと交換する"
         },
@@ -794,7 +826,7 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "各ターン、+1アーマーを獲得。"
+            "value": "<b>プレイ:</b> 2アーマーを得る。"
         },
         {
             "key": "card.scarles.text",
@@ -814,7 +846,11 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "フューリー／ラッシュ／フライング\n<b>攻撃:</b> 対象を凍結し、反撃ダメージを受けない。"
+            "value": "狂戦士 / ラッシュ\n<b>攻撃:</b> 対象を凍結させ、反撃ダメージを受けない。"
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "狂戦士 / ラッシュ\n<b>攻撃:</b> 対象を凍結させ、反撃ダメージを受けない。"
         },
         {
             "key": "card.skipo.text",
@@ -886,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "3ダメージを与える。\nカードを1枚引く。"
+            "value": "味方モンスター1体に1ダメージを与え、その後ランダムな対象に2ダメージを2回与える。"
         },
         {
             "key": "card.spell_flood.text",
@@ -898,7 +934,7 @@
         },
         {
             "key": "card.spell_hammi_strike.text",
-            "value": "手札に3体のハミを召喚。"
+            "value": "任意の対象に3ダメージを与える"
         },
         {
             "key": "card.spell_ice_storm.text",
@@ -942,15 +978,15 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "盤面上のすべてのカードを破壊する"
+            "value": "支払ったマナに応じた攻撃力X/HPXの挑発持ち岩ゴーレムを召喚する。"
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "プレイ中のすべてのロケーションを破壊。"
+            "value": "味方モンスター1体に1ダメージを与え、その後任意の対象に2ダメージを与える。"
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "対象はシェルを獲得、次のヒットでダメージを無視。"
+            "value": "対象モンスターは+2アーマーを得る。"
         },
         {
             "key": "card.spell_roots.text",
@@ -970,7 +1006,7 @@
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "対象モンスターは「攻撃する前に3ダメージを受ける」を得る。"
+            "value": "対象モンスターは攻撃できず、自分のターン終了時に1ダメージを受ける。"
         },
         {
             "key": "card.spell_stones.text",
@@ -1034,7 +1070,7 @@
         },
         {
             "key": "card.tectan.text",
-            "value": "味方の岩モンスターすべてがHP+1。\n挑発"
+            "value": "味方の岩モンスターすべてが+2アーマーを得る"
         },
         {
             "key": "card.tempish.text",
@@ -1046,11 +1082,11 @@
         },
         {
             "key": "card.tensei.text",
-            "value": "フューリー"
+            "value": "挑発\n<b>プレイ:</b> +1アーマー"
         },
         {
             "key": "card.terrastrus.text",
-            "value": "<b>プレイ:</b> プレイ中の他のすべてのカードに1ダメージ。"
+            "value": "激昂\n<b>プレイ:</b> プレイ中の他のカードすべてに1ダメージを与え、その後味方のカードをすべて1回復する。"
         },
         {
             "key": "card.town_darkwoods_shadow.text",
@@ -1066,7 +1102,7 @@
         },
         {
             "key": "card.town_rock.text",
-            "value": "味方の岩モンスターすべてがHP+2を得る。"
+            "value": "味方の岩モンスター全てが激昂スタックを1得る。"
         },
         {
             "key": "card.town_volcano.text",
@@ -1130,10 +1166,14 @@
         },
         {
             "key": "card.urogorth.text",
-            "value": "挑発"
+            "value": "挑発\n<b>プレイ:</b> +2アーマー"
         },
         {
             "key": "card.venorus.text",
+            "value": "<b>プレイ:</b> 場のすべての敵を毒にする。"
+        },
+        {
+            "key": "card.venorus_full.text",
             "value": "<b>プレイ:</b> 場のすべての敵を毒にする。"
         },
         {
@@ -1201,6 +1241,14 @@
             "value": "<b>プレイ:</b> 挑発またはフューリーを獲得"
         },
         {
+            "key": "card.worpi.text",
+            "value": "<b>プレイ:</b> 盤面の中で最も高いアーマー値をこのモンスターに適用する。"
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>プレイ:</b> 盤面の中で最も高いアーマー値をこのモンスターに適用する。"
+        },
+        {
             "key": "card.woshi.text",
             "value": "攻撃すると、1マナを獲得。"
         },
@@ -1222,6 +1270,10 @@
         },
         {
             "key": "card.zargon.text",
+            "value": "アビリティ無効\n 再生\n<b>プレイ:</b> 捨て札からカードを手札に加える。"
+        },
+        {
+            "key": "card.zargon_full.text",
             "value": "アビリティ無効\n 再生\n<b>プレイ:</b> 捨て札からカードを手札に加える。"
         },
         {

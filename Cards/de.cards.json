@@ -6,11 +6,11 @@
         },
         {
             "key": "card.antairy.text",
-            "value": "Wut"
+            "value": "Raserei\nZerstöre ein fliegendes Zielmonster."
         },
         {
             "key": "card.armoru.text",
-            "value": "Jeden Zug +1 Rüstung gewinnen."
+            "value": "Raserei\nAuswahl: Spott oder +2 Rüstung"
         },
         {
             "key": "card.aros.text",
@@ -18,7 +18,7 @@
         },
         {
             "key": "card.astor.text",
-            "value": "<b>Töten:</b> Eine Karte ziehen\nZu Beginn jedes Zuges 1 Rüstung erhalten."
+            "value": "Schild\nZu Beginn jedes Zuges erhältst du 1 Rüstung."
         },
         {
             "key": "card.astroguin.text",
@@ -58,19 +58,23 @@
         },
         {
             "key": "card.buumi.text",
-            "value": "Tarnung"
+            "value": "<b>Ausspielen:</b> Zerstöre alle gegnerischen Fallen und erhalte +2/+2 für jede zerstörte Falle."
         },
         {
             "key": "card.cabyron.text",
-            "value": "<b>Wirken:</b> +2 Rüstung an alle Verbündeten im Spiel verleihen. Kostet 5 Mana und verwendet Aktion."
+            "value": "Spott\n<b>Tod:</b> Beschwöre einen Cabyron mit Raserei II."
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "Raserei II"
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "<b>Wirken:</b> +2 Rüstung an alle Verbündeten im Spiel verleihen. Kostet 5 Mana und verwendet Aktion."
+            "value": "Spott\n<b>Tod:</b> Beschwöre einen Cabyron mit Raserei II."
         },
         {
             "key": "card.cabywara.text",
-            "value": "Zu Beginn jedes Zuges eine Karte ziehen"
+            "value": "Einmal pro Zug: Wenn du Schaden erleidest und überlebst, ziehe eine Karte."
         },
         {
             "key": "card.cactoon.text",
@@ -91,6 +95,10 @@
         {
             "key": "card.chewanha.text",
             "value": "<b>Töten:</b> Zwei Karten ziehen."
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "Schild\nRaserei II"
         },
         {
             "key": "card.clampion.text",
@@ -205,6 +213,14 @@
             "value": "<b>Spielen:</b> Gegner wirft eine zufällige Karte weg"
         },
         {
+            "key": "card.emberstorm.text",
+            "value": "Beim Ausspielen und zu Beginn jedes deiner Züge werden alle anderen Nicht-Feuer-Monster auf dem Brett verbrannt."
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "Beim Ausspielen und zu Beginn jedes deiner Züge werden alle anderen Nicht-Feuer-Monster auf dem Brett verbrannt."
+        },
+        {
             "key": "card.envish.text",
             "value": "<b>Spielen:</b> Ein Monster mit 3 oder weniger Angriff zerstören."
         },
@@ -222,7 +238,7 @@
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "Angriff +2\n Hält zwei Angriffe"
+            "value": "Der Angriff des Trägers entspricht seinen maximalen LP."
         },
         {
             "key": "card.equip_water_ring.text",
@@ -273,6 +289,10 @@
             "value": "Wenn der Gegner einen Zauber verwirft, erstellen Sie eine Kopie mit 0 Mana-Kosten in Ihrer Hand.\n "
         },
         {
+            "key": "card.frojesti_full.text",
+            "value": "Wenn der Gegner einen Zauber abwirft, erstelle eine Null-Mana-Kopie in deiner Hand.\n"
+        },
+        {
             "key": "card.froster.text",
             "value": "Sturmangriff\nErhält +1/+1, wenn ein Monster eingefroren wird."
         },
@@ -286,7 +306,7 @@
         },
         {
             "key": "card.gamud.text",
-            "value": "Zu Beginn jedes Zuges eine Karte ziehen"
+            "value": "Einmal pro Zug: Wenn du Schaden erleidest und überlebst, ziehe eine Karte."
         },
         {
             "key": "card.gargarm.text",
@@ -302,7 +322,7 @@
         },
         {
             "key": "card.gemash.text",
-            "value": "Jeden Zug +1 Rüstung gewinnen."
+            "value": "Auswahl: Spott oder +2 Rüstung"
         },
         {
             "key": "card.gizap.text",
@@ -310,6 +330,10 @@
         },
         {
             "key": "card.gizord.text",
+            "value": "Eile"
+        },
+        {
+            "key": "card.gizord_full.text",
             "value": "Eile"
         },
         {
@@ -330,7 +354,7 @@
         },
         {
             "key": "card.gookie.text",
-            "value": "Schale"
+            "value": "Spott\n<b>Ausspielen:</b> +1 Rüstung"
         },
         {
             "key": "card.gorupt.text",
@@ -354,7 +378,7 @@
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Spott</b>\n<b>Jeden Zug:</b> Monster mit dem niedrigsten Angriff töten."
+            "value": "<b>Spott</b>\nÜberlebt diese Kreatur Schaden, erhalten alle verbündeten Steinmonster +1 Rüstung."
         },
         {
             "key": "card.hajiko.text",
@@ -362,7 +386,7 @@
         },
         {
             "key": "card.hammar.text",
-            "value": "Wut\n Jeden Zug +1 Rüstung gewinnen."
+            "value": "Raserei\n<b>Ausspielen:</b> Erhalte 1 Rüstung.\nNach einem Angriff auf den gegnerischen Spieler ziehst du eine Felszauber-Karte aus deinem Deck."
         },
         {
             "key": "card.hammark.text",
@@ -370,11 +394,11 @@
         },
         {
             "key": "card.hammi.text",
-            "value": "<b>Tod:</b> Eine Karte ziehen."
+            "value": "Raserei III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "<b>Zug:</b> Eine Karte ziehen."
+            "value": "Raserei\nNach einem Angriff auf den gegnerischen Spieler ziehst du eine Felszauber-Karte aus deinem Deck."
         },
         {
             "key": "card.hammish.text",
@@ -498,7 +522,7 @@
         },
         {
             "key": "card.lizteel.text",
-            "value": "Spott"
+            "value": "Raserei II"
         },
         {
             "key": "card.loneguin.text",
@@ -519,6 +543,10 @@
         {
             "key": "card.lurian.text",
             "value": "<b>Spielen:</b> +2/+2 geben\n<b>Spielen:</b> Heilen Sie den Spieler um 4 LP\nFliegen"
+        },
+        {
+            "key": "card.lurian_full.text",
+            "value": "<b>Ausspielen:</b> Gib +2/+2\n<b>Ausspielen:</b> Heile den Spieler um 4 LP\nFliegend"
         },
         {
             "key": "card.marshland.text",
@@ -578,7 +606,11 @@
         },
         {
             "key": "card.mountough.text",
-            "value": "Überschüssiger Schaden heilt die LP dieses Monsters um die Differenz"
+            "value": "<b>Ausspielen:</b> Erhalte 3 Rüstung.\nAm Ende deines Zuges ziehst du eine Karte."
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>Ausspielen:</b> Erhalte 3 Rüstung.\nAm Ende deines Zuges ziehst du eine Karte."
         },
         {
             "key": "card.muni.text",
@@ -590,7 +622,7 @@
         },
         {
             "key": "card.nadzu.text",
-            "value": "Wut"
+            "value": "Wut\nRaserei"
         },
         {
             "key": "card.nhomnhom.text",
@@ -598,11 +630,11 @@
         },
         {
             "key": "card.nobu.text",
-            "value": "Beim Ausspielen erhält ein anderes Monster bis zu Ihrem nächsten Zug +2 LP."
+            "value": "Spott\nErleidet höchstens 2 Schaden pro Angriff/Gegenangriff."
         },
         {
             "key": "card.nophulos.text",
-            "value": "Wut"
+            "value": "Wut / Eile\nRaserei"
         },
         {
             "key": "card.numind.text",
@@ -614,7 +646,7 @@
         },
         {
             "key": "card.operant.text",
-            "value": "<b>Spielen:</b> 1 Schaden zufügen."
+            "value": "Raserei\n<b>Ausspielen:</b> Füge einer Karte auf dem Brett 1 Schaden zu.\n"
         },
         {
             "key": "card.ophala.text",
@@ -623,6 +655,10 @@
         {
             "key": "card.ophalant.text",
             "value": "Hat +3 Angriff während des Zuges des Gegners.\n Spott / Schale"
+        },
+        {
+            "key": "card.ophalant_full.text",
+            "value": "Hat während des gegnerischen Zuges +3 Angriff.\nSpott / Schild"
         },
         {
             "key": "card.oritoro.text",
@@ -678,7 +714,7 @@
         },
         {
             "key": "card.picko.text",
-            "value": "<b>Spielen:</b> 1 Schaden zufügen."
+            "value": "Raserei\n<b>Ausspielen:</b> Füge dir selbst 1 Schaden zu und dann einem beliebigen gegnerischen Monster 1 Schaden."
         },
         {
             "key": "card.plant_token.text",
@@ -686,7 +722,7 @@
         },
         {
             "key": "card.plator.text",
-            "value": "Wenn Sie mit diesem Monster ein anderes Monster töten, ziehen Sie 2 Karten."
+            "value": "Schild\nZu Beginn jedes Zuges erhältst du 1 Rüstung. "
         },
         {
             "key": "card.polip.text",
@@ -714,7 +750,7 @@
         },
         {
             "key": "card.potion_rock.text",
-            "value": "Das Ziel erhält Rüstung 2 und reduziert direkten Schaden durch Monster um 2."
+            "value": "Das Ziel erhält Spott, kann aber nicht angreifen."
         },
         {
             "key": "card.potion_shadow.text",
@@ -769,6 +805,10 @@
             "value": "Alle Stein-Monster erhalten: „Erleide 1 Schaden, um +1 Angriff zu erhalten“. 1 Mana pro Einsatz."
         },
         {
+            "key": "card.rock_golem_spawn.text",
+            "value": "Spott"
+        },
+        {
             "key": "card.rock_token.text",
             "value": "Tausche Fels-Token gegen eine beliebige Fels-Karte ein"
         },
@@ -786,7 +826,7 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "Jeden Zug +1 Rüstung gewinnen."
+            "value": "<b>Ausspielen:</b> Erhalte 2 Rüstung. "
         },
         {
             "key": "card.scarles.text",
@@ -806,7 +846,11 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "Wut / Sturmangriff / Fliegen\n<b>Angriff:</b> Das Ziel einfrieren und keinen Gegenschaden erleiden."
+            "value": "Wut / Eile\n<b>Angriff:</b> Friere das Ziel ein und erhalte keinen Gegenschaden."
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "Wut / Eile\n<b>Angriff:</b> Friere das Ziel ein und erhalte keinen Gegenschaden."
         },
         {
             "key": "card.skipo.text",
@@ -878,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "3 Schaden zufügen.\n Eine Karte ziehen."
+            "value": "Füge einem verbündeten Monster 1 Schaden zu, füge dann zweimal einem zufälligen Ziel 2 Schaden zu. "
         },
         {
             "key": "card.spell_flood.text",
@@ -890,7 +934,7 @@
         },
         {
             "key": "card.spell_hammi_strike.text",
-            "value": "3 Hammi in Ihrer Hand beschwören."
+            "value": "Füge einem beliebigen Ziel 3 Schaden zu"
         },
         {
             "key": "card.spell_ice_storm.text",
@@ -934,15 +978,15 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Zerstöre alle Karten auf dem Spielfeld"
+            "value": "Beschwöre einen Felsgolem mit Spott sowie X Angriff und X LP basierend auf dem ausgegebenen Mana. "
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "Alle Orte im Spiel zerstören. "
+            "value": "Füge einem verbündeten Monster 1 Schaden zu, füge dann einem beliebigen Ziel 2 Schaden zu."
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "Das Ziel gewinnt Schale und ignoriert den nächsten Treffer."
+            "value": "Das Zielmonster erhält +2 Rüstung."
         },
         {
             "key": "card.spell_roots.text",
@@ -962,7 +1006,7 @@
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "Zielmonster erhält „Erleidet 3 Schaden, bevor es angreift.“"
+            "value": "Das Zielmonster kann nicht angreifen und erleidet am Ende seines Zuges 1 Schaden."
         },
         {
             "key": "card.spell_stones.text",
@@ -1026,7 +1070,7 @@
         },
         {
             "key": "card.tectan.text",
-            "value": "Alle verbündeten Stein-Monster haben +1 LP.\nSpott"
+            "value": "Alle verbündeten Steinmonster haben +2 Rüstung"
         },
         {
             "key": "card.tempish.text",
@@ -1038,11 +1082,11 @@
         },
         {
             "key": "card.tensei.text",
-            "value": "Wut"
+            "value": "Spott\n<b>Ausspielen:</b> +1 Rüstung"
         },
         {
             "key": "card.terrastrus.text",
-            "value": "<b>Spielen:</b> 1 Schaden an alle anderen Karten im Spiel zufügen."
+            "value": "Raserei\n<b>Ausspielen:</b> Füge allen anderen Karten im Spiel 1 Schaden zu und heile dann alle verbündeten Karten um 1 LP."
         },
         {
             "key": "card.town_darkwoods_shadow.text",
@@ -1058,7 +1102,7 @@
         },
         {
             "key": "card.town_rock.text",
-            "value": "Alle verbündeten Stein-Monster haben +2 LP."
+            "value": "Alle verbündeten Steinmonster erhalten einen Raserei-Stapel."
         },
         {
             "key": "card.town_volcano.text",
@@ -1122,11 +1166,15 @@
         },
         {
             "key": "card.urogorth.text",
-            "value": "Spott"
+            "value": "Spott\n<b>Ausspielen:</b> +2 Rüstung"
         },
         {
             "key": "card.venorus.text",
             "value": "<b>Spielen:</b> Alle feindlichen Karten im Spiel vergiften."
+        },
+        {
+            "key": "card.venorus_full.text",
+            "value": "Beim Ausspielen werden alle gegnerischen Charaktere vergiftet."
         },
         {
             "key": "card.vertron.text",
@@ -1193,6 +1241,14 @@
             "value": "<b>Spielen:</b> Spott oder Wut gewinnen"
         },
         {
+            "key": "card.worpi.text",
+            "value": "<b>Ausspielen:</b> Übernimm den höchsten Rüstungswert auf dem Brett und wende ihn auf dieses Monster an."
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>Ausspielen:</b> Übernimm den höchsten Rüstungswert auf dem Brett und wende ihn auf dieses Monster an."
+        },
+        {
             "key": "card.woshi.text",
             "value": "Beim Angreifen 1 Mana erhalten."
         },
@@ -1215,6 +1271,10 @@
         {
             "key": "card.zargon.text",
             "value": "Fähigkeitsimmunität\n Regeneration\n<b>Spielen:</b> Eine Karte aus dem Ablagestapel auf die Hand nehmen."
+        },
+        {
+            "key": "card.zargon_full.text",
+            "value": "Fähigkeitsimmunität\nRegeneration\n<b>Ausspielen: </b> Füge deiner Hand eine Karte aus dem Ablagestapel hinzu."
         },
         {
             "key": "card.zarpas.text",
