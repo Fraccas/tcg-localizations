@@ -2,15 +2,15 @@
     "entries": [
         {
             "key": "ability.ability_immunity.desc",
-            "value": "Tidak dapat menjadi target oleh kemampuan kartu karakter"
+            "value": "Tidak dapat menjadi target kemampuan kartu monster"
         },
         {
             "key": "ability.ability_immunity.title",
-            "value": "Imunitas Kemampuan"
+            "value": "Kebal terhadap Kemampuan"
         },
         {
             "key": "ability.ability_swap_characters_3ml.desc",
-            "value": "Gantikan karakter ini dengan karakter di papan musuh yang berbiaya 3 mana atau kurang."
+            "value": "Ganti monster ini dengan monster di papan lawan yang memiliki biaya mana 3 atau kurang."
         },
         {
             "key": "ability.ability_swap_characters_3ml.title",
@@ -18,7 +18,7 @@
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "Gantikan karakter ini dengan karakter di papan musuh yang berbiaya 4 mana."
+            "value": "Ganti monster ini dengan monster di papan lawan yang memiliki biaya mana 4."
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
@@ -26,7 +26,7 @@
         },
         {
             "key": "ability.ability_swap_characters_7ml.desc",
-            "value": "Gantikan karakter ini dengan karakter di papan musuh yang berbiaya 7 mana atau kurang."
+            "value": "Ganti karakter ini dengan monster di papan lawan yang memiliki biaya mana 7 atau kurang."
         },
         {
             "key": "ability.ability_swap_characters_7ml.title",
@@ -34,23 +34,23 @@
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "Semua makhluk sekutu mendapatkan +2 zirah. Menggunakan aksi makhluk ini dan berbiaya 5 mana."
+            "value": "Semua monster sekutu mendapatkan +2 perisai. Menggunakan aksi monster ini dan biaya 5 mana."
         },
         {
             "key": "ability.activate_armor2.title",
-            "value": "Dukungan Zirah"
+            "value": "Dukungan Perisai"
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "Semua makhluk sekutu mendapatkan +1 serangan hingga akhir giliran. Menggunakan aksi makhluk ini."
+            "value": "Semua monster sekutu mendapatkan +1 serangan hingga akhir giliran. Menggunakan aksi monster ini."
         },
         {
             "key": "ability.activate_boost1.title",
-            "value": "Raungan"
+            "value": "Raung"
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "Semua makhluk sekutu mendapatkan +3 serangan hingga akhir giliran. Menggunakan aksi makhluk ini."
+            "value": "Semua monster sekutu mendapatkan +3 serangan hingga akhir giliran. Menggunakan aksi monster ini."
         },
         {
             "key": "ability.activate_boost3.title",
@@ -62,7 +62,7 @@
         },
         {
             "key": "ability.activate_burst.title",
-            "value": "Letupan"
+            "value": "Ledakan"
         },
         {
             "key": "ability.activate_damage2.desc",
@@ -70,11 +70,11 @@
         },
         {
             "key": "ability.activate_damage2.title",
-            "value": "Serangan Ekstra"
+            "value": "Serangan Tambahan"
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "Lawan membuang kartu acak dari tangannya. Menggunakan aksi makhluk ini."
+            "value": "Lawan membuang kartu acak dari tangan mereka. Menggunakan aksi monster ini."
         },
         {
             "key": "ability.activate_discard.title",
@@ -82,7 +82,7 @@
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "Lawan membuang kartu acak dari tangannya. Menggunakan aksi makhluk ini."
+            "value": "Lawan membuang kartu acak dari tangan mereka. Menggunakan aksi monster ini."
         },
         {
             "key": "ability.activate_discard_random_3l.title",
@@ -90,7 +90,7 @@
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "Target mendapatkan haste (harus monster listrik)"
+            "value": "Target mendapatkan kecepatan (harus monster listrik)"
         },
         {
             "key": "ability.activate_electric.title",
@@ -106,11 +106,11 @@
         },
         {
             "key": "ability.activate_heal_player3.desc",
-            "value": "Sembuhkan pemain sebesar 3 HP."
+            "value": "Sembuhkan Pemain sebanyak 3 HP."
         },
         {
             "key": "ability.activate_heal_player3.title",
-            "value": "Penyembuhan Diri"
+            "value": "Sembuh Diri"
         },
         {
             "key": "ability.activate_ice.desc",
@@ -118,11 +118,11 @@
         },
         {
             "key": "ability.activate_ice.title",
-            "value": "Beku"
+            "value": "Bekukan"
         },
         {
             "key": "ability.activate_plant.desc",
-            "value": "Pulihkan 2 HP."
+            "value": "Sembuhkan 2 HP."
         },
         {
             "key": "ability.activate_plant.title",
@@ -130,7 +130,7 @@
         },
         {
             "key": "ability.activate_psychic.desc",
-            "value": "Lawan membuang kartu acak dari tangannya."
+            "value": "Lawan membuang kartu acak dari tangan mereka."
         },
         {
             "key": "ability.activate_psychic.title",
@@ -138,7 +138,7 @@
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "Karakter target mendapatkan +1 Zirah"
+            "value": "Monster target mendapatkan +1 Perisai"
         },
         {
             "key": "ability.activate_rock.title",
@@ -154,31 +154,31 @@
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "Pilih karakter dan lempar D6, pada hasil 4+ kembalikan ke tangan pemiliknya. Biaya 2 mana."
+            "value": "Pilih monster dan lempar D6, pada 4+ kembalikan ke tangan pemiliknya. Biaya 2 mana."
         },
         {
             "key": "ability.activate_roll_send_hand.title",
-            "value": "Serbuan"
+            "value": "Muatan"
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "Kembalikan mantra dari kuburanmu ke tanganmu. Biaya 2 mana."
+            "value": "Kembalikan mantra dari pekuburan ke tangan Anda. Biaya 2 mana."
         },
         {
             "key": "ability.activate_select_discard_spell.title",
-            "value": "Fokus Magis"
+            "value": "Fokus Sihir"
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "Kembalikan karakter ke tangan pemiliknya. Menggunakan aksi makhluk ini."
+            "value": "Kembalikan monster ke tangan pemiliknya. Menggunakan aksi monster ini."
         },
         {
             "key": "ability.activate_send_hand.title",
-            "value": "Kembalikan"
+            "value": "Pantul"
         },
         {
             "key": "ability.activate_shadow.desc",
-            "value": "Target menjadi Terkutuk"
+            "value": "Target menjadi Ter kutuk"
         },
         {
             "key": "ability.activate_shadow.title",
@@ -186,15 +186,15 @@
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "Saat dimainkan, pilih karakter target untuk bertukar sisi"
+            "value": "Saat dimainkan, pilih monster target untuk tukar sisi"
         },
         {
             "key": "ability.activate_switch_sides.title",
-            "value": "Pertukaran Loyalitas"
+            "value": "Tukar Kesetiaan"
         },
         {
             "key": "ability.activate_water.desc",
-            "value": "Tarik sebuah kartu."
+            "value": "Ambil kartu."
         },
         {
             "key": "ability.activate_water.title",
@@ -210,7 +210,7 @@
         },
         {
             "key": "ability.add_hp_location.desc",
-            "value": "Dapatkan +2 HP untuk setiap lokasi sekutu dengan elemen yang sama di permainan."
+            "value": "Dapatkan +2 HP untuk setiap lokasi sekutu dari jenis elemen yang sama yang dimainkan."
         },
         {
             "key": "ability.add_hp_location.title",
@@ -218,7 +218,7 @@
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Dapat +1 HP dan +1 Serangan untuk setiap lokasi sekutu dengan tipe elemen yang sama di medan."
+            "value": "Dapatkan +1 HP dan +1 Serangan untuk setiap lokasi sekutu dari jenis elemen yang sama yang dimainkan."
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
@@ -226,7 +226,7 @@
         },
         {
             "key": "ability.add_spell_damage1.desc",
-            "value": "Semua mantra dan kemampuanmu memberikan +1 kerusakan."
+            "value": "Semua mantra dan kemampuan Anda memberikan +1 kerusakan."
         },
         {
             "key": "ability.add_spell_damage1.title",
@@ -234,7 +234,7 @@
         },
         {
             "key": "ability.add_spell_damage2.desc",
-            "value": "Semua mantra dan kemampuanmu memberikan +2 kerusakan."
+            "value": "Semua mantra dan kemampuan Anda memberikan +2 kerusakan."
         },
         {
             "key": "ability.add_spell_damage2.title",
@@ -242,7 +242,7 @@
         },
         {
             "key": "ability.add_spell_damage4.desc",
-            "value": "Semua mantra dan kemampuanmu memberikan +4 kerusakan."
+            "value": "Semua mantra dan kemampuan Anda memberikan +4 kerusakan."
         },
         {
             "key": "ability.add_spell_damage4.title",
@@ -258,7 +258,7 @@
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "Karakter yang diserang terbakar. Mereka kehilangan 2 HP setiap giliran."
+            "value": "Monster yang diserang terbakar. Mereka kehilangan 2 HP setiap giliran."
         },
         {
             "key": "ability.attack_burned.title",
@@ -266,27 +266,27 @@
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "Karakter yang diserang terkena kutuk. Mereka kehilangan 1 serangan setiap giliran."
+            "value": "Monster yang diserang mendapatkan kutukan. Mereka kehilangan 1 serangan setiap giliran."
         },
         {
             "key": "ability.attack_curse.title",
-            "value": "Kutuk"
+            "value": "Kutukan"
         },
         {
             "key": "ability.attack_freeze.desc",
-            "value": "Karakter yang diserang jadi beku."
+            "value": "Monster yang diserang menjadi beku."
         },
         {
             "key": "ability.attack_freeze.title",
-            "value": "Beku"
+            "value": "Bekukan"
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "Melindungi serangan karakter agar tidak berkurang."
+            "value": "Melindungi serangan monster dari pengurangan."
         },
         {
             "key": "ability.attack_loss_immunity.title",
-            "value": "Kebal Kehilangan Serangan"
+            "value": "Kebal terhadap Kehilangan Serangan"
         },
         {
             "key": "ability.attack_mana1.desc",
@@ -294,7 +294,7 @@
         },
         {
             "key": "ability.attack_mana1.title",
-            "value": "Jarahan"
+            "value": "Pembakaran"
         },
         {
             "key": "ability.attack_mana2.desc",
@@ -302,7 +302,15 @@
         },
         {
             "key": "ability.attack_mana2.title",
-            "value": "Jarahan"
+            "value": "Pembakaran"
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.desc",
+            "value": "Setelah menyerang pemain musuh, ambil kartu mantra batu dari dek Anda"
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.title",
+            "value": "Harta Batu"
         },
         {
             "key": "ability.attack_player_mana1.desc",
@@ -310,7 +318,7 @@
         },
         {
             "key": "ability.attack_player_mana1.title",
-            "value": "Jarahan"
+            "value": "Pembakaran"
         },
         {
             "key": "ability.attack_player_mana2.desc",
@@ -318,7 +326,7 @@
         },
         {
             "key": "ability.attack_player_mana2.title",
-            "value": "Jarahan"
+            "value": "Pembakaran"
         },
         {
             "key": "ability.attack_player_mana3.desc",
@@ -326,11 +334,11 @@
         },
         {
             "key": "ability.attack_player_mana3.title",
-            "value": "Jarahan"
+            "value": "Pembakaran"
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "Karakter yang diserang terkena racun. Mereka kehilangan 1 HP setiap giliran."
+            "value": "Monster yang diserang mendapatkan racun. Mereka kehilangan 1 HP setiap giliran."
         },
         {
             "key": "ability.attack_poison.title",
@@ -338,7 +346,7 @@
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "Sebelum menyerang, lempar D6, pada hasil 4+ dapatkan +3 serangan."
+            "value": "Sebelum menyerang, lempar D6, pada 4+ dapatkan +3 serangan."
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.title",
@@ -346,7 +354,7 @@
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "Sebelum menyerang, lempar D6, pada hasil 4+ dapatkan +3 serangan hingga akhir giliran."
+            "value": "Sebelum menyerang, lempar D6, pada 4+ dapatkan +3 serangan hingga akhir giliran."
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
@@ -354,7 +362,7 @@
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "Sebelum menyerang, lempar D6, pada hasil 4+ dapatkan +6 serangan hingga akhir giliran."
+            "value": "Sebelum menyerang, lempar D6, pada 4+ dapatkan +6 serangan hingga akhir giliran."
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
@@ -366,39 +374,55 @@
         },
         {
             "key": "ability.attack_suffer_damage.title",
-            "value": "Retakan Tanah"
+            "value": "Pecah Tanah"
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "Semua makhluk Api sekutu mendapatkan: \"Terima 1 kerusakan untuk mendapatkan +1 serangan\"."
+            "value": "Semua monster Api sekutu mendapatkan: \"Terima 1 kerusakan untuk mendapatkan +1 serangan\"."
         },
         {
             "key": "ability.aura_ability_red.title",
-            "value": "Letupan Api"
+            "value": "Ledakan Api"
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "Semua makhluk Batu sekutu mendapatkan: \"Terima 1 kerusakan untuk mendapatkan +1 serangan\"."
+            "value": "Semua monster Batu sekutu mendapatkan: \"Terima 1 kerusakan untuk mendapatkan +1 serangan\"."
         },
         {
             "key": "ability.aura_ability_rock.title",
-            "value": "Letupan Batu"
+            "value": "Ledakan Batu"
+        },
+        {
+            "key": "ability.aura_add_enrage.desc",
+            "value": "Semua monster batu sekutu mendapatkan tumpukan Kemarahan."
+        },
+        {
+            "key": "ability.aura_add_enrage.title",
+            "value": "Aura Kemarahan Batu"
+        },
+        {
+            "key": "ability.aura_armor_rock_2.desc",
+            "value": "Semua monster batu sekutu memiliki +2 Perisai."
+        },
+        {
+            "key": "ability.aura_armor_rock_2.title",
+            "value": "Perisai Batu 2"
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "Semua karakter musuh memiliki -1 serangan."
+            "value": "Semua monster musuh memiliki -1 serangan."
         },
         {
             "key": "ability.aura_attack_m1.title",
-            "value": "Rasa Takut"
+            "value": "Ketakutan"
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "Semua karakter musuh memiliki -2 serangan."
+            "value": "Semua monster musuh memiliki -2 serangan."
         },
         {
             "key": "ability.aura_attack_m2.title",
-            "value": "Rasa Takut"
+            "value": "Ketakutan"
         },
         {
             "key": "ability.aura_cat.desc",
@@ -410,7 +434,7 @@
         },
         {
             "key": "ability.aura_enemy_attack1.desc",
-            "value": "Semua karakter musuh mendapatkan +1 serangan."
+            "value": "Semua monster musuh mendapatkan +1 serangan."
         },
         {
             "key": "ability.aura_enemy_attack1.title",
@@ -418,7 +442,7 @@
         },
         {
             "key": "ability.aura_enemy_hp2.desc",
-            "value": "Semua karakter musuh mendapatkan +2 HP"
+            "value": "Semua monster musuh mendapatkan +2 HP"
         },
         {
             "key": "ability.aura_enemy_hp2.title",
@@ -426,15 +450,23 @@
         },
         {
             "key": "ability.aura_hp_rock_1.desc",
-            "value": "Semua karakter Batu sekutu memiliki +1 HP."
+            "value": "Semua monster batu sekutu memiliki +1 HP."
         },
         {
             "key": "ability.aura_hp_rock_1.title",
             "value": "Sekutu Batu"
         },
         {
+            "key": "ability.aura_hp_rock_2.desc",
+            "value": "Semua monster batu sekutu memiliki +2 HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_2.title",
+            "value": "Sekutu Batu 2"
+        },
+        {
             "key": "ability.aura_hp_rock_m1.desc",
-            "value": "Semua karakter Bayangan sekutu memiliki +1 HP."
+            "value": "Semua monster bayangan sekutu memiliki +1 HP."
         },
         {
             "key": "ability.aura_hp_rock_m1.title",
@@ -442,7 +474,7 @@
         },
         {
             "key": "ability.aura_protect_igloo.desc",
-            "value": "Igloo jadi kebal."
+            "value": "Igloo menjadi tak terkalahkan."
         },
         {
             "key": "ability.aura_protect_igloo.title",
@@ -454,7 +486,7 @@
         },
         {
             "key": "ability.aura_reptile.title",
-            "value": "Para Reptil"
+            "value": "Reptil"
         },
         {
             "key": "ability.aura_reptile_2.desc",
@@ -462,39 +494,47 @@
         },
         {
             "key": "ability.aura_reptile_2.title",
-            "value": "Para Reptil"
+            "value": "Reptil"
         },
         {
             "key": "ability.bypass_trap.desc",
-            "value": "Karakter ini tidak memicu jebakan."
+            "value": "Monster ini tidak memicu jebakan."
         },
         {
             "key": "ability.bypass_trap.title",
-            "value": "Menghindari Jebakan"
+            "value": "Penghindaran Jebakan"
         },
         {
             "key": "ability.chain_ice_treasure.desc",
-            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 2 kartu es ke tanganmu."
+            "value": "Lihat 7 kartu berikutnya di dek Anda dan ambil 2 kartu es ke tangan Anda."
         },
         {
             "key": "ability.chain_ice_treasure.title",
-            "value": "Harta Karun Es"
+            "value": "Harta Es"
         },
         {
             "key": "ability.chain_water_treasure.desc",
-            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 2 kartu air ke tanganmu."
+            "value": "Lihat 7 kartu berikutnya di dek Anda dan ambil 2 kartu air ke tangan Anda."
         },
         {
             "key": "ability.chain_water_treasure.title",
-            "value": "Harta Karun Air"
+            "value": "Harta Air"
         },
         {
             "key": "ability.choice_ability_immunity.desc",
-            "value": "Tidak dapat menjadi target oleh kemampuan karakter"
+            "value": "Tidak dapat menjadi target kemampuan monster"
         },
         {
             "key": "ability.choice_ability_immunity.title",
-            "value": "Imunitas Kemampuan"
+            "value": "Kebal terhadap Kemampuan"
+        },
+        {
+            "key": "ability.choice_armor2.desc",
+            "value": "Dapatkan +2 Perisai saat dipanggil."
+        },
+        {
+            "key": "ability.choice_armor2.title",
+            "value": "Pilihan Perisai 2"
         },
         {
             "key": "ability.choice_fury.desc",
@@ -502,1075 +542,1223 @@
         },
         {
             "key": "ability.choice_fury.title",
-            "value": "Amukan"
+            "value": "Kemarahan"
         },
         {
             "key": "ability.choice_rush.desc",
-            "value": "Bisa langsung nyerang, tapi nggak bisa nyerang pemain lawan di giliran ini."
+            "value": "Dapat menyerang pada giliran pemanggilan."
         },
         {
             "key": "ability.choice_rush.title",
-            "value": "Serangan Kilat"
-        },
-        {
-            "key": "ability.choice_spell_immunity.desc",
-            "value": "Tidak dapat menjadi target atau dirusak oleh kartu mantra."
-        },
-        {
-            "key": "ability.choice_spell_immunity.title",
-            "value": "Imunitas Mantra"
+            "value": "Kecepatan"
         },
         {
             "key": "ability.choice_taunt.desc",
-            "value": "Karaktermu yang lain tidak dapat diserang."
+            "value": "Musuh harus menyerang kartu ini sebelum sekutu lainnya."
         },
         {
             "key": "ability.choice_taunt.title",
-            "value": "Provokasi"
+            "value": "Tantangan"
         },
         {
-            "key": "ability.death_blue_draw.desc",
-            "value": "Saat makhluk Air milikmu mati, tarik sebuah kartu."
+            "key": "ability.death_damage2.desc",
+            "value": "Saat mati, berikan 2 kerusakan ke pemain musuh."
         },
         {
-            "key": "ability.death_blue_draw.title",
-            "value": "Tarik"
+            "key": "ability.death_damage2.title",
+            "value": "Kematian"
         },
         {
-            "key": "ability.death_damage2_player.desc",
-            "value": "Saat makhluk ini mati, berikan kerusakan kepada pemain musuh."
+            "key": "ability.death_draw1.desc",
+            "value": "Saat mati, ambil 1 kartu."
         },
         {
-            "key": "ability.death_damage2_player.title",
-            "value": "Kerusakan Kematian"
+            "key": "ability.death_draw1.title",
+            "value": "Kematian"
         },
         {
-            "key": "ability.death_draw.desc",
-            "value": "Saat makhluk ini mati, tarik sebuah kartu."
+            "key": "ability.death_draw2.desc",
+            "value": "Saat mati, ambil 2 kartu."
         },
         {
-            "key": "ability.death_draw.title",
-            "value": "Tarik"
+            "key": "ability.death_draw2.title",
+            "value": "Kematian"
         },
         {
-            "key": "ability.death_egg.desc",
-            "value": "Saat makhluk ini mati, panggil telur Phyra."
+            "key": "ability.death_enrage2.desc",
+            "value": "Saat mati, panggil Cabyron dengan Kemarahan II."
         },
         {
-            "key": "ability.death_egg.title",
-            "value": "Panggil Telur"
+            "key": "ability.death_enrage2.title",
+            "value": "Kematian"
         },
         {
-            "key": "ability.death_heal2.desc",
-            "value": "Saat makhluk ini mati, kamu memulihkan 2 HP."
+            "key": "ability.death_igloo.desc",
+            "value": "Saat mati, panggil Igloo."
         },
         {
-            "key": "ability.death_heal2.title",
-            "value": "Sembuhkan"
+            "key": "ability.death_igloo.title",
+            "value": "Kematian"
         },
         {
-            "key": "ability.death_heal3.desc",
-            "value": "Saat makhluk ini mati, kamu memulihkan 3 HP."
+            "key": "ability.death_summon_baby_jagur.desc",
+            "value": "Saat mati, panggil bayi Jagur."
         },
         {
-            "key": "ability.death_heal3.title",
-            "value": "Sembuhkan"
-        },
-        {
-            "key": "ability.death_other_draw.desc",
-            "value": "Setiap kali karakter lain mati, tarik sebuah kartu."
-        },
-        {
-            "key": "ability.death_other_draw.title",
-            "value": "Makan"
-        },
-        {
-            "key": "ability.death_other_draw2.desc",
-            "value": "Setiap kali karakter lain mati, tarik 2 kartu."
-        },
-        {
-            "key": "ability.death_other_draw2.title",
-            "value": "Makan"
-        },
-        {
-            "key": "ability.death_summon_igloo.desc",
-            "value": "Saat mati memanggil sebuah Igloo."
-        },
-        {
-            "key": "ability.death_summon_igloo.title",
-            "value": "Panggil Igloo"
+            "key": "ability.death_summon_baby_jagur.title",
+            "value": "Kematian"
         },
         {
             "key": "ability.death_summon_twii.desc",
-            "value": "Saat makhluk ini mati, panggil Twii."
+            "value": "Saat mati, panggil Twii."
         },
         {
             "key": "ability.death_summon_twii.title",
-            "value": "Panggil Twii"
+            "value": "Kematian"
         },
         {
-            "key": "ability.deathtouch.desc",
-            "value": "Bunuh makhluk apa pun yang dilukainya."
+            "key": "ability.death_transform_pyro.desc",
+            "value": "Saat mati, panggil telur."
         },
         {
-            "key": "ability.deathtouch.title",
-            "value": "Sentuhan Maut"
+            "key": "ability.death_transform_pyro.title",
+            "value": "Kematian"
         },
         {
-            "key": "ability.defend_discard.desc",
-            "value": "Saat diserang, lawan harus membuang 1 kartu acak."
+            "key": "ability.discard_copy.desc",
+            "value": "Ketika lawan membuang mantra, buat salinan dengan biaya mana nol di tangan Anda."
         },
         {
-            "key": "ability.defend_discard.title",
-            "value": "Tenggelam"
+            "key": "ability.discard_copy.title",
+            "value": "Salinan yang Dibuang"
         },
         {
-            "key": "ability.defend_draw1.desc",
-            "value": "Saat karakter ini diserang tarik sebuah kartu."
+            "key": "ability.discard_draw2.desc",
+            "value": "Saat membuang kartu acak dari tangan, ambil 2 kartu."
         },
         {
-            "key": "ability.defend_draw1.title",
-            "value": "Tarik"
+            "key": "ability.discard_draw2.title",
+            "value": "Buang"
         },
         {
-            "key": "ability.defense_attack3.desc",
-            "value": "Memiliki +3 serangan selama giliran lawan."
+            "key": "ability.discard_random.desc",
+            "value": "Saat dimainkan, lawan membuang kartu acak."
         },
         {
-            "key": "ability.defense_attack3.title",
-            "value": "Pertahanan"
+            "key": "ability.discard_random.title",
+            "value": "Buang Acak"
         },
         {
-            "key": "ability.defense_attack5.desc",
-            "value": "Memiliki +5 Serangan pada giliran lawan."
+            "key": "ability.discard_transform.desc",
+            "value": "Ketika lawan membuang kartu monster, monster ini menjadi salinan monster yang dibuang."
         },
         {
-            "key": "ability.defense_attack5.title",
-            "value": "Pertahanan"
+            "key": "ability.discard_transform.title",
+            "value": "Transformasi yang Dibuang"
         },
         {
-            "key": "ability.discard_add_attack1.desc",
-            "value": "Setiap kali lawan dipaksa membuang kartu dapatkan +1 serangan."
+            "key": "ability.draw_on_death_water.desc",
+            "value": "Ketika monster Air yang Anda miliki mati, ambil kartu."
         },
         {
-            "key": "ability.discard_add_attack1.title",
-            "value": "Buang & Dapatkan"
+            "key": "ability.draw_on_death_water.title",
+            "value": "Kematian Air"
         },
         {
-            "key": "ability.egg_growth.desc",
-            "value": "Setelah 3 giliran, berubah menjadi Phyra."
+            "key": "ability.draw_on_kill2.desc",
+            "value": "Saat membunuh, ambil 2 kartu."
         },
         {
-            "key": "ability.egg_growth.title",
-            "value": "Telur"
+            "key": "ability.draw_on_kill2.title",
+            "value": "Pembunuhan"
         },
         {
-            "key": "ability.egg_transform.desc",
-            "value": "Setelah 3 giliran, berubah menjadi Phyra."
+            "key": "ability.draw_on_kill3.desc",
+            "value": "Saat membunuh, ambil 3 kartu."
         },
         {
-            "key": "ability.egg_transform.title",
-            "value": "Transformasi Phyra"
+            "key": "ability.draw_on_kill3.title",
+            "value": "Pembunuhan"
         },
         {
-            "key": "ability.equip_armor2.desc",
-            "value": "Pembawa memiliki +2 zirah."
+            "key": "ability.draw_on_kill4.desc",
+            "value": "Saat membunuh, ambil 4 kartu."
         },
         {
-            "key": "ability.equip_armor2.title",
-            "value": "Zirah"
+            "key": "ability.draw_on_kill4.title",
+            "value": "Pembunuhan"
         },
         {
-            "key": "ability.equip_attack_no_damage.desc",
-            "value": "Saat menyerang, target tidak membalas."
+            "key": "ability.draw_on_kill5.desc",
+            "value": "Saat membunuh, ambil 5 kartu."
         },
         {
-            "key": "ability.equip_attack_no_damage.title",
-            "value": "Intimidasi"
+            "key": "ability.draw_on_kill5.title",
+            "value": "Pembunuhan"
         },
         {
-            "key": "ability.equip_attack_use.desc",
-            "value": "Kehilangan 1 daya tahan setelah setiap serangan."
+            "key": "ability.draw_on_kill6.desc",
+            "value": "Saat membunuh, ambil 6 kartu."
         },
         {
-            "key": "ability.equip_attack_use.title",
-            "value": "Pedang"
+            "key": "ability.draw_on_kill6.title",
+            "value": "Pembunuhan"
         },
         {
-            "key": "ability.equip_attack1.desc",
-            "value": "Pembawa memiliki +1 serangan."
+            "key": "ability.draw_on_kill7.desc",
+            "value": "Saat membunuh, ambil 7 kartu."
         },
         {
-            "key": "ability.equip_attack1.title",
-            "value": "Serang"
+            "key": "ability.draw_on_kill7.title",
+            "value": "Pembunuhan"
         },
         {
-            "key": "ability.equip_attack2.desc",
-            "value": "Pembawa memiliki +2 serangan."
+            "key": "ability.draw_on_survival.desc",
+            "value": "Sekali per giliran, ketika menerima kerusakan dan bertahan, ambil kartu."
         },
         {
-            "key": "ability.equip_attack2.title",
-            "value": "Serang"
+            "key": "ability.draw_on_survival.title",
+            "value": "Bertahan"
         },
         {
-            "key": "ability.equip_defend_use.desc",
-            "value": "Kehilangan 1 daya tahan saat diserang."
+            "key": "ability.enrage_2.desc",
+            "value": "Kemarahan II"
         },
         {
-            "key": "ability.equip_defend_use.title",
-            "value": "Perisai"
+            "key": "ability.enrage_2.title",
+            "value": "Kemarahan II"
         },
         {
-            "key": "ability.equip_gain_mana.desc",
-            "value": "Dapatkan 2 mana tambahan per giliran selama 3 giliran berikutnya."
+            "key": "ability.enrage_3.desc",
+            "value": "Kemarahan III"
         },
         {
-            "key": "ability.equip_gain_mana.title",
-            "value": "Cincin Mana"
+            "key": "ability.enrage_3.title",
+            "value": "Kemarahan III"
         },
         {
-            "key": "ability.equip_mana_kill.desc",
-            "value": "Saat pembawa membunuh sebuah kartu, dapatkan 3 mana."
+            "key": "ability.enrage_armor1.desc",
+            "value": "Saat dimainkan, dapatkan 1 perisai."
         },
         {
-            "key": "ability.equip_mana_kill.title",
-            "value": "Cincin Mana"
+            "key": "ability.enrage_armor1.title",
+            "value": "Kemarahan"
         },
         {
-            "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Dapatkan 2 mana tambahan per giliran selama 3 giliran berikutnya."
+            "key": "ability.enrage_armor2.desc",
+            "value": "Saat dimainkan, dapatkan 2 perisai."
         },
         {
-            "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Cincin Mana"
+            "key": "ability.enrage_armor2.title",
+            "value": "Kemarahan"
         },
         {
-            "key": "ability.equip_taunt.desc",
-            "value": "Pembawa memiliki Taunt."
+            "key": "ability.enrage_damage_all1.desc",
+            "value": "Saat dimainkan, berikan 1 kerusakan ke semua kartu lain di permainan, kemudian sembuhkan semua kartu sekutu sebesar 1 HP."
         },
         {
-            "key": "ability.equip_taunt.title",
-            "value": "Provokasi"
+            "key": "ability.enrage_damage_all1.title",
+            "value": "Kemarahan"
         },
         {
-            "key": "ability.equip_turn_use.desc",
-            "value": "Kehilangan 1 daya tahan setiap giliran."
+            "key": "ability.enrage_draw_rock_spell.desc",
+            "value": "Saat dimainkan, ambil kartu mantra batu dari dek."
         },
         {
-            "key": "ability.flying.desc",
-            "value": "Dapat mengabaikan Taunt."
+            "key": "ability.enrage_draw_rock_spell.title",
+            "value": "Kemarahan"
         },
         {
-            "key": "ability.flying.title",
-            "value": "Terbang"
+            "key": "ability.enrage_flying.desc",
+            "value": "Saat dimainkan, dapatkan Terbang."
         },
         {
-            "key": "ability.fury.desc",
-            "value": "Dapat menyerang dua kali per giliran."
+            "key": "ability.enrage_flying.title",
+            "value": "Kemarahan"
         },
         {
-            "key": "ability.fury.title",
-            "value": "Amukan"
+            "key": "ability.enrage_rock_armor.desc",
+            "value": "Saat dimainkan, berikan +1 perisai ke semua monster batu sekutu."
         },
         {
-            "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Mendapat pelindung setiap kali kamu memanggil lokasi."
+            "key": "ability.enrage_rock_armor.title",
+            "value": "Kemarahan"
         },
         {
-            "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Dapatkan Pelindung"
+            "key": "ability.enrage_taunt.desc",
+            "value": "Saat dimainkan, dapatkan Tantangan."
         },
         {
-            "key": "ability.ghost.desc",
-            "value": "Nggak kena damage waktu nyerang."
+            "key": "ability.enrage_taunt.title",
+            "value": "Kemarahan"
         },
         {
-            "key": "ability.ghost.title",
-            "value": "Hantu"
+            "key": "ability.freeze_all_4atk.desc",
+            "value": "Saat dimainkan, bekukan semua monster musuh dengan serangan 4 atau kurang."
         },
         {
-            "key": "ability.haste.desc",
-            "value": "Dapat menyerang segera."
+            "key": "ability.freeze_all_4atk.title",
+            "value": "Bekukan"
         },
         {
-            "key": "ability.haste.title",
-            "value": "Kilatan"
+            "key": "ability.freeze_all_5atk.desc",
+            "value": "Saat dimainkan, bekukan semua monster musuh dengan serangan 5 atau kurang."
         },
         {
-            "key": "ability.ice punch.desc",
-            "value": "Nggak kena damage waktu nyerang."
+            "key": "ability.freeze_all_5atk.title",
+            "value": "Bekukan"
         },
         {
-            "key": "ability.ice punch.title",
-            "value": "Tinju Es"
+            "key": "ability.freeze_enemy_2atk.desc",
+            "value": "Saat dimainkan, bekukan monster musuh dengan serangan 2 atau kurang."
         },
         {
-            "key": "ability.icy_buff1.desc",
-            "value": "Mendapat +1 Serangan ketika musuh sedang beku."
+            "key": "ability.freeze_enemy_2atk.title",
+            "value": "Bekukan"
         },
         {
-            "key": "ability.icy_buff1.title",
-            "value": "Penguat Es"
+            "key": "ability.freeze_enemy_3atk.desc",
+            "value": "Saat dimainkan, bekukan monster musuh dengan serangan 3 atau kurang."
         },
         {
-            "key": "ability.kill_draw1.desc",
-            "value": "Saat kamu membunuh karakter lain dengan makhluk ini, tarik 1 kartu."
+            "key": "ability.freeze_enemy_3atk.title",
+            "value": "Bekukan"
         },
         {
-            "key": "ability.kill_draw1.title",
-            "value": "Tarik"
+            "key": "ability.freeze_enemy_4atk.desc",
+            "value": "Saat dimainkan, bekukan monster musuh dengan serangan 4 atau kurang."
         },
         {
-            "key": "ability.kill_draw2.desc",
-            "value": "Saat kamu membunuh karakter lain dengan makhluk ini, tarik 2 kartu."
+            "key": "ability.freeze_enemy_4atk.title",
+            "value": "Bekukan"
         },
         {
-            "key": "ability.kill_draw2.title",
-            "value": "Tarik"
+            "key": "ability.haste_ice_location.desc",
+            "value": "Dapatkan Kecepatan jika lokasi es ada di permainan."
+        },
+        {
+            "key": "ability.haste_ice_location.title",
+            "value": "Kecepatan Es"
+        },
+        {
+            "key": "ability.heal_all2.desc",
+            "value": "Saat dimainkan, sembuhkan semua sebesar 2 HP."
+        },
+        {
+            "key": "ability.heal_all2.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_all3.desc",
+            "value": "Saat dimainkan, sembuhkan semua sebesar 3 HP."
+        },
+        {
+            "key": "ability.heal_all3.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_all4.desc",
+            "value": "Saat dimainkan, sembuhkan semua sebesar 4 HP."
+        },
+        {
+            "key": "ability.heal_all4.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_player4.desc",
+            "value": "Saat dimainkan, sembuhkan pemain sebesar 4 HP."
+        },
+        {
+            "key": "ability.heal_player4.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_self_full.desc",
+            "value": "Pada awal giliran Anda, monster ini sembuh sepenuhnya."
+        },
+        {
+            "key": "ability.heal_self_full.title",
+            "value": "Penyembuhan Penuh"
+        },
+        {
+            "key": "ability.heal_self_hp2.desc",
+            "value": "Saat dimainkan, sembuhkan diri sebesar 2 HP."
+        },
+        {
+            "key": "ability.heal_self_hp2.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_self_hp3.desc",
+            "value": "Saat dimainkan, sembuhkan diri sebesar 3 HP."
+        },
+        {
+            "key": "ability.heal_self_hp3.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_self_hp4.desc",
+            "value": "Saat dimainkan, sembuhkan diri sebesar 4 HP."
+        },
+        {
+            "key": "ability.heal_self_hp4.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_target2.desc",
+            "value": "Saat dimainkan, sembuhkan target sebesar 2 HP."
+        },
+        {
+            "key": "ability.heal_target2.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_target3.desc",
+            "value": "Saat dimainkan, sembuhkan target sebesar 3 HP."
+        },
+        {
+            "key": "ability.heal_target3.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_target4.desc",
+            "value": "Saat dimainkan, sembuhkan target sebesar 4 HP."
+        },
+        {
+            "key": "ability.heal_target4.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.heal_target_hp2.desc",
+            "value": "Saat dimainkan, sembuhkan monster dari semua efek status negatif dan berikan +2 HP."
+        },
+        {
+            "key": "ability.heal_target_hp2.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.ice_evolution_minus1.desc",
+            "value": "Kurangi penghitung evolusi monster es sebesar 1, jika mencapai 0, berevolusi."
+        },
+        {
+            "key": "ability.ice_evolution_minus1.title",
+            "value": "Evolusi Es"
+        },
+        {
+            "key": "ability.igloo_on_play.desc",
+            "value": "Saat dimainkan, panggil Igloo."
+        },
+        {
+            "key": "ability.igloo_on_play.title",
+            "value": "Igloo"
+        },
+        {
+            "key": "ability.igloo_on_play_2.desc",
+            "value": "Saat dimainkan, panggil Igloo dua kali."
+        },
+        {
+            "key": "ability.igloo_on_play_2.title",
+            "value": "Igloo"
+        },
+        {
+            "key": "ability.igloo_shell.desc",
+            "value": "Dapatkan Cangkang setiap kali memanggil lokasi."
+        },
+        {
+            "key": "ability.igloo_shell.title",
+            "value": "Cangkang Igloo"
+        },
+        {
+            "key": "ability.location_cost_minus1.desc",
+            "value": "Lokasi apa pun dari jenis elemen yang sama memiliki diskon mana 1."
+        },
+        {
+            "key": "ability.location_cost_minus1.title",
+            "value": "Diskon Lokasi"
+        },
+        {
+            "key": "ability.location_ice_boost.desc",
+            "value": "Dapatkan +1/+1 jika lokasi es ada di permainan."
+        },
+        {
+            "key": "ability.location_ice_boost.title",
+            "value": "Peningkatan Es"
+        },
+        {
+            "key": "ability.location_ice_draw.desc",
+            "value": "Saat dimainkan, ambil kartu jika lokasi es ada di permainan."
+        },
+        {
+            "key": "ability.location_ice_draw.title",
+            "value": "Ambil Es"
         },
         {
             "key": "ability.lifesteal.desc",
-            "value": "Sembuhkan pemain saat memberikan kerusakan."
+            "value": "Sembuhkan diri saat memberikan kerusakan."
         },
         {
             "key": "ability.lifesteal.title",
-            "value": "Curian Nyawa"
+            "value": "Pencurian Jiwa"
         },
         {
-            "key": "ability.location_mana_discount.desc",
-            "value": "Kartu lokasi dengan elemen yang sama mendapat diskon 1 mana."
+            "key": "ability.mind_control_3_turns.desc",
+            "value": "Ambil kendali atas monster musuh selama 3 giliran atau hingga berevolusi."
         },
         {
-            "key": "ability.location_mana_discount.title",
-            "value": "Aura Lokasi"
+            "key": "ability.mind_control_3_turns.title",
+            "value": "Kontrol Pikiran"
         },
         {
-            "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
-            "value": "Ambil alih karakter musuh dengan 3 atau kurang mana selama 1 giliran. Target mendapatkan Rush."
+            "key": "ability.mind_control_5_cost.desc",
+            "value": "Kontrol Pikiran atas monster target musuh dengan biaya mana 5+ hingga monster ini meninggalkan papan."
         },
         {
-            "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
-            "value": "Kendali Pikiran"
+            "key": "ability.mind_control_5_cost.title",
+            "value": "Kontrol Pikiran"
         },
         {
-            "key": "ability.mind_control_ability_3_turns_3ml.desc",
-            "value": "Ambil alih karakter musuh selama 1 giliran dan berikan rush"
+            "key": "ability.mind_control_atk3.desc",
+            "value": "Saat dimainkan, Kontrol Pikiran atas monster target dengan serangan 3 atau kurang."
         },
         {
-            "key": "ability.mind_control_ability_3_turns_3ml.title",
-            "value": "Kendali Pikiran"
+            "key": "ability.mind_control_atk3.title",
+            "value": "Kontrol Pikiran"
         },
         {
-            "key": "ability.mind_control_ability_any.desc",
-            "value": "Ambil alih karakter musuh selama 3 giliran, atau sampai ia berevolusi"
+            "key": "ability.mind_control_atk5.desc",
+            "value": "Saat dimainkan, Kontrol Pikiran atas monster musuh dengan serangan 5 atau kurang."
         },
         {
-            "key": "ability.mind_control_ability_any.title",
-            "value": "Kendali Pikiran"
+            "key": "ability.mind_control_atk5.title",
+            "value": "Kontrol Pikiran"
         },
         {
-            "key": "ability.mind_control_ability_any_spell.desc",
-            "value": "Ambil alih karakter musuh selama 3 giliran, atau sampai ia berevolusi"
+            "key": "ability.mind_control_cost2.desc",
+            "value": "Saat dimainkan, Kontrol Pikiran atas monster target dengan biaya 2 mana atau kurang."
         },
         {
-            "key": "ability.mind_control_ability_any_spell.title",
-            "value": "Kendali Pikiran"
+            "key": "ability.mind_control_cost2.title",
+            "value": "Kontrol Pikiran"
         },
         {
-            "key": "ability.mind_control_ability_enemy_m2l.desc",
-            "value": "Ambil alih karakter musuh dengan biaya 4 mana atau kurang selama 3 giliran, atau sampai ia berevolusi"
+            "key": "ability.mind_control_cost3.desc",
+            "value": "Saat dimainkan, Kontrol Pikiran atas monster musuh target dengan biaya 3 mana atau kurang."
         },
         {
-            "key": "ability.mind_control_ability_enemy_m2l.title",
-            "value": "Kendali Pikiran"
+            "key": "ability.mind_control_cost3.title",
+            "value": "Kontrol Pikiran"
         },
         {
-            "key": "ability.mind_control_ability_enemy_m3l.desc",
-            "value": "Ambil alih karakter musuh dengan biaya 4 mana atau kurang selama 3 giliran, atau sampai ia berevolusi"
+            "key": "ability.mind_control_switch_sides.desc",
+            "value": "Saat dimainkan, pilih monster target untuk tukar sisi."
         },
         {
-            "key": "ability.mind_control_ability_enemy_m3l.title",
-            "value": "Kendali Pikiran"
+            "key": "ability.mind_control_switch_sides.title",
+            "value": "Tukar Kontrol"
         },
         {
-            "key": "ability.mind_control_ability_leaves_a2l.desc",
-            "value": "Ambil alih karakter musuh dengan 2 serangan selama 3 giliran, atau sampai ia berevolusi atau meninggalkan papan"
+            "key": "ability.mind_control_taunt.desc",
+            "value": "Saat dimainkan, Kontrol Pikiran atas monster target dan berikan Tantangan."
         },
         {
-            "key": "ability.mind_control_ability_leaves_a2l.title",
-            "value": "Kendali Pikiran"
+            "key": "ability.mind_control_taunt.title",
+            "value": "Kontrol Pikiran"
         },
         {
-            "key": "ability.mind_control_ability_leaves_a3l.desc",
-            "value": "Ambil alih karakter musuh dengan 3 serangan selama 3 giliran, atau sampai ia berevolusi atau meninggalkan papan"
+            "key": "ability.on_damage_all1_heal_allies1.desc",
+            "value": "Saat menerima kerusakan, berikan 1 kerusakan ke semua kartu lain di permainan, kemudian sembuhkan semua kartu sekutu sebesar 1 HP."
         },
         {
-            "key": "ability.mind_control_ability_leaves_a3l.title",
-            "value": "Kendali Pikiran"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_a5l.desc",
-            "value": "Ambil alih karakter musuh dengan 5 serangan selama 2 giliran, atau sampai ia berevolusi atau meninggalkan papan"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_a5l.title",
-            "value": "Kendali Pikiran"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m2l.desc",
-            "value": "Ambil alih karakter musuh dengan biaya 2 mana atau kurang selama 3 giliran, atau sampai ia berevolusi / keluar dari permainan"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m2l.title",
-            "value": "Kendali Pikiran"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m3l.desc",
-            "value": "Ambil alih karakter musuh dengan biaya 3 mana atau kurang selama 3 giliran, atau sampai ia berevolusi / keluar dari permainan"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m3l.title",
-            "value": "Kendali Pikiran"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m4.desc",
-            "value": "Ambil alih karakter musuh dengan biaya 4 mana selama 3 giliran, atau sampai ia berevolusi"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m4.title",
-            "value": "Kendali Pikiran"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m5+.desc",
-            "value": "Ambil alih karakter musuh dengan biaya 5 mana atau lebih selama 3 giliran, atau sampai ia berevolusi, atau kartu ini meninggalkan papan"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m5+.title",
-            "value": "Kendali Pikiran"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m5l.desc",
-            "value": "Ambil alih karakter musuh dengan biaya 5 mana atau lebih selama 3 giliran, atau sampai ia berevolusi, atau kartu ini meninggalkan papan"
-        },
-        {
-            "key": "ability.mind_control_ability_leaves_m5l.title",
-            "value": "Kendali Pikiran"
-        },
-        {
-            "key": "ability.mind_control_ability_m5l.desc",
-            "value": "Ambil alih karakter musuh dengan biaya 5 mana atau kurang selama 3 giliran, atau sampai ia berevolusi"
-        },
-        {
-            "key": "ability.mind_control_ability_m5l.title",
-            "value": "Kendali Pikiran"
-        },
-        {
-            "key": "ability.ongoing_cannot_attack.desc",
-            "value": "Monster ini tidak dapat menyerang target musuh."
-        },
-        {
-            "key": "ability.ongoing_cannot_attack.title",
-            "value": "Tidak Dapat Menyerang"
-        },
-        {
-            "key": "ability.overkill.desc",
-            "value": "Kerusakan berlebih menyembuhkan penyerang."
-        },
-        {
-            "key": "ability.overkill.title",
-            "value": "Pembantaian"
-        },
-        {
-            "key": "ability.play_boost_hp_1.desc",
-            "value": "Saat dimainkan, berikan +2 HP kepada makhluk lain hingga giliranmu berikutnya."
-        },
-        {
-            "key": "ability.play_boost_hp_1.title",
-            "value": "Berkat HP"
-        },
-        {
-            "key": "ability.play_boost2.desc",
-            "value": "Saat dimainkan, berikan +2/+2 kepada makhluk lain hingga giliranmu berikutnya."
-        },
-        {
-            "key": "ability.play_boost2.title",
-            "value": "Berkat"
-        },
-        {
-            "key": "ability.play_boost2_permanent.desc",
-            "value": "Saat dimainkan, berikan +2/+2 kepada makhluk lain hingga giliranmu berikutnya."
-        },
-        {
-            "key": "ability.play_boost2_permanent.title",
-            "value": "Berkat"
-        },
-        {
-            "key": "ability.play_boost3.desc",
-            "value": "Saat dimainkan, berikan +3/+3 kepada makhluk lain selama 3 giliran"
-        },
-        {
-            "key": "ability.play_boost3.title",
-            "value": "Berkat Tanaman"
-        },
-        {
-            "key": "ability.play_burn.desc",
-            "value": "Karakter target terbakar. Mereka kehilangan 2 HP setiap giliran."
-        },
-        {
-            "key": "ability.play_burn.title",
-            "value": "Bakar"
-        },
-        {
-            "key": "ability.play_choice_spell_ability_immunity.desc",
-            "value": "Dapatkan Imunitas Mantra atau Kemampuan"
-        },
-        {
-            "key": "ability.play_choice_spell_ability_immunity.title",
-            "value": "Pilihan"
-        },
-        {
-            "key": "ability.play_choice_taunt_fury.desc",
-            "value": "Dapatkan Taunt atau Amukan"
-        },
-        {
-            "key": "ability.play_choice_taunt_fury.title",
-            "value": "Pilihan"
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.desc",
-            "value": "Dapat Provokasi atau Serangan Kilat."
-        },
-        {
-            "key": "ability.play_choice_taunt_rush.title",
-            "value": "Pilihan"
-        },
-        {
-            "key": "ability.play_cure.desc",
-            "value": "Saat dimainkan, sembuhkan karakter lain dari semua efek negatif."
-        },
-        {
-            "key": "ability.play_cure.title",
-            "value": "Sembuhkan"
-        },
-        {
-            "key": "ability.play_cure_bless2.desc",
-            "value": "Saat dimainkan, sembuhkan karakter lain dari semua efek negatif dan berikan +2 HP"
-        },
-        {
-            "key": "ability.play_cure_bless2.title",
-            "value": "Berkat Penyembuhan"
-        },
-        {
-            "key": "ability.play_curse.desc",
-            "value": "Karakter target terkena kutuk. Mereka kehilangan 1 serangan setiap giliran."
-        },
-        {
-            "key": "ability.play_curse.title",
-            "value": "Kutuk"
-        },
-        {
-            "key": "ability.play_curse_all.desc",
-            "value": "Saat dimainkan, kutuk semua kartu di permainan."
-        },
-        {
-            "key": "ability.play_curse_all.title",
-            "value": "Kutuk Semua"
-        },
-        {
-            "key": "ability.play_damage_all_players2.desc",
-            "value": "Saat dimainkan, berikan 2 kerusakan kepada kedua pemain."
-        },
-        {
-            "key": "ability.play_damage_all_players2.title",
+            "key": "ability.on_damage_all1_heal_allies1.title",
             "value": "Kerusakan"
         },
         {
+            "key": "ability.on_play_boost_all1.desc",
+            "value": "Saat dimainkan, berikan +1/+1 ke semua monster sekutu."
+        },
+        {
+            "key": "ability.on_play_boost_all1.title",
+            "value": "Peningkatan"
+        },
+        {
+            "key": "ability.on_play_boost_all2.desc",
+            "value": "Saat dimainkan, berikan +2/+2 ke semua monster sekutu."
+        },
+        {
+            "key": "ability.on_play_boost_all2.title",
+            "value": "Peningkatan"
+        },
+        {
+            "key": "ability.on_play_boost_cat1.desc",
+            "value": "Saat dimainkan, berikan +1 serangan ke semua Kucing."
+        },
+        {
+            "key": "ability.on_play_boost_cat1.title",
+            "value": "Peningkatan Kucing"
+        },
+        {
+            "key": "ability.on_play_boost_reptile1.desc",
+            "value": "Saat dimainkan, berikan +1 serangan ke semua Reptil."
+        },
+        {
+            "key": "ability.on_play_boost_reptile1.title",
+            "value": "Peningkatan Reptil"
+        },
+        {
+            "key": "ability.on_play_boost_reptile2.desc",
+            "value": "Saat dimainkan, berikan +2 serangan ke semua Reptil."
+        },
+        {
+            "key": "ability.on_play_boost_reptile2.title",
+            "value": "Peningkatan Reptil"
+        },
+        {
+            "key": "ability.on_play_curse.desc",
+            "value": "Saat dimainkan, berikan Kutukan ke target."
+        },
+        {
+            "key": "ability.on_play_curse.title",
+            "value": "Kutukan"
+        },
+        {
+            "key": "ability.on_play_curse_all.desc",
+            "value": "Saat dimainkan, kutuk semua monster di permainan."
+        },
+        {
+            "key": "ability.on_play_curse_all.title",
+            "value": "Kutukan"
+        },
+        {
+            "key": "ability.on_play_damage_all2.desc",
+            "value": "Saat dimainkan, berikan 2 kerusakan ke semua."
+        },
+        {
+            "key": "ability.on_play_damage_all2.title",
+            "value": "Kerusakan"
+        },
+        {
+            "key": "ability.on_play_damage_all3.desc",
+            "value": "Saat dimainkan, berikan 3 kerusakan ke semua."
+        },
+        {
+            "key": "ability.on_play_damage_all3.title",
+            "value": "Kerusakan"
+        },
+        {
+            "key": "ability.on_play_destroy_3atk.desc",
+            "value": "Saat dimainkan, hancurkan monster dengan serangan 3 atau kurang."
+        },
+        {
+            "key": "ability.on_play_destroy_3atk.title",
+            "value": "Penghancuran"
+        },
+        {
+            "key": "ability.on_play_destroy_4atk.desc",
+            "value": "Saat dimainkan, hancurkan monster dengan serangan 4 atau kurang."
+        },
+        {
+            "key": "ability.on_play_destroy_4atk.title",
+            "value": "Penghancuran"
+        },
+        {
+            "key": "ability.on_play_destroy_traps_boost.desc",
+            "value": "Saat dimainkan, hancurkan semua jebakan musuh dan dapatkan +2/2 untuk setiap jebakan yang dihancurkan."
+        },
+        {
+            "key": "ability.on_play_destroy_traps_boost.title",
+            "value": "Penghancuran Jebakan"
+        },
+        {
+            "key": "ability.on_play_draw1.desc",
+            "value": "Saat dimainkan, ambil 1 kartu."
+        },
+        {
+            "key": "ability.on_play_draw1.title",
+            "value": "Ambil"
+        },
+        {
+            "key": "ability.on_play_draw2.desc",
+            "value": "Saat dimainkan, ambil 2 kartu."
+        },
+        {
+            "key": "ability.on_play_draw2.title",
+            "value": "Ambil"
+        },
+        {
+            "key": "ability.on_play_heal_player4.desc",
+            "value": "Saat dimainkan, sembuhkan pemain sebesar 4 HP."
+        },
+        {
+            "key": "ability.on_play_heal_player4.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.on_play_poison_all.desc",
+            "value": "Saat dimainkan, racuni semua musuh di permainan."
+        },
+        {
+            "key": "ability.on_play_poison_all.title",
+            "value": "Racun"
+        },
+        {
+            "key": "ability.on_play_poison_target.desc",
+            "value": "Saat dimainkan, racuni monster target."
+        },
+        {
+            "key": "ability.on_play_poison_target.title",
+            "value": "Racun"
+        },
+        {
+            "key": "ability.on_play_reveal_hand_draw1.desc",
+            "value": "Saat dimainkan, ungkap tangan lawan dan ambil 1 kartu."
+        },
+        {
+            "key": "ability.on_play_reveal_hand_draw1.title",
+            "value": "Ungkap dan Ambil"
+        },
+        {
+            "key": "ability.on_play_silence.desc",
+            "value": "Saat dimainkan, diamkan kartu target."
+        },
+        {
+            "key": "ability.on_play_silence.title",
+            "value": "Diamkan"
+        },
+        {
+            "key": "ability.on_play_silence_curse.desc",
+            "value": "Saat dimainkan, diamkan monster target, kemudian kutuk monster target."
+        },
+        {
+            "key": "ability.on_play_silence_curse.title",
+            "value": "Diamkan dan Kutuk"
+        },
+        {
+            "key": "ability.on_play_summon_baby_jagur.desc",
+            "value": "Saat dimainkan, panggil bayi Jagur."
+        },
+        {
+            "key": "ability.on_play_summon_baby_jagur.title",
+            "value": "Panggil"
+        },
+        {
+            "key": "ability.on_play_summon_lizi.desc",
+            "value": "Saat dimainkan, panggil Lizo."
+        },
+        {
+            "key": "ability.on_play_summon_lizi.title",
+            "value": "Panggil"
+        },
+        {
+            "key": "ability.on_play_target_attack1.desc",
+            "value": "Saat dimainkan, setel serangan monster target menjadi 1."
+        },
+        {
+            "key": "ability.on_play_target_attack1.title",
+            "value": "Kurangi Serangan"
+        },
+        {
+            "key": "ability.on_play_target_attack3.desc",
+            "value": "Saat dimainkan, setel serangan monster target menjadi 3."
+        },
+        {
+            "key": "ability.on_play_target_attack3.title",
+            "value": "Kurangi Serangan"
+        },
+        {
+            "key": "ability.on_play_target_burn.desc",
+            "value": "Saat dimainkan, monster target mendapatkan terbakar dan kehilangan 2 HP per giliran."
+        },
+        {
+            "key": "ability.on_play_target_burn.title",
+            "value": "Terbakar"
+        },
+        {
+            "key": "ability.on_play_target_curse.desc",
+            "value": "Saat dimainkan, berikan Kutukan ke monster target."
+        },
+        {
+            "key": "ability.on_play_target_curse.title",
+            "value": "Kutukan"
+        },
+        {
+            "key": "ability.on_play_target_damage2.desc",
+            "value": "Saat dimainkan, berikan 2 kerusakan ke target."
+        },
+        {
+            "key": "ability.on_play_target_damage2.title",
+            "value": "Kerusakan"
+        },
+        {
+            "key": "ability.on_play_target_heal2.desc",
+            "value": "Saat dimainkan, sembuhkan target sebesar 2 HP."
+        },
+        {
+            "key": "ability.on_play_target_heal2.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.on_play_target_poison.desc",
+            "value": "Saat dimainkan, racuni target."
+        },
+        {
+            "key": "ability.on_play_target_poison.title",
+            "value": "Racun"
+        },
+        {
+            "key": "ability.on_play_target_silence.desc",
+            "value": "Saat dimainkan, diamkan target."
+        },
+        {
+            "key": "ability.on_play_target_silence.title",
+            "value": "Diamkan"
+        },
+        {
+            "key": "ability.on_turn_start_damage_all2.desc",
+            "value": "Pada awal giliran, berikan 2 kerusakan ke semua."
+        },
+        {
+            "key": "ability.on_turn_start_damage_all2.title",
+            "value": "Kerusakan"
+        },
+        {
+            "key": "ability.on_turn_start_damage_all3.desc",
+            "value": "Pada awal giliran, berikan 3 kerusakan ke semua."
+        },
+        {
+            "key": "ability.on_turn_start_damage_all3.title",
+            "value": "Kerusakan"
+        },
+        {
+            "key": "ability.on_turn_start_draw1.desc",
+            "value": "Pada awal giliran, ambil 1 kartu."
+        },
+        {
+            "key": "ability.on_turn_start_draw1.title",
+            "value": "Ambil"
+        },
+        {
+            "key": "ability.on_turn_start_draw2.desc",
+            "value": "Pada awal giliran, ambil 2 kartu."
+        },
+        {
+            "key": "ability.on_turn_start_draw2.title",
+            "value": "Ambil"
+        },
+        {
+            "key": "ability.on_turn_start_heal_self3.desc",
+            "value": "Pada awal giliran, sembuhkan diri sebesar 3 HP."
+        },
+        {
+            "key": "ability.on_turn_start_heal_self3.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.on_turn_start_poison_self.desc",
+            "value": "Pada awal giliran, racuni diri sendiri."
+        },
+        {
+            "key": "ability.on_turn_start_poison_self.title",
+            "value": "Racun"
+        },
+        {
+            "key": "ability.on_turn_start_put_sleep_ally.desc",
+            "value": "Pada awal giliran, tidurkan sekutu acak."
+        },
+        {
+            "key": "ability.on_turn_start_put_sleep_ally.title",
+            "value": "Tidur"
+        },
+        {
+            "key": "ability.on_turn_start_reduce_attack1.desc",
+            "value": "Pada awal giliran pengendali, kehilangan 1 serangan."
+        },
+        {
+            "key": "ability.on_turn_start_reduce_attack1.title",
+            "value": "Kutukan"
+        },
+        {
+            "key": "ability.on_turn_start_sleep.desc",
+            "value": "Pada awal giliran, jangan siapkan diri."
+        },
+        {
+            "key": "ability.on_turn_start_sleep.title",
+            "value": "Tidur"
+        },
+        {
+            "key": "ability.poison_suffering.desc",
+            "value": "Saat menyerang, terima 3 kerusakan."
+        },
+        {
+            "key": "ability.poison_suffering.title",
+            "value": "Penderitaan"
+        },
+        {
+            "key": "ability.play_armor1.desc",
+            "value": "Saat dimainkan, dapatkan +1 Perisai."
+        },
+        {
+            "key": "ability.play_armor1.title",
+            "value": "Perisai"
+        },
+        {
+            "key": "ability.play_armor2.desc",
+            "value": "Saat dimainkan, dapatkan +2 Perisai."
+        },
+        {
+            "key": "ability.play_armor2.title",
+            "value": "Perisai"
+        },
+        {
+            "key": "ability.play_armor3.desc",
+            "value": "Saat dimainkan, dapatkan +3 Perisai."
+        },
+        {
+            "key": "ability.play_armor3.title",
+            "value": "Perisai"
+        },
+        {
+            "key": "ability.play_boost_all2.desc",
+            "value": "Saat dimainkan, berikan +2/+2 hingga akhir giliran."
+        },
+        {
+            "key": "ability.play_boost_all2.title",
+            "value": "Peningkatan"
+        },
+        {
+            "key": "ability.play_boost_self1.desc",
+            "value": "Saat dimainkan, dapatkan +1/+1."
+        },
+        {
+            "key": "ability.play_boost_self1.title",
+            "value": "Peningkatan"
+        },
+        {
+            "key": "ability.play_boost_self2.desc",
+            "value": "Saat dimainkan, dapatkan +2/+2."
+        },
+        {
+            "key": "ability.play_boost_self2.title",
+            "value": "Peningkatan"
+        },
+        {
+            "key": "ability.play_boost_self3.desc",
+            "value": "Saat dimainkan, dapatkan +3/+3."
+        },
+        {
+            "key": "ability.play_boost_self3.title",
+            "value": "Peningkatan"
+        },
+        {
+            "key": "ability.play_curse.desc",
+            "value": "Saat dimainkan, berikan Kutukan."
+        },
+        {
+            "key": "ability.play_curse.title",
+            "value": "Kutukan"
+        },
+        {
+            "key": "ability.play_curse_suffering.desc",
+            "value": "Saat dimainkan, tambahkan Kutukan Penderitaan ke monster."
+        },
+        {
+            "key": "ability.play_curse_suffering.title",
+            "value": "Kutukan Penderitaan"
+        },
+        {
             "key": "ability.play_damage_all1.desc",
-            "value": "Saat dimainkan, berikan 1 kerusakan ke semua kartu lainnya."
+            "value": "Saat dimainkan, berikan 1 kerusakan ke semua."
         },
         {
             "key": "ability.play_damage_all1.title",
-            "value": "Kerusakan Semua"
+            "value": "Kerusakan"
         },
         {
             "key": "ability.play_damage_all2.desc",
-            "value": "Saat dimainkan, berikan 2 kerusakan ke semua kartu lainnya."
+            "value": "Saat dimainkan, berikan 2 kerusakan ke semua."
         },
         {
             "key": "ability.play_damage_all2.title",
             "value": "Kerusakan"
         },
         {
-            "key": "ability.play_damage_electric_all2.desc",
-            "value": "Saat dimainkan, berikan 2 kerusakan ke monster musuh"
+            "key": "ability.play_damage_self1.desc",
+            "value": "Saat dimainkan, berikan 1 kerusakan ke diri sendiri."
         },
         {
-            "key": "ability.play_damage_electric_all2.title",
-            "value": "Kerusakan Listrik"
-        },
-        {
-            "key": "ability.play_damage_frozen2.desc",
-            "value": "Saat dimainkan, berikan 2 kerusakan kepada karakter yang beku."
-        },
-        {
-            "key": "ability.play_damage_frozen2.title",
+            "key": "ability.play_damage_self1.title",
             "value": "Kerusakan"
         },
         {
-            "key": "ability.play_deal_damage_cards_players2.desc",
-            "value": "Saat dimainkan, berikan 1 kerusakan ke target mana pun."
+            "key": "ability.play_damage_target1.desc",
+            "value": "Saat dimainkan, berikan 1 kerusakan ke target."
         },
         {
-            "key": "ability.play_deal_damage_cards_players2.title",
+            "key": "ability.play_damage_target1.title",
             "value": "Kerusakan"
         },
         {
-            "key": "ability.play_deal_damage1.desc",
-            "value": "Saat dimainkan, berikan 1 kerusakan ke target mana pun."
+            "key": "ability.play_damage_target2.desc",
+            "value": "Saat dimainkan, berikan 2 kerusakan ke target."
         },
         {
-            "key": "ability.play_deal_damage1.title",
+            "key": "ability.play_damage_target2.title",
             "value": "Kerusakan"
         },
         {
-            "key": "ability.play_deal_damage2.desc",
-            "value": "Saat dimainkan, berikan 2 kerusakan ke target mana pun."
+            "key": "ability.play_damage_target3.desc",
+            "value": "Saat dimainkan, berikan 3 kerusakan ke target."
         },
         {
-            "key": "ability.play_deal_damage2.title",
+            "key": "ability.play_damage_target3.title",
             "value": "Kerusakan"
         },
         {
-            "key": "ability.play_destroy_less2.desc",
-            "value": "Saat dimainkan, hancurkan karakter dengan serangan 2 atau kurang. Jika berhasil, tarik sebuah kartu."
+            "key": "ability.play_destroy_2atk.desc",
+            "value": "Saat dimainkan, hancurkan monster dengan serangan 2 atau kurang."
         },
         {
-            "key": "ability.play_destroy_less2.title",
-            "value": "Pembunuh"
+            "key": "ability.play_destroy_2atk.title",
+            "value": "Penghancuran"
         },
         {
-            "key": "ability.play_destroy_less3.desc",
-            "value": "Saat dimainkan, hancurkan karakter dengan serangan 3 atau kurang. Jika berhasil, tarik sebuah kartu."
+            "key": "ability.play_draw1.desc",
+            "value": "Saat dimainkan, ambil 1 kartu."
         },
         {
-            "key": "ability.play_destroy_less3.title",
-            "value": "Pembunuh"
-        },
-        {
-            "key": "ability.play_destroy_less4.desc",
-            "value": "Saat dimainkan, hancurkan karakter dengan serangan 3 atau kurang."
-        },
-        {
-            "key": "ability.play_destroy_less4.title",
-            "value": "Pembunuh"
-        },
-        {
-            "key": "ability.play_discard.desc",
-            "value": "Lawan membuang kartu acak dari tangannya."
-        },
-        {
-            "key": "ability.play_discard.title",
-            "value": "Buang"
-        },
-        {
-            "key": "ability.play_discard_draw.desc",
-            "value": "Buang kartu acak dari tangan pemain dan tarik dua kartu baru."
-        },
-        {
-            "key": "ability.play_discard_draw.title",
-            "value": "Bertaruh"
-        },
-        {
-            "key": "ability.play_discard3.desc",
-            "value": "Lawan membuang 3 kartu acak dari tangannya."
-        },
-        {
-            "key": "ability.play_discard3.title",
-            "value": "Buang"
-        },
-        {
-            "key": "ability.play_draw.desc",
-            "value": "Tarik sebuah kartu"
-        },
-        {
-            "key": "ability.play_draw.title",
-            "value": "Tarik"
-        },
-        {
-            "key": "ability.play_draw_ice_location.desc",
-            "value": "Jika ada Igloo di medan, tarik satu kartu."
-        },
-        {
-            "key": "ability.play_draw_ice_location.title",
-            "value": "Tarikan Igloo"
-        },
-        {
-            "key": "ability.play_enemy_discard.desc",
-            "value": "Lawan membuang kartu acak dari tangannya."
-        },
-        {
-            "key": "ability.play_enemy_discard.title",
-            "value": "Buang"
+            "key": "ability.play_draw1.title",
+            "value": "Ambil"
         },
         {
             "key": "ability.play_freeze.desc",
-            "value": "Karakter target menjadi beku selama 1 giliran."
+            "value": "Saat dimainkan, bekukan target."
         },
         {
             "key": "ability.play_freeze.title",
-            "value": "Beku"
+            "value": "Bekukan"
         },
         {
-            "key": "ability.play_freeze_2al.desc",
-            "value": "Karakter target menjadi beku selama 1 giliran."
+            "key": "ability.play_heal_all2.desc",
+            "value": "Saat dimainkan, sembuhkan semua sebesar 2 HP."
         },
         {
-            "key": "ability.play_freeze_2al.title",
-            "value": "Beku"
+            "key": "ability.play_heal_all2.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.play_freeze_3al.desc",
-            "value": "Karakter target menjadi beku selama 1 giliran."
+            "key": "ability.play_heal_self2.desc",
+            "value": "Saat dimainkan, sembuhkan diri sebesar 2 HP."
         },
         {
-            "key": "ability.play_freeze_3al.title",
-            "value": "Beku"
+            "key": "ability.play_heal_self2.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.play_freeze_4al.desc",
-            "value": "Karakter target dengan 4 atau kurang serangan menjadi beku selama 1 giliran."
+            "key": "ability.play_heal_target2.desc",
+            "value": "Saat dimainkan, sembuhkan target sebesar 2 HP."
         },
         {
-            "key": "ability.play_freeze_4al.title",
-            "value": "Beku Terarah (4 Serangan)"
+            "key": "ability.play_heal_target2.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.play_freeze_all.desc",
-            "value": "Semua karakter menjadi beku."
+            "key": "ability.play_heal_target3.desc",
+            "value": "Saat dimainkan, sembuhkan target sebesar 3 HP."
         },
         {
-            "key": "ability.play_freeze_all.title",
-            "value": "Badai Salju Besar"
+            "key": "ability.play_heal_target3.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.play_freeze_all_3al.desc",
-            "value": "Semua musuh dengan 3 atau kurang serangan menjadi beku."
+            "key": "ability.play_heal_target_hp2.desc",
+            "value": "Saat dimainkan, sembuhkan monster dari semua efek status negatif dan berikan +2 HP."
         },
         {
-            "key": "ability.play_freeze_all_3al.title",
-            "value": "Badai Salju"
-        },
-        {
-            "key": "ability.play_freeze_all_4al.desc",
-            "value": "Semua musuh dengan 4 atau kurang serangan menjadi beku."
-        },
-        {
-            "key": "ability.play_freeze_all_4al.title",
-            "value": "Badai Salju"
-        },
-        {
-            "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Memberikan +1 Serangan untuk setiap Igloo yang telah dimainkan di pertandingan ini."
-        },
-        {
-            "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "Bonus Igloo"
-        },
-        {
-            "key": "ability.play_gain_rush_ice_location.desc",
-            "value": "Dapatkan Rush jika ada lokasi es di permainan. Rush memungkinkanmu menyerang kartu lain pada giliran saat dimainkan."
-        },
-        {
-            "key": "ability.play_gain_rush_ice_location.title",
-            "value": "Lari Salju"
-        },
-        {
-            "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "Dapatkan Rush jika ada lokasi es di permainan. Rush memungkinkanmu menyerang kartu lain pada giliran saat dimainkan."
-        },
-        {
-            "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "Lari Salju"
-        },
-        {
-            "key": "ability.play_heal_player2.desc",
-            "value": "Saat dimainkan, sembuhkan pemain sebesar 4 HP"
-        },
-        {
-            "key": "ability.play_heal_player2.title",
-            "value": "Berkat Pemain"
-        },
-        {
-            "key": "ability.play_heal_player4.desc",
-            "value": "Saat dimainkan, sembuhkan pemain sebesar 4 HP"
-        },
-        {
-            "key": "ability.play_heal_player4.title",
-            "value": "Berkat Pemain"
-        },
-        {
-            "key": "ability.play_other_sacrifice.desc",
-            "value": "Saat makhluk sekutu masuk permainan, hancurkan kartu ini."
-        },
-        {
-            "key": "ability.play_other_sacrifice.title",
-            "value": "Kepunahan"
+            "key": "ability.play_heal_target_hp2.title",
+            "value": "Penyembuhan"
         },
         {
             "key": "ability.play_poison.desc",
-            "value": "Karakter target terkena racun. Mereka kehilangan 1 HP setiap giliran."
+            "value": "Saat dimainkan, racuni target."
         },
         {
             "key": "ability.play_poison.title",
             "value": "Racun"
         },
         {
-            "key": "ability.play_poison_all.desc",
-            "value": "Saat dimainkan, racuni semua kartu di permainan."
+            "key": "ability.play_reduce_attack1.desc",
+            "value": "Saat dimainkan, kurangi serangan monster target menjadi 1."
         },
         {
-            "key": "ability.play_poison_all.title",
-            "value": "Racuni Semua"
+            "key": "ability.play_reduce_attack1.title",
+            "value": "Kurangi Serangan"
         },
         {
-            "key": "ability.play_poison_all_enemies.desc",
-            "value": "Saat dimainkan, racuni semua musuh di permainan."
+            "key": "ability.play_regeneration.desc",
+            "value": "Saat dimainkan, dapatkan Regenerasi."
         },
         {
-            "key": "ability.play_poison_all_enemies.title",
-            "value": "Racuni Musuh"
+            "key": "ability.play_regeneration.title",
+            "value": "Regenerasi"
         },
         {
-            "key": "ability.play_return_target_hand.desc",
-            "value": "Kembalikan target apa pun ke tangan pemiliknya."
+            "key": "ability.play_return_hand.desc",
+            "value": "Saat dimainkan, kembalikan monster ke tangan."
         },
         {
-            "key": "ability.play_return_target_hand.title",
-            "value": "Kembalikan"
+            "key": "ability.play_return_hand.title",
+            "value": "Pantul"
         },
         {
-            "key": "ability.play_roll_attack.desc",
-            "value": "Lempar D6, tingkatkan serangan kartu ini sebesar hasilnya."
+            "key": "ability.play_return_hand_any.desc",
+            "value": "Saat dimainkan, kembalikan target apa pun ke tangan pemiliknya."
         },
         {
-            "key": "ability.play_roll_attack.title",
-            "value": "Serangan Acak."
+            "key": "ability.play_return_hand_any.title",
+            "value": "Pantul"
         },
         {
-            "key": "ability.play_select_discard_any.desc",
-            "value": "Saat dimainkan, kembalikan kartu dari kuburanmu ke tanganmu."
+            "key": "ability.play_return_hand_enemy.desc",
+            "value": "Saat dimainkan, kembalikan monster musuh ke tangan pemiliknya."
         },
         {
-            "key": "ability.play_select_discard_any.title",
-            "value": "Galian Dalam"
-        },
-        {
-            "key": "ability.play_select_discard_character.desc",
-            "value": "Saat dimainkan, kembalikan karakter dari kuburanmu ke tanganmu."
-        },
-        {
-            "key": "ability.play_select_discard_character.title",
-            "value": "Gali"
-        },
-        {
-            "key": "ability.play_send_hand.desc",
-            "value": "Saat dimainkan, kembalikan karakter ke tangan pemiliknya."
-        },
-        {
-            "key": "ability.play_send_hand.title",
-            "value": "Kembalikan"
-        },
-        {
-            "key": "ability.play_set_attack1.desc",
-            "value": "Saat dimainkan, serangan target yang dipilih dikurangi menjadi 1."
-        },
-        {
-            "key": "ability.play_set_attack1.title",
-            "value": "Listrikkan"
-        },
-        {
-            "key": "ability.play_set_attack3.desc",
-            "value": "Saat dimainkan, serangan target yang dipilih disetel menjadi 3."
-        },
-        {
-            "key": "ability.play_set_attack3.title",
-            "value": "Psikis"
+            "key": "ability.play_return_hand_enemy.title",
+            "value": "Pantul"
         },
         {
             "key": "ability.play_silence.desc",
-            "value": "Kemampuan target dibatalkan."
+            "value": "Saat dimainkan, diamkan kartu target."
         },
         {
             "key": "ability.play_silence.title",
-            "value": "Bungkam"
+            "value": "Diamkan"
         },
         {
-            "key": "ability.play_silence_curse.desc",
-            "value": "Kemampuan target dibatalkan dan monster dikutuk"
+            "key": "ability.play_summon_dragon.desc",
+            "value": "Saat dimainkan, temukan Naga."
         },
         {
-            "key": "ability.play_silence_curse.title",
-            "value": "Kutuk Bungkam"
-        },
-        {
-            "key": "ability.play_suffer.desc",
-            "value": "Makhluk target mendapatkan \"Terima 3 kerusakan sebelum menyerang\"."
-        },
-        {
-            "key": "ability.play_suffer.title",
-            "value": "Retakan Tanah"
-        },
-        {
-            "key": "ability.play_summon_cat.desc",
-            "value": "Saat dimainkan, panggil anak kucing Jagur 1/1 pada slot kosong yang berdekatan."
-        },
-        {
-            "key": "ability.play_summon_cat.title",
-            "value": "Panggil Jagur"
-        },
-        {
-            "key": "ability.play_summon_fractail.desc",
-            "value": "Saat dimainkan, panggil bayi Lizo pada slot kosong yang berdekatan."
-        },
-        {
-            "key": "ability.play_summon_fractail.title",
-            "value": "Panggil Lizo"
+            "key": "ability.play_summon_dragon.title",
+            "value": "Panggil"
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "Saat dimainkan, panggil seorang Hajiko."
+            "value": "Saat dimainkan, panggil Hajiko."
         },
         {
             "key": "ability.play_summon_hajiko.title",
-            "value": "Panggil Hajiko"
+            "value": "Panggil"
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "Saat dimainkan, panggil sebuah Igloo."
+            "value": "Saat dimainkan, panggil Igloo."
         },
         {
             "key": "ability.play_summon_igloo.title",
-            "value": "Panggil Igloo"
+            "value": "Panggil"
         },
         {
-            "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Panggil sebuah Igloo jika belum ada yang berada di medan."
+            "key": "ability.play_summon_igloo_2.desc",
+            "value": "Saat dimainkan, panggil Igloo dua kali."
         },
         {
-            "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Bangun Igloo"
+            "key": "ability.play_summon_igloo_2.title",
+            "value": "Panggil"
         },
         {
-            "key": "ability.play_summon_igloo2.desc",
-            "value": "Waktu dimainkan, panggil 2 Igloo."
+            "key": "ability.play_summon_lampis.desc",
+            "value": "Saat dimainkan, panggil tiga Lampi 2/1 ke tangan Anda."
         },
         {
-            "key": "ability.play_summon_igloo2.title",
-            "value": "Panggil Igloo"
+            "key": "ability.play_summon_lampis.title",
+            "value": "Panggil"
         },
         {
-            "key": "ability.play_summon_igloo2_freeze3al.desc",
-            "value": "Waktu dimainkan, panggil 2 Igloo."
+            "key": "ability.play_summon_pyros.desc",
+            "value": "Saat dimainkan, panggil 3 Pyro ke tangan Anda."
         },
         {
-            "key": "ability.play_summon_igloo2_freeze3al.title",
-            "value": "Panggil Igloo"
+            "key": "ability.play_summon_pyros.title",
+            "value": "Panggil"
         },
         {
-            "key": "ability.play_switch_sides_2ml.desc",
-            "value": "Saat dimainkan, pilih karakter target dengan biaya mana 2 atau kurang untuk bertukar sisi"
+            "key": "ability.play_target_boost2.desc",
+            "value": "Saat dimainkan, berikan +2/+2 ke target."
         },
         {
-            "key": "ability.play_switch_sides_2ml.title",
-            "value": "Pertukaran Loyalitas"
+            "key": "ability.play_target_boost2.title",
+            "value": "Peningkatan"
         },
         {
-            "key": "ability.play_switch_sides_any.desc",
-            "value": "Saat dimainkan, pilih karakter apa pun di papan dan kirim ke pemain lain."
+            "key": "ability.play_target_damage1.desc",
+            "value": "Saat dimainkan, berikan 1 kerusakan ke target."
         },
         {
-            "key": "ability.play_switch_sides_any.title",
-            "value": "Pertukaran Loyalitas"
+            "key": "ability.play_target_damage1.title",
+            "value": "Kerusakan"
         },
         {
-            "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
-            "value": "Saat dimainkan, pilih karakter apa pun di papan dan kirim ke pemain lain."
+            "key": "ability.play_target_heal2.desc",
+            "value": "Saat dimainkan, sembuhkan target sebesar 2 HP."
         },
         {
-            "key": "ability.play_switch_sides_any_add_ally_damage2.title",
-            "value": "Pertukaran Loyalitas"
+            "key": "ability.play_target_heal2.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.play_switch_sides_give_ally_damage2.desc",
-            "value": "Saat dimainkan, pilih karakter di bawah kendalimu dan kirim ke pemain lain."
+            "key": "ability.play_target_poison.desc",
+            "value": "Saat dimainkan, racuni target."
         },
         {
-            "key": "ability.play_switch_sides_give_ally_damage2.title",
-            "value": "Pertukaran Loyalitas"
+            "key": "ability.play_target_poison.title",
+            "value": "Racun"
         },
         {
-            "key": "ability.play_switch_sides_give_discard_2.desc",
-            "value": "Saat dimainkan, pilih karakter di bawah kendalimu dan kirim ke pemain lain dengan kemampuan: buang 2 kartu dari tangan setiap giliran"
+            "key": "ability.play_target_silence.desc",
+            "value": "Saat dimainkan, diamkan target."
         },
         {
-            "key": "ability.play_switch_sides_give_discard_2.title",
-            "value": "Pertukaran Loyalitas"
+            "key": "ability.play_target_silence.title",
+            "value": "Diamkan"
         },
         {
-            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
-            "value": "Saat dimainkan, pilih karakter di bawah kendalimu dan kirim ke pemain lain dengan kemampuan: buang 2 kartu dari tangan setiap giliran"
+            "key": "ability.play_target_silence_curse.desc",
+            "value": "Saat dimainkan, diamkan monster target, kemudian kutuk monster target."
         },
         {
-            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
-            "value": "Pertukaran Loyalitas"
+            "key": "ability.play_target_silence_curse.title",
+            "value": "Diamkan dan Kutuk"
         },
         {
-            "key": "ability.regen_all.desc",
-            "value": "Di awal giliranmu, makhluk ini pulih sepenuhnya."
+            "key": "ability.play_target_swap.desc",
+            "value": "Saat dimainkan, tukar monster ini dengan monster musuh."
         },
         {
-            "key": "ability.regen_all.title",
-            "value": "Regenerasi"
+            "key": "ability.play_target_swap.title",
+            "value": "Tukar"
         },
         {
-            "key": "ability.regen3.desc",
-            "value": "Di awal giliranmu, pulihkan 3 HP."
+            "key": "ability.reach.desc",
+            "value": "Monster terbang harus menargetkan monster ini."
         },
         {
-            "key": "ability.regen3.title",
-            "value": "Regenerasi"
+            "key": "ability.reach.title",
+            "value": "Jangkauan"
         },
         {
-            "key": "ability.rush.desc",
-            "value": "Bisa langsung nyerang, tapi nggak bisa nyerang pemain lawan di giliran ini."
+            "key": "ability.reveal_hand.desc",
+            "value": "Pada awal giliran, ungkap tangan lawan."
         },
         {
-            "key": "ability.rush.title",
-            "value": "Serangan Kilat"
+            "key": "ability.reveal_hand.title",
+            "value": "Ungkap Tangan"
         },
         {
-            "key": "ability.secret_return_hand.desc",
-            "value": "Saat makhluk musuh berikutnya dimainkan, kembalikan ke tangannya."
+            "key": "ability.reveal_hand_end_turn.desc",
+            "value": "Pada akhir giliran, ungkap tangan lawan."
         },
         {
-            "key": "ability.secret_return_hand.title",
-            "value": "Daya Pikir"
-        },
-        {
-            "key": "ability.secret_silence.desc",
-            "value": "Hapus semua kemampuan dari karakter yang terperangkap"
-        },
-        {
-            "key": "ability.secret_silence.title",
-            "value": "Bungkam"
-        },
-        {
-            "key": "ability.secret_transform_fish.desc",
-            "value": "Saat makhluk musuh berikutnya dimainkan, ubah menjadi ikan 1/1."
-        },
-        {
-            "key": "ability.secret_transform_fish.title",
-            "value": "Berubah menjadi Ikan"
+            "key": "ability.reveal_hand_end_turn.title",
+            "value": "Ungkap Tangan"
         },
         {
             "key": "ability.shell.desc",
@@ -1581,404 +1769,440 @@
             "value": "Cangkang"
         },
         {
-            "key": "ability.spell_add_attack_suffer.desc",
-            "value": "Makhluk target mendapatkan \"Terima 3 kerusakan sebelum menyerang\"."
+            "key": "ability.shell_igloo.desc",
+            "value": "Igloo mendapatkan Ketidakkalahan."
         },
         {
-            "key": "ability.spell_add_attack_suffer.title",
-            "value": "Kutukan Penderitaan"
+            "key": "ability.shell_igloo.title",
+            "value": "Cangkang Igloo"
         },
         {
-            "key": "ability.spell_add_play_extinct.desc",
-            "value": "Kartu target mendapatkan \"Saat makhluk sekutu masuk permainan, hancurkan kartu ini\"."
+            "key": "ability.slush_rush.desc",
+            "value": "Dapatkan Kecepatan jika lokasi es ada di permainan."
         },
         {
-            "key": "ability.spell_add_play_extinct.title",
-            "value": "Punah"
+            "key": "ability.slush_rush.title",
+            "value": "Geser Kecepatan"
         },
         {
-            "key": "ability.spell_add_submerge.desc",
-            "value": "Kartu target mendapatkan \"Saat diserang, lawan harus membuang 1 kartu acak\"."
+            "key": "ability.spell_damage_all1.desc",
+            "value": "Mantra memberikan 1 kerusakan ke kartu acak."
         },
         {
-            "key": "ability.spell_add_submerge.title",
-            "value": "Kembalikan"
-        },
-        {
-            "key": "ability.spell_ally_attack_2.desc",
-            "value": "Semua karakter sekutu mendapatkan +2/+2"
-        },
-        {
-            "key": "ability.spell_ally_attack_2.title",
-            "value": "Pertumbuhan"
-        },
-        {
-            "key": "ability.spell_ally_plant_attack_2.desc",
-            "value": "Semua karakter sekutu mendapatkan +2/+2"
-        },
-        {
-            "key": "ability.spell_ally_plant_attack_2.title",
-            "value": "Pertumbuhan"
-        },
-        {
-            "key": "ability.spell_armor2.desc",
-            "value": "Target mendapatkan zirah 2 yang mengurangi kerusakan langsung dari karakter sebesar 2."
-        },
-        {
-            "key": "ability.spell_armor2.title",
-            "value": "Zirah +2"
-        },
-        {
-            "key": "ability.spell_attack1.desc",
-            "value": "Target mendapatkan 1 serangan."
-        },
-        {
-            "key": "ability.spell_attack1.title",
-            "value": "Serangan +1"
-        },
-        {
-            "key": "ability.spell_coin.desc",
-            "value": "Dapatkan 1 mana pada giliran ini."
-        },
-        {
-            "key": "ability.spell_coin.title",
-            "value": "Koin"
-        },
-        {
-            "key": "ability.spell_cure_2_2.desc",
-            "value": "Target mendapatkan +2/+2 permanen dan menyembuhkan semua efek negatif."
-        },
-        {
-            "key": "ability.spell_cure_2_2.title",
-            "value": "Peningkatan Penyembuhan"
-        },
-        {
-            "key": "ability.spell_damage_per_hand.desc",
-            "value": "HP semua karakter di papan diturunkan menjadi 1."
-        },
-        {
-            "key": "ability.spell_damage_per_hand.title",
-            "value": "Banjir"
-        },
-        {
-            "key": "ability.spell_damage1.desc",
-            "value": "Berikan 1 kerusakan."
-        },
-        {
-            "key": "ability.spell_damage1.title",
+            "key": "ability.spell_damage_all1.title",
             "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_damage3.desc",
-            "value": "Berikan 3 kerusakan."
+            "key": "ability.spell_damage_all2.desc",
+            "value": "Mantra memberikan 2 kerusakan ke semua monster musuh."
         },
         {
-            "key": "ability.spell_damage3.title",
+            "key": "ability.spell_damage_all2.title",
             "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_destroy.desc",
-            "value": "Hancurkan karakter atau lokasi target."
+            "key": "ability.spell_damage_all3.desc",
+            "value": "Mantra memberikan 3 kerusakan ke semua."
         },
         {
-            "key": "ability.spell_destroy.title",
-            "value": "Hancurkan"
+            "key": "ability.spell_damage_all3.title",
+            "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_destroy_all.desc",
-            "value": "Hancurkan semua kartu di papan."
+            "key": "ability.spell_damage_ally1_target2.desc",
+            "value": "Mantra memberikan 1 kerusakan ke monster sekutu, kemudian 2 kerusakan ke target apa pun."
         },
         {
-            "key": "ability.spell_destroy_all.title",
-            "value": "Armagedon"
+            "key": "ability.spell_damage_ally1_target2.title",
+            "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_destroy_frozen_all.desc",
-            "value": "Hancurkan semua kartu beku di papan"
+            "key": "ability.spell_damage_ally1_target2_random.desc",
+            "value": "Mantra memberikan 1 kerusakan ke monster sekutu, kemudian 2 kerusakan ke target acak dua kali."
         },
         {
-            "key": "ability.spell_destroy_frozen_all.title",
-            "value": "Gelombang Beku"
+            "key": "ability.spell_damage_ally1_target2_random.title",
+            "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Bidik dan hancurkan karakter yang beku."
+            "key": "ability.spell_damage_ally1_target3.desc",
+            "value": "Mantra memberikan 1 kerusakan ke monster sekutu, kemudian 3 kerusakan ke target apa pun."
         },
         {
-            "key": "ability.spell_destroy_frozen_target.title",
-            "value": "Pemecah Es"
+            "key": "ability.spell_damage_ally1_target3.title",
+            "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_destroy_location_target.desc",
-            "value": "Bidik sebuah lokasi lalu hancurkan."
+            "key": "ability.spell_damage_target1.desc",
+            "value": "Mantra memberikan 1 kerusakan ke target."
         },
         {
-            "key": "ability.spell_destroy_location_target.title",
-            "value": "Longsoran Salju"
+            "key": "ability.spell_damage_target1.title",
+            "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_destroy_locations.desc",
-            "value": "Hancurkan semua lokasi di papan"
+            "key": "ability.spell_damage_target2.desc",
+            "value": "Mantra memberikan 2 kerusakan ke target."
         },
         {
-            "key": "ability.spell_destroy_locations.title",
-            "value": "Longsor"
+            "key": "ability.spell_damage_target2.title",
+            "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_dragon_summon.desc",
-            "value": "Pilih naga dari dekmu untuk dipanggil ke tanganmu."
+            "key": "ability.spell_damage_target3.desc",
+            "value": "Mantra memberikan 3 kerusakan ke target."
         },
         {
-            "key": "ability.spell_dragon_summon.title",
-            "value": "Temukan Naga"
+            "key": "ability.spell_damage_target3.title",
+            "value": "Kerusakan"
         },
         {
-            "key": "ability.spell_draw1.desc",
-            "value": "Tarik 1 kartu."
+            "key": "ability.spell_destroy_frozen.desc",
+            "value": "Mantra menghancurkan target beku."
         },
         {
-            "key": "ability.spell_draw1.title",
-            "value": "Tarik"
+            "key": "ability.spell_destroy_frozen.title",
+            "value": "Penghancuran"
         },
         {
-            "key": "ability.spell_draw2.desc",
-            "value": "Tarik 2 kartu."
+            "key": "ability.spell_destroy_location.desc",
+            "value": "Mantra menghancurkan lokasi."
         },
         {
-            "key": "ability.spell_draw2.title",
-            "value": "Tarik"
+            "key": "ability.spell_destroy_location.title",
+            "value": "Penghancuran"
         },
         {
-            "key": "ability.spell_electric_ally.desc",
-            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 1 Monster Listrik ke tanganmu."
+            "key": "ability.spell_discard_3.desc",
+            "value": "Mantra memaksa lawan membuang 3 kartu acak dari tangan."
         },
         {
-            "key": "ability.spell_electric_ally.title",
-            "value": "Sekutu Listrik"
+            "key": "ability.spell_discard_3.title",
+            "value": "Buang"
         },
         {
-            "key": "ability.spell_electric_attack_2.desc",
-            "value": "Semua monster Listrik mendapatkan +2 serangan"
+            "key": "ability.spell_discard_random.desc",
+            "value": "Mantra memaksa lawan membuang kartu acak dari tangan."
         },
         {
-            "key": "ability.spell_freeze.desc",
-            "value": "Bekukan target selama 1 giliran."
+            "key": "ability.spell_discard_random.title",
+            "value": "Buang"
         },
         {
-            "key": "ability.spell_freeze.title",
-            "value": "Beku"
+            "key": "ability.spell_freeze_all.desc",
+            "value": "Mantra membekukan semua monster di permainan."
         },
         {
-            "key": "ability.spell_fury.desc",
-            "value": "Karakter target mendapatkan Amukan. Ia dapat menyerang dua kali per giliran."
+            "key": "ability.spell_freeze_all.title",
+            "value": "Bekukan"
         },
         {
-            "key": "ability.spell_fury.title",
-            "value": "Amukan"
+            "key": "ability.spell_freeze_target.desc",
+            "value": "Mantra membekukan target selama 1 giliran."
         },
         {
-            "key": "ability.spell_haste.desc",
-            "value": "Karakter target mendapatkan Kilatan. Ia dapat menyerang segera."
+            "key": "ability.spell_freeze_target.title",
+            "value": "Bekukan"
         },
         {
-            "key": "ability.spell_haste.title",
-            "value": "Kilatan"
+            "key": "ability.spell_heal_all2.desc",
+            "value": "Mantra menyembuhkan semua sebesar 2 HP."
         },
         {
-            "key": "ability.spell_heal_full.desc",
-            "value": "Kartu target pulih sepenuhnya."
+            "key": "ability.spell_heal_all2.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.spell_heal_full.title",
-            "value": "Sembuhkan"
+            "key": "ability.spell_heal_player3.desc",
+            "value": "Mantra menyembuhkan pemain sebesar 3 HP."
         },
         {
-            "key": "ability.spell_hibernate.desc",
-            "value": "Karakter target mendapatkan +4/+4 dan tertidur selama 2 giliran berikutnya."
+            "key": "ability.spell_heal_player3.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.spell_hibernate.title",
-            "value": "Hibernasi"
+            "key": "ability.spell_heal_target2.desc",
+            "value": "Mantra menyembuhkan target sebesar 2 HP."
         },
         {
-            "key": "ability.spell_hp2.desc",
-            "value": "Target mendapatkan 2 HP."
+            "key": "ability.spell_heal_target2.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.spell_hp2.title",
-            "value": "HP +2"
+            "key": "ability.spell_hp_to1.desc",
+            "value": "Mantra mengurangi HP semua monster menjadi 1."
         },
         {
-            "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Mempercepat evolusi karakter Es sebanyak 1 giliran."
+            "key": "ability.spell_hp_to1.title",
+            "value": "Kurangi HP"
         },
         {
-            "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "Pengurangan Evolusi Es"
+            "key": "ability.spell_hp_attack_to1.desc",
+            "value": "Mantra mengurangi HP dan Serangan semua monster menjadi 1."
         },
         {
-            "key": "ability.spell_ice_treasure.desc",
-            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 1 kartu es ke tanganmu."
+            "key": "ability.spell_hp_attack_to1.title",
+            "value": "Kurangi"
         },
         {
-            "key": "ability.spell_ice_treasure.title",
-            "value": "Harta Karun Es"
+            "key": "ability.spell_paralyse3.desc",
+            "value": "Mantra melumpuhkan target selama 3 giliran."
         },
         {
-            "key": "ability.spell_immunity.desc",
-            "value": "Tidak dapat menjadi target atau dirusak oleh kartu mantra."
+            "key": "ability.spell_paralyse3.title",
+            "value": "Lumpuh"
         },
         {
-            "key": "ability.spell_immunity.title",
-            "value": "Imunitas Mantra"
+            "key": "ability.spell_poison_all.desc",
+            "value": "Mantra meracun semua kartu di permainan."
         },
         {
-            "key": "ability.spell_kill_lowest_hp.desc",
-            "value": "Bunuh karakter di permainan dengan HP terendah (termasuk milikmu)."
+            "key": "ability.spell_poison_all.title",
+            "value": "Racun"
         },
         {
-            "key": "ability.spell_kill_lowest_hp.title",
-            "value": "Injak"
+            "key": "ability.spell_return_hand.desc",
+            "value": "Mantra mengembalikan target musuh ke tangan pemiliknya."
         },
         {
-            "key": "ability.spell_paralyse.desc",
-            "value": "Lumpuhkan karakter target selama 3 giliran."
+            "key": "ability.spell_return_hand.title",
+            "value": "Pantul"
         },
         {
-            "key": "ability.spell_paralyse.title",
-            "value": "Lumpuhkan"
+            "key": "ability.spell_return_hand_any.desc",
+            "value": "Mantra mengembalikan target apa pun ke tangan pemiliknya."
         },
         {
-            "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Berikan 1 kerusakan ke kartu musuh acak.\nUlangi X kali."
+            "key": "ability.spell_return_hand_any.title",
+            "value": "Pantul"
         },
         {
-            "key": "ability.spell_projectile1_repeat.title",
-            "value": "Proyektil"
+            "key": "ability.spell_return_hand_discard.desc",
+            "value": "Mantra mengembalikan target ke tangan pemiliknya, kemudian lawan membuang kartu acak dari tangan."
         },
         {
-            "key": "ability.spell_return_all.desc",
-            "value": "Semua kartu di papan kembali ke tangan pemiliknya."
+            "key": "ability.spell_return_hand_discard.title",
+            "value": "Pantul dan Buang"
         },
         {
-            "key": "ability.spell_return_all.title",
-            "value": "Badai Laut"
+            "key": "ability.spell_summon_golem.desc",
+            "value": "Mantra memanggil golem batu dengan Tantangan dan X serangan serta X HP berdasarkan mana yang dibelanjakan."
         },
         {
-            "key": "ability.spell_send_hand_any.desc",
-            "value": "Kembalikan target yang dimainkan ke tangan pemiliknya."
+            "key": "ability.spell_summon_golem.title",
+            "value": "Panggil"
         },
         {
-            "key": "ability.spell_send_hand_any.title",
-            "value": "Kembalikan Tangan Apa Pun"
+            "key": "ability.spell_target_add_damage3_before_attack.desc",
+            "value": "Mantra memberikan target \"Terima 3 kerusakan sebelum menyerang\"."
         },
         {
-            "key": "ability.spell_send_hand_any_then_discard.desc",
-            "value": "Kembalikan target yang dimainkan ke tangan pemiliknya."
+            "key": "ability.spell_target_add_damage3_before_attack.title",
+            "value": "Kerusakan Tambahan"
         },
         {
-            "key": "ability.spell_send_hand_any_then_discard.title",
-            "value": "Kembalikan Tangan Apa Pun"
+            "key": "ability.spell_target_add_discard_on_attack.desc",
+            "value": "Mantra memberikan target \"Ketika diserang, lawan harus membuang 1 kartu acak\"."
         },
         {
-            "key": "ability.spell_send_hand_enemy.desc",
-            "value": "Kembalikan target ke tangan pemiliknya."
+            "key": "ability.spell_target_add_discard_on_attack.title",
+            "value": "Buang pada Serangan"
         },
         {
-            "key": "ability.spell_send_hand_enemy.title",
-            "value": "Kembalikan ke Tangan"
+            "key": "ability.spell_target_add_destroy_on_ally_play.desc",
+            "value": "Mantra memberikan target \"Ketika monster sekutu masuk ke permainan, hancurkan monster ini\"."
         },
         {
-            "key": "ability.spell_set_hp_attack_1.desc",
-            "value": "HP dan serangan semua karakter di papan diturunkan menjadi 1."
+            "key": "ability.spell_target_add_destroy_on_ally_play.title",
+            "value": "Penghancuran pada Sekutu"
         },
         {
-            "key": "ability.spell_set_hp_attack_1.title",
-            "value": "Banjir"
+            "key": "ability.spell_target_add_end_turn_damage1.desc",
+            "value": "Mantra memberikan target \"Pada akhir giliran kehilangan 1 HP\"."
         },
         {
-            "key": "ability.spell_set_hp_attack_3.desc",
-            "value": "HP dan serangan semua karakter di papan disetel menjadi 1."
+            "key": "ability.spell_target_add_end_turn_damage1.title",
+            "value": "Kerusakan Akhir Giliran"
         },
         {
-            "key": "ability.spell_set_hp_attack_3.title",
-            "value": "Banjir"
+            "key": "ability.spell_target_add_no_attack.desc",
+            "value": "Mantra memberikan target \"Tidak dapat menyerang\"."
         },
         {
-            "key": "ability.spell_shell.desc",
-            "value": "Target mendapatkan cangkang, mengabaikan kerusakan pada pukulan berikutnya."
+            "key": "ability.spell_target_add_no_attack.title",
+            "value": "Blokir Serangan"
         },
         {
-            "key": "ability.spell_shell.title",
-            "value": "Cangkang"
+            "key": "ability.spell_target_armor2.desc",
+            "value": "Mantra memberikan +2 perisai ke monster target."
         },
         {
-            "key": "ability.spell_summon_hammi.desc",
-            "value": "Panggil tiga Hammi ke tanganmu."
+            "key": "ability.spell_target_armor2.title",
+            "value": "Perisai"
         },
         {
-            "key": "ability.spell_summon_hammi.title",
-            "value": "Serangan Hammi"
+            "key": "ability.spell_target_boost2.desc",
+            "value": "Mantra memberikan +2/+2 ke target secara permanen dan menyembuhkan semua efek status negatif."
         },
         {
-            "key": "ability.spell_summon_lampi.desc",
-            "value": "Panggil tiga Lampi 2/2 ke tanganmu."
+            "key": "ability.spell_target_boost2.title",
+            "value": "Peningkatan"
         },
         {
-            "key": "ability.spell_summon_lampi.title",
-            "value": "Badai Lampi"
+            "key": "ability.spell_target_freeze.desc",
+            "value": "Mantra membekukan monster target."
         },
         {
-            "key": "ability.spell_summon_pyro.desc",
-            "value": "Panggil tiga Pyra 1/1 dengan kemampuan Telur ke tanganmu."
+            "key": "ability.spell_target_freeze.title",
+            "value": "Bekukan"
         },
         {
-            "key": "ability.spell_summon_pyro.title",
-            "value": "Serangan Udara"
+            "key": "ability.spell_target_hp2.desc",
+            "value": "Mantra menyembuhkan target sebesar 2 HP."
         },
         {
-            "key": "ability.spell_taunt.desc",
-            "value": "Karakter target mendapatkan Taunt. Karaktermu yang lain tidak dapat diserang."
+            "key": "ability.spell_target_hp2.title",
+            "value": "Penyembuhan"
         },
         {
-            "key": "ability.spell_taunt.title",
-            "value": "Provokasi"
+            "key": "ability.spell_target_poison.desc",
+            "value": "Mantra meracun target."
         },
         {
-            "key": "ability.spell_water_treasure.desc",
-            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 1 kartu air ke tanganmu."
+            "key": "ability.spell_target_poison.title",
+            "value": "Racun"
         },
         {
-            "key": "ability.spell_water_treasure.title",
-            "value": "Harta Karun Air"
+            "key": "ability.summon_baby_jagur.desc",
+            "value": "Saat dimainkan, panggil bayi Jagur."
         },
         {
-            "key": "ability.stealth.desc",
-            "value": "Tidak dapat menjadi target atau diserang sampai melakukan aksi."
+            "key": "ability.summon_baby_jagur.title",
+            "value": "Panggil"
         },
         {
-            "key": "ability.stealth.title",
-            "value": "Sembunyi"
+            "key": "ability.summon_cabyron.desc",
+            "value": "Saat mati, panggil Cabyron dengan Kemarahan II."
+        },
+        {
+            "key": "ability.summon_cabyron.title",
+            "value": "Panggil"
+        },
+        {
+            "key": "ability.summon_dragon.desc",
+            "value": "Temukan Naga."
+        },
+        {
+            "key": "ability.summon_dragon.title",
+            "value": "Panggil"
+        },
+        {
+            "key": "ability.summon_igloo.desc",
+            "value": "Saat dimainkan, panggil Igloo."
+        },
+        {
+            "key": "ability.summon_igloo.title",
+            "value": "Panggil"
+        },
+        {
+            "key": "ability.summon_igloo_2.desc",
+            "value": "Saat dimainkan, panggil Igloo dua kali."
+        },
+        {
+            "key": "ability.summon_igloo_2.title",
+            "value": "Panggil"
+        },
+        {
+            "key": "ability.summon_twii.desc",
+            "value": "Saat mati, panggil Twii."
+        },
+        {
+            "key": "ability.summon_twii.title",
+            "value": "Panggil"
+        },
+        {
+            "key": "ability.target_attack1.desc",
+            "value": "Serangan monster target dikurangi menjadi 1."
+        },
+        {
+            "key": "ability.target_attack1.title",
+            "value": "Kurangi Serangan"
+        },
+        {
+            "key": "ability.target_burn.desc",
+            "value": "Monster target mendapatkan terbakar dan kehilangan 2 HP per giliran."
+        },
+        {
+            "key": "ability.target_burn.title",
+            "value": "Terbakar"
+        },
+        {
+            "key": "ability.target_curse.desc",
+            "value": "Monster target mendapatkan Kutukan."
+        },
+        {
+            "key": "ability.target_curse.title",
+            "value": "Kutukan"
+        },
+        {
+            "key": "ability.target_freeze.desc",
+            "value": "Monster target menjadi beku."
+        },
+        {
+            "key": "ability.target_freeze.title",
+            "value": "Bekukan"
+        },
+        {
+            "key": "ability.target_heal2.desc",
+            "value": "Sembuhkan target sebesar 2 HP."
+        },
+        {
+            "key": "ability.target_heal2.title",
+            "value": "Penyembuhan"
+        },
+        {
+            "key": "ability.target_hp2.desc",
+            "value": "Berikan +2 HP ke target."
+        },
+        {
+            "key": "ability.target_hp2.title",
+            "value": "HP"
+        },
+        {
+            "key": "ability.target_poison.desc",
+            "value": "Racuni target."
+        },
+        {
+            "key": "ability.target_poison.title",
+            "value": "Racun"
+        },
+        {
+            "key": "ability.target_silence.desc",
+            "value": "Diamkan target."
+        },
+        {
+            "key": "ability.target_silence.title",
+            "value": "Diamkan"
+        },
+        {
+            "key": "ability.target_silence_curse.desc",
+            "value": "Diamkan monster target, kemudian kutuk monster target."
+        },
+        {
+            "key": "ability.target_silence_curse.title",
+            "value": "Diamkan dan Kutuk"
         },
         {
             "key": "ability.taunt.desc",
-            "value": "Karaktermu yang lain tidak dapat diserang."
+            "value": "Musuh harus menyerang kartu ini sebelum sekutu lainnya."
         },
         {
             "key": "ability.taunt.title",
-            "value": "Provokasi"
-        },
-        {
-            "key": "ability.taunt_flying.desc",
-            "value": "Karaktermu yang lain dilindungi oleh monster terbang."
-        },
-        {
-            "key": "ability.taunt_flying.title",
-            "value": "Jangkau"
+            "value": "Tantangan"
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Semua monster Listrik berbiaya 2 mana lebih sedikit (termasuk musuh)"
+            "value": "Semua monster Listrik biaya 2 mana lebih sedikit (termasuk musuh)."
         },
         {
             "key": "ability.town_aura_electric.title",
@@ -1986,7 +2210,7 @@
         },
         {
             "key": "ability.town_aura_fire.desc",
-            "value": "Semua makhluk Api sekutu mendapatkan +2 serangan."
+            "value": "Semua monster Api sekutu mendapatkan +2 serangan."
         },
         {
             "key": "ability.town_aura_fire.title",
@@ -1994,7 +2218,7 @@
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "Semua makhluk Es sekutu mendapatkan +1 HP."
+            "value": "Semua monster Es sekutu mendapatkan +1 HP."
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
@@ -2002,7 +2226,7 @@
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "Semua makhluk Es sekutu mendapatkan +1 Serangan."
+            "value": "Semua monster Es sekutu mendapatkan +1 Serangan."
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
@@ -2010,7 +2234,7 @@
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "Semua kartu Es sekutu biayanya berkurang 1."
+            "value": "Semua Kartu Es sekutu biaya 1 lebih sedikit."
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
@@ -2018,7 +2242,7 @@
         },
         {
             "key": "ability.town_aura_plant.desc",
-            "value": "Semua karakter Tanaman sekutu mendapatkan +2 HP."
+            "value": "Semua monster Tanaman sekutu mendapatkan +2 HP."
         },
         {
             "key": "ability.town_aura_plant.title",
@@ -2026,7 +2250,7 @@
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.desc",
-            "value": "Saat kamu mengambil alih monster lawan, lawan membuang kartu acak."
+            "value": "Ketika mengambil kendali atas monster lawan, lawan membuang kartu acak."
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.title",
@@ -2034,7 +2258,7 @@
         },
         {
             "key": "ability.town_aura_psychic_played_discard.desc",
-            "value": "Saat kamu memainkan monster psikis, lawan membuang kartu acak."
+            "value": "Ketika memainkan monster psikis, lawan membuang kartu acak."
         },
         {
             "key": "ability.town_aura_psychic_played_discard.title",
@@ -2042,7 +2266,7 @@
         },
         {
             "key": "ability.town_aura_rock.desc",
-            "value": "Semua makhluk Batu sekutu mendapatkan +2 HP."
+            "value": "Semua monster Batu sekutu mendapatkan +2 HP."
         },
         {
             "key": "ability.town_aura_rock.title",
@@ -2050,7 +2274,7 @@
         },
         {
             "key": "ability.town_aura_shadow.desc",
-            "value": "Semua karakter Bayangan sekutu mendapatkan +2 serangan."
+            "value": "Semua monster Bayangan sekutu mendapatkan +2 serangan."
         },
         {
             "key": "ability.town_aura_shadow.title",
@@ -2058,7 +2282,7 @@
         },
         {
             "key": "ability.town_aura_water.desc",
-            "value": "Semua kartu Air sekutu berbiaya 1 lebih sedikit."
+            "value": "Semua Kartu Air sekutu biaya 1 lebih sedikit."
         },
         {
             "key": "ability.town_aura_water.title",
@@ -2066,7 +2290,7 @@
         },
         {
             "key": "ability.town_mystic_woods_psychic.desc",
-            "value": "Semua kartu Psikis sekutu berbiaya 1 mana lebih sedikit."
+            "value": "Semua Kartu Psikis sekutu biaya 1 mana lebih sedikit."
         },
         {
             "key": "ability.town_mystic_woods_psychic.title",
@@ -2074,23 +2298,23 @@
         },
         {
             "key": "ability.trample.desc",
-            "value": "Kerusakan berlebih diarahkan ke HP pemain."
+            "value": "Kerusakan ekstra diberikan ke pemain."
         },
         {
             "key": "ability.trample.title",
-            "value": "Lindas"
+            "value": "Kekerasan"
         },
         {
             "key": "ability.transform_to_discarded_card.desc",
-            "value": "Jika lawan membuang kartu karakter, karakter ini menjadi salinan karakter tersebut"
+            "value": "Jika lawan membuang kartu monster, monster ini menjadi salinan monster itu."
         },
         {
             "key": "ability.transform_to_discarded_card.title",
-            "value": "Klon Pemakaman"
+            "value": "Salinan Pekuburan"
         },
         {
             "key": "ability.trap_all_damage1.desc",
-            "value": "Lukai musuh sebesar 1 HP"
+            "value": "Berikan 1 kerusakan ke musuh."
         },
         {
             "key": "ability.trap_all_damage1.title",
@@ -2098,7 +2322,7 @@
         },
         {
             "key": "ability.trap_damage_all2.desc",
-            "value": "Saat makhluk musuh menyerang, lukai semua makhluk musuh sebesar 2."
+            "value": "Ketika monster musuh menyerang, berikan 2 kerusakan ke semua monster musuh."
         },
         {
             "key": "ability.trap_damage_all2.title",
@@ -2106,7 +2330,7 @@
         },
         {
             "key": "ability.trap_damage2.desc",
-            "value": "Lukai penyerang sebesar 2 HP"
+            "value": "Berikan 2 kerusakan ke penyerang."
         },
         {
             "key": "ability.trap_damage2.title",
@@ -2114,7 +2338,7 @@
         },
         {
             "key": "ability.trap_damage3.desc",
-            "value": "Lukai penyerang sebesar 3 HP"
+            "value": "Berikan 3 kerusakan ke penyerang."
         },
         {
             "key": "ability.trap_damage3.title",
@@ -2122,15 +2346,15 @@
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "Setelah makhluk musuh menyerang, bekukan selama 2 giliran."
+            "value": "Setelah serangan monster musuh, bekukan selama 2 giliran."
         },
         {
             "key": "ability.trap_freeze.title",
-            "value": "Membeku"
+            "value": "Beku"
         },
         {
             "key": "ability.trap_heal4.desc",
-            "value": "Saat musuh menyerang pemain, pulihkan 4 HP."
+            "value": "Ketika musuh menyerang pemain, sembuhkan 4 HP."
         },
         {
             "key": "ability.trap_heal4.title",
@@ -2138,23 +2362,23 @@
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
-            "value": "Setelah makhluk musuh menyerang, kendalikan pikirannya selama 1 giliran dan berikan Taunt"
+            "value": "Setelah serangan monster musuh, Kontrol Pikiran selama 1 giliran dan berikan Tantangan"
         },
         {
             "key": "ability.trap_mind_control_taunt.title",
-            "value": "Kendali Pikiran"
+            "value": "Kontrol Pikiran"
         },
         {
             "key": "ability.trap_paralyse3.desc",
-            "value": "Setelah makhluk musuh menyerang, lumpuhkan selama 3 giliran."
+            "value": "Setelah serangan monster musuh, lumpuhkan selama 3 giliran."
         },
         {
             "key": "ability.trap_paralyse3.title",
-            "value": "Kelumpuhan"
+            "value": "Lumpuh"
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Setelah makhluk musuh menyerang, racuni"
+            "value": "Setelah serangan monster musuh, racuni"
         },
         {
             "key": "ability.trap_poison_all.title",
@@ -2162,7 +2386,7 @@
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "Setelah makhluk musuh menyerang, racuni"
+            "value": "Setelah serangan monster musuh, racuni"
         },
         {
             "key": "ability.trap_poison_attacker.title",
@@ -2170,63 +2394,63 @@
         },
         {
             "key": "ability.trap_shock.desc",
-            "value": "Setelah makhluk musuh menyerang, kejut dan lumpuhkan selama 1 giliran."
+            "value": "Setelah serangan monster musuh, lumpuhkan dengan syok selama 1 giliran."
         },
         {
             "key": "ability.trap_shock.title",
-            "value": "Kejut Lumpuh"
+            "value": "Lumpuh Syok"
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "Setelah makhluk musuh menyerang, kejut dan lumpuhkan selama 1 giliran."
+            "value": "Ketika monster musuh menyerang, lumpuhkan dengan syok selama 1 giliran."
         },
         {
             "key": "ability.trap_shock_all.title",
-            "value": "Kejut Lumpuh"
+            "value": "Lumpuh Syok"
         },
         {
             "key": "ability.turn_add_armor1.desc",
-            "value": "Di awal setiap giliran, dapatkan +1 zirah."
+            "value": "Pada awal setiap giliran, dapatkan +1 perisai."
         },
         {
             "key": "ability.turn_add_armor1.title",
-            "value": "Zirah"
+            "value": "Perisai"
         },
         {
             "key": "ability.turn_add_armor2.desc",
-            "value": "Di awal setiap giliran, dapatkan +2 zirah."
+            "value": "Pada awal setiap giliran, dapatkan +2 perisai."
         },
         {
             "key": "ability.turn_add_armor2.title",
-            "value": "Zirah"
+            "value": "Perisai"
         },
         {
             "key": "ability.turn_add_attack1.desc",
-            "value": "Di awal setiap giliran, dapatkan +1 serangan."
+            "value": "Pada awal setiap giliran, dapatkan +1 serangan."
         },
         {
             "key": "ability.turn_add_attack1.title",
-            "value": "Mengamuk"
+            "value": "Marah"
         },
         {
             "key": "ability.turn_add_attack2.desc",
-            "value": "Di awal setiap giliran, dapatkan +2 serangan."
+            "value": "Pada awal setiap giliran, dapatkan +2 serangan."
         },
         {
             "key": "ability.turn_add_attack2.title",
-            "value": "Mengamuk"
+            "value": "Marah"
         },
         {
-            "key": "ability.turn_add_draw.desc",
-            "value": "Di awal setiap giliran, tarik 1 kartu"
+            "key": "ability.turn_burn_all_minus_fire.desc",
+            "value": "Awal giliran, bakar semua monster non-api lain di permainan."
         },
         {
-            "key": "ability.turn_add_draw.title",
-            "value": "Penjelajah"
+            "key": "ability.turn_burn_all_minus_fire.title",
+            "value": "Bakar Semua"
         },
         {
             "key": "ability.turn_damage_allies1.desc",
-            "value": "Pada awal setiap giliran, berikan 1 kerusakan kepada semua karakter sekutu"
+            "value": "Pada awal setiap giliran, berikan 1 kerusakan ke semua monster sekutu"
         },
         {
             "key": "ability.turn_damage_allies1.title",
@@ -2234,23 +2458,31 @@
         },
         {
             "key": "ability.turn_damage_allies2.desc",
-            "value": "Pada awal setiap giliran, berikan 2 kerusakan kepada semua karakter sekutu"
+            "value": "Pada awal setiap giliran, berikan 2 kerusakan ke semua monster sekutu"
         },
         {
             "key": "ability.turn_damage_allies2.title",
             "value": "Kerusakan Pengkhianatan"
         },
         {
+            "key": "ability.turn_end_add_draw.desc",
+            "value": "Pada akhir setiap giliran, ambil 1 kartu"
+        },
+        {
+            "key": "ability.turn_end_add_draw.title",
+            "value": "Penjelajah II"
+        },
+        {
             "key": "ability.turn_green_heal.desc",
-            "value": "Di awal setiap giliran, semua makhluk dan lokasi hijau sekutu pulih 3."
+            "value": "Pada awal setiap giliran, semua monster tanaman sekutu dan lokasi sembuh sebesar 3."
         },
         {
             "key": "ability.turn_green_heal.title",
-            "value": "Penyembuhan Hijau"
+            "value": "Penyembuhan Tanaman"
         },
         {
             "key": "ability.turn_kill_lowest.desc",
-            "value": "Di awal giliranmu, bunuh karakter yang sedang dimainkan dengan serangan terendah (termasuk milikmu)."
+            "value": "Pada awal giliran Anda, bunuh monster di permainan dengan serangan terendah (termasuk milik Anda)."
         },
         {
             "key": "ability.turn_kill_lowest.title",
@@ -2258,7 +2490,7 @@
         },
         {
             "key": "ability.turn_own_discard2.desc",
-            "value": "Pemain membuang 2 kartu acak dari tangannya."
+            "value": "Pemain membuang 2 kartu acak dari tangan."
         },
         {
             "key": "ability.turn_own_discard2.title",
@@ -2266,23 +2498,31 @@
         },
         {
             "key": "ability.turn_shadow_add_attack1.desc",
-            "value": "Di awal setiap giliran, semua monster Bayangan mendapatkan +1 serangan."
+            "value": "Pada awal setiap giliran, semua monster Bayangan mendapatkan +1 serangan."
         },
         {
             "key": "ability.turn_shadow_add_attack1.title",
             "value": "Bonus Bayangan"
         },
         {
+            "key": "ability.turn_start_add_draw.desc",
+            "value": "Pada awal setiap giliran, ambil 1 kartu"
+        },
+        {
+            "key": "ability.turn_start_add_draw.title",
+            "value": "Penjelajah"
+        },
+        {
             "key": "ability.turn_stealth.desc",
-            "value": "Di akhir giliranmu, jika kamu memiliki setidaknya satu karakter lain di permainan, masuk ke mode sembunyi."
+            "value": "Pada akhir giliran Anda, jika Anda memiliki setidaknya satu monster lain di permainan, masuk ke mode siluman."
         },
         {
             "key": "ability.turn_stealth.title",
-            "value": "Sembunyi"
+            "value": "Siluman"
         },
         {
             "key": "status.addhp.desc",
-            "value": "Tambahan HP."
+            "value": "Bonus HP."
         },
         {
             "key": "status.addhp.title",
@@ -2294,27 +2534,27 @@
         },
         {
             "key": "status.addmanacost.title",
-            "value": "Hisap Mental"
+            "value": "Pengurasan Mental"
         },
         {
             "key": "status.armor.desc",
-            "value": "Tambahkan Zirah"
+            "value": "Tambahkan Perisai"
         },
         {
             "key": "status.armor.title",
-            "value": "Zirah"
+            "value": "Perisai"
         },
         {
             "key": "status.attacklossimmunity.desc",
-            "value": "Melindungi serangan karakter agar tidak berkurang."
+            "value": "Melindungi serangan karakter dari pengurangan."
         },
         {
             "key": "status.attacklossimmunity.title",
-            "value": "Kebal Kehilangan Serangan"
+            "value": "Kebal terhadap Kehilangan Serangan"
         },
         {
             "key": "status.burned.desc",
-            "value": "Setiap giliran akan kehilangan 2 HP."
+            "value": "Setiap giliran, akan kehilangan 2 HP."
         },
         {
             "key": "status.burned.title",
@@ -2322,31 +2562,47 @@
         },
         {
             "key": "status.characterabilityimmunity.desc",
-            "value": "Tidak dapat menjadi target oleh kemampuan karakter"
+            "value": "Tidak dapat menjadi target kemampuan karakter"
         },
         {
             "key": "status.characterabilityimmunity.title",
-            "value": "Imunitas Kemampuan"
+            "value": "Kebal terhadap Kemampuan"
         },
         {
             "key": "status.cursed.desc",
-            "value": "Setiap giliran akan kehilangan serangan."
+            "value": "Setiap giliran, akan kehilangan serangan."
         },
         {
             "key": "status.cursed.title",
             "value": "Terkutuk"
         },
         {
+            "key": "status.damagecap.desc",
+            "value": "Menerima maksimal 2 kerusakan pada serangan / serangan balik."
+        },
+        {
+            "key": "status.damagecap.title",
+            "value": "Batas Kerusakan"
+        },
+        {
             "key": "status.deathtouch.desc",
-            "value": "Bunuh makhluk apa pun yang dilukainya."
+            "value": "Bunuh makhluk apa pun yang dirusaknya."
         },
         {
             "key": "status.deathtouch.title",
-            "value": "Sentuhan Maut"
+            "value": "Sentuhan Kematian"
+        },
+        {
+            "key": "status.endturnbleed.desc",
+            "value": "Pada akhir giliran terima kerusakan."
+        },
+        {
+            "key": "status.endturnbleed.title",
+            "value": "Pendarahan Akhir Giliran"
         },
         {
             "key": "status.flying.desc",
-            "value": "Mengabaikan Taunt."
+            "value": "Mengabaikan Tantangan."
         },
         {
             "key": "status.flying.title",
@@ -2358,7 +2614,7 @@
         },
         {
             "key": "status.frozen.title",
-            "value": "Membeku"
+            "value": "Beku"
         },
         {
             "key": "status.fury.desc",
@@ -2366,11 +2622,11 @@
         },
         {
             "key": "status.fury.title",
-            "value": "Amukan"
+            "value": "Kemarahan"
         },
         {
             "key": "status.intimidate.desc",
-            "value": "Saat menyerang, target tidak membalas."
+            "value": "Ketika menyerang, target tidak serangan balik."
         },
         {
             "key": "status.intimidate.title",
@@ -2386,11 +2642,11 @@
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "Sembuhkan dirimu saat memberikan kerusakan."
+            "value": "Sembuhkan diri saat memberikan kerusakan."
         },
         {
             "key": "status.lifesteal.title",
-            "value": "Curian Nyawa"
+            "value": "Pencurian Jiwa"
         },
         {
             "key": "status.overkill.desc",
@@ -2398,7 +2654,7 @@
         },
         {
             "key": "status.overkill.title",
-            "value": "Pembantaian"
+            "value": "Overkill"
         },
         {
             "key": "status.paralysed.desc",
@@ -2406,19 +2662,19 @@
         },
         {
             "key": "status.paralysed.title",
-            "value": "Kejut Lumpuh"
+            "value": "Lumpuh Syok"
         },
         {
             "key": "status.poisoned.desc",
-            "value": "Setiap giliran akan kehilangan HP."
+            "value": "Setiap giliran, akan kehilangan HP."
         },
         {
             "key": "status.poisoned.title",
-            "value": "Keracunan"
+            "value": "Beracun"
         },
         {
             "key": "status.protected.desc",
-            "value": "Tidak dapat diserang. Dilindungi oleh Taunt."
+            "value": "Tidak dapat diserang. Dilindungi oleh Tantangan."
         },
         {
             "key": "status.protected.title",
@@ -2430,7 +2686,7 @@
         },
         {
             "key": "status.protection.title",
-            "value": "Provokasi"
+            "value": "Tantangan"
         },
         {
             "key": "status.protectionflying.desc",
@@ -2438,7 +2694,7 @@
         },
         {
             "key": "status.protectionflying.title",
-            "value": "Jangkau"
+            "value": "Jangkauan"
         },
         {
             "key": "status.shell.desc",
@@ -2454,11 +2710,11 @@
         },
         {
             "key": "status.silenced.title",
-            "value": "Dibungkam"
+            "value": "Diamkan"
         },
         {
             "key": "status.sleep.desc",
-            "value": "Peluang 1 dari 3 untuk bangun. Hilang jika diserang."
+            "value": "1 dari 3 kemungkinan bangun. Dihapus jika diserang."
         },
         {
             "key": "status.sleep.title",
@@ -2470,7 +2726,7 @@
         },
         {
             "key": "status.spellimmunity.title",
-            "value": "Imunitas Mantra"
+            "value": "Kebal terhadap Mantra"
         },
         {
             "key": "status.stealth.desc",
@@ -2478,15 +2734,15 @@
         },
         {
             "key": "status.stealth.title",
-            "value": "Sembunyi"
+            "value": "Siluman"
         },
         {
             "key": "status.trample.desc",
-            "value": "Kerusakan tambahan diberikan kepada pemain."
+            "value": "Kerusakan ekstra diberikan ke pemain."
         },
         {
             "key": "status.trample.title",
-            "value": "Lindas"
+            "value": "Kekerasan"
         },
         {
             "key": "status.trapevasion.desc",
@@ -2494,7 +2750,7 @@
         },
         {
             "key": "status.trapevasion.title",
-            "value": "Menghindari Jebakan"
+            "value": "Penghindaran Jebakan"
         },
         {
             "key": "trait.cat.title",
@@ -2518,19 +2774,19 @@
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "Alam Es"
+            "value": "Sifat Es"
         },
         {
             "key": "trait.igloo.title",
-            "value": "Iglu"
+            "value": "Igloo"
         },
         {
             "key": "trait.mind_control_counter.title",
-            "value": "Dikendalikan Pikiran"
+            "value": "Kontrol Pikiran"
         },
         {
             "key": "trait.mind_control_link.title",
-            "value": "Tautan Kendali Pikiran"
+            "value": "Tautan Kontrol Pikiran"
         },
         {
             "key": "trait.reptile.title",
