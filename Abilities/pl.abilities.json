@@ -1,0 +1,2800 @@
+{
+    "entries": [
+        {
+            "key": "ability.ability_immunity.desc",
+            "value": "Nie może być celem zdolności kart potworów"
+        },
+        {
+            "key": "ability.ability_immunity.title",
+            "value": "Odporność na Zdolności"
+        },
+        {
+            "key": "ability.ability_swap_characters_3ml.desc",
+            "value": "Zastąp tego potwora potworem z planszy wroga o koszcie many 3 lub mniej."
+        },
+        {
+            "key": "ability.ability_swap_characters_3ml.title",
+            "value": "Psychiczna Zamiana"
+        },
+        {
+            "key": "ability.ability_swap_characters_4m.desc",
+            "value": "Zastąp tego potwora potworem z planszy wroga o koszcie many 4."
+        },
+        {
+            "key": "ability.ability_swap_characters_4m.title",
+            "value": "Psychiczna Zamiana"
+        },
+        {
+            "key": "ability.ability_swap_characters_7ml.desc",
+            "value": "Zastąp tę postać potworem z planszy wroga o koszcie many 7 lub mniej."
+        },
+        {
+            "key": "ability.ability_swap_characters_7ml.title",
+            "value": "Psychiczna Zamiana"
+        },
+        {
+            "key": "ability.activate_armor2.desc",
+            "value": "Wszyscy sojuszniczy potwory zyskują +2 pancerza. Używa akcji tego potwora i kosztuje 5 many."
+        },
+        {
+            "key": "ability.activate_armor2.title",
+            "value": "Wsparcie Pancerza"
+        },
+        {
+            "key": "ability.activate_boost1.desc",
+            "value": "Wszyscy sojuszniczy potwory zyskują +1 atak do końca tury. Używa akcji tego potwora."
+        },
+        {
+            "key": "ability.activate_boost1.title",
+            "value": "Ryk"
+        },
+        {
+            "key": "ability.activate_boost3.desc",
+            "value": "Wszyscy sojuszniczy potwory zyskują +3 atak do końca tury. Używa akcji tego potwora."
+        },
+        {
+            "key": "ability.activate_boost3.title",
+            "value": "Wsparcie"
+        },
+        {
+            "key": "ability.activate_burst.desc",
+            "value": "Przyjmij 1 obrażenie, aby zyskać +1 atak."
+        },
+        {
+            "key": "ability.activate_burst.title",
+            "value": "Wybuch"
+        },
+        {
+            "key": "ability.activate_damage2.desc",
+            "value": "Zadaj 2 obrażenia. Koszt 3 many. Nie wyczerpuje akcji."
+        },
+        {
+            "key": "ability.activate_damage2.title",
+            "value": "Dodatkowy Atak"
+        },
+        {
+            "key": "ability.activate_discard.desc",
+            "value": "Przeciwnik odrzuca losową kartę z ręki. Używa akcji tego potwora."
+        },
+        {
+            "key": "ability.activate_discard.title",
+            "value": "Odrzuć"
+        },
+        {
+            "key": "ability.activate_discard_random_3l.desc",
+            "value": "Przeciwnik odrzuca losową kartę z ręki. Używa akcji tego potwora."
+        },
+        {
+            "key": "ability.activate_discard_random_3l.title",
+            "value": "Odrzuć"
+        },
+        {
+            "key": "ability.activate_electric.desc",
+            "value": "Cel zyskuje pośpiech (musi być potwór elektryczny)"
+        },
+        {
+            "key": "ability.activate_electric.title",
+            "value": "Elektryczny"
+        },
+        {
+            "key": "ability.activate_fire.desc",
+            "value": "Zadaj 1 obrażenie."
+        },
+        {
+            "key": "ability.activate_fire.title",
+            "value": "Ogień"
+        },
+        {
+            "key": "ability.activate_heal_player3.desc",
+            "value": "Ulecz Gracza o 3 HP."
+        },
+        {
+            "key": "ability.activate_heal_player3.title",
+            "value": "Samoleczenie"
+        },
+        {
+            "key": "ability.activate_ice.desc",
+            "value": "Zamroź wroga na 1 turę"
+        },
+        {
+            "key": "ability.activate_ice.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.activate_plant.desc",
+            "value": "Ulecz 2 HP."
+        },
+        {
+            "key": "ability.activate_plant.title",
+            "value": "Roślina"
+        },
+        {
+            "key": "ability.activate_psychic.desc",
+            "value": "Przeciwnik odrzuca losową kartę z ręki."
+        },
+        {
+            "key": "ability.activate_psychic.title",
+            "value": "Psychiczny"
+        },
+        {
+            "key": "ability.activate_rock.desc",
+            "value": "Docelowy potwór zyskuje +1 Pancerza"
+        },
+        {
+            "key": "ability.activate_rock.title",
+            "value": "Skała"
+        },
+        {
+            "key": "ability.activate_rock_hammi_old.desc",
+            "value": "Przywołaj 1/1 Hammi"
+        },
+        {
+            "key": "ability.activate_rock_hammi_old.title",
+            "value": "Skała"
+        },
+        {
+            "key": "ability.activate_roll_send_hand.desc",
+            "value": "Wybierz potwora i rzuć k6, na 4+ zwróć go do ręki właściciela. Koszt 2 many."
+        },
+        {
+            "key": "ability.activate_roll_send_hand.title",
+            "value": "Naładunek"
+        },
+        {
+            "key": "ability.activate_select_discard_spell.desc",
+            "value": "Zwróć zaklęcie z twojego cmentarza do ręki. Koszt 2 many."
+        },
+        {
+            "key": "ability.activate_select_discard_spell.title",
+            "value": "Magiczne Skupienie"
+        },
+        {
+            "key": "ability.activate_send_hand.desc",
+            "value": "Zwróć potwora do ręki właściciela. Używa akcji tego potwora."
+        },
+        {
+            "key": "ability.activate_send_hand.title",
+            "value": "Odbij"
+        },
+        {
+            "key": "ability.activate_shadow.desc",
+            "value": "Cel staje się Przeklęty"
+        },
+        {
+            "key": "ability.activate_shadow.title",
+            "value": "Cień"
+        },
+        {
+            "key": "ability.activate_switch_sides.desc",
+            "value": "Na zagrańko, wybierz docelowego potwora do zmiany stron"
+        },
+        {
+            "key": "ability.activate_switch_sides.title",
+            "value": "Zamiana Lojalności"
+        },
+        {
+            "key": "ability.activate_water.desc",
+            "value": "Dobierz kartę."
+        },
+        {
+            "key": "ability.activate_water.title",
+            "value": "Woda"
+        },
+        {
+            "key": "ability.add_attack_traps.desc",
+            "value": "Zyskaj +1 obrażeń za każdą wrogą pułapkę"
+        },
+        {
+            "key": "ability.add_attack_traps.title",
+            "value": "Wzmocnienie Pułapek"
+        },
+        {
+            "key": "ability.add_hp_location.desc",
+            "value": "Zyskaj +2 HP za każdą sojuszniczą lokalizację tego samego typu elementu w grze."
+        },
+        {
+            "key": "ability.add_hp_location.title",
+            "value": "Wzmocnienie Lokalizacji"
+        },
+        {
+            "key": "ability.add_hp1_attack1_location.desc",
+            "value": "Zyskaj +1 HP i +1 Atak za każdą sojuszniczą lokalizację tego samego typu elementu w grze."
+        },
+        {
+            "key": "ability.add_hp1_attack1_location.title",
+            "value": "Wzmocnienie Lokalizacji"
+        },
+        {
+            "key": "ability.add_spell_damage1.desc",
+            "value": "Wszystkie twoje zaklęcia i zdolności zadają +1 obrażeń."
+        },
+        {
+            "key": "ability.add_spell_damage1.title",
+            "value": "Obrażenia Zaklęć"
+        },
+        {
+            "key": "ability.add_spell_damage2.desc",
+            "value": "Wszystkie twoje zaklęcia i zdolności zadają +2 obrażeń."
+        },
+        {
+            "key": "ability.add_spell_damage2.title",
+            "value": "Obrażenia Zaklęć"
+        },
+        {
+            "key": "ability.add_spell_damage4.desc",
+            "value": "Wszystkie twoje zaklęcia i zdolności zadają +4 obrażeń."
+        },
+        {
+            "key": "ability.add_spell_damage4.title",
+            "value": "Obrażenia Zaklęć"
+        },
+        {
+            "key": "ability.after_spell_attack2.desc",
+            "value": "Po zagraniu zaklęcia zyskaj +2 atak."
+        },
+        {
+            "key": "ability.after_spell_attack2.title",
+            "value": "Ciepło"
+        },
+        {
+            "key": "ability.attack_burned.desc",
+            "value": "Za atakowany potwór jest poparzony. Traci 2 HP na turę."
+        },
+        {
+            "key": "ability.attack_burned.title",
+            "value": "Poparzony"
+        },
+        {
+            "key": "ability.attack_curse.desc",
+            "value": "Za atakowane potwory zyskują przekleństwo. Tracą 1 atak na turę."
+        },
+        {
+            "key": "ability.attack_curse.title",
+            "value": "Przekleństwo"
+        },
+        {
+            "key": "ability.attack_freeze.desc",
+            "value": "Za atakowany potwór staje się zamrożony."
+        },
+        {
+            "key": "ability.attack_freeze.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.attack_loss_immunity.desc",
+            "value": "Chroni atak potwora przed zmniejszeniem."
+        },
+        {
+            "key": "ability.attack_loss_immunity.title",
+            "value": "Odporność na Utratę Ataku"
+        },
+        {
+            "key": "ability.attack_mana1.desc",
+            "value": "Po ataku zyskaj 1 manę."
+        },
+        {
+            "key": "ability.attack_mana1.title",
+            "value": "Grabież"
+        },
+        {
+            "key": "ability.attack_mana2.desc",
+            "value": "Po ataku zyskaj 2 many."
+        },
+        {
+            "key": "ability.attack_mana2.title",
+            "value": "Grabież"
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.desc",
+            "value": "Po ataku na gracza wroga, dobierz kartę zaklęcia skały z talii"
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.title",
+            "value": "Skałowy Skarb"
+        },
+        {
+            "key": "ability.attack_player_mana1.desc",
+            "value": "Po ataku na życie przeciwnika zyskaj 1 manę."
+        },
+        {
+            "key": "ability.attack_player_mana1.title",
+            "value": "Grabież"
+        },
+        {
+            "key": "ability.attack_player_mana2.desc",
+            "value": "Po ataku na życie przeciwnika zyskaj 2 many."
+        },
+        {
+            "key": "ability.attack_player_mana2.title",
+            "value": "Grabież"
+        },
+        {
+            "key": "ability.attack_player_mana3.desc",
+            "value": "Po ataku na życie przeciwnika zyskaj 3 many."
+        },
+        {
+            "key": "ability.attack_player_mana3.title",
+            "value": "Grabież"
+        },
+        {
+            "key": "ability.attack_poison.desc",
+            "value": "Za atakowane potwory zyskują truciznę. Tracą 1 HP na turę."
+        },
+        {
+            "key": "ability.attack_poison.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.attack_roll_attack_add_bonus_3.desc",
+            "value": "Przed atakiem rzuć k6, na 4+ zyskaj +3 atak."
+        },
+        {
+            "key": "ability.attack_roll_attack_add_bonus_3.title",
+            "value": "Macki"
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_3.desc",
+            "value": "Przed atakiem rzuć k6, na 4+ zyskaj +3 atak do końca tury."
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_3.title",
+            "value": "Macki"
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_6.desc",
+            "value": "Przed atakiem rzuć k6, na 4+ zyskaj +6 atak do końca tury."
+        },
+        {
+            "key": "ability.attack_roll_attack_bonus_6.title",
+            "value": "Macki"
+        },
+        {
+            "key": "ability.attack_suffer_damage.desc",
+            "value": "Przed atakiem przyjmij 3 obrażenia."
+        },
+        {
+            "key": "ability.attack_suffer_damage.title",
+            "value": "Rozdarcie Gruntu"
+        },
+        {
+            "key": "ability.aura_ability_red.desc",
+            "value": "Wszyscy sojuszniczy potwory Ognia zyskują: \"Przyjmij 1 obrażenie, aby zyskać +1 atak\"."
+        },
+        {
+            "key": "ability.aura_ability_red.title",
+            "value": "Wybuch Ognia"
+        },
+        {
+            "key": "ability.aura_ability_rock.desc",
+            "value": "Wszyscy sojuszniczy potwory Skały zyskują: \"Przyjmij 1 obrażenie, aby zyskać +1 atak\"."
+        },
+        {
+            "key": "ability.aura_ability_rock.title",
+            "value": "Wybuch Skały"
+        },
+        {
+            "key": "ability.aura_add_enrage.desc",
+            "value": "Wszyscy sojuszniczy potwory skały zyskują stos Wściekłości."
+        },
+        {
+            "key": "ability.aura_add_enrage.title",
+            "value": "Aura Skały Wściekłości"
+        },
+        {
+            "key": "ability.aura_armor_rock_2.desc",
+            "value": "Wszyscy sojuszniczy potwory skały mają +2 Pancerza."
+        },
+        {
+            "key": "ability.aura_armor_rock_2.title",
+            "value": "Kamienny Pancerz 2"
+        },
+        {
+            "key": "ability.aura_attack_m1.desc",
+            "value": "Wszyscy wrogie potwory mają -1 atak."
+        },
+        {
+            "key": "ability.aura_attack_m1.title",
+            "value": "Strach"
+        },
+        {
+            "key": "ability.aura_attack_m2.desc",
+            "value": "Wszyscy wrogie potwory mają -2 atak."
+        },
+        {
+            "key": "ability.aura_attack_m2.title",
+            "value": "Strach"
+        },
+        {
+            "key": "ability.aura_cat.desc",
+            "value": "Wszyscy inni sojuszniczy koty zyskują +1 atak."
+        },
+        {
+            "key": "ability.aura_cat.title",
+            "value": "Aura Kota"
+        },
+        {
+            "key": "ability.aura_enemy_attack1.desc",
+            "value": "Wszyscy wrogie potwory zyskują +1 atak."
+        },
+        {
+            "key": "ability.aura_enemy_attack1.title",
+            "value": "Zdrada"
+        },
+        {
+            "key": "ability.aura_enemy_hp2.desc",
+            "value": "Wszyscy wrogie potwory zyskują +2 HP"
+        },
+        {
+            "key": "ability.aura_enemy_hp2.title",
+            "value": "Zdrada"
+        },
+        {
+            "key": "ability.aura_hp_rock_1.desc",
+            "value": "Wszyscy sojuszniczy potwory skały mają +1 HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_1.title",
+            "value": "Kamienny Sojusznik"
+        },
+        {
+            "key": "ability.aura_hp_rock_2.desc",
+            "value": "Wszyscy sojuszniczy potwory skały mają +2 HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_2.title",
+            "value": "Kamienny Sojusznik 2"
+        },
+        {
+            "key": "ability.aura_hp_rock_m1.desc",
+            "value": "Wszyscy sojuszniczy potwory cienia mają +1 HP."
+        },
+        {
+            "key": "ability.aura_hp_rock_m1.title",
+            "value": "Cienisty Sojusznik"
+        },
+        {
+            "key": "ability.aura_protect_igloo.desc",
+            "value": "Igloo stają się niezwyciężone."
+        },
+        {
+            "key": "ability.aura_protect_igloo.title",
+            "value": "Ochrona Igloo"
+        },
+        {
+            "key": "ability.aura_reptile.desc",
+            "value": "Wszyscy inni sojuszniczy gady zyskują +1 atak."
+        },
+        {
+            "key": "ability.aura_reptile.title",
+            "value": "Gady"
+        },
+        {
+            "key": "ability.aura_reptile_2.desc",
+            "value": "Wszyscy inni sojuszniczy gady zyskują +2 atak."
+        },
+        {
+            "key": "ability.aura_reptile_2.title",
+            "value": "Gady"
+        },
+        {
+            "key": "ability.bypass_trap.desc",
+            "value": "Ten potwór nie uruchamia pułapek."
+        },
+        {
+            "key": "ability.bypass_trap.title",
+            "value": "Unik Pułapek"
+        },
+        {
+            "key": "ability.chain_ice_treasure.desc",
+            "value": "Spójrz na następne 7 kart w talii i weź 2 karty lodu do ręki."
+        },
+        {
+            "key": "ability.chain_ice_treasure.title",
+            "value": "Lodowy Skarb"
+        },
+        {
+            "key": "ability.chain_water_treasure.desc",
+            "value": "Spójrz na następne 7 kart w talii i weź 2 karty wody do ręki."
+        },
+        {
+            "key": "ability.chain_water_treasure.title",
+            "value": "Wodny Skarb"
+        },
+        {
+            "key": "ability.choice_ability_immunity.desc",
+            "value": "Nie może być celem zdolności potworów"
+        },
+        {
+            "key": "ability.choice_ability_immunity.title",
+            "value": "Odporność na Zdolności"
+        },
+        {
+            "key": "ability.choice_armor2.desc",
+            "value": "Zyskaj +2 Pancerza na przywołanie."
+        },
+        {
+            "key": "ability.choice_armor2.title",
+            "value": "Wybór Pancerza 2"
+        },
+        {
+            "key": "ability.choice_fury.desc",
+            "value": "Może atakować dwa razy na turę."
+        },
+        {
+            "key": "ability.choice_fury.title",
+            "value": "Furia"
+        },
+        {
+            "key": "ability.choice_rush.desc",
+            "value": "Może atakować w turze przywołania."
+        },
+        {
+            "key": "ability.choice_rush.title",
+            "value": "Pośpiech"
+        },
+        {
+            "key": "ability.choice_taunt.desc",
+            "value": "Wrogowie muszą atakować tę kartę przed innymi sojusznikami."
+        },
+        {
+            "key": "ability.choice_taunt.title",
+            "value": "Prowokacja"
+        },
+        {
+            "key": "ability.death_damage2.desc",
+            "value": "Na śmierć zadaj 2 obrażenia graczowi wroga."
+        },
+        {
+            "key": "ability.death_damage2.title",
+            "value": "Śmierć"
+        },
+        {
+            "key": "ability.death_draw1.desc",
+            "value": "Na śmierć dobierz 1 kartę."
+        },
+        {
+            "key": "ability.death_draw1.title",
+            "value": "Śmierć"
+        },
+        {
+            "key": "ability.death_draw2.desc",
+            "value": "Na śmierć dobierz 2 karty."
+        },
+        {
+            "key": "ability.death_draw2.title",
+            "value": "Śmierć"
+        },
+        {
+            "key": "ability.death_enrage2.desc",
+            "value": "Na śmierć przywołaj Cabyrona z Wściekłością II."
+        },
+        {
+            "key": "ability.death_enrage2.title",
+            "value": "Śmierć"
+        },
+        {
+            "key": "ability.death_igloo.desc",
+            "value": "Na śmierć przywołaj Igloo."
+        },
+        {
+            "key": "ability.death_igloo.title",
+            "value": "Śmierć"
+        },
+        {
+            "key": "ability.death_summon_baby_jagur.desc",
+            "value": "Na śmierć przywołaj młodego Jagura."
+        },
+        {
+            "key": "ability.death_summon_baby_jagur.title",
+            "value": "Śmierć"
+        },
+        {
+            "key": "ability.death_summon_twii.desc",
+            "value": "Na śmierć przywołaj Twii."
+        },
+        {
+            "key": "ability.death_summon_twii.title",
+            "value": "Śmierć"
+        },
+        {
+            "key": "ability.death_transform_pyro.desc",
+            "value": "Na śmierć przywołaj jajko."
+        },
+        {
+            "key": "ability.death_transform_pyro.title",
+            "value": "Śmierć"
+        },
+        {
+            "key": "ability.discard_copy.desc",
+            "value": "Gdy przeciwnik odrzuci zaklęcie, stwórz kopię o zerowym koszcie many w twojej ręce."
+        },
+        {
+            "key": "ability.discard_copy.title",
+            "value": "Kopia Odrzuconego"
+        },
+        {
+            "key": "ability.discard_draw2.desc",
+            "value": "Na odrzucenie losowej karty z ręki dobierz 2 karty."
+        },
+        {
+            "key": "ability.discard_draw2.title",
+            "value": "Odrzuć"
+        },
+        {
+            "key": "ability.discard_random.desc",
+            "value": "Na zagrańko przeciwnik odrzuca losową kartę."
+        },
+        {
+            "key": "ability.discard_random.title",
+            "value": "Odrzuć Losową"
+        },
+        {
+            "key": "ability.discard_transform.desc",
+            "value": "Gdy przeciwnik odrzuci kartę potwora, ten potwór staje się kopią odrzuconego potwora."
+        },
+        {
+            "key": "ability.discard_transform.title",
+            "value": "Przekształcenie Odrzuconego"
+        },
+        {
+            "key": "ability.draw_on_death_water.desc",
+            "value": "Gdy potwór Wody, którego posiadasz, umrze, dobierz kartę."
+        },
+        {
+            "key": "ability.draw_on_death_water.title",
+            "value": "Śmierć Wody"
+        },
+        {
+            "key": "ability.draw_on_kill2.desc",
+            "value": "Na zabicie dobierz 2 karty."
+        },
+        {
+            "key": "ability.draw_on_kill2.title",
+            "value": "Zabij"
+        },
+        {
+            "key": "ability.draw_on_kill3.desc",
+            "value": "Na zabicie dobierz 3 karty."
+        },
+        {
+            "key": "ability.draw_on_kill3.title",
+            "value": "Zabij"
+        },
+        {
+            "key": "ability.draw_on_kill4.desc",
+            "value": "Na zabicie dobierz 4 karty."
+        },
+        {
+            "key": "ability.draw_on_kill4.title",
+            "value": "Zabij"
+        },
+        {
+            "key": "ability.draw_on_kill5.desc",
+            "value": "Na zabicie dobierz 5 kart."
+        },
+        {
+            "key": "ability.draw_on_kill5.title",
+            "value": "Zabij"
+        },
+        {
+            "key": "ability.draw_on_kill6.desc",
+            "value": "Na zabicie dobierz 6 kart."
+        },
+        {
+            "key": "ability.draw_on_kill6.title",
+            "value": "Zabij"
+        },
+        {
+            "key": "ability.draw_on_kill7.desc",
+            "value": "Na zabicie dobierz 7 kart."
+        },
+        {
+            "key": "ability.draw_on_kill7.title",
+            "value": "Zabij"
+        },
+        {
+            "key": "ability.draw_on_survival.desc",
+            "value": "Raz na turę, gdy przyjmujesz obrażenia i przetrwasz, dobierz kartę."
+        },
+        {
+            "key": "ability.draw_on_survival.title",
+            "value": "Przetrwanie"
+        },
+        {
+            "key": "ability.enrage_2.desc",
+            "value": "Wściekłość II"
+        },
+        {
+            "key": "ability.enrage_2.title",
+            "value": "Wściekłość II"
+        },
+        {
+            "key": "ability.enrage_3.desc",
+            "value": "Wściekłość III"
+        },
+        {
+            "key": "ability.enrage_3.title",
+            "value": "Wściekłość III"
+        },
+        {
+            "key": "ability.enrage_armor1.desc",
+            "value": "Na zagrańko zyskaj 1 pancerza."
+        },
+        {
+            "key": "ability.enrage_armor1.title",
+            "value": "Wściekłość"
+        },
+        {
+            "key": "ability.enrage_armor2.desc",
+            "value": "Na zagrańko zyskaj 2 pancerza."
+        },
+        {
+            "key": "ability.enrage_armor2.title",
+            "value": "Wściekłość"
+        },
+        {
+            "key": "ability.enrage_damage_all1.desc",
+            "value": "Na zagrańko zadaj 1 obrażenie wszystkim innym kartom w grze, potem ulecz wszystkie sojusznicze karty o 1 HP."
+        },
+        {
+            "key": "ability.enrage_damage_all1.title",
+            "value": "Wściekłość"
+        },
+        {
+            "key": "ability.enrage_draw_rock_spell.desc",
+            "value": "Na zagrańko dobierz kartę zaklęcia skały z talii."
+        },
+        {
+            "key": "ability.enrage_draw_rock_spell.title",
+            "value": "Wściekłość"
+        },
+        {
+            "key": "ability.enrage_flying.desc",
+            "value": "Na zagrańko zyskaj Latanie."
+        },
+        {
+            "key": "ability.enrage_flying.title",
+            "value": "Wściekłość"
+        },
+        {
+            "key": "ability.enrage_rock_armor.desc",
+            "value": "Na zagrańko daj wszystkim sojuszniczym potworom skały +1 pancerza."
+        },
+        {
+            "key": "ability.enrage_rock_armor.title",
+            "value": "Wściekłość"
+        },
+        {
+            "key": "ability.enrage_taunt.desc",
+            "value": "Na zagrańko zyskaj Prowokację."
+        },
+        {
+            "key": "ability.enrage_taunt.title",
+            "value": "Wściekłość"
+        },
+        {
+            "key": "ability.freeze_all_4atk.desc",
+            "value": "Na zagrańko zamroź wszystkich wrogich potworów z atakiem 4 lub mniej."
+        },
+        {
+            "key": "ability.freeze_all_4atk.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.freeze_all_5atk.desc",
+            "value": "Na zagrańko zamroź wszystkich wrogich potworów z atakiem 5 lub mniej."
+        },
+        {
+            "key": "ability.freeze_all_5atk.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.freeze_enemy_2atk.desc",
+            "value": "Na zagrańko zamroź wrogiego potwora z atakiem 2 lub mniej."
+        },
+        {
+            "key": "ability.freeze_enemy_2atk.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.freeze_enemy_3atk.desc",
+            "value": "Na zagrańko zamroź wrogiego potwora z atakiem 3 lub mniej."
+        },
+        {
+            "key": "ability.freeze_enemy_3atk.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.freeze_enemy_4atk.desc",
+            "value": "Na zagrańko zamroź wrogiego potwora z atakiem 4 lub mniej."
+        },
+        {
+            "key": "ability.freeze_enemy_4atk.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.haste_ice_location.desc",
+            "value": "Zyskaj Pośpiech, jeśli lokalizacja lodu jest w grze."
+        },
+        {
+            "key": "ability.haste_ice_location.title",
+            "value": "Pośpiech Lodu"
+        },
+        {
+            "key": "ability.heal_all2.desc",
+            "value": "Na zagrańko ulecz wszystkich o 2 HP."
+        },
+        {
+            "key": "ability.heal_all2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_all3.desc",
+            "value": "Na zagrańko ulecz wszystkich o 3 HP."
+        },
+        {
+            "key": "ability.heal_all3.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_all4.desc",
+            "value": "Na zagrańko ulecz wszystkich o 4 HP."
+        },
+        {
+            "key": "ability.heal_all4.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_player4.desc",
+            "value": "Na zagrańko ulecz gracza o 4 HP."
+        },
+        {
+            "key": "ability.heal_player4.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_self_full.desc",
+            "value": "Na początku twojej tury ten potwór całkowicie się leczy."
+        },
+        {
+            "key": "ability.heal_self_full.title",
+            "value": "Pełne Leczenie"
+        },
+        {
+            "key": "ability.heal_self_hp2.desc",
+            "value": "Na zagrańko ulecz się o 2 HP."
+        },
+        {
+            "key": "ability.heal_self_hp2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_self_hp3.desc",
+            "value": "Na zagrańko ulecz się o 3 HP."
+        },
+        {
+            "key": "ability.heal_self_hp3.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_self_hp4.desc",
+            "value": "Na zagrańko ulecz się o 4 HP."
+        },
+        {
+            "key": "ability.heal_self_hp4.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_target2.desc",
+            "value": "Na zagrańko ulecz cel o 2 HP."
+        },
+        {
+            "key": "ability.heal_target2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_target3.desc",
+            "value": "Na zagrańko ulecz cel o 3 HP."
+        },
+        {
+            "key": "ability.heal_target3.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_target4.desc",
+            "value": "Na zagrańko ulecz cel o 4 HP."
+        },
+        {
+            "key": "ability.heal_target4.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.heal_target_hp2.desc",
+            "value": "Na zagrańko ulecz cel o 2 HP i usuń wszystkie negatywne efekty statusu."
+        },
+        {
+            "key": "ability.heal_target_hp2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.ice_evolution_minus1.desc",
+            "value": "Zmniejsz licznik ewolucji potwora lodu o 1, jeśli osiągnie 0, ewoluuje."
+        },
+        {
+            "key": "ability.ice_evolution_minus1.title",
+            "value": "Ewolucja Lodu"
+        },
+        {
+            "key": "ability.igloo_on_play.desc",
+            "value": "Na zagrańko przywołaj Igloo."
+        },
+        {
+            "key": "ability.igloo_on_play.title",
+            "value": "Igloo"
+        },
+        {
+            "key": "ability.igloo_on_play_2.desc",
+            "value": "Na zagrańko przywołaj Igloo dwa razy."
+        },
+        {
+            "key": "ability.igloo_on_play_2.title",
+            "value": "Igloo"
+        },
+        {
+            "key": "ability.igloo_shell.desc",
+            "value": "Zyskaj Skorupę za każdym przywołaniu lokalizacji."
+        },
+        {
+            "key": "ability.igloo_shell.title",
+            "value": "Skorupa Igloo"
+        },
+        {
+            "key": "ability.location_cost_minus1.desc",
+            "value": "Dowolna lokalizacja tego samego typu elementarnego ma zniżkę many 1."
+        },
+        {
+            "key": "ability.location_cost_minus1.title",
+            "value": "Zniżka Lokalizacji"
+        },
+        {
+            "key": "ability.location_ice_boost.desc",
+            "value": "Zyskaj +1/+1, jeśli lokalizacja lodu jest w grze."
+        },
+        {
+            "key": "ability.location_ice_boost.title",
+            "value": "Wzmocnienie Lodu"
+        },
+        {
+            "key": "ability.location_ice_draw.desc",
+            "value": "Na zagrańko dobierz kartę, jeśli lokalizacja lodu jest w grze."
+        },
+        {
+            "key": "ability.location_ice_draw.title",
+            "value": "Rysunek Lodu"
+        },
+        {
+            "key": "ability.lifesteal.desc",
+            "value": "Ulecz się podczas zadawania obrażeń."
+        },
+        {
+            "key": "ability.lifesteal.title",
+            "value": "Kradzież Życia"
+        },
+        {
+            "key": "ability.mind_control_3_turns.desc",
+            "value": "Przejmij kontrolę nad wrogim potworem na 3 tury lub dopóki nie ewoluuje."
+        },
+        {
+            "key": "ability.mind_control_3_turns.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "ability.mind_control_5_cost.desc",
+            "value": "Kontrola Umysłu nad wrogim docelowym potworem o koszcie many 5+ dopóki ten potwór nie opuści planszy."
+        },
+        {
+            "key": "ability.mind_control_5_cost.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "ability.mind_control_atk3.desc",
+            "value": "Na zagrańko Kontrola Umysłu nad docelowym potworem z atakiem 3 lub mniej."
+        },
+        {
+            "key": "ability.mind_control_atk3.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "ability.mind_control_atk5.desc",
+            "value": "Na zagrańko Kontrola Umysłu nad wrogim potworem z atakiem 5 lub mniej."
+        },
+        {
+            "key": "ability.mind_control_atk5.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "ability.mind_control_cost2.desc",
+            "value": "Na zagrańko Kontrola Umysłu nad docelowym potworem o koszcie 2 many lub mniej."
+        },
+        {
+            "key": "ability.mind_control_cost2.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "ability.mind_control_cost3.desc",
+            "value": "Na zagrańko Kontrola Umysłu nad docelowym wrogim potworem o koszcie 3 many lub mniej."
+        },
+        {
+            "key": "ability.mind_control_cost3.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "ability.mind_control_switch_sides.desc",
+            "value": "Na zagrańko wybierz docelowego potwora do zmiany stron."
+        },
+        {
+            "key": "ability.mind_control_switch_sides.title",
+            "value": "Zamiana Kontroli"
+        },
+        {
+            "key": "ability.mind_control_taunt.desc",
+            "value": "Na zagrańko Kontrola Umysłu nad docelowym potworem i daj mu Prowokację."
+        },
+        {
+            "key": "ability.mind_control_taunt.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "ability.on_damage_all1_heal_allies1.desc",
+            "value": "Na obrażenia zadaj 1 obrażenie wszystkim innym kartom w grze, potem ulecz wszystkie sojusznicze karty o 1 HP."
+        },
+        {
+            "key": "ability.on_damage_all1_heal_allies1.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.on_play_boost_all1.desc",
+            "value": "Na zagrańko daj +1/+1 wszystkim sojuszniczym potworom."
+        },
+        {
+            "key": "ability.on_play_boost_all1.title",
+            "value": "Wzmocnienie"
+        },
+        {
+            "key": "ability.on_play_boost_all2.desc",
+            "value": "Na zagrańko daj +2/+2 wszystkim sojuszniczym potworom."
+        },
+        {
+            "key": "ability.on_play_boost_all2.title",
+            "value": "Wzmocnienie"
+        },
+        {
+            "key": "ability.on_play_boost_cat1.desc",
+            "value": "Na zagrańko daj +1 atak wszystkim Kotom."
+        },
+        {
+            "key": "ability.on_play_boost_cat1.title",
+            "value": "Wzmocnienie Kota"
+        },
+        {
+            "key": "ability.on_play_boost_reptile1.desc",
+            "value": "Na zagrańko daj +1 atak wszystkim Gadom."
+        },
+        {
+            "key": "ability.on_play_boost_reptile1.title",
+            "value": "Wzmocnienie Gada"
+        },
+        {
+            "key": "ability.on_play_boost_reptile2.desc",
+            "value": "Na zagrańko daj +2 atak wszystkim Gadom."
+        },
+        {
+            "key": "ability.on_play_boost_reptile2.title",
+            "value": "Wzmocnienie Gada"
+        },
+        {
+            "key": "ability.on_play_curse.desc",
+            "value": "Na zagrańko nałóż Przekleństwo na cel."
+        },
+        {
+            "key": "ability.on_play_curse.title",
+            "value": "Przekleństwo"
+        },
+        {
+            "key": "ability.on_play_curse_all.desc",
+            "value": "Na zagrańko przeklnij wszystkich potworów w grze."
+        },
+        {
+            "key": "ability.on_play_curse_all.title",
+            "value": "Przekleństwo"
+        },
+        {
+            "key": "ability.on_play_damage_all2.desc",
+            "value": "Na zagrańko zadaj 2 obrażenia wszystkim."
+        },
+        {
+            "key": "ability.on_play_damage_all2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.on_play_damage_all3.desc",
+            "value": "Na zagrańko zadaj 3 obrażenia wszystkim."
+        },
+        {
+            "key": "ability.on_play_damage_all3.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.on_play_destroy_3atk.desc",
+            "value": "Na zagrańko zniszcz potwora z atakiem 3 lub mniej."
+        },
+        {
+            "key": "ability.on_play_destroy_3atk.title",
+            "value": "Zniszczenie"
+        },
+        {
+            "key": "ability.on_play_destroy_4atk.desc",
+            "value": "Na zagrańko zniszcz potwora z atakiem 4 lub mniej."
+        },
+        {
+            "key": "ability.on_play_destroy_4atk.title",
+            "value": "Zniszczenie"
+        },
+        {
+            "key": "ability.on_play_destroy_traps_boost.desc",
+            "value": "Na zagrańko zniszcz wszystkie wrogie pułapki i zyskaj +2/2 za każdą zniszczoną pułapkę."
+        },
+        {
+            "key": "ability.on_play_destroy_traps_boost.title",
+            "value": "Zniszczenie Pułapek"
+        },
+        {
+            "key": "ability.on_play_draw1.desc",
+            "value": "Na zagrańko dobierz 1 kartę."
+        },
+        {
+            "key": "ability.on_play_draw1.title",
+            "value": "Dobierz"
+        },
+        {
+            "key": "ability.on_play_draw2.desc",
+            "value": "Na zagrańko dobierz 2 karty."
+        },
+        {
+            "key": "ability.on_play_draw2.title",
+            "value": "Dobierz"
+        },
+        {
+            "key": "ability.on_play_heal_player4.desc",
+            "value": "Na zagrańko ulecz gracza o 4 HP."
+        },
+        {
+            "key": "ability.on_play_heal_player4.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.on_play_poison_all.desc",
+            "value": "Na zagrańko otruj wszystkich wrogów w grze."
+        },
+        {
+            "key": "ability.on_play_poison_all.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.on_play_poison_target.desc",
+            "value": "Na zagrańko otruj docelowego potwora."
+        },
+        {
+            "key": "ability.on_play_poison_target.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.on_play_reveal_hand_draw1.desc",
+            "value": "Na zagrańko ujawnij rękę przeciwnika i dobierz 1 kartę."
+        },
+        {
+            "key": "ability.on_play_reveal_hand_draw1.title",
+            "value": "Ujawnij i Dobierz"
+        },
+        {
+            "key": "ability.on_play_silence.desc",
+            "value": "Na zagrańko ucisz docelową kartę."
+        },
+        {
+            "key": "ability.on_play_silence.title",
+            "value": "Uciszenie"
+        },
+        {
+            "key": "ability.on_play_silence_curse.desc",
+            "value": "Na zagrańko ucisz docelowego potwora, potem przeklnij docelowego potwora."
+        },
+        {
+            "key": "ability.on_play_silence_curse.title",
+            "value": "Uciszenie i Przekleństwo"
+        },
+        {
+            "key": "ability.on_play_summon_baby_jagur.desc",
+            "value": "Na zagrańko przywołaj młodego Jagura."
+        },
+        {
+            "key": "ability.on_play_summon_baby_jagur.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.on_play_summon_lizi.desc",
+            "value": "Na zagrańko przywołaj Lizo."
+        },
+        {
+            "key": "ability.on_play_summon_lizi.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.on_play_target_attack1.desc",
+            "value": "Na zagrańko ustaw atak docelowego potwora na 1."
+        },
+        {
+            "key": "ability.on_play_target_attack1.title",
+            "value": "Zmniejsz Atak"
+        },
+        {
+            "key": "ability.on_play_target_attack3.desc",
+            "value": "Na zagrańko ustaw atak docelowego potwora na 3."
+        },
+        {
+            "key": "ability.on_play_target_attack3.title",
+            "value": "Zmniejsz Atak"
+        },
+        {
+            "key": "ability.on_play_target_burn.desc",
+            "value": "Na zagrańko docelowy potwór zyskuje oparzenie i traci 2 HP na turę."
+        },
+        {
+            "key": "ability.on_play_target_burn.title",
+            "value": "Oparzenie"
+        },
+        {
+            "key": "ability.on_play_target_curse.desc",
+            "value": "Na zagrańko nałóż Przekleństwo na docelowego potwora."
+        },
+        {
+            "key": "ability.on_play_target_curse.title",
+            "value": "Przekleństwo"
+        },
+        {
+            "key": "ability.on_play_target_damage2.desc",
+            "value": "Na zagrańko zadaj 2 obrażenia celowi."
+        },
+        {
+            "key": "ability.on_play_target_damage2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.on_play_target_heal2.desc",
+            "value": "Na zagrańko ulecz cel o 2 HP."
+        },
+        {
+            "key": "ability.on_play_target_heal2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.on_play_target_poison.desc",
+            "value": "Na zagrańko otruj docelowego potwora."
+        },
+        {
+            "key": "ability.on_play_target_poison.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.on_play_target_silence.desc",
+            "value": "Na zagrańko ucisz docelowego potwora."
+        },
+        {
+            "key": "ability.on_play_target_silence.title",
+            "value": "Uciszenie"
+        },
+        {
+            "key": "ability.on_turn_start_damage_all2.desc",
+            "value": "Na początku tury zadaj 2 obrażenia wszystkim."
+        },
+        {
+            "key": "ability.on_turn_start_damage_all2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.on_turn_start_damage_all3.desc",
+            "value": "Na początku tury zadaj 3 obrażenia wszystkim."
+        },
+        {
+            "key": "ability.on_turn_start_damage_all3.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.on_turn_start_draw1.desc",
+            "value": "Na początku tury dobierz 1 kartę."
+        },
+        {
+            "key": "ability.on_turn_start_draw1.title",
+            "value": "Dobierz"
+        },
+        {
+            "key": "ability.on_turn_start_draw2.desc",
+            "value": "Na początku tury dobierz 2 karty."
+        },
+        {
+            "key": "ability.on_turn_start_draw2.title",
+            "value": "Dobierz"
+        },
+        {
+            "key": "ability.on_turn_start_heal_self3.desc",
+            "value": "Na początku tury ulecz się o 3 HP."
+        },
+        {
+            "key": "ability.on_turn_start_heal_self3.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.on_turn_start_poison_self.desc",
+            "value": "Na początku tury otruj się."
+        },
+        {
+            "key": "ability.on_turn_start_poison_self.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.on_turn_start_put_sleep_ally.desc",
+            "value": "Na początku tury uśpij losowego sojusznika."
+        },
+        {
+            "key": "ability.on_turn_start_put_sleep_ally.title",
+            "value": "Sen"
+        },
+        {
+            "key": "ability.on_turn_start_reduce_attack1.desc",
+            "value": "Na początku tury kontrolera tracisz 1 atak."
+        },
+        {
+            "key": "ability.on_turn_start_reduce_attack1.title",
+            "value": "Przekleństwo"
+        },
+        {
+            "key": "ability.on_turn_start_sleep.desc",
+            "value": "Na początku tury nie przygotowuj się."
+        },
+        {
+            "key": "ability.on_turn_start_sleep.title",
+            "value": "Sen"
+        },
+        {
+            "key": "ability.poison_suffering.desc",
+            "value": "Na ataku przyjmij 3 obrażenia."
+        },
+        {
+            "key": "ability.poison_suffering.title",
+            "value": "Cierpienie"
+        },
+        {
+            "key": "ability.play_armor1.desc",
+            "value": "Na zagrańko zyskaj +1 Pancerza."
+        },
+        {
+            "key": "ability.play_armor1.title",
+            "value": "Pancerz"
+        },
+        {
+            "key": "ability.play_armor2.desc",
+            "value": "Na zagrańko zyskaj +2 Pancerza."
+        },
+        {
+            "key": "ability.play_armor2.title",
+            "value": "Pancerz"
+        },
+        {
+            "key": "ability.play_armor3.desc",
+            "value": "Na zagrańko zyskaj +3 Pancerza."
+        },
+        {
+            "key": "ability.play_armor3.title",
+            "value": "Pancerz"
+        },
+        {
+            "key": "ability.play_boost_all2.desc",
+            "value": "Na zagrańko daj +2/+2 do końca tury."
+        },
+        {
+            "key": "ability.play_boost_all2.title",
+            "value": "Wzmocnienie"
+        },
+        {
+            "key": "ability.play_boost_self1.desc",
+            "value": "Na zagrańko zyskaj +1/+1."
+        },
+        {
+            "key": "ability.play_boost_self1.title",
+            "value": "Wzmocnienie"
+        },
+        {
+            "key": "ability.play_boost_self2.desc",
+            "value": "Na zagrańko zyskaj +2/+2."
+        },
+        {
+            "key": "ability.play_boost_self2.title",
+            "value": "Wzmocnienie"
+        },
+        {
+            "key": "ability.play_boost_self3.desc",
+            "value": "Na zagrańko zyskaj +3/+3."
+        },
+        {
+            "key": "ability.play_boost_self3.title",
+            "value": "Wzmocnienie"
+        },
+        {
+            "key": "ability.play_curse.desc",
+            "value": "Na zagrańko nałóż Przekleństwo."
+        },
+        {
+            "key": "ability.play_curse.title",
+            "value": "Przekleństwo"
+        },
+        {
+            "key": "ability.play_curse_suffering.desc",
+            "value": "Na zagrańko dodaj Przekleństwo Cierpienia do potwora."
+        },
+        {
+            "key": "ability.play_curse_suffering.title",
+            "value": "Przekleństwo Cierpienia"
+        },
+        {
+            "key": "ability.play_damage_all1.desc",
+            "value": "Na zagrańko zadaj 1 obrażenie wszystkim."
+        },
+        {
+            "key": "ability.play_damage_all1.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.play_damage_all2.desc",
+            "value": "Na zagrańko zadaj 2 obrażenia wszystkim."
+        },
+        {
+            "key": "ability.play_damage_all2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.play_damage_self1.desc",
+            "value": "Na zagrańko zadaj 1 obrażenie sobie."
+        },
+        {
+            "key": "ability.play_damage_self1.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.play_damage_target1.desc",
+            "value": "Na zagrańko zadaj 1 obrażenie celowi."
+        },
+        {
+            "key": "ability.play_damage_target1.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.play_damage_target2.desc",
+            "value": "Na zagrańko zadaj 2 obrażenia celowi."
+        },
+        {
+            "key": "ability.play_damage_target2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.play_damage_target3.desc",
+            "value": "Na zagrańko zadaj 3 obrażenia celowi."
+        },
+        {
+            "key": "ability.play_damage_target3.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.play_destroy_2atk.desc",
+            "value": "Na zagrańko zniszcz potwora z atakiem 2 lub mniej."
+        },
+        {
+            "key": "ability.play_destroy_2atk.title",
+            "value": "Zniszczenie"
+        },
+        {
+            "key": "ability.play_draw1.desc",
+            "value": "Na zagrańko dobierz 1 kartę."
+        },
+        {
+            "key": "ability.play_draw1.title",
+            "value": "Dobierz"
+        },
+        {
+            "key": "ability.play_freeze.desc",
+            "value": "Na zagrańko zamroź cel."
+        },
+        {
+            "key": "ability.play_freeze.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.play_heal_all2.desc",
+            "value": "Na zagrańko ulecz wszystkich o 2 HP."
+        },
+        {
+            "key": "ability.play_heal_all2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.play_heal_self2.desc",
+            "value": "Na zagrańko ulecz się o 2 HP."
+        },
+        {
+            "key": "ability.play_heal_self2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.play_heal_target2.desc",
+            "value": "Na zagrańko ulecz cel o 2 HP."
+        },
+        {
+            "key": "ability.play_heal_target2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.play_heal_target3.desc",
+            "value": "Na zagrańko ulecz cel o 3 HP."
+        },
+        {
+            "key": "ability.play_heal_target3.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.play_heal_target_hp2.desc",
+            "value": "Na zagrańko ulecz potwora ze wszystkich negatywnych efektów statusu i nadaj +2 HP."
+        },
+        {
+            "key": "ability.play_heal_target_hp2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.play_poison.desc",
+            "value": "Na zagrańko otruj cel."
+        },
+        {
+            "key": "ability.play_poison.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.play_reduce_attack1.desc",
+            "value": "Na zagrańko zmniejsz atak docelowego potwora do 1."
+        },
+        {
+            "key": "ability.play_reduce_attack1.title",
+            "value": "Zmniejsz Atak"
+        },
+        {
+            "key": "ability.play_regeneration.desc",
+            "value": "Na zagrańko zyskaj Regenerację."
+        },
+        {
+            "key": "ability.play_regeneration.title",
+            "value": "Regeneracja"
+        },
+        {
+            "key": "ability.play_return_hand.desc",
+            "value": "Na zagrańko zwróć potwora do ręki."
+        },
+        {
+            "key": "ability.play_return_hand.title",
+            "value": "Odbij"
+        },
+        {
+            "key": "ability.play_return_hand_any.desc",
+            "value": "Na zagrańko zwróć dowolny cel do ręki właściciela."
+        },
+        {
+            "key": "ability.play_return_hand_any.title",
+            "value": "Odbij"
+        },
+        {
+            "key": "ability.play_return_hand_enemy.desc",
+            "value": "Na zagrańko zwróć wrogiego potwora do ręki właściciela."
+        },
+        {
+            "key": "ability.play_return_hand_enemy.title",
+            "value": "Odbij"
+        },
+        {
+            "key": "ability.play_silence.desc",
+            "value": "Na zagrańko ucisz docelową kartę."
+        },
+        {
+            "key": "ability.play_silence.title",
+            "value": "Uciszenie"
+        },
+        {
+            "key": "ability.play_summon_dragon.desc",
+            "value": "Na zagrańko odkryj Smoka."
+        },
+        {
+            "key": "ability.play_summon_dragon.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.play_summon_hajiko.desc",
+            "value": "Na zagrańko przywołaj Hajiko."
+        },
+        {
+            "key": "ability.play_summon_hajiko.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.play_summon_igloo.desc",
+            "value": "Na zagrańko przywołaj Igloo."
+        },
+        {
+            "key": "ability.play_summon_igloo.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.play_summon_igloo_2.desc",
+            "value": "Na zagrańko przywołaj Igloo dwa razy."
+        },
+        {
+            "key": "ability.play_summon_igloo_2.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.play_summon_lampis.desc",
+            "value": "Na zagrańko przywołaj trzech 2/1 Lampi do twojej ręki."
+        },
+        {
+            "key": "ability.play_summon_lampis.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.play_summon_pyros.desc",
+            "value": "Na zagrańko przywołaj 3 Pyro do twojej ręki."
+        },
+        {
+            "key": "ability.play_summon_pyros.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.play_target_boost2.desc",
+            "value": "Na zagrańko daj +2/+2 celowi."
+        },
+        {
+            "key": "ability.play_target_boost2.title",
+            "value": "Wzmocnienie"
+        },
+        {
+            "key": "ability.play_target_damage1.desc",
+            "value": "Na zagrańko zadaj 1 obrażenie celowi."
+        },
+        {
+            "key": "ability.play_target_damage1.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.play_target_heal2.desc",
+            "value": "Na zagrańko ulecz cel o 2 HP."
+        },
+        {
+            "key": "ability.play_target_heal2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.play_target_poison.desc",
+            "value": "Na zagrańko otruj cel."
+        },
+        {
+            "key": "ability.play_target_poison.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.play_target_silence.desc",
+            "value": "Na zagrańko ucisz cel."
+        },
+        {
+            "key": "ability.play_target_silence.title",
+            "value": "Uciszenie"
+        },
+        {
+            "key": "ability.play_target_silence_curse.desc",
+            "value": "Na zagrańko ucisz docelowego potwora, potem przeklnij docelowego potwora."
+        },
+        {
+            "key": "ability.play_target_silence_curse.title",
+            "value": "Uciszenie i Przekleństwo"
+        },
+        {
+            "key": "ability.play_target_swap.desc",
+            "value": "Na zagrańko zamień tego potwora z wrogim potworem."
+        },
+        {
+            "key": "ability.play_target_swap.title",
+            "value": "Zamiana"
+        },
+        {
+            "key": "ability.reach.desc",
+            "value": "Latające potwory muszą celować w tego potwora."
+        },
+        {
+            "key": "ability.reach.title",
+            "value": "Zasięg"
+        },
+        {
+            "key": "ability.reveal_hand.desc",
+            "value": "Na początku tury ujawnij rękę przeciwnika."
+        },
+        {
+            "key": "ability.reveal_hand.title",
+            "value": "Ujawnij Rękę"
+        },
+        {
+            "key": "ability.reveal_hand_end_turn.desc",
+            "value": "Na końcu tury ujawnij rękę przeciwnika."
+        },
+        {
+            "key": "ability.reveal_hand_end_turn.title",
+            "value": "Ujawnij Rękę"
+        },
+        {
+            "key": "ability.shell.desc",
+            "value": "Na pierwszym trafieniu nie przyjmij obrażeń."
+        },
+        {
+            "key": "ability.shell.title",
+            "value": "Skorupa"
+        },
+        {
+            "key": "ability.shell_igloo.desc",
+            "value": "Igloo zyskują Niezwyciężoność."
+        },
+        {
+            "key": "ability.shell_igloo.title",
+            "value": "Skorupa Igloo"
+        },
+        {
+            "key": "ability.slush_rush.desc",
+            "value": "Zyskaj Pośpiech, jeśli lokalizacja lodu jest w grze."
+        },
+        {
+            "key": "ability.slush_rush.title",
+            "value": "Poślizg Pośpiechu"
+        },
+        {
+            "key": "ability.spell_damage_all1.desc",
+            "value": "Zaklęcie zadaje 1 obrażenie losowej karcie."
+        },
+        {
+            "key": "ability.spell_damage_all1.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_damage_all2.desc",
+            "value": "Zaklęcie zadaje 2 obrażenia wszystkim wrogim potworom."
+        },
+        {
+            "key": "ability.spell_damage_all2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_damage_all3.desc",
+            "value": "Zaklęcie zadaje 3 obrażenia wszystkim."
+        },
+        {
+            "key": "ability.spell_damage_all3.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_damage_ally1_target2.desc",
+            "value": "Zaklęcie zadaje 1 obrażenie sojuszniczemu potworowi, potem 2 obrażenia dowolnemu celowi."
+        },
+        {
+            "key": "ability.spell_damage_ally1_target2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_damage_ally1_target2_random.desc",
+            "value": "Zaklęcie zadaje 1 obrażenie sojuszniczemu potworowi, potem 2 obrażenia losowemu celowi dwa razy."
+        },
+        {
+            "key": "ability.spell_damage_ally1_target2_random.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_damage_ally1_target3.desc",
+            "value": "Zaklęcie zadaje 1 obrażenie sojuszniczemu potworowi, potem 3 obrażenia dowolnemu celowi."
+        },
+        {
+            "key": "ability.spell_damage_ally1_target3.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_damage_target1.desc",
+            "value": "Zaklęcie zadaje 1 obrażenie celowi."
+        },
+        {
+            "key": "ability.spell_damage_target1.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_damage_target2.desc",
+            "value": "Zaklęcie zadaje 2 obrażenia celowi."
+        },
+        {
+            "key": "ability.spell_damage_target2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_damage_target3.desc",
+            "value": "Zaklęcie zadaje 3 obrażenia celowi."
+        },
+        {
+            "key": "ability.spell_damage_target3.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.spell_destroy_frozen.desc",
+            "value": "Zaklęcie niszczy zamrożony cel."
+        },
+        {
+            "key": "ability.spell_destroy_frozen.title",
+            "value": "Zniszczenie"
+        },
+        {
+            "key": "ability.spell_destroy_location.desc",
+            "value": "Zaklęcie niszczy lokalizację."
+        },
+        {
+            "key": "ability.spell_destroy_location.title",
+            "value": "Zniszczenie"
+        },
+        {
+            "key": "ability.spell_discard_3.desc",
+            "value": "Zaklęcie zmusza przeciwnika do odrzucenia 3 losowych kart z ręki."
+        },
+        {
+            "key": "ability.spell_discard_3.title",
+            "value": "Odrzuć"
+        },
+        {
+            "key": "ability.spell_discard_random.desc",
+            "value": "Zaklęcie zmusza przeciwnika do odrzucenia losowej karty z ręki."
+        },
+        {
+            "key": "ability.spell_discard_random.title",
+            "value": "Odrzuć"
+        },
+        {
+            "key": "ability.spell_freeze_all.desc",
+            "value": "Zaklęcie zamraża wszystkich potworów w grze."
+        },
+        {
+            "key": "ability.spell_freeze_all.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.spell_freeze_target.desc",
+            "value": "Zaklęcie zamraża cel na 1 turę."
+        },
+        {
+            "key": "ability.spell_freeze_target.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.spell_heal_all2.desc",
+            "value": "Zaklęcie leczy wszystkich o 2 HP."
+        },
+        {
+            "key": "ability.spell_heal_all2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.spell_heal_player3.desc",
+            "value": "Zaklęcie leczy gracza o 3 HP."
+        },
+        {
+            "key": "ability.spell_heal_player3.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.spell_heal_target2.desc",
+            "value": "Zaklęcie leczy cel o 2 HP."
+        },
+        {
+            "key": "ability.spell_heal_target2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.spell_hp_to1.desc",
+            "value": "Zaklęcie zmniejsza HP wszystkich potworów do 1."
+        },
+        {
+            "key": "ability.spell_hp_to1.title",
+            "value": "Zmniejsz HP"
+        },
+        {
+            "key": "ability.spell_hp_attack_to1.desc",
+            "value": "Zaklęcie zmniejsza HP i Atak wszystkich potworów do 1."
+        },
+        {
+            "key": "ability.spell_hp_attack_to1.title",
+            "value": "Zmniejsz"
+        },
+        {
+            "key": "ability.spell_paralyse3.desc",
+            "value": "Zaklęcie paraliżuje cel na 3 tury."
+        },
+        {
+            "key": "ability.spell_paralyse3.title",
+            "value": "Paraliż"
+        },
+        {
+            "key": "ability.spell_poison_all.desc",
+            "value": "Zaklęcie truje wszystkie karty w grze."
+        },
+        {
+            "key": "ability.spell_poison_all.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.spell_return_hand.desc",
+            "value": "Zaklęcie zwraca wrogiego cel do ręki właściciela."
+        },
+        {
+            "key": "ability.spell_return_hand.title",
+            "value": "Odbij"
+        },
+        {
+            "key": "ability.spell_return_hand_any.desc",
+            "value": "Zaklęcie zwraca dowolny cel do ręki właściciela."
+        },
+        {
+            "key": "ability.spell_return_hand_any.title",
+            "value": "Odbij"
+        },
+        {
+            "key": "ability.spell_return_hand_discard.desc",
+            "value": "Zaklęcie zwraca cel do ręki właściciela, potem przeciwnik odrzuca losową kartę z ręki."
+        },
+        {
+            "key": "ability.spell_return_hand_discard.title",
+            "value": "Odbij i Odrzuć"
+        },
+        {
+            "key": "ability.spell_summon_golem.desc",
+            "value": "Zaklęcie przywołuje golema skały z Prowokacją i X atakiem oraz X HP na podstawie wydanej many."
+        },
+        {
+            "key": "ability.spell_summon_golem.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.spell_target_add_damage3_before_attack.desc",
+            "value": "Zaklęcie nadaje celowi \"Przyjmij 3 obrażenia przed atakiem\"."
+        },
+        {
+            "key": "ability.spell_target_add_damage3_before_attack.title",
+            "value": "Dodatkowe Obrażenia"
+        },
+        {
+            "key": "ability.spell_target_add_discard_on_attack.desc",
+            "value": "Zaklęcie nadaje celowi \"Gdy atakowany, przeciwnik musi odrzucić 1 losową kartę\"."
+        },
+        {
+            "key": "ability.spell_target_add_discard_on_attack.title",
+            "value": "Odrzuć na Atak"
+        },
+        {
+            "key": "ability.spell_target_add_destroy_on_ally_play.desc",
+            "value": "Zaklęcie nadaje celowi \"Gdy sojuszniczy potwór wchodzi do gry, zniszcz tego potwora\"."
+        },
+        {
+            "key": "ability.spell_target_add_destroy_on_ally_play.title",
+            "value": "Zniszczenie na Sojusznika"
+        },
+        {
+            "key": "ability.spell_target_add_end_turn_damage1.desc",
+            "value": "Zaklęcie nadaje celowi \"Na końcu tury traci 1 HP\"."
+        },
+        {
+            "key": "ability.spell_target_add_end_turn_damage1.title",
+            "value": "Obrażenia Końcowe"
+        },
+        {
+            "key": "ability.spell_target_add_no_attack.desc",
+            "value": "Zaklęcie nadaje celowi \"Nie może atakować\"."
+        },
+        {
+            "key": "ability.spell_target_add_no_attack.title",
+            "value": "Blokada Ataku"
+        },
+        {
+            "key": "ability.spell_target_armor2.desc",
+            "value": "Zaklęcie nadaje docelowemu potworowi +2 pancerza."
+        },
+        {
+            "key": "ability.spell_target_armor2.title",
+            "value": "Pancerz"
+        },
+        {
+            "key": "ability.spell_target_boost2.desc",
+            "value": "Zaklęcie nadaje celowi +2/+2 na stałe i leczy wszelkie negatywne efekty statusu."
+        },
+        {
+            "key": "ability.spell_target_boost2.title",
+            "value": "Wzmocnienie"
+        },
+        {
+            "key": "ability.spell_target_freeze.desc",
+            "value": "Zaklęcie zamraża docelowego potwora."
+        },
+        {
+            "key": "ability.spell_target_freeze.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.spell_target_hp2.desc",
+            "value": "Zaklęcie leczy cel o 2 HP."
+        },
+        {
+            "key": "ability.spell_target_hp2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.spell_target_poison.desc",
+            "value": "Zaklęcie truje cel."
+        },
+        {
+            "key": "ability.spell_target_poison.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.summon_baby_jagur.desc",
+            "value": "Na zagrańko przywołaj młodego Jagura."
+        },
+        {
+            "key": "ability.summon_baby_jagur.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.summon_cabyron.desc",
+            "value": "Na śmierć przywołaj Cabyrona z Wściekłością II."
+        },
+        {
+            "key": "ability.summon_cabyron.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.summon_dragon.desc",
+            "value": "Odkryj Smoka."
+        },
+        {
+            "key": "ability.summon_dragon.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.summon_igloo.desc",
+            "value": "Na zagrańko przywołaj Igloo."
+        },
+        {
+            "key": "ability.summon_igloo.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.summon_igloo_2.desc",
+            "value": "Na zagrańko przywołaj Igloo dwa razy."
+        },
+        {
+            "key": "ability.summon_igloo_2.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.summon_twii.desc",
+            "value": "Na śmierć przywołaj Twii."
+        },
+        {
+            "key": "ability.summon_twii.title",
+            "value": "Przywołaj"
+        },
+        {
+            "key": "ability.target_attack1.desc",
+            "value": "Atak docelowego potwora jest zredukowany do 1."
+        },
+        {
+            "key": "ability.target_attack1.title",
+            "value": "Zmniejsz Atak"
+        },
+        {
+            "key": "ability.target_burn.desc",
+            "value": "Docelowy potwór zyskuje oparzenie i traci 2 HP na turę."
+        },
+        {
+            "key": "ability.target_burn.title",
+            "value": "Oparzenie"
+        },
+        {
+            "key": "ability.target_curse.desc",
+            "value": "Docelowy potwór zyskuje Przekleństwo."
+        },
+        {
+            "key": "ability.target_curse.title",
+            "value": "Przekleństwo"
+        },
+        {
+            "key": "ability.target_freeze.desc",
+            "value": "Docelowy potwór staje się zamrożony."
+        },
+        {
+            "key": "ability.target_freeze.title",
+            "value": "Zamrożenie"
+        },
+        {
+            "key": "ability.target_heal2.desc",
+            "value": "Ulecz cel o 2 HP."
+        },
+        {
+            "key": "ability.target_heal2.title",
+            "value": "Uleczenie"
+        },
+        {
+            "key": "ability.target_hp2.desc",
+            "value": "Nadaj celowi +2 HP."
+        },
+        {
+            "key": "ability.target_hp2.title",
+            "value": "HP"
+        },
+        {
+            "key": "ability.target_poison.desc",
+            "value": "Otruj cel."
+        },
+        {
+            "key": "ability.target_poison.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.target_silence.desc",
+            "value": "Ucisz cel."
+        },
+        {
+            "key": "ability.target_silence.title",
+            "value": "Uciszenie"
+        },
+        {
+            "key": "ability.target_silence_curse.desc",
+            "value": "Ucisz docelowego potwora, potem przeklnij docelowego potwora."
+        },
+        {
+            "key": "ability.target_silence_curse.title",
+            "value": "Uciszenie i Przekleństwo"
+        },
+        {
+            "key": "ability.taunt.desc",
+            "value": "Wrogowie muszą atakować tę kartę przed innymi sojusznikami."
+        },
+        {
+            "key": "ability.taunt.title",
+            "value": "Prowokacja"
+        },
+        {
+            "key": "ability.town_aura_electric.desc",
+            "value": "Wszyscy potwory Elektryczne kosztują 2 many mniej (w tym wrogowie)."
+        },
+        {
+            "key": "ability.town_aura_electric.title",
+            "value": "Aura Elektryczna"
+        },
+        {
+            "key": "ability.town_aura_fire.desc",
+            "value": "Wszyscy sojuszniczy potwory Ognia zyskują +2 atak."
+        },
+        {
+            "key": "ability.town_aura_fire.title",
+            "value": "Aura Ognia"
+        },
+        {
+            "key": "ability.town_aura_ice_igloo1.desc",
+            "value": "Wszyscy sojuszniczy potwory Lodu zyskują +1 HP."
+        },
+        {
+            "key": "ability.town_aura_ice_igloo1.title",
+            "value": "Aura Igloo"
+        },
+        {
+            "key": "ability.town_aura_ice_igloo2.desc",
+            "value": "Wszyscy sojuszniczy potwory Lodu zyskują +1 Atak."
+        },
+        {
+            "key": "ability.town_aura_ice_igloo2.title",
+            "value": "Aura Igloo 2"
+        },
+        {
+            "key": "ability.town_aura_ice_igloo3.desc",
+            "value": "Wszyscy sojuszniczy Karty Lodu kosztują 1 mniej."
+        },
+        {
+            "key": "ability.town_aura_ice_igloo3.title",
+            "value": "Aura Igloo 3"
+        },
+        {
+            "key": "ability.town_aura_plant.desc",
+            "value": "Wszyscy sojuszniczy potwory Roślin zyskują +2 HP."
+        },
+        {
+            "key": "ability.town_aura_plant.title",
+            "value": "Aura Roślin"
+        },
+        {
+            "key": "ability.town_aura_psychic_change_control_discard.desc",
+            "value": "Gdy przejmiesz kontrolę nad potworem przeciwnika, przeciwnik odrzuca losową kartę."
+        },
+        {
+            "key": "ability.town_aura_psychic_change_control_discard.title",
+            "value": "Aura Psychiczna Odrzuć"
+        },
+        {
+            "key": "ability.town_aura_psychic_played_discard.desc",
+            "value": "Gdy grasz potwora psychicznego, przeciwnik odrzuca losową kartę."
+        },
+        {
+            "key": "ability.town_aura_psychic_played_discard.title",
+            "value": "Aura Psychiczna Odrzuć"
+        },
+        {
+            "key": "ability.town_aura_rock.desc",
+            "value": "Wszyscy sojuszniczy potwory Skały zyskują +2 HP."
+        },
+        {
+            "key": "ability.town_aura_rock.title",
+            "value": "Aura Skały"
+        },
+        {
+            "key": "ability.town_aura_shadow.desc",
+            "value": "Wszyscy sojuszniczy potwory Cienia zyskują +2 atak."
+        },
+        {
+            "key": "ability.town_aura_shadow.title",
+            "value": "Aura Cienia"
+        },
+        {
+            "key": "ability.town_aura_water.desc",
+            "value": "Wszyscy sojuszniczy Karty Wody kosztują 1 mniej."
+        },
+        {
+            "key": "ability.town_aura_water.title",
+            "value": "Niebieska Aura"
+        },
+        {
+            "key": "ability.town_mystic_woods_psychic.desc",
+            "value": "Wszyscy sojuszniczy Karty Psychiczne kosztują 1 manę mniej."
+        },
+        {
+            "key": "ability.town_mystic_woods_psychic.title",
+            "value": "Aura Psychiczna"
+        },
+        {
+            "key": "ability.trample.desc",
+            "value": "Nadmiarowe obrażenia są zadawane HP gracza."
+        },
+        {
+            "key": "ability.trample.title",
+            "value": "Tratowanie"
+        },
+        {
+            "key": "ability.transform_to_discarded_card.desc",
+            "value": "Jeśli przeciwnik odrzuci kartę potwora, ten potwór staje się kopią tego potwora."
+        },
+        {
+            "key": "ability.transform_to_discarded_card.title",
+            "value": "Kopia Cmentarza"
+        },
+        {
+            "key": "ability.trap_all_damage1.desc",
+            "value": "Zadaj wrogom 1 HP obrażeń."
+        },
+        {
+            "key": "ability.trap_all_damage1.title",
+            "value": "Obrażenia Planszy"
+        },
+        {
+            "key": "ability.trap_damage_all2.desc",
+            "value": "Gdy wrogi potwór atakuje, zadaj 2 obrażenia wszystkim wrogim potworom."
+        },
+        {
+            "key": "ability.trap_damage_all2.title",
+            "value": "Obrażenia"
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "Zadaj atakującemu 2 HP obrażeń."
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "Pułapka"
+        },
+        {
+            "key": "ability.trap_damage3.desc",
+            "value": "Zadaj atakującemu 3 HP obrażeń."
+        },
+        {
+            "key": "ability.trap_damage3.title",
+            "value": "Pułapka"
+        },
+        {
+            "key": "ability.trap_freeze.desc",
+            "value": "Po ataku wrogiego potwora zamroź go na 2 tury."
+        },
+        {
+            "key": "ability.trap_freeze.title",
+            "value": "Zamrożony"
+        },
+        {
+            "key": "ability.trap_heal4.desc",
+            "value": "Gdy wróg atakuje gracza, ulecz 4 HP."
+        },
+        {
+            "key": "ability.trap_heal4.title",
+            "value": "Fortyfikacja"
+        },
+        {
+            "key": "ability.trap_mind_control_taunt.desc",
+            "value": "Po ataku wrogiego potwora Kontrola Umysłu nad nim na 1 turę i nadaj Prowokację."
+        },
+        {
+            "key": "ability.trap_mind_control_taunt.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "ability.trap_paralyse3.desc",
+            "value": "Po ataku wrogiego potwora sparaliżuj go na 3 tury."
+        },
+        {
+            "key": "ability.trap_paralyse3.title",
+            "value": "Paraliż"
+        },
+        {
+            "key": "ability.trap_poison_all.desc",
+            "value": "Po ataku wrogiego potwora otruj go."
+        },
+        {
+            "key": "ability.trap_poison_all.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.trap_poison_attacker.desc",
+            "value": "Po ataku wrogiego potwora otruj go."
+        },
+        {
+            "key": "ability.trap_poison_attacker.title",
+            "value": "Trucizna"
+        },
+        {
+            "key": "ability.trap_shock.desc",
+            "value": "Po ataku wrogiego potwora sparaliżuj go na 1 turę."
+        },
+        {
+            "key": "ability.trap_shock.title",
+            "value": "Sparaliżowany Szokiem"
+        },
+        {
+            "key": "ability.trap_shock_all.desc",
+            "value": "Gdy wrogi potwór atakuje, sparaliżuj go na 1 turę."
+        },
+        {
+            "key": "ability.trap_shock_all.title",
+            "value": "Sparaliżowany Szokiem"
+        },
+        {
+            "key": "ability.turn_add_armor1.desc",
+            "value": "Na początku każdej tury zyskaj +1 pancerza."
+        },
+        {
+            "key": "ability.turn_add_armor1.title",
+            "value": "Pancerz"
+        },
+        {
+            "key": "ability.turn_add_armor2.desc",
+            "value": "Na początku każdej tury zyskaj +2 pancerza."
+        },
+        {
+            "key": "ability.turn_add_armor2.title",
+            "value": "Pancerz"
+        },
+        {
+            "key": "ability.turn_add_attack1.desc",
+            "value": "Na początku każdej tury zyskaj +1 atak."
+        },
+        {
+            "key": "ability.turn_add_attack1.title",
+            "value": "Wściekły"
+        },
+        {
+            "key": "ability.turn_add_attack2.desc",
+            "value": "Na początku każdej tury zyskaj +2 atak."
+        },
+        {
+            "key": "ability.turn_add_attack2.title",
+            "value": "Wściekły"
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.desc",
+            "value": "Na początku tury spal wszystkich innych nie-ognistych potworów w grze."
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.title",
+            "value": "Spal Wszystkich"
+        },
+        {
+            "key": "ability.turn_damage_allies1.desc",
+            "value": "Na początku każdej tury zadaj 1 obrażenie wszystkim sojuszniczym potworom."
+        },
+        {
+            "key": "ability.turn_damage_allies1.title",
+            "value": "Obrażenia Zdrady"
+        },
+        {
+            "key": "ability.turn_damage_allies2.desc",
+            "value": "Na początku każdej tury zadaj 2 obrażenia wszystkim sojuszniczym potworom."
+        },
+        {
+            "key": "ability.turn_damage_allies2.title",
+            "value": "Obrażenia Zdrady"
+        },
+        {
+            "key": "ability.turn_end_add_draw.desc",
+            "value": "Na końcu każdej tury dobierz 1 kartę."
+        },
+        {
+            "key": "ability.turn_end_add_draw.title",
+            "value": "Eksplorator II"
+        },
+        {
+            "key": "ability.turn_green_heal.desc",
+            "value": "Na początku każdej tury wszyscy sojuszniczy potwory roślin i lokalizacje leczą się o 3."
+        },
+        {
+            "key": "ability.turn_green_heal.title",
+            "value": "Leczenie Roślin"
+        },
+        {
+            "key": "ability.turn_kill_lowest.desc",
+            "value": "Na początku twojej tury zabij potwory w grze z najniższym atakiem (w tym twoje)."
+        },
+        {
+            "key": "ability.turn_kill_lowest.title",
+            "value": "Żniwiarz"
+        },
+        {
+            "key": "ability.turn_own_discard2.desc",
+            "value": "Gracz odrzuca 2 losowe karty z ręki."
+        },
+        {
+            "key": "ability.turn_own_discard2.title",
+            "value": "Odrzuć"
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.desc",
+            "value": "Na początku każdej tury wszyscy potwory Cienia zyskują +1 atak."
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.title",
+            "value": "Bonus Cienia"
+        },
+        {
+            "key": "ability.turn_start_add_draw.desc",
+            "value": "Na początku każdej tury dobierz 1 kartę."
+        },
+        {
+            "key": "ability.turn_start_add_draw.title",
+            "value": "Eksplorator"
+        },
+        {
+            "key": "ability.turn_stealth.desc",
+            "value": "Na końcu twojej tury, jeśli masz co najmniej jednego innego potwora w grze, wejdź w skradanie."
+        },
+        {
+            "key": "ability.turn_stealth.title",
+            "value": "Skradanie"
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "Bonus HP."
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "Bonus HP"
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "Koszt many jest teraz +1"
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "Mentalne Wyczerpanie"
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "Dodaj Pancerz"
+        },
+        {
+            "key": "status.armor.title",
+            "value": "Pancerz"
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "Chroni atak postaci przed zmniejszeniem."
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "Odporność na Utratę Ataku"
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "Każdą turę traci 2 HP."
+        },
+        {
+            "key": "status.burned.title",
+            "value": "Poparzony"
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "Nie może być celem zdolności postaci"
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "Odporność na Zdolności"
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "Każdą turę traci atak."
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "Przeklęty"
+        },
+        {
+            "key": "status.damagecap.desc",
+            "value": "Przyjmuje maksymalnie 2 obrażenia na atak/kontratak."
+        },
+        {
+            "key": "status.damagecap.title",
+            "value": "Limit Obrażeń"
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "Zabija każdą postać, którą uszkadza."
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "Dotyk Śmierci"
+        },
+        {
+            "key": "status.endturnbleed.desc",
+            "value": "Na końcu tury przyjmij obrażenia."
+        },
+        {
+            "key": "status.endturnbleed.title",
+            "value": "Krwawienie Końcowe"
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "Ignoruje Prowokację."
+        },
+        {
+            "key": "status.flying.title",
+            "value": "Latanie"
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "Nie może podejmować żadnych akcji przez 1 turę."
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "Zamrożony"
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "Może atakować dwa razy na turę."
+        },
+        {
+            "key": "status.fury.title",
+            "value": "Furia"
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "Podczas ataku cel nie kontratakuje."
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "Zastraszenie"
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "Nie może być zniszczony."
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "Niezwyciężony"
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "Ulecz się podczas zadawania obrażeń."
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "Kradzież Życia"
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "Nadmiarowe obrażenia leczą atakującego."
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "Nadwyżka"
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "Nie może podejmować żadnych akcji."
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "Sparaliżowany Szokiem"
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "Każdą turę traci HP."
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "Zatruty"
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "Nie może być atakowany. Chroniony przez Prowokację."
+        },
+        {
+            "key": "status.protected.title",
+            "value": "Chroniony"
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "Chroni inne karty."
+        },
+        {
+            "key": "status.protection.title",
+            "value": "Prowokacja"
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "Chroni inne karty przed latającymi potworami."
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "Zasięg"
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "Na pierwszym trafieniu nie przyjmuje obrażeń."
+        },
+        {
+            "key": "status.shell.title",
+            "value": "Skorupa"
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "Nie może używać zdolności ani ewoluować."
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "Uciszenie"
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "1 na 3 szansa na przebudzenie. Usunięty jeśli atakowany."
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "Sen"
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "Nie może być celem ani uszkodzony przez karty zaklęć."
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "Odporność na Zaklęcia"
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "Nie może być celem."
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "Skradanie"
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "Dodatkowe obrażenia są zadawane graczowi."
+        },
+        {
+            "key": "status.trample.title",
+            "value": "Tratowanie"
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "Potwory z tą zdolnością nie uruchamiają pułapek."
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "Unik Pułapek"
+        },
+        {
+            "key": "trait.cat.title",
+            "value": "Kot"
+        },
+        {
+            "key": "trait.dragon.title",
+            "value": "Smok"
+        },
+        {
+            "key": "trait.evolution.title",
+            "value": "Ewolucja"
+        },
+        {
+            "key": "trait.fish.title",
+            "value": "Ryba"
+        },
+        {
+            "key": "trait.growth.title",
+            "value": "Wzrost"
+        },
+        {
+            "key": "trait.ice_nature.title",
+            "value": "Natura Lodu"
+        },
+        {
+            "key": "trait.igloo.title",
+            "value": "Igloo"
+        },
+        {
+            "key": "trait.mind_control_counter.title",
+            "value": "Kontrola Umysłu"
+        },
+        {
+            "key": "trait.mind_control_link.title",
+            "value": "Łącznik Kontroli Umysłu"
+        },
+        {
+            "key": "trait.reptile.title",
+            "value": "Gad"
+        },
+        {
+            "key": "trait.spell_damage.title",
+            "value": "Obrażenia Zaklęć"
+        }
+    ]
+}

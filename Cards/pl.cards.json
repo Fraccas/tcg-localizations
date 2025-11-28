@@ -1,0 +1,1316 @@
+{
+    "entries": [
+        {
+            "key": "card.alfrost.text",
+            "value": "POŚPIECH\nZyskaj +1/+1, gdy karta jest zamrożona."
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "Wściekłość\nZniszcz docelowego latającego potwora."
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "Wściekłość\nWybór: Prowokacja lub +2 Pancerza"
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>Atak</b>: Przeklnij docelowego potwora"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "Skorupa\nNa początku każdej tury zyskaj 1 pancerza."
+        },
+        {
+            "key": "card.astroguin.text",
+            "value": "Prowokacja\n<b>Zagrańko:</b> Przywołaj igloo dwa razy.\nIgloo Niezwyciężoność."
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>Unik Pułapek:</b> Nie uruchamia pułapek podczas ataku.\nZyskaj +1 obrażeń za każdą wrogą pułapkę w grze."
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>Unik Pułapek:</b> Nie uruchamia pułapek podczas ataku."
+        },
+        {
+            "key": "card.bay.text",
+            "value": "Gdy potwór Wody, którego posiadasz, umrze, dobierz kartę."
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>Śmierć:</b> Dobierz kartę."
+        },
+        {
+            "key": "card.bora.text",
+            "value": "Skradanie"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "<b>Zagrańko:</b> Odrzuć losową kartę z ręki i dobierz dwie nowe karty."
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>Zagrańko:</b> Docelowy potwór zyskuje oparzenie i traci 2 HP na turę."
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>Zagrańko:</b> Odrzuć losową kartę z ręki gracza i dobierz dwie nowe karty."
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "<b>Zagrańko:</b> Zniszcz wszystkie wrogie pułapki i zyskaj +2/2 za każdą zniszczoną pułapkę."
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "Prowokacja\n<b>Śmierć:</b> Przywołaj Cabyrona z Wściekłością II."
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "Wściekłość II"
+        },
+        {
+            "key": "card.cabyron_full.text",
+            "value": "Prowokacja\n<b>Śmierć:</b> Przywołaj Cabyrona z Wściekłością II."
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "Raz na turę, gdy przyjmujesz obrażenia i przetrwasz, dobierz kartę."
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "Pośpiech"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "Zasięg: Latające potwory muszą celować w tego potwora."
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "Obrażenia zaklęć +1."
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>Zagrańko</b>: Przywołaj młodego Jagura.\nWszystkie Koty +1 atak."
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>Zabij:</b> Dobierz dwie karty."
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "Skorupa\nWściekłość II"
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "Prowokacja\nSkorupa"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "Zyskaj 1 manę."
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "<b>Zagrańko:</b> Zamroź wszystkich wrogich potworów z atakiem 4 lub mniej.\nLatanie"
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "<b>Zagrańko:</b> Zamroź wrogiego potwora z atakiem 4 lub mniej\nLatanie"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "Skradanie"
+        },
+        {
+            "key": "card.cypha_full.text",
+            "value": "Skradanie"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>Zagrańko:</b> Przekleństwo."
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>Zagrańko</b>: Przeklnij wszystkich potworów w grze."
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "Odporność na Zaklęcia / Skorupa\n<b>Zagrańko:</b> Zadaj 2 obrażenia wszystkiemu"
+        },
+        {
+            "key": "card.devastor_full.text",
+            "value": "Odporność na Zaklęcia / Skorupa\n<b>Zagrańko:</b> Zadaj 2 obrażenia wszystkiemu"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>Zagrańko:</b> Zamień tego potwora z wrogim potworem o koszcie many 7 lub mniej."
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>Zagrańko:</b> Zamień tego potwora z wrogim potworem o koszcie many 3 lub mniej."
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "Prowokacja"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "Odporność na Zdolności\nTratowanie"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>Zagrańko:</b> Otruj docelowego potwora"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>Zagrańko:</b> Daj +2/2 do końca tury"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>Atak:</b>Rzuć k6, na 4+ zyskaj +3 atak do końca tury."
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "Prowokacja"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "Tratowanie\nLatanie"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "Furia"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "Odkryj Smoka."
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "Prowokacja"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>Zagrańko</b>: Ucisz docelowego potwora, potem przeklnij docelowego potwora"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>Zagrańko</b>: Przeklnij wszystkich potworów w grze"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>Atak</b>: Przeklnij i otruj docelowego potwora"
+        },
+        {
+            "key": "card.electric_token.text",
+            "value": "Wymień Token Elektryczny na dowolną jedną Kartę Elektryczną"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "Wszyscy potwory Elektryczne kosztują 2 many mniej (w tym wrogowie)"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>Zagrańko:</b> Przeciwnik odrzuca losową kartę"
+        },
+        {
+            "key": "card.emberstorm.text",
+            "value": "Na zagrańko i na początku każdej twojej tury, spal wszystkie inne nie-ogniste potwory na planszy."
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "Na zagrańko i na początku każdej twojej tury, spal wszystkie inne nie-ogniste potwory na planszy."
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>Zagrańko:</b> Zniszcz potwora z atakiem 3 lub mniej."
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "Na początku każdej tury, ujawnij rękę przeciwnika. Trwa do 3 tur."
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "Nosiciel zyskuje 2 pancerza i prowokację."
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "Atak +1.\nNosiciel nie otrzymuje obrażeń podczas ataku."
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "Atak nosiciela równy jest jego maksymalnemu HP"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "Zyskaj 2 dodatkowe many na turę przez 4 tury."
+        },
+        {
+            "key": "card.espe.text",
+            "value": "Kontrola Umysłu nad wrogim docelowym potworem o koszcie many 5+ dopóki ten potwór nie opuści planszy"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>Zagrańko:</b> Daj +2/2.\nUlecz gracza podczas zadawania obrażeń."
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>Zagrańko:</b> Zadaj obrażenia wszystkim po 2."
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>Zagrańko:</b> Kontrola Umysłu nad wrogim potworem z atakiem 5 lub mniej"
+        },
+        {
+            "key": "card.fire_token.text",
+            "value": "Wymień Token Ognia na dowolną jedną Kartę Ognia"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>Atak:</b> Spal wrogiego potwora. Tracą 2 HP na turę."
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>Zagrańko:</b> Kontrola Umysłu nad docelowym potworem o koszcie 2 many lub mniej."
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>Zagrańko:</b> Kontrola Umysłu nad docelowym potworem z atakiem 3 lub mniej"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>Zagrańko:</b> Wybierz docelowego potwora o koszcie 2 many lub mniej z dowolnej strony i prześlij go do drugiego gracza."
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "Gdy przeciwnik odrzuci kartę potwora, ten potwór staje się kopią odrzuconego potwora."
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "Gdy przeciwnik odrzuci zaklęcie, stwórz kopię o zerowym koszcie many w twojej ręce.\n"
+        },
+        {
+            "key": "card.frojesti_full.text",
+            "value": "Gdy przeciwnik odrzuci zaklęcie, stwórz kopię o zerowym koszcie many w twojej ręce.\n"
+        },
+        {
+            "key": "card.froster.text",
+            "value": "POŚPIECH\nZyskaj +1/+1, gdy potwór jest zamrożony."
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "Zyskaj Odporność na Zaklęcia lub Odporność na Zdolności\nIgnoruj Prowokację"
+        },
+        {
+            "key": "card.galasu_full.text",
+            "value": "Zyskaj Odporność na Zaklęcia lub Odporność na Zdolności\nIgnoruj Prowokację"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "Raz na turę, gdy przyjmujesz obrażenia i przetrwasz, dobierz kartę."
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "Po zagraniu zaklęcia zyskaj +2 atak.\nLatanie"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "Po zagraniu zaklęcia zyskaj +2 atak."
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>Atak:</b> Przekleństwo i Trucizna"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "Wybór: Prowokacja lub +2 Pancerza"
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "Za każdego zmarłego innego potwora dobierz 1 kartę."
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "Pośpiech"
+        },
+        {
+            "key": "card.gizord_full.text",
+            "value": "Pośpiech"
+        },
+        {
+            "key": "card.glidara.text",
+            "value": "Wybór: Prowokacja lub Pośpiech\n<b>Śmierć:</b> Przywołaj Igloo."
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>Atak:</b> Trucizna.\nLatanie"
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "Po zagraniu zaklęcia zyskaj +2 atak."
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "Na początku każdej tury zyskaj +1 atak."
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "Prowokacja\n<b>Zagrańko:</b> +1 Pancerza"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>Zagrańko:</b> Zadaj obrażenia wszystkim po 2."
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>Zagrańko:</b> Ulecz potwora ze wszystkich negatywnych efektów statusu i nadaj +2 HP"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>Rzuć (2):</b> Ulecz gracza o 3 HP."
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>Zagrańko:</b> Daj +2/2.\n<b>Akcja:</b> Odbij."
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>Zagrańko:</b> Ucisz docelową kartę."
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>Prowokacja</b>\nGdy przyjmujesz obrażenia i przetrwasz, daj wszystkim sojuszniczym potworom skały +1 pancerza."
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>Zagrańko:</b> Dodaj Przekleństwo Cierpienia do potwora"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "Wściekłość\n<b>Zagrańko:</b> Zyskaj 1 pancerza.\nPo ataku na gracza wroga, dobierz kartę zaklęcia skały z talii."
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "Za każdego zmarłego innego potwora dobierz 1 kartę.\nOdporność na Utratę Ataku"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "Wściekłość III"
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "Wściekłość\nPo ataku na gracza wroga, dobierz kartę zaklęcia skały z talii."
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "Za każdego zmarłego innego potwora dobierz 1 kartę."
+        },
+        {
+            "key": "card.hato.text",
+            "value": "Zyskaj skorupę za każdym przywołaniu lokalizacji.\nZyskaj +1/+1, jeśli lokalizacja lodu jest w grze."
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "Każdą turę zyskaj +1 atak."
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>Zagrańko:</b> Atak docelowego potwora jest zredukowany do 1."
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "Starożytna Elektryczna Wróżka Fracctal, która nadaje pośpiech elektrycznemu potworowi"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "Starożytna Ognista Wróżka Fracctal, która może zadać 1 obrażenie dowolnej karcie lub graczowi."
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "Starożytna Lodowa Wróżka Fracctal, która może zamrozić dowolną kartę na 1 turę."
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "Starożytna Roślinna Wróżka Fracctal, która leczy postacie i graczy o 2 HP"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "Starożytna Psychiczna Wróżka Fracctal, która może zmusić przeciwnika do odrzucenia karty z ręki"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "Starożytna Skałowa Wróżka Fracctal, która nadaje +1 Pancerza dowolnej karcie na planszy."
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "Starożytna Cienista Wróżka Fracctal, która może przekląć dowolną kartę w grze."
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "Starożytna Wodna Wróżka Fracctal, która pozwala graczowi dobrać dodatkową kartę."
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>Atak:</b> Spal wroga. Tracą 2 HP na turę."
+        },
+        {
+            "key": "card.hito.text",
+            "value": "<b>Zagrańko:</b> Dobierz kartę.\nZyskaj +1/+1, jeśli lokalizacja lodu jest w grze."
+        },
+        {
+            "key": "card.ice_token.text",
+            "value": "Wymień Token Lodu na dowolną jedną Kartę Lodu"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "Jeśli HP 2+ wszyscy sojuszniczy potwory lodu zyskują +0/+1\nJeśli HP 4+ wszyscy sojuszniczy potwory lodu zyskują +1/+0\nJeśli HP 6+ wszystkie Karty Lodu kosztują 1 mniej z ręki."
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "Furia"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>Śmierć:</b> Zadaj 2 obrażenia graczowi wroga."
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>Atak</b>: Przeklnij docelowego potwora"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "Ignoruj Prowokację"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>Zagrańko:</b> Zyskaj Prowokację lub Furię"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>Zabij:</b> Dobierz dwie karty.\n<b>Śmierć:</b> Dobierz kartę."
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "Ma +3 atak podczas tury przeciwnika."
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "Skorupa\nProwokacja"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>Atak:</b> Trucizna."
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "Pośpiech\nLatanie"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "Dotyk Śmierci"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>Zagrańko</b>: Przywołaj Lizo\nWszystkie Gady +1 atak."
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>Zagrańko</b>: Przywołaj Lizo\nWszystkie Gady +2 atak."
+        },
+        {
+            "key": "card.lizorus_full.text",
+            "value": "<b>Zagrańko</b>: Przywołaj Lizo\nWszystkie Gady +2 atak."
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "Wściekłość II"
+        },
+        {
+            "key": "card.loneguin.text",
+            "value": "Prowokacja\n<b>Śmierć:</b> Przywołaj Igloo."
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>Zagrańko:</b> Przywołaj Igloo\nLatanie"
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>Zagrańko:</b> Daj +2/2.\nLatanie"
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>Zagrańko:</b> Przywołaj Igloo dwa razy i zamroź wrogiego potwora z atakiem 3 lub mniej\nLatanie"
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>Zagrańko:</b> Daj +2/2\n<b>Zagrańko:</b> Ulecz gracza o 4 HP\nLatanie"
+        },
+        {
+            "key": "card.lurian_full.text",
+            "value": "<b>Zagrańko:</b> Daj +2/2\n<b>Zagrańko:</b> Ulecz gracza o 4 HP\nLatanie"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>Początek tury: </b>Wszystkie Karty Roślin leczą się o 3."
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "Wszystkie wrogie postacie mają -2 atak."
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "<b>Zagrańko:</b> Zyskaj +1 atak za każde Igloo, które przywołałeś w tej grze.\nZyskaj Skorupę za każdym przywołaniu lokalizacji\nSkorupa\n"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "Na początku twojej tury ten potwór całkowicie się leczy."
+        },
+        {
+            "key": "card.minask.text",
+            "value": "Regeneracja"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "Za każdego zmarłego innego potwora dobierz 2 karty."
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "Za każdego zmarłego innego potwora dobierz 2 karty."
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "Obrażenia zaklęć +2.\n<b>Atak:</b> Spal zaatakowaną kartę."
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "Na początku każdej tury zyskaj +2 atak."
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "POŚPIECH"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>Zagrańko:</b> Kontrola Umysłu nad docelowym wrogim potworem o koszcie 3 many lub mniej"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>Atak</b>: Przeklnij docelowego potwora"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "Tratowanie"
+        },
+        {
+            "key": "card.mosslug_full.text",
+            "value": "Tratowanie"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "<b>Zagrańko:</b> Zyskaj 3 Pancerza.\nNa końcu twojej tury dobierz kartę."
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>Zagrańko:</b> Zyskaj 3 Pancerza.\nNa końcu twojej tury dobierz kartę."
+        },
+        {
+            "key": "card.muni.text",
+            "value": "Na zagrańko, ujawnij rękę przeciwnika i dobierz 1 kartę"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "Na początku twojej tury ten potwór całkowicie się leczy."
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "Furia\nWściekłość"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "Podczas ataku zyskaj 2 many."
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "Prowokacja\nPrzyjmuje maksymalnie 2 obrażenia na atak/kontratak."
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "Furia / Pośpiech\nWściekłość"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>Zagrańko:</b> Ujawnij rękę przeciwnika\n<b>Akcja:</b> Odrzuć losową kartę z ręki przeciwnika o koszcie 3 many lub mniej. Kosztuje 2 many."
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>Koniec Tury:</b> Wejdź w skradanie, jeśli masz innych potworów w grze."
+        },
+        {
+            "key": "card.operant.text",
+            "value": "Wściekłość\n<b>Zagrańko:</b> Zadaj 1 obrażenie karcie na planszy.\n"
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "Ma +3 atak podczas tury przeciwnika.\nProwokacja"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "Ma +3 atak podczas tury przeciwnika.\nProwokacja / Skorupa"
+        },
+        {
+            "key": "card.ophalant_full.text",
+            "value": "Ma +3 atak podczas tury przeciwnika.\nProwokacja / Skorupa"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "Podczas ataku rzuć k6. Na 4+ zyskaj +3 atak."
+        },
+        {
+            "key": "card.owind.text",
+            "value": "Odporność na Zaklęcia\nIgnoruj Prowokację\n<b>Zagrańko: </b> Zamroź cel"
+        },
+        {
+            "key": "card.owind_full.text",
+            "value": "Odporność na Zaklęcia\nIgnoruj Prowokację\n<b>Zagrańko: </b> Zamroź cel"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>Zagrańko:</b> Zniszcz potwora z atakiem 4 lub mniej."
+        },
+        {
+            "key": "card.peafan_egg.text",
+            "value": "Po 3 turach przekształca się w Peafana.\nPrzywołaj Igloo."
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>Zagrańko:</b> Przywołaj Igloo.\nJeśli już masz Igloo, dobierz kartę."
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "Skradanie\n<b>Zagrańko:</b> Przeciwnik odrzuca losową kartę\nZyskaj +1 Atak na odrzucenie przeciwnika"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "Na początku twojej tury ten potwór całkowicie się leczy."
+        },
+        {
+            "key": "card.petili.text",
+            "value": "Na zagrańko, daj +2/2 innemu potworowi do twojej następnej tury."
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "Za każdą zmarłą inną postać dobierz 1 kartę."
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>Rzuć (3):</b> Zadaj 2 obrażenia.\n<b>Śmierć:</b> Przywołaj jajko."
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "Po 3 turach przekształca się w Phyrę."
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>Rzuć (2):</b> Rzuć k6, na 4+ zwróć cel do ręki."
+        },
+        {
+            "key": "card.picko.text",
+            "value": "Wściekłość\n<b>Zagrańko:</b> Zadaj 1 obrażenie sobie, potem 1 obrażenie dowolnemu docelowemu potworowi."
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Wymień Token Roślinny na dowolną jedną Kartę Roślinną"
+        },
+        {
+            "key": "card.plator.text",
+            "value": "Skorupa\nNa początku każdej tury zyskaj 1 pancerza."
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>Zagrańko:</b> Daj +2 HP"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "Docelowy potwór zyskuje Furię. Może atakować dwa razy na turę."
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "Cel zyskuje 1 atak i furię."
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "Cel jest otoczony słodkim aromatem, zyskując +2 HP i Prowokację."
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "Zmniejsz licznik ewolucji potwora lodu o 1, jeśli osiągnie 0, ewoluuje."
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "Celuj w potwora na planszy o koszcie 3 many lub mniej, aby Kontrolę Umysłu na 1 turę. Cel zyskuje Pośpiech."
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "Cel zyskuje prowokację, ale nie może atakować."
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "Cel zyskuje Przekleństwo Cierpienia, które powoduje 3 obrażenia za każdym atakiem."
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "Dobierz 2 karty."
+        },
+        {
+            "key": "card.prido.text",
+            "value": "Furia\nKażdą turę zyskaj +1 atak."
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>Zagrańko:</b> Wybierz sojusznika pod twoją kontrolą i prześlij go do drugiego gracza z zdolnością: każdej tury zadaj 2 obrażenia wszystkim innym sojusznikom."
+        },
+        {
+            "key": "card.psychic_token.text",
+            "value": "Wymień Token Psychiczny na dowolną jedną Kartę Psychiczną"
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>Zagrańko:</b> Wybierz sojusznika pod twoją kontrolą i prześlij go do drugiego gracza z zdolnością: na początku każdej tury odrzuć 2 karty"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>Zagrańko:</b> Wybierz sojusznika pod twoją kontrolą i prześlij go do drugiego gracza z zdolnością: wrogie postacie zyskują +1/+2"
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>Śmierć:</b> Przywołaj jajko."
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>Zagrańko:</b> Zadaj 1 obrażenie."
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>Zagrańko:</b> Zadaj 2 obrażenia."
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>Atak</b>: Przeklnij docelowego potwora"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>Każdą turę:</b> Zabij potwory z najniższym atakiem (w tym sojuszników i tego potwora)."
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "Wszyscy potwory skały zyskują: \"Przyjmij 1 obrażenie, aby zyskać +1 atak\". 1 mana na użycie."
+        },
+        {
+            "key": "card.rock_golem_spawn.text",
+            "value": "Prowokacja"
+        },
+        {
+            "key": "card.rock_token.text",
+            "value": "Wymień Token Skały na dowolną jedną Kartę Skały"
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "Regeneracja"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>Atak:</b> Trucizna."
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "Regeneracja"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "<b>Zagrańko:</b> Zyskaj 2 pancerza."
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "Każdą turę zyskaj +1 atak.\nLatanie"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Wymień Token Cienia na dowolną jedną Kartę Cienia"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "Obrażenia zaklęć +1."
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>Atak:</b> Trucizna."
+        },
+        {
+            "key": "card.skatrix.text",
+            "value": "Furia / Pośpiech\n<b>Atak:</b> Zamroź cel i nie przyjmij kontrataku."
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "Furia / Pośpiech\n<b>Atak:</b> Zamroź cel i nie przyjmij kontrataku."
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "Prowokacja\n"
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>Zagrańko:</b> Zwróć potwora do twojej ręki."
+        },
+        {
+            "key": "card.sneel.text",
+            "value": "Skorupa"
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "Latanie\n<b>Zagrańko:</b> Zamroź wroga z atakiem 2 lub mniej."
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "POŚPIECH"
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "Latanie"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "Latanie"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "Dotyk Śmierci"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "Przywołaj 3 Pyro do twojej ręki."
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "Zniszcz wszystkie karty na planszy"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "Zniszcz zamrożony cel.\nZniszcz lokalizację."
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "Wszyscy potwory Elektryczne w grze zyskują +2 Atak (w tym wrogowie)."
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "Zniszcz cel."
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "Ucisz docelowego potwora, potem przeklnij docelowego potwora"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "Docelowa karta zyskuje \"Gdy sojuszniczy potwór wchodzi do gry, zniszcz tego potwora\"."
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "Spójrz na następne 7 kart w talii i weź 1 kartę elektryczną do ręki."
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "Docelowa karta zyskuje \"Gdy sojuszniczy potwór wchodzi do gry, zniszcz tego potwora\"."
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "Zadaj 1 obrażenie sojuszniczemu potworowi, potem zadaj 2 obrażenia losowemu celowi dwa razy."
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "Zmniejsz HP wszystkich potworów do 1."
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "Wszyscy sojuszniczy potwory roślin zyskują +2/2"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "Zadaj 3 obrażenia dowolnemu celowi"
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "Zamroź wszystkich potworów w grze.\nZniszcz potwory, które były już zamrożone."
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "Zamroź docelowego potwora.\nDobierz kartę.\nPrzywołaj Igloo"
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "Zamroź cel na 1 turę."
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "Zadaj 1 obrażenie wszystkim potworom, potem 2 obrażenia wszystkim zamrożonym potworom."
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "Przywołaj trzech 2/1 Lampi do twojej ręki."
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "Zadaje 2 obrażenia wszystkim wrogim potworom."
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "Cel zyskuje +2/+2 na stałe i leczy wszelkie negatywne efekty statusu."
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "Zadaj 1 obrażenie losowej karcie.\nPowtórz X razy."
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "Przeciwnik odrzuca 3 losowe karty z ręki."
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "Przejmij kontrolę nad wrogim potworem na 3 tury lub dopóki nie ewoluuje"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "Przywołaj golema skały z prowokacją i X atakiem oraz X HP na podstawie ilości many, którą wydasz."
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "Zadaj 1 obrażenie sojuszniczemu potworowi, potem 2 obrażenia dowolnemu celowi."
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "Docelowy potwór zyskuje +2 pancerza."
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "Sparaliżuj cel na 3 tury."
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "Zmniejsz HP i Atak wszystkich potworów do 1"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "Docelowy potwór zyskuje \"Przyjmij 3 obrażenia przed atakiem\"."
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "Zniszcz potwora z najniższym HP."
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "Docelowy potwór nie może atakować i traci 1 HP na końcu swojej tury."
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "Zadaj 1 obrażenie.\nDobierz kartę."
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "Wszystkie karty wracają do ręki właściciela."
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "Docelowa karta zyskuje \"Gdy atakowany, przeciwnik musi odrzucić 1 losową kartę\"."
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "Otruj wszystkie karty w grze"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "Spójrz na następne 7 kart w talii i wybierz 1 kartę wody."
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "Zwróć wrogiego cel do ręki właściciela."
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "Zwróć dowolny cel do ręki właściciela, potem przeciwnik odrzuca losową kartę z ręki."
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>Zagrańko:</b> Zniszcz potwora z atakiem 2 lub mniej."
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>Atak:</b> Otruj cel."
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>Atak:</b> Otruj cel."
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "Wrogie potwory mają -1 atak.\nMoże ignorować prowokację."
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "POŚPIECH"
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>Początek tury: </b>Wszyscy sojuszniczy potwory Cienia zyskują +1 atak."
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "Skradanie\nWszystkie Koty +1 atak."
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "<b>Poślizg Pośpiechu:</b> Zyskaj pośpiech, jeśli lokalizacja lodu jest w grze."
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "Wszyscy sojuszniczy potwory skały mają +2 Pancerza"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "<b>Zagrańko:</b> Zwróć dowolny cel z powrotem do ręki właściciela."
+        },
+        {
+            "key": "card.tempish_full.text",
+            "value": "<b>Zagrańko:</b> Zwróć dowolny cel z powrotem do ręki właściciela."
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "Prowokacja\n<b>Zagrańko:</b> +1 Pancerza"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "Wściekłość\n<b>Zagrańko:</b> Zadaj 1 obrażenie wszystkim innym kartom w grze, potem ulecz wszystkie sojusznicze karty o 1 HP."
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "Wszystkie sojusznicze Karty Cienia mają +2 Atak."
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "Wszystkie sojusznicze Karty Roślin mają +2 HP."
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "Gdy grasz potwora psychicznego lub przejmujesz kontrolę nad potworem przeciwnika, przeciwnik odrzuca losową kartę."
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "Wszyscy sojuszniczy potwory Skały zyskują stos wściekłości."
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "Wszyscy sojuszniczy potwory Ognia mają +2 atak."
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "Karty Wody w twojej ręce kosztują 1 mniej."
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>Pułapka:</b> Gdy wróg atakuje, zadaj 1 obrażenie wszystkim wrogim potworom i sparaliżuj ich wszystkich na 1 turę."
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>Pułapka:</b> Zadaj obrażenia wszystkim po 2."
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>Pułapka:</b> Przekształć się w rybę."
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>Pułapka:</b>Gdy wróg atakuje, zamroź cel na 2 tury."
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>Pułapka:</b> Otruj i zadaj 3 obrażenia następnemu atakującemu."
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "Gdy następny wrogi potwór atakuje, przejmij Kontrolę Umysłu nad nim na 1 turę i daj mu prowokację."
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>Pułapka:</b> Gdy wróg atakuje gracza, ulecz 4 HP."
+        },
+        {
+            "key": "card.trats.text",
+            "value": "Po zagraniu zaklęcia zyskaj +2 atak."
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "Pośpiech\nLatanie"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "Prowokacja"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>Śmierć:</b> Dobierz kartę.\nIgnoruj Prowokację."
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "Odporność na Zdolności\nIgnoruj Prowokację\n<b>Śmierć:</b> Przywołaj Twii.\n"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>Zagrańko</b>: Ustaw atak docelowego potwora na 3"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "Prowokacja\n<b>Zagrańko:</b> +2 Pancerza"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "Na zagrańko, otruj wszystkich wrogów w grze."
+        },
+        {
+            "key": "card.venorus_full.text",
+            "value": "Na zagrańko, otruj wszystkich wrogów w grze."
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "Wszyscy potwory Elektryczne kosztują 2 many mniej"
+        },
+        {
+            "key": "card.vertron_full.text",
+            "value": "Wszyscy potwory Elektryczne kosztują 2 many mniej"
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "Skradanie\nAtak: Trucizna"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "Nie może atakować. Na początku twojej tury uśpij losowego sojusznika."
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "Wszyscy potwory Ognia zyskują: \"Przyjmij 1 obrażenie, aby zyskać +1 atak\". 1 mana na użycie."
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>Zagrańko</b>: Ustaw atak docelowego potwora na 1"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>Zagrańko:</b> Zadaj obrażenia wszystkim po 1."
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>Zagrańko:</b> Ucisz docelową kartę."
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "Każdą turę zyskaj +1 pancerza."
+        },
+        {
+            "key": "card.waru.text",
+            "value": "Ma +3 atak podczas tury przeciwnika."
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "Wrogie potwory mają -1 atak.\n<b>Akcja:</b> +1 atak sojusznikom."
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Wymień Token Wody na dowolną jedną Kartę Wody"
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>Koniec Tury:</b> Wejdź w skradanie, jeśli masz innych potworów w grze."
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>Koniec Tury:</b> Wejdź w skradanie, jeśli masz innych potworów w grze."
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>Zagrańko: </b> Dodaj potwora z odrzuconych do twojej ręki."
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>Zagrańko:</b> Zyskaj Prowokację lub Furię"
+        },
+        {
+            "key": "card.worpi.text",
+            "value": "<b>Zagrańko:</b> Weź najwyższą liczbę pancerza na planszy i zastosuj do tego potwora."
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>Zagrańko:</b> Weź najwyższą liczbę pancerza na planszy i zastosuj do tego potwora."
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "Podczas ataku zyskaj 1 manę."
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>Zniżka Lokalizacji</b>: Dowolna lokalizacja tego samego typu elementarnego ma zniżkę many 1."
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "Za każdą kartę lokalizacji w grze tego samego typu elementarnego zyskaj +2 HP."
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "Odporność na Zaklęcia\nGdy atakowany, dobierz kartę"
+        },
+        {
+            "key": "card.zaphyra_full.text",
+            "value": "Odporność na Zaklęcia\nGdy atakowany, dobierz kartę"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "Odporność na Zdolności\nRegeneracja\n<b>Zagrańko: </b> Dodaj kartę z odrzuconych do twojej ręki."
+        },
+        {
+            "key": "card.zargon_full.text",
+            "value": "Odporność na Zdolności\nRegeneracja\n<b>Zagrańko: </b> Dodaj kartę z odrzuconych do twojej ręki."
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "Prowokacja\nSkorupa"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "Obrażenia zaklęć +4.\nLatanie"
+        },
+        {
+            "key": "card.zenphire_full.text",
+            "value": "Obrażenia zaklęć +4.\nLatanie"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>Zagrańko:</b> Przekleństwo\n<b>Zagrańko:</b> Przywołaj Hajiko"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "Za każdego zmarłego innego potwora dobierz 2 karty."
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>Zagrańko:</b> Atak docelowego potwora jest zredukowany do 1."
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "Pośpiech\nLatanie"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "Na początku każdej tury dobierz 1 kartę."
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "Wszyscy inni sojuszniczy gady zyskują +2 atak."
+        }
+    ]
+}
