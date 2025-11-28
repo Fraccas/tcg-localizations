@@ -2315,6 +2315,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "Le Località sono potenti artefatti che garantiscono bonus duraturi. Devi giocarle nello slot Località a sinistra degli slot normali del tabellone, e solo una Località può essere attiva sul tuo lato alla volta."
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "IL MAZZO È VUOTO."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "IL TUO MAZZO DEVE CONTENERE ESATTAMENTE {0} CARTE."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "NON POSSIEDI LE CARTE NECESSARIE PER QUESTO MAZZO."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "SELEZIONA UN EROE."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "ID DEL MAZZO MANCANTE."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "INSERISCI UN NOME PER IL MAZZO."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "PUOI USARE SOLO DUE TEAM PER MAZZO."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "NON PUOI USARE QUESTO MAZZO IN COMBATTIMENTO FINCHÉ NON CONTIENE ESATTAMENTE {0} CARTE."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "DIMENSIONE MAZZO NON VALIDA"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "DEVI SELEZIONARE UN POTERE FATA PRIMA DI SALVARE IL MAZZO."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "POTERE MANCANTE"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "IL TUO MAZZO NON PUÒ ESSERE SALVATO. RIPROVA."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "SALVATAGGIO FALLITO"
         }
     ]
 }

@@ -2455,6 +2455,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "Orte sind mächtige Artefakte, die dauerhafte Boni gewähren. Du musst sie im Standortfeld links von deinen normalen Brettfeldern ausspielen, und es kann immer nur ein Ort auf deiner Seite aktiv sein."
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "DECK IST LEER."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "DEIN DECK MUSS GENAU {0} KARTEN ENTHALTEN."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "DU BESITZT NICHT DIE ERFORDERLICHEN KARTEN FÜR DIESES DECK."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "BITTE WÄHLE EINEN HELDEN."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "DECK-ID FEHLT."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "BITTE GIB EINEN DECKNAMEN EIN."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "DU KANNST MAXIMAL ZWEI TEAMS PRO DECK VERWENDEN."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "DU KANNST DIESES DECK NICHT IM KAMPF BENUTZEN, BIS ES GENAU {0} KARTEN ENTHÄLT."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "UNGÜLTIGE DECKGRÖSSE"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "DU MUSST EINE FEENKRAFT AUSWÄHLEN, BEVOR DU DAS DECK SPEICHERST."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "KRAFT FEHLT"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "DEIN DECK KONNTE NICHT GESPEICHERT WERDEN. BITTE VERSUCHE ES ERNEUT."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "SPEICHERN FEHLGESCHLAGEN"
         }
     ]
 }

@@ -2455,6 +2455,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "Les Lieux sont de puissants artefacts qui offrent des bonus durables. Vous devez les placer dans l’emplacement de Lieu à gauche de vos emplacements habituels, et un seul Lieu peut être actif de votre côté à la fois."
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "LE DECK EST VIDE."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "VOTRE DECK DOIT CONTENIR EXACTEMENT {0} CARTES."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "VOUS NE POSSÉDEZ PAS LES CARTES NÉCESSAIRES POUR CE DECK."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "VEUILLEZ SÉLECTIONNER UN HÉROS."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "L’ID DU DECK EST MANQUANTE."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "VEUILLEZ ENTRER UN NOM DE DECK."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "VOUS NE POUVEZ UTILISER QUE DEUX ÉQUIPES PAR DECK."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "VOUS NE POURREZ PAS UTILISER CE DECK EN COMBAT AVANT QU’IL CONTIENNE EXACTEMENT {0} CARTES."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "TAILLE DE DECK INVALIDE"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "VOUS DEVEZ SÉLECTIONNER UN POUVOIR DE FÉE AVANT D’ENREGISTRER VOTRE DECK."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "POUVOIR MANQUANT"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "VOTRE DECK N’A PAS PU ÊTRE ENREGISTRÉ. VEUILLEZ RÉESSAYER."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "ÉCHEC DE L’ENREGISTREMENT"
         }
     ]
 }

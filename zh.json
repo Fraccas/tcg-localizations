@@ -2455,6 +2455,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "地点是能够提供持续增益的强力神器。你必须将它们放置在普通卡槽左侧的地点槽中，并且每次只能在你这边激活一个地点。"
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "卡组为空。"
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "你的卡组必须包含 {0} 张卡牌。"
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "你没有该卡组所需的卡牌。"
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "请选择一位英雄。"
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "缺少卡组ID。"
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "请输入卡组名称。"
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "每个卡组最多只能使用两个队伍。"
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "在卡组包含恰好 {0} 张卡牌之前，你无法在战斗中使用它。"
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "卡组大小无效"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "保存卡组前必须选择一个精灵之力。"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "缺少能量"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "无法保存你的卡组。请重试。"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "保存失败"
         }
     ]
 }

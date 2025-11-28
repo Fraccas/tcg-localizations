@@ -2455,6 +2455,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "ロケーションは強力なアーティファクトで、継続的なボーナスを付与します。ロケーションは通常のボードスロットの左側にあるロケーションスロットに配置する必要があり、自分側で同時にアクティブにできるロケーションは1つだけです."
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "デッキが空です。"
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "デッキはちょうど {0} 枚のカードで構成する必要があります。"
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "このデッキに必要なカードを所持していません。"
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "ヒーローを選択してください。"
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "デッキIDがありません。"
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "デッキ名を入力してください。"
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "デッキに使用できるチームは最大2つまでです。"
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "このデッキは {0} 枚になるまでバトルで使用できません。"
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "デッキサイズが無効です"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "デッキを保存する前にフェアリーパワーを選択してください。"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "パワーがありません"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "デッキを保存できませんでした。もう一度お試しください。"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "保存に失敗しました"
         }
     ]
 }

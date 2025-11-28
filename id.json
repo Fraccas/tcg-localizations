@@ -2423,6 +2423,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "Lokasi adalah artefak kuat yang memberikan bonus permanen. Kamu harus memainkannya di slot Lokasi di sebelah kiri slot papan normalmu, dan hanya satu Lokasi yang dapat aktif di sisimu pada satu waktu."
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "DECK KOSONG."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "DECK ANDA HARUS BERISI TEPAT {0} KARTU."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "ANDA TIDAK MEMILIKI KARTU YANG DIPERLUKAN UNTUK DECK INI."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "SILAKAN PILIH SEORANG HERO."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "ID DECK HILANG."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "SILAKAN MASUKKAN NAMA DECK."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "ANDA HANYA DAPAT MENGGUNAKAN MAKSIMAL DUA TIM PER DECK."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "ANDA TIDAK DAPAT MENGGUNAKAN DECK INI DALAM PERTEMPURAN HINGGA BERISI TEPAT {0} KARTU."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "UKURAN DECK TIDAK VALID"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "ANDA HARUS MEMILIH KEKUATAN PERI SEBELUM MENYIMPAN DECK."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "KEKUATAN HILANG"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "DECK ANDA TIDAK DAPAT DISIMPAN. SILAKAN COBA LAGI."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "GAGAL MENYIMPAN"
         }
     ]
 }

@@ -2259,6 +2259,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "Локации — это мощные артефакты, которые дают долгосрочные бонусы. Их нужно размещать в ячейке Локации слева от обычных слотов, и одновременно на вашей стороне может быть активна только одна Локация."
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "КОЛОДА ПУСТА."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "ВАША КОЛОДА ДОЛЖНА СОДЕРЖАТЬ РОВНО {0} КАРТ."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "У ВАС НЕТ НЕОБХОДИМЫХ КАРТ ДЛЯ ЭТОЙ КОЛОДЫ."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "ПОЖАЛУЙСТА, ВЫБЕРИТЕ ГЕРОЯ."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "ОТСУТСТВУЕТ ID КОЛОДЫ."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "ПОЖАЛУЙСТА, ВВЕДИТЕ НАЗВАНИЕ КОЛОДЫ."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "МОЖНО ИСПОЛЬЗОВАТЬ НЕ БОЛЕЕ ДВУХ КОМАНД В ОДНОЙ КОЛОДЕ."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "ВЫ НЕ СМОЖЕТЕ ИСПОЛЬЗОВАТЬ ЭТУ КОЛОДУ В БОЮ, ПОКА В НЕЙ НЕ БУДЕТ РОВНО {0} КАРТ."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "НЕВЕРНЫЙ РАЗМЕР КОЛОДЫ"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "ПЕРЕД СОХРАНЕНИЕМ КОЛОДЫ НЕОБХОДИМО ВЫБРАТЬ СИЛУ ФЕИ."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "СИЛА ОТСУТСТВУЕТ"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "НЕ УДАЛОСЬ СОХРАНИТЬ КОЛОДУ. ПОПРОБУЙТЕ СНОВА."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "ОШИБКА СОХРАНЕНИЯ"
         }
     ]
 }

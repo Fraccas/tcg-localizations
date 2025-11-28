@@ -2455,6 +2455,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "Locações são artefatos poderosos que concedem bônus duradouros. Você deve jogar a carta no slot de Locoção à esquerda dos seus espaços normais do tabuleiro, e apenas uma Locoção pode ficar ativa do seu lado por vez."
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "O DECK ESTÁ VAZIO."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "SEU DECK DEVE CONTER EXATAMENTE {0} CARTAS."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "VOCÊ NÃO POSSUI AS CARTAS NECESSÁRIAS PARA ESTE DECK."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "POR FAVOR, SELECIONE UM HERÓI."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "O ID DO DECK ESTÁ FALTANDO."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "POR FAVOR, INSIRA UM NOME PARA O DECK."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "VOCÊ SÓ PODE USAR ATÉ DOIS TIMES POR DECK."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "VOCÊ NÃO PODERÁ USAR ESTE DECK EM COMBATE ATÉ QUE ELE CONTENHA EXATAMENTE {0} CARTAS."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "TAMANHO DE DECK INVÁLIDO"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "VOCÊ DEVE SELECIONAR UM PODER DE FADA ANTES DE SALVAR O DECK."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "PODER FALTANDO"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "NÃO FOI POSSÍVEL SALVAR SEU DECK. TENTE NOVAMENTE."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "FALHA AO SALVAR"
         }
     ]
 }

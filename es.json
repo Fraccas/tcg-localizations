@@ -2479,6 +2479,110 @@
         {
             "key": "tip_location_slot_message",
             "value": "Las ubicaciones son artefactos poderosos que otorgan bonificaciones duraderas. Debes jugarlas en la ranura de Ubicación, a la izquierda de tus espacios normales del tablero, y solo una Ubicación puede estar activa en tu lado a la vez."
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "EL MAZO ESTÁ VACÍO."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "TU MAZO DEBE CONTENER EXACTAMENTE {0} CARTAS."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "NO POSEES LAS CARTAS NECESARIAS PARA ESTE MAZO."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "POR FAVOR, SELECCIONA UN HÉROE."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "FALTA LA ID DEL MAZO."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "POR FAVOR, INGRESA UN NOMBRE PARA EL MAZO."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "SOLO PUEDES USAR HASTA DOS EQUIPOS POR MAZO."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "NO PODRÁS USAR ESTE MAZO EN COMBATE HASTA QUE CONTENGA EXACTAMENTE {0} CARTAS."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "TAMAÑO DE MAZO INVÁLIDO"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "DEBES SELECCIONAR UN PODER DE HADA ANTES DE GUARDAR EL MAZO."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "PODER FALTANTE"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "NO SE PUDO GUARDAR TU MAZO. INTÉNTALO NUEVAMENTE."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "ERROR AL GUARDAR"
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "EL MAZO ESTÁ VACÍO."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "TU MAZO DEBE CONTENER EXACTAMENTE {0} CARTAS."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "NO POSEES LAS CARTAS NECESARIAS PARA ESTE MAZO."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "POR FAVOR, SELECCIONA UN HÉROE."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "FALTA LA ID DEL MAZO."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "POR FAVOR, INGRESA UN NOMBRE PARA EL MAZO."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "SOLO PUEDES USAR HASTA DOS EQUIPOS POR MAZO."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "NO PODRÁS USAR ESTE MAZO EN COMBATE HASTA QUE CONTENGA EXACTAMENTE {0} CARTAS."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "TAMAÑO DE MAZO INVÁLIDO"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "DEBES SELECCIONAR UN PODER DE HADA ANTES DE GUARDAR EL MAZO."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "PODER FALTANTE"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "NO SE PUDO GUARDAR TU MAZO. INTÉNTALO NUEVAMENTE."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "ERROR AL GUARDAR"
         }
     ]
 }

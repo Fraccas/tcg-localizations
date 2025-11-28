@@ -2427,6 +2427,58 @@
         {
             "key": "tip_location_slot_message",
             "value": "Locations are powerful artifacts that grant lasting bonuses. You must play them in the Location slot to the left of your normal board slots, and only one Location can be active on your side at a time."
+        },
+                {
+            "key": "deck.error.empty",
+            "value": "DECK IS EMPTY."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "YOUR DECK MUST CONTAIN EXACTLY {0} CARDS."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "YOU DO NOT OWN THE CARDS REQUIRED FOR THIS DECK."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "PLEASE SELECT A HERO."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "DECK ID IS MISSING."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "PLEASE ENTER A DECK NAME."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "YOU CAN ONLY USE UP TO TWO TEAMS PER DECK."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "YOU WON'T BE ABLE TO USE THIS DECK IN COMBAT UNTIL IT CONTAINS EXACTLY {0} CARDS"
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "WARNING INVALID DECK SIZE"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "YOU MUST SELECT A FAIRY POWER BEFORE SAVING YOUR DECK."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "MISSING POWER"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "YOUR DECK COULD NOT BE SAVED. PLEASE TRY AGAIN."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "SAVE FAILED"
         }
     ]
 }
