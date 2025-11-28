@@ -6,11 +6,11 @@
         },
         {
             "key": "card.antairy.text",
-            "value": "Fury"
+            "value": "Enrage\nDestroy a target flying monster."
         },
         {
             "key": "card.armoru.text",
-            "value": "Each turn, gain +1 armor."
+            "value": "Enrage\nChoice: Taunt or +2 Armor"
         },
         {
             "key": "card.aros.text",
@@ -18,7 +18,7 @@
         },
         {
             "key": "card.astor.text",
-            "value": "Kill: Draw a card\nAt the start of each turn, gain 1 armor. "
+            "value": "Shell\nAt the start of each turn, gain 1 armor. "
         },
         {
             "key": "card.astroguin.text",
@@ -58,19 +58,23 @@
         },
         {
             "key": "card.buumi.text",
-            "value": "Stealth"
+            "value": "<b>Play:</b> Destroy all enemy traps and gain +2/2 for each trap destroyed."
         },
         {
             "key": "card.cabyron.text",
-            "value": "<b>Cast:</b> Grant +2 armor to all allies in play. Costs 5 mana and uses action."
+            "value": "Taunt\n<b>Death:</b> Summon a Cabyron with Enrage II."
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "Enrage II"
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "<b>Cast:</b> Grant +2 armor to all allies in play. Costs 5 mana and uses action."
+            "value": "Taunt\n<b>Death:</b> Summon a Cabyron with Enrage II."
         },
         {
             "key": "card.cabywara.text",
-            "value": "At the start of each turn, draw 1 card"
+            "value": "Once per turn, when taking damage and surviving, draw a card."
         },
         {
             "key": "card.cactoon.text",
@@ -91,6 +95,10 @@
         {
             "key": "card.chewanha.text",
             "value": "<b>Kill:</b> Draw two cards."
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "Shell\nEnrage II"
         },
         {
             "key": "card.clampion.text",
@@ -205,6 +213,14 @@
             "value": "<b>Play:</b> Opponent discards a random card"
         },
         {
+            "key": "card.emberstorm.text",
+            "value": "On play and on the start of each of your turns, burn all other non-fire monsters on the board."
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "On play and on the start of each of your turns, burn all other non-fire monsters on the board."
+        },
+        {
             "key": "card.envish.text",
             "value": "<b>Play:</b> Destroy a monster with 3 or less attack."
         },
@@ -222,7 +238,7 @@
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "Attack +2\nLasts two attacks"
+            "value": "Bearer's attack is equal to it's max HP"
         },
         {
             "key": "card.equip_water_ring.text",
@@ -273,6 +289,10 @@
             "value": "When opponent discards a spell, create a zero mana cost copy in your hand.\n"
         },
         {
+            "key": "card.frojesti_full.text",
+            "value": "When opponent discards a spell, create a zero mana cost copy in your hand.\n"
+        },
+        {
             "key": "card.froster.text",
             "value": "RUSH\nGain +1/+1 when a monster is frozen."
         },
@@ -286,7 +306,7 @@
         },
         {
             "key": "card.gamud.text",
-            "value": "At the start of each turn, draw 1 card"
+            "value": "Once per turn, when taking damage and surviving, draw a card."
         },
         {
             "key": "card.gargarm.text",
@@ -302,7 +322,7 @@
         },
         {
             "key": "card.gemash.text",
-            "value": "Each turn, gain +1 armor."
+            "value": "Choice: Taunt or +2 Armor"
         },
         {
             "key": "card.gizap.text",
@@ -310,6 +330,10 @@
         },
         {
             "key": "card.gizord.text",
+            "value": "Haste"
+        },
+        {
+            "key": "card.gizord_full.text",
             "value": "Haste"
         },
         {
@@ -330,7 +354,7 @@
         },
         {
             "key": "card.gookie.text",
-            "value": "Shell"
+            "value": "Taunt\n<b>Play:</b> +1 Armor"
         },
         {
             "key": "card.gorupt.text",
@@ -354,7 +378,7 @@
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Taunt</b>\n<b>Each turn:</b> Kill monsters with the lowest attack.\n"
+            "value": "<b>Taunt</b>\nWhen taking damage and surviving, give all allied rock monsters +1 armor."
         },
         {
             "key": "card.hajiko.text",
@@ -362,7 +386,7 @@
         },
         {
             "key": "card.hammar.text",
-            "value": "Fury\nEach turn, gain +1 armor."
+            "value": "Enrage\n<b>Play:</b> Gain 1 armor.\nAfter attacking the enemy player, draw a rock spell card from your deck."
         },
         {
             "key": "card.hammark.text",
@@ -370,11 +394,11 @@
         },
         {
             "key": "card.hammi.text",
-            "value": "<b>Death:</b> Draw a card."
+            "value": "Enrage III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "<b>Turn:</b> Draw a card."
+            "value": "Enrage\nAfter attacking the enemy player, draw a rock spell card from your deck."
         },
         {
             "key": "card.hammish.text",
@@ -498,7 +522,7 @@
         },
         {
             "key": "card.lizteel.text",
-            "value": "Taunt"
+            "value": "Enrage II"
         },
         {
             "key": "card.loneguin.text",
@@ -518,6 +542,10 @@
         },
         {
             "key": "card.lurian.text",
+            "value": "<b>Play:</b> Give +2/2\n<b>Play:</b> Heal player for 4 HP\nFlying"
+        },
+        {
+            "key": "card.lurian_full.text",
             "value": "<b>Play:</b> Give +2/2\n<b>Play:</b> Heal player for 4 HP\nFlying"
         },
         {
@@ -578,7 +606,11 @@
         },
         {
             "key": "card.mountough.text",
-            "value": "Excess damage heals this monster's HP by the difference"
+            "value": "<b>Play:</b> Gain 3 Armor.\nAt the end of your turn, draw a card."
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>Play:</b> Gain 3 Armor.\nAt the end of your turn, draw a card."
         },
         {
             "key": "card.muni.text",
@@ -590,7 +622,7 @@
         },
         {
             "key": "card.nadzu.text",
-            "value": "Fury"
+            "value": "Fury\nEnrage"
         },
         {
             "key": "card.nhomnhom.text",
@@ -598,11 +630,11 @@
         },
         {
             "key": "card.nobu.text",
-            "value": "On play, give +2 HP to another monster until your next turn."
+            "value": "Taunt\nTakes max 2 damage per attack/counter attack."
         },
         {
             "key": "card.nophulos.text",
-            "value": "Fury"
+            "value": "Fury / Rush\nEnrage"
         },
         {
             "key": "card.numind.text",
@@ -614,7 +646,7 @@
         },
         {
             "key": "card.operant.text",
-            "value": "<b>Play:</b> Deal 1 damage."
+            "value": "Enrage\n<b>Play:</b> Deal 1 damage to card on the board.\n"
         },
         {
             "key": "card.ophala.text",
@@ -622,6 +654,10 @@
         },
         {
             "key": "card.ophalant.text",
+            "value": "Has +3 attack during the opponent's turn.\nTaunt / Shell"
+        },
+        {
+            "key": "card.ophalant_full.text",
             "value": "Has +3 attack during the opponent's turn.\nTaunt / Shell"
         },
         {
@@ -678,7 +714,7 @@
         },
         {
             "key": "card.picko.text",
-            "value": "<b>Play:</b> Deal 1 damage."
+            "value": "Enrage\n<b>Play:</b> Deal 1 damage to self, then 1 damage to any target monster."
         },
         {
             "key": "card.plant_token.text",
@@ -686,7 +722,7 @@
         },
         {
             "key": "card.plator.text",
-            "value": "When you kill another monster with this creature, draw 2 cards."
+            "value": "Shell\nAt the start of each turn, gain 1 armor. "
         },
         {
             "key": "card.polip.text",
@@ -714,7 +750,7 @@
         },
         {
             "key": "card.potion_rock.text",
-            "value": "Target gains armor 2 reducing direct damage from monster by 2."
+            "value": "Target gains taunt, but cannot attack."
         },
         {
             "key": "card.potion_shadow.text",
@@ -769,6 +805,10 @@
             "value": "All rock monsters gain: \"Take 1 damage to gain +1 attack\". 1 mana cost per use."
         },
         {
+            "key": "card.rock_golem_spawn.text",
+            "value": "Taunt"
+        },
+        {
             "key": "card.rock_token.text",
             "value": "Exchange Rock Token for any one Rock Card"
         },
@@ -786,7 +826,7 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "Each turn, gain +1 armor."
+            "value": "<b>Play:</b> Gain 2 armor. "
         },
         {
             "key": "card.scarles.text",
@@ -806,7 +846,11 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "Fury / Rush / Flying\n<b>Attack:</b> Freeze the target and do not take counter damage."
+            "value": "Fury / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage."
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "Fury / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage."
         },
         {
             "key": "card.skipo.text",
@@ -878,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Deal 3 damage.\nDraw a card."
+            "value": "Deal 1 damage to an allied monster, then deal 2 damage to a random target twice. "
         },
         {
             "key": "card.spell_flood.text",
@@ -890,7 +934,7 @@
         },
         {
             "key": "card.spell_hammi_strike.text",
-            "value": "Summon 3 Hammi into your hand."
+            "value": "Deal 3 damage to any target"
         },
         {
             "key": "card.spell_ice_storm.text",
@@ -934,15 +978,15 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Destroy all cards on the board"
+            "value": "Summon a rock golem with taunt and X attack and X HP based on the amount of mana you spend. "
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "Destroy all locations in play. "
+            "value": "Deal 1 damage to an ally monster, then deal 2 damage to any target."
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "Target gains shell, it ignores damage on the next hit."
+            "value": "Target monster gains +2 armor."
         },
         {
             "key": "card.spell_roots.text",
@@ -962,7 +1006,7 @@
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "Target monster gains \"Suffer 3 damage before attacking\"."
+            "value": "Target monster cannot attack and takes 1 damage at the end of it's turn."
         },
         {
             "key": "card.spell_stones.text",
@@ -1026,7 +1070,7 @@
         },
         {
             "key": "card.tectan.text",
-            "value": "All ally rock monsters have +1 HP.\nTaunt"
+            "value": "All ally rock monsters have +2 Armor"
         },
         {
             "key": "card.tempish.text",
@@ -1038,11 +1082,11 @@
         },
         {
             "key": "card.tensei.text",
-            "value": "Fury"
+            "value": "Taunt\n<b>Play:</b> +1 Armor"
         },
         {
             "key": "card.terrastrus.text",
-            "value": "<b>Play:</b> Deal 1 damage to all other cards in play."
+            "value": "Enrage\n<b>Play:</b> Deal 1 damage to all other cards in play, then heal all ally cards by 1 HP."
         },
         {
             "key": "card.town_darkwoods_shadow.text",
@@ -1058,7 +1102,7 @@
         },
         {
             "key": "card.town_rock.text",
-            "value": "All allied Rock monsters have +2 HP."
+            "value": "All allied Rock monsters gain an enrage stack."
         },
         {
             "key": "card.town_volcano.text",
@@ -1122,10 +1166,14 @@
         },
         {
             "key": "card.urogorth.text",
-            "value": "Taunt"
+            "value": "Taunt\n<b>Play:</b> +2 Armor"
         },
         {
             "key": "card.venorus.text",
+            "value": "On play, poison all enemies in play."
+        },
+        {
+            "key": "card.venorus_full.text",
             "value": "On play, poison all enemies in play."
         },
         {
@@ -1193,6 +1241,14 @@
             "value": "<b>Play:</b> Gain Taunt or Fury"
         },
         {
+            "key": "card.worpi.text",
+            "value": "<b>Play:</b> Take the highest armor count on the board and apply it to this monster."
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>Play:</b> Take the highest armor count on the board and apply it to this monster."
+        },
+        {
             "key": "card.woshi.text",
             "value": "When attacking gain 1 mana."
         },
@@ -1214,6 +1270,10 @@
         },
         {
             "key": "card.zargon.text",
+            "value": "Ability Immunity\nRegeneration\n<b>Play: </b> Add a card from discard to your hand."
+        },
+        {
+            "key": "card.zargon_full.text",
             "value": "Ability Immunity\nRegeneration\n<b>Play: </b> Add a card from discard to your hand."
         },
         {
