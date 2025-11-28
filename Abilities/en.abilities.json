@@ -2,7 +2,7 @@
     "entries": [
         {
             "key": "ability.ability_immunity.desc",
-            "value": "Cannot be targeted by character card abilities"
+            "value": "Cannot be targeted by monster card abilities"
         },
         {
             "key": "ability.ability_immunity.title",
@@ -10,7 +10,7 @@
         },
         {
             "key": "ability.ability_swap_characters_3ml.desc",
-            "value": "Replace this character with an enemies' board character that a mana cost of 3 or less."
+            "value": "Replace this monster with an enemies' board monster that a mana cost of 3 or less."
         },
         {
             "key": "ability.ability_swap_characters_3ml.title",
@@ -18,7 +18,7 @@
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "Replace this character with an enemies' board character that has a mana cost of 4."
+            "value": "Replace this monster with an enemies' board monster that has a mana cost of 4."
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
@@ -26,7 +26,7 @@
         },
         {
             "key": "ability.ability_swap_characters_7ml.desc",
-            "value": "Replace this character with an enemies' board character that a mana cost of 7 or less."
+            "value": "Replace this character with an enemies' board monster that a mana cost of 7 or less."
         },
         {
             "key": "ability.ability_swap_characters_7ml.title",
@@ -34,7 +34,7 @@
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "All allied creatures gain +2 armor. Uses this creature's action and costs 5 mana."
+            "value": "All allied monsters gain +2 armor. Uses this monster's action and costs 5 mana."
         },
         {
             "key": "ability.activate_armor2.title",
@@ -42,7 +42,7 @@
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "All allied creatures gain +1 attack until the end of the turn. Uses this creature's action."
+            "value": "All allied monsters gain +1 attack until the end of the turn. Uses this monster's action."
         },
         {
             "key": "ability.activate_boost1.title",
@@ -50,7 +50,7 @@
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "All allied creatures gain +3 attack until the end of the turn. Uses this creature's action."
+            "value": "All allied monsters gain +3 attack until the end of the turn. Uses this monster's action."
         },
         {
             "key": "ability.activate_boost3.title",
@@ -74,7 +74,7 @@
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "Opponent discard a random card from their hand. Uses this creature's action."
+            "value": "Opponent discard a random card from their hand. Uses this monster's action."
         },
         {
             "key": "ability.activate_discard.title",
@@ -82,7 +82,7 @@
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "Opponent discard a random card from their hand. Uses this creature's action."
+            "value": "Opponent discard a random card from their hand. Uses this monster's action."
         },
         {
             "key": "ability.activate_discard_random_3l.title",
@@ -138,7 +138,7 @@
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "Target character gains +1 Armor"
+            "value": "Target monster gains +1 Armor"
         },
         {
             "key": "ability.activate_rock.title",
@@ -154,7 +154,7 @@
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "Select a character and roll a D6, on 4+ return it to its owner's hand. Cost 2 mana."
+            "value": "Select a monster and roll a D6, on 4+ return it to its owner's hand. Cost 2 mana."
         },
         {
             "key": "ability.activate_roll_send_hand.title",
@@ -170,7 +170,7 @@
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "Return a character to its owner's hand. Uses this creature's action."
+            "value": "Return a monster to its owner's hand. Uses this monster's action."
         },
         {
             "key": "ability.activate_send_hand.title",
@@ -186,7 +186,7 @@
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "On play, select a target character to switch sides"
+            "value": "On play, select a target monster to switch sides"
         },
         {
             "key": "ability.activate_switch_sides.title",
@@ -258,7 +258,7 @@
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "Attacked character is burned. They lose 2 HP each turn."
+            "value": "Attacked monster is burned. They lose 2 HP each turn."
         },
         {
             "key": "ability.attack_burned.title",
@@ -266,7 +266,7 @@
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "Attacked characters gain curse. They lose 1 attack each turn."
+            "value": "Attacked monsters gain curse. They lose 1 attack each turn."
         },
         {
             "key": "ability.attack_curse.title",
@@ -274,7 +274,7 @@
         },
         {
             "key": "ability.attack_freeze.desc",
-            "value": "Attacked character becomes frozen."
+            "value": "Attacked monster becomes frozen."
         },
         {
             "key": "ability.attack_freeze.title",
@@ -282,7 +282,7 @@
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "Protects character's attack from being reduced."
+            "value": "Protects monster's attack from being reduced."
         },
         {
             "key": "ability.attack_loss_immunity.title",
@@ -338,7 +338,7 @@
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "Attacked characters gain poison. They lose 1 hp each turn."
+            "value": "Attacked monsters gain poison. They lose 1 hp each turn."
         },
         {
             "key": "ability.attack_poison.title",
@@ -378,7 +378,7 @@
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "All allied Fire creatures gain: \"Take 1 damage to gain +1 attack\"."
+            "value": "All allied Fire monsters gain: \"Take 1 damage to gain +1 attack\"."
         },
         {
             "key": "ability.aura_ability_red.title",
@@ -386,7 +386,7 @@
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "All allied Rock creatures gain: \"Take 1 damage to gain +1 attack\"."
+            "value": "All allied Rock monsters gain: \"Take 1 damage to gain +1 attack\"."
         },
         {
             "key": "ability.aura_ability_rock.title",
@@ -402,7 +402,7 @@
         },
         {
             "key": "ability.aura_armor_rock_2.desc",
-            "value": "All ally rock characters have +2 Armor."
+            "value": "All ally rock monsters have +2 Armor."
         },
         {
             "key": "ability.aura_armor_rock_2.title",
@@ -410,7 +410,7 @@
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "All enemy characters have -1 attack."
+            "value": "All enemy monsters have -1 attack."
         },
         {
             "key": "ability.aura_attack_m1.title",
@@ -418,7 +418,7 @@
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "All enemy characters have -2 attack."
+            "value": "All enemy monsters have -2 attack."
         },
         {
             "key": "ability.aura_attack_m2.title",
@@ -434,7 +434,7 @@
         },
         {
             "key": "ability.aura_enemy_attack1.desc",
-            "value": "All enemy characters gain +1 attack."
+            "value": "All enemy monsters gain +1 attack."
         },
         {
             "key": "ability.aura_enemy_attack1.title",
@@ -442,7 +442,7 @@
         },
         {
             "key": "ability.aura_enemy_hp2.desc",
-            "value": "All enemy characters gain +2 HP"
+            "value": "All enemy monsters gain +2 HP"
         },
         {
             "key": "ability.aura_enemy_hp2.title",
@@ -450,7 +450,7 @@
         },
         {
             "key": "ability.aura_hp_rock_1.desc",
-            "value": "All ally rock characters have +1 HP."
+            "value": "All ally rock monsters have +1 HP."
         },
         {
             "key": "ability.aura_hp_rock_1.title",
@@ -458,7 +458,7 @@
         },
         {
             "key": "ability.aura_hp_rock_2.desc",
-            "value": "All ally rock characters have +2 HP."
+            "value": "All ally rock monsters have +2 HP."
         },
         {
             "key": "ability.aura_hp_rock_2.title",
@@ -466,7 +466,7 @@
         },
         {
             "key": "ability.aura_hp_rock_m1.desc",
-            "value": "All ally shadow characters have +1 HP."
+            "value": "All ally shadow monsters have +1 HP."
         },
         {
             "key": "ability.aura_hp_rock_m1.title",
@@ -498,7 +498,7 @@
         },
         {
             "key": "ability.bypass_trap.desc",
-            "value": "This character does not trigger traps. "
+            "value": "This monster does not trigger traps. "
         },
         {
             "key": "ability.bypass_trap.title",
@@ -522,7 +522,7 @@
         },
         {
             "key": "ability.choice_ability_immunity.desc",
-            "value": "Cannot be targeted by character abilities"
+            "value": "Cannot be targeted by monster abilities"
         },
         {
             "key": "ability.choice_ability_immunity.title",
@@ -562,7 +562,7 @@
         },
         {
             "key": "ability.choice_taunt.desc",
-            "value": "Your other characters cannot be attacked."
+            "value": "Your other monsters cannot be attacked."
         },
         {
             "key": "ability.choice_taunt.title",
@@ -578,7 +578,7 @@
         },
         {
             "key": "ability.death_blue_draw.desc",
-            "value": "When a Water creature you own dies, draw a card."
+            "value": "When a Water monster you own dies, draw a card."
         },
         {
             "key": "ability.death_blue_draw.title",
@@ -586,7 +586,7 @@
         },
         {
             "key": "ability.death_damage2_player.desc",
-            "value": "When this creature dies, deal damage to enemy player."
+            "value": "When this monster dies, deal damage to enemy player."
         },
         {
             "key": "ability.death_damage2_player.title",
@@ -594,7 +594,7 @@
         },
         {
             "key": "ability.death_draw.desc",
-            "value": "When this creature dies, draw a card."
+            "value": "When this monster dies, draw a card."
         },
         {
             "key": "ability.death_draw.title",
@@ -602,7 +602,7 @@
         },
         {
             "key": "ability.death_egg.desc",
-            "value": "When this creatures dies, summon a Phyra egg."
+            "value": "When this monster dies, summon a Phyra egg."
         },
         {
             "key": "ability.death_egg.title",
@@ -610,7 +610,7 @@
         },
         {
             "key": "ability.death_heal2.desc",
-            "value": "When this creatures dies, you restore 2 HP."
+            "value": "When this monster dies, you restore 2 HP."
         },
         {
             "key": "ability.death_heal2.title",
@@ -618,7 +618,7 @@
         },
         {
             "key": "ability.death_heal3.desc",
-            "value": "When this creatures dies, you restore 3 HP."
+            "value": "When this monster dies, you restore 3 HP."
         },
         {
             "key": "ability.death_heal3.title",
@@ -626,7 +626,7 @@
         },
         {
             "key": "ability.death_other_draw.desc",
-            "value": "Whenever another character dies, draw a card."
+            "value": "Whenever another monster dies, draw a card."
         },
         {
             "key": "ability.death_other_draw.title",
@@ -634,7 +634,7 @@
         },
         {
             "key": "ability.death_other_draw2.desc",
-            "value": "Whenever another character dies, draw 2 cards."
+            "value": "Whenever another monster dies, draw 2 cards."
         },
         {
             "key": "ability.death_other_draw2.title",
@@ -642,7 +642,7 @@
         },
         {
             "key": "ability.death_summon_cabyron_copy.desc",
-            "value": "When this creatures dies, summon a Enrage 2 Cabyron."
+            "value": "When this monster dies, summon a Enrage 2 Cabyron."
         },
         {
             "key": "ability.death_summon_cabyron_copy.title",
@@ -658,7 +658,7 @@
         },
         {
             "key": "ability.death_summon_twii.desc",
-            "value": "When this creatures dies, summon a Twii."
+            "value": "When this monster dies, summon a Twii."
         },
         {
             "key": "ability.death_summon_twii.title",
@@ -666,7 +666,7 @@
         },
         {
             "key": "ability.deathtouch.desc",
-            "value": "Kill any creature it damages."
+            "value": "Kill any monster it damages."
         },
         {
             "key": "ability.deathtouch.title",
@@ -682,7 +682,7 @@
         },
         {
             "key": "ability.defend_draw1.desc",
-            "value": "When this character is attacked draw a card."
+            "value": "When this monster is attacked draw a card."
         },
         {
             "key": "ability.defend_draw1.title",
@@ -778,7 +778,7 @@
         },
         {
             "key": "ability.equip_attack_equals_max_hp.desc",
-            "value": "Bearer's attack becomes equal to it's HP"
+            "value": "Bearer's attack becomes equal to it's max HP"
         },
         {
             "key": "ability.equip_attack_equals_max_hp.title",
@@ -918,7 +918,7 @@
         },
         {
             "key": "ability.kill_draw1.desc",
-            "value": "When you kill another character with this creature, draw 1 card."
+            "value": "When you kill another monster with this monster, draw 1 card."
         },
         {
             "key": "ability.kill_draw1.title",
@@ -926,7 +926,7 @@
         },
         {
             "key": "ability.kill_draw2.desc",
-            "value": "When you kill another character with this creature, draw 2 cards."
+            "value": "When you kill another monster with this monster, draw 2 cards."
         },
         {
             "key": "ability.kill_draw2.title",
@@ -950,7 +950,7 @@
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
-            "value": "Take control of an enemy character with 3 or less mana for 1 turn. Target gains Rush."
+            "value": "Take control of an enemy monster with 3 or less mana for 1 turn. Target gains Rush."
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
@@ -958,7 +958,7 @@
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.desc",
-            "value": "Take control of an enemy character for 1 turn and give it rush"
+            "value": "Take control of an enemy monster for 1 turn and give it rush"
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.title",
@@ -966,7 +966,7 @@
         },
         {
             "key": "ability.mind_control_ability_any.desc",
-            "value": "Take control of an enemy character for 3 turns, or until it evolves"
+            "value": "Take control of an enemy monster for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_any.title",
@@ -974,7 +974,7 @@
         },
         {
             "key": "ability.mind_control_ability_any_spell.desc",
-            "value": "Take control of an enemy character for 3 turns, or until it evolves"
+            "value": "Take control of an enemy monster for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_any_spell.title",
@@ -982,7 +982,7 @@
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
-            "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
+            "value": "Take control of an enemy monster with 4 or less mana cost for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.title",
@@ -990,7 +990,7 @@
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.desc",
-            "value": "Take control of an enemy character with 4 or less mana cost for 3 turns, or until it evolves"
+            "value": "Take control of an enemy monster with 4 or less mana cost for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.title",
@@ -998,7 +998,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.desc",
-            "value": "Take control of an enemy character with 2 attack for 3 turns, or until it evolves or leaves the board"
+            "value": "Take control of an enemy monster with 2 attack for 3 turns, or until it evolves or leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.title",
@@ -1006,7 +1006,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
-            "value": "Take control of an enemy character with 3 attack for 3 turns, or until it evolves or leaves the board"
+            "value": "Take control of an enemy monster with 3 attack for 3 turns, or until it evolves or leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
@@ -1014,7 +1014,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.desc",
-            "value": "Take control of an enemy character with 5 attack for 2 turns, or until it evolves or leaves the board"
+            "value": "Take control of an enemy monster with 5 attack for 2 turns, or until it evolves or leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.title",
@@ -1022,7 +1022,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.desc",
-            "value": "Take control of an enemy character with 2 mana or less cost for 3 turns, or until it evolves / leaves play"
+            "value": "Take control of an enemy monster with 2 mana or less cost for 3 turns, or until it evolves / leaves play"
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.title",
@@ -1030,7 +1030,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.desc",
-            "value": "Take control of an enemy character with 3 mana or less cost for 3 turns, or until it evolves / leaves play"
+            "value": "Take control of an enemy monster with 3 mana or less cost for 3 turns, or until it evolves / leaves play"
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.title",
@@ -1038,7 +1038,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.desc",
-            "value": "Take control of an enemy character with 4 mana cost for 3 turns, or until it evolves"
+            "value": "Take control of an enemy monster with 4 mana cost for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.title",
@@ -1046,7 +1046,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.desc",
-            "value": "Take control of an enemy character with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
+            "value": "Take control of an enemy monster with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.title",
@@ -1054,7 +1054,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.desc",
-            "value": "Take control of an enemy character with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
+            "value": "Take control of an enemy monster with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board"
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.title",
@@ -1062,7 +1062,7 @@
         },
         {
             "key": "ability.mind_control_ability_m5l.desc",
-            "value": "Take control of an enemy character with 5 or less mana cost for 3 turns, or until it evolves"
+            "value": "Take control of an enemy monster with 5 or less mana cost for 3 turns, or until it evolves"
         },
         {
             "key": "ability.mind_control_ability_m5l.title",
@@ -1110,7 +1110,7 @@
         },
         {
             "key": "ability.play_boost_hp_1.desc",
-            "value": "On play, give +2 HP to another creature until your next turn."
+            "value": "On play, give +2 HP to another monster until your next turn."
         },
         {
             "key": "ability.play_boost_hp_1.title",
@@ -1118,7 +1118,7 @@
         },
         {
             "key": "ability.play_boost2.desc",
-            "value": "On play, give +2/2 to another creature until your next turn."
+            "value": "On play, give +2/2 to another monster until your next turn."
         },
         {
             "key": "ability.play_boost2.title",
@@ -1126,7 +1126,7 @@
         },
         {
             "key": "ability.play_boost2_permanent.desc",
-            "value": "On play, give +2/2 to another creature until your next turn."
+            "value": "On play, give +2/2 to another monster until your next turn."
         },
         {
             "key": "ability.play_boost2_permanent.title",
@@ -1134,7 +1134,7 @@
         },
         {
             "key": "ability.play_boost3.desc",
-            "value": "On play, give +3/3 to another creature for 3 turns"
+            "value": "On play, give +3/3 to another monster for 3 turns"
         },
         {
             "key": "ability.play_boost3.title",
@@ -1142,7 +1142,7 @@
         },
         {
             "key": "ability.play_burn.desc",
-            "value": "Target character gains burn. They lose 2 hp each turn."
+            "value": "Target monster gains burn. They lose 2 hp each turn."
         },
         {
             "key": "ability.play_burn.title",
@@ -1210,7 +1210,7 @@
         },
         {
             "key": "ability.play_cure.desc",
-            "value": "On play, heal another character of all negative status effects. "
+            "value": "On play, heal another monster of all negative status effects. "
         },
         {
             "key": "ability.play_cure.title",
@@ -1218,7 +1218,7 @@
         },
         {
             "key": "ability.play_cure_bless2.desc",
-            "value": "On play, heal another character of all negative status effects and grant +2HP"
+            "value": "On play, heal another monster of all negative status effects and grant +2HP"
         },
         {
             "key": "ability.play_cure_bless2.title",
@@ -1226,7 +1226,7 @@
         },
         {
             "key": "ability.play_curse.desc",
-            "value": "Target character gains cursed. They lose 1 attack each turn."
+            "value": "Target monster gains cursed. They lose 1 attack each turn."
         },
         {
             "key": "ability.play_curse.title",
@@ -1274,7 +1274,7 @@
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "On play, deal 2 damage to frozen characters"
+            "value": "On play, deal 2 damage to frozen monsters"
         },
         {
             "key": "ability.play_damage_frozen2.title",
@@ -1314,7 +1314,7 @@
         },
         {
             "key": "ability.play_destroy_less2.desc",
-            "value": "On play, destroy a character with 2 or less attack. If you do, draw a card."
+            "value": "On play, destroy a monster with 2 or less attack. If you do, draw a card."
         },
         {
             "key": "ability.play_destroy_less2.title",
@@ -1322,7 +1322,7 @@
         },
         {
             "key": "ability.play_destroy_less3.desc",
-            "value": "On play, destroy a character with 3 or less attack. If you do, draw a card."
+            "value": "On play, destroy a monster with 3 or less attack. If you do, draw a card."
         },
         {
             "key": "ability.play_destroy_less3.title",
@@ -1330,7 +1330,7 @@
         },
         {
             "key": "ability.play_destroy_less4.desc",
-            "value": "On play, destroy a character with 3 or less attack."
+            "value": "On play, destroy a monster with 3 or less attack."
         },
         {
             "key": "ability.play_destroy_less4.title",
@@ -1386,7 +1386,7 @@
         },
         {
             "key": "ability.play_freeze.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Target monster becomes frozen for 1 turn."
         },
         {
             "key": "ability.play_freeze.title",
@@ -1394,7 +1394,7 @@
         },
         {
             "key": "ability.play_freeze_2al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Target monster becomes frozen for 1 turn."
         },
         {
             "key": "ability.play_freeze_2al.title",
@@ -1402,7 +1402,7 @@
         },
         {
             "key": "ability.play_freeze_3al.desc",
-            "value": "Target character becomes frozen for 1 turn."
+            "value": "Target monster becomes frozen for 1 turn."
         },
         {
             "key": "ability.play_freeze_3al.title",
@@ -1410,7 +1410,7 @@
         },
         {
             "key": "ability.play_freeze_4al.desc",
-            "value": "Target character with 4 or less attack becomes frozen for 1 turn."
+            "value": "Target monster with 4 or less attack becomes frozen for 1 turn."
         },
         {
             "key": "ability.play_freeze_4al.title",
@@ -1418,7 +1418,7 @@
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "All characters become frozen."
+            "value": "All monsters become frozen."
         },
         {
             "key": "ability.play_freeze_all.title",
@@ -1490,7 +1490,7 @@
         },
         {
             "key": "ability.play_other_sacrifice.desc",
-            "value": "When an allied creature enter play, destroy this card."
+            "value": "When an allied monster enters play, destroy this card."
         },
         {
             "key": "ability.play_other_sacrifice.title",
@@ -1498,7 +1498,7 @@
         },
         {
             "key": "ability.play_poison.desc",
-            "value": "Target character gains poison. They lose 1 hp each turn."
+            "value": "Target monster gains poison. They lose 1 hp each turn."
         },
         {
             "key": "ability.play_poison.title",
@@ -1514,7 +1514,7 @@
         },
         {
             "key": "ability.play_poison_all_enemies.desc",
-            "value": "On play, poison all enemies in play."
+            "value": "On play, poison all enemy monsters in play."
         },
         {
             "key": "ability.play_poison_all_enemies.title",
@@ -1546,7 +1546,7 @@
         },
         {
             "key": "ability.play_select_discard_character.desc",
-            "value": "On play, return a character from your graveyard to your hand."
+            "value": "On play, return a monster from your graveyard to your hand."
         },
         {
             "key": "ability.play_select_discard_character.title",
@@ -1554,7 +1554,7 @@
         },
         {
             "key": "ability.play_send_hand.desc",
-            "value": "On Play, return a character to its owner's hand."
+            "value": "On Play, return a monster to its owner's hand."
         },
         {
             "key": "ability.play_send_hand.title",
@@ -1594,7 +1594,7 @@
         },
         {
             "key": "ability.play_suffer.desc",
-            "value": "Target creature gains \"Suffer 3 damage before attacking\"."
+            "value": "Target monster gains \"Suffer 3 damage before attacking\"."
         },
         {
             "key": "ability.play_suffer.title",
@@ -1658,7 +1658,7 @@
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
-            "value": "On play, select a target character with a mana cost of 2 or less to switch sides"
+            "value": "On play, select a target monster with a mana cost of 2 or less to switch sides"
         },
         {
             "key": "ability.play_switch_sides_2ml.title",
@@ -1666,7 +1666,7 @@
         },
         {
             "key": "ability.play_switch_sides_any.desc",
-            "value": "On play, select any character on the board and send them to the other player."
+            "value": "On play, select any monster on the board and send them to the other player."
         },
         {
             "key": "ability.play_switch_sides_any.title",
@@ -1674,7 +1674,7 @@
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
-            "value": "On play, select any character on the board and send them to the other player."
+            "value": "On play, select any monster on the board and send them to the other player."
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.title",
@@ -1682,7 +1682,7 @@
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.desc",
-            "value": "On play, select a character under your control, and send them to the other player."
+            "value": "On play, select a monster under your control, and send them to the other player."
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.title",
@@ -1690,7 +1690,7 @@
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.desc",
-            "value": "On play, select a character under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
+            "value": "On play, select a monster under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.title",
@@ -1698,7 +1698,7 @@
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
-            "value": "On play, select a character under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
+            "value": "On play, select a monster under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
@@ -1706,7 +1706,7 @@
         },
         {
             "key": "ability.regen_all.desc",
-            "value": "At the start of your turn, this creature fully heal."
+            "value": "At the start of your turn, this monster fully heals."
         },
         {
             "key": "ability.regen_all.title",
@@ -1730,7 +1730,7 @@
         },
         {
             "key": "ability.secret_return_hand.desc",
-            "value": "When the next enemy creature is played, return them back to the hand."
+            "value": "When the next enemy monster is played, return them back to the hand."
         },
         {
             "key": "ability.secret_return_hand.title",
@@ -1738,7 +1738,7 @@
         },
         {
             "key": "ability.secret_silence.desc",
-            "value": "Clear any abilities from trapped character"
+            "value": "Clear any abilities from trapped monster"
         },
         {
             "key": "ability.secret_silence.title",
@@ -1746,7 +1746,7 @@
         },
         {
             "key": "ability.secret_transform_fish.desc",
-            "value": "When the next enemy creature is played, transform it into a 1/1 fish."
+            "value": "When the next enemy monster is played, transform it into a 1/1 fish."
         },
         {
             "key": "ability.secret_transform_fish.title",
@@ -1762,7 +1762,7 @@
         },
         {
             "key": "ability.spell_add_attack_suffer.desc",
-            "value": "Target creature gains \"Suffer 3 damage before attacking\"."
+            "value": "Target monster gains \"Suffer 3 damage before attacking\"."
         },
         {
             "key": "ability.spell_add_attack_suffer.title",
@@ -1802,7 +1802,7 @@
         },
         {
             "key": "ability.spell_add_play_extinct.desc",
-            "value": "Target card gains \"When an allied creature enter play, destroy this card\"."
+            "value": "Target card gains \"When an allied monster enters play, destroy this card\"."
         },
         {
             "key": "ability.spell_add_play_extinct.title",
@@ -1818,7 +1818,7 @@
         },
         {
             "key": "ability.spell_ally_attack_2.desc",
-            "value": "All allied characters gain +2/2"
+            "value": "All allied monsters gain +2/2"
         },
         {
             "key": "ability.spell_ally_attack_2.title",
@@ -1842,7 +1842,7 @@
         },
         {
             "key": "ability.spell_ally_plant_attack_2.desc",
-            "value": "All allied characters gain +2/2"
+            "value": "All allied plant monsters gain +2/2"
         },
         {
             "key": "ability.spell_ally_plant_attack_2.title",
@@ -1850,7 +1850,7 @@
         },
         {
             "key": "ability.spell_armor2.desc",
-            "value": "Target gains armor 2 reducing direct damage from characters by 2."
+            "value": "Target gains armor 2 reducing direct damage from monsters by 2."
         },
         {
             "key": "ability.spell_armor2.title",
@@ -1882,7 +1882,7 @@
         },
         {
             "key": "ability.spell_damage_per_hand.desc",
-            "value": "The hp of all characters on the board is lowered to 1."
+            "value": "The hp of all monsters on the board is lowered to 1."
         },
         {
             "key": "ability.spell_damage_per_hand.title",
@@ -1914,7 +1914,7 @@
         },
         {
             "key": "ability.spell_destroy.desc",
-            "value": "Destroy target character or location."
+            "value": "Destroy target monster or location."
         },
         {
             "key": "ability.spell_destroy.title",
@@ -1946,7 +1946,7 @@
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Target and destroy a frozen character."
+            "value": "Target and destroy a frozen monster."
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
@@ -2014,7 +2014,7 @@
         },
         {
             "key": "ability.spell_fury.desc",
-            "value": "Target character gains Fury. It can attack twice per turn."
+            "value": "Target monster gains Fury. It can attack twice per turn."
         },
         {
             "key": "ability.spell_fury.title",
@@ -2022,7 +2022,7 @@
         },
         {
             "key": "ability.spell_haste.desc",
-            "value": "Target character gains Haste. It can attack immediately."
+            "value": "Target monster gains Haste. It can attack immediately."
         },
         {
             "key": "ability.spell_haste.title",
@@ -2038,7 +2038,7 @@
         },
         {
             "key": "ability.spell_hibernate.desc",
-            "value": "Target character gains +4/4 and goes to sleep for the next 2 turns."
+            "value": "Target monster gains +4/4 and goes to sleep for the next 2 turns."
         },
         {
             "key": "ability.spell_hibernate.title",
@@ -2054,7 +2054,7 @@
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Speed up evolution by 1 turn for an ice character"
+            "value": "Speed up evolution by 1 turn for an ice monster"
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
@@ -2078,7 +2078,7 @@
         },
         {
             "key": "ability.spell_kill_lowest_hp.desc",
-            "value": "Kill the character in play with the lowest hp (including yours)."
+            "value": "Kill the monster in play with the lowest hp (including yours)."
         },
         {
             "key": "ability.spell_kill_lowest_hp.title",
@@ -2086,7 +2086,7 @@
         },
         {
             "key": "ability.spell_paralyse.desc",
-            "value": "Paralyse target character for 3 turns."
+            "value": "Paralyse target monster for 3 turns."
         },
         {
             "key": "ability.spell_paralyse.title",
@@ -2134,7 +2134,7 @@
         },
         {
             "key": "ability.spell_set_hp_attack_1.desc",
-            "value": "The hp and attack of all characters on the board is lowered to 1."
+            "value": "The hp and attack of all monsters on the board is lowered to 1."
         },
         {
             "key": "ability.spell_set_hp_attack_1.title",
@@ -2142,7 +2142,7 @@
         },
         {
             "key": "ability.spell_set_hp_attack_3.desc",
-            "value": "The hp and attack of all characters on the board is set to 1."
+            "value": "The hp and attack of all monsters on the board is set to 1."
         },
         {
             "key": "ability.spell_set_hp_attack_3.title",
@@ -2198,7 +2198,7 @@
         },
         {
             "key": "ability.spell_taunt.desc",
-            "value": "Target character gains Taunt. Your other characters cannot be attacked."
+            "value": "Target monster gains Taunt. Your other monsters cannot be attacked."
         },
         {
             "key": "ability.spell_taunt.title",
@@ -2246,7 +2246,7 @@
         },
         {
             "key": "ability.taunt.desc",
-            "value": "Your other characters cannot be attacked."
+            "value": "Your other monsters cannot be attacked."
         },
         {
             "key": "ability.taunt.title",
@@ -2254,7 +2254,7 @@
         },
         {
             "key": "ability.taunt_flying.desc",
-            "value": "Your other characters are protected by flying monsters."
+            "value": "Your other monsters are protected by flying monsters."
         },
         {
             "key": "ability.taunt_flying.title",
@@ -2270,7 +2270,7 @@
         },
         {
             "key": "ability.town_aura_fire.desc",
-            "value": "All allied Fire creatures gain +2 attack."
+            "value": "All allied Fire monsters gain +2 attack."
         },
         {
             "key": "ability.town_aura_fire.title",
@@ -2278,7 +2278,7 @@
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "All allied Ice creatures gain +1 HP."
+            "value": "All allied Ice monsters gain +1 HP."
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
@@ -2286,7 +2286,7 @@
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "All allied Ice creatures gain +1 Attack."
+            "value": "All allied Ice monsters gain +1 Attack."
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
@@ -2302,7 +2302,7 @@
         },
         {
             "key": "ability.town_aura_plant.desc",
-            "value": "All allied Plant characters gain +2 hp."
+            "value": "All allied Plant monsters gain +2 hp."
         },
         {
             "key": "ability.town_aura_plant.title",
@@ -2326,7 +2326,7 @@
         },
         {
             "key": "ability.town_aura_rock.desc",
-            "value": "All allied Rock creatures gain +2 HP."
+            "value": "All allied Rock monsters gain +2 HP."
         },
         {
             "key": "ability.town_aura_rock.title",
@@ -2334,7 +2334,7 @@
         },
         {
             "key": "ability.town_aura_shadow.desc",
-            "value": "All allied Shadow characters gain +2 attack."
+            "value": "All allied Shadow monsters gain +2 attack."
         },
         {
             "key": "ability.town_aura_shadow.title",
@@ -2366,7 +2366,7 @@
         },
         {
             "key": "ability.transform_to_discarded_card.desc",
-            "value": "If the opponent discards a character card, this character becomes a copy of that character"
+            "value": "If the opponent discards a monster card, this monster becomes a copy of that monster"
         },
         {
             "key": "ability.transform_to_discarded_card.title",
@@ -2382,7 +2382,7 @@
         },
         {
             "key": "ability.trap_damage_all2.desc",
-            "value": "When an enemy creature attacks, damage all enemy creatures by 2."
+            "value": "When an enemy monster attacks, damage all enemy monsters by 2."
         },
         {
             "key": "ability.trap_damage_all2.title",
@@ -2406,7 +2406,7 @@
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "After an enemy creature attacks, freeze it for 2 turns."
+            "value": "After an enemy monster attacks, freeze it for 2 turns."
         },
         {
             "key": "ability.trap_freeze.title",
@@ -2422,7 +2422,7 @@
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
-            "value": "After an enemy creature attacks, Mind Control it for 1 turn and grant taunt"
+            "value": "After an enemy monster attacks, Mind Control it for 1 turn and grant taunt"
         },
         {
             "key": "ability.trap_mind_control_taunt.title",
@@ -2430,7 +2430,7 @@
         },
         {
             "key": "ability.trap_paralyse3.desc",
-            "value": "After an enemy creature attacks, paralyse it for 3 turns."
+            "value": "After an enemy monster attacks, paralyse it for 3 turns."
         },
         {
             "key": "ability.trap_paralyse3.title",
@@ -2438,7 +2438,7 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "After an enemy monster attacks, poison it"
         },
         {
             "key": "ability.trap_poison_all.title",
@@ -2446,7 +2446,7 @@
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "After an enemy creature attacks, poison it"
+            "value": "After an enemy monster attacks, poison it"
         },
         {
             "key": "ability.trap_poison_attacker.title",
@@ -2454,7 +2454,7 @@
         },
         {
             "key": "ability.trap_shock.desc",
-            "value": "After an enemy creature attacks, shock paralyze it for 1 turn."
+            "value": "After an enemy monster attacks, shock paralyze it for 1 turn."
         },
         {
             "key": "ability.trap_shock.title",
@@ -2510,7 +2510,7 @@
         },
         {
             "key": "ability.turn_damage_allies1.desc",
-            "value": "On the start of each turn, deal 1 damage to all ally characters"
+            "value": "On the start of each turn, deal 1 damage to all ally monsters"
         },
         {
             "key": "ability.turn_damage_allies1.title",
@@ -2518,7 +2518,7 @@
         },
         {
             "key": "ability.turn_damage_allies2.desc",
-            "value": "On the start of each turn, deal 2 damage to all ally characters"
+            "value": "On the start of each turn, deal 2 damage to all ally monsters"
         },
         {
             "key": "ability.turn_damage_allies2.title",
@@ -2534,15 +2534,15 @@
         },
         {
             "key": "ability.turn_green_heal.desc",
-            "value": "At the start of each turn, all allied green creatures and locations heal by 3."
+            "value": "At the start of each turn, all allied plant monster and locations heal by 3."
         },
         {
             "key": "ability.turn_green_heal.title",
-            "value": "Green Heal"
+            "value": "Plant Healing"
         },
         {
             "key": "ability.turn_kill_lowest.desc",
-            "value": "At the start of your turn, kill characters in play with the lowest attack (including yours)."
+            "value": "At the start of your turn, kill monsters in play with the lowest attack (including yours)."
         },
         {
             "key": "ability.turn_kill_lowest.title",
@@ -2574,7 +2574,7 @@
         },
         {
             "key": "ability.turn_stealth.desc",
-            "value": "At the end of your turn, if you have at least one other character in play, go in stealth."
+            "value": "At the end of your turn, if you have at least one other monster in play, go in stealth."
         },
         {
             "key": "ability.turn_stealth.title",
