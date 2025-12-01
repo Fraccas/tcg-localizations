@@ -2428,7 +2428,7 @@
             "key": "tip_location_slot_message",
             "value": "Locations are powerful artifacts that grant lasting bonuses. You must play them in the Location slot to the left of your normal board slots, and only one Location can be active on your side at a time."
         },
-                {
+        {
             "key": "deck.error.empty",
             "value": "DECK IS EMPTY."
         },
@@ -2479,6 +2479,30 @@
         {
             "key": "deckbuilder.error.save_failed.title",
             "value": "SAVE FAILED"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Welcome to Fracctal TCG Tutorial"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Welcome to Fracctal TCG Tutorial"
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Any card in your hand that has a green highlight can be played."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "You have two choices."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "Try playing a card by dragging it on one of the empty spaces on the board."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "COMPETE IN DAILY AUTOMATED TOURNAMENTS AGAINST OTHER PLAYERS IN OUR TOURNAMENT MODE.\n  EARN ESSENCE CURRENCY, ACCOUNT XP, PACKS, AND GUILD POINTS IN THESE COMPETITIONS!"
         }
     ]
 }

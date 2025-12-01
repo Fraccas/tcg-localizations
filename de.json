@@ -197,6 +197,10 @@
             "value": "ASSETS GESAMT"
         },
         {
+            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
+            "value": "Greife an, indem du einen deiner Jagur auf einen Gegner ziehst."
+        },
+        {
             "key": "audio",
             "value": "Audio"
         },
@@ -221,6 +225,10 @@
             "value": "Kampfpass-Belohnungen"
         },
         {
+            "key": "before_they_destroy_yours",
+            "value": "Bevor sie deines zerstören"
+        },
+        {
             "key": "block",
             "value": "BLOCKIEREN"
         },
@@ -243,6 +251,10 @@
         {
             "key": "built_with",
             "value": "GEBAUT MIT"
+        },
+        {
+            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
+            "value": "Aber du kannst auf jeden Fall mit den Monstern angreifen, die bereits im Spiel sind."
         },
         {
             "key": "buy",
@@ -359,6 +371,10 @@
         {
             "key": "collection",
             "value": "Sammlung"
+        },
+        {
+            "key": "collection.create_new_deck",
+            "value": "NEUES DECK ERSTELLEN"
         },
         {
             "key": "common",
@@ -837,6 +853,10 @@
             "value": "KK HONEY"
         },
         {
+            "key": "language",
+            "value": "Sprache"
+        },
+        {
             "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
             "value": "Rangliste ist im Testmodus nicht verfügbar.\n Installieren Sie den Web-API-Server, um diese Funktion zu nutzen."
         },
@@ -883,6 +903,10 @@
         {
             "key": "logout",
             "value": "ABMELDEN"
+        },
+        {
+            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
+            "value": "Die Manakosten sind in der Ecke der Karte angegeben."
         },
         {
             "key": "marc",
@@ -991,6 +1015,10 @@
         {
             "key": "open_packs",
             "value": "PACKS ÖFFNEN"
+        },
+        {
+            "key": "opponent",
+            "value": "Gegner"
         },
         {
             "key": "optin",
@@ -1127,6 +1155,86 @@
         {
             "key": "quantity",
             "value": "MENGE"
+        },
+        {
+            "key": "quick_chat.close_game",
+            "value": "Knappes Spiel!"
+        },
+        {
+            "key": "quick_chat.close_one",
+            "value": "Das war knapp"
+        },
+        {
+            "key": "quick_chat.glhf",
+            "value": "GLHF!"
+        },
+        {
+            "key": "quick_chat.gm",
+            "value": "GM!"
+        },
+        {
+            "key": "quick_chat.good_game",
+            "value": "Gutes Spiel!"
+        },
+        {
+            "key": "quick_chat.great_battle",
+            "value": "Großartige Schlacht!"
+        },
+        {
+            "key": "quick_chat.hello",
+            "value": "Hallo!"
+        },
+        {
+            "key": "quick_chat.lets_battle",
+            "value": "Lasst uns kämpfen!"
+        },
+        {
+            "key": "quick_chat.lets_fight",
+            "value": "Auf in den Kampf!"
+        },
+        {
+            "key": "quick_chat.lets_go",
+            "value": "Los geht’s!"
+        },
+        {
+            "key": "quick_chat.lets_have_fun",
+            "value": "Lass uns Spaß haben!"
+        },
+        {
+            "key": "quick_chat.nice_move",
+            "value": "Guter Zug!"
+        },
+        {
+            "key": "quick_chat.oops",
+            "value": "Ups!"
+        },
+        {
+            "key": "quick_chat.placeholder",
+            "value": "Wähle eine Schnellchat-Option..."
+        },
+        {
+            "key": "quick_chat.respect",
+            "value": "Respekt"
+        },
+        {
+            "key": "quick_chat.rip",
+            "value": "RIP"
+        },
+        {
+            "key": "quick_chat.rip_gg",
+            "value": "RIP GG"
+        },
+        {
+            "key": "quick_chat.thanks",
+            "value": "Danke!"
+        },
+        {
+            "key": "quick_chat.well_played",
+            "value": "Gut gespielt!"
+        },
+        {
+            "key": "quick_chat.what_a_battle",
+            "value": "Was für eine Schlacht!"
         },
         {
             "key": "quit",
@@ -1345,6 +1453,118 @@
             "value": "Status-Titel"
         },
         {
+            "key": "statusline.evolution_description",
+            "value": "DIE KARTE EVOLVIERT IN {0} ZÜGEN"
+        },
+        {
+            "key": "statusline.evolution_title",
+            "value": "EVOLUTION"
+        },
+        {
+            "key": "statusline.mind_control.desc_currently_controlled",
+            "value": "Diese Karte ist derzeit unter Gedankenkontrolle."
+        },
+        {
+            "key": "statusline.mind_control.desc_double_condition",
+            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} oder {1} zurück."
+        },
+        {
+            "key": "statusline.mind_control.desc_fallback_timed",
+            "value": "Diese Karte ist derzeit unter Gedankenkontrolle und kehrt in {0} {1} zurück."
+        },
+        {
+            "key": "statusline.mind_control.desc_multiple_conditions",
+            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} oder {1} zurück."
+        },
+        {
+            "key": "statusline.mind_control.desc_single_condition",
+            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} zurück."
+        },
+        {
+            "key": "statusline.mind_control.list_separator",
+            "value": ", "
+        },
+        {
+            "key": "statusline.mind_control.owner_active",
+            "value": "des aktiven Spielers"
+        },
+        {
+            "key": "statusline.mind_control.owner_controller",
+            "value": "des Kontrolleurs"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent",
+            "value": "deines Gegners"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent_label",
+            "value": "Gegner"
+        },
+        {
+            "key": "statusline.mind_control.owner_original",
+            "value": "des ursprünglichen Besitzers"
+        },
+        {
+            "key": "statusline.mind_control.owner_player_number",
+            "value": "Spieler {0}"
+        },
+        {
+            "key": "statusline.mind_control.owner_prefix",
+            "value": "<color=orange>Ursprünglicher Besitzer: {0}</color>"
+        },
+        {
+            "key": "statusline.mind_control.owner_you",
+            "value": "Sie"
+        },
+        {
+            "key": "statusline.mind_control.owner_your",
+            "value": "dein"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format",
+            "value": "{0}s"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format_s",
+            "value": "{0}s"
+        },
+        {
+            "key": "statusline.mind_control.possessive_pronoun",
+            "value": "ihr"
+        },
+        {
+            "key": "statusline.mind_control.release_caster_leaves",
+            "value": "wenn der Werfer das Spiel verlässt"
+        },
+        {
+            "key": "statusline.mind_control.release_if_evolves",
+            "value": "wenn sie evolviert"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_remaining",
+            "value": "nach {0} von {1} {2}"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_zero",
+            "value": "sobald {0} nächster Zug endet"
+        },
+        {
+            "key": "statusline.mind_control.turn_plural",
+            "value": "züge"
+        },
+        {
+            "key": "statusline.mind_control.turn_singular",
+            "value": "zug"
+        },
+        {
+            "key": "statusline.mind_control_title",
+            "value": "GEDANKENKONTROLLE"
+        },
+        {
+            "key": "statusline.trait_label",
+            "value": "EIGENSCHAFT: {0}"
+        },
+        {
             "key": "submit",
             "value": "ABSENDEN"
         },
@@ -1381,8 +1601,144 @@
             "value": "TEST-TURNIER"
         },
         {
+            "key": "tip_ability_destroyed",
+            "value": "Dein {0} wurde durch die Fähigkeit von {1} zerstört!\n \n Fähigkeitsbeschreibung: {2}"
+        },
+        {
+            "key": "tip_armor_message",
+            "value": "Der Gegner hat ein gepanzertes Monster ausgespielt! Es erleidet weniger Schaden durch Angriffe."
+        },
+        {
+            "key": "tip_characterabilityimmunity_message",
+            "value": "Der Gegner hat ein fähigkeitsimmunes Monster ausgespielt! Charakterfähigkeiten, die ein Ziel benötigen, können es nicht betreffen, aber Feenkräfte schon."
+        },
+        {
+            "key": "tip_deathtouch_message",
+            "value": "Der Gegner hat ein Monster mit Todesberührung ausgespielt! Jede Figur, die es beschädigt, wird zerstört."
+        },
+        {
+            "key": "tip_flying_message",
+            "value": "Der Gegner hat ein fliegendes Monster ausgespielt! Es kann Spott-Blocker ignorieren."
+        },
+        {
+            "key": "tip_fury_message",
+            "value": "Der Gegner hat ein wütendes Monster ausgespielt! Es kann pro Zug zweimal angreifen."
+        },
+        {
+            "key": "tip_heropower_message",
+            "value": "Der Gegner hat seine Feenkraft mit {0} eingesetzt!\n \n Fähigkeit: {1}"
+        },
+        {
+            "key": "tip_intimidate_message",
+            "value": "Der Gegner hat ein einschüchterndes Monster ausgespielt! Es erleidet beim Angreifen keinen Schaden."
+        },
+        {
+            "key": "tip_invincibility_message",
+            "value": "Der Gegner hat ein unverwundbares Monster ausgespielt! Es kann für ein paar Züge nicht angegriffen werden."
+        },
+        {
+            "key": "tip_lifesteal_message",
+            "value": "Der Gegner hat ein Monster mit Lebensraub ausgespielt! Es heilt sich, wenn es Kampfschaden verursacht."
+        },
+        {
+            "key": "tip_mind_control_ability",
+            "value": "Quellfähigkeit: {0}"
+        },
+        {
+            "key": "tip_mind_control_base",
+            "value": "{0} hat die Kontrolle über {1} übernommen! {1} kämpft bis zum Ende des Effekts für {0}."
+        },
+        {
+            "key": "tip_mind_control_caster_fallback",
+            "value": "die Quelle des Zaubers"
+        },
+        {
+            "key": "tip_mind_control_evolution_return",
+            "value": "Wenn das kontrollierte Monster sich entwickelt und anschließend zurückverwandelt, kehrt es zu seinem ursprünglichen Besitzer zurück."
+        },
+        {
+            "key": "tip_mind_control_hint_caster",
+            "value": "Besiege {0}, um die Gedankenkontrolle zu brechen."
+        },
+        {
+            "key": "tip_mind_control_hint_none",
+            "value": "Keine Hinweise zum Lösen verfügbar. Achte auf andere Effekte, die die Kontrolle beenden könnten."
+        },
+        {
+            "key": "tip_mind_control_hint_turns",
+            "value": "Gedankenkontrolle endet nach {0} Zug(en) von {1}."
+        },
+        {
+            "key": "tip_mind_control_turn_owner_active",
+            "value": "der aktive Spieler"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_controller",
+            "value": "der Kontrollierende"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_original",
+            "value": "der ursprüngliche Besitzer"
+        },
+        {
+            "key": "tip_overkill_message",
+            "value": "Der Gegner hat ein Monster mit überschüssigem Schaden ausgespielt! Überschüssiger Schaden heilt es."
+        },
+        {
+            "key": "tip_shell_message",
+            "value": "Der Gegner hat ein Schalen-Monster ausgespielt! Der erste Schaden, den es erhalten würde, wird ignoriert."
+        },
+        {
+            "key": "tip_spellimmunity_message",
+            "value": "Der Gegner hat ein zauberimmunes Monster ausgespielt! Zauber können es weder anvisieren noch verletzen, aber nicht gerichtete Zerstörungszauber wirken weiterhin."
+        },
+        {
+            "key": "tip_status_generic",
+            "value": "Dein Monster wurde {0}!\n \n Beschreibung: {1}"
+        },
+        {
+            "key": "tip_status_sleep",
+            "value": "Dein Monster wurde eingeschläfert!\n \n Beschreibung: {0}"
+        },
+        {
+            "key": "tip_stealth_message",
+            "value": "Der Gegner hat ein Schleich-Monster ausgespielt! Du kannst es nicht angreifen oder anvisieren, bis es handelt."
+        },
+        {
+            "key": "tip_swap_slots_ability",
+            "value": "Eingesetzte Fähigkeit: {0}"
+        },
+        {
+            "key": "tip_swap_slots_base",
+            "value": "{0} hat die Positionen von {1} und {2} vertauscht."
+        },
+        {
+            "key": "tip_taunt_message",
+            "value": "Der Gegner hat ein Spott-Monster ausgespielt! Du musst es vor anderen Feinden angreifen."
+        },
+        {
+            "key": "tip_trample_message",
+            "value": "Der Gegner hat ein Trampel-Monster ausgespielt! Überschüssiger Schaden an deinen Monstern trifft dich."
+        },
+        {
+            "key": "tip_transform_into_with_trigger",
+            "value": "„Verwandle in“ kopiert die abgeworfene Karte. Die anvisierte Karte ist jetzt {0}, weil sie sich in {1} verwandelt hat."
+        },
+        {
+            "key": "tip_transform_into_without_trigger",
+            "value": "„Verwandle in“ kopiert die abgeworfene Karte. Die anvisierte Karte ist jetzt {0}, weil sie sich in die abgeworfene Karte verwandelt hat, die die Fähigkeit ausgelöst hat."
+        },
+        {
+            "key": "tip_unknown_card",
+            "value": "Unbekannte Karte"
+        },
+        {
             "key": "title",
             "value": "Titel"
+        },
+        {
+            "key": "to_play_cards_you_must_spend_mana",
+            "value": "Um Karten zu spielen, musst du Mana ausgeben."
         },
         {
             "key": "total_earnings",
@@ -1411,6 +1767,10 @@
         {
             "key": "traps",
             "value": "Fallen"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Versuche, eine Karte zu spielen, indem du sie auf ein freies Feld auf dem Spielbrett ziehst.\n \n Jede Karte in deiner Hand mit grüner Hervorhebung kann gespielt werden."
         },
         {
             "key": "turn_6",
@@ -1473,6 +1833,38 @@
             "value": "WALLET-BESTÄTIGUNG TXN"
         },
         {
+            "key": "warning.invalid_target",
+            "value": "Ungültiges Ziel"
+        },
+        {
+            "key": "warning.maximum_traps",
+            "value": "Maximal 5 Fallen"
+        },
+        {
+            "key": "warning.no_more_actions",
+            "value": "Keine weiteren Aktionen"
+        },
+        {
+            "key": "warning.not_enough_mana",
+            "value": "Nicht genug Mana"
+        },
+        {
+            "key": "warning.not_enough_team_points",
+            "value": "Nicht genug Team-Punkte"
+        },
+        {
+            "key": "warning.not_your_turn",
+            "value": "Du bist nicht am Zug"
+        },
+        {
+            "key": "warning.rush_cant_attack_player",
+            "value": "Rush-Karten können im Zug, in dem sie ausgespielt werden, keine Spieler angreifen"
+        },
+        {
+            "key": "warning.spell_immunity",
+            "value": "Zauberimmunität"
+        },
+        {
             "key": "warning_text",
             "value": "Warntext"
         },
@@ -1487,6 +1879,10 @@
         {
             "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
             "value": "Wenn ein neuer Spieler Ihren Benutzernamen als Empfehlungscode verwendet, erhält er 1 seltenes Pack und Sie erhalten ein seltenes Pack jedes Mal, wenn er sein Konto hochstuft "
+        },
+        {
+            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
+            "value": "Wenn du mit deinem Zug fertig bist, klicke auf „Zug beenden“."
         },
         {
             "key": "win_3_ranked_matches",
@@ -1515,430 +1911,6 @@
         {
             "key": "zhamster",
             "value": "ZHAMSTER"
-        },
-        {
-            "key": "statusline.trait_label",
-            "value": "EIGENSCHAFT: {0}"
-        },
-        {
-            "key": "statusline.evolution_title",
-            "value": "EVOLUTION"
-        },
-        {
-            "key": "statusline.evolution_description",
-            "value": "DIE KARTE EVOLVIERT IN {0} ZÜGEN"
-        },
-        {
-            "key": "statusline.mind_control_title",
-            "value": "GEDANKENKONTROLLE"
-        },
-        {
-            "key": "statusline.mind_control.owner_prefix",
-            "value": "<color=orange>Ursprünglicher Besitzer: {0}</color>"
-        },
-        {
-            "key": "statusline.mind_control.release_caster_leaves",
-            "value": "wenn der Werfer das Spiel verlässt"
-        },
-        {
-            "key": "statusline.mind_control.release_if_evolves",
-            "value": "wenn sie evolviert"
-        },
-        {
-            "key": "statusline.mind_control.desc_currently_controlled",
-            "value": "Diese Karte ist derzeit unter Gedankenkontrolle."
-        },
-        {
-            "key": "statusline.mind_control.desc_single_condition",
-            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} zurück."
-        },
-        {
-            "key": "statusline.mind_control.desc_double_condition",
-            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} oder {1} zurück."
-        },
-        {
-            "key": "statusline.mind_control.desc_multiple_conditions",
-            "value": "Die Kontrolle kehrt zu ihrem ursprünglichen Besitzer {0} oder {1} zurück."
-        },
-        {
-            "key": "statusline.mind_control.desc_fallback_timed",
-            "value": "Diese Karte ist derzeit unter Gedankenkontrolle und kehrt in {0} {1} zurück."
-        },
-        {
-            "key": "statusline.mind_control.turn_condition_zero",
-            "value": "sobald {0} nächster Zug endet"
-        },
-        {
-            "key": "statusline.mind_control.turn_condition_remaining",
-            "value": "nach {0} von {1} {2}"
-        },
-        {
-            "key": "statusline.mind_control.turn_singular",
-            "value": "zug"
-        },
-        {
-            "key": "statusline.mind_control.turn_plural",
-            "value": "züge"
-        },
-        {
-            "key": "statusline.mind_control.owner_active",
-            "value": "des aktiven Spielers"
-        },
-        {
-            "key": "statusline.mind_control.owner_your",
-            "value": "dein"
-        },
-        {
-            "key": "statusline.mind_control.owner_opponent",
-            "value": "deines Gegners"
-        },
-        {
-            "key": "statusline.mind_control.owner_original",
-            "value": "des ursprünglichen Besitzers"
-        },
-        {
-            "key": "statusline.mind_control.owner_controller",
-            "value": "des Kontrolleurs"
-        },
-        {
-            "key": "statusline.mind_control.owner_you",
-            "value": "Sie"
-        },
-        {
-            "key": "statusline.mind_control.owner_opponent_label",
-            "value": "Gegner"
-        },
-        {
-            "key": "statusline.mind_control.owner_player_number",
-            "value": "Spieler {0}"
-        },
-        {
-            "key": "statusline.mind_control.possessive_pronoun",
-            "value": "ihr"
-        },
-        {
-            "key": "statusline.mind_control.possessive_format",
-            "value": "{0}s"
-        },
-        {
-            "key": "statusline.mind_control.possessive_format_s",
-            "value": "{0}s"
-        },
-        {
-            "key": "statusline.mind_control.list_separator",
-            "value": ", "
-        },
-        {
-            "key": "language",
-            "value": "Sprache"
-        },
-        {
-            "key": "warning.not_your_turn",
-            "value": "Du bist nicht am Zug"
-        },
-        {
-            "key": "warning.no_more_actions",
-            "value": "Keine weiteren Aktionen"
-        },
-        {
-            "key": "warning.rush_cant_attack_player",
-            "value": "Rush-Karten können im Zug, in dem sie ausgespielt werden, keine Spieler angreifen"
-        },
-        {
-            "key": "warning.not_enough_mana",
-            "value": "Nicht genug Mana"
-        },
-        {
-            "key": "warning.not_enough_team_points",
-            "value": "Nicht genug Team-Punkte"
-        },
-        {
-            "key": "warning.maximum_traps",
-            "value": "Maximal 5 Fallen"
-        },
-        {
-            "key": "warning.spell_immunity",
-            "value": "Zauberimmunität"
-        },
-        {
-            "key": "warning.invalid_target",
-            "value": "Ungültiges Ziel"
-        },
-        {
-            "key": "quick_chat.placeholder",
-            "value": "Wähle eine Schnellchat-Option..."
-        },
-        {
-            "key": "quick_chat.gm",
-            "value": "GM!"
-        },
-        {
-            "key": "quick_chat.hello",
-            "value": "Hallo!"
-        },
-        {
-            "key": "quick_chat.glhf",
-            "value": "GLHF!"
-        },
-        {
-            "key": "quick_chat.lets_go",
-            "value": "Los geht’s!"
-        },
-        {
-            "key": "quick_chat.lets_battle",
-            "value": "Lasst uns kämpfen!"
-        },
-        {
-            "key": "quick_chat.lets_fight",
-            "value": "Auf in den Kampf!"
-        },
-        {
-            "key": "quick_chat.lets_have_fun",
-            "value": "Lass uns Spaß haben!"
-        },
-        {
-            "key": "quick_chat.nice_move",
-            "value": "Guter Zug!"
-        },
-        {
-            "key": "quick_chat.rip",
-            "value": "RIP"
-        },
-        {
-            "key": "quick_chat.rip_gg",
-            "value": "RIP GG"
-        },
-        {
-            "key": "quick_chat.oops",
-            "value": "Ups!"
-        },
-        {
-            "key": "quick_chat.thanks",
-            "value": "Danke!"
-        },
-        {
-            "key": "quick_chat.good_game",
-            "value": "Gutes Spiel!"
-        },
-        {
-            "key": "quick_chat.well_played",
-            "value": "Gut gespielt!"
-        },
-        {
-            "key": "quick_chat.close_game",
-            "value": "Knappes Spiel!"
-        },
-        {
-            "key": "quick_chat.close_one",
-            "value": "Das war knapp"
-        },
-        {
-            "key": "quick_chat.great_battle",
-            "value": "Großartige Schlacht!"
-        },
-        {
-            "key": "quick_chat.what_a_battle",
-            "value": "Was für eine Schlacht!"
-        },
-        {
-            "key": "quick_chat.respect",
-            "value": "Respekt"
-        },
-        {
-            "key": "collection.create_new_deck",
-            "value": "NEUES DECK ERSTELLEN"
-        },
-        {
-            "key": "tip_mind_control_base",
-            "value": "{0} hat die Kontrolle über {1} übernommen! {1} kämpft bis zum Ende des Effekts für {0}."
-        },
-        {
-            "key": "tip_mind_control_ability",
-            "value": "Quellfähigkeit: {0}"
-        },
-        {
-            "key": "tip_mind_control_evolution_return",
-            "value": "Wenn das kontrollierte Monster sich entwickelt und anschließend zurückverwandelt, kehrt es zu seinem ursprünglichen Besitzer zurück."
-        },
-        {
-            "key": "tip_mind_control_hint_none",
-            "value": "Keine Hinweise zum Lösen verfügbar. Achte auf andere Effekte, die die Kontrolle beenden könnten."
-        },
-        {
-            "key": "tip_mind_control_caster_fallback",
-            "value": "die Quelle des Zaubers"
-        },
-        {
-            "key": "tip_mind_control_hint_caster",
-            "value": "Besiege {0}, um die Gedankenkontrolle zu brechen."
-        },
-        {
-            "key": "tip_mind_control_hint_turns",
-            "value": "Gedankenkontrolle endet nach {0} Zug(en) von {1}."
-        },
-        {
-            "key": "tip_mind_control_turn_owner_original",
-            "value": "der ursprüngliche Besitzer"
-        },
-        {
-            "key": "tip_mind_control_turn_owner_active",
-            "value": "der aktive Spieler"
-        },
-        {
-            "key": "tip_mind_control_turn_owner_controller",
-            "value": "der Kontrollierende"
-        },
-        {
-            "key": "tip_swap_slots_base",
-            "value": "{0} hat die Positionen von {1} und {2} vertauscht."
-        },
-        {
-            "key": "tip_swap_slots_ability",
-            "value": "Eingesetzte Fähigkeit: {0}"
-        },
-        {
-            "key": "tip_unknown_card",
-            "value": "Unbekannte Karte"
-        },
-        {
-            "key": "tip_ability_destroyed",
-            "value": "Dein {0} wurde durch die Fähigkeit von {1} zerstört!\n \n Fähigkeitsbeschreibung: {2}"
-        },
-        {
-            "key": "tip_armor_message",
-            "value": "Der Gegner hat ein gepanzertes Monster ausgespielt! Es erleidet weniger Schaden durch Angriffe."
-        },
-        {
-            "key": "tip_characterabilityimmunity_message",
-            "value": "Der Gegner hat ein fähigkeitsimmunes Monster ausgespielt! Charakterfähigkeiten, die ein Ziel benötigen, können es nicht betreffen, aber Feenkräfte schon."
-        },
-        {
-            "key": "tip_deathtouch_message",
-            "value": "Der Gegner hat ein Monster mit Todesberührung ausgespielt! Jede Figur, die es beschädigt, wird zerstört."
-        },
-        {
-            "key": "tip_flying_message",
-            "value": "Der Gegner hat ein fliegendes Monster ausgespielt! Es kann Spott-Blocker ignorieren."
-        },
-        {
-            "key": "tip_fury_message",
-            "value": "Der Gegner hat ein wütendes Monster ausgespielt! Es kann pro Zug zweimal angreifen."
-        },
-        {
-            "key": "tip_heropower_message",
-            "value": "Der Gegner hat seine Feenkraft mit {0} eingesetzt!\n \n Fähigkeit: {1}"
-        },
-        {
-            "key": "tip_intimidate_message",
-            "value": "Der Gegner hat ein einschüchterndes Monster ausgespielt! Es erleidet beim Angreifen keinen Schaden."
-        },
-        {
-            "key": "tip_invincibility_message",
-            "value": "Der Gegner hat ein unverwundbares Monster ausgespielt! Es kann für ein paar Züge nicht angegriffen werden."
-        },
-        {
-            "key": "tip_lifesteal_message",
-            "value": "Der Gegner hat ein Monster mit Lebensraub ausgespielt! Es heilt sich, wenn es Kampfschaden verursacht."
-        },
-        {
-            "key": "tip_overkill_message",
-            "value": "Der Gegner hat ein Monster mit überschüssigem Schaden ausgespielt! Überschüssiger Schaden heilt es."
-        },
-        {
-            "key": "tip_shell_message",
-            "value": "Der Gegner hat ein Schalen-Monster ausgespielt! Der erste Schaden, den es erhalten würde, wird ignoriert."
-        },
-        {
-            "key": "tip_spellimmunity_message",
-            "value": "Der Gegner hat ein zauberimmunes Monster ausgespielt! Zauber können es weder anvisieren noch verletzen, aber nicht gerichtete Zerstörungszauber wirken weiterhin."
-        },
-        {
-            "key": "tip_status_generic",
-            "value": "Dein Monster wurde {0}!\n \n Beschreibung: {1}"
-        },
-        {
-            "key": "tip_status_sleep",
-            "value": "Dein Monster wurde eingeschläfert!\n \n Beschreibung: {0}"
-        },
-        {
-            "key": "tip_stealth_message",
-            "value": "Der Gegner hat ein Schleich-Monster ausgespielt! Du kannst es nicht angreifen oder anvisieren, bis es handelt."
-        },
-        {
-            "key": "tip_taunt_message",
-            "value": "Der Gegner hat ein Spott-Monster ausgespielt! Du musst es vor anderen Feinden angreifen."
-        },
-        {
-            "key": "tip_trample_message",
-            "value": "Der Gegner hat ein Trampel-Monster ausgespielt! Überschüssiger Schaden an deinen Monstern trifft dich."
-        },
-        {
-            "key": "tip_transform_into_with_trigger",
-            "value": "„Verwandle in“ kopiert die abgeworfene Karte. Die anvisierte Karte ist jetzt {0}, weil sie sich in {1} verwandelt hat."
-        },
-        {
-            "key": "tip_transform_into_without_trigger",
-            "value": "„Verwandle in“ kopiert die abgeworfene Karte. Die anvisierte Karte ist jetzt {0}, weil sie sich in die abgeworfene Karte verwandelt hat, die die Fähigkeit ausgelöst hat."
-        },
-        {
-            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
-            "value": "Greife an, indem du einen deiner Jagur auf einen Gegner ziehst."
-        },
-        {
-            "key": "before_they_destroy_yours",
-            "value": "Bevor sie deines zerstören"
-        },
-        {
-            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
-            "value": "Aber du kannst auf jeden Fall mit den Monstern angreifen, die bereits im Spiel sind."
-        },
-        {
-            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
-            "value": "Die Manakosten sind in der Ecke der Karte angegeben."
-        },
-        {
-            "key": "opponent",
-            "value": "Gegner"
-        },
-        {
-            "key": "to_play_cards_you_must_spend_mana",
-            "value": "Um Karten zu spielen, musst du Mana ausgeben."
-        },
-        {
-            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
-            "value": "Versuche, eine Karte zu spielen, indem du sie auf eines der freien Felder auf dem Brett ziehst."
-        },
-        {
-            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
-            "value": "Jede Karte in deiner Hand mit grünem Highlight kann gespielt werden."
-        },
-        {
-            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
-            "value": "Wenn du mit deinem Zug fertig bist, klicke auf „Zug beenden“."
-        },
-        {
-            "key": "you_have_two_choices.",
-            "value": "Du hast zwei Möglichkeiten."
-        },
-        {
-            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
-            "value": "Willkommen beim Fracctal-TCG-Tutorial"
-        },
-        {
-            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
-            "value": "Willkommen beim Fracctal-TCG-Tutorial"
-        },
-        {
-            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
-            "value": "KÄMPFEN SIE GEGEN ANDERE SPIELER IM RANKED-MULTIPLAYER.\n  \n   Sie können Ihr PvP-Ranking mit dem Button oben in der Navigationsleiste überprüfen. "
-        },
-        {
-            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
-            "value": "NEHMEN SIE TÄGLICH AN AUTOMATISIERTEN TURNIEREN IN UNSEREM TURNIERMODUS GEGEN ANDERE SPIELER TEIL.\n  \n  GEWINNEN SIE ESSENZ, KONTEN-XP, PACKS UND GILDENPUNKTE IN DIESEN WETTBEWERBEN!"
-        },
-        {
-            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
-            "value": "Versuche, eine Karte zu spielen, indem du sie auf ein freies Feld auf dem Spielbrett ziehst.\n \n Jede Karte in deiner Hand mit grüner Hervorhebung kann gespielt werden."
         },
         {
             "key": "modal.version_warning_message",
@@ -2507,6 +2479,30 @@
         {
             "key": "deckbuilder.error.save_failed.title",
             "value": "SPEICHERN FEHLGESCHLAGEN"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Willkommen beim Fracctal-TCG-Tutorial"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Willkommen beim Fracctal-TCG-Tutorial"
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Jede Karte in deiner Hand mit grünem Highlight kann gespielt werden."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "Du hast zwei Möglichkeiten."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "Versuche, eine Karte zu spielen, indem du sie auf eines der freien Felder auf dem Brett ziehst."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "NEHMEN SIE TÄGLICH AN AUTOMATISIERTEN TURNIEREN IN UNSEREM TURNIERMODUS GEGEN ANDERE SPIELER TEIL.\n  \n  GEWINNEN SIE ESSENZ, KONTEN-XP, PACKS UND GILDENPUNKTE IN DIESEN WETTBEWERBEN!"
         }
     ]
 }

@@ -197,6 +197,10 @@
             "value": "アセット合計"
         },
         {
+            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
+            "value": "自分のジャガーの1体を敵の上にドラッグして攻撃しましょう。"
+        },
+        {
             "key": "audio",
             "value": "オーディオ"
         },
@@ -221,6 +225,10 @@
             "value": "バトルパス報酬"
         },
         {
+            "key": "before_they_destroy_yours",
+            "value": "相手にあなたのものを壊される前に"
+        },
+        {
             "key": "block",
             "value": "ブロック"
         },
@@ -243,6 +251,10 @@
         {
             "key": "built_with",
             "value": "使用技術:"
+        },
+        {
+            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
+            "value": "ただし、すでに場にいるモンスターで攻撃は可能です。"
         },
         {
             "key": "buy",
@@ -359,6 +371,10 @@
         {
             "key": "collection",
             "value": "コレクション"
+        },
+        {
+            "key": "collection.create_new_deck",
+            "value": "新しいデッキを作成"
         },
         {
             "key": "common",
@@ -837,6 +853,10 @@
             "value": "KK HONEY"
         },
         {
+            "key": "language",
+            "value": "言語"
+        },
+        {
             "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
             "value": "テストモードではリーダーボードが利用できません。\nこの機能を使用するにはWeb APIサーバーをインストールしてください。"
         },
@@ -883,6 +903,10 @@
         {
             "key": "logout",
             "value": "ログアウト"
+        },
+        {
+            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
+            "value": "マナ・コストはカードの角に表示されています。"
         },
         {
             "key": "marc",
@@ -991,6 +1015,10 @@
         {
             "key": "open_packs",
             "value": "パックを開く"
+        },
+        {
+            "key": "opponent",
+            "value": "相手"
         },
         {
             "key": "optin",
@@ -1127,6 +1155,86 @@
         {
             "key": "quantity",
             "value": "数量"
+        },
+        {
+            "key": "quick_chat.close_game",
+            "value": "接戦だった！"
+        },
+        {
+            "key": "quick_chat.close_one",
+            "value": "危なかった"
+        },
+        {
+            "key": "quick_chat.glhf",
+            "value": "GLHF!"
+        },
+        {
+            "key": "quick_chat.gm",
+            "value": "GM!"
+        },
+        {
+            "key": "quick_chat.good_game",
+            "value": "ナイスゲーム！"
+        },
+        {
+            "key": "quick_chat.great_battle",
+            "value": "素晴らしい戦い！"
+        },
+        {
+            "key": "quick_chat.hello",
+            "value": "こんにちは！"
+        },
+        {
+            "key": "quick_chat.lets_battle",
+            "value": "戦おう！"
+        },
+        {
+            "key": "quick_chat.lets_fight",
+            "value": "勝負だ！"
+        },
+        {
+            "key": "quick_chat.lets_go",
+            "value": "行こう！"
+        },
+        {
+            "key": "quick_chat.lets_have_fun",
+            "value": "楽しもう！"
+        },
+        {
+            "key": "quick_chat.nice_move",
+            "value": "ナイスプレイ！"
+        },
+        {
+            "key": "quick_chat.oops",
+            "value": "おっと！"
+        },
+        {
+            "key": "quick_chat.placeholder",
+            "value": "クイックチャットを選択..."
+        },
+        {
+            "key": "quick_chat.respect",
+            "value": "リスペクト"
+        },
+        {
+            "key": "quick_chat.rip",
+            "value": "RIP"
+        },
+        {
+            "key": "quick_chat.rip_gg",
+            "value": "RIP GG"
+        },
+        {
+            "key": "quick_chat.thanks",
+            "value": "ありがとう！"
+        },
+        {
+            "key": "quick_chat.well_played",
+            "value": "お見事！"
+        },
+        {
+            "key": "quick_chat.what_a_battle",
+            "value": "なんて戦いだ！"
         },
         {
             "key": "quit",
@@ -1345,6 +1453,118 @@
             "value": "ステータス名"
         },
         {
+            "key": "statusline.evolution_description",
+            "value": "{0} ターン後にカードが進化します"
+        },
+        {
+            "key": "statusline.evolution_title",
+            "value": "進化"
+        },
+        {
+            "key": "statusline.mind_control.desc_currently_controlled",
+            "value": "このカードは現在マインドコントロール下にあります。"
+        },
+        {
+            "key": "statusline.mind_control.desc_double_condition",
+            "value": "コントロールは{0}または{1}で元の所有者に戻ります。"
+        },
+        {
+            "key": "statusline.mind_control.desc_fallback_timed",
+            "value": "このカードは現在マインドコントロールされています。{0}{1}後に元の所有者へ戻ります。"
+        },
+        {
+            "key": "statusline.mind_control.desc_multiple_conditions",
+            "value": "コントロールは{0}、もしくは{1}の条件を満たすと元の所有者に戻ります。"
+        },
+        {
+            "key": "statusline.mind_control.desc_single_condition",
+            "value": "コントロールは{0}で元の所有者に戻ります。"
+        },
+        {
+            "key": "statusline.mind_control.list_separator",
+            "value": "、"
+        },
+        {
+            "key": "statusline.mind_control.owner_active",
+            "value": "アクティブプレイヤーの"
+        },
+        {
+            "key": "statusline.mind_control.owner_controller",
+            "value": "コントローラーの"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent",
+            "value": "相手の"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent_label",
+            "value": "相手"
+        },
+        {
+            "key": "statusline.mind_control.owner_original",
+            "value": "元の所有者の"
+        },
+        {
+            "key": "statusline.mind_control.owner_player_number",
+            "value": "プレイヤー {0}"
+        },
+        {
+            "key": "statusline.mind_control.owner_prefix",
+            "value": "<color=orange>元の所有者: {0}</color>"
+        },
+        {
+            "key": "statusline.mind_control.owner_you",
+            "value": "あなた"
+        },
+        {
+            "key": "statusline.mind_control.owner_your",
+            "value": "あなたの"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format",
+            "value": "{0} の"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format_s",
+            "value": "{0} の"
+        },
+        {
+            "key": "statusline.mind_control.possessive_pronoun",
+            "value": "彼らの"
+        },
+        {
+            "key": "statusline.mind_control.release_caster_leaves",
+            "value": "キャスターがプレイから離れる時"
+        },
+        {
+            "key": "statusline.mind_control.release_if_evolves",
+            "value": "進化した場合"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_remaining",
+            "value": "全{1}{2}のうち{0}回経過すると"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_zero",
+            "value": "{0}の次のターンが終わると"
+        },
+        {
+            "key": "statusline.mind_control.turn_plural",
+            "value": "ターン"
+        },
+        {
+            "key": "statusline.mind_control.turn_singular",
+            "value": "ターン"
+        },
+        {
+            "key": "statusline.mind_control_title",
+            "value": "マインドコントロール"
+        },
+        {
+            "key": "statusline.trait_label",
+            "value": "特性: {0}"
+        },
+        {
             "key": "submit",
             "value": "送信"
         },
@@ -1381,8 +1601,144 @@
             "value": "テストトーナメント"
         },
         {
+            "key": "tip_ability_destroyed",
+            "value": "あなたの{0}は{1}の能力で破壊されました！\n\n能力: {2}"
+        },
+        {
+            "key": "tip_armor_message",
+            "value": "敵は装甲を持つモンスターをプレイしました！ 攻撃から受けるダメージが減少します。"
+        },
+        {
+            "key": "tip_characterabilityimmunity_message",
+            "value": "敵は能力無効のモンスターをプレイしました！ 対象を必要とするキャラクター能力は効きませんが、妖精パワーは有効です。"
+        },
+        {
+            "key": "tip_deathtouch_message",
+            "value": "敵はデスタッチのモンスターをプレイしました！ それがダメージを与えたキャラクターは破壊されます。"
+        },
+        {
+            "key": "tip_flying_message",
+            "value": "敵は飛行モンスターをプレイしました！ 挑発ブロッカーを無視できます。"
+        },
+        {
+            "key": "tip_fury_message",
+            "value": "敵は激昂のモンスターをプレイしました！ 各ターンに2回攻撃できます。"
+        },
+        {
+            "key": "tip_heropower_message",
+            "value": "敵は{0}で妖精パワーを使用しました！\n \n 能力：{1}"
+        },
+        {
+            "key": "tip_intimidate_message",
+            "value": "敵は威圧のモンスターをプレイしました！ 攻撃時にダメージを受けません。"
+        },
+        {
+            "key": "tip_invincibility_message",
+            "value": "敵は無敵のモンスターをプレイしました！ 数ターンの間、攻撃されません。"
+        },
+        {
+            "key": "tip_lifesteal_message",
+            "value": "敵はライフスティールのモンスターをプレイしました！ 戦闘ダメージを与えると回復します。"
+        },
+        {
+            "key": "tip_mind_control_ability",
+            "value": "元となった能力：{0}"
+        },
+        {
+            "key": "tip_mind_control_base",
+            "value": "{0} は {1} の支配を奪った！ 効果が切れるまで、{1}は{0}のために戦います。"
+        },
+        {
+            "key": "tip_mind_control_caster_fallback",
+            "value": "呪文の発動者"
+        },
+        {
+            "key": "tip_mind_control_evolution_return",
+            "value": "支配されたモンスターが進化し、その後元に戻った場合、元の所有者に戻ります。"
+        },
+        {
+            "key": "tip_mind_control_hint_caster",
+            "value": "{0}を倒せば精神支配を解除できます。"
+        },
+        {
+            "key": "tip_mind_control_hint_none",
+            "value": "解除のヒントはありません。支配を終わらせる可能性のある別の効果に注意してください。"
+        },
+        {
+            "key": "tip_mind_control_hint_turns",
+            "value": "精神支配は{1}の{0}ターン後に終了します。"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_active",
+            "value": "アクティブプレイヤー"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_controller",
+            "value": "コントローラー"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_original",
+            "value": "元の所有者"
+        },
+        {
+            "key": "tip_overkill_message",
+            "value": "敵はオーバーキルのモンスターをプレイしました！ 余剰ダメージで自身が回復します。"
+        },
+        {
+            "key": "tip_shell_message",
+            "value": "敵はシェル持ちモンスターをプレイしました！ 最初に受けるダメージは無視されます。"
+        },
+        {
+            "key": "tip_spellimmunity_message",
+            "value": "敵は呪文無効のモンスターをプレイしました！ 呪文で対象にもダメージにもできませんが、対象を取らずに破壊する呪文は有効です。"
+        },
+        {
+            "key": "tip_status_generic",
+            "value": "あなたのモンスターは{0}になりました！\n\n説明: {1}"
+        },
+        {
+            "key": "tip_status_sleep",
+            "value": "あなたのモンスターは眠らされました！\n\n説明: {0}"
+        },
+        {
+            "key": "tip_stealth_message",
+            "value": "敵はステルスのモンスターをプレイしました！ 行動するまで攻撃も対象指定もできません。"
+        },
+        {
+            "key": "tip_swap_slots_ability",
+            "value": "使用した能力: {0}"
+        },
+        {
+            "key": "tip_swap_slots_base",
+            "value": "{0}が{1}と{2}の位置を入れ替えた。"
+        },
+        {
+            "key": "tip_taunt_message",
+            "value": "敵は挑発のモンスターをプレイしました！ 他の敵より先にそれを攻撃しなければなりません。"
+        },
+        {
+            "key": "tip_trample_message",
+            "value": "敵はトランプルのモンスターをプレイしました！ あなたのモンスターに与えた余剰ダメージはあなたに通ります。"
+        },
+        {
+            "key": "tip_transform_into_with_trigger",
+            "value": "「変身先」は捨てられたカードをコピーします。対象のカードは{1}に変身したため、今は{0}です。"
+        },
+        {
+            "key": "tip_transform_into_without_trigger",
+            "value": "「変身先」は捨てられたカードをコピーします。対象のカードは、能力を誘発させた捨て札に変身したため、今は{0}です。"
+        },
+        {
+            "key": "tip_unknown_card",
+            "value": "不明なカード"
+        },
+        {
             "key": "title",
             "value": "タイトル"
+        },
+        {
+            "key": "to_play_cards_you_must_spend_mana",
+            "value": "カードをプレイするにはマナを消費します。"
         },
         {
             "key": "total_earnings",
@@ -1411,6 +1767,10 @@
         {
             "key": "traps",
             "value": "トラップ"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "ボード上の空きマスの1つにドラッグしてカードを出してみましょう。\n\n 手札で緑にハイライトされているカードはプレイできます。"
         },
         {
             "key": "turn_6",
@@ -1473,6 +1833,38 @@
             "value": "ウォレット確認トランザクション"
         },
         {
+            "key": "warning.invalid_target",
+            "value": "無効な対象です"
+        },
+        {
+            "key": "warning.maximum_traps",
+            "value": "トラップは最大5枚までです"
+        },
+        {
+            "key": "warning.no_more_actions",
+            "value": "これ以上の行動はできません"
+        },
+        {
+            "key": "warning.not_enough_mana",
+            "value": "マナが足りません"
+        },
+        {
+            "key": "warning.not_enough_team_points",
+            "value": "チームポイントが不足しています"
+        },
+        {
+            "key": "warning.not_your_turn",
+            "value": "あなたのターンではありません"
+        },
+        {
+            "key": "warning.rush_cant_attack_player",
+            "value": "ラッシュのカードは、出したターンにはプレイヤーを攻撃できません"
+        },
+        {
+            "key": "warning.spell_immunity",
+            "value": "呪文無効"
+        },
+        {
             "key": "warning_text",
             "value": "警告文"
         },
@@ -1487,6 +1879,10 @@
         {
             "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
             "value": "新規プレイヤーがあなたのユーザー名を紹介コードとして入力すると、そのプレイヤーはレアパックを1つ獲得し、アカウントをレベルアップするたびにあなたにもレアパックが届きます"
+        },
+        {
+            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
+            "value": "ターンが終わったら「ターン終了」をクリックしてください。"
         },
         {
             "key": "win_3_ranked_matches",
@@ -1515,430 +1911,6 @@
         {
             "key": "zhamster",
             "value": "ZHAMSTER"
-        },
-        {
-            "key": "statusline.trait_label",
-            "value": "特性: {0}"
-        },
-        {
-            "key": "statusline.evolution_title",
-            "value": "進化"
-        },
-        {
-            "key": "statusline.evolution_description",
-            "value": "{0} ターン後にカードが進化します"
-        },
-        {
-            "key": "statusline.mind_control_title",
-            "value": "マインドコントロール"
-        },
-        {
-            "key": "statusline.mind_control.owner_prefix",
-            "value": "<color=orange>元の所有者: {0}</color>"
-        },
-        {
-            "key": "statusline.mind_control.release_caster_leaves",
-            "value": "キャスターがプレイから離れる時"
-        },
-        {
-            "key": "statusline.mind_control.release_if_evolves",
-            "value": "進化した場合"
-        },
-        {
-            "key": "statusline.mind_control.desc_currently_controlled",
-            "value": "このカードは現在マインドコントロール下にあります。"
-        },
-        {
-            "key": "statusline.mind_control.desc_single_condition",
-            "value": "コントロールは{0}で元の所有者に戻ります。"
-        },
-        {
-            "key": "statusline.mind_control.desc_double_condition",
-            "value": "コントロールは{0}または{1}で元の所有者に戻ります。"
-        },
-        {
-            "key": "statusline.mind_control.desc_multiple_conditions",
-            "value": "コントロールは{0}、もしくは{1}の条件を満たすと元の所有者に戻ります。"
-        },
-        {
-            "key": "statusline.mind_control.desc_fallback_timed",
-            "value": "このカードは現在マインドコントロールされています。{0}{1}後に元の所有者へ戻ります。"
-        },
-        {
-            "key": "statusline.mind_control.turn_condition_zero",
-            "value": "{0}の次のターンが終わると"
-        },
-        {
-            "key": "statusline.mind_control.turn_condition_remaining",
-            "value": "全{1}{2}のうち{0}回経過すると"
-        },
-        {
-            "key": "statusline.mind_control.turn_singular",
-            "value": "ターン"
-        },
-        {
-            "key": "statusline.mind_control.turn_plural",
-            "value": "ターン"
-        },
-        {
-            "key": "statusline.mind_control.owner_active",
-            "value": "アクティブプレイヤーの"
-        },
-        {
-            "key": "statusline.mind_control.owner_your",
-            "value": "あなたの"
-        },
-        {
-            "key": "statusline.mind_control.owner_opponent",
-            "value": "相手の"
-        },
-        {
-            "key": "statusline.mind_control.owner_original",
-            "value": "元の所有者の"
-        },
-        {
-            "key": "statusline.mind_control.owner_controller",
-            "value": "コントローラーの"
-        },
-        {
-            "key": "statusline.mind_control.owner_you",
-            "value": "あなた"
-        },
-        {
-            "key": "statusline.mind_control.owner_opponent_label",
-            "value": "相手"
-        },
-        {
-            "key": "statusline.mind_control.owner_player_number",
-            "value": "プレイヤー {0}"
-        },
-        {
-            "key": "statusline.mind_control.possessive_pronoun",
-            "value": "彼らの"
-        },
-        {
-            "key": "statusline.mind_control.possessive_format",
-            "value": "{0} の"
-        },
-        {
-            "key": "statusline.mind_control.possessive_format_s",
-            "value": "{0} の"
-        },
-        {
-            "key": "statusline.mind_control.list_separator",
-            "value": "、"
-        },
-        {
-            "key": "language",
-            "value": "言語"
-        },
-        {
-            "key": "warning.not_your_turn",
-            "value": "あなたのターンではありません"
-        },
-        {
-            "key": "warning.no_more_actions",
-            "value": "これ以上の行動はできません"
-        },
-        {
-            "key": "warning.rush_cant_attack_player",
-            "value": "ラッシュのカードは、出したターンにはプレイヤーを攻撃できません"
-        },
-        {
-            "key": "warning.not_enough_mana",
-            "value": "マナが足りません"
-        },
-        {
-            "key": "warning.not_enough_team_points",
-            "value": "チームポイントが不足しています"
-        },
-        {
-            "key": "warning.maximum_traps",
-            "value": "トラップは最大5枚までです"
-        },
-        {
-            "key": "warning.spell_immunity",
-            "value": "呪文無効"
-        },
-        {
-            "key": "warning.invalid_target",
-            "value": "無効な対象です"
-        },
-        {
-            "key": "quick_chat.placeholder",
-            "value": "クイックチャットを選択..."
-        },
-        {
-            "key": "quick_chat.gm",
-            "value": "GM!"
-        },
-        {
-            "key": "quick_chat.hello",
-            "value": "こんにちは！"
-        },
-        {
-            "key": "quick_chat.glhf",
-            "value": "GLHF!"
-        },
-        {
-            "key": "quick_chat.lets_go",
-            "value": "行こう！"
-        },
-        {
-            "key": "quick_chat.lets_battle",
-            "value": "戦おう！"
-        },
-        {
-            "key": "quick_chat.lets_fight",
-            "value": "勝負だ！"
-        },
-        {
-            "key": "quick_chat.lets_have_fun",
-            "value": "楽しもう！"
-        },
-        {
-            "key": "quick_chat.nice_move",
-            "value": "ナイスプレイ！"
-        },
-        {
-            "key": "quick_chat.rip",
-            "value": "RIP"
-        },
-        {
-            "key": "quick_chat.rip_gg",
-            "value": "RIP GG"
-        },
-        {
-            "key": "quick_chat.oops",
-            "value": "おっと！"
-        },
-        {
-            "key": "quick_chat.thanks",
-            "value": "ありがとう！"
-        },
-        {
-            "key": "quick_chat.good_game",
-            "value": "ナイスゲーム！"
-        },
-        {
-            "key": "quick_chat.well_played",
-            "value": "お見事！"
-        },
-        {
-            "key": "quick_chat.close_game",
-            "value": "接戦だった！"
-        },
-        {
-            "key": "quick_chat.close_one",
-            "value": "危なかった"
-        },
-        {
-            "key": "quick_chat.great_battle",
-            "value": "素晴らしい戦い！"
-        },
-        {
-            "key": "quick_chat.what_a_battle",
-            "value": "なんて戦いだ！"
-        },
-        {
-            "key": "quick_chat.respect",
-            "value": "リスペクト"
-        },
-        {
-            "key": "tip_mind_control_base",
-            "value": "{0} は {1} の支配を奪った！ 効果が切れるまで、{1}は{0}のために戦います。"
-        },
-        {
-            "key": "tip_mind_control_ability",
-            "value": "元となった能力：{0}"
-        },
-        {
-            "key": "tip_mind_control_evolution_return",
-            "value": "支配されたモンスターが進化し、その後元に戻った場合、元の所有者に戻ります。"
-        },
-        {
-            "key": "tip_mind_control_hint_none",
-            "value": "解除のヒントはありません。支配を終わらせる可能性のある別の効果に注意してください。"
-        },
-        {
-            "key": "tip_mind_control_caster_fallback",
-            "value": "呪文の発動者"
-        },
-        {
-            "key": "tip_mind_control_hint_caster",
-            "value": "{0}を倒せば精神支配を解除できます。"
-        },
-        {
-            "key": "tip_mind_control_hint_turns",
-            "value": "精神支配は{1}の{0}ターン後に終了します。"
-        },
-        {
-            "key": "tip_mind_control_turn_owner_original",
-            "value": "元の所有者"
-        },
-        {
-            "key": "tip_mind_control_turn_owner_active",
-            "value": "アクティブプレイヤー"
-        },
-        {
-            "key": "tip_mind_control_turn_owner_controller",
-            "value": "コントローラー"
-        },
-        {
-            "key": "tip_swap_slots_base",
-            "value": "{0}が{1}と{2}の位置を入れ替えた。"
-        },
-        {
-            "key": "tip_swap_slots_ability",
-            "value": "使用した能力: {0}"
-        },
-        {
-            "key": "tip_unknown_card",
-            "value": "不明なカード"
-        },
-        {
-            "key": "collection.create_new_deck",
-            "value": "新しいデッキを作成"
-        },
-        {
-            "key": "tip_ability_destroyed",
-            "value": "あなたの{0}は{1}の能力で破壊されました！\n\n能力: {2}"
-        },
-        {
-            "key": "tip_armor_message",
-            "value": "敵は装甲を持つモンスターをプレイしました！ 攻撃から受けるダメージが減少します。"
-        },
-        {
-            "key": "tip_characterabilityimmunity_message",
-            "value": "敵は能力無効のモンスターをプレイしました！ 対象を必要とするキャラクター能力は効きませんが、妖精パワーは有効です。"
-        },
-        {
-            "key": "tip_deathtouch_message",
-            "value": "敵はデスタッチのモンスターをプレイしました！ それがダメージを与えたキャラクターは破壊されます。"
-        },
-        {
-            "key": "tip_flying_message",
-            "value": "敵は飛行モンスターをプレイしました！ 挑発ブロッカーを無視できます。"
-        },
-        {
-            "key": "tip_fury_message",
-            "value": "敵は激昂のモンスターをプレイしました！ 各ターンに2回攻撃できます。"
-        },
-        {
-            "key": "tip_heropower_message",
-            "value": "敵は{0}で妖精パワーを使用しました！\n \n 能力：{1}"
-        },
-        {
-            "key": "tip_intimidate_message",
-            "value": "敵は威圧のモンスターをプレイしました！ 攻撃時にダメージを受けません。"
-        },
-        {
-            "key": "tip_invincibility_message",
-            "value": "敵は無敵のモンスターをプレイしました！ 数ターンの間、攻撃されません。"
-        },
-        {
-            "key": "tip_lifesteal_message",
-            "value": "敵はライフスティールのモンスターをプレイしました！ 戦闘ダメージを与えると回復します。"
-        },
-        {
-            "key": "tip_overkill_message",
-            "value": "敵はオーバーキルのモンスターをプレイしました！ 余剰ダメージで自身が回復します。"
-        },
-        {
-            "key": "tip_shell_message",
-            "value": "敵はシェル持ちモンスターをプレイしました！ 最初に受けるダメージは無視されます。"
-        },
-        {
-            "key": "tip_spellimmunity_message",
-            "value": "敵は呪文無効のモンスターをプレイしました！ 呪文で対象にもダメージにもできませんが、対象を取らずに破壊する呪文は有効です。"
-        },
-        {
-            "key": "tip_status_generic",
-            "value": "あなたのモンスターは{0}になりました！\n\n説明: {1}"
-        },
-        {
-            "key": "tip_status_sleep",
-            "value": "あなたのモンスターは眠らされました！\n\n説明: {0}"
-        },
-        {
-            "key": "tip_stealth_message",
-            "value": "敵はステルスのモンスターをプレイしました！ 行動するまで攻撃も対象指定もできません。"
-        },
-        {
-            "key": "tip_taunt_message",
-            "value": "敵は挑発のモンスターをプレイしました！ 他の敵より先にそれを攻撃しなければなりません。"
-        },
-        {
-            "key": "tip_trample_message",
-            "value": "敵はトランプルのモンスターをプレイしました！ あなたのモンスターに与えた余剰ダメージはあなたに通ります。"
-        },
-        {
-            "key": "tip_transform_into_with_trigger",
-            "value": "「変身先」は捨てられたカードをコピーします。対象のカードは{1}に変身したため、今は{0}です。"
-        },
-        {
-            "key": "tip_transform_into_without_trigger",
-            "value": "「変身先」は捨てられたカードをコピーします。対象のカードは、能力を誘発させた捨て札に変身したため、今は{0}です。"
-        },
-        {
-            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
-            "value": "自分のジャガーの1体を敵の上にドラッグして攻撃しましょう。"
-        },
-        {
-            "key": "before_they_destroy_yours",
-            "value": "相手にあなたのものを壊される前に"
-        },
-        {
-            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
-            "value": "ただし、すでに場にいるモンスターで攻撃は可能です。"
-        },
-        {
-            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
-            "value": "マナ・コストはカードの角に表示されています。"
-        },
-        {
-            "key": "opponent",
-            "value": "相手"
-        },
-        {
-            "key": "to_play_cards_you_must_spend_mana",
-            "value": "カードをプレイするにはマナを消費します。"
-        },
-        {
-            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
-            "value": "カードをボードの空いているマスへドラッグしてプレイしてみましょう。"
-        },
-        {
-            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
-            "value": "手札で緑にハイライトされているカードはプレイ可能です。"
-        },
-        {
-            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
-            "value": "ターンが終わったら「ターン終了」をクリックしてください。"
-        },
-        {
-            "key": "you_have_two_choices.",
-            "value": "選択肢は2つあります。"
-        },
-        {
-            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
-            "value": "Fracctal TCG チュートリアルへようこそ"
-        },
-        {
-            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
-            "value": "Fracctal TCG チュートリアルへようこそ"
-        },
-        {
-            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
-            "value": "ランク制マルチプレイヤーで他のプレイヤーと戦おう。\n  \n   画面上部のナビゲーションバーにあるボタンからPvPランキングを確認できます。 "
-        },
-        {
-            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
-            "value": "トーナメントモードで、毎日開催される自動トーナメントに他のプレイヤーと参加しよう。\n  \n  この競技でエッセンス通貨、アカウントXP、パック、そしてギルドポイントを獲得しよう！"
-        },
-        {
-            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
-            "value": "ボード上の空きマスの1つにドラッグしてカードを出してみましょう。\n\n 手札で緑にハイライトされているカードはプレイできます。"
         },
         {
             "key": "modal.version_warning_message",
@@ -2507,6 +2479,30 @@
         {
             "key": "deckbuilder.error.save_failed.title",
             "value": "保存に失敗しました"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Fracctal TCG チュートリアルへようこそ"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Fracctal TCG チュートリアルへようこそ"
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "手札で緑にハイライトされているカードはプレイ可能です。"
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "選択肢は2つあります。"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "カードをボードの空いているマスへドラッグしてプレイしてみましょう。"
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "トーナメントモードで、毎日開催される自動トーナメントに他のプレイヤーと参加しよう。\n  \n  この競技でエッセンス通貨、アカウントXP、パック、そしてギルドポイントを獲得しよう！"
         }
     ]
 }

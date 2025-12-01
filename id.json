@@ -2413,6 +2413,10 @@
             "value": "Peri Air memungkinkanmu menghabiskan {0} poin elemen untuk menarik 1 kartu dari dekmu.\n\nGunakan saat kartu di tanganmu menipis atau kamu mencari kartu penting."
         },
         {
+            "key": "tip_start_turn_status_destroyed",
+            "value": "Kartu {0} milikmu dihancurkan oleh {1}, sehingga kemampuan \"Saat Giliran Dimulai\"{2} tidak terjadi."
+        },
+        {
             "key": "tip_adventure_board_card_message_single",
             "value": "Permainan biasanya dimulai tanpa kartu papan di lapangan, tetapi untuk memandu Anda melalui tutorial petualangan, {0} ada di sini untuk membantu!"
         },
@@ -2475,6 +2479,30 @@
         {
             "key": "deckbuilder.error.save_failed.title",
             "value": "GAGAL MENYIMPAN"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Selamat datang di tutorial Fracctal TCG"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Selamat datang di tutorial Fracctal TCG"
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Kartu apa pun di tanganmu yang disorot hijau bisa dimainkan."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "Kamu punya dua pilihan."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "Coba mainkan kartu dengan menyeretnya ke salah satu ruang kosong di papan."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "IKUTI TURNAMEN OTOMATIS HARIAN MELAWAN PEMAIN LAIN DI MODE TURNAMEN KAMI.\n  DAPATKAN MATA UANG ESSENCE, XP AKUN, PAK DAN POIN GUILD DALAM KOMPETISI INI!"
         }
     ]
 }
