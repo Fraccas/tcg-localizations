@@ -2503,6 +2503,86 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "COMPITE EN TORNEOS AUTOMÁTICOS DIARIOS CONTRA OTROS JUGADORES EN NUESTRO MODO TORNEO.\n  \n  ¡GANA MONEDA DE ESENCIA, XP DE CUENTA, SOBRES Y PUNTOS DE GREMIO EN ESTAS COMPETICIONES!"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "LUCHA CONTRA OTROS JUGADORES EN EL MULTIJUGADOR CLASIFICATORIO.\n  \n   Puedes consultar tu clasificación PvP con el botón en la parte superior de la barra de navegación. "
+        },
+        {
+            "key": "main_menu.tournament_countdown_minute",
+            "value": "El próximo torneo comienza en 1 minuto"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minutes",
+            "value": "El próximo torneo comienza en {0} minutos"
+        },
+        {
+            "key": "main_menu.tournament_countdown_second",
+            "value": "El próximo torneo comienza en 1 segundo"
+        },
+        {
+            "key": "main_menu.tournament_countdown_seconds",
+            "value": "El próximo torneo comienza en {0} segundos"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hour",
+            "value": "El próximo torneo comienza en 1 hora"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hours",
+            "value": "El próximo torneo comienza en {0} horas"
+        },
+        {
+            "key": "deck.error.empty",
+            "value": "EL MAZO ESTÁ VACÍO."
+        },
+        {
+            "key": "deck.error.invalid_size",
+            "value": "TU MAZO DEBE CONTENER EXACTAMENTE {0} CARTAS."
+        },
+        {
+            "key": "deck.error.missing_cards",
+            "value": "NO POSEES LAS CARTAS NECESARIAS PARA ESTE MAZO."
+        },
+        {
+            "key": "deck.error.missing_hero",
+            "value": "POR FAVOR, SELECCIONA UN HÉROE."
+        },
+        {
+            "key": "deck.error.missing_id",
+            "value": "FALTA LA ID DEL MAZO."
+        },
+        {
+            "key": "deck.error.missing_name",
+            "value": "POR FAVOR, INGRESA UN NOMBRE PARA EL MAZO."
+        },
+        {
+            "key": "deck.error.too_many_teams",
+            "value": "SOLO PUEDES USAR HASTA DOS EQUIPOS POR MAZO."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.message",
+            "value": "NO PODRÁS USAR ESTE MAZO EN COMBATE HASTA QUE CONTENGA EXACTAMENTE {0} CARTAS."
+        },
+        {
+            "key": "deckbuilder.error.invalid_size.title",
+            "value": "TAMAÑO DE MAZO INVÁLIDO"
+        },
+        {
+            "key": "deckbuilder.error.missing_power.message",
+            "value": "DEBES SELECCIONAR UN PODER DE HADA ANTES DE GUARDAR EL MAZO."
+        },
+        {
+            "key": "deckbuilder.error.missing_power.title",
+            "value": "PODER FALTANTE"
+        },
+        {
+            "key": "deckbuilder.error.save_failed.message",
+            "value": "NO SE PUDO GUARDAR TU MAZO. INTÉNTALO NUEVAMENTE."
+        },
+        {
+            "key": "deckbuilder.error.save_failed.title",
+            "value": "ERROR AL GUARDAR"
         }
     ]
 }

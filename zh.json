@@ -2503,6 +2503,10 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "在我们的锦标赛模式中，每日参加自动锦标赛，与其他玩家竞争。\n\n在这些比赛中赢取精华货币、账号经验、卡包和公会点数！"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "在排位多人模式中与其他玩家对战。\n\n你可以通过导航栏顶部的按钮查看你的 PvP 排名。"
         }
     ]
 }

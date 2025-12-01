@@ -2503,6 +2503,10 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "COMPITA DIARIAMENTE EM TORNEIOS AUTOMATIZADOS CONTRA OUTROS JOGADORES NO NOSSO MODO TORNEIO.\n  \n  GANHE MOEDA DE ESSÊNCIA, XP DE CONTA, PACOTES E PONTOS DA GUILDA NESTAS COMPETIÇÕES!"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "LUTE CONTRA OUTROS JOGADORES NO MULTIJOGADOR RANQUEADO.\n  \n   Você pode verificar seu ranque PvP usando o botão no topo da barra de navegação. "
         }
     ]
 }

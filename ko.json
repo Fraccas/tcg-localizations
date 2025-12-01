@@ -2503,6 +2503,10 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "토너먼트 모드에서 매일 열리는 자동 토너먼트에 참가하여 다른 플레이어와 경쟁하세요.\n  \n  이 대회에서 에센스 화폐, 계정 XP, 팩, 길드 포인트를 획득하세요!"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "랭크 멀티플레이에서 다른 플레이어와 대결하세요.\n  \n   내비게이션 바 상단의 버튼으로 PvP 순위를 확인할 수 있습니다. "
         }
     ]
 }

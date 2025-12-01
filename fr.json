@@ -2503,6 +2503,10 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "PARTICIPEZ QUOTIDIENNEMENT À DES TOURNOIS AUTOMATISÉS CONTRE D’AUTRES JOUEURS DANS NOTRE MODE TOURNOI.\n  \n  GAGNEZ DE L’ESSENCE, DE L’XP DE COMPTE, DES PAQUETS ET DES POINTS DE GUILDE DANS CES COMPÉTITIONS !"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "AFFRONTEZ D’AUTRES JOUEURS EN MULTIJOUEUR CLASSÉ.\n  \n   Vous pouvez consulter votre classement JcJ avec le bouton en haut de la barre de navigation. "
         }
     ]
 }

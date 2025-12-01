@@ -2503,6 +2503,10 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "トーナメントモードで、毎日開催される自動トーナメントに他のプレイヤーと参加しよう。\n  \n  この競技でエッセンス通貨、アカウントXP、パック、そしてギルドポイントを獲得しよう！"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "ランク制マルチプレイヤーで他のプレイヤーと戦おう。\n  \n   画面上部のナビゲーションバーにあるボタンからPvPランキングを確認できます。 "
         }
     ]
 }
