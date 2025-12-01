@@ -197,6 +197,10 @@
             "value": "TOTAL DE ACTIVOS"
         },
         {
+            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
+            "value": "Ataca arrastrando uno de tus Jagur sobre un enemigo."
+        },
+        {
             "key": "audio",
             "value": "Audio"
         },
@@ -221,6 +225,10 @@
             "value": "Recompensas del pase de batalla"
         },
         {
+            "key": "before_they_destroy_yours",
+            "value": "Antes de que destruyan el tuyo"
+        },
+        {
             "key": "block",
             "value": "BLOQUEAR"
         },
@@ -243,6 +251,10 @@
         {
             "key": "built_with",
             "value": "CONSTRUIDO CON"
+        },
+        {
+            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
+            "value": "Pero sin duda puedes atacar con los monstruos que ya están en juego."
         },
         {
             "key": "buy",
@@ -359,6 +371,10 @@
         {
             "key": "collection",
             "value": "Colección"
+        },
+        {
+            "key": "collection.create_new_deck",
+            "value": "CREAR NUEVO MAZO"
         },
         {
             "key": "common",
@@ -837,6 +853,10 @@
             "value": "KK HONEY"
         },
         {
+            "key": "language",
+            "value": "idioma"
+        },
+        {
             "key": "leaderboard_is_not_available_in_test_mode._install_the_web_api_server_to_use_this_feature.",
             "value": "La tabla de líderes no está disponible en modo de prueba.\n Instala el servidor de API web para usar esta función."
         },
@@ -883,6 +903,10 @@
         {
             "key": "logout",
             "value": "CERRAR SESIÓN"
+        },
+        {
+            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
+            "value": "El coste de maná se indica en la esquina de la carta."
         },
         {
             "key": "marc",
@@ -991,6 +1015,10 @@
         {
             "key": "open_packs",
             "value": "ABRIR PAQUETES"
+        },
+        {
+            "key": "opponent",
+            "value": "Oponente"
         },
         {
             "key": "optin",
@@ -1127,6 +1155,86 @@
         {
             "key": "quantity",
             "value": "CANTIDAD"
+        },
+        {
+            "key": "quick_chat.close_game",
+            "value": "¡Partida ajustada!"
+        },
+        {
+            "key": "quick_chat.close_one",
+            "value": "¡Por poco!"
+        },
+        {
+            "key": "quick_chat.glhf",
+            "value": "GLHF!"
+        },
+        {
+            "key": "quick_chat.gm",
+            "value": "GM!"
+        },
+        {
+            "key": "quick_chat.good_game",
+            "value": "¡Buena partida!"
+        },
+        {
+            "key": "quick_chat.great_battle",
+            "value": "¡Gran batalla!"
+        },
+        {
+            "key": "quick_chat.hello",
+            "value": "¡Hola!"
+        },
+        {
+            "key": "quick_chat.lets_battle",
+            "value": "¡A luchar!"
+        },
+        {
+            "key": "quick_chat.lets_fight",
+            "value": "¡Luchemos!"
+        },
+        {
+            "key": "quick_chat.lets_go",
+            "value": "¡Vamos!"
+        },
+        {
+            "key": "quick_chat.lets_have_fun",
+            "value": "¡Divirtámonos!"
+        },
+        {
+            "key": "quick_chat.nice_move",
+            "value": "¡Buen movimiento!"
+        },
+        {
+            "key": "quick_chat.oops",
+            "value": "¡Ups!"
+        },
+        {
+            "key": "quick_chat.placeholder",
+            "value": "Selecciona una opción de chat rápido..."
+        },
+        {
+            "key": "quick_chat.respect",
+            "value": "Respeto"
+        },
+        {
+            "key": "quick_chat.rip",
+            "value": "RIP"
+        },
+        {
+            "key": "quick_chat.rip_gg",
+            "value": "RIP GG"
+        },
+        {
+            "key": "quick_chat.thanks",
+            "value": "¡Gracias!"
+        },
+        {
+            "key": "quick_chat.well_played",
+            "value": "¡Bien jugado!"
+        },
+        {
+            "key": "quick_chat.what_a_battle",
+            "value": "¡Qué batalla!"
         },
         {
             "key": "quit",
@@ -1345,6 +1453,118 @@
             "value": "Título de Estado"
         },
         {
+            "key": "statusline.evolution_description",
+            "value": "LA CARTA EVOLUCIONARÁ EN {0} TURNOS"
+        },
+        {
+            "key": "statusline.evolution_title",
+            "value": "EVOLUCIÓN"
+        },
+        {
+            "key": "statusline.mind_control.desc_currently_controlled",
+            "value": "Esta carta está actualmente bajo control mental."
+        },
+        {
+            "key": "statusline.mind_control.desc_double_condition",
+            "value": "El control regresa a su propietario original {0} o {1}."
+        },
+        {
+            "key": "statusline.mind_control.desc_fallback_timed",
+            "value": "Esta carta está actualmente bajo control mental y regresará en {0} {1}."
+        },
+        {
+            "key": "statusline.mind_control.desc_multiple_conditions",
+            "value": "El control regresa a su propietario original {0}, o {1}."
+        },
+        {
+            "key": "statusline.mind_control.desc_single_condition",
+            "value": "El control regresa a su propietario original {0}."
+        },
+        {
+            "key": "statusline.mind_control.list_separator",
+            "value": ", "
+        },
+        {
+            "key": "statusline.mind_control.owner_active",
+            "value": "del jugador activo"
+        },
+        {
+            "key": "statusline.mind_control.owner_controller",
+            "value": "del controlador"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent",
+            "value": "de tu oponente"
+        },
+        {
+            "key": "statusline.mind_control.owner_opponent_label",
+            "value": "Oponente"
+        },
+        {
+            "key": "statusline.mind_control.owner_original",
+            "value": "del propietario original"
+        },
+        {
+            "key": "statusline.mind_control.owner_player_number",
+            "value": "Jugador {0}"
+        },
+        {
+            "key": "statusline.mind_control.owner_prefix",
+            "value": "<color=orange>Propietario original: {0}</color>"
+        },
+        {
+            "key": "statusline.mind_control.owner_you",
+            "value": "Tú"
+        },
+        {
+            "key": "statusline.mind_control.owner_your",
+            "value": "tu"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format",
+            "value": "de {0}"
+        },
+        {
+            "key": "statusline.mind_control.possessive_format_s",
+            "value": "de {0}"
+        },
+        {
+            "key": "statusline.mind_control.possessive_pronoun",
+            "value": "su"
+        },
+        {
+            "key": "statusline.mind_control.release_caster_leaves",
+            "value": "cuando el lanzador abandona el juego"
+        },
+        {
+            "key": "statusline.mind_control.release_if_evolves",
+            "value": "si evoluciona"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_remaining",
+            "value": "después de {0} de {1} {2}"
+        },
+        {
+            "key": "statusline.mind_control.turn_condition_zero",
+            "value": "una vez que termine el próximo turno de {0}"
+        },
+        {
+            "key": "statusline.mind_control.turn_plural",
+            "value": "turnos"
+        },
+        {
+            "key": "statusline.mind_control.turn_singular",
+            "value": "turno"
+        },
+        {
+            "key": "statusline.mind_control_title",
+            "value": "CONTROL MENTAL"
+        },
+        {
+            "key": "statusline.trait_label",
+            "value": "RASGO: {0}"
+        },
+        {
             "key": "submit",
             "value": "ENVIAR"
         },
@@ -1381,8 +1601,144 @@
             "value": "TORNEO DE PRUEBA"
         },
         {
+            "key": "tip_ability_destroyed",
+            "value": "¡Tu {0} fue destruido por la habilidad de {1}!\n \n Descripción de la habilidad: {2}"
+        },
+        {
+            "key": "tip_armor_message",
+            "value": "¡El enemigo jugó un monstruo con armadura! Recibe menos daño de los ataques."
+        },
+        {
+            "key": "tip_characterabilityimmunity_message",
+            "value": "¡El enemigo jugó un monstruo inmune a habilidades! Las habilidades de personaje que requieren objetivo no le afectan, pero los poderes de hada sí."
+        },
+        {
+            "key": "tip_deathtouch_message",
+            "value": "¡El enemigo jugó un monstruo con toque mortal! Cualquier personaje al que dañe será destruido."
+        },
+        {
+            "key": "tip_flying_message",
+            "value": "¡El enemigo jugó un monstruo volador! Puede ignorar a los bloqueadores con provocación."
+        },
+        {
+            "key": "tip_fury_message",
+            "value": "¡El enemigo jugó un monstruo furioso! Puede atacar dos veces por turno."
+        },
+        {
+            "key": "tip_heropower_message",
+            "value": "¡El enemigo usó su poder de hada con {0}!\n \n Habilidad: {1}"
+        },
+        {
+            "key": "tip_intimidate_message",
+            "value": "¡El enemigo jugó un monstruo intimidante! No recibe daño al atacar."
+        },
+        {
+            "key": "tip_invincibility_message",
+            "value": "¡El enemigo jugó un monstruo invencible! No puede ser atacado durante algunos turnos."
+        },
+        {
+            "key": "tip_lifesteal_message",
+            "value": "¡El enemigo jugó un monstruo con robo de vida! Se cura al infligir daño de combate."
+        },
+        {
+            "key": "tip_mind_control_ability",
+            "value": "Habilidad de origen: {0}"
+        },
+        {
+            "key": "tip_mind_control_base",
+            "value": "¡{0} ha tomado el control de {1}! Luchará para {0} hasta que termine el efecto."
+        },
+        {
+            "key": "tip_mind_control_caster_fallback",
+            "value": "la fuente del hechizo"
+        },
+        {
+            "key": "tip_mind_control_evolution_return",
+            "value": "Si el monstruo controlado evoluciona y luego revierte, regresa a su dueño original."
+        },
+        {
+            "key": "tip_mind_control_hint_caster",
+            "value": "Derrota a {0} para romper el control mental."
+        },
+        {
+            "key": "tip_mind_control_hint_none",
+            "value": "No hay pistas de liberación disponibles. Observa otros efectos que puedan terminar el control."
+        },
+        {
+            "key": "tip_mind_control_hint_turns",
+            "value": "El control mental termina después de {0} turno(s) de {1}."
+        },
+        {
+            "key": "tip_mind_control_turn_owner_active",
+            "value": "el jugador activo"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_controller",
+            "value": "el controlador"
+        },
+        {
+            "key": "tip_mind_control_turn_owner_original",
+            "value": "el dueño original"
+        },
+        {
+            "key": "tip_overkill_message",
+            "value": "¡El enemigo jugó un monstruo con daño excedente! El daño sobrante lo cura."
+        },
+        {
+            "key": "tip_shell_message",
+            "value": "¡El enemigo jugó un monstruo con caparazón! El primer daño que recibiría se ignora."
+        },
+        {
+            "key": "tip_spellimmunity_message",
+            "value": "¡El enemigo jugó un monstruo inmune a hechizos! Los hechizos no pueden apuntarlo ni dañarlo, pero los que destruyen sin objetivo siguen funcionando."
+        },
+        {
+            "key": "tip_status_generic",
+            "value": "¡Tu monstruo ha sido {0}!\n \n Descripción: {1}"
+        },
+        {
+            "key": "tip_status_sleep",
+            "value": "¡Tu monstruo ha sido dormido!\n \n Descripción: {0}"
+        },
+        {
+            "key": "tip_stealth_message",
+            "value": "¡El enemigo jugó un monstruo sigiloso! No puedes atacarlo ni apuntarlo hasta que actúe."
+        },
+        {
+            "key": "tip_swap_slots_ability",
+            "value": "Habilidad usada: {0}"
+        },
+        {
+            "key": "tip_swap_slots_base",
+            "value": "{0} intercambió las posiciones de {1} y {2}."
+        },
+        {
+            "key": "tip_taunt_message",
+            "value": "¡El enemigo jugó un monstruo con provocación! Debes atacarlo antes que a otros enemigos."
+        },
+        {
+            "key": "tip_trample_message",
+            "value": "¡El enemigo jugó un monstruo con arrollar! El daño excedente que inflija a tus monstruos te golpeará a ti."
+        },
+        {
+            "key": "tip_transform_into_with_trigger",
+            "value": "Transformar En copia la carta descartada. La carta objetivo ahora es {0} porque se transformó en {1}."
+        },
+        {
+            "key": "tip_transform_into_without_trigger",
+            "value": "Transformar En copia la carta descartada. La carta objetivo ahora es {0} porque se transformó en la carta descartada que activó la habilidad."
+        },
+        {
+            "key": "tip_unknown_card",
+            "value": "Carta desconocida"
+        },
+        {
             "key": "title",
             "value": "Título"
+        },
+        {
+            "key": "to_play_cards_you_must_spend_mana",
+            "value": "Para jugar cartas debes gastar maná."
         },
         {
             "key": "total_earnings",
@@ -1411,6 +1767,10 @@
         {
             "key": "traps",
             "value": "Trampas"
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Prueba a jugar una carta arrastrándola a uno de los espacios vacíos del tablero.\n\n Cualquier carta en tu mano con resaltado verde se puede jugar."
         },
         {
             "key": "turn_6",
@@ -1473,6 +1833,38 @@
             "value": "TXN DE CONFIRMACIÓN DE BILLETERA"
         },
         {
+            "key": "warning.invalid_target",
+            "value": "Objetivo no válido"
+        },
+        {
+            "key": "warning.maximum_traps",
+            "value": "Máximo 5 trampas"
+        },
+        {
+            "key": "warning.no_more_actions",
+            "value": "No quedan acciones"
+        },
+        {
+            "key": "warning.not_enough_mana",
+            "value": "No hay suficiente maná"
+        },
+        {
+            "key": "warning.not_enough_team_points",
+            "value": "No hay suficientes puntos de equipo"
+        },
+        {
+            "key": "warning.not_your_turn",
+            "value": "No es tu turno"
+        },
+        {
+            "key": "warning.rush_cant_attack_player",
+            "value": "Las cartas Rush no pueden atacar a los jugadores en el turno en que se juegan"
+        },
+        {
+            "key": "warning.spell_immunity",
+            "value": "Inmunidad a hechizos"
+        },
+        {
             "key": "warning_text",
             "value": "Texto de Advertencia"
         },
@@ -1487,6 +1879,10 @@
         {
             "key": "when_a_new_player_uses_your_username_as_their_referral_code_they_will_receive_1_rare_pack_and_you_will_receive_a_rare_pack_every_time_they_level_up_their_account",
             "value": "Cuando un nuevo jugador usa tu nombre de usuario como su código de referido, recibirá 1 paquete raro y tú recibirás un paquete raro cada vez que suban de nivel su cuenta "
+        },
+        {
+            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
+            "value": "Cuando termines tu turno, haz clic en «Terminar turno»."
         },
         {
             "key": "win_3_ranked_matches",
@@ -1515,430 +1911,6 @@
         {
             "key": "zhamster",
             "value": "ZHAMSTER"
-        },
-        {
-            "key": "statusline.trait_label",
-            "value": "RASGO: {0}"
-        },
-        {
-            "key": "statusline.evolution_title",
-            "value": "EVOLUCIÓN"
-        },
-        {
-            "key": "statusline.evolution_description",
-            "value": "LA CARTA EVOLUCIONARÁ EN {0} TURNOS"
-        },
-        {
-            "key": "statusline.mind_control_title",
-            "value": "CONTROL MENTAL"
-        },
-        {
-            "key": "statusline.mind_control.owner_prefix",
-            "value": "<color=orange>Propietario original: {0}</color>"
-        },
-        {
-            "key": "statusline.mind_control.release_caster_leaves",
-            "value": "cuando el lanzador abandona el juego"
-        },
-        {
-            "key": "statusline.mind_control.release_if_evolves",
-            "value": "si evoluciona"
-        },
-        {
-            "key": "statusline.mind_control.desc_currently_controlled",
-            "value": "Esta carta está actualmente bajo control mental."
-        },
-        {
-            "key": "statusline.mind_control.desc_single_condition",
-            "value": "El control regresa a su propietario original {0}."
-        },
-        {
-            "key": "statusline.mind_control.desc_double_condition",
-            "value": "El control regresa a su propietario original {0} o {1}."
-        },
-        {
-            "key": "statusline.mind_control.desc_multiple_conditions",
-            "value": "El control regresa a su propietario original {0}, o {1}."
-        },
-        {
-            "key": "statusline.mind_control.desc_fallback_timed",
-            "value": "Esta carta está actualmente bajo control mental y regresará en {0} {1}."
-        },
-        {
-            "key": "statusline.mind_control.turn_condition_zero",
-            "value": "una vez que termine el próximo turno de {0}"
-        },
-        {
-            "key": "statusline.mind_control.turn_condition_remaining",
-            "value": "después de {0} de {1} {2}"
-        },
-        {
-            "key": "statusline.mind_control.turn_singular",
-            "value": "turno"
-        },
-        {
-            "key": "statusline.mind_control.turn_plural",
-            "value": "turnos"
-        },
-        {
-            "key": "statusline.mind_control.owner_active",
-            "value": "del jugador activo"
-        },
-        {
-            "key": "statusline.mind_control.owner_your",
-            "value": "tu"
-        },
-        {
-            "key": "statusline.mind_control.owner_opponent",
-            "value": "de tu oponente"
-        },
-        {
-            "key": "statusline.mind_control.owner_original",
-            "value": "del propietario original"
-        },
-        {
-            "key": "statusline.mind_control.owner_controller",
-            "value": "del controlador"
-        },
-        {
-            "key": "statusline.mind_control.owner_you",
-            "value": "Tú"
-        },
-        {
-            "key": "statusline.mind_control.owner_opponent_label",
-            "value": "Oponente"
-        },
-        {
-            "key": "statusline.mind_control.owner_player_number",
-            "value": "Jugador {0}"
-        },
-        {
-            "key": "statusline.mind_control.possessive_pronoun",
-            "value": "su"
-        },
-        {
-            "key": "statusline.mind_control.possessive_format",
-            "value": "de {0}"
-        },
-        {
-            "key": "statusline.mind_control.possessive_format_s",
-            "value": "de {0}"
-        },
-        {
-            "key": "statusline.mind_control.list_separator",
-            "value": ", "
-        },
-        {
-            "key": "language",
-            "value": "idioma"
-        },
-        {
-            "key": "warning.not_your_turn",
-            "value": "No es tu turno"
-        },
-        {
-            "key": "warning.no_more_actions",
-            "value": "No quedan acciones"
-        },
-        {
-            "key": "warning.rush_cant_attack_player",
-            "value": "Las cartas Rush no pueden atacar a los jugadores en el turno en que se juegan"
-        },
-        {
-            "key": "warning.not_enough_mana",
-            "value": "No hay suficiente maná"
-        },
-        {
-            "key": "warning.not_enough_team_points",
-            "value": "No hay suficientes puntos de equipo"
-        },
-        {
-            "key": "warning.maximum_traps",
-            "value": "Máximo 5 trampas"
-        },
-        {
-            "key": "warning.spell_immunity",
-            "value": "Inmunidad a hechizos"
-        },
-        {
-            "key": "warning.invalid_target",
-            "value": "Objetivo no válido"
-        },
-        {
-            "key": "quick_chat.placeholder",
-            "value": "Selecciona una opción de chat rápido..."
-        },
-        {
-            "key": "quick_chat.gm",
-            "value": "GM!"
-        },
-        {
-            "key": "quick_chat.hello",
-            "value": "¡Hola!"
-        },
-        {
-            "key": "quick_chat.glhf",
-            "value": "GLHF!"
-        },
-        {
-            "key": "quick_chat.lets_go",
-            "value": "¡Vamos!"
-        },
-        {
-            "key": "quick_chat.lets_battle",
-            "value": "¡A luchar!"
-        },
-        {
-            "key": "quick_chat.lets_fight",
-            "value": "¡Luchemos!"
-        },
-        {
-            "key": "quick_chat.lets_have_fun",
-            "value": "¡Divirtámonos!"
-        },
-        {
-            "key": "quick_chat.nice_move",
-            "value": "¡Buen movimiento!"
-        },
-        {
-            "key": "quick_chat.rip",
-            "value": "RIP"
-        },
-        {
-            "key": "quick_chat.rip_gg",
-            "value": "RIP GG"
-        },
-        {
-            "key": "quick_chat.oops",
-            "value": "¡Ups!"
-        },
-        {
-            "key": "quick_chat.thanks",
-            "value": "¡Gracias!"
-        },
-        {
-            "key": "quick_chat.good_game",
-            "value": "¡Buena partida!"
-        },
-        {
-            "key": "quick_chat.well_played",
-            "value": "¡Bien jugado!"
-        },
-        {
-            "key": "quick_chat.close_game",
-            "value": "¡Partida ajustada!"
-        },
-        {
-            "key": "quick_chat.close_one",
-            "value": "¡Por poco!"
-        },
-        {
-            "key": "quick_chat.great_battle",
-            "value": "¡Gran batalla!"
-        },
-        {
-            "key": "quick_chat.what_a_battle",
-            "value": "¡Qué batalla!"
-        },
-        {
-            "key": "quick_chat.respect",
-            "value": "Respeto"
-        },
-        {
-            "key": "collection.create_new_deck",
-            "value": "CREAR NUEVO MAZO"
-        },
-        {
-            "key": "tip_mind_control_base",
-            "value": "¡{0} ha tomado el control de {1}! Luchará para {0} hasta que termine el efecto."
-        },
-        {
-            "key": "tip_mind_control_ability",
-            "value": "Habilidad de origen: {0}"
-        },
-        {
-            "key": "tip_mind_control_evolution_return",
-            "value": "Si el monstruo controlado evoluciona y luego revierte, regresa a su dueño original."
-        },
-        {
-            "key": "tip_mind_control_hint_none",
-            "value": "No hay pistas de liberación disponibles. Observa otros efectos que puedan terminar el control."
-        },
-        {
-            "key": "tip_mind_control_caster_fallback",
-            "value": "la fuente del hechizo"
-        },
-        {
-            "key": "tip_mind_control_hint_caster",
-            "value": "Derrota a {0} para romper el control mental."
-        },
-        {
-            "key": "tip_mind_control_hint_turns",
-            "value": "El control mental termina después de {0} turno(s) de {1}."
-        },
-        {
-            "key": "tip_mind_control_turn_owner_original",
-            "value": "el dueño original"
-        },
-        {
-            "key": "tip_mind_control_turn_owner_active",
-            "value": "el jugador activo"
-        },
-        {
-            "key": "tip_mind_control_turn_owner_controller",
-            "value": "el controlador"
-        },
-        {
-            "key": "tip_swap_slots_base",
-            "value": "{0} intercambió las posiciones de {1} y {2}."
-        },
-        {
-            "key": "tip_swap_slots_ability",
-            "value": "Habilidad usada: {0}"
-        },
-        {
-            "key": "tip_unknown_card",
-            "value": "Carta desconocida"
-        },
-        {
-            "key": "tip_ability_destroyed",
-            "value": "¡Tu {0} fue destruido por la habilidad de {1}!\n \n Descripción de la habilidad: {2}"
-        },
-        {
-            "key": "tip_armor_message",
-            "value": "¡El enemigo jugó un monstruo con armadura! Recibe menos daño de los ataques."
-        },
-        {
-            "key": "tip_characterabilityimmunity_message",
-            "value": "¡El enemigo jugó un monstruo inmune a habilidades! Las habilidades de personaje que requieren objetivo no le afectan, pero los poderes de hada sí."
-        },
-        {
-            "key": "tip_deathtouch_message",
-            "value": "¡El enemigo jugó un monstruo con toque mortal! Cualquier personaje al que dañe será destruido."
-        },
-        {
-            "key": "tip_flying_message",
-            "value": "¡El enemigo jugó un monstruo volador! Puede ignorar a los bloqueadores con provocación."
-        },
-        {
-            "key": "tip_fury_message",
-            "value": "¡El enemigo jugó un monstruo furioso! Puede atacar dos veces por turno."
-        },
-        {
-            "key": "tip_heropower_message",
-            "value": "¡El enemigo usó su poder de hada con {0}!\n \n Habilidad: {1}"
-        },
-        {
-            "key": "tip_intimidate_message",
-            "value": "¡El enemigo jugó un monstruo intimidante! No recibe daño al atacar."
-        },
-        {
-            "key": "tip_invincibility_message",
-            "value": "¡El enemigo jugó un monstruo invencible! No puede ser atacado durante algunos turnos."
-        },
-        {
-            "key": "tip_lifesteal_message",
-            "value": "¡El enemigo jugó un monstruo con robo de vida! Se cura al infligir daño de combate."
-        },
-        {
-            "key": "tip_overkill_message",
-            "value": "¡El enemigo jugó un monstruo con daño excedente! El daño sobrante lo cura."
-        },
-        {
-            "key": "tip_shell_message",
-            "value": "¡El enemigo jugó un monstruo con caparazón! El primer daño que recibiría se ignora."
-        },
-        {
-            "key": "tip_spellimmunity_message",
-            "value": "¡El enemigo jugó un monstruo inmune a hechizos! Los hechizos no pueden apuntarlo ni dañarlo, pero los que destruyen sin objetivo siguen funcionando."
-        },
-        {
-            "key": "tip_status_generic",
-            "value": "¡Tu monstruo ha sido {0}!\n \n Descripción: {1}"
-        },
-        {
-            "key": "tip_status_sleep",
-            "value": "¡Tu monstruo ha sido dormido!\n \n Descripción: {0}"
-        },
-        {
-            "key": "tip_stealth_message",
-            "value": "¡El enemigo jugó un monstruo sigiloso! No puedes atacarlo ni apuntarlo hasta que actúe."
-        },
-        {
-            "key": "tip_taunt_message",
-            "value": "¡El enemigo jugó un monstruo con provocación! Debes atacarlo antes que a otros enemigos."
-        },
-        {
-            "key": "tip_trample_message",
-            "value": "¡El enemigo jugó un monstruo con arrollar! El daño excedente que inflija a tus monstruos te golpeará a ti."
-        },
-        {
-            "key": "tip_transform_into_with_trigger",
-            "value": "Transformar En copia la carta descartada. La carta objetivo ahora es {0} porque se transformó en {1}."
-        },
-        {
-            "key": "tip_transform_into_without_trigger",
-            "value": "Transformar En copia la carta descartada. La carta objetivo ahora es {0} porque se transformó en la carta descartada que activó la habilidad."
-        },
-        {
-            "key": "attack_by_dragging_one_of_your_jagur_on_an_enemy.",
-            "value": "Ataca arrastrando uno de tus Jagur sobre un enemigo."
-        },
-        {
-            "key": "before_they_destroy_yours",
-            "value": "Antes de que destruyan el tuyo"
-        },
-        {
-            "key": "but_you_can_certainly_attack_with_the_monsters_that_were_already_in_play.",
-            "value": "Pero sin duda puedes atacar con los monstruos que ya están en juego."
-        },
-        {
-            "key": "mana_cost_is_indicated_in_the_corner_of_the_card.",
-            "value": "El coste de maná se indica en la esquina de la carta."
-        },
-        {
-            "key": "opponent",
-            "value": "Oponente"
-        },
-        {
-            "key": "to_play_cards_you_must_spend_mana",
-            "value": "Para jugar cartas debes gastar maná."
-        },
-        {
-            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
-            "value": "Prueba a jugar una carta arrastrándola a uno de los espacios vacíos del tablero."
-        },
-        {
-            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
-            "value": "Cualquier carta de tu mano con resaltado verde puede jugarse."
-        },
-        {
-            "key": "when_you_are_done_with_your_turn._click_on_end_turn",
-            "value": "Cuando termines tu turno, haz clic en «Terminar turno»."
-        },
-        {
-            "key": "you_have_two_choices.",
-            "value": "Tienes dos opciones."
-        },
-        {
-            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
-            "value": "Bienvenido al tutorial de Fracctal TCG"
-        },
-        {
-            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
-            "value": "Bienvenido al tutorial de Fracctal TCG"
-        },
-        {
-            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
-            "value": "LUCHA CONTRA OTROS JUGADORES EN EL MULTIJUGADOR CLASIFICATORIO.\n  \n   Puedes consultar tu clasificación PvP con el botón en la parte superior de la barra de navegación. "
-        },
-        {
-            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
-            "value": "COMPITE EN TORNEOS AUTOMÁTICOS DIARIOS CONTRA OTROS JUGADORES EN NUESTRO MODO TORNEO.\n  \n  ¡GANA MONEDA DE ESENCIA, XP DE CUENTA, SOBRES Y PUNTOS DE GREMIO EN ESTAS COMPETICIONES!"
-        },
-        {
-            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board._any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
-            "value": "Prueba a jugar una carta arrastrándola a uno de los espacios vacíos del tablero.\n\n Cualquier carta en tu mano con resaltado verde se puede jugar."
         },
         {
             "key": "modal.version_warning_message",
@@ -2357,30 +2329,6 @@
             "value": "El próximo torneo comienza en {0} horas"
         },
         {
-            "key": "main_menu.tournament_countdown_minute",
-            "value": "El próximo torneo comienza en 1 minuto"
-        },
-        {
-            "key": "main_menu.tournament_countdown_minutes",
-            "value": "El próximo torneo comienza en {0} minutos"
-        },
-        {
-            "key": "main_menu.tournament_countdown_second",
-            "value": "El próximo torneo comienza en 1 segundo"
-        },
-        {
-            "key": "main_menu.tournament_countdown_seconds",
-            "value": "El próximo torneo comienza en {0} segundos"
-        },
-        {
-            "key": "main_menu.tournament_countdown_hour",
-            "value": "El próximo torneo comienza en 1 hora"
-        },
-        {
-            "key": "main_menu.tournament_countdown_hours",
-            "value": "El próximo torneo comienza en {0} horas"
-        },
-        {
             "key": "shop",
             "value": "Tienda"
         },
@@ -2531,6 +2479,58 @@
         {
             "key": "deckbuilder.error.save_failed.title",
             "value": "ERROR AL GUARDAR"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Bienvenido al tutorial de Fracctal TCG"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Bienvenido al tutorial de Fracctal TCG"
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Cualquier carta de tu mano con resaltado verde puede jugarse."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "Tienes dos opciones."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "Prueba a jugar una carta arrastrándola a uno de los espacios vacíos del tablero."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "COMPITE EN TORNEOS AUTOMÁTICOS DIARIOS CONTRA OTROS JUGADORES EN NUESTRO MODO TORNEO.\n  \n  ¡GANA MONEDA DE ESENCIA, XP DE CUENTA, SOBRES Y PUNTOS DE GREMIO EN ESTAS COMPETICIONES!"
+        },
+        {
+            "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
+            "value": "LUCHA CONTRA OTROS JUGADORES EN EL MULTIJUGADOR CLASIFICATORIO.\n  \n   Puedes consultar tu clasificación PvP con el botón en la parte superior de la barra de navegación. "
+        },
+        {
+            "key": "main_menu.tournament_countdown_minute",
+            "value": "El próximo torneo comienza en 1 minuto"
+        },
+        {
+            "key": "main_menu.tournament_countdown_minutes",
+            "value": "El próximo torneo comienza en {0} minutos"
+        },
+        {
+            "key": "main_menu.tournament_countdown_second",
+            "value": "El próximo torneo comienza en 1 segundo"
+        },
+        {
+            "key": "main_menu.tournament_countdown_seconds",
+            "value": "El próximo torneo comienza en {0} segundos"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hour",
+            "value": "El próximo torneo comienza en 1 hora"
+        },
+        {
+            "key": "main_menu.tournament_countdown_hours",
+            "value": "El próximo torneo comienza en {0} horas"
         },
         {
             "key": "deck.error.empty",

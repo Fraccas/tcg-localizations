@@ -190,7 +190,7 @@
         },
         {
             "key": "asset_forger",
-        "value": "KOWAL AKTYWÓW"
+            "value": "KOWAL AKTYWÓW"
         },
         {
             "key": "asstes_total",
@@ -2479,6 +2479,30 @@
         {
             "key": "deckbuilder.error.save_failed.title",
             "value": "ZAPISANIE NIE POWIODŁO SIĘ"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_a",
+            "value": "Witamy w samouczku Fracctal TCG"
+        },
+        {
+            "key": "welcome_to_fracctal_tcg_tutorial_banner_b",
+            "value": "Witamy w samouczku Fracctal TCG"
+        },
+        {
+            "key": "any_card_in_your_hand_that_has_a_green_highlight_can_be_played.",
+            "value": "Każdą kartę w twojej ręce z zielonym podświetleniem można zagrać."
+        },
+        {
+            "key": "you_have_two_choices.",
+            "value": "Masz dwie możliwości."
+        },
+        {
+            "key": "try_playing_a_card_by_dragging_it_on_one_of_the_empty_spaces_on_the_board.",
+            "value": "Spróbuj zagrać kartę, przeciągając ją na jedno z pustych pól na planszy."
+        },
+        {
+            "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
+            "value": "BIERZ UDZIAŁ W CODZIENNYCH AUTOMATYCZNYCH TURNIEJACH PRZECIWKO INNYM GRACZOM W NASZYM TRYBIE TURNIEJOWYM.\n  ZDOBYWAJ WALUTĘ ESSENCE, PD KONTA, PAKIETY I PUNKTY GILDII W TYCH ROZGRYWKACH!"
         }
     ]
 }
