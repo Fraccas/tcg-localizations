@@ -18,7 +18,7 @@
         },
         {
             "key": "card.astor.text",
-            "value": "Shell\nAt the start of each turn, gain 1 armor. "
+            "value": "At the start of each turn, gain 1 armor. "
         },
         {
             "key": "card.astroguin.text",
@@ -306,7 +306,7 @@
         },
         {
             "key": "card.gamud.text",
-            "value": "Once per turn, when taking damage and surviving, draw a card."
+            "value": "When taking damage and surviving, draw a card."
         },
         {
             "key": "card.gargarm.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.gorupt.text",
-            "value": "<b>Play:</b> Damage all by 2."
+            "value": "<b>Play:</b> Damage all other cards by 2."
         },
         {
             "key": "card.gracelia.text",
@@ -646,7 +646,7 @@
         },
         {
             "key": "card.operant.text",
-            "value": "Enrage\n<b>Play:</b> Deal 1 damage to card on the board.\n"
+            "value": "Enrage\n<b>Play:</b> Deal 1 damage to all cards on the board.\n"
         },
         {
             "key": "card.ophala.text",
@@ -1086,7 +1086,7 @@
         },
         {
             "key": "card.terrastrus.text",
-            "value": "Enrage\n<b>Play:</b> Deal 1 damage to all other cards in play, then heal all ally cards by 1 HP."
+            "value": "Enrage\n<b>Play:</b> Deal 1 damage to all cards in play, then heal all ally cards by 1 HP."
         },
         {
             "key": "card.town_darkwoods_shadow.text",
@@ -1202,7 +1202,7 @@
         },
         {
             "key": "card.vulkong.text",
-            "value": "<b>Play:</b> Damage all by 1."
+            "value": "<b>Play:</b> Damage all other cards by 1."
         },
         {
             "key": "card.waazu.text",

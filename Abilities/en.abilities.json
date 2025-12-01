@@ -1250,18 +1250,34 @@
         },
         {
             "key": "ability.play_damage_all1.desc",
-            "value": "On play, deal 1 damage to all other cards."
+            "value": "On play, deal 1 damage to all cards on the board."
         },
         {
             "key": "ability.play_damage_all1.title",
             "value": "Damage All"
         },
         {
+            "key": "ability.play_damage_all1_not_self.desc",
+            "value": "On play, deal 1 damage to all cards on the board."
+        },
+        {
+            "key": "ability.play_damage_all1_not_self.title",
+            "value": "Damage All"
+        },
+        {
             "key": "ability.play_damage_all2.desc",
-            "value": "On play, deal 2 damage to all other cards."
+            "value": "On play, deal 2 damage to all cards."
         },
         {
             "key": "ability.play_damage_all2.title",
+            "value": "Damage"
+        },
+        {
+            "key": "ability.play_damage_all2_not_self.desc",
+            "value": "On play, deal 2 damage to all other cards."
+        },
+        {
+            "key": "ability.play_damage_all2_not_self.title",
             "value": "Damage"
         },
         {
@@ -1294,6 +1310,14 @@
         },
         {
             "key": "ability.play_deal_damage1.title",
+            "value": "Damage"
+        },
+        {
+            "key": "ability.play_deal_damage1_enemy_board_card.desc",
+            "value": "On play, deal 1 damage to an enemy target on the board."
+        },
+        {
+            "key": "ability.play_deal_damage1_enemy_board_card.title",
             "value": "Damage"
         },
         {
