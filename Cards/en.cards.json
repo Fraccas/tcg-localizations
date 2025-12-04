@@ -922,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Deal 1 damage to an allied monster, then deal 2 damage to a random target twice. "
+            "value": "Deal 1 damage to an allied monster, then deal 2 damage to a random board card twice. "
         },
         {
             "key": "card.spell_flood.text",
