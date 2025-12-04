@@ -1545,6 +1545,14 @@
             "value": "Poison Enemies"
         },
         {
+            "key": "ability.play_poison_self.desc",
+            "value": "Target monster gains poison. They lose 1 hp each turn."
+        },
+        {
+            "key": "ability.play_poison_self.title",
+            "value": "Poison"
+        },
+        {
             "key": "ability.play_return_target_hand.desc",
             "value": "Return any target to owner's hand."
         },
@@ -2278,7 +2286,7 @@
         },
         {
             "key": "ability.taunt_flying.desc",
-            "value": "Your other monsters are protected by flying monsters."
+            "value": "Your other monsters are protected from flying monsters."
         },
         {
             "key": "ability.taunt_flying.title",

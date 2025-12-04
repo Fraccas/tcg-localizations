@@ -570,7 +570,7 @@
         },
         {
             "key": "card.miraibow.text",
-            "value": "Whenever another monster dies, draw 2 card."
+            "value": "Whenever another monster dies, draw 2 cards."
         },
         {
             "key": "card.mirion.text",
@@ -1190,7 +1190,7 @@
         },
         {
             "key": "card.virgo.text",
-            "value": "Can't attack. At the start of your turn, put a random ally to sleep."
+            "value": "Can't attack. At the start of your turn, put a random ally to sleep.\n<b>Play:</b> Self poison. \n"
         },
         {
             "key": "card.volcano.text",
@@ -1250,7 +1250,7 @@
         },
         {
             "key": "card.woshi.text",
-            "value": "When attacking gain 1 mana."
+            "value": "When attacking the player gain 1 mana."
         },
         {
             "key": "card.yachan.text",
