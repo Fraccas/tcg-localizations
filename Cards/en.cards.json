@@ -2,11 +2,11 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "RUSH\nGain +1/+1 when a card is frozen."
+            "value": "RUSH\nGain +1/+1 when a card is frozen"
         },
         {
             "key": "card.antairy.text",
-            "value": "Enrage\nDestroy a target flying monster."
+            "value": "Enrage\nDestroy a target flying monster"
         },
         {
             "key": "card.armoru.text",
@@ -18,27 +18,27 @@
         },
         {
             "key": "card.astor.text",
-            "value": "At the start of each turn, gain 1 armor. "
+            "value": "At the start of each turn, gain 1 armor"
         },
         {
             "key": "card.astroguin.text",
-            "value": "Taunt\n<b>Play:</b> Summon igloo twice.\nIgloo Invinciablity."
+            "value": "Taunt\n<b>Play:</b> Summon igloo twice\nIgloo Invinciablity"
         },
         {
             "key": "card.bashker.text",
-            "value": "<b>Trap Evasion:</b> Does not trigger traps when attacking.\nGain +1 damage for each enemy trap in play."
+            "value": "<b>Trap Evasion:</b> Does not trigger traps when attacking\nGain +1 damage for each enemy trap in play"
         },
         {
             "key": "card.bashko.text",
-            "value": "<b>Trap Evasion:</b> Does not trigger traps when attacking."
+            "value": "<b>Trap Evasion:</b> Does not trigger traps when attacking"
         },
         {
             "key": "card.bay.text",
-            "value": "When a Water monster you own dies, draw a card."
+            "value": "When a Water monster you own dies, draw a card"
         },
         {
             "key": "card.boilin.text",
-            "value": "<b>Death:</b> Draw a card."
+            "value": "<b>Death:</b> Draw a card"
         },
         {
             "key": "card.bora.text",
@@ -46,23 +46,23 @@
         },
         {
             "key": "card.burnibu.text",
-            "value": "<b>Play:</b> Discard a random card from your hand and draw two new cards."
+            "value": "<b>Play:</b> Discard a random card from your hand and draw two new cards"
         },
         {
             "key": "card.burnion.text",
-            "value": "<b>Play:</b> Target monster gains burn and takes 2 damage per turn."
+            "value": "<b>Play:</b> Burn a target monster"
         },
         {
             "key": "card.burny.text",
-            "value": "<b>Play:</b> Discard a random card from player's hand and draw two new cards."
+            "value": "<b>Play:</b> Discard a random card from your hand and draw two cards"
         },
         {
             "key": "card.buumi.text",
-            "value": "<b>Play:</b> Destroy all enemy traps and gain +2/2 for each trap destroyed."
+            "value": "<b>Play:</b> Destroy all enemy traps and gain +2/+2 for each trap destroyed"
         },
         {
             "key": "card.cabyron.text",
-            "value": "Taunt\n<b>Death:</b> Summon a Cabyron with Enrage II."
+            "value": "Taunt\n<b>Death:</b> Summon a Cabyron with Enrage II"
         },
         {
             "key": "card.cabyron_basic_copy.text",
@@ -70,11 +70,11 @@
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "Taunt\n<b>Death:</b> Summon a Cabyron with Enrage II."
+            "value": "Taunt\n<b>Death:</b> Summon a Cabyron with Enrage II"
         },
         {
             "key": "card.cabywara.text",
-            "value": "Once per turn, when taking damage and surviving, draw a card."
+            "value": "When taking damage and surviving, draw a card"
         },
         {
             "key": "card.cactoon.text",
@@ -82,19 +82,19 @@
         },
         {
             "key": "card.cactuzzi.text",
-            "value": "Reach: Flying monsters must target this monster. "
+            "value": "Reach: Flying monsters must target this monster"
         },
         {
             "key": "card.calfire.text",
-            "value": "Spell damage +1."
+            "value": "Spell damage +1"
         },
         {
             "key": "card.cheetula.text",
-            "value": "<b>Play</b>: Summon a baby Jagur.\nAll Cat +1 attack."
+            "value": "<b>Play</b>: Summon a baby Jagur\nAll other allied Cats +1 attack"
         },
         {
             "key": "card.chewanha.text",
-            "value": "<b>Kill:</b> Draw two cards."
+            "value": "<b>Kill:</b> Draw two cards"
         },
         {
             "key": "card.chocosaur.text",
@@ -106,11 +106,11 @@
         },
         {
             "key": "card.coin.text",
-            "value": "Gain 1 mana."
+            "value": "Gain 1 mana"
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Play:</b> Freeze all enemy monsters that have 4 or less attack.\nFlying"
+            "value": "<b>Play:</b> Freeze all enemy monsters that have 4 or less attack\nFlying"
         },
         {
             "key": "card.cyowl.text",
@@ -126,27 +126,27 @@
         },
         {
             "key": "card.darcelia.text",
-            "value": "<b>Play:</b> Curse."
+            "value": "<b>Play:</b> Curse a target monster"
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>Play</b>: Curse all monsters in play."
+            "value": "<b>Play</b>: Curse all monsters in play"
         },
         {
             "key": "card.devastor.text",
-            "value": "Spell Immunity / Shell\n<b>Play:</b> Deal 2 damage to everything"
+            "value": "Spell Immunity / Shell\n<b>Play:</b> Deal 2 damage to everything else"
         },
         {
             "key": "card.devastor_full.text",
-            "value": "Spell Immunity / Shell\n<b>Play:</b> Deal 2 damage to everything"
+            "value": "Spell Immunity / Shell\n<b>Play:</b> Deal 2 damage to everything else"
         },
         {
             "key": "card.djinnas.text",
-            "value": "<b>Play:</b> Swap this monster with an enemy monster that has a cost of 7 or less mana. "
+            "value": "<b>Play:</b> Swap this monster with an enemy monster that has a cost of 7 or less mana"
         },
         {
             "key": "card.djune.text",
-            "value": "<b>Play:</b> Swap this monster with an enemy monster that has a cost of 3 or less mana. "
+            "value": "<b>Play:</b> Swap this monster with an enemy monster that has a cost of 3 or less mana"
         },
         {
             "key": "card.dobash.text",
@@ -162,11 +162,11 @@
         },
         {
             "key": "card.domumu.text",
-            "value": "<b>Play:</b> Give +2/2 until end of turn"
+            "value": "<b>Play:</b> Give +2/+2 to a target monster until your next turn"
         },
         {
             "key": "card.doshoto.text",
-            "value": "<b>Attack:</b>Roll a D6, on 4+ gain +3 attack until the end of the turn."
+            "value": "<b>Attack:</b>Roll a D6, on 4+ gain +3 attack until the end of the turn"
         },
         {
             "key": "card.dothrow.text",
@@ -182,7 +182,7 @@
         },
         {
             "key": "card.dragon_egg.text",
-            "value": "Discover a Dragon."
+            "value": "Search for a dragon from your deck"
         },
         {
             "key": "card.dragulp.text",
@@ -190,7 +190,7 @@
         },
         {
             "key": "card.drion.text",
-            "value": "<b>Play</b>: Silence a target monster, then curse a target monster"
+            "value": "<b>Play</b>: Silence a target monster, curse a target monster"
         },
         {
             "key": "card.dryaow.text",
@@ -214,35 +214,35 @@
         },
         {
             "key": "card.emberstorm.text",
-            "value": "On play and on the start of each of your turns, burn all other non-fire monsters on the board."
+            "value": "On play and on the start of each of your turns, burn all other non-fire monsters on the board"
         },
         {
             "key": "card.emberstorm_full.text",
-            "value": "On play and on the start of each of your turns, burn all other non-fire monsters on the board."
+            "value": "On play and on the start of each of your turns, burn all other non-fire monsters on the board"
         },
         {
             "key": "card.envish.text",
-            "value": "<b>Play:</b> Destroy a monster with 3 or less attack."
+            "value": "<b>Play:</b> Destroy a monster with 3 or less attack"
         },
         {
             "key": "card.equip_psychic_ring.text",
-            "value": "At the start of each turn, reveal the opponent's hand. Lasts up to 3 turns. "
+            "value": "At the start of each turn, reveal the opponent's hand. Lasts up to 3 turns"
         },
         {
             "key": "card.equip_shield.text",
-            "value": "Bearer gains 2 armor and taunt."
+            "value": "Bearer gains 2 armor and taunt"
         },
         {
             "key": "card.equip_sword_fire.text",
-            "value": "Attack +1.\nBearer receives no damage when attacking."
+            "value": "Attack +1\nBearer receives no damage when attacking"
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "Bearer's attack is equal to it's max HP"
+            "value": "Bearer's attack is equal to it's original max HP"
         },
         {
             "key": "card.equip_water_ring.text",
-            "value": "Gain 2 extra mana per turn for 4 turns."
+            "value": "Gain 2 extra mana per turn for 4 turns"
         },
         {
             "key": "card.espe.text",
@@ -250,11 +250,11 @@
         },
         {
             "key": "card.evira.text",
-            "value": "<b>Play:</b> Give +2/2.\nHeal player when dealing damage."
+            "value": "<b>Play:</b> Give +2/+2 to a target monster until your next turn\nLife Steal"
         },
         {
             "key": "card.exord.text",
-            "value": "<b>Play:</b> Damage all by 2."
+            "value": "<b>Play:</b> Deal 2 damage to all other cards in play"
         },
         {
             "key": "card.ezonea.text",
@@ -266,11 +266,11 @@
         },
         {
             "key": "card.flamitto.text",
-            "value": "<b>Attack:</b> Burn the enemy monster. They lose 2 HP each turn."
+            "value": "<b>Attack:</b> Burn the target monster"
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>Play:</b> Mind Control a target monster that costs 2 or less mana."
+            "value": "<b>Play:</b> Mind Control a target monster that costs 2 or less mana"
         },
         {
             "key": "card.flozo.text",
@@ -282,19 +282,19 @@
         },
         {
             "key": "card.frojest.text",
-            "value": "When opponent discards a monster card, this monster becomes a copy of the discarded monster."
+            "value": "When opponent discards a monster card, this monster becomes a copy of the discarded monster"
         },
         {
             "key": "card.frojesti.text",
-            "value": "When opponent discards a spell, create a zero mana cost copy in your hand.\n"
+            "value": "When opponent discards a spell, create a zero mana cost copy in your hand\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "When opponent discards a spell, create a zero mana cost copy in your hand.\n"
+            "value": "When opponent discards a spell, create a zero mana cost copy in your hand\n"
         },
         {
             "key": "card.froster.text",
-            "value": "RUSH\nGain +1/+1 when a monster is frozen."
+            "value": "RUSH\nGain +1/+1 when a monster is frozen"
         },
         {
             "key": "card.galasu.text",
@@ -306,19 +306,19 @@
         },
         {
             "key": "card.gamud.text",
-            "value": "When taking damage and surviving, draw a card."
+            "value": "When taking damage and surviving, draw a card"
         },
         {
             "key": "card.gargarm.text",
-            "value": "After playing a spell, gain +2 attack.\nFlying"
+            "value": "After playing a spell, gain +2 attack\nFlying"
         },
         {
             "key": "card.gargoli.text",
-            "value": "After playing a spell, gain +2 attack."
+            "value": "After playing a spell, gain +2 attack"
         },
         {
             "key": "card.geister.text",
-            "value": "<b>Attack:</b> Curse and Poison"
+            "value": "<b>Attack:</b> Curse and Poison the target monster"
         },
         {
             "key": "card.gemash.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "Whenever another monster dies, draw 1 card."
+            "value": "Whenever another monster dies, draw 1 card"
         },
         {
             "key": "card.gizord.text",
@@ -338,19 +338,19 @@
         },
         {
             "key": "card.glidara.text",
-            "value": "Choice: Taunt or Rush\n<b>Death:</b> Summon an Igloo."
+            "value": "Choice: Taunt or Rush\n<b>Death:</b> Summon an Igloo"
         },
         {
             "key": "card.glummy.text",
-            "value": "<b>Attack:</b> Poison.\nFlying"
+            "value": "<b>Attack:</b> Poison the target monster\nFlying"
         },
         {
             "key": "card.gluttrats.text",
-            "value": "After playing a spell, gain +2 attack."
+            "value": "After playing a spell, gain +2 attack"
         },
         {
             "key": "card.goldape.text",
-            "value": "At the start of each turn, gain +1 attack."
+            "value": "At the start of each turn, gain +1 attack"
         },
         {
             "key": "card.gookie.text",
@@ -358,7 +358,7 @@
         },
         {
             "key": "card.gorupt.text",
-            "value": "<b>Play:</b> Damage all other cards by 2."
+            "value": "<b>Play:</b> Deal 2 damage to all other cards in play"
         },
         {
             "key": "card.gracelia.text",
@@ -366,19 +366,19 @@
         },
         {
             "key": "card.graceliaex.text",
-            "value": "<b>Cast (2):</b> Heal player for 3 HP. "
+            "value": "<b>Action (2):</b> Heal player for 3 HP"
         },
         {
             "key": "card.grandcelia.text",
-            "value": "<b>Play:</b> Give +2/2.\n<b>Action:</b> Bounce."
+            "value": "<b>Play:</b> Give +2/+2\n<b>Action:</b> Bounce."
         },
         {
             "key": "card.grocelia.text",
-            "value": "<b>Play:</b> Silence target card."
+            "value": "<b>Play:</b> Silence target monster"
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Taunt</b>\nWhen taking damage and surviving, give all allied rock monsters +1 armor."
+            "value": "<b>Taunt</b>\nWhen taking damage and surviving, give all allied rock monsters +1 armor"
         },
         {
             "key": "card.hajiko.text",
@@ -386,11 +386,11 @@
         },
         {
             "key": "card.hammar.text",
-            "value": "Enrage\n<b>Play:</b> Gain 1 armor.\nAfter attacking the enemy player, draw a rock spell card from your deck."
+            "value": "Enrage\n<b>Play:</b> Gain 1 armor\nAfter attacking the enemy player, draw a rock spell card from your deck"
         },
         {
             "key": "card.hammark.text",
-            "value": "Whenever another monster dies, draw 1 card.\nAttack Loss Immunity"
+            "value": "Whenever another monster dies, draw a card\nAttack Loss Immunity"
         },
         {
             "key": "card.hammi.text",
@@ -398,23 +398,23 @@
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "Enrage\nAfter attacking the enemy player, draw a rock spell card from your deck."
+            "value": "Enrage\nAfter attacking the enemy player, draw a rock spell card from your deck"
         },
         {
             "key": "card.hammish.text",
-            "value": "Whenever another monster dies, draw 1 card."
+            "value": "Whenever another monster dies, draw a card"
         },
         {
             "key": "card.hato.text",
-            "value": "Gain shell whenever you summon a location. \nGain +1/+1 if an ice location is in play."
+            "value": "Gain shell whenever you summon a location \nGain +1/+1 if an ice location is in play"
         },
         {
             "key": "card.headrac.text",
-            "value": "Each turn, gain +1 attack."
+            "value": "Each turn, gain +1 attack"
         },
         {
             "key": "card.heara.text",
-            "value": "<b>Play:</b> Target monster's attack is reduced to 1."
+            "value": "<b>Play:</b> Target monster's attack is reduced to 1"
         },
         {
             "key": "card.hero_electric.text",
@@ -422,11 +422,11 @@
         },
         {
             "key": "card.hero_fire.text",
-            "value": "An ancient Fire Fracctal Fairy that can deal 1 damage to any card or player."
+            "value": "An ancient Fire Fracctal Fairy that can deal 1 damage to any card or player"
         },
         {
             "key": "card.hero_ice.text",
-            "value": "An ancient Ice Fracctal Fairy that can freeze any card for 1 turn."
+            "value": "An ancient Ice Fracctal Fairy that can freeze any card for 1 turn"
         },
         {
             "key": "card.hero_plant.text",
@@ -438,23 +438,23 @@
         },
         {
             "key": "card.hero_rock.text",
-            "value": "An ancient Rock Fracctal Fairy that grants +1 Armor to any card on the board. "
+            "value": "An ancient Rock Fracctal Fairy that grants +1 Armor to any card on the board"
         },
         {
             "key": "card.hero_shadow.text",
-            "value": "An ancient Shadow Fracctal Fairy that can curse any card in play. "
+            "value": "An ancient Shadow Fracctal Fairy that can curse any card in play"
         },
         {
             "key": "card.hero_water.text",
-            "value": "An ancient Water Fracctal Fairy that allows the player to draw an extra card. "
+            "value": "An ancient Water Fracctal Fairy that allows the player to draw an extra card"
         },
         {
             "key": "card.hippoh.text",
-            "value": "<b>Attack:</b> Burn the enemy. They lose 2 HP each turn."
+            "value": "<b>Attack:</b> Burn the target monster"
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Play:</b> Draw a card.\nGain +1/+1 if an ice location is in play."
+            "value": "<b>Play:</b> Draw a card\nGain +1/+1 if an ice location is in play"
         },
         {
             "key": "card.ice_token.text",
@@ -462,7 +462,7 @@
         },
         {
             "key": "card.ice_town_igloo.text",
-            "value": "If HP 2+ all allied ice monsters gain +0/+1\nIf HP 4+ all allied ice monsters gain +1/+0\nIf HP 6+ all Ice cards cost 1 less from hand."
+            "value": "If HP 2+ all allied ice monsters gain +0/+1\nIf HP 4+ all allied ice monsters gain +1/+0\nIf HP 6+ all Ice cards cost 1 less from hand"
         },
         {
             "key": "card.ignitas.text",
@@ -470,7 +470,7 @@
         },
         {
             "key": "card.igniti.text",
-            "value": "<b>Death:</b> Deal 2 damage to enemy player."
+            "value": "<b>Death:</b> Deal 2 damage to enemy player"
         },
         {
             "key": "card.insha.text",
@@ -478,19 +478,19 @@
         },
         {
             "key": "card.inuk.text",
-            "value": "Ignore Taunt"
+            "value": "Flying"
         },
         {
             "key": "card.kincactuz.text",
-            "value": "<b>Play:</b> Gain Taunt or Fury"
+            "value": "<b>Choice</b>: Taunt or Fury"
         },
         {
             "key": "card.kinfish.text",
-            "value": "<b>Kill:</b> Draw two cards.\n<b>Death:</b> Draw a card."
+            "value": "<b>Kill:</b> Draw two cards\n<b>Death:</b> Draw a card."
         },
         {
             "key": "card.kuraigar.text",
-            "value": "Has +3 attack during the opponent's turn."
+            "value": "Has +3 attack during the opponent's turn"
         },
         {
             "key": "card.kuraigor.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lala.text",
-            "value": "<b>Attack:</b> Poison."
+            "value": "<b>Attack:</b> Poison the target monster"
         },
         {
             "key": "card.lampi.text",
@@ -510,15 +510,15 @@
         },
         {
             "key": "card.lizoru.text",
-            "value": "<b>Play</b>: Summon a Lizo\nAll Reptile +1 attack."
+            "value": "<b>Play</b>: Summon a Lizo\nAll other allied Reptile +1 attack"
         },
         {
             "key": "card.lizorus.text",
-            "value": "<b>Play</b>: Summon a Lizo\nAll Reptile +2 attack."
+            "value": "<b>Play</b>: Summon a Lizo\nAll other allied Reptile +2 attack"
         },
         {
             "key": "card.lizorus_full.text",
-            "value": "<b>Play</b>: Summon a Lizo\nAll Reptile +2 attack."
+            "value": "<b>Play</b>: Summon a Lizo\nAll other allied Reptile +2 attack"
         },
         {
             "key": "card.lizteel.text",
@@ -526,7 +526,7 @@
         },
         {
             "key": "card.loneguin.text",
-            "value": "Taunt\n<b>Death:</b> Summon an Igloo."
+            "value": "Taunt\n<b>Death:</b> Summon an Igloo"
         },
         {
             "key": "card.lumini.text",
@@ -534,7 +534,7 @@
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>Play:</b> Give +2/2.\nFlying"
+            "value": "<b>Play:</b> Give +2/+2\nFlying"
         },
         {
             "key": "card.lunab.text",
@@ -542,27 +542,27 @@
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>Play:</b> Give +2/2\n<b>Play:</b> Heal player for 4 HP\nFlying"
+            "value": "<b>Play:</b> Give +2/+2\n<b>Play:</b> Heal player for 4 HP\nFlying"
         },
         {
             "key": "card.lurian_full.text",
-            "value": "<b>Play:</b> Give +2/2\n<b>Play:</b> Heal player for 4 HP\nFlying"
+            "value": "<b>Play:</b> Give +2/+2\n<b>Play:</b> Heal player for 4 HP\nFlying"
         },
         {
             "key": "card.marshland.text",
-            "value": "<b>Start of turn: </b>All Plant cards heal by 3."
+            "value": "<b>Start of turn: </b>All Plant cards heal by 3"
         },
         {
             "key": "card.meruza.text",
-            "value": "All enemy characters have -2 attack."
+            "value": "All enemy characters have -2 attack"
         },
         {
             "key": "card.mighto.text",
-            "value": "<b>Play:</b> Gain +1 attack for each Igloo you have summoned this game.\nGain Shell whenver you summon a location\nShell\n"
+            "value": "<b>Play:</b> Gain +1 attack for each Igloo you have summoned this game\nGain Shell whenver you summon a location\nShell\n"
         },
         {
             "key": "card.mimi.text",
-            "value": "At the start of your turn, this monster fully heals."
+            "value": "Regeneration"
         },
         {
             "key": "card.minask.text",
@@ -570,19 +570,19 @@
         },
         {
             "key": "card.miraibow.text",
-            "value": "Whenever another monster dies, draw 2 cards."
+            "value": "Whenever another monster dies, draw 2 cards"
         },
         {
             "key": "card.mirion.text",
-            "value": "Whenever another monster dies, draw 2 cards."
+            "value": "Whenever another monster dies, draw 2 cards"
         },
         {
             "key": "card.momburn.text",
-            "value": "Spell damage +2.\n<b>Attack:</b> Burn the attacked card."
+            "value": "Spell damage +2\n<b>Attack:</b> Burn the target monster"
         },
         {
             "key": "card.mongold.text",
-            "value": "At the start of each turn, gain +2 attack."
+            "value": "At the start of each turn, gain +2 attack"
         },
         {
             "key": "card.mosastrus.text",
@@ -606,19 +606,19 @@
         },
         {
             "key": "card.mountough.text",
-            "value": "<b>Play:</b> Gain 3 Armor.\nAt the end of your turn, draw a card."
+            "value": "<b>Play:</b> Gain 3 Armor\nAt the end of your turn, draw a card"
         },
         {
             "key": "card.mountough_full.text",
-            "value": "<b>Play:</b> Gain 3 Armor.\nAt the end of your turn, draw a card."
+            "value": "<b>Play:</b> Gain 3 Armor\nAt the end of your turn, draw a card"
         },
         {
             "key": "card.muni.text",
-            "value": "On play, reveal opponent's hand and draw 1 card"
+            "value": "<b>Play:</b> Reveal opponent's hand and draw a card"
         },
         {
             "key": "card.murple.text",
-            "value": "At the start of your turn, this monster fully heals."
+            "value": "Regeneration"
         },
         {
             "key": "card.nadzu.text",
@@ -626,11 +626,11 @@
         },
         {
             "key": "card.nhomnhom.text",
-            "value": "When attacking gain 2 mana."
+            "value": "When attacking gain 2 mana"
         },
         {
             "key": "card.nobu.text",
-            "value": "Taunt\nTakes max 2 damage per attack/counter attack."
+            "value": "Taunt\nTakes max 2 damage per attack/counter attack"
         },
         {
             "key": "card.nophulos.text",
@@ -638,31 +638,31 @@
         },
         {
             "key": "card.numind.text",
-            "value": "<b>Play:</b> Reveal opponent's hand\n<b>Action:</b> Discard a random card from the opponent's hand costing 3 or less mana. Costs 2 mana. "
+            "value": "<b>Play:</b> Reveal opponent's hand\n<b>Action (2):</b> Discard a random card from the opponent's hand costing 3 or less mana"
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>End Turn:</b> Go in stealth if you have other monsters in play."
+            "value": "<b>End Turn:</b> Go in stealth if you have other monsters in play"
         },
         {
             "key": "card.operant.text",
-            "value": "Enrage\n<b>Play:</b> Deal 1 damage to all cards on the board.\n"
+            "value": "Enrage\n<b>Play:</b> Deal 1 damage to all cards in play\n"
         },
         {
             "key": "card.ophala.text",
-            "value": "Has +3 attack during the opponent's turn.\nTaunt"
+            "value": "Has +3 attack during the opponent's turn\nTaunt"
         },
         {
             "key": "card.ophalant.text",
-            "value": "Has +3 attack during the opponent's turn.\nTaunt / Shell"
+            "value": "Has +3 attack during the opponent's turn\nTaunt / Shell"
         },
         {
             "key": "card.ophalant_full.text",
-            "value": "Has +3 attack during the opponent's turn.\nTaunt / Shell"
+            "value": "Has +3 attack during the opponent's turn\nTaunt / Shell"
         },
         {
             "key": "card.oritoro.text",
-            "value": "When attacking, roll a D6. On 4+ gain +3 attack."
+            "value": "When attacking, roll a D6. On 4+ gain +3 attack"
         },
         {
             "key": "card.owind.text",
@@ -674,47 +674,47 @@
         },
         {
             "key": "card.peafan.text",
-            "value": "<b>Play:</b> Destroy a monster with 4 or less attack."
+            "value": "<b>Play:</b> Destroy a monster with 4 or less attack"
         },
         {
             "key": "card.peafan_egg.text",
-            "value": "After 3 turns, transforms into a Peafan.\nSummon an Igloo."
+            "value": "After 3 turns, transforms into a Peafan\nSummon an Igloo"
         },
         {
             "key": "card.peako.text",
-            "value": "<b>Play:</b> Summon an Igloo.\nIf you already have an Igloo, draw a card."
+            "value": "<b>Play:</b> Summon an Igloo\nIf you already have an Igloo, draw a card"
         },
         {
             "key": "card.perllusion.text",
-            "value": "Stealth\n<b>Play:</b> Opponent discards a random card\nGain +1 Attack on opponent discard"
+            "value": "Stealth\n<b>Play:</b> Opponent discards a random card\nGain +1 Attack when opponent discards a card"
         },
         {
             "key": "card.petami.text",
-            "value": "At the start of your turn, this monster fully heals."
+            "value": "Regeneration"
         },
         {
             "key": "card.petili.text",
-            "value": "On play, give +2/2 to another monster until your next turn."
+            "value": "<b>Play:</b> Give +2/+2 to another monster until your next turn"
         },
         {
             "key": "card.phanti.text",
-            "value": "Whenever another character dies, draw 1 card."
+            "value": "Whenever another character dies, draw a card"
         },
         {
             "key": "card.phyra.text",
-            "value": "<b>Cast (3):</b> Deal 2 damage.\n<b>Death:</b> Summon an egg."
+            "value": "<b>Action (3):</b> Deal 2 damage\n<b>Death:</b> Summon a Phyra egg"
         },
         {
             "key": "card.phyra_egg.text",
-            "value": "After 3 turns, transforms into a Phyra."
+            "value": "After 3 turns, transforms into a Phyra"
         },
         {
             "key": "card.phyrox.text",
-            "value": "<b>Cast (2):</b> Roll a D6, on 4+ return target to hand."
+            "value": "<b>Action (2):</b> Roll a D6, on 4+ return target to hand"
         },
         {
             "key": "card.picko.text",
-            "value": "Enrage\n<b>Play:</b> Deal 1 damage to self, then 1 damage to any target monster."
+            "value": "Enrage\n<b>Play:</b> Deal 1 damage to self, then 1 damage to any target monster"
         },
         {
             "key": "card.plant_token.text",
@@ -722,51 +722,51 @@
         },
         {
             "key": "card.plator.text",
-            "value": "Shell\nAt the start of each turn, gain 1 armor. "
+            "value": "Shell\nAt the start of each turn, gain 1 armor"
         },
         {
             "key": "card.polip.text",
-            "value": "<b>Play:</b> Give +2 HP"
+            "value": "<b>Play:</b> Give +2 HP to a target monster until your next turn"
         },
         {
             "key": "card.potion_electric.text",
-            "value": "Target monster gains Fury. It can attack twice per turn."
+            "value": "Target monster gains Fury"
         },
         {
             "key": "card.potion_fire.text",
-            "value": "Target gains 1 attack and fury."
+            "value": "Target gains +1 attack and fury"
         },
         {
             "key": "card.potion_green.text",
-            "value": "Target is bathed in a sweet aroma, gaining +2 HP and Taunt."
+            "value": "Target is bathed in a sweet aroma, gaining +2 HP and Taunt"
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Lower the evolution counter of an ice monster by 1, if it reaches 0 it will evolve. "
+            "value": "Lower the evolution counter of an ice monster by 1, if it reaches 0 it will evolve"
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Target a monster on the board with a mana cost of 3 or less to Mind Control for 1 turn. Target gains Rush. "
+            "value": "Mind control an enemy monster with mana cost of 3 or less for 1 turn, it gains Rush"
         },
         {
             "key": "card.potion_rock.text",
-            "value": "Target gains taunt, but cannot attack."
+            "value": "Target gains taunt, but cannot attack"
         },
         {
             "key": "card.potion_shadow.text",
-            "value": "Target gains Curse of Suffering which causes 3 damage each time attacking."
+            "value": "Target gains Curse of Suffering which causes 3 damage each time attacking"
         },
         {
             "key": "card.potion_water.text",
-            "value": "Draw 2 cards."
+            "value": "Draw 2 cards"
         },
         {
             "key": "card.prido.text",
-            "value": "Fury\nEach turn, gain +1 attack."
+            "value": "Fury\nEach turn, gain +1 attack"
         },
         {
             "key": "card.psony.text",
-            "value": "<b>Play:</b> Select an ally under your control, and send them to the other player with the ability: each turn deal 2 damage to all other allies. "
+            "value": "<b>Play:</b> Loyalty swap, target gains the ability: each turn deal 2 damage to all other allies"
         },
         {
             "key": "card.psychic_token.text",
@@ -774,23 +774,23 @@
         },
         {
             "key": "card.psylant.text",
-            "value": "<b>Play:</b> Select an ally under your control, and send them to the other player with the ability: at the start of each turn discard 2 cards"
+            "value": "<b>Play:</b> Loyalty swap, target gains the ability: at the start of each turn discard 2 cards"
         },
         {
             "key": "card.psynkey.text",
-            "value": "<b>Play:</b> Select an ally under your control, and send them to the other player with the ability: enemy characters gain +1/+2"
+            "value": "<b>Play:</b> Loyalty swap, target gains the ability: enemy characters gain +1/+2"
         },
         {
             "key": "card.pyro.text",
-            "value": "<b>Death:</b> Summon an egg."
+            "value": "<b>Death:</b> Summon a phyra egg"
         },
         {
             "key": "card.rekrek.text",
-            "value": "<b>Play:</b> Deal 1 damage."
+            "value": "<b>Play:</b> Deal 1 damage"
         },
         {
             "key": "card.rektar.text",
-            "value": "<b>Play:</b> Deal 2 damage."
+            "value": "<b>Play:</b> Deal 2 damage"
         },
         {
             "key": "card.rektardark.text",
@@ -798,11 +798,11 @@
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>Each turn:</b> Kill monsters with the lowest attack (including allies and this monster)."
+            "value": "<b>Each turn:</b> Kill all monsters with the lowest attack (including allies and this monster)."
         },
         {
             "key": "card.rock_cave.text",
-            "value": "All rock monsters gain: \"Take 1 damage to gain +1 attack\". 1 mana cost per use."
+            "value": "All rock monsters gain: \"Take 1 damage to gain +1 attack\"1 mana cost per use"
         },
         {
             "key": "card.rock_golem_spawn.text",
@@ -818,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>Attack:</b> Poison."
+            "value": "<b>Attack:</b> Poison the target monster"
         },
         {
             "key": "card.rootus.text",
@@ -826,11 +826,11 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "<b>Play:</b> Gain 2 armor. "
+            "value": "<b>Play:</b> Gain 2 armor"
         },
         {
             "key": "card.scarles.text",
-            "value": "Each turn, gain +1 attack.\nFlying"
+            "value": "Each turn, gain +1 attack\nFlying"
         },
         {
             "key": "card.shadow_token.text",
@@ -838,19 +838,19 @@
         },
         {
             "key": "card.shama.text",
-            "value": "Spell damage +1."
+            "value": "Spell damage +1"
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>Attack:</b> Poison."
+            "value": "<b>Attack:</b> Poison the target monster"
         },
         {
             "key": "card.skatrix.text",
-            "value": "Fury / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage."
+            "value": "Fury / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "Fury / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage."
+            "value": "Fury / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage"
         },
         {
             "key": "card.skipo.text",
@@ -858,7 +858,7 @@
         },
         {
             "key": "card.slime.text",
-            "value": "<b>Play:</b> Return a monster to your hand."
+            "value": "<b>Play:</b> Return a monster from your discard to your hand"
         },
         {
             "key": "card.sneel.text",
@@ -866,7 +866,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Flying\n<b>Play:</b> Freeze an enemy with attack of 2 or less. "
+            "value": "Flying\n<b>Play:</b> Freeze an enemy with attack of 2 or less"
         },
         {
             "key": "card.soligator.text",
@@ -886,51 +886,51 @@
         },
         {
             "key": "card.spell_aerial_strike.text",
-            "value": "Summon 3 Pyro into your hand."
+            "value": "Summon 3 Pyro cards into your hand"
         },
         {
             "key": "card.spell_armageddon.text",
-            "value": "Destroy all cards on the board"
+            "value": "Destroy all cards in play"
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Destroy a frozen target.\nDestroy a location."
+            "value": "Destroy a frozen target\nDestroy a location"
         },
         {
             "key": "card.spell_boost_electric.text",
-            "value": "All Electric monsters in play gain +2 Attack (including enemies). "
+            "value": "All Electric monsters in play gain +2 Attack (including enemies)"
         },
         {
             "key": "card.spell_burn.text",
-            "value": "Destroy target."
+            "value": "Destroy target"
         },
         {
             "key": "card.spell_cursed_potion.text",
-            "value": "Silence a target monster, then curse a target monster"
+            "value": "Silence a target monster, curse a target monster"
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "Target card gains \"When an allied monster enters play, destroy this monster\"."
+            "value": "Target card gains \"When an allied monster enters play, destroy this monster\""
         },
         {
             "key": "card.spell_electric_ally.text",
-            "value": "Look at the next 7 cards in your deck, and take 1 electric card into your hand."
+            "value": "Look at the next 7 cards in your deck, and add 1 electric card among them into your hand"
         },
         {
             "key": "card.spell_extinct.text",
-            "value": "Target card gains \"When an allied monster enters play, destroy this monster\"."
+            "value": "Target card gains \"When an allied monster enters play from hand, destroy this monster\""
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Deal 1 damage to an allied monster, then deal 2 damage to a random board card twice. "
+            "value": "Deal 1 damage to an allied monster, then deal 2 damage to a random enemy target twice "
         },
         {
             "key": "card.spell_flood.text",
-            "value": "Reduce the hp of all monsters to 1."
+            "value": "Reduce the hp of all monsters to 1"
         },
         {
             "key": "card.spell_growth.text",
-            "value": "All allied plant monsters gain +2/2"
+            "value": "All allied plant monsters gain +2/+2"
         },
         {
             "key": "card.spell_hammi_strike.text",
@@ -938,39 +938,39 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Freeze all monsters in play.\nDestroy monsters that were already frozen. "
+            "value": "Freeze all monsters in play\nDestroy monsters that were already frozen"
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Freeze target monster.\nDraw a card.\nSummon Igloo"
+            "value": "Freeze target monster\nDraw a card\nSummon Igloo"
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Freeze a target for 1 turn."
+            "value": "Freeze a target for 1 turn"
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Deal 1 damage to all monsters, then deal 2 damage to all frozen monsters. "
+            "value": "Deal 1 damage to all monsters, then deal 2 damage to all frozen monsters "
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
-            "value": "Summon three 2/1 Lampi to your hand."
+            "value": "Summon three Lampi cards into your hand"
         },
         {
             "key": "card.spell_lightning_bolts.text",
-            "value": "Deals 2 damage to all enemy monsters."
+            "value": "Deals 2 damage to all enemy monsters"
         },
         {
             "key": "card.spell_meal.text",
-            "value": "Target gains +2/+2 permanently and cures any negative status effects."
+            "value": "Target gains +2/+2 permanently and cures any negative status effects"
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "Deal 1 damage to a random card.\nRepeat X times."
+            "value": "Deal 1 damage to a random enemy card\nRepeat X times"
         },
         {
             "key": "card.spell_psychic_rain.text",
-            "value": "Opponent discards 3 random cards from their hand."
+            "value": "Opponent discards 3 random cards from their hand"
         },
         {
             "key": "card.spell_psychic_staff.text",
@@ -978,19 +978,19 @@
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Summon a rock golem with taunt and X attack and X HP based on the amount of mana you spend. "
+            "value": "Summon a rock golem with taunt and X attack and X HP based on the amount of mana you spend"
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "Deal 1 damage to an ally monster, then deal 2 damage to any target."
+            "value": "Deal 1 damage to an ally monster, then deal 2 damage to any target"
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "Target monster gains +2 armor."
+            "value": "Target monster gains +2 armor"
         },
         {
             "key": "card.spell_roots.text",
-            "value": "Paralyse target for 3 turns."
+            "value": "Paralyse target for 3 turns"
         },
         {
             "key": "card.spell_shadow_staff.text",
@@ -998,59 +998,59 @@
         },
         {
             "key": "card.spell_split.text",
-            "value": "Target monster gains \"Suffer 3 damage before attacking\"."
+            "value": "Target monster gains \"Suffer 3 damage before attacking\""
         },
         {
             "key": "card.spell_stomp.text",
-            "value": "Destroy the monster with the lowest HP."
+            "value": "Destroy a monster with the lowest HP in play (Including your own, if tied, random one will be chosen among them)"
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "Target monster cannot attack and takes 1 damage at the end of it's turn."
+            "value": "Target monster cannot attack and takes 1 damage at the end of it's turn"
         },
         {
             "key": "card.spell_stones.text",
-            "value": "Deal 1 damage.\nDraw a card."
+            "value": "Deal 1 damage\nDraw a card"
         },
         {
             "key": "card.spell_storm.text",
-            "value": "All cards return to their owner's hand."
+            "value": "All cards return to their owner's hand"
         },
         {
             "key": "card.spell_submerge.text",
-            "value": "Target card gains \"When attacked, opponent must discard 1 random card\"."
+            "value": "Target card gains \"When attacked, opponent must discard 1 random card\""
         },
         {
             "key": "card.spell_toxic_rain.text",
-            "value": "Poisons all cards in play"
+            "value": "Poison all cards in play"
         },
         {
             "key": "card.spell_treasure.text",
-            "value": "Look at the next 7 cards in your deck, and choose 1 water card."
+            "value": "Look at the next 7 cards in your deck, and add 1 water card among them into your hand"
         },
         {
             "key": "card.spell_wave.text",
-            "value": "Return enemy target to owner's hand."
+            "value": "Return enemy target to owner's hand"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "Return any target to owner's hand, then the opponent discards a random card from their hand."
+            "value": "Return any target to owner's hand, then the opponent discards a random card from their hand"
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>Play:</b> Destroy a monster with 2 or less attack."
+            "value": "<b>Play:</b> Destroy a monster with 2 or less attack"
         },
         {
             "key": "card.stingor.text",
-            "value": "<b>Attack:</b> Poison the target. "
+            "value": "<b>Attack:</b> Poison the target"
         },
         {
             "key": "card.stingy.text",
-            "value": "<b>Attack:</b> Poison the target. "
+            "value": "<b>Attack:</b> Poison the target"
         },
         {
             "key": "card.stormus.text",
-            "value": "Enemy monsters have -1 attack.\nCan ignore taunt."
+            "value": "Enemy monsters have -1 attack\nCan ignore taunt"
         },
         {
             "key": "card.stormy.text",
@@ -1058,15 +1058,15 @@
         },
         {
             "key": "card.swamp.text",
-            "value": "<b>Start of turn: </b>All allied Shadow monsters gain +1 attack."
+            "value": "<b>Start of turn: </b>All allied Shadow monsters gain +1 attack"
         },
         {
             "key": "card.tahlu.text",
-            "value": "Stealth\nAll Cat +1 attack."
+            "value": "Stealth\nAll other allied Cat +1 attack"
         },
         {
             "key": "card.tailu.text",
-            "value": "<b>Slush Rush:</b> Gain rush if an ice location is in play."
+            "value": "Slush Rush"
         },
         {
             "key": "card.tectan.text",
@@ -1074,11 +1074,11 @@
         },
         {
             "key": "card.tempish.text",
-            "value": "<b>Play:</b> Return any target back to it's owner's hand."
+            "value": "<b>Play:</b> Return any target back to it's owner's hand"
         },
         {
             "key": "card.tempish_full.text",
-            "value": "<b>Play:</b> Return any target back to it's owner's hand."
+            "value": "<b>Play:</b> Return any target back to it's owner's hand"
         },
         {
             "key": "card.tensei.text",
@@ -1090,35 +1090,35 @@
         },
         {
             "key": "card.town_darkwoods_shadow.text",
-            "value": "All allied Shadow cards have +2 Attack."
+            "value": "All allied Shadow cards have +2 Attack"
         },
         {
             "key": "card.town_forest.text",
-            "value": "All allied Plant cards have +2 HP."
+            "value": "All allied Plant cards have +2 HP"
         },
         {
             "key": "card.town_psychic.text",
-            "value": "When you play a psychic monster, or take control of an opponent monster, the opponent discards a random card. "
+            "value": "When you play a psychic monster, or take control of an enemy monster, the opponent discards a random card from their hand"
         },
         {
             "key": "card.town_rock.text",
-            "value": "All allied Rock monsters gain an enrage stack."
+            "value": "All allied Rock monsters gain an enrage stack"
         },
         {
             "key": "card.town_volcano.text",
-            "value": "All allied Fire monsters have +2 attack."
+            "value": "All allied Fire monsters have +2 attack"
         },
         {
             "key": "card.town_water.text",
-            "value": "Water cards in your hand cost 1 less."
+            "value": "Water cards in your hand cost 1 less"
         },
         {
             "key": "card.trap_bomb_electric.text",
-            "value": "<b>Trap:</b> When an enemy attacks, deal 1 damage to all enemy monsters and paralyze them all for 1 turn."
+            "value": "<b>Trap:</b> When an enemy attacks, deal 1 damage to all enemy monsters and paralyze them all for 1 turn"
         },
         {
             "key": "card.trap_explosive.text",
-            "value": "<b>Trap:</b> Damage all by 2."
+            "value": "<b>Trap:</b> Deal 2 damange to all enemy monsters in play"
         },
         {
             "key": "card.trap_fish.text",
@@ -1126,23 +1126,23 @@
         },
         {
             "key": "card.trap_ice.text",
-            "value": "<b>Trap:</b>When an enemy attacks, freeze the target for 2 turns."
+            "value": "<b>Trap:</b>When an enemy attacks, freeze the target for 2 turns"
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Trap:</b> Poison and deal 3 damage to the next attacker."
+            "value": "<b>Trap:</b> Poison and deal 3 damage to the next attacker"
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "When the next enemy monster attacks, take Mind Control of it for 1 turn and give it taunt. "
+            "value": "When the next enemy monster attacks, Mind Control it for 1 turn and give it taunt"
         },
         {
             "key": "card.trap_spike.text",
-            "value": "<b>Trap:</b> When an enemy attacks the player, heal 4 HP."
+            "value": "<b>Trap:</b> When an enemy attacks the player, heal 4 HP"
         },
         {
             "key": "card.trats.text",
-            "value": "After playing a spell, gain +2 attack."
+            "value": "After playing a spell, gain +2 attack"
         },
         {
             "key": "card.turbowing.text",
@@ -1154,11 +1154,11 @@
         },
         {
             "key": "card.twii.text",
-            "value": "<b>Death:</b> Draw a card.\nIgnore Taunt."
+            "value": "<b>Death:</b> Draw a card\nFlying"
         },
         {
             "key": "card.twiina.text",
-            "value": "Ability Immunity\nIgnore Taunt\n<b>Death:</b> Summon a Twii.\n"
+            "value": "Ability Immunity\nFlying\n<b>Death:</b> Summon a Twii\n"
         },
         {
             "key": "card.urnog.text",
@@ -1170,31 +1170,31 @@
         },
         {
             "key": "card.venorus.text",
-            "value": "On play, poison all enemies in play."
+            "value": "<b>Play</b>: Poison all enemy cards in play"
         },
         {
             "key": "card.venorus_full.text",
-            "value": "On play, poison all enemies in play."
+            "value": "<b>Play</b>: Poison all enemy cards in play"
         },
         {
             "key": "card.vertron.text",
-            "value": "All Electric monsters cost 2 mana less "
+            "value": "All Electric monsters cost 2 mana less"
         },
         {
             "key": "card.vertron_full.text",
-            "value": "All Electric monsters cost 2 mana less "
+            "value": "All Electric monsters cost 2 mana less"
         },
         {
             "key": "card.viborus.text",
-            "value": "Stealth\nAttack: Poison"
+            "value": "Stealth\nAttack: Poison the target monster"
         },
         {
             "key": "card.virgo.text",
-            "value": "Can't attack. At the start of your turn, put a random ally to sleep.\n<b>Play:</b> Self poison. \n"
+            "value": "Can't attack\n At the start of your turn, put a random ally to sleep\n<b>Play:</b> Self poison\n"
         },
         {
             "key": "card.volcano.text",
-            "value": "All Fire monsters gain: \"Take 1 damage to gain +1 attack\". 1 mana cost per use."
+            "value": "All Fire monsters gain: \"Take 1 damage to gain +1 attack\" 1 mana cost per use"
         },
         {
             "key": "card.vorteru.text",
@@ -1202,23 +1202,23 @@
         },
         {
             "key": "card.vulkong.text",
-            "value": "<b>Play:</b> Damage all other cards by 1."
+            "value": "<b>Play:</b> Deal 1 damage to all other cards in play"
         },
         {
             "key": "card.waazu.text",
-            "value": "<b>Play:</b> Silence a target card."
+            "value": "<b>Play:</b> Silence a target monster"
         },
         {
             "key": "card.warhammi.text",
-            "value": "Each turn, gain +1 armor."
+            "value": "Each turn, gain +1 armor"
         },
         {
             "key": "card.waru.text",
-            "value": "Has +3 attack during the opponent's turn."
+            "value": "Has +3 attack during the opponent's turn"
         },
         {
             "key": "card.waru_mount.text",
-            "value": "Enemy monsters have -1 attack.\n<b>Action:</b> +1 attack to allies."
+            "value": "Enemy monsters have -1 attack\n<b>Action:</b> +1 attack to allies"
         },
         {
             "key": "card.water_token.text",
@@ -1226,39 +1226,39 @@
         },
         {
             "key": "card.wido.text",
-            "value": "<b>End Turn:</b> Go in stealth if you have other monsters in play."
+            "value": "<b>End Turn:</b> Go in stealth if you have other monsters in play"
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>End Turn:</b> Go in stealth if you have other monsters in play."
+            "value": "<b>End Turn:</b> Go in stealth if you have other monsters in play"
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>Play: </b> Add a monster from discard to your hand."
+            "value": "<b>Play: </b> Add a monster from discard to your hand"
         },
         {
             "key": "card.woodost.text",
-            "value": "<b>Play:</b> Gain Taunt or Fury"
+            "value": "<b>Choice: </b> Taunt or Fury"
         },
         {
             "key": "card.worpi.text",
-            "value": "<b>Play:</b> Take the highest armor count on the board and apply it to this monster."
+            "value": "<b>Play:</b> Take the highest armor count in play and apply it to this monster"
         },
         {
             "key": "card.worpow.text",
-            "value": "<b>Play:</b> Take the highest armor count on the board and apply it to this monster."
+            "value": "<b>Play:</b> Take the highest armor count in play and apply it to this monster"
         },
         {
             "key": "card.woshi.text",
-            "value": "When attacking the player gain 1 mana."
+            "value": "When attacking the enemy player, gain 1 mana"
         },
         {
             "key": "card.yachan.text",
-            "value": "<b>Location Discount</b>: Any location of the same elemental type has a mana discount of 1. "
+            "value": "<b>Location Discount</b>: Any location of the same elemental type has a mana discount of 1"
         },
         {
             "key": "card.yochan.text",
-            "value": "For every location card in play of the same elemental type gain +2 HP. "
+            "value": "For every location card in play of the same elemental type gain +2 HP"
         },
         {
             "key": "card.zaphyra.text",
@@ -1270,11 +1270,11 @@
         },
         {
             "key": "card.zargon.text",
-            "value": "Ability Immunity\nRegeneration\n<b>Play: </b> Add a card from discard to your hand."
+            "value": "Ability Immunity\nRegeneration\n<b>Play: </b> Add a card from discard to your hand"
         },
         {
             "key": "card.zargon_full.text",
-            "value": "Ability Immunity\nRegeneration\n<b>Play: </b> Add a card from discard to your hand."
+            "value": "Ability Immunity\nRegeneration\n<b>Play: </b> Add a card from discard to your hand"
         },
         {
             "key": "card.zarpas.text",
@@ -1282,11 +1282,11 @@
         },
         {
             "key": "card.zenphire.text",
-            "value": "Spell damage +4.\nFlying"
+            "value": "Spell damage +4\nFlying"
         },
         {
             "key": "card.zenphire_full.text",
-            "value": "Spell damage +4.\nFlying"
+            "value": "Spell damage +4\nFlying"
         },
         {
             "key": "card.zeras.text",
@@ -1294,11 +1294,11 @@
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Whenever another monster dies, draw 2 cards."
+            "value": "Whenever another monster dies, draw 2 cards"
         },
         {
             "key": "card.zithex.text",
-            "value": "<b>Play:</b> Target monster's attack is reduced to 1."
+            "value": "<b>Play:</b> Target monster's attack is reduced to 1"
         },
         {
             "key": "card.ziwing.text",
@@ -1306,11 +1306,11 @@
         },
         {
             "key": "card.zorni.text",
-            "value": "At the start of each turn, draw 1 card."
+            "value": "At the start of each turn, draw a card"
         },
         {
             "key": "card.zortan.text",
-            "value": "All other allied reptiles gain +2 attack."
+            "value": "All other allied reptiles +2 attack"
         }
     ]
 }
