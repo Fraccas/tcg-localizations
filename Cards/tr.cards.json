@@ -1,0 +1,1316 @@
+{
+    "entries": [
+        {
+            "key": "card.alfrost.text",
+            "value": "HIZ\nBir kart donduğunda +1/+1 kazan"
+        },
+        {
+            "key": "card.antairy.text",
+            "value": "Öfke\nHedef uçan canavarı yok et"
+        },
+        {
+            "key": "card.armoru.text",
+            "value": "Öfke\nSeçim: Kalkan veya +2 Zırh"
+        },
+        {
+            "key": "card.aros.text",
+            "value": "<b>Saldırı</b>: Hedef canavarı lanetle"
+        },
+        {
+            "key": "card.astor.text",
+            "value": "Her tur başında 1 zırh kazan"
+        },
+        {
+            "key": "card.astroguin.text",
+            "value": "Kalkan\n<b>Oyun:</b> İglo'yu iki kez çağır\nİglo Yenilmezlik verir"
+        },
+        {
+            "key": "card.bashker.text",
+            "value": "<b>Tuzak Kaçınma:</b> Saldırırken tuzakları tetiklemez\nTahtadaki her düşman tuzağı için +1 hasar kazan"
+        },
+        {
+            "key": "card.bashko.text",
+            "value": "<b>Tuzak Kaçınma:</b> Saldırırken tuzakları tetiklemez"
+        },
+        {
+            "key": "card.bay.text",
+            "value": "Sahip olduğun bir Su canavarı öldüğünde 1 kart çek"
+        },
+        {
+            "key": "card.boilin.text",
+            "value": "<b>Ölüm:</b> 1 kart çek"
+        },
+        {
+            "key": "card.bora.text",
+            "value": "Gizlilik"
+        },
+        {
+            "key": "card.burnibu.text",
+            "value": "<b>Oyun:</b> Elinden rastgele bir kart at ve iki yeni kart çek"
+        },
+        {
+            "key": "card.burnion.text",
+            "value": "<b>Oyun:</b> Hedef canavarı yak"
+        },
+        {
+            "key": "card.burny.text",
+            "value": "<b>Oyun:</b> Elinden rastgele bir kart at ve iki kart çek"
+        },
+        {
+            "key": "card.buumi.text",
+            "value": "<b>Oyun:</b> Tüm düşman tuzaklarını yok et ve yok edilen her tuzak için +2/+2 kazan"
+        },
+        {
+            "key": "card.cabyron.text",
+            "value": "Kalkan\n< b>Ölüm:</b> Öfke II'li bir Cabyron çağır"
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "Öfke II"
+        },
+        {
+            "key": "card.cabyron_full.text",
+            "value": "Kalkan\n<b>Ölüm:</b> Öfke II'li bir Cabyron çağır"
+        },
+        {
+            "key": "card.cabywara.text",
+            "value": "Hasar alıp hayatta kaldığında 1 kart çek"
+        },
+        {
+            "key": "card.cactoon.text",
+            "value": "Hız"
+        },
+        {
+            "key": "card.cactuzzi.text",
+            "value": "Erişim: Uçan canavarlar bu canavara saldırmak zorundadır"
+        },
+        {
+            "key": "card.calfire.text",
+            "value": "Büyü hasarı +1"
+        },
+        {
+            "key": "card.cheetula.text",
+            "value": "<b>Oyun</b>: Yavru Jagur çağır\nDiğer tüm müttefik Kediler +1 saldırı"
+        },
+        {
+            "key": "card.chewanha.text",
+            "value": "<b>Öldürme:</b> İki kart çek"
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "Kabuk\nÖfke II"
+        },
+        {
+            "key": "card.clampion.text",
+            "value": "Kalkan\nKabuk"
+        },
+        {
+            "key": "card.coin.text",
+            "value": "1 mana kazan"
+        },
+        {
+            "key": "card.cryonix.text",
+            "value": "<b>Oyun:</b> Saldırısı 4 veya daha az olan tüm düşman canavarlarını dondur\nUçma"
+        },
+        {
+            "key": "card.cyowl.text",
+            "value": "<b>Oyun:</b> Saldırısı 4 veya daha az olan bir düşman canavarını dondur\nUçma"
+        },
+        {
+            "key": "card.cypha.text",
+            "value": "Gizlilik"
+        },
+        {
+            "key": "card.cypha_full.text",
+            "value": "Gizlilik"
+        },
+        {
+            "key": "card.darcelia.text",
+            "value": "<b>Oyun:</b> Hedef canavarı lanetle"
+        },
+        {
+            "key": "card.darkos.text",
+            "value": "<b>Oyun</b>: Tahtadaki tüm canavarları lanetle"
+        },
+        {
+            "key": "card.devastor.text",
+            "value": "Büyü Bağışıklığı / Kabuk\n<b>Oyun:</b> Diğer her şeye 2 hasar ver"
+        },
+        {
+            "key": "card.devastor_full.text",
+            "value": "Büyü Bağışıklığı / Kabuk\n<b>Oyun:</b> Diğer her şeye 2 hasar ver"
+        },
+        {
+            "key": "card.djinnas.text",
+            "value": "<b>Oyun:</b> Bu canavarı, maliyeti 7 veya daha az mana olan bir düşman canavarıyla değiştir"
+        },
+        {
+            "key": "card.djune.text",
+            "value": "<b>Oyun:</b> Bu canavarı, maliyeti 3 veya daha az mana olan bir düşman canavarıyla değiştir"
+        },
+        {
+            "key": "card.dobash.text",
+            "value": "Kalkan"
+        },
+        {
+            "key": "card.dofurious.text",
+            "value": "Yetenek Bağışıklığı\nÇiğneme"
+        },
+        {
+            "key": "card.dolvi.text",
+            "value": "<b>Oyun:</b> Hedef canavarı zehirle"
+        },
+        {
+            "key": "card.domumu.text",
+            "value": "<b>Oyun:</b> Hedef canavara bir sonraki turuna kadar +2/+2 ver"
+        },
+        {
+            "key": "card.doshoto.text",
+            "value": "<b>Saldırı:</b> Z6 at, 4+ gelirse tur sonuna kadar +3 saldırı kazan"
+        },
+        {
+            "key": "card.dothrow.text",
+            "value": "Kalkan"
+        },
+        {
+            "key": "card.dracon.text",
+            "value": "Çiğneme\nUçma"
+        },
+        {
+            "key": "card.dragin.text",
+            "value": "Öfke"
+        },
+        {
+            "key": "card.dragon_egg.text",
+            "value": "Destenden bir ejderha ara"
+        },
+        {
+            "key": "card.dragulp.text",
+            "value": "Kalkan"
+        },
+        {
+            "key": "card.drion.text",
+            "value": "<b>Oyun</b>: Hedef canavarı sustur ve lanetle"
+        },
+        {
+            "key": "card.dryaow.text",
+            "value": "<b>Oyun</b>: Tahtadaki tüm canavarları lanetle"
+        },
+        {
+            "key": "card.dulster.text",
+            "value": "<b>Saldırı</b>: Hedef canavarı lanetle ve zehirle"
+        },
+        {
+            "key": "card.electric_token.text",
+            "value": "Elektrik Jetonu'nu herhangi bir Elektrik Kartıyla değiştir"
+        },
+        {
+            "key": "card.electric_town.text",
+            "value": "Tüm Elektrik canavarlarının maliyeti 2 mana daha az (düşmanlar dahil)"
+        },
+        {
+            "key": "card.elegat.text",
+            "value": "<b>Oyun:</b> Rakip elinden rastgele bir kart atar"
+        },
+        {
+            "key": "card.emberstorm.text",
+            "value": "Oyuna girerken ve senin her tur başında, tahtadaki diğer tüm Ateş olmayan canavarları yak"
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "Oyuna girerken ve senin her tur başında, tahtadaki diğer tüm Ateş olmayan canavarları yak"
+        },
+        {
+            "key": "card.envish.text",
+            "value": "<b>Oyun:</b> Saldırısı 3 veya daha az olan bir canavarı yok et"
+        },
+        {
+            "key": "card.equip_psychic_ring.text",
+            "value": "Her tur başında rakibin elini göster. En fazla 3 tur sürer"
+        },
+        {
+            "key": "card.equip_shield.text",
+            "value": "Taşıyıcı 2 zırh ve kalkan kazanır"
+        },
+        {
+            "key": "card.equip_sword_fire.text",
+            "value": "Saldırı +1\nTaşıyıcı saldırırken hasar almaz"
+        },
+        {
+            "key": "card.equip_sword_rock.text",
+            "value": "Taşıyıcının saldırı değeri orijinal maksimum canına eşit olur"
+        },
+        {
+            "key": "card.equip_water_ring.text",
+            "value": "4 tur boyunca her tur 2 ekstra mana kazan"
+        },
+        {
+            "key": "card.espe.text",
+            "value": "Mana maliyeti 5+ olan bir düşman canavarını bu canavar tahtadan ayrılana kadar zihin kontrolüyle al"
+        },
+        {
+            "key": "card.evira.text",
+            "value": "<b>Oyun:</b> Hedef canavara bir sonraki turuna kadar +2/+2 ver\nYaşam Çalma"
+        },
+        {
+            "key": "card.exord.text",
+            "value": "<b>Oyun:</b> Tahtadaki diğer tüm kartlara 2 hasar ver"
+        },
+        {
+            "key": "card.ezonea.text",
+            "value": "<b>Oyun:</b> Saldırısı 5 veya daha az olan bir düşman canavarını zihin kontrolüyle al"
+        },
+        {
+            "key": "card.fire_token.text",
+            "value": "Ateş Jetonu'nu herhangi bir Ateş Kartıyla değiştir"
+        },
+        {
+            "key": "card.flamitto.text",
+            "value": "<b>Saldırı:</b> Hedef canavarı yak"
+        },
+        {
+            "key": "card.flifi.text",
+            "value": "<b>Oyun:</b> Maliyeti 2 veya daha az mana olan bir hedef canavarı zihin kontrolüyle al"
+        },
+        {
+            "key": "card.flozo.text",
+            "value": "<b>Oyun:</b> Saldırısı 3 veya daha az olan bir hedef canavarı zihin kontrolüyle al"
+        },
+        {
+            "key": "card.froggyo.text",
+            "value": "<b>Oyun:</b> Her iki taraftan maliyeti 2 veya daha az mana olan bir hedef canavarı seç ve diğer oyuncuya gönder"
+        },
+        {
+            "key": "card.frojest.text",
+            "value": "Rakip bir canavar kartı attığında bu canavar atılan canavarın kopyası olur"
+        },
+        {
+            "key": "card.frojesti.text",
+            "value": "Rakip bir büyü attığında eline sıfır mana maliyetli bir kopya oluştur"
+        },
+        {
+            "key": "card.frojesti_full.text",
+            "value": "Rakip bir büyü attığında eline sıfır mana maliyetli bir kopya oluştur"
+        },
+        {
+            "key": "card.froster.text",
+            "value": "HIZ\nBir canavar donduğunda +1/+1 kazan"
+        },
+        {
+            "key": "card.galasu.text",
+            "value": "Büyü Bağışıklığı veya Yetenek Bağışıklığı kazan\nKalkanı yok say"
+        },
+        {
+            "key": "card.galasu_full.text",
+            "value": "Büyü Bağışıklığı veya Yetenek Bağışıklığı kazan\nKalkanı yok say"
+        },
+        {
+            "key": "card.gamud.text",
+            "value": "Hasar alıp hayatta kaldığında 1 kart çek"
+        },
+        {
+            "key": "card.gargarm.text",
+            "value": "Büyü oynadıktan sonra +2 saldırı kazan\nUçma"
+        },
+        {
+            "key": "card.gargoli.text",
+            "value": "Büyü oynadıktan sonra +2 saldırı kazan"
+        },
+        {
+            "key": "card.geister.text",
+            "value": "<b>Saldırı:</b> Hedef canavarı lanetle ve zehirle"
+        },
+        {
+            "key": "card.gemash.text",
+            "value": "Seçim: Kalkan veya +2 Zırh"
+        },
+        {
+            "key": "card.gizap.text",
+            "value": "Başka bir canavar öldüğünde 1 kart çek"
+        },
+        {
+            "key": "card.gizord.text",
+            "value": "Hız"
+        },
+        {
+            "key": "card.gizord_full.text",
+            "value": "Hız"
+        },
+        {
+            "key": "card.glidara.text",
+            "value": "Seçim: Kalkan veya Hız\n<b>Ölüm:</b> Bir İglo çağır"
+        },
+        {
+            "key": "card.glummy.text",
+            "value": "<b>Saldırı:</b> Hedef canavarı zehirle\nUçma"
+        },
+        {
+            "key": "card.gluttrats.text",
+            "value": "Büyü oynadıktan sonra +2 saldırı kazan"
+        },
+        {
+            "key": "card.goldape.text",
+            "value": "Her tur başında +1 saldırı kazan"
+        },
+        {
+            "key": "card.gookie.text",
+            "value": "Kalkan\n<b>Oyun:</b> +1 Zırh"
+        },
+        {
+            "key": "card.gorupt.text",
+            "value": "<b>Oyun:</b> Tahtadaki diğer tüm kartlara 2 hasar ver"
+        },
+        {
+            "key": "card.gracelia.text",
+            "value": "<b>Oyun:</b> Bir canavardaki tüm negatif durum etkilerini kaldır ve +2 can ver"
+        },
+        {
+            "key": "card.graceliaex.text",
+            "value": "<b>Eylem (2):</b> Oyuncuyu 3 can iyileştir"
+        },
+        {
+            "key": "card.grandcelia.text",
+            "value": "<b>Oyun:</b> +2/+2 ver\n<b>Eylem:</b> Geri sektir"
+        },
+        {
+            "key": "card.grocelia.text",
+            "value": "<b>Oyun:</b> Hedef canavarı sustur"
+        },
+        {
+            "key": "card.gruthor.text",
+            "value": "<b>Kalkan</b>\nHasar alıp hayatta kaldığında tüm müttefik kaya canavarlarına +1 zırh ver"
+        },
+        {
+            "key": "card.hajiko.text",
+            "value": "<b>Oyun:</b> Bir canavara Acı Laneti ekle"
+        },
+        {
+            "key": "card.hammar.text",
+            "value": "Öfke\n<b>Oyun:</b> 1 zırh kazan\nDüşman oyuncuya saldırdıktan sonra destenden bir kaya büyüsü kartı çek"
+        },
+        {
+            "key": "card.hammark.text",
+            "value": "Başka bir canavar öldüğünde 1 kart çek\nSaldırı Kaybı Bağışıklığı"
+        },
+        {
+            "key": "card.hammi.text",
+            "value": "Öfke III"
+        },
+        {
+            "key": "card.hammiexplorer.text",
+            "value": "Öfke\nDüşman oyuncuya saldırdıktan sonra destenden bir kaya büyüsü kartı çek"
+        },
+        {
+            "key": "card.hammish.text",
+            "value": "Başka bir canavar öldüğünde 1 kart çek"
+        },
+        {
+            "key": "card.hato.text",
+            "value": "Bir konum çağırdığında Kabuk kazan\nTahtada buz konumu varsa +1/+1 kazan"
+        },
+        {
+            "key": "card.headrac.text",
+            "value": "Her tur +1 saldırı kazan"
+        },
+        {
+            "key": "card.heara.text",
+            "value": "<b>Oyun:</b> Hedef canavarın saldırısı 1'e düşürülür"
+        },
+        {
+            "key": "card.hero_electric.text",
+            "value": "Elektrik canavarına Hız veren antik bir Elektrik Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_fire.text",
+            "value": "Herhangi bir karta veya oyuncuya 1 hasar verebilen antik bir Ateş Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_ice.text",
+            "value": "Herhangi bir kartı 1 tur dondurabilen antik bir Buz Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_plant.text",
+            "value": "Karakterleri ve oyuncuları 2 can iyileştiren antik bir Bitki Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_psychic.text",
+            "value": "Rakibin elinden bir kart attırabilen antik bir Psikik Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_rock.text",
+            "value": "Tahtadaki herhangi bir karta +1 Zırh veren antik bir Kaya Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_shadow.text",
+            "value": "Tahtadaki herhangi bir kartı lanetleyebilen antik bir Gölge Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_water.text",
+            "value": "Oyuncuya fazladan kart çektiren antik bir Su Fracctal Perisi"
+        },
+        {
+            "key": "card.hippoh.text",
+            "value": "<b>Saldırı:</b> Hedef canavarı yak"
+        },
+        {
+            "key": "card.hito.text",
+            "value": "<b>Oyun:</b> 1 kart çek\nTahtada buz konumu varsa +1/+1 kazan"
+        },
+        {
+            "key": "card.ice_token.text",
+            "value": "Buz Jetonu'nu herhangi bir Buz Kartıyla değiştir"
+        },
+        {
+            "key": "card.ice_town_igloo.text",
+            "value": "Can 2+ ise tüm müttefik buz canavarları +0/+1 kazanır\nCan 4+ ise tüm müttefik buz canavarları +1/+0 kazanır\nCan 6+ ise tüm Buz kartları elden 1 daha az maliyete oynanır"
+        },
+        {
+            "key": "card.ignitas.text",
+            "value": "Öfke"
+        },
+        {
+            "key": "card.igniti.text",
+            "value": "<b>Ölüm:</b> Düşman oyuncuya 2 hasar ver"
+        },
+        {
+            "key": "card.insha.text",
+            "value": "<b>Saldırı</b>: Hedef canavarı lanetle"
+        },
+        {
+            "key": "card.inuk.text",
+            "value": "Uçma"
+        },
+        {
+            "key": "card.kincactuz.text",
+            "value": "<b>Seçim</b>: Kalkan veya Öfke"
+        },
+        {
+            "key": "card.kinfish.text",
+            "value": "<b>Öldürme:</b> İki kart çek\n<b>Ölüm:</b> 1 kart çek"
+        },
+        {
+            "key": "card.kuraigar.text",
+            "value": "Rakibin turunda +3 saldırı kazanır"
+        },
+        {
+            "key": "card.kuraigor.text",
+            "value": "Kabuk\nKalkan"
+        },
+        {
+            "key": "card.lala.text",
+            "value": "<b>Saldırı:</b> Hedef canavarı zehirle"
+        },
+        {
+            "key": "card.lampi.text",
+            "value": "Hız\nUçma"
+        },
+        {
+            "key": "card.lizordo.text",
+            "value": "Ölüm Dokunuşu"
+        },
+        {
+            "key": "card.lizoru.text",
+            "value": "<b>Oyun</b>: Bir Lizo çağır\nDiğer tüm müttefik Sürüngen +1 saldırı"
+        },
+        {
+            "key": "card.lizorus.text",
+            "value": "<b>Oyun</b>: Bir Lizo çağır\nDiğer tüm müttefik Sürüngen +2 saldırı"
+        },
+        {
+            "key": "card.lizorus_full.text",
+            "value": "<b>Oyun</b>: Bir Lizo çağır\nDiğer tüm müttefik Sürüngen +2 saldırı"
+        },
+        {
+            "key": "card.lizteel.text",
+            "value": "Öfke II"
+        },
+        {
+            "key": "card.loneguin.text",
+            "value": "Kalkan\n<b>Ölüm:</b> Bir İglo çağır"
+        },
+        {
+            "key": "card.lumini.text",
+            "value": "<b>Oyun:</b> Bir İglo çağır\nUçma"
+        },
+        {
+            "key": "card.luminus.text",
+            "value": "<b>Oyun:</b> +2/+2 ver\nUçma"
+        },
+        {
+            "key": "card.lunab.text",
+            "value": "<b>Oyun:</b> İglo'yu iki kez çağır ve saldırısı 3 veya daha az olan bir düşman canavarını dondur\nUçma"
+        },
+        {
+            "key": "card.lurian.text",
+            "value": "<b>Oyun:</b> +2/+2 ver\n<b>Oyun:</b> Oyuncuyu 4 can iyileştir\nUçma"
+        },
+        {
+            "key": "card.lurian_full.text",
+            "value": "<b>Oyun:</b> +2/+2 ver\n<b>Oyun:</b> Oyuncuyu 4 can iyileştir\nUçma"
+        },
+        {
+            "key": "card.marshland.text",
+            "value": "<b>Tur başı: </b>Tüm Bitki kartları 3 can iyileşir"
+        },
+        {
+            "key": "card.meruza.text",
+            "value": "Tüm düşman karakterler -2 saldırı"
+        },
+        {
+            "key": "card.mighto.text",
+            "value": "<b>Oyun:</b> Bu oyunda çağırdığın her İglo için +1 saldırı kazan\nKonum çağırdığında Kabuk kazan\nKabuk"
+        },
+        {
+            "key": "card.mimi.text",
+            "value": "Yenilenme"
+        },
+        {
+            "key": "card.minask.text",
+            "value": "Yenilenme"
+        },
+        {
+            "key": "card.miraibow.text",
+            "value": "Başka bir canavar öldüğünde 2 kart çek"
+        },
+        {
+            "key": "card.mirion.text",
+            "value": "Başka bir canavar öldüğünde 2 kart çek"
+        },
+        {
+            "key": "card.momburn.text",
+            "value": "Büyü hasarı +2\n<b>Saldırı:</b> Hedef canavarı yak"
+        },
+        {
+            "key": "card.mongold.text",
+            "value": "Her tur başında +2 saldırı kazan"
+        },
+        {
+            "key": "card.mosastrus.text",
+            "value": "HIZ"
+        },
+        {
+            "key": "card.moshe.text",
+            "value": "<b>Oyun:</b> Maliyeti 3 veya daha az mana olan bir düşman canavarını zihin kontrolüyle al"
+        },
+        {
+            "key": "card.mosheedark.text",
+            "value": "<b>Saldırı</b>: Hedef canavarı lanetle"
+        },
+        {
+            "key": "card.mosslug.text",
+            "value": "Çiğneme"
+        },
+        {
+            "key": "card.mosslug_full.text",
+            "value": "Çiğneme"
+        },
+        {
+            "key": "card.mountough.text",
+            "value": "<b>Oyun:</b> 3 Zırh kazan\nTur sonunda 1 kart çek"
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>Oyun:</b> 3 Zırh kazan\nTur sonunda 1 kart çek"
+        },
+        {
+            "key": "card.muni.text",
+            "value": "<b>Oyun:</b> Rakibin elini göster ve 1 kart çek"
+        },
+        {
+            "key": "card.murple.text",
+            "value": "Yenilenme"
+        },
+        {
+            "key": "card.nadzu.text",
+            "value": "Öfke\nÖfke"
+        },
+        {
+            "key": "card.nhomnhom.text",
+            "value": "Saldırırken 2 mana kazan"
+        },
+        {
+            "key": "card.nobu.text",
+            "value": "Kalkan\nHer saldırı/karşı saldırıdan en fazla 2 hasar alır"
+        },
+        {
+            "key": "card.nophulos.text",
+            "value": "Öfke / Hız\nÖfke"
+        },
+        {
+            "key": "card.numind.text",
+            "value": "<b>Oyun:</b> Rakibin elini göster\n<b>Eylem (2):</b> Rakibin elinden maliyeti 3 veya daha az mana olan rastgele bir kart at"
+        },
+        {
+            "key": "card.nutsu.text",
+            "value": "<b>Tur Sonu:</b> Tahtada başka canavarın varsa gizliliğe gir"
+        },
+        {
+            "key": "card.operant.text",
+            "value": "Öfke\n<b>Oyun:</b> Tahtadaki tüm kartlara 1 hasar ver"
+        },
+        {
+            "key": "card.ophala.text",
+            "value": "Rakibin turunda +3 saldırı\nKalkan"
+        },
+        {
+            "key": "card.ophalant.text",
+            "value": "Rakibin turunda +3 saldırı\nKalkan / Kabuk"
+        },
+        {
+            "key": "card.ophalant_full.text",
+            "value": "Rakibin turunda +3 saldırı\nKalkan / Kabuk"
+        },
+        {
+            "key": "card.oritoro.text",
+            "value": "Saldırırken Z6 at. 4+ gelirse +3 saldırı kazan"
+        },
+        {
+            "key": "card.owind.text",
+            "value": "Büyü Bağışıklığı\nKalkanı yok say\n<b>Oyun: </b> Hedefi dondur"
+        },
+        {
+            "key": "card.owind_full.text",
+            "value": "Büyü Bağışıklığı\nKalkanı yok say\n<b>Oyun: </b> Hedefi dondur"
+        },
+        {
+            "key": "card.peafan.text",
+            "value": "<b>Oyun:</b> Saldırısı 4 veya daha az olan bir canavarı yok et"
+        },
+        {
+            "key": "card.peafan_egg.text",
+            "value": "3 tur sonra Peafan'a dönüşür\nBir İglo çağır"
+        },
+        {
+            "key": "card.peako.text",
+            "value": "<b>Oyun:</b> Bir İglo çağır\nZaten İglo'n varsa 1 kart çek"
+        },
+        {
+            "key": "card.perllusion.text",
+            "value": "Gizlilik\n<b>Oyun:</b> Rakip rastgele bir kart atar\nRakip kart attığında +1 Saldırı kazan"
+        },
+        {
+            "key": "card.petami.text",
+            "value": "Yenilenme"
+        },
+        {
+            "key": "card.petili.text",
+            "value": "<b>Oyun:</b> Başka bir canavara bir sonraki turuna kadar +2/+2 ver"
+        },
+        {
+            "key": "card.phanti.text",
+            "value": "Başka bir karakter öldüğünde 1 kart çek"
+        },
+        {
+            "key": "card.phyra.text",
+            "value": "<b>Eylem (3):</b> 2 hasar ver\n<b>Ölüm:</b> Bir Phyra yumurtası çağır"
+        },
+        {
+            "key": "card.phyra_egg.text",
+            "value": "3 tur sonra Phyra'ya dönüşür"
+        },
+        {
+            "key": "card.phyrox.text",
+            "value": "<b>Eylem (2):</b> Z6 at, 4+ gelirse hedefi ele geri döndür"
+        },
+        {
+            "key": "card.picko.text",
+            "value": "Öfke\n<b>Oyun:</b> Kendine 1 hasar ver, sonra herhangi bir hedef canavara 1 hasar ver"
+        },
+        {
+            "key": "card.plant_token.text",
+            "value": "Bitki Jetonu'nu herhangi bir Bitki Kartıyla değiştir"
+        },
+        {
+            "key": "card.plator.text",
+            "value": "Kabuk\nHer tur başında 1 zırh kazan"
+        },
+        {
+            "key": "card.polip.text",
+            "value": "<b>Oyun:</b> Hedef canavara bir sonraki turuna kadar +2 can ver"
+        },
+        {
+            "key": "card.potion_electric.text",
+            "value": "Hedef canavar Öfke kazanır"
+        },
+        {
+            "key": "card.potion_fire.text",
+            "value": "Hedef +1 saldırı ve öfke kazanır"
+        },
+        {
+            "key": "card.potion_green.text",
+            "value": "Hedef tatlı bir kokuya bürünür, +2 can ve Kalkan kazanır"
+        },
+        {
+            "key": "card.potion_ice.text",
+            "value": "Bir buz canavarının evrim sayacını 1 azalt, 0'a ulaşırsa evrilir"
+        },
+        {
+            "key": "card.potion_psychic.text",
+            "value": "Mana maliyeti 3 veya daha az olan bir düşman canavarını 1 tur zihin kontrolüyle al, Hız kazanır"
+        },
+        {
+            "key": "card.potion_rock.text",
+            "value": "Hedef kalkan kazanır ama saldıramaz"
+        },
+        {
+            "key": "card.potion_shadow.text",
+            "value": "Hedef Acı Laneti kazanır, her saldırı 3 hasar verir"
+        },
+        {
+            "key": "card.potion_water.text",
+            "value": "2 kart çek"
+        },
+        {
+            "key": "card.prido.text",
+            "value": "Öfke\nHer tur +1 saldırı kazan"
+        },
+        {
+            "key": "card.psony.text",
+            "value": "<b>Oyun:</b> Sadakat değiştir, hedef şu yeteneği kazanır: her tur diğer tüm müttefiklere 2 hasar ver"
+        },
+        {
+            "key": "card.psychic_token.text",
+            "value": "Psikik Jetonu'nu herhangi bir Psikik Kartıyla değiştir"
+        },
+        {
+            "key": "card.psylant.text",
+            "value": "<b>Oyun:</b> Sadakat değiştir, hedef şu yeteneği kazanır: her tur başında 2 kart at"
+        },
+        {
+            "key": "card.psynkey.text",
+            "value": "<b>Oyun:</b> Sadakat değiştir, hedef şu yeteneği kazanır: düşman karakterler +1/+2 kazanır"
+        },
+        {
+            "key": "card.pyro.text",
+            "value": "<b>Ölüm:</b> Bir Phyra yumurtası çağır"
+        },
+        {
+            "key": "card.rekrek.text",
+            "value": "<b>Oyun:</b> 1 hasar ver"
+        },
+        {
+            "key": "card.rektar.text",
+            "value": "<b>Oyun:</b> 2 hasar ver"
+        },
+        {
+            "key": "card.rektardark.text",
+            "value": "<b>Saldırı</b>: Hedef canavarı lanetle"
+        },
+        {
+            "key": "card.rektor.text",
+            "value": "<b>Her tur:</b> En düşük saldırıdaki tüm canavarları öldür (müttefikler ve bu canavar dahil)"
+        },
+        {
+            "key": "card.rock_cave.text",
+            "value": "Tüm kaya canavarları: \"+1 saldırı kazanmak için 1 hasar al\" kazanır (kullanım başına 1 mana)"
+        },
+        {
+            "key": "card.rock_golem_spawn.text",
+            "value": "Kalkan"
+        },
+        {
+            "key": "card.rock_token.text",
+            "value": "Kaya Jetonu'nu herhangi bir Kaya Kartıyla değiştir"
+        },
+        {
+            "key": "card.rootiny.text",
+            "value": "Yenilenme"
+        },
+        {
+            "key": "card.rootulp.text",
+            "value": "<b>Saldırı:</b> Hedef canavarı zehirle"
+        },
+        {
+            "key": "card.rootus.text",
+            "value": "Yenilenme"
+        },
+        {
+            "key": "card.ropick.text",
+            "value": "<b>Oyun:</b> 2 zırh kazan"
+        },
+        {
+            "key": "card.scarles.text",
+            "value": "Her tur +1 saldırı kazan\nUçma"
+        },
+        {
+            "key": "card.shadow_token.text",
+            "value": "Gölge Jetonu'nu herhangi bir Gölge Kartıyla değiştir"
+        },
+        {
+            "key": "card.shama.text",
+            "value": "Büyü hasarı +1"
+        },
+        {
+            "key": "card.shawla.text",
+            "value": "<b>Saldırı:</b> Hedef canavarı zehirle"
+        },
+        {
+            "key": "card.skatrix.text",
+            "value": "Öfke / Hız\n<b>Saldırı:</b> Hedefi dondur ve karşı saldırı hasarı alma"
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "Öfke / Hız\n<b>Saldırı:</b> Hedefi dondur ve karşı saldırı hasarı alma"
+        },
+        {
+            "key": "card.skipo.text",
+            "value": "Kalkan"
+        },
+        {
+            "key": "card.slime.text",
+            "value": "<b>Oyun:</b> Atık destenden bir canavarı eline geri al"
+        },
+        {
+            "key": "card.sneel.text",
+            "value": "Kabuk"
+        },
+        {
+            "key": "card.snowl.text",
+            "value": "Uçma\n<b>Oyun:</b> Saldırısı 2 veya daha az olan bir düşmanı dondur"
+        },
+        {
+            "key": "card.soligator.text",
+            "value": "HIZ"
+        },
+        {
+            "key": "card.sostar.text",
+            "value": "Uçma"
+        },
+        {
+            "key": "card.sovis.text",
+            "value": "Uçma"
+        },
+        {
+            "key": "card.sparkig.text",
+            "value": "Ölüm Dokunuşu"
+        },
+        {
+            "key": "card.spell_aerial_strike.text",
+            "value": "Eline 3 Phyra kartı ekle"
+        },
+        {
+            "key": "card.spell_armageddon.text",
+            "value": "Tahtadaki tüm kartları yok et"
+        },
+        {
+            "key": "card.spell_avalanche_ice.text",
+            "value": "Dondurulmuş hedefi yok et\nBir konumu yok et"
+        },
+        {
+            "key": "card.spell_boost_electric.text",
+            "value": "Tahtadaki tüm Elektrik canavarları +2 Saldırı kazanır (düşmanlar dahil)"
+        },
+        {
+            "key": "card.spell_burn.text",
+            "value": "Hedefi yok et"
+        },
+        {
+            "key": "card.spell_cursed_potion.text",
+            "value": "Hedef canavarı sustur ve lanetle"
+        },
+        {
+            "key": "card.spell_cursed_tree.text",
+            "value": "Hedef kart \"Müttefik canavar elden oynandığında bu canavarı yok et\" kazanır"
+        },
+        {
+            "key": "card.spell_electric_ally.text",
+            "value": "Destenin sonraki 7 kartına bak ve aralarından 1 Elektrik kartını el in"
+        },
+        {
+            "key": "card.spell_extinct.text",
+            "value": "Hedef kart \"Müttefik canavar elden oynandığında bu canavarı yok et\" kazanır"
+        },
+        {
+            "key": "card.spell_falling_stones.text",
+            "value": "Bir müttefik canavara 1 hasar ver, sonra rastgele bir düşman hedefe iki kez 2 hasar ver"
+        },
+        {
+            "key": "card.spell_flood.text",
+            "value": "Tüm canavarların canını 1'e düşür"
+        },
+        {
+            "key": "card.spell_growth.text",
+            "value": "Tüm müttefik bitki canavarları +2/+2 kazanır"
+        },
+        {
+            "key": "card.spell_hammi_strike.text",
+            "value": "Herhangi bir hedefe 3 hasar ver"
+        },
+        {
+            "key": "card.spell_ice_storm.text",
+            "value": "Tahtadaki tüm canavarları dondur\nZaten dondurulmuş olanları yok et"
+        },
+        {
+            "key": "card.spell_ice_treasure.text",
+            "value": "Hedef canavarı dondur\n1 kart çek\nİglo çağır"
+        },
+        {
+            "key": "card.spell_ice_wave.text",
+            "value": "Hedefi 1 tur dondur"
+        },
+        {
+            "key": "card.spell_icy_rain.text",
+            "value": "Tüm canavarlara 1 hasar ver, sonra tüm dondurulmuş canavarlara 2 hasar ver"
+        },
+        {
+            "key": "card.spell_lampi_electric_storm.text",
+            "value": "Eline üç Lampi kartı ekle"
+        },
+        {
+            "key": "card.spell_lightning_bolts.text",
+            "value": "Tüm düşman canavarlarına 2 hasar verir"
+        },
+        {
+            "key": "card.spell_meal.text",
+            "value": "Hedef kalıcı olarak +2/+2 kazanır ve negatif durum etkilerinden kurtulur"
+        },
+        {
+            "key": "card.spell_projectiles_fire.text",
+            "value": "Rastgele bir düşman karta 1 hasar ver\nX kez tekrarla"
+        },
+        {
+            "key": "card.spell_psychic_rain.text",
+            "value": "Rakip elinden 3 rastgele kart atar"
+        },
+        {
+            "key": "card.spell_psychic_staff.text",
+            "value": "Bir düşman canavarı 3 tur veya evrilene kadar kontrol et"
+        },
+        {
+            "key": "card.spell_rock_armageddon.text",
+            "value": "Harcanan mana miktarına göre Kalkan ve X saldırı/X can'lı bir kaya golem çağır"
+        },
+        {
+            "key": "card.spell_rock_projectiles.text",
+            "value": "Bir müttefik canavara 1 hasar ver, sonra herhangi bir hedefe 2 hasar ver"
+        },
+        {
+            "key": "card.spell_rock_shell.text",
+            "value": "Hedef canavar +2 zırh kazanır"
+        },
+        {
+            "key": "card.spell_roots.text",
+            "value": "Hedefi 3 tur felç et"
+        },
+        {
+            "key": "card.spell_shadow_staff.text",
+            "value": "Tüm canavarların canını ve saldırısını 1'e düşür"
+        },
+        {
+            "key": "card.spell_split.text",
+            "value": "Hedef canavar \"Saldırmadan önce 3 hasar al\" kazanır"
+        },
+        {
+            "key": "card.spell_stomp.text",
+            "value": "Tahtadaki en düşük cana sahip canavarı yok et (seninkiler dahil, eşitlikte rastgele seçilir)"
+        },
+        {
+            "key": "card.spell_stone_weights.text",
+            "value": "Hedef canavar saldıramaz ve tur sonunda 1 hasar alır"
+        },
+        {
+            "key": "card.spell_stones.text",
+            "value": "1 hasar ver\n1 kart çek"
+        },
+        {
+            "key": "card.spell_storm.text",
+            "value": "Tüm kartlar sahiplerinin eline geri döner"
+        },
+        {
+            "key": "card.spell_submerge.text",
+            "value": "Hedef kart \"Saldırıldığında rakip 1 rastgele kart atar\" kazanır"
+        },
+        {
+            "key": "card.spell_toxic_rain.text",
+            "value": "Tahtadaki tüm kartları zehirle"
+        },
+        {
+            "key": "card.spell_treasure.text",
+            "value": "Destenin sonraki 7 kartına bak ve aralarından 1 Su kartını eline ekle"
+        },
+        {
+            "key": "card.spell_wave.text",
+            "value": "Düşman hedefi sahibinin eline geri döndür"
+        },
+        {
+            "key": "card.spell_wave_psychic.text",
+            "value": "Herhangi bir hedefi sahibinin eline geri döndür, sonra rakip elinden rastgele bir kart atar"
+        },
+        {
+            "key": "card.spiky.text",
+            "value": "<b>Oyun:</b> Saldırısı 2 veya daha az olan bir canavarı yok et"
+        },
+        {
+            "key": "card.stingor.text",
+            "value": "<b>Saldırı:</b> Hedefi zehirle"
+        },
+        {
+            "key": "card.stingy.text",
+            "value": "<b>Saldırı:</b> Hedefi zehirle"
+        },
+        {
+            "key": "card.stormus.text",
+            "value": "Düşman canavarları -1 saldırı\nKalkanı yok sayabilir"
+        },
+        {
+            "key": "card.stormy.text",
+            "value": "HIZ"
+        },
+        {
+            "key": "card.swamp.text",
+            "value": "<b>Tur başı: </b>Tüm müttefik Gölge canavarları +1 saldırı kazanır"
+        },
+        {
+            "key": "card.tahlu.text",
+            "value": "Gizlilik\nDiğer tüm müttefik Kedi +1 saldırı"
+        },
+        {
+            "key": "card.tailu.text",
+            "value": "Çamur Hızı"
+        },
+        {
+            "key": "card.tectan.text",
+            "value": "Tüm müttefik kaya canavarları +2 Zırh"
+        },
+        {
+            "key": "card.tempish.text",
+            "value": "<b>Oyun:</b> Herhangi bir hedefi sahibinin eline geri döndür"
+        },
+        {
+            "key": "card.tempish_full.text",
+            "value": "<b>Oyun:</b> Herhangi bir hedefi sahibinin eline geri döndür"
+        },
+        {
+            "key": "card.tensei.text",
+            "value": "Kalkan\n<b>Oyun:</b> +1 Zırh"
+        },
+        {
+            "key": "card.terrastrus.text",
+            "value": "Öfke\n<b>Oyun:</b> Tahtadaki tüm kartlara 1 hasar ver, sonra tüm müttefik kartları 1 can iyileştir"
+        },
+        {
+            "key": "card.town_darkwoods_shadow.text",
+            "value": "Tüm müttefik Gölge kartları +2 Saldırı"
+        },
+        {
+            "key": "card.town_forest.text",
+            "value": "Tüm müttefik Bitki kartları +2 Can"
+        },
+        {
+            "key": "card.town_psychic.text",
+            "value": "Bir psikik canavar oynadığında veya düşman canavarı kontrol ettiğinde rakip elinden rastgele bir kart atar"
+        },
+        {
+            "key": "card.town_rock.text",
+            "value": "Tüm müttefik Kaya canavarları bir öfke yığını kazanır"
+        },
+        {
+            "key": "card.town_volcano.text",
+            "value": "Tüm müttefik Ateş canavarları +2 saldırı"
+        },
+        {
+            "key": "card.town_water.text",
+            "value": "Elindeki Su kartları 1 daha az maliyete oynanır"
+        },
+        {
+            "key": "card.trap_bomb_electric.text",
+            "value": "<b>Tuzak:</b> Bir düşman saldırdığında tüm düşman canavarlarına 1 hasar ver ve hepsini 1 tur felç et"
+        },
+        {
+            "key": "card.trap_explosive.text",
+            "value": "<b>Tuzak:</b> Tahtadaki tüm düşman canavarlarına 2 hasar ver"
+        },
+        {
+            "key": "card.trap_fish.text",
+            "value": "<b>Tuzak:</b> Balığa dönüş."
+        },
+        {
+            "key": "card.trap_ice.text",
+            "value": "<b>Tuzak:</b> Bir düşman saldırdığında hedefi 2 tur dondur"
+        },
+        {
+            "key": "card.trap_poison_spike.text",
+            "value": "<b>Tuzak:</b> Sonraki saldırgana zehir ver ve 3 hasar ver"
+        },
+        {
+            "key": "card.trap_psychic_pit.text",
+            "value": "Sonraki düşman canavar saldırdığında onu 1 tur zihin kontrolüyle al ve kalkan ver"
+        },
+        {
+            "key": "card.trap_spike.text",
+            "value": "<b>Tuzak:</b> Bir düşman oyuncuya saldırdığında 4 can iyileştir"
+        },
+        {
+            "key": "card.trats.text",
+            "value": "Büyü oynadıktan sonra +2 saldırı kazan"
+        },
+        {
+            "key": "card.turbowing.text",
+            "value": "Hız\nUçma"
+        },
+        {
+            "key": "card.turtod.text",
+            "value": "Kalkan"
+        },
+        {
+            "key": "card.twii.text",
+            "value": "<b>Ölüm:</b> 1 kart çek\nUçma"
+        },
+        {
+            "key": "card.twiina.text",
+            "value": "Yetenek Bağışıklığı\nUçma\n<b>Ölüm:</b> Bir Twii çağır"
+        },
+        {
+            "key": "card.urnog.text",
+            "value": "<b>Oyun</b>: Hedef canavarın saldırısını 3 yap"
+        },
+        {
+            "key": "card.urogorth.text",
+            "value": "Kalkan\n<b>Oyun:</b> +2 Zırh"
+        },
+        {
+            "key": "card.venorus.text",
+            "value": "<b>Oyun</b>: Tahtadaki tüm düşman kartlarını zehirle"
+        },
+        {
+            "key": "card.venorus_full.text",
+            "value": "<b>Oyun</b>: Tahtadaki tüm düşman kartlarını zehirle"
+        },
+        {
+            "key": "card.vertron.text",
+            "value": "Tüm Elektrik canavarlarının maliyeti 2 mana daha az"
+        },
+        {
+            "key": "card.vertron_full.text",
+            "value": "Tüm Elektrik canavarlarının maliyeti 2 mana daha az"
+        },
+        {
+            "key": "card.viborus.text",
+            "value": "Gizlilik\nSaldırı: Hedef canavarı zehirle"
+        },
+        {
+            "key": "card.virgo.text",
+            "value": "Saldıramaz\nTur başında rastgele bir müttefiki uyutur\n<b>Oyun:</b> Kendini zehirle"
+        },
+        {
+            "key": "card.volcano.text",
+            "value": "Tüm Ateş canavarları: \"+1 saldırı kazanmak için 1 hasar al\" kazanır (kullanım başına 1 mana)"
+        },
+        {
+            "key": "card.vorteru.text",
+            "value": "<b>Oyun</b>: Hedef canavarın saldırısını 1 yap"
+        },
+        {
+            "key": "card.vulkong.text",
+            "value": "<b>Oyun:</b> Tahtadaki diğer tüm kartlara 1 hasar ver"
+        },
+        {
+            "key": "card.waazu.text",
+            "value": "<b>Oyun:</b> Hedef canavarı sustur"
+        },
+        {
+            "key": "card.warhammi.text",
+            "value": "Her tur 1 zırh kazan"
+        },
+        {
+            "key": "card.waru.text",
+            "value": "Rakibin turunda +3 saldırı"
+        },
+        {
+            "key": "card.waru_mount.text",
+            "value": "Düşman canavarları -1 saldırı\n<b>Eylem:</b> Müttefiklere +1 saldırı"
+        },
+        {
+            "key": "card.water_token.text",
+            "value": "Su Jetonu'nu herhangi bir Su Kartıyla değiştir"
+        },
+        {
+            "key": "card.wido.text",
+            "value": "<b>Tur Sonu:</b> Tahtada başka canavarın varsa gizliliğe gir"
+        },
+        {
+            "key": "card.wolvie.text",
+            "value": "<b>Tur Sonu:</b> Tahtada başka canavarın varsa gizliliğe gir"
+        },
+        {
+            "key": "card.woodo.text",
+            "value": "<b>Oyun: </b> Atık destenden bir canavarı eline ekle"
+        },
+        {
+            "key": "card.woodost.text",
+            "value": "<b>Seçim: </b> Kalkan veya Öfke"
+        },
+        {
+            "key": "card.worpi.text",
+            "value": "<b>Oyun:</b> Tahtadaki en yüksek zırhı al ve bu canavara uygula"
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>Oyun:</b> Tahtadaki en yüksek zırhı al ve bu canavara uygula"
+        },
+        {
+            "key": "card.woshi.text",
+            "value": "Düşman oyuncuya saldırırken 1 mana kazan"
+        },
+        {
+            "key": "card.yachan.text",
+            "value": "<b>Konum İndirimi</b>: Aynı elementteki herhangi bir konum 1 mana daha az maliyete oynanır"
+        },
+        {
+            "key": "card.yochan.text",
+            "value": "Tahtadaki aynı elementteki her konum kartı için +2 can kazan"
+        },
+        {
+            "key": "card.zaphyra.text",
+            "value": "Büyü Bağışıklığı\nSaldırılandığında 1 kart çek"
+        },
+        {
+            "key": "card.zaphyra_full.text",
+            "value": "Büyü Bağışıklığı\nSaldırılandığında 1 kart çek"
+        },
+        {
+            "key": "card.zargon.text",
+            "value": "Yetenek Bağışıklığı\nYenilenme\n<b>Oyun: </b> Atık destenden bir kartı eline ekle"
+        },
+        {
+            "key": "card.zargon_full.text",
+            "value": "Yetenek Bağışıklığı\nYenilenme\n<b>Oyun: </b> Atık destenden bir kartı eline ekle"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "Kalkan\nKabuk"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "Büyü hasarı +4\nUçma"
+        },
+        {
+            "key": "card.zenphire_full.text",
+            "value": "Büyü hasarı +4\nUçma"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "<b>Oyun:</b> Lanetle\n<b>Oyun:</b> Bir Hajiko çağır"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "Başka bir canavar öldüğünde 2 kart çek"
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>Oyun:</b> Hedef canavarın saldırısı 1'e düşürülür"
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "Hız\nUçma"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "Her tur başında 1 kart çek"
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "Diğer tüm müttefik sürüngenler +2 saldırı"
+        }
+    ]
+}

@@ -2418,7 +2418,7 @@
         },
         {
             "key": "tip_start_turn_status_destroyed",
-            "value": "{0} kartın {1} tarafından yok edildi, bu yüzden \"Tur Başlangıcı\" yeteneği{2} tetiklenemedi.",
+            "value": "{0} kartın {1} tarafından yok edildi, bu yüzden \"Tur Başlangıcı\" yeteneği{2} tetiklenemedi."
         },
         {
             "key": "tip_adventure_board_card_message_single",
