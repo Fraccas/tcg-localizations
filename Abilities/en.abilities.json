@@ -1673,6 +1673,14 @@
             "value": "Build Igloo"
         },
         {
+            "key": "ability.play_summon_igloo1_freeze3al.desc",
+            "value": "On play summon an Igloo, then freeze an enemy character with 3 or less attack"
+        },
+        {
+            "key": "ability.play_summon_igloo1_freeze3al.title",
+            "value": "Summon Igloo / Freeze"
+        },
+        {
             "key": "ability.play_summon_igloo2.desc",
             "value": "On play summon 2 Igloos"
         },
@@ -1730,7 +1738,7 @@
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
-            "value": "On play, select a monster under your control, and send them to the other player with the ability, discard 2 cards from hand each turn"
+            "value": "On play, select a monster under your control, and send them to the other player with the ability, enemy monsters gain +1/+2"
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
@@ -2118,11 +2126,11 @@
         },
         {
             "key": "ability.spell_paralyse.desc",
-            "value": "Paralyse target monster for 3 turns."
+            "value": "Paralyze target monster for 3 turns."
         },
         {
             "key": "ability.spell_paralyse.title",
-            "value": "Paralyse"
+            "value": "Paralyze"
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
@@ -2214,7 +2222,7 @@
         },
         {
             "key": "ability.spell_summon_lampi.desc",
-            "value": "Summon three 2/2 Lampi into your hand."
+            "value": "Summon three 2/1 Lampi into your hand."
         },
         {
             "key": "ability.spell_summon_lampi.title",
@@ -2262,7 +2270,7 @@
         },
         {
             "key": "ability.survive_damage_add_draw.desc",
-            "value": "At the start of each turn, draw 1 card"
+            "value": "When taking damage and surviving, draw a card"
         },
         {
             "key": "ability.survive_damage_add_draw.title",
@@ -2462,7 +2470,7 @@
         },
         {
             "key": "ability.trap_paralyse3.desc",
-            "value": "After an enemy monster attacks, paralyse it for 3 turns."
+            "value": "After an enemy monster attacks, paralyze it for 3 turns."
         },
         {
             "key": "ability.trap_paralyse3.title",
@@ -2750,7 +2758,7 @@
         },
         {
             "key": "status.paralysed.desc",
-            "value": "Cannot perform any actions."
+            "value": "Cannot perform any actions and has zero attack"
         },
         {
             "key": "status.paralysed.title",
