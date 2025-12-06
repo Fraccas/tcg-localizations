@@ -90,7 +90,7 @@
         },
         {
             "key": "card.cheetula.text",
-            "value": "<b>Play</b>: Summon a baby Jagur\nAll other allied Cats +1 attack"
+            "value": "<b>Play</b>: Summon a baby Jagur\nAll other allied Cat +1 attack"
         },
         {
             "key": "card.chewanha.text",
@@ -102,7 +102,7 @@
         },
         {
             "key": "card.clampion.text",
-            "value": "Taunt\nShell"
+            "value": "Shell / Taunt"
         },
         {
             "key": "card.coin.text",
@@ -110,11 +110,11 @@
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Play:</b> Freeze all enemy monsters that have 4 or less attack\nFlying"
+            "value": "Flying\n<b>Play:</b> Freeze all enemy monsters that have 4 or less attack"
         },
         {
             "key": "card.cyowl.text",
-            "value": "<b>Play:</b> Freeze an enemy monster with 4 or less attack\nFlying"
+            "value": "Flying\n<b>Play:</b> Freeze an enemy monster with 4 or less attack"
         },
         {
             "key": "card.cypha.text",
@@ -162,7 +162,7 @@
         },
         {
             "key": "card.domumu.text",
-            "value": "<b>Play:</b> Give +2/+2 to a target monster until your next turn"
+            "value": "<b>Play:</b> Give +2/+2 to a monster until your next turn"
         },
         {
             "key": "card.doshoto.text",
@@ -174,7 +174,7 @@
         },
         {
             "key": "card.dracon.text",
-            "value": "Trample\nFlying"
+            "value": "Trample / Flying"
         },
         {
             "key": "card.dragin.text",
@@ -246,11 +246,11 @@
         },
         {
             "key": "card.espe.text",
-            "value": "Mind Control an enemy target monster with a mana cost of 5+ until this monster leaves the board"
+            "value": "<b>Play:</b> Mind Control an enemy monster with mana cost of 5+"
         },
         {
             "key": "card.evira.text",
-            "value": "<b>Play:</b> Give +2/+2 to a target monster until your next turn\nLife Steal"
+            "value": "Life Steal\n<b>Play:</b> Give +2/+2 to a monster until your next turn"
         },
         {
             "key": "card.exord.text",
@@ -270,15 +270,15 @@
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>Play:</b> Mind Control a target monster that costs 2 or less mana"
+            "value": "<b>Play:</b> Mind Control an enemy monster with mana costs of 2 or less"
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Play:</b> Mind Control a target monster that has 3 attack or less"
+            "value": "<b>Play:</b> Mind Control an enemy monster with 3 or less attack"
         },
         {
             "key": "card.froggyo.text",
-            "value": "<b>Play:</b> Select a target monster with a mana cost of 2 or less from either side, and send them to the other player."
+            "value": "When opponent discards a spell, create a copy in your hand\n"
         },
         {
             "key": "card.frojest.text",
@@ -286,11 +286,11 @@
         },
         {
             "key": "card.frojesti.text",
-            "value": "When opponent discards a spell, create a zero mana cost copy in your hand\n"
+            "value": "When opponent discards a character, create a zero mana cost copy in your hand\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "When opponent discards a spell, create a zero mana cost copy in your hand\n"
+            "value": "When opponent discards a character, create a zero mana cost copy in your hand\n"
         },
         {
             "key": "card.froster.text",
@@ -298,11 +298,11 @@
         },
         {
             "key": "card.galasu.text",
-            "value": "Gain Spell Immunity or Ability Immunity\nIgnore Taunt"
+            "value": "Flying\nChoice: Spell Immunity or Ability Immunity"
         },
         {
             "key": "card.galasu_full.text",
-            "value": "Gain Spell Immunity or Ability Immunity\nIgnore Taunt"
+            "value": "Flying\nChoice: Spell Immunity or Ability Immunity"
         },
         {
             "key": "card.gamud.text",
@@ -310,7 +310,7 @@
         },
         {
             "key": "card.gargarm.text",
-            "value": "After playing a spell, gain +2 attack\nFlying"
+            "value": "Flying\nAfter playing a spell, gain +2 attack"
         },
         {
             "key": "card.gargoli.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "Whenever another monster dies, draw 1 card"
+            "value": "Whenever another monster dies, draw a card"
         },
         {
             "key": "card.gizord.text",
@@ -342,7 +342,7 @@
         },
         {
             "key": "card.glummy.text",
-            "value": "<b>Attack:</b> Poison the target monster\nFlying"
+            "value": "Flying\n<b>Attack:</b> Poison the target monster"
         },
         {
             "key": "card.gluttrats.text",
@@ -370,7 +370,7 @@
         },
         {
             "key": "card.grandcelia.text",
-            "value": "<b>Play:</b> Give +2/+2\n<b>Action:</b> Bounce."
+            "value": "<b>Play:</b> Give +2/+2 to a monster until your next turn\n<b>Action:</b> Bounce."
         },
         {
             "key": "card.grocelia.text",
@@ -390,7 +390,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "Whenever another monster dies, draw a card\nAttack Loss Immunity"
+            "value": "Attack Loss Immunity\nWhenever another monster dies, draw a card"
         },
         {
             "key": "card.hammi.text",
@@ -454,7 +454,7 @@
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Play:</b> Draw a card\nGain +1/+1 if an ice location is in play"
+            "value": "<b>Death:</b> Draw a card\nGain +1/+1 if an ice location is in play"
         },
         {
             "key": "card.ice_token.text",
@@ -494,7 +494,7 @@
         },
         {
             "key": "card.kuraigor.text",
-            "value": "Shell\nTaunt"
+            "value": "Shell / Taunt"
         },
         {
             "key": "card.lala.text",
@@ -502,7 +502,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "Rush\nFlying"
+            "value": "Rush / Flying"
         },
         {
             "key": "card.lizordo.text",
@@ -530,23 +530,23 @@
         },
         {
             "key": "card.lumini.text",
-            "value": "<b>Play:</b> Summon an Igloo\nFlying"
+            "value": "Flying\n<b>Play:</b> Summon an Igloo"
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>Play:</b> Give +2/+2\nFlying"
+            "value": "Flying\n<b>Play:</b> Give +2/+2 to a monster until your next turn"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Play:</b> Summon Igloo twice and freeze an enemy monster with 3 attack or less\nFlying"
+            "value": "Flying\n<b>Play:</b> Summon Igloo twice and freeze an enemy monster with 3 attack or less"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>Play:</b> Give +2/+2\n<b>Play:</b> Heal player for 4 HP\nFlying"
+            "value": "Flying\n<b>Play:</b> Give +2/+2 to a monster until your next turn\n<b>Play:</b> Heal player for 4 HP"
         },
         {
             "key": "card.lurian_full.text",
-            "value": "<b>Play:</b> Give +2/+2\n<b>Play:</b> Heal player for 4 HP\nFlying"
+            "value": "Flying\n<b>Play:</b> Give +2/+2 to a monster until your next turn\n<b>Play:</b> Heal player for 4 HP"
         },
         {
             "key": "card.marshland.text",
@@ -590,7 +590,7 @@
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>Play:</b> Mind Control a target enemy monster with a mana cost of 3 or less"
+            "value": "<b>Play:</b> Mind Control an enemy monster with mana cost of 3 or less"
         },
         {
             "key": "card.mosheedark.text",
@@ -622,11 +622,11 @@
         },
         {
             "key": "card.nadzu.text",
-            "value": "Fury\nEnrage"
+            "value": "Fury / Enrage"
         },
         {
             "key": "card.nhomnhom.text",
-            "value": "When attacking gain 2 mana"
+            "value": "When attacking, gain 2 mana"
         },
         {
             "key": "card.nobu.text",
@@ -634,7 +634,7 @@
         },
         {
             "key": "card.nophulos.text",
-            "value": "Fury / Rush\nEnrage"
+            "value": "Fury / Rush / Enrage"
         },
         {
             "key": "card.numind.text",
@@ -650,15 +650,15 @@
         },
         {
             "key": "card.ophala.text",
-            "value": "Has +3 attack during the opponent's turn\nTaunt"
+            "value": "Taunt\nHas +3 attack during the opponent's turn"
         },
         {
             "key": "card.ophalant.text",
-            "value": "Has +3 attack during the opponent's turn\nTaunt / Shell"
+            "value": "Shell / Taunt\nHas +3 attack during the opponent's turn"
         },
         {
             "key": "card.ophalant_full.text",
-            "value": "Has +3 attack during the opponent's turn\nTaunt / Shell"
+            "value": "Shell / Taunt\nHas +3 attack during the opponent's turn"
         },
         {
             "key": "card.oritoro.text",
@@ -666,11 +666,11 @@
         },
         {
             "key": "card.owind.text",
-            "value": "Spell Immunity\nIgnore Taunt\n<b>Play: </b> Freeze a target"
+            "value": "Spell Immunity / Flying\n<b>Play: </b> Freeze a target"
         },
         {
             "key": "card.owind_full.text",
-            "value": "Spell Immunity\nIgnore Taunt\n<b>Play: </b> Freeze a target"
+            "value": "Spell Immunity / Flying\n<b>Play: </b> Freeze a target"
         },
         {
             "key": "card.peafan.text",
@@ -694,7 +694,7 @@
         },
         {
             "key": "card.petili.text",
-            "value": "<b>Play:</b> Give +2/+2 to another monster until your next turn"
+            "value": "<b>Play:</b> Give +2/+2 to a monster until your next turn"
         },
         {
             "key": "card.phanti.text",
@@ -746,7 +746,7 @@
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Mind control an enemy monster with mana cost of 3 or less for 1 turn, it gains Rush"
+            "value": "Mind control an enemy monster with mana cost of 3 or less for this turn, it gains Rush"
         },
         {
             "key": "card.potion_rock.text",
@@ -846,11 +846,11 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "Fury / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage"
+            "value": "Flying / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "Fury / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage"
+            "value": "Flying / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage"
         },
         {
             "key": "card.skipo.text",
@@ -886,7 +886,7 @@
         },
         {
             "key": "card.spell_aerial_strike.text",
-            "value": "Summon 3 Pyro cards into your hand"
+            "value": "Create 3 Pyro cards into your hand"
         },
         {
             "key": "card.spell_armageddon.text",
@@ -910,7 +910,7 @@
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "Target card gains \"When an allied monster enters play, destroy this monster\""
+            "value": "Target card gains \"When an allied monster enters play from hand, destroy this monster\""
         },
         {
             "key": "card.spell_electric_ally.text",
@@ -946,7 +946,7 @@
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Freeze a target for 1 turn"
+            "value": "Freeze a target until your next turn"
         },
         {
             "key": "card.spell_icy_rain.text",
@@ -954,7 +954,7 @@
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
-            "value": "Summon three Lampi cards into your hand"
+            "value": "Create three Lampi cards into your hand"
         },
         {
             "key": "card.spell_lightning_bolts.text",
@@ -962,7 +962,7 @@
         },
         {
             "key": "card.spell_meal.text",
-            "value": "Target gains +2/+2 permanently and cures any negative status effects"
+            "value": "Target gains +2/+2 and cures any negative status effects"
         },
         {
             "key": "card.spell_projectiles_fire.text",
@@ -1050,7 +1050,7 @@
         },
         {
             "key": "card.stormus.text",
-            "value": "Enemy monsters have -1 attack\nCan ignore taunt"
+            "value": "Flying\nEnemy monsters have -1 attack"
         },
         {
             "key": "card.stormy.text",
@@ -1134,7 +1134,7 @@
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "When the next enemy monster attacks, Mind Control it for 1 turn and give it taunt"
+            "value": "When the next enemy monster attacks, Mind Control it for this turn and give it taunt"
         },
         {
             "key": "card.trap_spike.text",
@@ -1146,7 +1146,7 @@
         },
         {
             "key": "card.turbowing.text",
-            "value": "Haste\nFlying"
+            "value": "Haste / Flying"
         },
         {
             "key": "card.turtod.text",
@@ -1154,11 +1154,11 @@
         },
         {
             "key": "card.twii.text",
-            "value": "<b>Death:</b> Draw a card\nFlying"
+            "value": "Flying\n<b>Death:</b> Draw a card"
         },
         {
             "key": "card.twiina.text",
-            "value": "Ability Immunity\nFlying\n<b>Death:</b> Summon a Twii\n"
+            "value": "Ability Immunity / Flying\n<b>Death:</b> Summon a Twii\n"
         },
         {
             "key": "card.urnog.text",
@@ -1250,7 +1250,7 @@
         },
         {
             "key": "card.woshi.text",
-            "value": "When attacking the enemy player, gain 1 mana"
+            "value": "When attacking, gain 1 mana"
         },
         {
             "key": "card.yachan.text",
@@ -1270,23 +1270,23 @@
         },
         {
             "key": "card.zargon.text",
-            "value": "Ability Immunity\nRegeneration\n<b>Play: </b> Add a card from discard to your hand"
+            "value": "Ability Immunity / Regeneration\n<b>Play: </b> Add a card from discard to your hand"
         },
         {
             "key": "card.zargon_full.text",
-            "value": "Ability Immunity\nRegeneration\n<b>Play: </b> Add a card from discard to your hand"
+            "value": "Ability Immunity / Regeneration\n<b>Play: </b> Add a card from discard to your hand"
         },
         {
             "key": "card.zarpas.text",
-            "value": "Taunt\nShell"
+            "value": "Shell / Taunt"
         },
         {
             "key": "card.zenphire.text",
-            "value": "Spell damage +4\nFlying"
+            "value": "Flying\nSpell damage +4"
         },
         {
             "key": "card.zenphire_full.text",
-            "value": "Spell damage +4\nFlying"
+            "value": "Flying\nSpell damage +4"
         },
         {
             "key": "card.zeras.text",
@@ -1302,7 +1302,7 @@
         },
         {
             "key": "card.ziwing.text",
-            "value": "Haste\nFlying"
+            "value": "Haste / Flying"
         },
         {
             "key": "card.zorni.text",
