@@ -2,1023 +2,1023 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "Sturmangriff\nErhält +1/+1, wenn eine Karte eingefroren wird."
+            "value": "STURMANGRIFF\nErhält +1/+1, wenn eine Karte eingefroren wird"
         },
         {
             "key": "card.antairy.text",
-            "value": "Raserei\nZerstöre ein fliegendes Zielmonster."
+            "value": "WUTANFALL\nZerstört ein fliegendes Zielmonster"
         },
         {
             "key": "card.armoru.text",
-            "value": "Raserei\nAuswahl: Spott oder +2 Rüstung"
+            "value": "WUTANFALL\nWahl: Spott oder +2 Rüstung"
         },
         {
             "key": "card.aros.text",
-            "value": "<b>Angriff</b>: Fluch auf das Zielmonster"
+            "value": "EINSCHÜCHTERN\n<b>Angriff</b>: Verflucht das Zielmonster"
         },
         {
             "key": "card.astor.text",
-            "value": "Schild\nZu Beginn jedes Zuges erhältst du 1 Rüstung."
+            "value": "Zu Beginn jedes Zuges 1 Rüstung erhalten"
         },
         {
             "key": "card.astroguin.text",
-            "value": "Spott\n<b>Spielen:</b> Beschwöre zweimal ein Iglu.\nIglu-Unverwundbarkeit."
+            "value": "SPOTT\n<b>Spielen:</b> Iglu zweimal beschwören\nIglu-Unverwundbarkeit"
         },
         {
             "key": "card.bashker.text",
-            "value": "<b>Fallen-Ausweichen:</b> Aktiviert keine Fallen beim Angreifen.\n +1 Schaden pro Feindefalle im Spiel gewinnen."
+            "value": "<b>Fallenvermeidung:</b> Löst beim Angreifen keine Fallen aus\nErhält +1 Schaden pro gegnerischer Falle im Spiel"
         },
         {
             "key": "card.bashko.text",
-            "value": "<b>Fallen-Ausweichen:</b> Aktiviert keine Fallen beim Angreifen."
+            "value": "<b>Fallenvermeidung:</b> Löst beim Angreifen keine Fallen aus"
         },
         {
             "key": "card.bay.text",
-            "value": "Wenn ein Wassermonster, das Sie besitzen, stirbt, ziehen Sie eine Karte."
+            "value": "Wenn ein eigenes Wassermonster stirbt, eine Karte ziehen"
         },
         {
             "key": "card.boilin.text",
-            "value": "<b>Tod:</b> Ziehen Sie eine Karte."
+            "value": "<b>Tod:</b> Eine Karte ziehen"
         },
         {
             "key": "card.bora.text",
-            "value": "Tarnung"
+            "value": "VERSTOHLENHEIT"
         },
         {
             "key": "card.burnibu.text",
-            "value": "<b>Spielen:</b> Werfen Sie eine zufällige Karte aus Ihrer Hand ab und ziehen Sie zwei neue Karten."
+            "value": "<b>Spielen:</b> Eine zufällige Karte aus der Hand abwerfen und zwei neue ziehen"
         },
         {
             "key": "card.burnion.text",
-            "value": "<b>Spielen:</b> Zielmonster erhält Brand und erleidet 2 Schaden pro Zug."
+            "value": "<b>Spielen:</b> Ein Zielmonster verbrennen"
         },
         {
             "key": "card.burny.text",
-            "value": "<b>Spielen:</b> Eine zufällige Karte aus der Hand des Spielers verwerfen und zwei neue Karten ziehen."
+            "value": "<b>Spielen:</b> Eine zufällige Karte aus der Hand abwerfen und zwei Karten ziehen"
         },
         {
             "key": "card.buumi.text",
-            "value": "<b>Ausspielen:</b> Zerstöre alle gegnerischen Fallen und erhalte +2/+2 für jede zerstörte Falle."
+            "value": "<b>Spielen:</b> Alle gegnerischen Fallen zerstören und pro zerstörter Falle +2/+2 erhalten"
         },
         {
             "key": "card.cabyron.text",
-            "value": "Spott\n<b>Tod:</b> Beschwöre einen Cabyron mit Raserei II."
+            "value": "SPOTT\n<b>Tod:</b> Einen Cabyron mit Wutanfall II beschwören"
         },
         {
             "key": "card.cabyron_basic_copy.text",
-            "value": "Raserei II"
+            "value": "WUTANFALL II"
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "Spott\n<b>Tod:</b> Beschwöre einen Cabyron mit Raserei II."
+            "value": "SPOTT\n<b>Tod:</b> Einen Cabyron mit Wutanfall II beschwören"
         },
         {
             "key": "card.cabywara.text",
-            "value": "Einmal pro Zug: Wenn du Schaden erleidest und überlebst, ziehe eine Karte."
+            "value": "Beim Erhalten von Schaden und Überleben eine Karte ziehen"
         },
         {
             "key": "card.cactoon.text",
-            "value": "Eile"
+            "value": "EILE"
         },
         {
             "key": "card.cactuzzi.text",
-            "value": "Reichweite: Fliegende Monster müssen dieses Monster angreifen. "
+            "value": "REICHWEITE: Fliegende Monster müssen dieses Monster angreifen"
         },
         {
             "key": "card.calfire.text",
-            "value": "Zauberschaden +1."
+            "value": "ZAUBERSCHADEN +1"
         },
         {
             "key": "card.cheetula.text",
-            "value": "<b>Spielen</b>: Ein Baby-Jagur beschwören.\n Alle Katzen +1 Angriff."
+            "value": "<b>Spielen</b>: Ein Baby-Jagur beschwören\nAlle anderen verbündeten Katzen +1 Angriff"
         },
         {
             "key": "card.chewanha.text",
-            "value": "<b>Töten:</b> Zwei Karten ziehen."
+            "value": "<b>Töten:</b> Zwei Karten ziehen"
         },
         {
             "key": "card.chocosaur.text",
-            "value": "Schild\nRaserei II"
+            "value": "PANZER\nWUTANFALL II"
         },
         {
             "key": "card.clampion.text",
-            "value": "Spott\n Schale"
+            "value": "PANZER / SPOTT"
         },
         {
             "key": "card.coin.text",
-            "value": "1 Mana gewinnen."
+            "value": "1 Mana erhalten"
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Spielen:</b> Friere alle feindlichen Monster mit 4 oder weniger Angriff ein.\nFliegen"
+            "value": "FLIEGEND\n<b>Spielen:</b> Alle gegnerischen Monster mit 4 oder weniger Angriff einfrieren"
         },
         {
             "key": "card.cyowl.text",
-            "value": "<b>Spielen:</b> Friere ein feindliches Monster mit 4 oder weniger Angriff ein\nFliegen"
+            "value": "FLIEGEND\n<b>Spielen:</b> Ein gegnerisches Monster mit 4 oder weniger Angriff einfrieren"
         },
         {
             "key": "card.cypha.text",
-            "value": "Tarnung"
+            "value": "EINSCHÜCHTERN / VERSTOHLENHEIT"
         },
         {
             "key": "card.cypha_full.text",
-            "value": "Tarnung"
+            "value": "EINSCHÜCHTERN / VERSTOHLENHEIT"
         },
         {
             "key": "card.darcelia.text",
-            "value": "<b>Spielen:</b> Fluch."
+            "value": "EINSCHÜCHTERN\n<b>Spielen:</b> Ein Zielmonster verfluchen"
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>Spielen</b>: Alle Monster im Spiel verfluchen."
+            "value": "EINSCHÜCHTERN\n<b>Spielen</b>: Alle Monster im Spiel verfluchen"
         },
         {
             "key": "card.devastor.text",
-            "value": "Zauberimmunität / Schale\n<b>Spielen:</b> Allen 2 Schaden zufügen."
+            "value": "ZAUBERIMMUNITÄT / PANZER\n<b>Spielen:</b> 2 Schaden an alles andere verursachen"
         },
         {
             "key": "card.devastor_full.text",
-            "value": "Zauberimmunität / Schale\n<b>Spielen:</b> Allen 2 Schaden zufügen."
+            "value": "ZAUBERIMMUNITÄT / PANZER\n<b>Spielen:</b> 2 Schaden an alles andere verursachen"
         },
         {
             "key": "card.djinnas.text",
-            "value": "<b>Spielen:</b> Wählen Sie ein Zielcharakter von jeder Seite und senden Sie sie an den anderen Spieler.\n Aktion: Wiederholen für 3 Mana."
+            "value": "<b>Spielen:</b> Dieses Monster mit einem gegnerischen Monster tauschen, das 7 oder weniger Mana kostet"
         },
         {
             "key": "card.djune.text",
-            "value": "<b>Spielen:</b> Tauschen Sie dieses Monster mit einem feindlichen Monster mit Kosten von 4 Mana aus. "
+            "value": "<b>Spielen:</b> Dieses Monster mit einem gegnerischen Monster tauschen, das 3 oder weniger Mana kostet"
         },
         {
             "key": "card.dobash.text",
-            "value": "Spott"
+            "value": "SPOTT"
         },
         {
             "key": "card.dofurious.text",
-            "value": "Fähigkeitsimmunität\nStampfen"
+            "value": "FÄHIGKEITSIMMUNITÄT / ÜBERRENNEN"
         },
         {
             "key": "card.dolvi.text",
-            "value": "<b>Spielen:</b> Ein Zielmonster vergiften"
+            "value": "EINSCHÜCHTERN\n<b>Spielen:</b> Ein Zielmonster vergiften"
         },
         {
             "key": "card.domumu.text",
-            "value": "<b>Spielen:</b> +2/2 geben"
+            "value": "<b>Spielen:</b> Einem Monster bis zu deinem nächsten Zug +2/+2 geben"
         },
         {
             "key": "card.doshoto.text",
-            "value": "<b>Angriff:</b> Würfeln Sie einen D6, bei 4+ gewinnen Sie +3 Angriff bis zum Zugende."
+            "value": "<b>Angriff:</b> W6 würfeln, bei 4+ bis Zugende +3 Angriff erhalten"
         },
         {
             "key": "card.dothrow.text",
-            "value": "Spott"
+            "value": "SPOTT"
         },
         {
             "key": "card.dracon.text",
-            "value": "Stampfen\nFliegend"
+            "value": "ÜBERRENNEN / FLIEGEND"
         },
         {
             "key": "card.dragin.text",
-            "value": "Wut"
+            "value": "WUT"
         },
         {
             "key": "card.dragon_egg.text",
-            "value": "Einen Drachen entdecken."
+            "value": "Einen Drachen aus deinem Deck suchen"
         },
         {
             "key": "card.dragulp.text",
-            "value": "Spott"
+            "value": "SPOTT"
         },
         {
             "key": "card.drion.text",
-            "value": "<b>Spielen</b>: Ein Zielmonster zum Schweigen bringen, dann ein Zielmonster verfluchen"
+            "value": "EINSCHÜCHTERN\n<b>Spielen</b>: Ein Zielmonster verstummen lassen und verfluchen"
         },
         {
             "key": "card.dryaow.text",
-            "value": "<b>Spielen</b>: Alle Monster im Spiel verfluchen"
+            "value": "EINSCHÜCHTERN\n<b>Spielen</b>: Alle Monster im Spiel verfluchen"
         },
         {
             "key": "card.dulster.text",
-            "value": "<b>Angriff</b>: Das Zielmonster verfluchen und vergiften"
+            "value": "EINSCHÜCHTERN\n<b>Angriff</b>: Zielmonster verfluchen und vergiften"
         },
         {
             "key": "card.electric_token.text",
-            "value": "Tausche Elektro-Token gegen eine beliebige Elektro-Karte ein"
+            "value": "Elektrisches Token gegen eine beliebige Elektrische Karte eintauschen"
         },
         {
             "key": "card.electric_town.text",
-            "value": "Alle Elektro-Monster kosten 2 Mana weniger (einschließlich Feinde)"
+            "value": "Alle Elektrischen Monster kosten 2 Mana weniger (einschließlich gegnerischer)"
         },
         {
             "key": "card.elegat.text",
-            "value": "<b>Spielen:</b> Gegner wirft eine zufällige Karte weg"
+            "value": "<b>Spielen:</b> Gegner wirft eine zufällige Karte ab"
         },
         {
             "key": "card.emberstorm.text",
-            "value": "Beim Ausspielen und zu Beginn jedes deiner Züge werden alle anderen Nicht-Feuer-Monster auf dem Brett verbrannt."
+            "value": "Beim Spielen und zu Beginn jedes deiner Züge alle anderen Nicht-Feuer-Monster auf dem Feld verbrennen"
         },
         {
             "key": "card.emberstorm_full.text",
-            "value": "Beim Ausspielen und zu Beginn jedes deiner Züge werden alle anderen Nicht-Feuer-Monster auf dem Brett verbrannt."
+            "value": "Beim Spielen und zu Beginn jedes deiner Züge alle anderen Nicht-Feuer-Monster auf dem Feld verbrennen"
         },
         {
             "key": "card.envish.text",
-            "value": "<b>Spielen:</b> Ein Monster mit 3 oder weniger Angriff zerstören."
+            "value": "<b>Spielen:</b> Ein Monster mit 3 oder weniger Angriff zerstören"
         },
         {
             "key": "card.equip_psychic_ring.text",
-            "value": "Zu Beginn jedes Zuges die Hand des Gegners enthüllen. Hält bis zu 3 Züge. "
+            "value": "Zu Beginn jedes Zuges die Hand des Gegners enthüllen."
         },
         {
             "key": "card.equip_shield.text",
-            "value": "Träger gewinnt 2 Rüstung und Spott."
+            "value": "Träger erhält 2 Rüstung und Spott"
         },
         {
             "key": "card.equip_sword_fire.text",
-            "value": "Angriff +1.\n Träger erhält keinen Schaden beim Angreifen."
+            "value": "Angriff +1\nTräger erhält beim Angreifen keinen Schaden"
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "Der Angriff des Trägers entspricht seinen maximalen LP."
+            "value": "Angriff des Trägers entspricht seinen aktuellen LP"
         },
         {
             "key": "card.equip_water_ring.text",
-            "value": "2 extra Mana pro Zug für 4 Züge gewinnen."
+            "value": "2 zusätzliches Mana pro Zug erhalten."
         },
         {
             "key": "card.espe.text",
-            "value": "Gedankenkontrolle über ein feindliches Zielmonster mit Mana-Kosten von 5+, bis dieses Monster das Brett verlässt"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über gegnerisches Monster mit Manakosten 5+"
         },
         {
             "key": "card.evira.text",
-            "value": "<b>Spielen:</b> +2/2 geben.\n Spieler heilen, wenn Schaden zugefügt wird."
+            "value": "LEBENSRAUB\n<b>Spielen:</b> Einem Monster bis zu deinem nächsten Zug +2/+2 geben"
         },
         {
             "key": "card.exord.text",
-            "value": "<b>Spielen:</b> Alle um 2 Schaden."
+            "value": "<b>Spielen:</b> 2 Schaden an alle anderen Karten im Spiel"
         },
         {
             "key": "card.ezonea.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Monster mit Mana-Kosten von 5 oder weniger"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über gegnerisches Monster mit 5 oder weniger Angriff"
         },
         {
             "key": "card.fire_token.text",
-            "value": "Tausche Feuer-Token gegen eine beliebige Feuer-Karte ein"
+            "value": "Feuer-Token gegen eine beliebige Feuer-Karte eintauschen"
         },
         {
             "key": "card.flamitto.text",
-            "value": "<b>Angriff:</b> Das feindliche Monster verbrennen. Es verliert jede Runde 2 LP."
+            "value": "<b>Angriff:</b> Zielmonster verbrennen"
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielmonster mit Kosten von 2 Mana oder weniger"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über gegnerisches Monster mit Manakosten 2 oder weniger"
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein Zielmonster mit 3 oder weniger Angriff"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über gegnerisches Monster mit 3 oder weniger Angriff"
         },
         {
             "key": "card.froggyo.text",
-            "value": "<b>Spielen:</b> Wählen Sie ein Zielmonster mit Manakosten von 2 oder weniger auf einer beliebigen Seite und senden Sie es an den anderen Spieler."
+            "value": "Wenn der Gegner einen Zauber abwirft, eine Kopie in deine Hand legen\n"
         },
         {
             "key": "card.frojest.text",
-            "value": "Wenn der Gegner eine Monsterkarte abwirft, wird dieses Monster zu einer Kopie des abgeworfenen Monsters."
+            "value": "Wenn der Gegner ein Monster abwirft, wird dieses Monster zu einer Kopie des abgeworfenen Monsters"
         },
         {
             "key": "card.frojesti.text",
-            "value": "Wenn der Gegner einen Zauber verwirft, erstellen Sie eine Kopie mit 0 Mana-Kosten in Ihrer Hand.\n "
+            "value": "Wenn der Gegner einen Charakter abwirft, eine Kopie mit 0 Mana-Kosten in deine Hand legen\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "Wenn der Gegner einen Zauber abwirft, erstelle eine Null-Mana-Kopie in deiner Hand.\n"
+            "value": "Wenn der Gegner einen Charakter abwirft, eine Kopie mit 0 Mana-Kosten in deine Hand legen\n"
         },
         {
             "key": "card.froster.text",
-            "value": "Sturmangriff\nErhält +1/+1, wenn ein Monster eingefroren wird."
+            "value": "STURMANGRIFF\nErhält +1/+1, wenn ein Monster eingefroren wird"
         },
         {
             "key": "card.galasu.text",
-            "value": "Erhalte Zauberimmunität oder Fähigkeitsimmunität\nSpott ignorieren"
+            "value": "FLIEGEND\nWahl: Zauberimmunität oder Fähigkeitsimmunität"
         },
         {
             "key": "card.galasu_full.text",
-            "value": "Erhalte Zauberimmunität oder Fähigkeitsimmunität\nSpott ignorieren"
+            "value": "FLIEGEND\nWahl: Zauberimmunität oder Fähigkeitsimmunität"
         },
         {
             "key": "card.gamud.text",
-            "value": "Einmal pro Zug: Wenn du Schaden erleidest und überlebst, ziehe eine Karte."
+            "value": "Beim Erhalten von Schaden und Überleben eine Karte ziehen"
         },
         {
             "key": "card.gargarm.text",
-            "value": "Nach dem Wirken eines Zaubers +2 Angriff erhalten.\nFliegen"
+            "value": "FLIEGEND\nNach dem Spielen eines Zaubers +2 Angriff erhalten"
         },
         {
             "key": "card.gargoli.text",
-            "value": "Nach dem Spielen eines Zaubers +2 Angriff gewinnen."
+            "value": "Nach dem Spielen eines Zaubers +2 Angriff erhalten"
         },
         {
             "key": "card.geister.text",
-            "value": "<b>Angriff:</b> Verfluchen und vergiften"
+            "value": "EINSCHÜCHTERN\n<b>Angriff:</b> Zielmonster verfluchen und vergiften"
         },
         {
             "key": "card.gemash.text",
-            "value": "Auswahl: Spott oder +2 Rüstung"
+            "value": "Wahl: Spott oder +2 Rüstung"
         },
         {
             "key": "card.gizap.text",
-            "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen."
+            "value": "Immer wenn ein anderes Monster stirbt, eine Karte ziehen"
         },
         {
             "key": "card.gizord.text",
-            "value": "Eile"
+            "value": "EILE"
         },
         {
             "key": "card.gizord_full.text",
-            "value": "Eile"
+            "value": "EILE"
         },
         {
             "key": "card.glidara.text",
-            "value": "Wahl: Spott oder Sturmangriff\n<b>Tod:</b> Beschwöre ein Iglu."
+            "value": "Wahl: Spott oder Sturmangriff\n<b>Tod:</b> Iglu beschwören"
         },
         {
             "key": "card.glummy.text",
-            "value": "<b>Angriff:</b> Gift.\nFliegen"
+            "value": "FLIEGEND\n<b>Angriff:</b> Zielmonster vergiften"
         },
         {
             "key": "card.gluttrats.text",
-            "value": "Nach dem Spielen eines Zaubers +2 Angriff gewinnen."
+            "value": "Nach dem Spielen eines Zaubers +2 Angriff erhalten"
         },
         {
             "key": "card.goldape.text",
-            "value": "Zu Beginn jedes Zuges +1 Angriff gewinnen."
+            "value": "Zu Beginn jedes Zuges +1 Angriff erhalten"
         },
         {
             "key": "card.gookie.text",
-            "value": "Spott\n<b>Ausspielen:</b> +1 Rüstung"
+            "value": "SPOTT\n<b>Spielen:</b> +1 Rüstung"
         },
         {
             "key": "card.gorupt.text",
-            "value": "<b>Spielen:</b> Alle um 2 Schaden."
+            "value": "<b>Spielen:</b> 2 Schaden an alle anderen Karten im Spiel"
         },
         {
             "key": "card.gracelia.text",
-            "value": "<b>Spielen:</b> Heile ein Monster von allen negativen Statuseffekten und gewähre +2 LP"
+            "value": "<b>Spielen:</b> Ein Monster von allen negativen Effekten heilen und +2 LP geben"
         },
         {
             "key": "card.graceliaex.text",
-            "value": "<b>Wirken (2):</b> Spieler um 3 LP heilen. "
+            "value": "<b>Aktion (2):</b> Spieler um 3 LP heilen"
         },
         {
             "key": "card.grandcelia.text",
-            "value": "<b>Spielen:</b> +2/2 geben.\n <b>Aktion:</b> Aufladen."
+            "value": "<b>Spielen:</b> +2/+2 geben\n<b>Aktion:</b> Zurückwerfen."
         },
         {
             "key": "card.grocelia.text",
-            "value": "<b>Spielen:</b> Zielkarte zum Schweigen bringen."
+            "value": "<b>Spielen:</b> Zielmonster verstummen lassen"
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Spott</b>\nÜberlebt diese Kreatur Schaden, erhalten alle verbündeten Steinmonster +1 Rüstung."
+            "value": "<b>SPOTT</b>\nBeim Erhalten von Schaden und Überleben allen verbündeten Felsmonstern +1 Rüstung geben"
         },
         {
             "key": "card.hajiko.text",
-            "value": "<b>Spielen:</b> Fluch des Leidens auf ein Monster legen"
+            "value": "EINSCHÜCHTERN\n<b>Spielen:</b> Fluch des Leidens auf ein Monster legen"
         },
         {
             "key": "card.hammar.text",
-            "value": "Raserei\n<b>Ausspielen:</b> Erhalte 1 Rüstung.\nNach einem Angriff auf den gegnerischen Spieler ziehst du eine Felszauber-Karte aus deinem Deck."
+            "value": "WUTANFALL\n<b>Spielen:</b> 1 Rüstung erhalten\nNach Angriff auf den gegnerischen Spieler eine Felszauberkarte aus dem Deck ziehen"
         },
         {
             "key": "card.hammark.text",
-            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 1 Karte.\nImmunität gegen Angriffsverlust"
+            "value": "Immun gegen Angriffsverlust\nImmer wenn ein anderes Monster stirbt, eine Karte ziehen"
         },
         {
             "key": "card.hammi.text",
-            "value": "Raserei III"
+            "value": "WUTANFALL III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "Raserei\nNach einem Angriff auf den gegnerischen Spieler ziehst du eine Felszauber-Karte aus deinem Deck."
+            "value": "WUTANFALL\nNach Angriff auf den gegnerischen Spieler eine Felszauberkarte aus dem Deck ziehen"
         },
         {
             "key": "card.hammish.text",
-            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 1 Karte."
+            "value": "Immer wenn ein anderes Monster stirbt, eine Karte ziehen"
         },
         {
             "key": "card.hato.text",
-            "value": "Erhalte Schale, wann immer du einen Ort beschwörst.\nErhalte +1/+1, wenn ein Eis-Ort im Spiel ist."
+            "value": "Panzer erhalten, wenn du eine Ort-Karte spielst\n+1/+1, wenn eine Eis-Ort-Karte im Spiel ist"
         },
         {
             "key": "card.headrac.text",
-            "value": "Jeden Zug +1 Angriff gewinnen."
+            "value": "Jeden Zug +1 Angriff erhalten"
         },
         {
             "key": "card.heara.text",
-            "value": "<b>Spielen:</b> Setzt den Angriff eines Zielmonsters auf 1."
+            "value": "<b>Spielen:</b> Angriff des gegnerischen Zielmonsters auf 1 reduzieren"
         },
         {
             "key": "card.hero_electric.text",
-            "value": "Eine alte Elektro-Fracctal-Feenkönigin, die einem Elektro-Monster eine extra Aktion gewährt"
+            "value": "Eine uralte Elektro-Fracctal-Fee, die einem Elektro-Monster Eile gewährt"
         },
         {
             "key": "card.hero_fire.text",
-            "value": "Eine alte Feuer-Fracctal-Feenkönigin, die 1 Schaden an jede Karte oder Spieler zufügen kann."
+            "value": "Eine uralte Feuer-Fracctal-Fee, die 1 Schaden an beliebige Karte oder Spieler verursachen kann"
         },
         {
             "key": "card.hero_ice.text",
-            "value": "Eine alte Eis-Fracctal-Feenkönigin, die jede Karte für 1 Zug einfrieren kann."
+            "value": "Eine uralte Eis-Fracctal-Fee, die jede Karte für 1 Zug einfrieren kann"
         },
         {
             "key": "card.hero_plant.text",
-            "value": "Eine alte Pflanzen-Fracctal-Feenkönigin, die Charaktere und Spieler um 2 LP heilt"
+            "value": "Eine uralte Pflanzen-Fracctal-Fee, die Charaktere und Spieler um 2 LP heilt"
         },
         {
             "key": "card.hero_psychic.text",
-            "value": "Eine alte Psychische Fracctal-Feenkönigin, die Ihren Gegner zwingt, eine Karte aus seiner Hand zu verwerfen"
+            "value": "Eine uralte Psionik-Fracctal-Fee, die den Gegner zwingt, eine Karte aus der Hand abzulegen"
         },
         {
             "key": "card.hero_rock.text",
-            "value": "Eine alte Fels-Fracctal-Feenkönigin, die +1 Rüstung an jede Karte auf dem Brett gewährt. "
+            "value": "Eine uralte Fels-Fracctal-Fee, die jeder Karte auf dem Feld +1 Rüstung gewährt"
         },
         {
             "key": "card.hero_shadow.text",
-            "value": "Eine alte Schatten-Fracctal-Feenkönigin, die jede Karte im Spiel verfluchen kann. "
+            "value": "Eine uralte Schatten-Fracctal-Fee, die jede Karte im Spiel verfluchen kann"
         },
         {
             "key": "card.hero_water.text",
-            "value": "Eine alte Wasser-Fracctal-Feenkönigin, die dem Spieler erlaubt, eine extra Karte zu ziehen. "
+            "value": "Eine uralte Wasser-Fracctal-Fee, die dem Spieler eine zusätzliche Karte ziehen lässt"
         },
         {
             "key": "card.hippoh.text",
-            "value": "<b>Angriff:</b> Den Feind verbrennen. Sie verlieren 2 LP pro Zug."
+            "value": "<b>Angriff:</b> Zielmonster verbrennen"
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Spielen:</b> Ziehe eine Karte.\nErhalte +1/+1, wenn ein Eis-Ort im Spiel ist."
+            "value": "<b>Tod:</b> Eine Karte ziehen\n+1/+1, wenn eine Eis-Ort-Karte im Spiel ist"
         },
         {
             "key": "card.ice_token.text",
-            "value": "Tausche Eis-Token gegen eine beliebige Eis-Karte ein"
+            "value": "Eis-Token gegen eine beliebige Eis-Karte eintauschen"
         },
         {
             "key": "card.ice_town_igloo.text",
-            "value": "Wenn LP 2+ erhalten alle verbündeten Eis-Monster +0/+1\nWenn LP 4+ erhalten alle verbündeten Eis-Monster +1/+0\nWenn LP 6+ kosten alle Eiskarten auf der Hand 1 weniger."
+            "value": "Bei 2+ LP erhalten alle verbündeten Eismonster +0/+1\nBei 4+ LP erhalten alle verbündeten Eismonster +1/+0\nBei 6+ LP kosten alle Eis-Karten aus der Hand 1 weniger"
         },
         {
             "key": "card.ignitas.text",
-            "value": "Wut"
+            "value": "WUT"
         },
         {
             "key": "card.igniti.text",
-            "value": "<b>Tod:</b> 2 Schaden dem feindlichen Spieler zufügen."
+            "value": "<b>Tod:</b> 2 Schaden an gegnerischen Spieler"
         },
         {
             "key": "card.insha.text",
-            "value": "<b>Angriff</b>: Das Zielmonster verfluchen"
+            "value": "<b>Angriff</b>: Zielmonster verfluchen"
         },
         {
             "key": "card.inuk.text",
-            "value": "Spott ignorieren"
+            "value": "FLIEGEND"
         },
         {
             "key": "card.kincactuz.text",
-            "value": "<b>Spielen:</b> Spott oder Wut gewinnen"
+            "value": "<b>Wahl</b>: Spott oder Wut"
         },
         {
             "key": "card.kinfish.text",
-            "value": "<b>Töten:</b> Zwei Karten ziehen.\n <b>Tod:</b> Eine Karte ziehen."
+            "value": "<b>Töten:</b> Zwei Karten ziehen\n<b>Tod:</b> Eine Karte ziehen"
         },
         {
             "key": "card.kuraigar.text",
-            "value": "Hat +3 Angriff während des Zuges des Gegners."
+            "value": "Hat +3 Angriff während des gegnerischen Zuges"
         },
         {
             "key": "card.kuraigor.text",
-            "value": "Schale\n Spott"
+            "value": "PANZER / SPOTT"
         },
         {
             "key": "card.lala.text",
-            "value": "<b>Angriff:</b> Gift."
+            "value": "<b>Angriff:</b> Ziel vergiften"
         },
         {
             "key": "card.lampi.text",
-            "value": "Sturmangriff\nFliegen"
+            "value": "EILE / FLIEGEND"
         },
         {
             "key": "card.lizordo.text",
-            "value": "Todesberührung"
+            "value": "TODESBERÜHRUNG"
         },
         {
             "key": "card.lizoru.text",
-            "value": "<b>Spielen</b>: Ein Lizo beschwören\n Alle Reptilien +1 Angriff."
+            "value": "<b>Spielen</b>: Einen Lizo beschwören\nAlle anderen verbündeten Reptilien +1 Angriff"
         },
         {
             "key": "card.lizorus.text",
-            "value": "<b>Spielen</b>: Ein Lizo beschwören\n Alle Reptilien +2 Angriff."
+            "value": "<b>Spielen</b>: Einen Lizo beschwören\nAlle anderen verbündeten Reptilien +2 Angriff"
         },
         {
             "key": "card.lizorus_full.text",
-            "value": "<b>Spielen</b>: Beschwöre ein Lizo\nAlle Reptilien +2 Angriff."
+            "value": "<b>Spielen</b>: Einen Lizo beschwören\nAlle anderen verbündeten Reptilien +2 Angriff"
         },
         {
             "key": "card.lizteel.text",
-            "value": "Raserei II"
+            "value": "WUTANFALL II"
         },
         {
             "key": "card.loneguin.text",
-            "value": "Spott\n<b>Tod:</b> Beschwöre ein Iglu."
+            "value": "SPOTT\n<b>Tod:</b> Iglu beschwören"
         },
         {
             "key": "card.lumini.text",
-            "value": "<b>Spielen:</b> Beschwöre ein Iglu\nFliegen"
+            "value": "<b>Spielen:</b> Iglu beschwören\nFLIEGEND"
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>Spielen:</b> +2/+2 geben.\nFliegen"
+            "value": "<b>Spielen:</b> +2/+2 geben\nFLIEGEND"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Spielen:</b> Beschwöre zweimal ein Iglu und friere ein feindliches Monster mit 3 oder weniger Angriff ein\nFliegen"
+            "value": "<b>Spielen:</b> Iglu zweimal beschwören und gegnerisches Monster mit 3 oder weniger Angriff einfrieren\nFLIEGEND"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>Spielen:</b> +2/+2 geben\n<b>Spielen:</b> Heilen Sie den Spieler um 4 LP\nFliegen"
+            "value": "<b>Spielen:</b> +2/+2 geben\n<b>Spielen:</b> Spieler um 4 LP heilen\nFLIEGEND"
         },
         {
             "key": "card.lurian_full.text",
-            "value": "<b>Ausspielen:</b> Gib +2/+2\n<b>Ausspielen:</b> Heile den Spieler um 4 LP\nFliegend"
+            "value": "<b>Spielen:</b> +2/+2 geben\n<b>Spielen:</b> Spieler um 4 LP heilen\nFLIEGEND"
         },
         {
             "key": "card.marshland.text",
-            "value": "<b>Zugbeginn: </b>Alle Pflanzenkarten heilen um 3."
+            "value": "<b>Zugbeginn: </b>Alle verbündeten Pflanzenkarten heilen um 3 LP"
         },
         {
             "key": "card.meruza.text",
-            "value": "Alle feindlichen Charaktere haben -2 Angriff."
+            "value": "Alle gegnerischen Charaktere haben -2 Angriff"
         },
         {
             "key": "card.mighto.text",
-            "value": "<b>Spielen:</b> Erhalte +1 Angriff für jedes Iglu, das du in diesem Spiel beschworen hast.\nErhalte Schale, wann immer du einen Ort beschwörst\nSchale\n"
+            "value": "<b>Spielen:</b> +1 Angriff pro Iglu, der dieses Spiel beschworen wurde\nPanzer erhalten, wenn du eine Ort-Karte spielst\nPANZER"
         },
         {
             "key": "card.mimi.text",
-            "value": "Zu Beginn Ihres Zuges heilt dieses Monster vollständig."
+            "value": "REGENERATION"
         },
         {
             "key": "card.minask.text",
-            "value": "Regenerierung"
+            "value": "REGENERATION"
         },
         {
             "key": "card.miraibow.text",
-            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 2 Karten."
+            "value": "Immer wenn ein anderes Monster stirbt, 2 Karten ziehen"
         },
         {
             "key": "card.mirion.text",
-            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 2 Karten."
+            "value": "Immer wenn ein anderes Monster stirbt, 2 Karten ziehen"
         },
         {
             "key": "card.momburn.text",
-            "value": "Zauberschaden +2.\n <b>Angriff:</b> Die angegriffene Karte verbrennen."
+            "value": "ZAUBERSCHADEN +2\n<b>Angriff:</b> Zielmonster verbrennen"
         },
         {
             "key": "card.mongold.text",
-            "value": "Zu Beginn jedes Zuges +2 Angriff gewinnen."
+            "value": "Jeden Zug +2 Angriff erhalten"
         },
         {
             "key": "card.mosastrus.text",
-            "value": "ANSTURM"
+            "value": "STURMANGRIFF"
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>Spielen:</b> Gedankenkontrolle über ein feindliches Monster mit Manakosten von 3 oder weniger"
+            "value": "<b>Spielen:</b> Gedankenkontrolle über gegnerisches Monster mit 3 oder weniger Mana"
         },
         {
             "key": "card.mosheedark.text",
-            "value": "<b>Angriff</b>: Das Zielmonster verfluchen"
+            "value": "<b>Angriff</b>: Zielmonster verfluchen"
         },
         {
             "key": "card.mosslug.text",
-            "value": "Stampfen"
+            "value": "ÜBERRENNEN"
         },
         {
             "key": "card.mosslug_full.text",
-            "value": "Durchtrampeln"
+            "value": "ÜBERRENNEN"
         },
         {
             "key": "card.mountough.text",
-            "value": "<b>Ausspielen:</b> Erhalte 3 Rüstung.\nAm Ende deines Zuges ziehst du eine Karte."
+            "value": "<b>Spielen:</b> 3 Rüstung erhalten\nAm Zugende eine Karte ziehen"
         },
         {
             "key": "card.mountough_full.text",
-            "value": "<b>Ausspielen:</b> Erhalte 3 Rüstung.\nAm Ende deines Zuges ziehst du eine Karte."
+            "value": "<b>Spielen:</b> 3 Rüstung erhalten\nAm Zugende eine Karte ziehen"
         },
         {
             "key": "card.muni.text",
-            "value": "Beim Ausspielen: Zeige die Hand des Gegners und ziehe 1 Karte."
+            "value": "<b>Spielen:</b> Hand des Gegners enthüllen und eine Karte ziehen"
         },
         {
             "key": "card.murple.text",
-            "value": "Zu Beginn Ihres Zuges heilt dieses Monster vollständig."
+            "value": "REGENERATION"
         },
         {
             "key": "card.nadzu.text",
-            "value": "Wut\nRaserei"
+            "value": "WUTANFALL\nWUT"
         },
         {
             "key": "card.nhomnhom.text",
-            "value": "Beim Angreifen 2 Mana erhalten."
+            "value": "Beim Angreifen 2 Mana erhalten"
         },
         {
             "key": "card.nobu.text",
-            "value": "Spott\nErleidet höchstens 2 Schaden pro Angriff/Gegenangriff."
+            "value": "SPOTT\nErhält maximal 2 Schaden pro Angriff/Gegenangriff"
         },
         {
             "key": "card.nophulos.text",
-            "value": "Wut / Eile\nRaserei"
+            "value": "WUT / STURMANGRIFF\nWUTANFALL"
         },
         {
             "key": "card.numind.text",
-            "value": "<b>Spielen:</b> Die Hand des Gegners enthüllen\n <b>Aktion:</b> Eine zufällige Karte mit Kosten von 3 oder weniger Mana aus der Hand des Gegners verwerfen. Kostet 2 Mana. "
+            "value": "<b>Spielen:</b> Hand des Gegners enthüllen\n<b>Aktion (2):</b> Eine zufällige Karte mit 3 oder weniger Mana aus der Hand des Gegners abwerfen"
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>Zugende:</b> Geht in Tarnung, wenn Sie andere Monster haben."
+            "value": "<b>Zugende:</b> In Verstohlenheit gehen, wenn andere Monster im Spiel sind"
         },
         {
             "key": "card.operant.text",
-            "value": "Raserei\n<b>Ausspielen:</b> Füge einer Karte auf dem Brett 1 Schaden zu.\n"
+            "value": "WUTANFALL\n<b>Spielen:</b> 1 Schaden an alle Karten im Spiel"
         },
         {
             "key": "card.ophala.text",
-            "value": "Hat +3 Angriff während des Zuges des Gegners.\n Spott"
+            "value": "Hat +3 Angriff während des gegnerischen Zuges\nSPOTT"
         },
         {
             "key": "card.ophalant.text",
-            "value": "Hat +3 Angriff während des Zuges des Gegners.\n Spott / Schale"
+            "value": "Hat +3 Angriff während des gegnerischen Zuges\nSPOTT / PANZER"
         },
         {
             "key": "card.ophalant_full.text",
-            "value": "Hat während des gegnerischen Zuges +3 Angriff.\nSpott / Schild"
+            "value": "Hat +3 Angriff während des gegnerischen Zuges\nSPOTT / PANZER"
         },
         {
             "key": "card.oritoro.text",
-            "value": "Beim Angreifen D6 würfeln. Bei 4+ +3 Angriff gewinnen."
+            "value": "W6 würfeln, bei 4+ bis Zugende +3 Angriff erhalten"
         },
         {
             "key": "card.owind.text",
-            "value": "Zauberimmunität\n Spott ignorieren\n<b>Spielen:</b> Ein Ziel einfrieren"
+            "value": "ZAUBERIMMUNITÄT\nSpott ignorieren\n<b>Spielen: </b> Ziel einfrieren"
         },
         {
             "key": "card.owind_full.text",
-            "value": "Zauberimmunität\nSpott ignorieren\n<b>Spielen: </b> Ein Ziel einfrieren"
+            "value": "ZAUBERIMMUNITÄT\nSpott ignorieren\n<b>Spielen: </b> Ziel einfrieren"
         },
         {
             "key": "card.peafan.text",
-            "value": "<b>Spielen:</b> Zerstöre ein Monster mit 4 oder weniger Angriff."
+            "value": "<b>Spielen:</b> Ein Monster mit 4 oder weniger Angriff zerstören"
         },
         {
             "key": "card.peafan_egg.text",
-            "value": "Verwandelt sich nach 3 Zügen in einen Peafan.\nBeschwöre ein Iglu."
+            "value": "Verwandelt sich nach 3 Zügen in Peafan\nIglu beschwören"
         },
         {
             "key": "card.peako.text",
-            "value": "<b>Spielen:</b> Beschwöre ein Iglu.\nWenn du bereits ein Iglu hast, ziehe eine Karte."
+            "value": "<b>Spielen:</b> Iglu beschwören\nWenn du bereits ein Iglu hast, eine Karte ziehen"
         },
         {
             "key": "card.perllusion.text",
-            "value": "Tarnung\n <b>Spielen:</b> Gegner wirft eine zufällige Karte weg\n +1 Angriff beim Verwerfen des Gegners gewinnen"
+            "value": "VERSTOHLENHEIT\n<b>Spielen:</b> Gegner wirft eine zufällige Karte ab\nWenn der Gegner abwirft, +1 Angriff erhalten"
         },
         {
             "key": "card.petami.text",
-            "value": "Zu Beginn Ihres Zuges heilt dieses Monster vollständig."
+            "value": "REGENERATION"
         },
         {
             "key": "card.petili.text",
-            "value": "Beim Ausspielen erhält ein anderes Monster bis zu deinem nächsten Zug +2/+2."
+            "value": "<b>Spielen:</b> Einem anderen Monster bis zu deinem nächsten Zug +2/+2 geben"
         },
         {
             "key": "card.phanti.text",
-            "value": "Immer wenn ein anderer Charakter stirbt, eine Karte ziehen."
+            "value": "Immer wenn ein anderes Monster stirbt, 1 Karte ziehen"
         },
         {
             "key": "card.phyra.text",
-            "value": "<b>Wirken (3):</b> 2 Schaden zufügen.\n <b>Tod:</b> Ein Ei beschwören."
+            "value": "<b>Aktion (3):</b> 2 Schaden verursachen\n<b>Tod:</b> Ein Phyra-Ei beschwören"
         },
         {
             "key": "card.phyra_egg.text",
-            "value": "Nach 3 Zügen in eine Phyra verwandeln."
+            "value": "Verwandelt sich nach 3 Zügen in Phyra"
         },
         {
             "key": "card.phyrox.text",
-            "value": "<b>Wirken (2):</b> D6 würfeln, bei 4+ das Ziel in die Hand zurückgeben."
+            "value": "<b>Aktion (2):</b> W6 würfeln, bei 4+ Ziel in die Hand des Besitzers zurückschicken"
         },
         {
             "key": "card.picko.text",
-            "value": "Raserei\n<b>Ausspielen:</b> Füge dir selbst 1 Schaden zu und dann einem beliebigen gegnerischen Monster 1 Schaden."
+            "value": "<b>Spielen:</b> Sich selbst 1 Schaden zufügen, dann 1 Schaden an ein Zielmonster zufügen"
         },
         {
             "key": "card.plant_token.text",
-            "value": "Tausche Pflanzen-Token gegen eine beliebige Pflanzen-Karte ein"
+            "value": "Pflanzen-Token gegen eine beliebige Pflanzen-Karte eintauschen"
         },
         {
             "key": "card.plator.text",
-            "value": "Schild\nZu Beginn jedes Zuges erhältst du 1 Rüstung. "
+            "value": "PANZER\nJeden Zug +1 Rüstung erhalten"
         },
         {
             "key": "card.polip.text",
-            "value": "<b>Spielen:</b> +2 LP geben"
+            "value": "<b>Spielen:</b> Einem Zielmonster bis zu deinem nächsten Zug +2 LP geben"
         },
         {
             "key": "card.potion_electric.text",
-            "value": "Das Zielmonster gewinnt Wut. Kann pro Zug zweimal angreifen."
+            "value": "Ziel erhält Wut"
         },
         {
             "key": "card.potion_fire.text",
-            "value": "Das Ziel gewinnt 1 Angriff und Wut."
+            "value": "Ziel erhält +1 Angriff und Wut"
         },
         {
             "key": "card.potion_green.text",
-            "value": "Das Ziel badet in einem süßen Duft und gewinnt +2 LP und Spott."
+            "value": "Ziel wird in einen süßen Duft gehüllt, erhält +2 LP und Spott"
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Senke den Evolutionszähler eines Eis-Monsters um 1. Erreicht er 0, entwickelt es sich."
+            "value": "Evolutionstimer eines Eis-Monsters um 1 reduzieren, bei 0 evolviert es"
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Wählen Sie ein Monster auf dem Brett mit Manakosten von 3 oder weniger, um es für 1 Zug zu kontrollieren. Das Ziel erhält Sturmangriff."
+            "value": "Gedankenkontrolle über gegnerisches Monster mit 3 oder weniger Mana für 1 Zug, erhält Eile"
         },
         {
             "key": "card.potion_rock.text",
-            "value": "Das Ziel erhält Spott, kann aber nicht angreifen."
+            "value": "Ziel erhält Spott, kann aber nicht angreifen"
         },
         {
             "key": "card.potion_shadow.text",
-            "value": "Das Ziel gewinnt Fluch des Leidens, der 3 Schaden verursacht, wenn es angreift."
+            "value": "Ziel erhält Fluch des Leidens, erhält 3 Schaden vor jedem Angriff"
         },
         {
             "key": "card.potion_water.text",
-            "value": "Ziehen Sie 2 Karten."
+            "value": "2 Karten ziehen"
         },
         {
             "key": "card.prido.text",
-            "value": "Wut\n Jeden Zug +1 Angriff gewinnen."
+            "value": "WUTANFALL\nJeden Zug +1 Angriff erhalten"
         },
         {
             "key": "card.psony.text",
-            "value": "<b>Spielen:</b> Wählen Sie ein Charakter von jeder Seite und senden Sie sie an den anderen Spieler.\n Zu Beginn jedes Zuges 2 Schaden an alle Verbündeten zufügen. "
+            "value": "<b>Spielen:</b> Loyalität wechseln, Ziel erhält die Fähigkeit: Jeden Zug 2 Schaden an alle anderen Verbündeten"
         },
         {
             "key": "card.psychic_token.text",
-            "value": "Tausche Psychisch-Token gegen eine beliebige psychische Karte ein"
+            "value": "Psionik-Token gegen eine beliebige Psionik-Karte eintauschen"
         },
         {
             "key": "card.psylant.text",
-            "value": "<b>Spielen:</b> Wähle einen Charakter unter deiner Kontrolle und schicke ihn zum anderen Spieler mit der Fähigkeit: feindliche Charaktere erhalten +1/+2"
+            "value": "<b>Spielen:</b> Loyalität wechseln, Ziel erhält die Fähigkeit: Jeden Zug 2 Karten aus der Hand abwerfen"
         },
         {
             "key": "card.psynkey.text",
-            "value": "<b>Spielen:</b> Wähle einen Charakter unter deiner Kontrolle und schicke ihn zum anderen Spieler mit der Fähigkeit: zu Beginn jedes Zuges 2 Karten abwerfen"
+            "value": "<b>Spielen:</b> Loyalität wechseln, Ziel erhält die Fähigkeit: Gegnerische Monster erhalten +1/+2"
         },
         {
             "key": "card.pyro.text",
-            "value": "<b>Tod:</b> Ein Ei beschwören."
+            "value": "<b>Tod:</b> Ein Phyra-Ei beschwören"
         },
         {
             "key": "card.rekrek.text",
-            "value": "<b>Spielen:</b> 1 Schaden zufügen."
+            "value": "<b>Spielen:</b> 1 Schaden verursachen"
         },
         {
             "key": "card.rektar.text",
-            "value": "<b>Spielen:</b> 2 Schaden zufügen."
+            "value": "<b>Spielen:</b> 2 Schaden verursachen"
         },
         {
             "key": "card.rektardark.text",
-            "value": "<b>Angriff</b>: Das Zielmonster verfluchen"
+            "value": "<b>Angriff</b>: Zielmonster verfluchen"
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>Jeden Zug:</b> Monster mit dem niedrigsten Angriff töten (einschließlich Verbündete und dieses Monster)."
+            "value": "<b>Jeden Zug:</b> Alle Monster mit dem niedrigsten Angriff im Spiel zerstören (inklusive deiner)"
         },
         {
             "key": "card.rock_cave.text",
-            "value": "Alle Stein-Monster erhalten: „Erleide 1 Schaden, um +1 Angriff zu erhalten“. 1 Mana pro Einsatz."
+            "value": "Alle Felsmonster erhalten: \"1 Schaden erhalten, um +1 Angriff zu erhalten\" 1 Mana pro Verwendung"
         },
         {
             "key": "card.rock_golem_spawn.text",
-            "value": "Spott"
+            "value": "SPOTT"
         },
         {
             "key": "card.rock_token.text",
-            "value": "Tausche Fels-Token gegen eine beliebige Fels-Karte ein"
+            "value": "Fels-Token gegen eine beliebige Fels-Karte eintauschen"
         },
         {
             "key": "card.rootiny.text",
-            "value": "Regenerierung"
+            "value": "REGENERATION"
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>Angriff:</b> Gift."
+            "value": "<b>Angriff:</b> Ziel vergiften"
         },
         {
             "key": "card.rootus.text",
-            "value": "Regenerierung"
+            "value": "REGENERATION"
         },
         {
             "key": "card.ropick.text",
-            "value": "<b>Ausspielen:</b> Erhalte 2 Rüstung. "
+            "value": "<b>Spielen:</b> 2 Rüstung erhalten"
         },
         {
             "key": "card.scarles.text",
-            "value": "Jeden Zug +1 Angriff erhalten.\nFliegen"
+            "value": "Jeden Zug +1 Angriff erhalten\nFLIEGEND"
         },
         {
             "key": "card.shadow_token.text",
-            "value": "Tausche Schatten-Token gegen eine beliebige Schatten-Karte ein"
+            "value": "Schatten-Token gegen eine beliebige Schatten-Karte eintauschen"
         },
         {
             "key": "card.shama.text",
-            "value": "Zauberschaden +1."
+            "value": "ZAUBERSCHADEN +1"
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>Angriff:</b> Gift."
+            "value": "<b>Angriff:</b> Ziel vergiften"
         },
         {
             "key": "card.skatrix.text",
-            "value": "Wut / Eile\n<b>Angriff:</b> Friere das Ziel ein und erhalte keinen Gegenschaden."
+            "value": "WUT / STURMANGRIFF\n<b>Angriff:</b> Ziel einfrieren und keinen Gegenangriffsschaden erhalten"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "Wut / Eile\n<b>Angriff:</b> Friere das Ziel ein und erhalte keinen Gegenschaden."
+            "value": "WUT / STURMANGRIFF\n<b>Angriff:</b> Ziel einfrieren und keinen Gegenangriffsschaden erhalten"
         },
         {
             "key": "card.skipo.text",
-            "value": "Spott\n "
+            "value": "SPOTT\n"
         },
         {
             "key": "card.slime.text",
-            "value": "<b>Spielen:</b> Bringe ein Monster auf deine Hand zurück."
+            "value": "<b>Spielen:</b> Ein Monster aus deinem Abwurf in deine Hand zurückholen"
         },
         {
             "key": "card.sneel.text",
-            "value": "Schale"
+            "value": "PANZER"
         },
         {
             "key": "card.snowl.text",
-            "value": "Fliegen\n<b>Spielen:</b> Friere einen Feind mit 2 oder weniger Angriff ein."
+            "value": "FLIEGEND\n<b>Spielen:</b> Gegner mit 2 oder weniger Angriff einfrieren"
         },
         {
             "key": "card.soligator.text",
-            "value": "ANSTURM"
+            "value": "STURMANGRIFF"
         },
         {
             "key": "card.sostar.text",
-            "value": "Fliegen"
+            "value": "FLIEGEND / EINSCHÜCHTERN"
         },
         {
             "key": "card.sovis.text",
-            "value": "Fliegen"
+            "value": "FLIEGEND / EINSCHÜCHTERN"
         },
         {
             "key": "card.sparkig.text",
-            "value": "Todesberührung"
+            "value": "TODESBERÜHRUNG"
         },
         {
             "key": "card.spell_aerial_strike.text",
-            "value": "3 Pyro in Ihrer Hand beschwören."
+            "value": "3 Pyro-Karten in deine Hand legen"
         },
         {
             "key": "card.spell_armageddon.text",
-            "value": "Zerstöre alle Karten auf dem Spielfeld"
+            "value": "Alle Karten im Spiel zerstören"
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Zerstöre ein eingefrorenes Ziel.\nZerstöre einen Ort."
+            "value": "Eingefrorenes Ziel zerstören\nEine Ort-Karte zerstören"
         },
         {
             "key": "card.spell_boost_electric.text",
-            "value": "Alle Elektro-Monster im Spiel gewinnen +2 Angriff (einschließlich Feinde). "
+            "value": "Alle Elektrischen Monster im Spiel erhalten +2 Angriff (inklusive gegnerischer)"
         },
         {
             "key": "card.spell_burn.text",
-            "value": "Das Ziel zerstören."
+            "value": "Ziel zerstören"
         },
         {
             "key": "card.spell_cursed_potion.text",
-            "value": "Bringe ein Zielmonster zum Schweigen und verfluche dann ein Zielmonster"
+            "value": "Zielmonster verstummen lassen und verfluchen"
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "Zielkarte erhält „Wenn ein verbündetes Monster ins Spiel kommt, zerstöre dieses Monster.“"
+            "value": "Zielkarte erhält \"Wenn ein verbündetes Monster aus der Hand gespielt wird, dieses Monster zerstören\""
         },
         {
             "key": "card.spell_electric_ally.text",
-            "value": "Die nächsten 7 Karten Ihres Decks anschauen und 1 Elektro-Karte in Ihre Hand nehmen."
+            "value": "Die nächsten 7 Karten deines Decks ansehen und 1 Elektrische Karte daraus in deine Hand legen"
         },
         {
             "key": "card.spell_extinct.text",
-            "value": "Zielkarte erhält „Wenn ein verbündetes Monster ins Spiel kommt, zerstöre dieses Monster.“"
+            "value": "Zielkarte erhält \"Wenn ein verbündetes Monster aus der Hand gespielt wird, dieses Monster zerstören\""
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Füge einem verbündeten Monster 1 Schaden zu, füge dann zweimal einem zufälligen Ziel 2 Schaden zu. "
+            "value": "1 Schaden an ein verbündetes Monster, dann zweimal 2 Schaden an ein zufälliges gegnerisches Ziel"
         },
         {
             "key": "card.spell_flood.text",
-            "value": "Reduziere die LP aller Monster auf 1."
+            "value": "LP aller Monster auf 1 reduzieren"
         },
         {
             "key": "card.spell_growth.text",
-            "value": "Alle verbündeten Pflanzen-Monster erhalten +2/+2"
+            "value": "Alle verbündeten Pflanzenmonster erhalten +2/+2"
         },
         {
             "key": "card.spell_hammi_strike.text",
-            "value": "Füge einem beliebigen Ziel 3 Schaden zu"
+            "value": "3 Schaden an ein beliebiges Ziel"
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Friere alle Monster im Spiel ein.\nZerstöre Monster, die bereits eingefroren waren."
+            "value": "Alle Monster im Spiel einfrieren\nBereits eingefrorene Monster zerstören"
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Friere ein Zielmonster ein.\nZiehe eine Karte.\nBeschwöre ein Iglu"
+            "value": "Zielmonster einfrieren\nEine Karte ziehen\nIglu beschwören"
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Friere ein Ziel für 1 Zug ein."
+            "value": "Ziel bis zu deinem nächsten Zug einfrieren"
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Füge allen Monstern 1 Schaden zu und dann allen eingefrorenen Monstern 2 Schaden."
+            "value": "1 Schaden an alle Monster, dann 2 Schaden an alle eingefrorenen Monster"
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
-            "value": "Drei 2/1 Lampi in Ihre Hand beschwören."
+            "value": "Drei Lampi-Karten in deine Hand legen"
         },
         {
             "key": "card.spell_lightning_bolts.text",
-            "value": "2 Schaden an alle feindlichen Monster zufügen"
+            "value": "2 Schaden an alle gegnerischen Monster"
         },
         {
             "key": "card.spell_meal.text",
-            "value": "Das Ziel erhält dauerhaft +2/+2 und entfernt alle negativen Statuseffekte."
+            "value": "Ziel erhält +2/+2 und heilt alle negativen Effekte"
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "1 Schaden an eine zufällige Karte zufügen.\n X-mal wiederholen."
+            "value": "1 Schaden an eine zufällige gegnerische Karte\nX-mal wiederholen"
         },
         {
             "key": "card.spell_psychic_rain.text",
-            "value": "Der Gegner wirft 3 zufällige Karten aus seiner Hand weg."
+            "value": "Gegner wirft 3 zufällige Karten aus der Hand ab"
         },
         {
             "key": "card.spell_psychic_staff.text",
-            "value": "Übernehmen Sie für 3 Züge ein feindliches Monster oder bis es sich entwickelt"
+            "value": "Gedankenkontrolle über gegnerisches Monster für 3 Züge oder bis es evolviert"
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Beschwöre einen Felsgolem mit Spott sowie X Angriff und X LP basierend auf dem ausgegebenen Mana. "
+            "value": "Einen Felsgolem mit Spott und X Angriff/X LP basierend auf dem ausgegebenen Mana beschwören"
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "Füge einem verbündeten Monster 1 Schaden zu, füge dann einem beliebigen Ziel 2 Schaden zu."
+            "value": "1 Schaden an ein verbündetes Monster, dann 2 Schaden an ein beliebiges Ziel"
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "Das Zielmonster erhält +2 Rüstung."
+            "value": "Zielmonster erhält +2 Rüstung"
         },
         {
             "key": "card.spell_roots.text",
-            "value": "Das Ziel für 3 Züge lähmen."
+            "value": "Ziel für 3 Züge lähmen"
         },
         {
             "key": "card.spell_shadow_staff.text",
-            "value": "Reduziert alle Monster-LP und Angriffe auf 1"
+            "value": "LP und Angriff aller Monster auf 1 reduzieren"
         },
         {
             "key": "card.spell_split.text",
-            "value": "Zielmonster erhält „Erleidet 3 Schaden, bevor es angreift.“"
+            "value": "Zielmonster erhält \"Vor dem Angriff 3 Schaden erleiden\""
         },
         {
             "key": "card.spell_stomp.text",
-            "value": "Zerstöre das Monster mit den niedrigsten LP."
+            "value": "Ein Monster mit den niedrigsten LP im Spiel zerstören (inklusive deiner, bei Gleichstand zufällig)"
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "Das Zielmonster kann nicht angreifen und erleidet am Ende seines Zuges 1 Schaden."
+            "value": "Zielmonster kann nicht angreifen und erhält am Zugende 1 Schaden"
         },
         {
             "key": "card.spell_stones.text",
-            "value": "1 Schaden zufügen.\n Eine Karte ziehen."
+            "value": "1 Schaden verursachen\nEine Karte ziehen"
         },
         {
             "key": "card.spell_storm.text",
-            "value": "Alle Karten in die Hand ihres Besitzers zurückgeben."
+            "value": "Alle Karten in die Hand des Besitzers zurückkehren"
         },
         {
             "key": "card.spell_submerge.text",
-            "value": "Die Zielkarte gewinnt \"Wenn angegriffen, muss der Gegner 1 zufällige Karte verwerfen\"."
+            "value": "Zielkarte erhält \"Beim Erhalten eines Angriffs muss der Gegner 1 zufällige Karte abwerfen\""
         },
         {
             "key": "card.spell_toxic_rain.text",
@@ -1026,291 +1026,291 @@
         },
         {
             "key": "card.spell_treasure.text",
-            "value": "Die nächsten 7 Karten Ihres Decks anschauen und 1 Wasser-Karte wählen."
+            "value": "Die nächsten 7 Karten deines Decks ansehen und 1 Wasserkarte daraus in deine Hand legen"
         },
         {
             "key": "card.spell_wave.text",
-            "value": "Das feindliche Ziel in die Hand des Besitzers zurückgeben."
+            "value": "Gegnerisches Ziel in die Hand des Besitzers zurückkehren"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "Ein beliebiges Ziel in die Hand des Besitzers zurückgeben, dann wirft der Gegner eine zufällige Karte aus seiner Hand weg."
+            "value": "Beliebiges Ziel in die Hand des Besitzers zurückkehren, dann wirft der Gegner eine zufällige Karte ab"
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>Spielen:</b> Zerstöre ein Monster mit 2 oder weniger Angriff."
+            "value": "<b>Spielen:</b> Ein Monster mit 2 oder weniger Angriff zerstören"
         },
         {
             "key": "card.stingor.text",
-            "value": "<b>Angriff:</b> Das Ziel vergiften. "
+            "value": "<b>Angriff:</b> Ziel vergiften"
         },
         {
             "key": "card.stingy.text",
-            "value": "<b>Angriff:</b> Das Ziel vergiften. "
+            "value": "<b>Angriff:</b> Ziel vergiften"
         },
         {
             "key": "card.stormus.text",
-            "value": "Feindliche Monster haben -1 Angriff.\nKann Spott ignorieren."
+            "value": "FLIEGEND\nGegnerische Monster haben -1 Angriff"
         },
         {
             "key": "card.stormy.text",
-            "value": "Sturmangriff"
+            "value": "STURMANGRIFF"
         },
         {
             "key": "card.swamp.text",
-            "value": "<b>Zugbeginn:</b> Alle verbündeten Schatten-Monster erhalten +1 Angriff."
+            "value": "<b>Zugbeginn: </b>Alle verbündeten Schattenmonster erhalten +1 Angriff"
         },
         {
             "key": "card.tahlu.text",
-            "value": "Tarnung\n Alle Katzen +1 Angriff."
+            "value": "VERSTOHLENHEIT\nAlle anderen verbündeten Katzen +1 Angriff"
         },
         {
             "key": "card.tailu.text",
-            "value": "<b>Schlamm-Ansturm:</b> Ansturm gewinnen, wenn eine Eis-Ort im Spiel ist."
+            "value": "Matsch-Sturmangriff"
         },
         {
             "key": "card.tectan.text",
-            "value": "Alle verbündeten Steinmonster haben +2 Rüstung"
+            "value": "Alle verbündeten Felsmonster haben +2 Rüstung"
         },
         {
             "key": "card.tempish.text",
-            "value": "<b>Spielen:</b> Ein beliebiges Ziel auf die Hand seines Besitzers zurückschicken."
+            "value": "<b>Spielen:</b> Beliebiges Ziel in die Hand des Besitzers zurückkehren"
         },
         {
             "key": "card.tempish_full.text",
-            "value": "<b>Spielen:</b> Bringe ein beliebiges Ziel zurück auf die Hand seines Besitzers."
+            "value": "<b>Spielen:</b> Beliebiges Ziel in die Hand des Besitzers zurückkehren"
         },
         {
             "key": "card.tensei.text",
-            "value": "Spott\n<b>Ausspielen:</b> +1 Rüstung"
+            "value": "SPOTT\n<b>Spielen:</b> +1 Rüstung"
         },
         {
             "key": "card.terrastrus.text",
-            "value": "Raserei\n<b>Ausspielen:</b> Füge allen anderen Karten im Spiel 1 Schaden zu und heile dann alle verbündeten Karten um 1 LP."
+            "value": "WUTANFALL\n<b>Spielen:</b> 1 Schaden an alle Karten im Spiel, dann alle verbündeten Karten um 1 LP heilen."
         },
         {
             "key": "card.town_darkwoods_shadow.text",
-            "value": "Alle verbündeten Schattenkarten haben +2 Angriff."
+            "value": "Alle verbündeten Schattenkarten haben +2 Angriff"
         },
         {
             "key": "card.town_forest.text",
-            "value": "Alle verbündeten Pflanzenkarten haben +2 LP."
+            "value": "Alle verbündeten Pflanzenkarten haben +2 LP"
         },
         {
             "key": "card.town_psychic.text",
-            "value": "Wenn Sie ein psychisches Monster spielen oder ein Monster des Gegners kontrollieren, wirft der Gegner eine zufällige Karte weg. "
+            "value": "Wenn du ein Psionik-Monster spielst oder ein gegnerisches Monster kontrollierst, wirft der Gegner eine zufällige Karte ab"
         },
         {
             "key": "card.town_rock.text",
-            "value": "Alle verbündeten Steinmonster erhalten einen Raserei-Stapel."
+            "value": "Alle verbündeten Felsmonster erhalten einen Wutanfall-Stack"
         },
         {
             "key": "card.town_volcano.text",
-            "value": "Alle verbündeten Feuer-Monster erhalten +2 Angriff."
+            "value": "Alle verbündeten Feuermonster haben +2 Angriff"
         },
         {
             "key": "card.town_water.text",
-            "value": "Wasserkarten in Ihrer Hand kosten 1 weniger."
+            "value": "Wasserkarten in deiner Hand kosten 1 weniger"
         },
         {
             "key": "card.trap_bomb_electric.text",
-            "value": "<b>Falle:</b> Wenn ein Feind angreift, füge allen feindlichen Monstern 1 Schaden zu und lähme sie für 1 Zug."
+            "value": "<b>Falle:</b> Wenn ein Gegner angreift, 1 Schaden an alle gegnerischen Monster und alle für 1 Zug lähmen"
         },
         {
             "key": "card.trap_explosive.text",
-            "value": "<b>Falle:</b> Alle um 2 Schaden."
+            "value": "<b>Falle:</b> Wenn ein Gegner angreift, 2 Schaden an alle gegnerischen Monster im Spiel"
         },
         {
             "key": "card.trap_fish.text",
-            "value": "<b>Falle:</b> In Fisch verwandeln."
+            "value": "<b>Falle:</b> Das nächste Monster, das der gegnerische Spieler aus der Hand spielt, verwandelt sich in einen Fisch."
         },
         {
             "key": "card.trap_ice.text",
-            "value": "<b>Falle:</b> Wenn ein Feind angreift, das Ziel für 2 Züge einfrieren."
+            "value": "<b>Falle:</b>Wenn ein Gegner angreift, das Ziel für 2 Züge einfrieren"
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Falle:</b> Den nächsten Angreifer vergiften und 3 Schaden zufügen."
+            "value": "<b>Falle:</b> Wenn ein Gegner angreift, vergiften und 3 Schaden verursachen"
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "Wenn das nächste feindliche Monster angreift, kontrolliere es 1 Zug lang und verleihe ihm Spott."
+            "value": "Wenn ein gegnerisches Monster angreift, Gedankenkontrolle für diesen Zug und Spott geben"
         },
         {
             "key": "card.trap_spike.text",
-            "value": "<b>Falle:</b> Wenn ein Feind den Spieler angreift, 4 LP heilen."
+            "value": "<b>Falle:</b> Wenn ein Gegner den Spieler angreift, 4 LP heilen"
         },
         {
             "key": "card.trats.text",
-            "value": "Nach dem Spielen eines Zaubers +2 Angriff gewinnen."
+            "value": "Nach dem Spielen eines Zaubers +2 Angriff erhalten"
         },
         {
             "key": "card.turbowing.text",
-            "value": "Eile\nFliegen"
+            "value": "EILE / FLIEGEND"
         },
         {
             "key": "card.turtod.text",
-            "value": "Spott"
+            "value": "SPOTT"
         },
         {
             "key": "card.twii.text",
-            "value": "<b>Tod:</b> Eine Karte ziehen.\n Spott ignorieren."
+            "value": "FLIEGEND\n<b>Tod:</b> Eine Karte ziehen"
         },
         {
             "key": "card.twiina.text",
-            "value": "Fähigkeitsimmunität\n Spott ignorieren\n<b>Tod:</b> Einen Twii beschwören.\n"
+            "value": "FÄHIGKEITSIMMUNITÄT / FLIEGEND\n<b>Tod:</b> Twii beschwören\n"
         },
         {
             "key": "card.urnog.text",
-            "value": "<b>Spielen</b>: Setzen Sie den Angriff der Zielmonsterkarte auf 3"
+            "value": "EINSCHÜCHTERN\n<b>Spielen</b>: Angriff des Zielmonsters auf 3 setzen"
         },
         {
             "key": "card.urogorth.text",
-            "value": "Spott\n<b>Ausspielen:</b> +2 Rüstung"
+            "value": "SPOTT\n<b>Spielen:</b> +2 Rüstung"
         },
         {
             "key": "card.venorus.text",
-            "value": "<b>Spielen:</b> Alle feindlichen Karten im Spiel vergiften."
+            "value": "EINSCHÜCHTERN\n<b>Spielen</b>: Alle gegnerischen Karten im Spiel vergiften"
         },
         {
             "key": "card.venorus_full.text",
-            "value": "Beim Ausspielen werden alle gegnerischen Charaktere vergiftet."
+            "value": "<b>Spielen</b>: Alle gegnerischen Karten im Spiel vergiften"
         },
         {
             "key": "card.vertron.text",
-            "value": "Alle Elektro-Monster kosten 2 Mana weniger "
+            "value": "Alle Elektrischen Monster kosten 2 Mana weniger"
         },
         {
             "key": "card.vertron_full.text",
-            "value": "Alle Elektro-Monster kosten 2 Mana weniger "
+            "value": "Alle Elektrischen Monster kosten 2 Mana weniger"
         },
         {
             "key": "card.viborus.text",
-            "value": "Tarnung\n Angriff: Gift"
+            "value": "VERSTOHLENHEIT\nAngriff: Zielmonster vergiften"
         },
         {
             "key": "card.virgo.text",
-            "value": "Kann nicht angreifen. Zu Beginn Ihres Zuges einen zufälligen Verbündeten einschlafen lassen."
+            "value": "Kann nicht angreifen\n Zu Beginn deines Zuges ein zufälliges Verbündetes einschläfern\n<b>Spielen:</b> Sich selbst vergiften\n"
         },
         {
             "key": "card.volcano.text",
-            "value": "Alle Feuer-Monster erhalten: „Erleide 1 Schaden, um +1 Angriff zu erhalten“. 1 Mana pro Einsatz."
+            "value": "Alle Feuermonster erhalten: \"1 Schaden erhalten, um +1 Angriff zu erhalten\" 1 Mana pro Verwendung"
         },
         {
             "key": "card.vorteru.text",
-            "value": "<b>Spielen</b>: Setzen Sie den Angriff der Zielmonsterkarte auf 1"
+            "value": "EINSCHÜCHTERN\n<b>Spielen</b>: Angriff des Zielmonsters auf 1 setzen"
         },
         {
             "key": "card.vulkong.text",
-            "value": "<b>Spielen:</b> Alle um 1 Schaden."
+            "value": "<b>Spielen:</b> 1 Schaden an alle anderen Karten im Spiel"
         },
         {
             "key": "card.waazu.text",
-            "value": "<b>Spielen:</b> Eine Zielkarte zum Schweigen bringen."
+            "value": "<b>Spielen:</b> Zielmonster verstummen lassen"
         },
         {
             "key": "card.warhammi.text",
-            "value": "Jeden Zug +1 Rüstung gewinnen."
+            "value": "Jeden Zug +1 Rüstung erhalten"
         },
         {
             "key": "card.waru.text",
-            "value": "Hat +3 Angriff während des Zuges des Gegners."
+            "value": "Hat +3 Angriff während des gegnerischen Zuges"
         },
         {
             "key": "card.waru_mount.text",
-            "value": "Feindliche Monster haben -1 Angriff.\n<b>Aktion:</b> Verbündete erhalten +1 Angriff."
+            "value": "Gegnerische Monster haben -1 Angriff\n<b>Aktion:</b> +1 Angriff an Verbündete"
         },
         {
             "key": "card.water_token.text",
-            "value": "Tausche Wasser-Token gegen eine beliebige Wasser-Karte ein"
+            "value": "Wasser-Token gegen eine beliebige Wasser-Karte eintauschen"
         },
         {
             "key": "card.wido.text",
-            "value": "<b>Zugende:</b> Geht in Tarnung, wenn Sie andere Monster im Spiel haben."
+            "value": "<b>Zugende:</b> In Verstohlenheit gehen, wenn andere Monster im Spiel sind"
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>Zugende:</b> Geht in Tarnung, wenn Sie andere Monster im Spiel haben."
+            "value": "EINSCHÜCHTERN\n<b>Zugende:</b> In Verstohlenheit gehen, wenn andere Monster im Spiel sind"
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>Spielen:</b> Fügen Sie Ihrer Hand ein Monster aus dem Ablagestapel hinzu."
+            "value": "<b>Spielen: </b> Ein Monster aus deinem Abwurf in deine Hand zurückholen"
         },
         {
             "key": "card.woodost.text",
-            "value": "<b>Spielen:</b> Spott oder Wut gewinnen"
+            "value": "<b>Wahl: </b> Spott oder Wut"
         },
         {
             "key": "card.worpi.text",
-            "value": "<b>Ausspielen:</b> Übernimm den höchsten Rüstungswert auf dem Brett und wende ihn auf dieses Monster an."
+            "value": "<b>Spielen:</b> Höchsten Rüstungswert im Spiel übernehmen und diesem Monster geben"
         },
         {
             "key": "card.worpow.text",
-            "value": "<b>Ausspielen:</b> Übernimm den höchsten Rüstungswert auf dem Brett und wende ihn auf dieses Monster an."
+            "value": "<b>Spielen:</b> Höchsten Rüstungswert im Spiel übernehmen und diesem Monster geben"
         },
         {
             "key": "card.woshi.text",
-            "value": "Beim Angreifen 1 Mana erhalten."
+            "value": "Beim Angreifen 1 Mana erhalten"
         },
         {
             "key": "card.yachan.text",
-            "value": "<b>Ortsrabatt</b>: Jeder Ort desselben Elementtyps hat 1 Mana Rabatt. "
+            "value": "<b>Ort-Rabatt</b>: Jeder Ort desselben Elementtyps hat 1 Mana-Rabatt"
         },
         {
             "key": "card.yochan.text",
-            "value": "Pro Ort im Spiel desselben Elementtyps +2 LP. "
+            "value": "Pro Ort-Karte desselben Elementtyps im Spiel +2 LP erhalten"
         },
         {
             "key": "card.zaphyra.text",
-            "value": "Zauberimmunität\n Wenn sie angegriffen wird, eine Karte ziehen"
+            "value": "ZAUBERIMMUNITÄT\nBeim Angriff eine Karte ziehen"
         },
         {
             "key": "card.zaphyra_full.text",
-            "value": "Zauberimmunität\nBeim Angegriffenwerden eine Karte ziehen"
+            "value": "ZAUBERIMMUNITÄT\nBeim Angriff eine Karte ziehen"
         },
         {
             "key": "card.zargon.text",
-            "value": "Fähigkeitsimmunität\n Regeneration\n<b>Spielen:</b> Eine Karte aus dem Ablagestapel auf die Hand nehmen."
+            "value": "FÄHIGKEITSIMMUNITÄT / REGENERATION\n<b>Spielen: </b> Eine Karte aus dem Abwurf in die Hand zurückholen"
         },
         {
             "key": "card.zargon_full.text",
-            "value": "Fähigkeitsimmunität\nRegeneration\n<b>Ausspielen: </b> Füge deiner Hand eine Karte aus dem Ablagestapel hinzu."
+            "value": "FÄHIGKEITSIMMUNITÄT / REGENERATION\n<b>Spielen: </b> Eine Karte aus dem Abwurf in die Hand legen"
         },
         {
             "key": "card.zarpas.text",
-            "value": "Spott\n Schale"
+            "value": "PANZER / SPOTT"
         },
         {
             "key": "card.zenphire.text",
-            "value": "Zauberschaden +4.\n Fliegen"
+            "value": "FLIEGEND\nZAUBERSCHADEN +4"
         },
         {
             "key": "card.zenphire_full.text",
-            "value": "Zauberschaden +4.\nFliegen"
+            "value": "FLIEGEND\nZAUBERSCHADEN +4"
         },
         {
             "key": "card.zeras.text",
-            "value": "<b>Spielen:</b> Fluch\n<b>Spielen:</b> Einen Hajiko beschwören"
+            "value": "EINSCHÜCHTERN\n<b>Spielen:</b> Verfluchen\n<b>Spielen:</b> Hajiko beschwören"
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Immer wenn ein anderes Monster stirbt, ziehen Sie 2 Karten."
+            "value": "Immer wenn ein anderes Monster stirbt, 2 Karten ziehen"
         },
         {
             "key": "card.zithex.text",
-            "value": "<b>Spielen:</b> Setzt den Angriff eines Zielmonsters auf 1."
+            "value": "<b>Spielen:</b> Angriff des gegnerischen Zielmonsters auf 1 reduzieren"
         },
         {
             "key": "card.ziwing.text",
-            "value": "Eile\nFliegen"
+            "value": "EILE / FLIEGEND"
         },
         {
             "key": "card.zorni.text",
-            "value": "Zu Beginn jedes Zuges eine Karte ziehen."
+            "value": "EINSCHÜCHTERN\nZu Beginn jedes Zuges eine Karte ziehen"
         },
         {
             "key": "card.zortan.text",
-            "value": "Alle anderen verbündeten Reptilien gewinnen +2 Angriff."
+            "value": "EINSCHÜCHTERN\nAlle anderen verbündeten Reptilien +2 Angriff"
         }
     ]
 }

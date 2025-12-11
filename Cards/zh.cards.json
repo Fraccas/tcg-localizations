@@ -2,11 +2,11 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "冲锋\n当有卡牌被冻结时获得 +1/+1。"
+            "value": "突击\n当一张卡被冻结时获得+1/+1"
         },
         {
             "key": "card.antairy.text",
-            "value": "激怒\n摧毁一个具有飞行的目标怪兽。"
+            "value": "激怒\n摧毁一个目标飞行怪物"
         },
         {
             "key": "card.armoru.text",
@@ -14,31 +14,31 @@
         },
         {
             "key": "card.aros.text",
-            "value": "<b>攻击：</b>对目标怪物施加诅咒"
+            "value": "威吓\n<b>攻击</b>：诅咒目标怪物"
         },
         {
             "key": "card.astor.text",
-            "value": "护壳\n每个回合开始时获得1点护甲。"
+            "value": "每个回合开始时获得1护甲"
         },
         {
             "key": "card.astroguin.text",
-            "value": "嘲讽\n<b>登场：</b>召唤冰屋两次。\n冰屋无敌。"
+            "value": "嘲讽\n<b>使用:</b> 召唤冰屋两次\n冰屋无敌"
         },
         {
             "key": "card.bashker.text",
-            "value": "<b>陷阱回避：</b>攻击时不会触发陷阱。\n每有一个敌方陷阱，就获得 +1 攻击力。"
+            "value": "<b>陷阱规避:</b> 攻击时不触发陷阱\n每个敌方陷阱获得+1伤害"
         },
         {
             "key": "card.bashko.text",
-            "value": "<b>陷阱回避：</b>攻击时不会触发陷阱。"
+            "value": "<b>陷阱规避:</b> 攻击时不触发陷阱"
         },
         {
             "key": "card.bay.text",
-            "value": "当你拥有的水系怪兽阵亡时，抽一张牌。"
+            "value": "当你拥有的水怪物死亡时，抽一张牌"
         },
         {
             "key": "card.boilin.text",
-            "value": "<b>死亡：</b>抽一张牌。"
+            "value": "<b>死亡:</b> 抽一张牌"
         },
         {
             "key": "card.bora.text",
@@ -46,31 +46,35 @@
         },
         {
             "key": "card.burnibu.text",
-            "value": "<b>登场：</b>随机丢弃你手牌中的1张牌，然后抽2张新牌。"
+            "value": "<b>使用:</b> 从手牌中随机丢弃一张牌并抽两张新牌"
         },
         {
             "key": "card.burnion.text",
-            "value": "<b>登场：</b>使目标怪兽着火，每回合受到2点伤害。"
+            "value": "<b>使用:</b> 燃烧一个目标怪物"
         },
         {
             "key": "card.burny.text",
-            "value": "<b>打出：</b>随机弃置你手牌中的一张牌，并抽两张新牌。"
+            "value": "<b>使用:</b> 从手牌中随机丢弃一张牌并抽两张牌"
         },
         {
             "key": "card.buumi.text",
-            "value": "<b>登场：</b>摧毁所有敌方陷阱，每摧毁一个获得+2/+2。"
+            "value": "<b>使用:</b> 摧毁所有敌方陷阱并为每个摧毁的陷阱获得+2/+2"
         },
         {
             "key": "card.cabyron.text",
-            "value": "嘲讽\n<b>死亡：</b>召唤一只激怒 II 的卡比龙。"
+            "value": "嘲讽\n<b>死亡:</b> 召唤一个带有激怒II的Cabyron"
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "激怒II"
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "嘲讽\n<b>死亡：</b>召唤一只激怒 II 的卡比龙。"
+            "value": "嘲讽\n<b>死亡:</b> 召唤一个带有激怒II的Cabyron"
         },
         {
             "key": "card.cabywara.text",
-            "value": "每回合一次，承受伤害且存活时，抽一张牌。"
+            "value": "受到伤害并存活时，抽一张牌"
         },
         {
             "key": "card.cactoon.text",
@@ -78,67 +82,71 @@
         },
         {
             "key": "card.cactuzzi.text",
-            "value": "延伸：飞行怪物必须以此怪物为目标。"
+            "value": "范围：飞行怪物必须针对此怪物"
         },
         {
             "key": "card.calfire.text",
-            "value": "法术伤害 +1。"
+            "value": "法术伤害+1"
         },
         {
             "key": "card.cheetula.text",
-            "value": "<b>打出：</b>召唤一只幼年 Jagur。\n所有猫获得 +1 攻击力。"
+            "value": "<b>使用</b>: 召唤一个婴儿Jagur\n所有其他盟友猫+1攻击"
         },
         {
             "key": "card.chewanha.text",
-            "value": "<b>击杀：</b>抽两张牌。"
+            "value": "<b>杀死:</b> 抽两张牌"
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "壳\n激怒II"
         },
         {
             "key": "card.clampion.text",
-            "value": "嘲讽\n护壳"
+            "value": "壳 / 嘲讽"
         },
         {
             "key": "card.coin.text",
-            "value": "获得 1 法力。"
+            "value": "获得1法力"
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>登场：</b>冻结所有攻击≤4的敌方怪兽。\n飞行"
+            "value": "飞行\n<b>使用:</b> 冻结所有攻击4或更少的敌方怪物"
         },
         {
             "key": "card.cyowl.text",
-            "value": "<b>登场：</b>冻结一只攻击≤4的敌方怪兽\n飞行"
+            "value": "飞行\n<b>使用:</b> 冻结一个攻击4或更少的敌方怪物"
         },
         {
             "key": "card.cypha.text",
-            "value": "潜行"
+            "value": "威吓 / 潜行"
         },
         {
             "key": "card.cypha_full.text",
-            "value": "潜行"
+            "value": "威吓 / 潜行"
         },
         {
             "key": "card.darcelia.text",
-            "value": "<b>打出：</b>诅咒。"
+            "value": "威吓\n<b>使用:</b> 诅咒一个目标怪物"
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>登场</b>：诅咒场上所有怪兽。"
+            "value": "威吓\n<b>使用</b>: 诅咒游戏中所有怪物"
         },
         {
             "key": "card.devastor.text",
-            "value": "法术免疫 / 壳\n<b>打出：</b>对所有目标造成 2 点伤害"
+            "value": "法术免疫 / 壳\n<b>使用:</b> 对其他一切造成2伤害"
         },
         {
             "key": "card.devastor_full.text",
-            "value": "法术免疫 / 护壳\n<b>登场：</b>对所有单位造成2点伤害"
+            "value": "法术免疫 / 壳\n<b>使用:</b> 对其他一切造成2伤害"
         },
         {
             "key": "card.djinnas.text",
-            "value": "<b>打出：</b>将此怪物与法力消耗不超过 7 点的敌方怪物交换。"
+            "value": "<b>使用:</b> 用这个怪物交换一个法力成本7或更少的敌方怪物"
         },
         {
             "key": "card.djune.text",
-            "value": "<b>打出：</b>将此怪物与法力消耗不超过 3 点的敌方怪物交换。"
+            "value": "<b>使用:</b> 用这个怪物交换一个法力成本3或更少的敌方怪物"
         },
         {
             "key": "card.dobash.text",
@@ -146,19 +154,19 @@
         },
         {
             "key": "card.dofurious.text",
-            "value": "能力免疫\n践踏"
+            "value": "能力免疫 / 践踏"
         },
         {
             "key": "card.dolvi.text",
-            "value": "<b>打出：</b>对一名目标怪物施加毒素"
+            "value": "威吓\n<b>使用:</b> 毒化一个目标怪物"
         },
         {
             "key": "card.domumu.text",
-            "value": "<b>打出：</b>使目标获得 +2/+2，直到回合结束。"
+            "value": "<b>使用:</b> 给一个怪物+2/+2直到你的下一个回合"
         },
         {
             "key": "card.doshoto.text",
-            "value": "<b>攻击：</b>掷一个 D6，结果为 4 或以上时，直到回合结束获得 +3 攻击力。"
+            "value": "<b>攻击:</b>掷D6，在4+时直到回合结束获得+3攻击"
         },
         {
             "key": "card.dothrow.text",
@@ -166,15 +174,15 @@
         },
         {
             "key": "card.dracon.text",
-            "value": "践踏\n飞行"
+            "value": "践踏 / 飞行"
         },
         {
             "key": "card.dragin.text",
-            "value": "狂怒"
+            "value": "激怒"
         },
         {
             "key": "card.dragon_egg.text",
-            "value": "发现一条龙。"
+            "value": "从你的牌库中搜索一个龙"
         },
         {
             "key": "card.dragulp.text",
@@ -182,359 +190,379 @@
         },
         {
             "key": "card.drion.text",
-            "value": "<b>登场</b>：沉默一个目标怪兽，然后再诅咒一个目标怪兽"
+            "value": "威吓\n<b>使用</b>: 沉默一个目标怪物，诅咒一个目标怪物"
         },
         {
             "key": "card.dryaow.text",
-            "value": "<b>登场</b>：诅咒场上所有怪兽"
+            "value": "威吓\n<b>使用</b>: 诅咒游戏中所有怪物"
         },
         {
             "key": "card.dulster.text",
-            "value": "<b>攻击：</b>对目标怪物施加诅咒并使其中毒"
+            "value": "威吓\n<b>攻击</b>: 诅咒并毒化目标怪物"
         },
         {
             "key": "card.electric_token.text",
-            "value": "将一个电系代币兑换为任意一张电系卡牌"
+            "value": "将电力代币交换为任意一张电力卡"
         },
         {
             "key": "card.electric_town.text",
-            "value": "所有电系怪物法力消耗减少 2（包括敌人）"
+            "value": "所有电力怪物成本减少2法力（包括敌人）"
         },
         {
             "key": "card.elegat.text",
-            "value": "<b>打出：</b>使对手随机弃置一张手牌"
+            "value": "<b>使用:</b> 对手随机丢弃一张牌"
+        },
+        {
+            "key": "card.emberstorm.text",
+            "value": "使用时以及每个你的回合开始时，燃烧场上所有其他非火怪物"
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "使用时以及每个你的回合开始时，燃烧场上所有其他非火怪物"
         },
         {
             "key": "card.envish.text",
-            "value": "<b>登场：</b>消灭一只攻击≤3的怪兽。"
+            "value": "<b>使用:</b> 摧毁一个攻击3或更少的怪物"
         },
         {
             "key": "card.equip_psychic_ring.text",
-            "value": "每个回合开始时，揭示对手的手牌。持续最多 3 个回合。"
+            "value": "每个回合开始时，揭示对手的手牌。"
         },
         {
             "key": "card.equip_shield.text",
-            "value": "持有者获得 2 护甲和嘲讽。"
+            "value": "携带者获得2护甲和嘲讽"
         },
         {
             "key": "card.equip_sword_fire.text",
-            "value": "攻击 +1。\n持有者在攻击时不受伤害。"
+            "value": "攻击+1\n携带者在攻击时不受到伤害"
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "持有者的攻击力等于其最大生命值。"
+            "value": "携带者的攻击等于其当前生命值"
         },
         {
             "key": "card.equip_water_ring.text",
-            "value": "每个回合额外获得 2 法力，持续 4 个回合。"
+            "value": "每个回合获得2额外法力。"
         },
         {
             "key": "card.espe.text",
-            "value": "心控一只法力消耗≥5的敌方怪兽，直到该怪兽离开战场为止。"
+            "value": "<b>使用:</b> 对法力成本5+的敌方怪物进行心灵控制"
         },
         {
             "key": "card.evira.text",
-            "value": "<b>打出：</b>给予 +2/2。\n造成伤害时治疗玩家。"
+            "value": "生命偷取\n<b>使用:</b> 给一个怪物+2/+2直到你的下一个回合"
         },
         {
             "key": "card.exord.text",
-            "value": "<b>打出：</b>对所有人造成 2 点伤害。"
+            "value": "<b>使用:</b> 对游戏中其他一切造成2伤害"
         },
         {
             "key": "card.ezonea.text",
-            "value": "<b>登场：</b>心控一只攻击≤5的敌方怪兽"
+            "value": "<b>使用:</b> 对攻击5或更少的敌方怪物进行心灵控制"
         },
         {
             "key": "card.fire_token.text",
-            "value": "将一个火系代币兑换为任意一张火系卡牌"
+            "value": "将火代币交换为任意一张火卡"
         },
         {
             "key": "card.flamitto.text",
-            "value": "<b>攻击：</b>点燃敌方怪兽；其每回合失去2点生命。"
+            "value": "<b>攻击:</b> 燃烧目标怪物"
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>登场：</b>心控一只费用≤2的目标怪兽。"
+            "value": "<b>使用:</b> 对法力成本2或更少的敌方怪物进行心灵控制"
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>登场：</b>心控一只攻击≤3的目标怪兽"
+            "value": "<b>使用:</b> 对攻击3或更少的敌方怪物进行心灵控制"
         },
         {
             "key": "card.froggyo.text",
-            "value": "<b>登场：</b>从任一侧选择一只费用≤2的目标怪兽，把它送到另一位玩家场上。"
+            "value": "当对手丢弃咒语时，在你的手中创建一份副本\n"
         },
         {
             "key": "card.frojest.text",
-            "value": "当对手丢弃一张怪兽牌时，本怪兽变为其复制体。"
+            "value": "当对手丢弃怪物时，这个怪物成为丢弃怪物的副本"
         },
         {
             "key": "card.frojesti.text",
-            "value": "当对手弃置一张法术牌时，在你的手牌中创建一张 0 法力的复制。"
+            "value": "当对手丢弃角色时，在你的手中创建一份零法力成本的副本\n"
+        },
+        {
+            "key": "card.frojesti_full.text",
+            "value": "当对手丢弃角色时，在你的手中创建一份零法力成本的副本\n"
         },
         {
             "key": "card.froster.text",
-            "value": "冲锋\n每当有怪兽被冻结时，获得+1/+1。"
+            "value": "突击\n当怪物被冻结时获得+1/+1"
         },
         {
             "key": "card.galasu.text",
-            "value": "法术免疫 / 能力免疫\n可无视嘲讽。"
+            "value": "飞行\n选择：法术免疫或能力免疫"
         },
         {
             "key": "card.galasu_full.text",
-            "value": "获得法术免疫或能力免疫\n无视嘲讽"
+            "value": "飞行\n选择：法术免疫或能力免疫"
         },
         {
             "key": "card.gamud.text",
-            "value": "每回合一次，当受到伤害且存活时，抽一张牌。"
+            "value": "受到伤害并存活时，抽一张牌"
         },
         {
             "key": "card.gargarm.text",
-            "value": "每打出一个法术，获得+2攻击。\n飞行"
+            "value": "飞行\n玩咒语后获得+2攻击"
         },
         {
             "key": "card.gargoli.text",
-            "value": "每当你施放法术，获得 +2 攻击力。"
+            "value": "玩咒语后获得+2攻击"
         },
         {
             "key": "card.geister.text",
-            "value": "<b>攻击：</b>使目标获得诅咒和中毒"
+            "value": "威吓\n<b>攻击</b>: 诅咒并毒化目标怪物"
         },
         {
             "key": "card.gemash.text",
-            "value": "选择：嘲讽或+2护甲"
+            "value": "选择: 嘲讽或+2护甲"
         },
         {
             "key": "card.gizap.text",
-            "value": "每当其他怪兽阵亡时，抽1张牌。"
+            "value": "每当另一个怪物死亡时，抽一张牌"
         },
         {
             "key": "card.gizord.text",
             "value": "急速"
         },
         {
+            "key": "card.gizord_full.text",
+            "value": "急速"
+        },
+        {
             "key": "card.glidara.text",
-            "value": "抉择：嘲讽或冲锋\n<b>亡语：</b>召唤一个冰屋。"
+            "value": "选择: 嘲讽或突击\n<b>死亡:</b> 召唤冰屋"
         },
         {
             "key": "card.glummy.text",
-            "value": "<b>攻击：</b>毒性。\n飞行"
+            "value": "飞行\n<b>攻击</b>: 毒化目标怪物"
         },
         {
             "key": "card.gluttrats.text",
-            "value": "每当你施放法术，获得 +2 攻击力。"
+            "value": "玩咒语后获得+2攻击"
         },
         {
             "key": "card.goldape.text",
-            "value": "每个回合开始时，获得 +1 攻击力。"
+            "value": "每个回合开始时获得+1攻击"
         },
         {
             "key": "card.gookie.text",
-            "value": "嘲讽\n<b>登场：</b>+1护甲"
+            "value": "嘲讽\n<b>使用:</b> +1护甲"
         },
         {
             "key": "card.gorupt.text",
-            "value": "<b>打出：</b>对所有目标造成 2 点伤害。"
+            "value": "<b>使用:</b> 对其他一切造成2伤害"
         },
         {
             "key": "card.gracelia.text",
-            "value": "<b>登场：</b>为一只怪兽净化所有负面状态并给予+2生命"
+            "value": "<b>使用:</b> 治愈一个怪物所有负面状态效果并给予+2生命值"
         },
         {
             "key": "card.graceliaex.text",
-            "value": "<b>施放 (2):</b> 治疗玩家 3 点生命值。"
+            "value": "<b>行动 (2):</b> 治愈玩家3生命值"
         },
         {
             "key": "card.grandcelia.text",
-            "value": "<b>打出：</b>使目标获得 +2/+2。\n<b>行动：</b>弹回。"
+            "value": "<b>使用:</b> 给予+2/+2\n<b>行动:</b> 反弹。"
         },
         {
             "key": "card.grocelia.text",
-            "value": "<b>打出：</b>使目标卡牌沉默。"
+            "value": "<b>使用:</b> 沉默一个目标怪物"
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>嘲讽</b>\n当其受到伤害并存活时，使所有盟友岩石怪兽获得+1护甲。"
+            "value": "<b>嘲讽</b>\n受到伤害并存活时，给所有盟友岩怪物+1护甲"
         },
         {
             "key": "card.hajiko.text",
-            "value": "<b>登场：</b>向一只怪兽添加《受苦诅咒》"
+            "value": "威吓\n<b>使用:</b> 给一个怪物添加苦痛诅咒"
         },
         {
             "key": "card.hammar.text",
-            "value": "激怒\n<b>登场：</b>获得1护甲。\n攻击敌方玩家后，从你的牌库中抽取一张岩石法术牌。"
+            "value": "激怒\n<b>使用:</b> 获得1护甲\n攻击敌方玩家后，从你的牌库中抽一张岩咒语卡"
         },
         {
             "key": "card.hammark.text",
-            "value": "每当其他怪兽阵亡时，抽1张牌。\n攻击不减免疫"
+            "value": "攻击损失免疫\n每当另一个怪物死亡时，抽一张牌"
         },
         {
             "key": "card.hammi.text",
-            "value": "激怒 III"
+            "value": "激怒III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "激怒\n攻击敌方玩家后，从你的牌库中抽取一张岩石法术牌。"
+            "value": "激怒\n攻击敌方玩家后，从你的牌库中抽一张岩咒语卡"
         },
         {
             "key": "card.hammish.text",
-            "value": "每当其他怪兽阵亡时，抽1张牌。"
+            "value": "每当另一个怪物死亡时，抽一张牌"
         },
         {
             "key": "card.hato.text",
-            "value": "每当你召唤地点时获得壳。\n若战场上有冰属性地点，获得 +1/+1。"
+            "value": "每次召唤位置时获得壳\n如果冰位置在游戏中获得+1/+1"
         },
         {
             "key": "card.headrac.text",
-            "value": "每个回合获得 +1 攻击力。"
+            "value": "每个回合获得+1攻击"
         },
         {
             "key": "card.heara.text",
-            "value": "<b>登场：</b>将目标怪兽的攻击降为1。"
+            "value": "<b>使用:</b> 敌方怪物目标的攻击减少到1"
         },
         {
             "key": "card.hero_electric.text",
-            "value": "一位古老的电系 Fracctal 仙女，能为电系怪物赋予急速"
+            "value": "一个古老的电力Fracctal仙女，给电力怪物急速"
         },
         {
             "key": "card.hero_fire.text",
-            "value": "一位古老的火系 Fracctal 仙女，能对任意卡牌或玩家造成 1 点伤害"
+            "value": "一个古老的火Fracctal仙女，可以对任意卡或玩家造成1伤害"
         },
         {
             "key": "card.hero_ice.text",
-            "value": "一位古老的冰系 Fracctal 仙女，能冻结任意卡牌 1 个回合。"
+            "value": "一个古老的冰Fracctal仙女，可以冻结任意卡1回合"
         },
         {
             "key": "card.hero_plant.text",
-            "value": "一位古老的植物系 Fracctal 仙女，能为角色或玩家回复 2 点生命值"
+            "value": "一个古老的植物Fracctal仙女，治愈角色和玩家2生命值"
         },
         {
             "key": "card.hero_psychic.text",
-            "value": "一位古老的精神系 Fracctal 仙女，能迫使对手弃置一张手牌"
+            "value": "一个古老的精神Fracctal仙女，迫使对手从手中丢弃一张牌"
         },
         {
             "key": "card.hero_rock.text",
-            "value": "一位古老的岩石系 Fracctal 仙女，能为战场上任意卡牌赋予 +1 护甲。"
+            "value": "一个古老的岩Fracctal仙女，给板上任意卡+1护甲"
         },
         {
             "key": "card.hero_shadow.text",
-            "value": "一位古老的暗影系 Fracctal 仙女，能诅咒场上任意卡牌。"
+            "value": "一个古老的影Fracctal仙女，可以诅咒游戏中任意卡"
         },
         {
             "key": "card.hero_water.text",
-            "value": "一位古老的水系 Fracctal 仙女，能让玩家额外抽一张牌。"
+            "value": "一个古老的水Fracctal仙女，允许玩家抽取额外一张牌"
         },
         {
             "key": "card.hippoh.text",
-            "value": "<b>攻击：</b>烧伤敌人。每回合损失 2 点生命值。"
+            "value": "<b>攻击:</b> 燃烧目标怪物"
         },
         {
             "key": "card.hito.text",
-            "value": "<b>打出：</b>抽一张牌。\n若战场上有冰属性地点，获得 +1/+1。"
+            "value": "<b>死亡:</b> 抽一张牌\n如果冰位置在游戏中获得+1/+1"
         },
         {
             "key": "card.ice_token.text",
-            "value": "将一个冰系代币兑换为任意一张冰系卡牌"
+            "value": "将冰代币交换为任意一张冰卡"
         },
         {
             "key": "card.ice_town_igloo.text",
-            "value": "若生命≥2：所有友方冰系怪兽获得+0/+1\n若生命≥4：所有友方冰系怪兽获得+1/+0\n若生命≥6：手牌中的冰系牌费用减少1。"
+            "value": "如果生命值2+所有盟友冰怪物获得+0/+1\n如果生命值4+所有盟友冰怪物获得+1/+0\n如果生命值6+所有冰卡从手中成本减少1"
         },
         {
             "key": "card.ignitas.text",
-            "value": "狂怒"
+            "value": "激怒"
         },
         {
             "key": "card.igniti.text",
-            "value": "<b>死亡：</b>对敌方玩家造成 2 点伤害。"
+            "value": "<b>死亡:</b> 对敌方玩家造成2伤害"
         },
         {
             "key": "card.insha.text",
-            "value": "<b>攻击：</b>对目标怪物施加诅咒"
+            "value": "<b>攻击</b>: 诅咒目标怪物"
         },
         {
             "key": "card.inuk.text",
-            "value": "忽略嘲讽"
+            "value": "飞行"
         },
         {
             "key": "card.kincactuz.text",
-            "value": "<b>打出：</b>获得嘲讽或狂怒"
+            "value": "<b>选择</b>: 嘲讽或激怒"
         },
         {
             "key": "card.kinfish.text",
-            "value": "<b>击杀：</b>抽两张牌。\n<b>死亡：</b>抽一张牌。"
+            "value": "<b>杀死:</b> 抽两张牌\n<b>死亡:</b> 抽一张牌"
         },
         {
             "key": "card.kuraigar.text",
-            "value": "在对手回合中有 +3 攻击力。"
+            "value": "对手回合期间有+3攻击"
         },
         {
             "key": "card.kuraigor.text",
-            "value": "护壳\n嘲讽"
+            "value": "壳 / 嘲讽"
         },
         {
             "key": "card.lala.text",
-            "value": "<b>攻击：</b>毒素。"
+            "value": "<b>攻击:</b> 毒化目标"
         },
         {
             "key": "card.lampi.text",
-            "value": "冲锋\n飞行"
+            "value": "急速 / 飞行"
         },
         {
             "key": "card.lizordo.text",
-            "value": "死触"
+            "value": "死亡之触"
         },
         {
             "key": "card.lizoru.text",
-            "value": "<b>打出：</b>召唤一只 Lizo\n所有爬行动物获得 +1 攻击力。"
+            "value": "<b>使用</b>: 召唤一个Lizo\n所有其他盟友爬行动物+1攻击"
         },
         {
             "key": "card.lizorus.text",
-            "value": "<b>打出：</b>召唤一只 Lizo\n所有爬行动物获得 +2 攻击力。"
+            "value": "<b>使用</b>: 召唤一个Lizo\n所有其他盟友爬行动物+2攻击"
         },
         {
             "key": "card.lizorus_full.text",
-            "value": "<b>登场</b>：召唤一只利佐\n所有爬行动物+2攻击。"
+            "value": "<b>使用</b>: 召唤一个Lizo\n所有其他盟友爬行动物+2攻击"
         },
         {
             "key": "card.lizteel.text",
-            "value": "激怒 II"
+            "value": "激怒II"
         },
         {
             "key": "card.loneguin.text",
-            "value": "嘲讽\n<b>亡语：</b>召唤一个冰屋。"
+            "value": "嘲讽\n<b>死亡:</b> 召唤一个冰屋"
         },
         {
             "key": "card.lumini.text",
-            "value": "<b>打出：</b>召唤一个冰屋\n飞行"
+            "value": "<b>使用:</b> 召唤一个冰屋\n飞行"
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>登场：</b>给予+2/+2。\n飞行"
+            "value": "<b>使用:</b> 给予+2/+2\n飞行"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>登场：</b>召唤冰屋两次并冻结一只攻击≤3的敌方怪兽\n飞行"
+            "value": "<b>使用:</b> 召唤冰屋两次并冻结一个攻击3或更少的敌方怪物\n飞行"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>登场：</b>给予+2/+2\n<b>登场：</b>为玩家恢复4点生命\n飞行"
+            "value": "<b>使用:</b> 给予+2/+2\n<b>使用:</b> 治愈玩家4生命值\n飞行"
+        },
+        {
+            "key": "card.lurian_full.text",
+            "value": "<b>使用:</b> 给予+2/+2\n<b>使用:</b> 治愈玩家4生命值\n飞行"
         },
         {
             "key": "card.marshland.text",
-            "value": "<b>回合开始：</b>所有植物牌恢复 3 点生命值。"
+            "value": "<b>回合开始: </b>所有盟友植物卡恢复3生命值"
         },
         {
             "key": "card.meruza.text",
-            "value": "所有敌方角色有 -2 攻击力。"
+            "value": "所有敌方角色有-2攻击"
         },
         {
             "key": "card.mighto.text",
-            "value": "<b>打出：</b>你在本局游戏中每召唤过一个冰屋，获得 +1 攻击力。\n每当你召唤地点时获得壳\n壳\n"
+            "value": "<b>使用:</b> 这个游戏中召唤的每个冰屋获得+1攻击\n召唤位置时获得壳\n壳"
         },
         {
             "key": "card.mimi.text",
-            "value": "在你的回合开始时，本怪兽完全治愈。"
+            "value": "再生"
         },
         {
             "key": "card.minask.text",
@@ -542,31 +570,31 @@
         },
         {
             "key": "card.miraibow.text",
-            "value": "每当其他怪兽阵亡时，抽2张牌。"
+            "value": "每当另一个怪物死亡时，抽2张牌"
         },
         {
             "key": "card.mirion.text",
-            "value": "每当其他怪兽阵亡时，抽2张牌。"
+            "value": "每当另一个怪物死亡时，抽2张牌"
         },
         {
             "key": "card.momburn.text",
-            "value": "法术伤害 +2。\n<b>攻击：</b>烧伤被攻击的牌。"
+            "value": "法术伤害+2\n<b>攻击:</b> 燃烧目标怪物"
         },
         {
             "key": "card.mongold.text",
-            "value": "每个回合开始时，获得 +2 攻击力。"
+            "value": "每个回合获得+2攻击"
         },
         {
             "key": "card.mosastrus.text",
-            "value": "急速"
+            "value": "突击"
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>登场：</b>心控一只费用≤3的敌方怪兽"
+            "value": "<b>使用:</b> 对法力成本3或更少的敌方怪物进行心灵控制"
         },
         {
             "key": "card.mosheedark.text",
-            "value": "<b>攻击：</b>对目标怪物施加诅咒"
+            "value": "<b>攻击</b>: 诅咒目标怪物"
         },
         {
             "key": "card.mosslug.text",
@@ -578,199 +606,211 @@
         },
         {
             "key": "card.mountough.text",
-            "value": "<b>登场：</b>获得3护甲。\n在你的回合结束时，抽一张牌。"
+            "value": "<b>使用:</b> 获得3护甲\n回合结束时抽1张牌"
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>使用:</b> 获得3护甲\n回合结束时抽1张牌"
         },
         {
             "key": "card.muni.text",
-            "value": "打出时：揭示对手的手牌并抽一张牌。"
+            "value": "<b>使用:</b> 揭示对手的手牌并抽1张牌"
         },
         {
             "key": "card.murple.text",
-            "value": "在你的回合开始时，本怪兽完全治愈。"
+            "value": "再生"
         },
         {
             "key": "card.nadzu.text",
-            "value": "狂怒\n激怒"
+            "value": "激怒\n激怒"
         },
         {
             "key": "card.nhomnhom.text",
-            "value": "攻击时，获得 2 点法力。"
+            "value": "攻击时获得2法力"
         },
         {
             "key": "card.nobu.text",
-            "value": "嘲讽\n每次攻击/反击最多承受2点伤害。"
+            "value": "嘲讽\n每次攻击/反击最多受到2伤害"
         },
         {
             "key": "card.nophulos.text",
-            "value": "狂怒 / 冲锋\n激怒"
+            "value": "激怒 / 突击\n激怒"
         },
         {
             "key": "card.numind.text",
-            "value": "<b>打出：</b>揭示对手的手牌\n<b>行动：</b>从对手手牌中随机弃置一张法力消耗不超过 3 点的牌。消耗 2 点法力。"
+            "value": "<b>使用:</b> 揭示对手的手牌\n<b>行动 (2):</b> 从对手的手牌中丢弃一张法力成本3或更少的随机牌"
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>回合结束：</b>若你有其他怪兽，则进入潜行。"
+            "value": "<b>回合结束:</b> 如果游戏中有其他怪物，进入潜行"
         },
         {
             "key": "card.operant.text",
-            "value": "激怒\n<b>登场：</b>对场上一张卡造成1点伤害。\n"
+            "value": "激怒\n<b>使用:</b> 对游戏中所有卡造成1伤害"
         },
         {
             "key": "card.ophala.text",
-            "value": "在对手回合中获得 +3 攻击力。\n嘲讽"
+            "value": "对手回合期间有+3攻击\n嘲讽"
         },
         {
             "key": "card.ophalant.text",
-            "value": "在对手的回合期间获得 +3 攻击力。\n嘲讽 / 护壳"
+            "value": "对手回合期间有+3攻击\n嘲讽 / 壳"
+        },
+        {
+            "key": "card.ophalant_full.text",
+            "value": "对手回合期间有+3攻击\n嘲讽 / 壳"
         },
         {
             "key": "card.oritoro.text",
-            "value": "攻击时掷 D6，结果为 4 或以上时获得 +3 攻击力。"
+            "value": "掷D6，在4+时直到回合结束获得+3攻击"
         },
         {
             "key": "card.owind.text",
-            "value": "法术免疫\n可无视嘲讽\n<b>打出：</b>冻结一个目标"
+            "value": "法术免疫\n忽略嘲讽\n<b>使用: </b> 冻结目标"
         },
         {
             "key": "card.owind_full.text",
-            "value": "法术免疫\n无视嘲讽\n<b>登场：</b>冻结一个目标"
+            "value": "法术免疫\n忽略嘲讽\n<b>使用: </b> 冻结目标"
         },
         {
             "key": "card.peafan.text",
-            "value": "<b>登场：</b>消灭一只攻击≤4的怪兽。"
+            "value": "<b>使用:</b> 摧毁一个攻击4或更少的怪物"
         },
         {
             "key": "card.peafan_egg.text",
-            "value": "经过3个回合后，变成扇羽。\n召唤一个冰屋。"
+            "value": "3回合后转变为Peafan\n召唤冰屋"
         },
         {
             "key": "card.peako.text",
-            "value": "<b>打出：</b>召唤一个冰屋。\n如果你已有冰屋，则抽一张牌。"
+            "value": "<b>使用:</b> 召唤冰屋\n如果你已经有冰屋，抽一张牌"
         },
         {
             "key": "card.perllusion.text",
-            "value": "潜行\n<b>打出：</b>使对手随机弃置一张手牌\n每当对手弃牌时，获得 +1 攻击力"
+            "value": "潜行\n<b>使用:</b> 对手随机丢弃一张牌\n当对手丢弃时获得+1攻击"
         },
         {
             "key": "card.petami.text",
-            "value": "在你的回合开始时，本怪兽完全治愈。"
+            "value": "再生"
         },
         {
             "key": "card.petili.text",
-            "value": "登场时，使另一只怪兽在你的下个回合开始前获得+2/+2。"
+            "value": "<b>使用:</b> 给另一个怪物+2/+2直到你的下一个回合"
         },
         {
             "key": "card.phanti.text",
-            "value": "每当其他角色死亡时，抽一张牌。"
+            "value": "每当另一个怪物死亡时，抽1张牌"
         },
         {
             "key": "card.phyra.text",
-            "value": "<b>施放 (3):</b> 造成 2 点伤害。\n<b>死亡：</b>召唤一个蛋。"
+            "value": "<b>行动 (3):</b> 造成2伤害\n<b>死亡:</b> 召唤一个Phyra蛋"
         },
         {
             "key": "card.phyra_egg.text",
-            "value": "3 个回合后，转变为 Phyra。"
+            "value": "3回合后转变为Phyra"
         },
         {
             "key": "card.phyrox.text",
-            "value": "<b>施放 (2):</b> 掷 D6，在 4+ 时将目标返回手牌。"
+            "value": "<b>行动 (2):</b> 掷D6，在4+时将目标返回到所有者的手中"
         },
         {
             "key": "card.picko.text",
-            "value": "激怒\n<b>登场：</b>对自己造成1点伤害，然后对任意目标怪兽造成1点伤害。"
+            "value": "<b>使用:</b> 对自己造成1伤害，然后对任意目标怪物造成1伤害"
         },
         {
             "key": "card.plant_token.text",
-            "value": "将一个植物系代币兑换为任意一张植物卡牌"
+            "value": "将植物代币交换为任意一张植物卡"
         },
         {
             "key": "card.plator.text",
-            "value": "护壳\n每个回合开始时获得1点护甲。 "
+            "value": "壳\n每个回合获得+1护甲"
         },
         {
             "key": "card.polip.text",
-            "value": "<b>打出：</b>赋予 +2 生命值"
+            "value": "<b>使用:</b> 给目标怪物+2生命值直到你的下一个回合"
         },
         {
             "key": "card.potion_electric.text",
-            "value": "目标怪物获得狂怒。每回合可攻击两次。"
+            "value": "目标获得激怒"
         },
         {
             "key": "card.potion_fire.text",
-            "value": "目标获得 1 点攻击力和狂怒。"
+            "value": "目标获得+1攻击和激怒"
         },
         {
             "key": "card.potion_green.text",
-            "value": "目标沐浴在甜蜜香气中，获得 +2 生命值和嘲讽。"
+            "value": "目标被甜香包围，获得+2生命值和嘲讽"
         },
         {
             "key": "card.potion_ice.text",
-            "value": "使一只冰系怪兽的进化计数-1；若降至0则立刻进化。"
+            "value": "减少一个冰怪物的进化计数器1，如果达到0则进化"
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "以费用≤3的场上怪兽为目标，心控1回合。该目标获得冲锋。"
+            "value": "对法力成本3或更少的敌方怪物进行1回合心灵控制，获得急速"
         },
         {
             "key": "card.potion_rock.text",
-            "value": "目标获得嘲讽，但不能攻击。"
+            "value": "目标获得嘲讽但不能攻击"
         },
         {
             "key": "card.potion_shadow.text",
-            "value": "目标获得苦难诅咒，每次攻击造成 3 点伤害。"
+            "value": "目标获得苦痛诅咒，每次攻击前受到3伤害"
         },
         {
             "key": "card.potion_water.text",
-            "value": "抽两张牌。"
+            "value": "抽2张牌"
         },
         {
             "key": "card.prido.text",
-            "value": "狂怒\n每个回合，获得 +1 攻击力。"
+            "value": "激怒\n每个回合获得+1攻击"
         },
         {
             "key": "card.psony.text",
-            "value": "<b>打出：</b>选择一名你控制的盟友，将其交给对手，并赋予能力：每个回合对所有其他盟友造成 2 点伤害。"
+            "value": "<b>使用:</b> 改变忠诚，目标获得能力: 每个回合对所有其他盟友造成2伤害"
         },
         {
             "key": "card.psychic_token.text",
-            "value": "将一个精神代币兑换为任意一张精神卡牌"
+            "value": "将精神代币交换为任意一张精神卡"
         },
         {
             "key": "card.psylant.text",
-            "value": "<b>打出：</b>选择一名你控制的盟友，将其交给对手，并赋予能力：每个回合开始时弃 2 张牌。"
+            "value": "<b>使用:</b> 改变忠诚，目标获得能力: 每个回合从手中丢弃2张牌"
         },
         {
             "key": "card.psynkey.text",
-            "value": "<b>打出：</b>选择一名你控制的盟友，将其交给对手，并赋予能力：敌方角色获得 +1/+2。"
+            "value": "<b>使用:</b> 改变忠诚，目标获得能力: 敌方怪物获得+1/+2"
         },
         {
             "key": "card.pyro.text",
-            "value": "<b>死亡：</b>召唤一个蛋。"
+            "value": "<b>死亡:</b> 召唤一个Phyra蛋"
         },
         {
             "key": "card.rekrek.text",
-            "value": "<b>打出：</b>造成 1 点伤害。"
+            "value": "<b>使用:</b> 造成1伤害"
         },
         {
             "key": "card.rektar.text",
-            "value": "<b>打出：</b>造成 2 点伤害。"
+            "value": "<b>使用:</b> 造成2伤害"
         },
         {
             "key": "card.rektardark.text",
-            "value": "<b>攻击：</b>对目标怪物施加诅咒"
+            "value": "<b>攻击</b>: 诅咒目标怪物"
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>每回合：</b>处决攻击力最低的怪兽（包括友方与本体）。"
+            "value": "<b>每个回合:</b> 摧毁游戏中所有攻击最低的怪物（包括你的）"
         },
         {
             "key": "card.rock_cave.text",
-            "value": "所有岩系怪兽获得：“消耗1点生命，获得+1攻击”。每次使用消耗1法力。"
+            "value": "所有岩怪物获得: \"受到1伤害获得+1攻击\" 每次使用成本1法力"
+        },
+        {
+            "key": "card.rock_golem_spawn.text",
+            "value": "嘲讽"
         },
         {
             "key": "card.rock_token.text",
-            "value": "将一个岩石代币兑换为任意一张岩石卡牌"
+            "value": "将岩代币交换为任意一张岩卡"
         },
         {
             "key": "card.rootiny.text",
@@ -778,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>攻击：</b>毒素。"
+            "value": "<b>攻击:</b> 毒化目标"
         },
         {
             "key": "card.rootus.text",
@@ -786,35 +826,39 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "<b>登场：</b>获得2护甲。 "
+            "value": "<b>使用:</b> 获得2护甲"
         },
         {
             "key": "card.scarles.text",
-            "value": "每回合获得+1攻击。\n飞行"
+            "value": "每个回合获得+1攻击\n飞行"
         },
         {
             "key": "card.shadow_token.text",
-            "value": "将一个暗影代币兑换为任意一张暗影卡牌"
+            "value": "将影代币交换为任意一张影卡"
         },
         {
             "key": "card.shama.text",
-            "value": "法术伤害 +1。"
+            "value": "法术伤害+1"
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>攻击：</b>使目标中毒。"
+            "value": "<b>攻击:</b> 毒化目标"
         },
         {
             "key": "card.skatrix.text",
-            "value": "狂怒 / 冲锋\n<b>攻击：</b>冻结目标并且不受反击伤害。"
+            "value": "激怒 / 突击\n<b>攻击:</b> 冻结目标且不受到反击伤害"
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "激怒 / 突击\n<b>攻击:</b> 冻结目标且不受到反击伤害"
         },
         {
             "key": "card.skipo.text",
-            "value": "嘲讽"
+            "value": "嘲讽\n"
         },
         {
             "key": "card.slime.text",
-            "value": "<b>登场：</b>将一只怪兽返回你的手牌。"
+            "value": "<b>使用:</b> 从你的弃牌堆中返回一个怪物到你的手中"
         },
         {
             "key": "card.sneel.text",
@@ -822,287 +866,287 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "飞行\n<b>打出：</b>冻结一名攻击力不超过 2 点的敌人。"
+            "value": "飞行\n<b>使用:</b> 冻结一个攻击2或更少的敌人"
         },
         {
             "key": "card.soligator.text",
-            "value": "急速"
+            "value": "突击"
         },
         {
             "key": "card.sostar.text",
-            "value": "飞行"
+            "value": "飞行 / 威吓"
         },
         {
             "key": "card.sovis.text",
-            "value": "飞行"
+            "value": "飞行 / 威吓"
         },
         {
             "key": "card.sparkig.text",
-            "value": "致死一击"
+            "value": "死亡之触"
         },
         {
             "key": "card.spell_aerial_strike.text",
-            "value": "在您的手牌中召唤 3 只 Pyro。"
+            "value": "将3张Phyra卡添加到你的手中"
         },
         {
             "key": "card.spell_armageddon.text",
-            "value": "摧毁战场上的所有生物"
+            "value": "摧毁场上所有卡"
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "摧毁一个被冻结的目标。\n摧毁一个场地。"
+            "value": "摧毁一个冻结的目标\n摧毁一个位置"
         },
         {
             "key": "card.spell_boost_electric.text",
-            "value": "场上所有电系怪物获得 +2 攻击力（包括敌人）。"
+            "value": "游戏中所有电力怪物获得+2攻击（包括敌人）"
         },
         {
             "key": "card.spell_burn.text",
-            "value": "摧毁目标。"
+            "value": "摧毁目标"
         },
         {
             "key": "card.spell_cursed_potion.text",
-            "value": "沉默一个目标怪兽，然后再诅咒一个目标怪兽"
+            "value": "沉默一个目标怪物，诅咒一个目标怪物"
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "目标牌获得“当有友方怪兽入场时，摧毁此怪兽”。"
+            "value": "目标卡获得 \"当盟友怪物从手中玩时，摧毁这个怪物\""
         },
         {
             "key": "card.spell_electric_ally.text",
-            "value": "查看您牌堆的接下来 7 张牌，并将 1 张电系牌加入您的手牌。"
+            "value": "查看牌库中接下来的7张牌，并将其中1张电力卡添加到你的手中"
         },
         {
             "key": "card.spell_extinct.text",
-            "value": "目标牌获得“当有友方怪兽入场时，摧毁此怪兽”。"
+            "value": "目标卡获得 \"当盟友怪物从手中玩时，摧毁这个怪物\""
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "对一个友方怪兽造成1点伤害，然后对随机目标两次造成2点伤害。 "
+            "value": "对一个盟友怪物造成1伤害，然后对一个随机敌方目标造成两次2伤害"
         },
         {
             "key": "card.spell_flood.text",
-            "value": "将所有怪兽的生命降为1。"
+            "value": "将所有怪物的生命值降低到1"
         },
         {
             "key": "card.spell_growth.text",
-            "value": "所有友方植物系怪兽获得+2/+2"
+            "value": "所有盟友植物怪物获得+2/+2"
         },
         {
             "key": "card.spell_hammi_strike.text",
-            "value": "对任意目标造成3点伤害"
+            "value": "对任意目标造成3伤害"
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "冻结场上所有怪兽。\n已被冻结的怪兽直接摧毁。"
+            "value": "冻结游戏中所有怪物\n摧毁已经冻结的怪物"
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "冻结目标怪兽。\n抽一张牌。\n召唤冰屋"
+            "value": "冻结目标怪物\n抽一张牌\n召唤冰屋"
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "冻结一个目标 1 个回合。"
+            "value": "冻结一个目标直到你的下一个回合"
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "对所有怪兽造成1点伤害，然后对所有已冻结的怪兽再造成2点伤害。"
+            "value": "对所有怪物造成1伤害，然后对所有冻结怪物造成2伤害"
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
-            "value": "在您的手牌中召唤三只 2/1 Lampi。"
+            "value": "将三张Lampi卡添加到你的手中"
         },
         {
             "key": "card.spell_lightning_bolts.text",
-            "value": "对所有敌方怪物造成 2 点伤害"
+            "value": "对所有敌方怪物造成2伤害"
         },
         {
             "key": "card.spell_meal.text",
-            "value": "目标永久获得 +2/+2 并清除所有负面状态效果。"
+            "value": "目标获得+2/+2并治愈任何负面效果"
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "对一张随机牌造成 1 点伤害。\n重复 X 次。"
+            "value": "对一个随机敌方卡造成1伤害\n重复X次"
         },
         {
             "key": "card.spell_psychic_rain.text",
-            "value": "对手从手牌中随机弃置 3 张牌。"
+            "value": "对手从手中随机丢弃3张牌"
         },
         {
             "key": "card.spell_psychic_staff.text",
-            "value": "夺取一只敌方怪兽的控制权，持续3回合，或直到它进化。"
+            "value": "对一个敌方怪物进行3回合心灵控制，或直到它进化"
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "根据你消耗的法力，召唤一只拥有X攻/X血并具有嘲讽的岩石魔像。 "
+            "value": "基于花费的法力召唤一个带有嘲讽的X/X岩石傀儡"
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "对一个友方怪兽造成1点伤害，然后对任意目标造成2点伤害。"
+            "value": "对一个盟友怪物造成1伤害，然后对任意目标造成2伤害"
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "目标怪兽获得+2护甲。"
+            "value": "目标怪物获得+2护甲"
         },
         {
             "key": "card.spell_roots.text",
-            "value": "使目标麻痹 3 个回合。"
+            "value": "麻痹目标3回合"
         },
         {
             "key": "card.spell_shadow_staff.text",
-            "value": "将所有怪兽的生命值和攻击力减少至 1"
+            "value": "将所有怪物的生命值和攻击降低到1"
         },
         {
             "key": "card.spell_split.text",
-            "value": "目标怪兽获得“在攻击前先承受3点伤害”。"
+            "value": "目标怪物获得 \"攻击前受到3伤害\""
         },
         {
             "key": "card.spell_stomp.text",
-            "value": "摧毁生命值最低的怪兽。"
+            "value": "摧毁游戏中生命值最低的怪物（包括你的，如果平局随机选择）"
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "目标怪兽无法攻击，并在其回合结束时受到1点伤害。"
+            "value": "目标怪物不能攻击并在每个回合结束时受到1伤害"
         },
         {
             "key": "card.spell_stones.text",
-            "value": "造成 1 点伤害。\n抽一张牌。"
+            "value": "造成1伤害\n抽一张牌"
         },
         {
             "key": "card.spell_storm.text",
-            "value": "将所有牌返回其拥有者的手牌。"
+            "value": "所有卡返回到所有者的手中"
         },
         {
             "key": "card.spell_submerge.text",
-            "value": "目标牌获得“被攻击时，对手必须弃置 1 张随机牌”。"
+            "value": "目标卡获得 \"被攻击时，对手必须随机丢弃1张牌\""
         },
         {
             "key": "card.spell_toxic_rain.text",
-            "value": "使战场上的所有牌中毒"
+            "value": "毒化游戏中所有卡"
         },
         {
             "key": "card.spell_treasure.text",
-            "value": "查看您牌堆的接下来 7 张牌，并选择 1 张水系牌。"
+            "value": "查看牌库中接下来的7张牌，并将其中1张水卡添加到你的手中"
         },
         {
             "key": "card.spell_wave.text",
-            "value": "将敌方目标返回其拥有者的手牌。"
+            "value": "将敌方目标返回到所有者的手中"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "将任意目标返回其拥有者的手牌，然后对手从手牌中丢弃一张随机牌。"
+            "value": "将任意目标返回到所有者的手中，然后对手从手中随机丢弃一张牌"
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>登场：</b>消灭一只攻击≤2的怪兽。"
+            "value": "<b>사용:</b> 攻击2或更少的怪物摧毁"
         },
         {
             "key": "card.stingor.text",
-            "value": "<b>攻击：</b>使目标中毒。"
+            "value": "<b>攻击:</b> 毒化目标"
         },
         {
             "key": "card.stingy.text",
-            "value": "<b>攻击：</b>使目标中毒。"
+            "value": "<b>攻击:</b> 毒化目标"
         },
         {
             "key": "card.stormus.text",
-            "value": "敌方怪兽-1攻击。\n可无视嘲讽。"
+            "value": "飞行\n敌方怪物有-1攻击"
         },
         {
             "key": "card.stormy.text",
-            "value": "冲锋"
+            "value": "突击"
         },
         {
             "key": "card.swamp.text",
-            "value": "<b>回合开始：</b>所有友方暗影系怪兽获得+1攻击。"
+            "value": "<b>回合开始: </b>所有盟友影怪物获得+1攻击"
         },
         {
             "key": "card.tahlu.text",
-            "value": "潜行\n所有猫获得 +1 攻击力。"
+            "value": "潜行\n所有其他盟友猫+1攻击"
         },
         {
             "key": "card.tailu.text",
-            "value": "<b>雪泥疾行：</b>如果战场上有冰属性地点，则获得急速。"
+            "value": "泥突击"
         },
         {
             "key": "card.tectan.text",
-            "value": "所有友方岩石怪兽拥有+2护甲"
+            "value": "所有盟友岩怪物有+2护甲"
         },
         {
             "key": "card.tempish.text",
-            "value": "<b>打出：</b>将任意目标返回其拥有者的手牌。"
+            "value": "<b>使用:</b> 将任意目标返回到所有者的手中"
         },
         {
             "key": "card.tempish_full.text",
-            "value": "<b>登场：</b>将任意目标返回其拥有者手牌。"
+            "value": "<b>使用:</b> 将任意目标返回到所有者的手中"
         },
         {
             "key": "card.tensei.text",
-            "value": "嘲讽\n<b>登场：</b>+1护甲"
+            "value": "嘲讽\n<b>使用:</b> +1护甲"
         },
         {
             "key": "card.terrastrus.text",
-            "value": "激怒\n<b>登场：</b>对场上所有其他卡造成1点伤害，然后为所有友方卡恢复1点生命。"
+            "value": "激怒\n<b>使用:</b> 对游戏中所有卡造成1伤害，然后治愈所有盟友卡1生命值。"
         },
         {
             "key": "card.town_darkwoods_shadow.text",
-            "value": "所有盟友暗影牌有 +2 攻击力。"
+            "value": "所有盟友影卡有+2攻击"
         },
         {
             "key": "card.town_forest.text",
-            "value": "所有盟友植物牌有 +2 生命值。"
+            "value": "所有盟友植物卡有+2生命值"
         },
         {
             "key": "card.town_psychic.text",
-            "value": "当你打出精神系怪物或夺取对手怪物的控制权时，对手随机弃置一张手牌。"
+            "value": "当你玩一个精神怪物或控制一个敌方怪物时，对手从手中随机丢弃一张牌"
         },
         {
             "key": "card.town_rock.text",
-            "value": "所有友方岩石怪兽获得1层激怒。"
+            "value": "所有盟友岩怪物获得一个激怒堆栈"
         },
         {
             "key": "card.town_volcano.text",
-            "value": "所有友方火系怪兽+2攻击。"
+            "value": "所有盟友火怪物有+2攻击"
         },
         {
             "key": "card.town_water.text",
-            "value": "您手牌中的水系牌法力消耗减少 1。"
+            "value": "你手中的水卡成本减少1"
         },
         {
             "key": "card.trap_bomb_electric.text",
-            "value": "<b>陷阱：</b>当有敌人攻击时，对所有敌方怪兽造成1点伤害并使其麻痹1回合。"
+            "value": "<b>陷阱:</b> 当敌人攻击时，对所有敌方怪物造成1伤害并麻痹所有1回合"
         },
         {
             "key": "card.trap_explosive.text",
-            "value": "<b>陷阱:</b> 对所有人造成 2 点伤害。"
+            "value": "<b>陷阱:</b> 当敌人攻击时，对游戏中所有敌方怪物造成2伤害"
         },
         {
             "key": "card.trap_fish.text",
-            "value": "<b>陷阱:</b> 变身为鱼。"
+            "value": "<b>陷阱:</b> 敌方玩家从手中玩下一个怪物时，将其转变为鱼。"
         },
         {
             "key": "card.trap_ice.text",
-            "value": "<b>陷阱:</b> 当敌人攻击时，将目标冻结 2 回合。"
+            "value": "<b>陷阱:</b>当敌人攻击时，将目标冻结2回合"
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>陷阱:</b> 对下一个攻击者施加毒素并造成 3 点伤害。"
+            "value": "<b>陷阱:</b> 当敌人攻击时，毒化并对其造成3伤害"
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "当下一只敌方怪兽攻击时，心控其1回合并赋予嘲讽。"
+            "value": "当敌方怪物攻击时，这个回合心灵控制并给予嘲讽"
         },
         {
             "key": "card.trap_spike.text",
-            "value": "<b>陷阱:</b> 当敌人攻击玩家时，恢复 4 点生命值。"
+            "value": "<b>陷阱:</b> 当敌人攻击玩家时，治愈4生命值"
         },
         {
             "key": "card.trats.text",
-            "value": "每当你施放法术，获得 +2 攻击力。"
+            "value": "玩咒语后获得+2攻击"
         },
         {
             "key": "card.turbowing.text",
-            "value": "急速\n飞行"
+            "value": "急速 / 飞行"
         },
         {
             "key": "card.turtod.text",
@@ -1110,99 +1154,111 @@
         },
         {
             "key": "card.twii.text",
-            "value": "<b>死亡：</b>抽一张牌。\n可无视嘲讽。"
+            "value": "飞行\n<b>死亡:</b> 抽一张牌"
         },
         {
             "key": "card.twiina.text",
-            "value": "能力免疫\n可无视嘲讽\n<b>死亡：</b>召唤一只 Twii。"
+            "value": "能力免疫 / 飞行\n<b>死亡:</b> 召唤一个Twii\n"
         },
         {
             "key": "card.urnog.text",
-            "value": "<b>登场</b>：将目标怪兽的攻击设为3"
+            "value": "威吓\n<b>使用</b>: 将目标怪物的攻击设置为3"
         },
         {
             "key": "card.urogorth.text",
-            "value": "嘲讽\n<b>登场：</b>+2护甲"
+            "value": "嘲讽\n<b>使用:</b> +2护甲"
         },
         {
             "key": "card.venorus.text",
-            "value": "<b>打出：</b>对场上所有敌方角色施加中毒。"
+            "value": "威吓\n<b>使用</b>: 毒化游戏中所有敌方卡"
+        },
+        {
+            "key": "card.venorus_full.text",
+            "value": "<b>使用</b>: 毒化游戏中所有敌方卡"
         },
         {
             "key": "card.vertron.text",
-            "value": "所有电系怪物的法力消耗减少 2 点"
+            "value": "所有电力怪物成本减少2法力"
         },
         {
             "key": "card.vertron_full.text",
-            "value": "所有电系怪兽的费用减少2点法力 "
+            "value": "所有电力怪物成本减少2法力"
         },
         {
             "key": "card.viborus.text",
-            "value": "潜行\n<b>攻击：</b>使目标中毒"
+            "value": "潜行\n攻击: 毒化目标怪物"
         },
         {
             "key": "card.virgo.text",
-            "value": "无法攻击。在您的回合开始时，使一名随机盟友陷入沉睡。"
+            "value": "不能攻击\n 你的回合开始时麻痹一个随机盟友\n<b>使用:</b> 自我中毒\n"
         },
         {
             "key": "card.volcano.text",
-            "value": "所有火系怪兽获得：“消耗1点生命，获得+1攻击”。每次使用消耗1法力。"
+            "value": "所有火怪物获得: \"受到1伤害获得+1攻击\" 每次使用成本1法力"
         },
         {
             "key": "card.vorteru.text",
-            "value": "<b>登场</b>：将目标怪兽的攻击设为1"
+            "value": "威吓\n<b>使用</b>: 将目标怪物的攻击设置为1"
         },
         {
             "key": "card.vulkong.text",
-            "value": "<b>打出：</b>对所有人造成 1 点伤害。"
+            "value": "<b>使用:</b> 对其他一切造成1伤害"
         },
         {
             "key": "card.waazu.text",
-            "value": "<b>打出：</b>使目标卡牌沉默。"
+            "value": "<b>使用:</b> 沉默一个目标怪物"
         },
         {
             "key": "card.warhammi.text",
-            "value": "每个回合获得 +1 护甲。"
+            "value": "每个回合获得+1护甲"
         },
         {
             "key": "card.waru.text",
-            "value": "在对手回合中获得 +3 攻击力。"
+            "value": "对手回合期间有+3攻击"
         },
         {
             "key": "card.waru_mount.text",
-            "value": "敌方怪兽-1攻击。\n<b>行动：</b>为友军+1攻击。"
+            "value": "敌方怪物有-1攻击\n<b>行动:</b> 盟友+1攻击"
         },
         {
             "key": "card.water_token.text",
-            "value": "将一个水系代币兑换为任意一张水系卡牌"
+            "value": "将水代币交换为任意一张水卡"
         },
         {
             "key": "card.wido.text",
-            "value": "<b>回合结束：</b>若你有其他怪兽在场，则进入潜行。"
+            "value": "<b>回合结束:</b> 如果游戏中有其他怪物，进入潜行"
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>回合结束：</b>若你有其他怪兽在场，则进入潜行。"
+            "value": "威吓\n<b>回合结束:</b> 如果游戏中有其他怪物，进入潜行"
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>登场：</b>从弃牌堆将一只怪兽加入你的手牌。"
+            "value": "<b>使用: </b> 从你的弃牌堆中返回一个怪物到你的手中"
         },
         {
             "key": "card.woodost.text",
-            "value": "<b>打出：</b>获得嘲讽或狂怒"
+            "value": "<b>选择: </b> 嘲讽或激怒"
+        },
+        {
+            "key": "card.worpi.text",
+            "value": "<b>使用:</b> 取游戏中最高护甲计数并应用于这个怪物"
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>사용:</b> 游戏中最高护甲计数取并应用于这个怪物"
         },
         {
             "key": "card.woshi.text",
-            "value": "攻击时，获得 1 点法力。"
+            "value": "攻击时获得1法力"
         },
         {
             "key": "card.yachan.text",
-            "value": "<b>位置折扣：</b>同元素类型的任何地点卡牌法力消耗减少 1。"
+            "value": "<b>位置折扣</b>: 同元素类型的任意位置有1法力折扣"
         },
         {
             "key": "card.yochan.text",
-            "value": "战场上每有一张相同元素的地点牌，就获得 +2 生命值。"
+            "value": "游戏中同元素类型的每个位置卡获得+2生命值"
         },
         {
             "key": "card.zaphyra.text",
@@ -1214,103 +1270,47 @@
         },
         {
             "key": "card.zargon.text",
-            "value": "能力免疫\n再生\n<b>打出：</b>将弃牌堆中的一张牌加入你的手牌。"
-        },
-        {
-            "key": "card.zarpas.text",
-            "value": "嘲讽\n壳"
-        },
-        {
-            "key": "card.zenphire.text",
-            "value": "法术伤害 +4。\n飞行"
-        },
-        {
-            "key": "card.zenphire_full.text",
-            "value": "法术伤害 +4。\n飞行"
-        },
-        {
-            "key": "card.zeras.text",
-            "value": "<b>登场：</b>诅咒\n<b>登场：</b>召唤一只哈吉子（Hajiko）"
-        },
-        {
-            "key": "card.ziraffe.text",
-            "value": "每当其他怪兽阵亡时，抽2张牌。"
-        },
-        {
-            "key": "card.zithex.text",
-            "value": "<b>登场：</b>将目标怪兽的攻击降为1。"
-        },
-        {
-            "key": "card.ziwing.text",
-            "value": "急速\n飞行"
-        },
-        {
-            "key": "card.zorni.text",
-            "value": "每个回合开始时抽一张牌。"
-        },
-        {
-            "key": "card.zortan.text",
-            "value": "所有其他盟友爬行动物获得 +2 攻击力。"
-        },
-        {
-            "key": "card.cabyron_basic_copy.text",
-            "value": "激怒 II"
-        },
-        {
-            "key": "card.chocosaur.text",
-            "value": "护壳\n激怒 II"
-        },
-        {
-            "key": "card.emberstorm.text",
-            "value": "登场时以及你的每个回合开始时，灼烧场上其他所有非火系怪兽。"
-        },
-        {
-            "key": "card.emberstorm_full.text",
-            "value": "登场时以及你的每个回合开始时，灼烧场上其他所有非火系怪兽。"
-        },
-        {
-            "key": "card.frojesti_full.text",
-            "value": "当对手弃掉法术时，在你手牌中创建一张零费用复制。\n"
-        },
-        {
-            "key": "card.gizord_full.text",
-            "value": "急速"
-        },
-        {
-            "key": "card.lurian_full.text",
-            "value": "<b>登场：</b>给予+2/2\n<b>登场：</b>为玩家恢复4生命\n飞行"
-        },
-        {
-            "key": "card.mountough_full.text",
-            "value": "<b>登场：</b>获得3护甲。\n在你的回合结束时，抽一张牌。"
-        },
-        {
-            "key": "card.ophalant_full.text",
-            "value": "在对手的回合期间获得 +3 攻击力。\n嘲讽 / 护壳"
-        },
-        {
-            "key": "card.rock_golem_spawn.text",
-            "value": "嘲讽"
-        },
-        {
-            "key": "card.skatrix_full.text",
-            "value": "狂怒 / 冲锋\n<b>攻击：</b>冻结目标并且不受反击伤害。"
-        },
-        {
-            "key": "card.venorus_full.text",
-            "value": "登场时，对场上所有敌人造成毒素。"
-        },
-        {
-            "key": "card.worpi.text",
-            "value": "<b>登场：</b>复制场上最高护甲值并赋予此怪兽。"
-        },
-        {
-            "key": "card.worpow.text",
-            "value": "<b>登场：</b>复制场上最高护甲值并赋予此怪兽。"
+            "value": "能力免疫 / 再生\n<b>使用: </b> 从你的弃牌堆中返回一张牌到你的手中"
         },
         {
             "key": "card.zargon_full.text",
-            "value": "能力免疫\n再生\n<b>登场：</b>从弃牌堆加入一张卡到手牌。"
+            "value": "能力免疫 / 再生\n<b>使用: </b> 从弃牌堆中添加一张牌到你的手中"
+        },
+        {
+            "key": "card.zarpas.text",
+            "value": "壳 / 嘲讽"
+        },
+        {
+            "key": "card.zenphire.text",
+            "value": "飞行\n法术伤害+4"
+        },
+        {
+            "key": "card.zenphire_full.text",
+            "value": "飞行\n法术伤害+4"
+        },
+        {
+            "key": "card.zeras.text",
+            "value": "威吓\n<b>使用:</b> 诅咒\n<b>使用:</b> 召唤一个Hajiko"
+        },
+        {
+            "key": "card.ziraffe.text",
+            "value": "每当另一个怪物死亡时，抽2张牌"
+        },
+        {
+            "key": "card.zithex.text",
+            "value": "<b>使用:</b> 敌方怪物目标的攻击减少到1"
+        },
+        {
+            "key": "card.ziwing.text",
+            "value": "急速 / 飞行"
+        },
+        {
+            "key": "card.zorni.text",
+            "value": "威吓\n每个回合开始时抽一张牌"
+        },
+        {
+            "key": "card.zortan.text",
+            "value": "威吓\n所有其他盟友爬行动物+2攻击"
         }
     ]
 }

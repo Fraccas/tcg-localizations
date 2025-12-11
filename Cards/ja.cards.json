@@ -2,43 +2,43 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "ラッシュ\nカードが凍結するたびに+1/+1を得る。"
+            "value": "ラッシュ\nカードが凍結されたときに+1/+1を得る"
         },
         {
             "key": "card.antairy.text",
-            "value": "激昂\n対象の飛行モンスターを破壊する。"
+            "value": "激怒\n対象の飛行モンスターを破壊する"
         },
         {
             "key": "card.armoru.text",
-            "value": "激昂\n選択: 挑発または+2アーマー"
+            "value": "激怒\n選択：挑発または+2アーマー"
         },
         {
             "key": "card.aros.text",
-            "value": "<b>攻撃:</b> 対象のモンスターに呪いをかける"
+            "value": "威嚇\n<b>攻撃</b>：対象モンスターを呪う"
         },
         {
             "key": "card.astor.text",
-            "value": "シェル\n各ターンの開始時にアーマーを1得る。"
+            "value": "各ターンの開始時に1アーマーを得る"
         },
         {
             "key": "card.astroguin.text",
-            "value": "挑発\n<b>プレイ:</b> イグルーを2回召喚する。\nイグルー無敵化。"
+            "value": "挑発\n<b>プレイ：</b>イグルーを2回召喚\nイグルー無敵"
         },
         {
             "key": "card.bashker.text",
-            "value": "<b>トラップ回避:</b> 攻撃時にトラップを発動させない。\n場にある敵のトラップ1枚につき攻撃力+1。"
+            "value": "<b>トラップ回避：</b>攻撃時にトラップを発動しない\n敵のトラップごとに+1ダメージを得る"
         },
         {
             "key": "card.bashko.text",
-            "value": "<b>トラップ回避:</b> 攻撃時にトラップをトリガーしない。"
+            "value": "<b>トラップ回避：</b>攻撃時にトラップを発動しない"
         },
         {
             "key": "card.bay.text",
-            "value": "自分の水属性モンスターが倒れるたびカードを1枚引く。"
+            "value": "所有する水モンスターが死亡したとき、カードを1枚ドローする"
         },
         {
             "key": "card.boilin.text",
-            "value": "<b>死:</b> カードを1枚引く。"
+            "value": "<b>死亡：</b>カードを1枚ドローする"
         },
         {
             "key": "card.bora.text",
@@ -46,35 +46,35 @@
         },
         {
             "key": "card.burnibu.text",
-            "value": "<b>プレイ:</b> 自分の手札からランダムなカードを1枚捨て、カードを2枚引く。"
+            "value": "<b>プレイ：</b>手札からランダムなカードを捨てて2枚の新しいカードをドローする"
         },
         {
             "key": "card.burnion.text",
-            "value": "<b>プレイ:</b> 対象のモンスターにバーンを付与し、毎ターン2ダメージを与える。"
+            "value": "<b>プレイ：</b>対象モンスターを燃やす"
         },
         {
             "key": "card.burny.text",
-            "value": "<b>プレイ:</b> プレイヤーの手札からランダムなカードを捨て、2枚の新しいカードを引く。"
+            "value": "<b>プレイ：</b>手札からランダムなカードを捨てて2枚のカードをドローする"
         },
         {
             "key": "card.buumi.text",
-            "value": "<b>プレイ:</b> 敵のトラップをすべて破壊し、破壊したトラップ1枚につき+2/+2を得る。"
+            "value": "<b>プレイ：</b>すべての敵トラップを破壊し、破壊されたトラップごとに+2/+2を得る"
         },
         {
             "key": "card.cabyron.text",
-            "value": "挑発\n<b>死亡:</b> 激昂IIを持つカビュロンを1体召喚する。"
+            "value": "挑発\n<b>死亡：</b>激怒II付きのCabyronを召喚する"
         },
         {
             "key": "card.cabyron_basic_copy.text",
-            "value": "激昂II"
+            "value": "激怒II"
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "挑発\n<b>死亡:</b> 激昂IIを持つカビュロンを1体召喚する。"
+            "value": "挑発\n<b>死亡：</b>激怒II付きのCabyronを召喚する"
         },
         {
             "key": "card.cabywara.text",
-            "value": "1ターンに1回、ダメージを受けて生き残ったときカードを1枚引く。"
+            "value": "ダメージを受けて生き残ったとき、カードを1枚ドローする"
         },
         {
             "key": "card.cactoon.text",
@@ -82,71 +82,71 @@
         },
         {
             "key": "card.cactuzzi.text",
-            "value": "リーチ: 飛行モンスターはこのモンスターを攻撃対象にしなければならない。"
+            "value": "リーチ：飛行モンスターはこのモンスターを対象にしなければならない"
         },
         {
             "key": "card.calfire.text",
-            "value": "スペルダメージ +1。"
+            "value": "スペルダメージ+1"
         },
         {
             "key": "card.cheetula.text",
-            "value": "<b>プレイ:</b> ベビージャグールを召喚。\n味方の猫の攻撃力+1。"
+            "value": "<b>プレイ</b>：ベビージャガーを召喚\n他のすべての同盟猫 +1攻撃"
         },
         {
             "key": "card.chewanha.text",
-            "value": "<b>キル:</b> 2枚のカードを引く。"
+            "value": "<b>殺す：</b>2枚のカードをドローする"
         },
         {
             "key": "card.chocosaur.text",
-            "value": "シェル\n激昂II"
+            "value": "シェル\n激怒II"
         },
         {
             "key": "card.clampion.text",
-            "value": "挑発\n シェル"
+            "value": "シェル / 挑発"
         },
         {
             "key": "card.coin.text",
-            "value": "1マナを獲得。"
+            "value": "1マナを得る"
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>プレイ:</b> 攻撃力4以下の敵モンスターをすべて凍結する。\nフライング"
+            "value": "飛行\n<b>プレイ：</b>攻撃4以下のすべての敵モンスターを凍結する"
         },
         {
             "key": "card.cyowl.text",
-            "value": "<b>プレイ:</b> 攻撃力4以下の敵モンスターを1体凍結する\nフライング"
+            "value": "飛行\n<b>プレイ：</b>攻撃4以下の敵モンスターを凍結する"
         },
         {
             "key": "card.cypha.text",
-            "value": "ステルス"
+            "value": "威嚇 / ステルス"
         },
         {
             "key": "card.cypha_full.text",
-            "value": "ステルス"
+            "value": "威嚇 / ステルス"
         },
         {
             "key": "card.darcelia.text",
-            "value": "<b>プレイ:</b> 対象を呪う。"
+            "value": "威嚇\n<b>プレイ：</b>対象モンスターを呪う"
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>プレイ</b>: プレイ中のすべてのモンスターに呪いをかける。"
+            "value": "威嚇\n<b>プレイ</b>：ゲーム内のすべてのモンスターを呪う"
         },
         {
             "key": "card.devastor.text",
-            "value": "呪文無効／シェル\n<b>プレイ:</b> すべてのモンスターに2ダメージを与える"
+            "value": "スペル免疫 / シェル\n<b>プレイ：</b>他すべてに2ダメージを与える"
         },
         {
             "key": "card.devastor_full.text",
-            "value": "呪文無効／シェル\n<b>プレイ:</b> すべてのキャラクターに2ダメージを与える"
+            "value": "スペル免疫 / シェル\n<b>プレイ：</b>他すべてに2ダメージを与える"
         },
         {
             "key": "card.djinnas.text",
-            "value": "<b>プレイ:</b> このモンスターをコスト7以下の敵モンスターと入れ替える。"
+            "value": "<b>プレイ：</b>このモンスターをマナコスト7以下の敵モンスターと交換する"
         },
         {
             "key": "card.djune.text",
-            "value": "<b>プレイ:</b> このモンスターをコスト3以下の敵モンスターと入れ替える。"
+            "value": "<b>プレイ：</b>このモンスターをマナコスト3以下の敵モンスターと交換する"
         },
         {
             "key": "card.dobash.text",
@@ -154,19 +154,19 @@
         },
         {
             "key": "card.dofurious.text",
-            "value": "アビリティ無効\nトランプル"
+            "value": "能力免疫 / 踏み潰し"
         },
         {
             "key": "card.dolvi.text",
-            "value": "<b>プレイ:</b> 対象のモンスターに毒を付与"
+            "value": "威嚇\n<b>プレイ：</b>対象モンスターを毒する"
         },
         {
             "key": "card.domumu.text",
-            "value": "<b>プレイ:</b> ターン終了時まで+2/+2を付与する"
+            "value": "<b>プレイ：</b>次のターンまでモンスターに+2/+2を与える"
         },
         {
             "key": "card.doshoto.text",
-            "value": "<b>攻撃:</b>D6を振る、4+でターン終了まで+3攻撃を獲得。"
+            "value": "<b>攻撃：</b>D6を振って、4以上でターン終了まで+3攻撃を得る"
         },
         {
             "key": "card.dothrow.text",
@@ -174,15 +174,15 @@
         },
         {
             "key": "card.dracon.text",
-            "value": "トランプル\nフライング"
+            "value": "踏み潰し / 飛行"
         },
         {
             "key": "card.dragin.text",
-            "value": "フューリー"
+            "value": "激怒"
         },
         {
             "key": "card.dragon_egg.text",
-            "value": "ドラゴンを発見する。"
+            "value": "デッキからドラゴンを検索する"
         },
         {
             "key": "card.dragulp.text",
@@ -190,135 +190,135 @@
         },
         {
             "key": "card.drion.text",
-            "value": "<b>プレイ</b>: 対象のモンスターを沈黙させ、その後対象のモンスターに呪いをかける"
+            "value": "威嚇\n<b>プレイ</b>: 対象モンスターを沈黙させ、呪う"
         },
         {
             "key": "card.dryaow.text",
-            "value": "<b>プレイ</b>: プレイ中のすべてのモンスターに呪いをかける"
+            "value": "威嚇\n<b>プレイ</b>: ゲーム内のすべてのモンスターを呪う"
         },
         {
             "key": "card.dulster.text",
-            "value": "<b>攻撃</b>: 対象のモンスターに呪いと毒を与える"
+            "value": "威嚇\n<b>攻撃</b>: 対象モンスターを呪い、毒する"
         },
         {
             "key": "card.electric_token.text",
-            "value": "エレクトリックトークンを任意のエレクトリックカードと交換する"
+            "value": "電気トークンを任意の電気カードと交換する"
         },
         {
             "key": "card.electric_town.text",
-            "value": "すべての電気モンスター（敵味方問わず）のマナコストが2少なくなる"
+            "value": "すべての電気モンスターのコストが2マナ少なくなる（敵を含む）"
         },
         {
             "key": "card.elegat.text",
-            "value": "<b>プレイ:</b> 相手はランダムなカードを捨てる"
+            "value": "<b>プレイ:</b> 相手が手札からランダムなカードを捨てる"
         },
         {
             "key": "card.emberstorm.text",
-            "value": "プレイ時および自分の各ターン開始時に、盤面の他の非火属性モンスターをすべて燃焼させる。"
+            "value": "プレイ時および各ターン開始時に、他のすべての非火モンスターを燃やす"
         },
         {
             "key": "card.emberstorm_full.text",
-            "value": "プレイ時および自分の各ターン開始時に、盤面の他の非火属性モンスターをすべて燃焼させる。"
+            "value": "プレイ時および各ターン開始時に、他のすべての非火モンスターを燃やす"
         },
         {
             "key": "card.envish.text",
-            "value": "<b>プレイ:</b> 攻撃力3以下のモンスターを破壊する。"
+            "value": "<b>プレイ:</b> 攻撃3以下のモンスターを破壊する"
         },
         {
             "key": "card.equip_psychic_ring.text",
-            "value": "各ターンの開始時に相手の手札を公開する（最大3ターン持続）。"
+            "value": "各ターン開始時に相手の手札を公開する。"
         },
         {
             "key": "card.equip_shield.text",
-            "value": "装備者は2アーマーと挑発を獲得。"
+            "value": "装備者は2アーマーと挑発を得る"
         },
         {
             "key": "card.equip_sword_fire.text",
-            "value": "攻撃+1。\n装備者は攻撃時にダメージを受けない。"
+            "value": "攻撃 +1\n装備者は攻撃時にダメージを受けない"
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "装備者の攻撃力は最大HPと同じになる"
+            "value": "装備者の攻撃は現在のHPに等しくなる"
         },
         {
             "key": "card.equip_water_ring.text",
-            "value": "次の4ターン、各ターン追加で2マナを得る。"
+            "value": "ターンごとに2追加マナを得る。"
         },
         {
             "key": "card.espe.text",
-            "value": "マナコスト5以上の敵対象モンスターを、このモンスターが場を離れるまでマインドコントロールする"
+            "value": "<b>プレイ:</b> マナコスト5以上の敵モンスターにマインドコントロール"
         },
         {
             "key": "card.evira.text",
-            "value": "<b>プレイ:</b> +2/+2を付与。\nダメージを与えるたびプレイヤーを回復する。"
+            "value": "ライフスティール\n<b>プレイ:</b> 次のターンまでモンスターに+2/+2を与える"
         },
         {
             "key": "card.exord.text",
-            "value": "<b>プレイ:</b> すべてに2ダメージを与える。"
+            "value": "<b>プレイ:</b> 他のすべてのカードに2ダメージを与える"
         },
         {
             "key": "card.ezonea.text",
-            "value": "<b>プレイ:</b> マナコスト5以下の敵モンスターをマインドコントロールする"
+            "value": "<b>プレイ:</b> 攻撃5以下の敵モンスターにマインドコントロール"
         },
         {
             "key": "card.fire_token.text",
-            "value": "ファイアトークンを任意のファイアカードと交換する"
+            "value": "火トークンを任意の火カードと交換する"
         },
         {
             "key": "card.flamitto.text",
-            "value": "<b>攻撃:</b> 敵モンスターにバーンを与える。毎ターン2ダメージを与える。"
+            "value": "<b>攻撃:</b> 対象モンスターを燃やす"
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>プレイ:</b> マナコスト2以下の対象モンスターをマインドコントロールする"
+            "value": "<b>プレイ:</b> マナコスト2以下の敵モンスターにマインドコントロール"
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>プレイ:</b> 攻撃力3以下の対象モンスターをマインドコントロールする"
+            "value": "<b>プレイ:</b> 攻撃3以下の敵モンスターにマインドコントロール"
         },
         {
             "key": "card.froggyo.text",
-            "value": "<b>プレイ:</b> 任意の側のマナコスト2以下の対象モンスターを選び、相手プレイヤー側へ送る。"
+            "value": "相手がスペルを捨てるとき、手札にコピーを作成する\n"
         },
         {
             "key": "card.frojest.text",
-            "value": "相手がモンスターカードを捨てるたび、このモンスターは捨てられたモンスターのコピーになる。"
+            "value": "相手がモンスターを捨てるとき、このモンスターは捨てられたモンスターのコピーになる"
         },
         {
             "key": "card.frojesti.text",
-            "value": "相手がスペルを捨てると、手札に0マナのコピーを生成する。"
+            "value": "相手がキャラクターを捨てるとき、0マナコストのコピーを手札に作成する\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "相手がスペルを捨てると、手札に0マナのコピーを生成する。"
+            "value": "相手がキャラクターを捨てるとき, 0マナコストのコピーを手札に作成する\n"
         },
         {
             "key": "card.froster.text",
-            "value": "ラッシュ\nモンスターが凍結するたびに+1/+1を得る。"
+            "value": "ラッシュ\nモンスターが凍結されたときに+1/+1を得る"
         },
         {
             "key": "card.galasu.text",
-            "value": "スペル無効またはアビリティ無効を得る\n挑発無視"
+            "value": "飛行\n選択: スペル免疫または能力免疫"
         },
         {
             "key": "card.galasu_full.text",
-            "value": "スペル無効かアビリティ無効を得る\n挑発無視"
+            "value": "飛行\n選択: スペル免疫または能力免疫"
         },
         {
             "key": "card.gamud.text",
-            "value": "1ターンに1回、ダメージを受けて生き残ったときカードを1枚引く。"
+            "value": "ダメージを受けて生き残ったとき, カードを1枚ドローする"
         },
         {
             "key": "card.gargarm.text",
-            "value": "スペルをプレイするたび、攻撃力+2を得る。\nフライング"
+            "value": "飛行\nスペルをプレイした後, +2攻撃を得る"
         },
         {
             "key": "card.gargoli.text",
-            "value": "スペルをプレイした後、攻撃力+2を得る。"
+            "value": "スペルをプレイした後, +2攻撃を得る"
         },
         {
             "key": "card.geister.text",
-            "value": "<b>攻撃:</b> 呪いと毒を与える"
+            "value": "威嚇\n<b>攻撃:</b> 対象モンスターを呪い, 毒する"
         },
         {
             "key": "card.gemash.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "他のモンスターが倒れるたびカードを1枚引く。"
+            "value": "他のモンスターが死亡するたび, カードを1枚ドローする"
         },
         {
             "key": "card.gizord.text",
@@ -338,19 +338,19 @@
         },
         {
             "key": "card.glidara.text",
-            "value": "選択: 挑発かラッシュ\n<b>死:</b> イグルーを1体召喚する。"
+            "value": "選択: 挑発またはラッシュ\n<b>死亡:</b> イグルーを召喚する"
         },
         {
             "key": "card.glummy.text",
-            "value": "<b>攻撃:</b> 毒。\nフライング"
+            "value": "飛行\n<b>攻撃:</b> 対象モンスターを毒する"
         },
         {
             "key": "card.gluttrats.text",
-            "value": "スペルをプレイした後、+2攻撃を獲得。"
+            "value": "スペルをプレイした後, +2攻撃を得る"
         },
         {
             "key": "card.goldape.text",
-            "value": "各ターンの開始時に攻撃力+1を得る。"
+            "value": "各ターンの開始時に+1攻撃を得る"
         },
         {
             "key": "card.gookie.text",
@@ -358,211 +358,211 @@
         },
         {
             "key": "card.gorupt.text",
-            "value": "<b>プレイ:</b> すべてに2ダメージ。"
+            "value": "<b>プレイ:</b> 他のすべてのカードに2ダメージを与える"
         },
         {
             "key": "card.gracelia.text",
-            "value": "<b>プレイ:</b> モンスター1体の負の状態異常をすべて取り除き、HP+2を与える"
+            "value": "<b>プレイ:</b> モンスターのすべての負のステータス効果を治し, +2 HPを与える"
         },
         {
             "key": "card.graceliaex.text",
-            "value": "<b>キャスト (2):</b> プレイヤーのHPを3回復する。"
+            "value": "<b>アクション (2):</b> プレイヤーを3 HP回復する"
         },
         {
             "key": "card.grandcelia.text",
-            "value": "<b>プレイ:</b> +2/+2を付与。\n<b>アクション:</b> チャージ。"
+            "value": "<b>プレイ:</b> +2/+2を与える\n<b>アクション:</b> バウンス。"
         },
         {
             "key": "card.grocelia.text",
-            "value": "<b>プレイ:</b> 対象カードを沈黙。"
+            "value": "<b>プレイ:</b> 対象モンスターを沈黙させる"
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>挑発</b>\nダメージを受けて生き残ったとき、味方の岩モンスターすべてに+1アーマーを与える。"
+            "value": "<b>挑発</b>\nダメージを受けて生き残ったとき, すべての同盟岩モンスターに+1アーマーを与える"
         },
         {
             "key": "card.hajiko.text",
-            "value": "<b>プレイ:</b> 対象のモンスターに苦痛の呪いを追加する"
+            "value": "威嚇\n<b>プレイ:</b> 対象モンスターに苦痛の呪いを与える"
         },
         {
             "key": "card.hammar.text",
-            "value": "激昂\n<b>プレイ:</b> アーマーを1得る。\n敵プレイヤーを攻撃した後、デッキから岩のスペルカードを1枚引く。"
+            "value": "激怒\n<b>プレイ:</b> 1アーマーを得る\n敵プレイヤーを攻撃した後, デッキから岩スペルカードを1枚ドローする"
         },
         {
             "key": "card.hammark.text",
-            "value": "他のモンスターが死ぬたび、カードを1枚引く。\n攻撃力減少耐性"
+            "value": "攻撃損失免疫\n他のモンスターが死亡するたび, カードを1枚ドローする"
         },
         {
             "key": "card.hammi.text",
-            "value": "激昂III"
+            "value": "激怒III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "激昂\n敵プレイヤーを攻撃した後、デッキから岩のスペルカードを1枚引く。"
+            "value": "激怒\n敵プレイヤーを攻撃した後, デッキから岩スペルカードを1枚ドローする"
         },
         {
             "key": "card.hammish.text",
-            "value": "他のモンスターが死ぬたび、カードを1枚引く。"
+            "value": "他のモンスターが死亡するたび, カードを1枚ドローする"
         },
         {
             "key": "card.hato.text",
-            "value": "ロケーションを召喚するたびにシェルを得る。\n場にアイスロケーションがあるなら+1/+1を得る。"
+            "value": "場所を召喚するたびシェルを得る\n氷の場所がゲーム中にある場合+1/+1を得る"
         },
         {
             "key": "card.headrac.text",
-            "value": "各ターン、+1攻撃を獲得。"
+            "value": "各ターン, +1攻撃を得る"
         },
         {
             "key": "card.heara.text",
-            "value": "<b>プレイ:</b> 対象モンスターの攻撃力を1にする。"
+            "value": "<b>プレイ:</b> 敵モンスターの攻撃を1に減らす"
         },
         {
             "key": "card.hero_electric.text",
-            "value": "エレクトリックのモンスターに追加アクションを付与する古代のエレクトリックフラクタルフェアリー"
+            "value": "電気モンスターにラッシュを与える古代の電気Fracctal妖精"
         },
         {
             "key": "card.hero_fire.text",
-            "value": "任意のカードまたはプレイヤーに1ダメージを与える古代のファイアフラクタルフェアリー"
+            "value": "任意のカードまたはプレイヤーに1ダメージを与える古代の火Fracctal妖精"
         },
         {
             "key": "card.hero_ice.text",
-            "value": "任意のカードを1ターン凍結する古代のアイスフラクタルフェアリー"
+            "value": "任意のカードを1ターン凍結する古代の氷Fracctal妖精"
         },
         {
             "key": "card.hero_plant.text",
-            "value": "キャラクターとプレイヤーを2 HP回復する古代のプラントフラクタルフェアリー"
+            "value": "キャラクターとプレイヤーを2 HP回復する古代の植物Fracctal妖精"
         },
         {
             "key": "card.hero_psychic.text",
-            "value": "相手に手札からカードを捨てさせる古代のサイキックフラクタルフェアリー"
+            "value": "相手に手札からカードを捨てさせる古代の精神Fracctal妖精"
         },
         {
             "key": "card.hero_rock.text",
-            "value": "ボード上の任意のカードに+1アーマーを付与する古代のロックフラクタルフェアリー。"
+            "value": "ボード上の任意のカードに+1アーマーを与える古代の岩Fracctal妖精"
         },
         {
             "key": "card.hero_shadow.text",
-            "value": "プレイ中の任意のカードに呪いをかける古代のシャドウフラクタルフェアリー。"
+            "value": "ゲーム中の任意のカードを呪う古代の影Fracctal妖精"
         },
         {
             "key": "card.hero_water.text",
-            "value": "プレイヤーに追加のカードを引かせる古代のウォーターフラクタルフェアリー。"
+            "value": "プレイヤーに余分なカードをドローさせる古代の水Fracctal妖精"
         },
         {
             "key": "card.hippoh.text",
-            "value": "<b>攻撃:</b> 敵にバーン。各ターン2 HP減少。"
+            "value": "<b>攻撃:</b> 対象モンスターを燃やす"
         },
         {
             "key": "card.hito.text",
-            "value": "<b>プレイ:</b> カードを1枚引く。\n場にアイスロケーションがあるなら+1/+1を得る。"
+            "value": "<b>死亡:</b> カードを1枚ドローする\n氷の場所がゲーム中にある場合+1/+1を得る"
         },
         {
             "key": "card.ice_token.text",
-            "value": "アイストークンを任意のアイスカードと交換する"
+            "value": "氷トークンを任意の氷カードと交換する"
         },
         {
             "key": "card.ice_town_igloo.text",
-            "value": "HP2以上なら味方の氷モンスターすべてが+0/+1を得る\nHP4以上なら味方の氷モンスターすべてが+1/+0を得る\nHP6以上なら手札の氷カードのコストが1減る。"
+            "value": "HP 2+の場合, すべての同盟氷モンスターが+0/+1を得る\nHP 4+の場合, すべての同盟氷モンスターが+1/+0を得る\nHP 6+の場合, すべての氷カードを手札から1少なくコストでプレイ"
         },
         {
             "key": "card.ignitas.text",
-            "value": "フューリー"
+            "value": "激怒"
         },
         {
             "key": "card.igniti.text",
-            "value": "<b>死:</b> 敵プレイヤーに2ダメージ。"
+            "value": "<b>死亡:</b> 敵プレイヤーに2ダメージを与える"
         },
         {
             "key": "card.insha.text",
-            "value": "<b>攻撃</b>: 対象のモンスターに呪いをかける"
+            "value": "<b>攻撃</b>: 対象モンスターを呪う"
         },
         {
             "key": "card.inuk.text",
-            "value": "挑発無視"
+            "value": "飛行"
         },
         {
             "key": "card.kincactuz.text",
-            "value": "<b>プレイ:</b> 挑発またはフューリーを獲得"
+            "value": "<b>選択</b>: 挑発または激怒"
         },
         {
             "key": "card.kinfish.text",
-            "value": "<b>キル:</b> カードを2枚引く。\n<b>死:</b> カードを1枚引く。"
+            "value": "<b>殺す:</b> 2枚のカードをドローする\n<b>死亡:</b> 1枚のカードをドローする"
         },
         {
             "key": "card.kuraigar.text",
-            "value": "相手のターン中に+3攻撃。"
+            "value": "相手のターン中に+3攻撃を持つ"
         },
         {
             "key": "card.kuraigor.text",
-            "value": "シェル\n 挑発"
+            "value": "シェル / 挑発"
         },
         {
             "key": "card.lala.text",
-            "value": "<b>攻撃:</b> ポイズン。"
+            "value": "<b>攻撃:</b> 対象を毒する"
         },
         {
             "key": "card.lampi.text",
-            "value": "ラッシュ\nフライング"
+            "value": "ヘイスト / 飛行"
         },
         {
             "key": "card.lizordo.text",
-            "value": "デス touch"
+            "value": "死の接触"
         },
         {
             "key": "card.lizoru.text",
-            "value": "<b>プレイ</b>: リゾを召喚\n すべてのレプタイル +1攻撃。"
+            "value": "<b>プレイ</b>: リゾを召喚\n他のすべての同盟爬虫類 +1攻撃"
         },
         {
             "key": "card.lizorus.text",
-            "value": "<b>プレイ</b>: リゾを召喚\n すべてのレプタイル +2攻撃。"
+            "value": "<b>プレイ</b>: リゾを召喚\n他のすべての同盟爬虫類 +2攻撃"
         },
         {
             "key": "card.lizorus_full.text",
-            "value": "<b>プレイ</b>: リゾを召喚\n すべてのレプタイル +2攻撃。"
+            "value": "<b>プレイ</b>: リゾを召喚\n他のすべての同盟爬虫類 +2攻撃"
         },
         {
             "key": "card.lizteel.text",
-            "value": "激昂II"
+            "value": "激怒II"
         },
         {
             "key": "card.loneguin.text",
-            "value": "挑発\n<b>死:</b> イグルーを1体召喚する。"
+            "value": "挑発\n<b>死亡:</b> イグルーを召喚する"
         },
         {
             "key": "card.lumini.text",
-            "value": "<b>プレイ:</b> イグルーを召喚する\nフライング"
+            "value": "<b>プレイ:</b> イグルーを召喚\n飛行"
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>プレイ:</b> +2/+2を与える。\nフライング"
+            "value": "<b>プレイ:</b> +2/+2を与える\n飛行"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>プレイ:</b> イグルーを2回召喚し、攻撃力3以下の敵モンスターを1体凍結する\nフライング"
+            "value": "<b>プレイ:</b> イグルーを2回召喚し, 攻撃3以下の敵モンスターを凍結する\n飛行"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>プレイ:</b> +2/+2を与える\n<b>プレイ:</b> プレイヤーのHPを4回復する\nフライング"
+            "value": "<b>プレイ:</b> +2/+2を与える\n<b>プレイ:</b> プレイヤーを4 HP回復する\n飛行"
         },
         {
             "key": "card.lurian_full.text",
-            "value": "<b>プレイ:</b> +2/+2を与える\n<b>プレイ:</b> プレイヤーのHPを4回復\n飛行"
+            "value": "<b>プレイ:</b> +2/+2を与える\n<b>プレイ:</b> プレイヤーを4 HP回復する\n飛行"
         },
         {
             "key": "card.marshland.text",
-            "value": "<b>ターン開始: </b>すべてのプラントカードは3回復。"
+            "value": "<b>ターン開始: </b>すべての同盟植物カードを3 HP回復する"
         },
         {
             "key": "card.meruza.text",
-            "value": "すべての敵キャラクターは-2攻撃。"
+            "value": "すべての敵キャラクターは-2攻撃を持つ"
         },
         {
             "key": "card.mighto.text",
-            "value": "<b>プレイ:</b> このゲームで召喚したイグルー1つにつき+1攻撃力を得る。\nロケーションを召喚するたびにシェルを得る\nシェル\n"
+            "value": "<b>プレイ:</b> このゲームで召喚されたイグルーごとに+1攻撃を得る\n場所を召喚するたびシェルを得る\nシェル"
         },
         {
             "key": "card.mimi.text",
-            "value": "自分のターン開始時、このモンスターは完全に回復する。"
+            "value": "再生"
         },
         {
             "key": "card.minask.text",
@@ -570,19 +570,19 @@
         },
         {
             "key": "card.miraibow.text",
-            "value": "他のモンスターが死ぬたびカードを2枚引く。"
+            "value": "他のモンスターが死亡するたび, 2枚のカードをドローする"
         },
         {
             "key": "card.mirion.text",
-            "value": "他のモンスターが死ぬたびカードを2枚引く。"
+            "value": "他のモンスターが死亡するたび, 2枚のカードをドローする"
         },
         {
             "key": "card.momburn.text",
-            "value": "スペルダメージ +2。\n <b>攻撃:</b> 攻撃されたカードにバーン。"
+            "value": "スペルダメージ+2\n<b>攻撃:</b> 対象モンスターを燃やす"
         },
         {
             "key": "card.mongold.text",
-            "value": "各ターン開始時に、+2攻撃を獲得。"
+            "value": "各ターン, +2攻撃を得る"
         },
         {
             "key": "card.mosastrus.text",
@@ -590,219 +590,219 @@
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>プレイ:</b> マナコスト3以下の敵モンスターをマインドコントロールする"
+            "value": "<b>プレイ:</b> マナ3以下の敵モンスターにマインドコントロール"
         },
         {
             "key": "card.mosheedark.text",
-            "value": "<b>攻撃</b>: 対象のモンスターに呪いをかける"
+            "value": "<b>攻撃</b>: 対象モンスターを呪う"
         },
         {
             "key": "card.mosslug.text",
-            "value": "トランプル"
+            "value": "踏み潰し"
         },
         {
             "key": "card.mosslug_full.text",
-            "value": "トランプル"
+            "value": "踏み潰し"
         },
         {
             "key": "card.mountough.text",
-            "value": "<b>プレイ:</b> 3アーマーを得る。\nターン終了時にカードを1枚引く。"
+            "value": "<b>プレイ:</b> 3アーマーを得る\nターン終了時に1枚のカードをドローする"
         },
         {
             "key": "card.mountough_full.text",
-            "value": "<b>プレイ:</b> 3アーマーを得る。\nターン終了時にカードを1枚引く。"
+            "value": "<b>プレイ:</b> 3アーマーを得る\nターン終了時に1枚のカードをドローする"
         },
         {
             "key": "card.muni.text",
-            "value": "プレイ時：相手の手札を公開し、カードを1枚引く。"
+            "value": "<b>プレイ:</b> 相手の手札を公開し, 1枚のカードをドローする"
         },
         {
             "key": "card.murple.text",
-            "value": "自分のターン開始時、このモンスターは完全に回復する。"
+            "value": "再生"
         },
         {
             "key": "card.nadzu.text",
-            "value": "狂戦士\n激昂"
+            "value": "激怒\n激怒"
         },
         {
             "key": "card.nhomnhom.text",
-            "value": "攻撃すると、2マナを獲得。"
+            "value": "攻撃時に2マナを得る"
         },
         {
             "key": "card.nobu.text",
-            "value": "挑発\n1回の攻撃/反撃で受けるダメージは最大2。"
+            "value": "挑発\n攻撃/反撃ごとに最大2ダメージを受ける"
         },
         {
             "key": "card.nophulos.text",
-            "value": "狂戦士 / ラッシュ\n激昂"
+            "value": "激怒 / ラッシュ\n激怒"
         },
         {
             "key": "card.numind.text",
-            "value": "<b>プレイ:</b> 相手の手札を公開\n <b>アクション:</b> 相手の手札から3マナ以下のランダムカードを捨てる。2マナ。"
+            "value": "<b>プレイ:</b> 相手の手札を公開する\n<b>アクション (2):</b> 相手の手札からマナ3以下のランダムなカードを捨てる"
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>ターン終了:</b> 他にモンスターがいる場合、ステルス状態になる。"
+            "value": "<b>ターン終了:</b> 他のモンスターがゲーム中にある場合, ステルスに入る"
         },
         {
             "key": "card.operant.text",
-            "value": "激昂\n<b>プレイ:</b> 盤面のカード1枚に1ダメージを与える。\n"
+            "value": "激怒\n<b>プレイ:</b> ゲーム内のすべてのカードに1ダメージを与える"
         },
         {
             "key": "card.ophala.text",
-            "value": "相手のターン中に+3攻撃。\n 挑発"
+            "value": "相手のターン中に+3攻撃を持つ\n挑発"
         },
         {
             "key": "card.ophalant.text",
-            "value": "相手のターン中に+3攻撃。\n 挑発 / シェル"
+            "value": "相手のターン中に+3攻撃を持つ\n挑発 / シェル"
         },
         {
             "key": "card.ophalant_full.text",
-            "value": "相手のターン中に+3攻撃。\n 挑発 / シェル"
+            "value": "相手のターン中に+3攻撃を持つ\n挑発 / シェル"
         },
         {
             "key": "card.oritoro.text",
-            "value": "攻撃時にD6を振る。4+で+3攻撃。"
+            "value": "D6を振って, 4以上でターン終了まで+3攻撃を得る"
         },
         {
             "key": "card.owind.text",
-            "value": "スペル無効\n 挑発無視\n<b>プレイ:</b> 対象を凍結する"
+            "value": "スペル免疫\n挑発を無視する\n<b>プレイ: </b> 対象を凍結する"
         },
         {
             "key": "card.owind_full.text",
-            "value": "呪文無効\n挑発無視\n<b>プレイ:</b> 対象を凍結する"
+            "value": "スペル免疫\n挑発を無視する\n<b>プレイ: </b> 対象を凍結する"
         },
         {
             "key": "card.peafan.text",
-            "value": "<b>プレイ:</b> 攻撃力4以下のモンスターを破壊する。"
+            "value": "<b>プレイ:</b> 攻撃4以下のモンスターを破壊する"
         },
         {
             "key": "card.peafan_egg.text",
-            "value": "3ターン後、ピーファンに変身する。\nイグルーを召喚する。"
+            "value": "3ターン後にPeafanに変身する\nイグルーを召喚する"
         },
         {
             "key": "card.peako.text",
-            "value": "<b>プレイ:</b> イグルーを召喚する。\nすでにイグルーがあるならカードを1枚引く。"
+            "value": "<b>プレイ:</b> イグルーを召喚する\nすでにイグルーがある場合, カードを1枚ドローする"
         },
         {
             "key": "card.perllusion.text",
-            "value": "ステルス\n <b>プレイ:</b> 相手はランダムなカードを捨てる\n 相手の捨てで+1攻撃を獲得"
+            "value": "ステルス\n<b>プレイ:</b> 相手がランダムなカードを捨てる\n相手が捨てるとき, +1攻撃を得る"
         },
         {
             "key": "card.petami.text",
-            "value": "自分のターン開始時、このモンスターは完全に回復する。"
+            "value": "再生"
         },
         {
             "key": "card.petili.text",
-            "value": "プレイ時、次の自分のターンまで別のモンスターに+2/+2を与える。"
+            "value": "<b>プレイ:</b> 他のモンスターに次のターンまで+2/+2を与える"
         },
         {
             "key": "card.phanti.text",
-            "value": "他のキャラクターが死ぬたび、1枚のカードを引く。"
+            "value": "他のモンスターが死亡するたび, 1枚のカードをドローする"
         },
         {
             "key": "card.phyra.text",
-            "value": "<b>キャスト (3):</b> 2ダメージを与える。\n <b>死:</b> 卵を召喚。"
+            "value": "<b>アクション (3):</b> 2ダメージを与える\n<b>死亡:</b> Phyraの卵を召喚する"
         },
         {
             "key": "card.phyra_egg.text",
-            "value": "3ターン後にファイラに変身。"
+            "value": "3ターン後にPhyraに変身する"
         },
         {
             "key": "card.phyrox.text",
-            "value": "<b>キャスト (2):</b> D6を振る、4+で対象を手札に戻す。"
+            "value": "<b>アクション (2):</b> D6を振って, 4以上で対象を所有者の手札に戻す"
         },
         {
             "key": "card.picko.text",
-            "value": "激昂\n<b>プレイ:</b> 自身に1ダメージを与え、その後任意の対象モンスターに1ダメージ。"
+            "value": "<b>プレイ:</b> 自分に1ダメージを与え, 次に任意の対象モンスターに1ダメージを与える"
         },
         {
             "key": "card.plant_token.text",
-            "value": "プラントトークンを任意のプラントカードと交換する"
+            "value": "植物トークンを任意の植物カードと交換する"
         },
         {
             "key": "card.plator.text",
-            "value": "シェル\n各ターンの開始時にアーマーを1得る。"
+            "value": "シェル\n各ターン, +1アーマーを得る"
         },
         {
             "key": "card.polip.text",
-            "value": "<b>プレイ:</b> +2 HPを付与"
+            "value": "<b>プレイ:</b> 対象モンスターに次のターンまで+2 HPを与える"
         },
         {
             "key": "card.potion_electric.text",
-            "value": "対象モンスターはフューリーを獲得。各ターン2回攻撃可能。"
+            "value": "対象が激怒を得る"
         },
         {
             "key": "card.potion_fire.text",
-            "value": "対象は攻撃力+1とフューリーを得る。"
+            "value": "対象が+1攻撃と激怒を得る"
         },
         {
             "key": "card.potion_green.text",
-            "value": "対象は芳しい香りを浴び、HP+2と挑発を得る。"
+            "value": "対象が甘い香りに包まれ, +2 HPと挑発を得る"
         },
         {
             "key": "card.potion_ice.text",
-            "value": "氷モンスターの進化カウンターを1減らす。0になれば進化する。"
+            "value": "氷モンスターの進化カウンターを1減少させる, 0になると進化する"
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "盤面のマナコスト3以下のモンスターを対象に1ターンの間マインドコントロールする。そのモンスターはラッシュを得る。"
+            "value": "マナ3以下の敵モンスターに1ターンマインドコントロール, ラッシュを得る"
         },
         {
             "key": "card.potion_rock.text",
-            "value": "対象は挑発を得て、攻撃できなくなる。"
+            "value": "対象が挑発を得るが攻撃できない"
         },
         {
             "key": "card.potion_shadow.text",
-            "value": "対象は苦痛の呪いを得て、攻撃のたびに3ダメージを受ける。"
+            "value": "対象が苦痛の呪いを得る, 各攻撃前に3ダメージを受ける"
         },
         {
             "key": "card.potion_water.text",
-            "value": "カードを2枚引く。"
+            "value": "2枚のカードをドローする"
         },
         {
             "key": "card.prido.text",
-            "value": "フューリー\n 各ターン、+1攻撃を獲得。"
+            "value": "激怒\n各ターン, +1攻撃を得る"
         },
         {
             "key": "card.psony.text",
-            "value": "<b>プレイ:</b> 自分のキャラクターを1体選び、相手側へ送る。そのキャラクターは「各ターン全味方に2ダメージ」を得る。"
+            "value": "<b>プレイ:</b> 忠誠を変え, 対象が能力を得る: 各ターン他のすべての同盟者に2ダメージを与える"
         },
         {
             "key": "card.psychic_token.text",
-            "value": "サイキックトークンを任意のサイキックカードと交換する"
+            "value": "精神トークンを任意の精神カードと交換する"
         },
         {
             "key": "card.psylant.text",
-            "value": "<b>プレイ:</b> 自分のキャラクターを1体選び、相手側へ送る。そのキャラクターは「各ターン開始時にカードを2枚捨てる」を得る。"
+            "value": "<b>プレイ:</b> 忠誠を変え, 対象が能力を得る: 各ターン手札から2枚のカードを捨てる"
         },
         {
             "key": "card.psynkey.text",
-            "value": "<b>プレイ:</b> 自分のキャラクターを1体選び、相手側へ送る。そのキャラクターは「敵キャラクターの攻撃力/HP+1/+2」を得る。"
+            "value": "<b>プレイ:</b> 忠誠を変え, 対象が能力を得る: 敵モンスターが+1/+2を得る"
         },
         {
             "key": "card.pyro.text",
-            "value": "<b>死:</b> 卵を召喚。"
+            "value": "<b>死亡:</b> Phyraの卵を召喚する"
         },
         {
             "key": "card.rekrek.text",
-            "value": "<b>プレイ:</b> 1ダメージを与える。"
+            "value": "<b>プレイ:</b> 1ダメージを与える"
         },
         {
             "key": "card.rektar.text",
-            "value": "<b>プレイ:</b> 2ダメージを与える。"
+            "value": "<b>プレイ:</b> 2ダメージを与える"
         },
         {
             "key": "card.rektardark.text",
-            "value": "<b>攻撃:</b> 対象のモンスターに呪いをかける"
+            "value": "<b>攻撃</b>: 対象モンスターを呪う"
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>各ターン:</b> 最も攻撃力の低いモンスターを倒す（味方とこのモンスターを含む）。"
+            "value": "<b>各ターン:</b> ゲーム中の攻撃が最も低いすべてのモンスターを破壊する (自分のものを含む)"
         },
         {
             "key": "card.rock_cave.text",
-            "value": "岩モンスター全員が「1ダメージを受けて攻撃力+1を得る」を得る。使用ごとに1マナ。"
+            "value": "すべての岩モンスターが得る: \"1ダメージを受けて+1攻撃を得る\" 使用ごとに1マナコスト"
         },
         {
             "key": "card.rock_golem_spawn.text",
@@ -810,7 +810,7 @@
         },
         {
             "key": "card.rock_token.text",
-            "value": "ロックトークンを任意のロックカードと交換する"
+            "value": "岩トークンを任意の岩カードと交換する"
         },
         {
             "key": "card.rootiny.text",
@@ -818,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>攻撃:</b> ポイズン。"
+            "value": "<b>攻撃:</b> 対象を毒する"
         },
         {
             "key": "card.rootus.text",
@@ -826,39 +826,39 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "<b>プレイ:</b> 2アーマーを得る。"
+            "value": "<b>プレイ:</b> +2アーマーを得る"
         },
         {
             "key": "card.scarles.text",
-            "value": "各ターン、攻撃力+1を得る。\nフライング"
+            "value": "各ターン, +1攻撃を得る\n飛行"
         },
         {
             "key": "card.shadow_token.text",
-            "value": "シャドウトークンを任意のシャドウカードと交換する"
+            "value": "影トークンを任意の影カードと交換する"
         },
         {
             "key": "card.shama.text",
-            "value": "スペルダメージ +1。"
+            "value": "スペルダメージ+1"
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>攻撃:</b> ポイズン。"
+            "value": "<b>攻撃:</b> 対象を毒する"
         },
         {
             "key": "card.skatrix.text",
-            "value": "狂戦士 / ラッシュ\n<b>攻撃:</b> 対象を凍結させ、反撃ダメージを受けない。"
+            "value": "激怒 / ラッシュ\n<b>攻撃:</b> 対象を凍結し, 反撃ダメージを受けない"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "狂戦士 / ラッシュ\n<b>攻撃:</b> 対象を凍結させ、反撃ダメージを受けない。"
+            "value": "激怒 / ラッシュ\n<b>攻撃:</b> 対象を凍結し, 反撃ダメージを受けない"
         },
         {
             "key": "card.skipo.text",
-            "value": "挑発\n "
+            "value": "挑発\n"
         },
         {
             "key": "card.slime.text",
-            "value": "<b>プレイ:</b> モンスターを1体手札に戻す。"
+            "value": "<b>プレイ:</b> 捨て札からモンスターを手札に戻す"
         },
         {
             "key": "card.sneel.text",
@@ -866,7 +866,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "フライング\n<b>プレイ:</b> 攻撃力2以下の敵を凍結する。"
+            "value": "飛行\n<b>プレイ:</b> 攻撃2以下の敵を凍結する"
         },
         {
             "key": "card.soligator.text",
@@ -874,63 +874,63 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "フライング"
+            "value": "飛行 / 威嚇"
         },
         {
             "key": "card.sovis.text",
-            "value": "フライング"
+            "value": "飛行 / 威嚇"
         },
         {
             "key": "card.sparkig.text",
-            "value": "デス touch"
+            "value": "死の接触"
         },
         {
             "key": "card.spell_aerial_strike.text",
-            "value": "手札に3体のピロを召喚。"
+            "value": "手札に3枚のPyroカードを追加する"
         },
         {
             "key": "card.spell_armageddon.text",
-            "value": "ボード上のすべてのクリーチャーを破壊"
+            "value": "ゲーム内のすべてのカードを破壊する"
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "凍結状態の対象を破壊する。\nロケーションを破壊する。"
+            "value": "凍結された対象を破壊する\n場所を破壊する"
         },
         {
             "key": "card.spell_boost_electric.text",
-            "value": "プレイ中のすべてのエレクトリックモンスターは+2攻撃（敵を含む）。"
+            "value": "ゲーム内のすべての電気モンスターが+2攻撃を得る (敵を含む)"
         },
         {
             "key": "card.spell_burn.text",
-            "value": "対象を破壊。"
+            "value": "対象を破壊する"
         },
         {
             "key": "card.spell_cursed_potion.text",
-            "value": "対象モンスターを沈黙させ、その後対象モンスターに呪いをかける"
+            "value": "対象モンスターを沈黙させ, 対象モンスターを呪う"
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "対象のカードは「味方のモンスターが場に出たとき、このモンスターを破壊する」を得る。"
+            "value": "対象カードが \"同盟モンスターを手札からプレイされたとき, このモンスターを破壊する\" を得る"
         },
         {
             "key": "card.spell_electric_ally.text",
-            "value": "デッキの次の7枚を見て、エレクトリックカード1枚を手札に取る。"
+            "value": "デッキの次の7枚のカードを見て, そのうちの1枚の電気カードを手札に追加する"
         },
         {
             "key": "card.spell_extinct.text",
-            "value": "対象のカードは「味方のモンスターが場に出たとき、このモンスターを破壊する」を得る。"
+            "value": "対象カードが \"同盟モンスターを手札からプレイされたとき, このモンスターを破壊する\" を得る"
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "味方モンスター1体に1ダメージを与え、その後ランダムな対象に2ダメージを2回与える。"
+            "value": "同盟モンスターに1ダメージを与え, 次にランダムな敵対象に2回2ダメージを与える"
         },
         {
             "key": "card.spell_flood.text",
-            "value": "すべてのモンスターのHPを1にする。"
+            "value": "すべてのモンスターのHPを1に減らす"
         },
         {
             "key": "card.spell_growth.text",
-            "value": "味方の植物モンスターすべてが+2/+2を得る"
+            "value": "すべての同盟植物モンスターが+2/+2を得る"
         },
         {
             "key": "card.spell_hammi_strike.text",
@@ -938,119 +938,119 @@
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "場のモンスターをすべて凍結する。\n凍結済みのモンスターを破壊する。"
+            "value": "ゲーム内のすべてのモンスターを凍結する\nすでに凍結されているモンスターを破壊する"
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "対象のモンスターを凍結する。\nカードを1枚引く。\nイグルーを召喚する"
+            "value": "対象モンスターを凍結する\nカードを1枚ドローする\nイグルーを召喚する"
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "対象を1ターンの間凍結する。"
+            "value": "対象を次のターンまで凍結する"
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "すべてのモンスターに1ダメージを与え、その後凍結状態のモンスターすべてに2ダメージを与える。"
+            "value": "すべてのモンスターに1ダメージを与え, 次にすべての凍結モンスターに2ダメージを与える"
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
-            "value": "手札に三体の2/1ランピを召喚。"
+            "value": "手札に3枚のLampiカードを追加する"
         },
         {
             "key": "card.spell_lightning_bolts.text",
-            "value": "すべての敵モンスターに2ダメージ"
+            "value": "すべての敵モンスターに2ダメージを与える"
         },
         {
             "key": "card.spell_meal.text",
-            "value": "対象は恒久的に+2/+2を得て、すべての負の状態異常を治す。"
+            "value": "対象が+2/+2を得てすべての負の効果を治す"
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "ランダムなカードに1ダメージ。\n X回繰り返し。"
+            "value": "ランダムな敵カードに1ダメージを与える\nX回繰り返す"
         },
         {
             "key": "card.spell_psychic_rain.text",
-            "value": "相手は手札から3枚のランダムカードを捨てる。"
+            "value": "相手が手札から3枚のランダムなカードを捨てる"
         },
         {
             "key": "card.spell_psychic_staff.text",
-            "value": "敵モンスターを3ターンの間、または進化するまで操る。"
+            "value": "敵モンスターに3ターンまたは進化するまでマインドコントロール"
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "支払ったマナに応じた攻撃力X/HPXの挑発持ち岩ゴーレムを召喚する。"
+            "value": "消費したマナ量に基づいて挑発付きX/Xの岩ゴーレムを召喚する"
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "味方モンスター1体に1ダメージを与え、その後任意の対象に2ダメージを与える。"
+            "value": "同盟モンスターに1ダメージを与え, 次に任意の対象に2ダメージを与える"
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "対象モンスターは+2アーマーを得る。"
+            "value": "対象モンスターが+2アーマーを得る"
         },
         {
             "key": "card.spell_roots.text",
-            "value": "対象を3ターン麻痺。"
+            "value": "対象を3ターン麻痺させる"
         },
         {
             "key": "card.spell_shadow_staff.text",
-            "value": "すべてのモンスターのHPと攻撃を1に減少"
+            "value": "すべてのモンスターのHPと攻撃を1に減らす"
         },
         {
             "key": "card.spell_split.text",
-            "value": "対象モンスターは「攻撃する前に3ダメージを受ける」を得る。"
+            "value": "対象モンスターが \"攻撃前に3ダメージを受ける\" を得る"
         },
         {
             "key": "card.spell_stomp.text",
-            "value": "HPが最も低いモンスターを破壊する。"
+            "value": "ゲーム中のHPが最も低いモンスターを破壊する (自分のものを含む, 同点の場合ランダム)"
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "対象モンスターは攻撃できず、自分のターン終了時に1ダメージを受ける。"
+            "value": "対象モンスターは攻撃できず, 各ターン終了時に1ダメージを受ける"
         },
         {
             "key": "card.spell_stones.text",
-            "value": "1ダメージを与える。\nカードを1枚引く。"
+            "value": "1ダメージを与える\nカードを1枚ドローする"
         },
         {
             "key": "card.spell_storm.text",
-            "value": "すべてのカードを所有者の手札に戻す。"
+            "value": "すべてのカードを所有者の手札に戻す"
         },
         {
             "key": "card.spell_submerge.text",
-            "value": "対象カードは「攻撃された時、相手はランダムなカード1枚を捨てる」を獲得。"
+            "value": "対象カードが \"攻撃されたとき, 相手はランダムなカードを1枚捨てる\" を得る"
         },
         {
             "key": "card.spell_toxic_rain.text",
-            "value": "プレイ中のすべてのカードにポイズン"
+            "value": "ゲーム内のすべてのカードを毒する"
         },
         {
             "key": "card.spell_treasure.text",
-            "value": "デッキの次の7枚を見て、1枚のウォーターカードを選択。"
+            "value": "デッキの次の7枚のカードを見て, そのうちの1枚の水カードを手札に追加する"
         },
         {
             "key": "card.spell_wave.text",
-            "value": "敵対象を所有者の手札に戻す。"
+            "value": "敵対象を所有者の手札に戻す"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "任意の対象を所有者の手札に戻し、相手は手札からランダムなカードを捨てる。"
+            "value": "任意の対象を所有者の手札に戻し, 次に相手が手札からランダムなカードを捨てる"
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>プレイ:</b> 攻撃力2以下のモンスターを破壊する。"
+            "value": "<b>プレイ:</b> 攻撃2以下のモンスターを破壊する"
         },
         {
             "key": "card.stingor.text",
-            "value": "<b>攻撃:</b> 対象にポイズン。"
+            "value": "<b>攻撃:</b> 対象を毒する"
         },
         {
             "key": "card.stingy.text",
-            "value": "<b>攻撃:</b> 対象にポイズン。"
+            "value": "<b>攻撃:</b> 対象を毒する"
         },
         {
             "key": "card.stormus.text",
-            "value": "敵モンスターは攻撃力-1。\n挑発を無視できる。"
+            "value": "飛行\n敵モンスターは-1攻撃を持つ"
         },
         {
             "key": "card.stormy.text",
@@ -1058,27 +1058,27 @@
         },
         {
             "key": "card.swamp.text",
-            "value": "<b>ターン開始:</b> 味方のシャドウモンスターすべてが攻撃力+1を得る。"
+            "value": "<b>ターン開始: </b>すべての同盟影モンスターが+1攻撃を得る"
         },
         {
             "key": "card.tahlu.text",
-            "value": "ステルス\n すべてのキャット +1攻撃。"
+            "value": "ステルス\n他のすべての同盟猫 +1攻撃"
         },
         {
             "key": "card.tailu.text",
-            "value": "<b>スラッシュラッシュ:</b> アイスロケーションがプレイ中ならラッシュを獲得。"
+            "value": "泥ラッシュ"
         },
         {
             "key": "card.tectan.text",
-            "value": "味方の岩モンスターすべてが+2アーマーを得る"
+            "value": "すべての同盟岩モンスターは+2アーマーを持つ"
         },
         {
             "key": "card.tempish.text",
-            "value": "<b>プレイ:</b> 任意の対象を持ち主の手札に戻す。"
+            "value": "<b>プレイ:</b> 任意の対象を所有者の手札に戻す"
         },
         {
             "key": "card.tempish_full.text",
-            "value": "<b>プレイ:</b> 任意の対象を持ち主の手札に戻す。"
+            "value": "<b>プレイ:</b> 任意の対象を所有者の手札に戻す"
         },
         {
             "key": "card.tensei.text",
@@ -1086,67 +1086,67 @@
         },
         {
             "key": "card.terrastrus.text",
-            "value": "激昂\n<b>プレイ:</b> プレイ中の他のカードすべてに1ダメージを与え、その後味方のカードをすべて1回復する。"
+            "value": "激怒\n<b>プレイ:</b> ゲーム内のすべてのカードに1ダメージを与え, 次にすべての同盟カードを1 HP回復する。"
         },
         {
             "key": "card.town_darkwoods_shadow.text",
-            "value": "すべての同盟シャドウカードは+2攻撃。"
+            "value": "すべての同盟影カードは+2攻撃を持つ"
         },
         {
             "key": "card.town_forest.text",
-            "value": "すべての同盟プラントカードは+2 HP。"
+            "value": "すべての同盟植物カードは+2 HPを持つ"
         },
         {
             "key": "card.town_psychic.text",
-            "value": "サイキックモンスターをプレイまたは相手のモンスターをコントロールすると、相手はランダムなカードを捨てる。"
+            "value": "精神モンスターをプレイするか敵モンスターをコントロールすると, 相手が手札からランダムなカードを捨てる"
         },
         {
             "key": "card.town_rock.text",
-            "value": "味方の岩モンスター全てが激昂スタックを1得る。"
+            "value": "すべての同盟岩モンスターが激怒スタックを得る"
         },
         {
             "key": "card.town_volcano.text",
-            "value": "味方の火モンスターすべてが攻撃力+2を得る。"
+            "value": "すべての同盟火モンスターは+2攻撃を持つ"
         },
         {
             "key": "card.town_water.text",
-            "value": "手札のウォーターカードは1少なくなる。"
+            "value": "手札の水カードは1少なくコストでプレイされる"
         },
         {
             "key": "card.trap_bomb_electric.text",
-            "value": "<b>トラップ:</b> 敵が攻撃したとき、敵モンスター全体に1ダメージを与え、1ターンの間全員を麻痺させる。"
+            "value": "<b>トラップ:</b> 敵が攻撃すると, すべての敵モンスターに1ダメージを与え, すべてを1ターン麻痺させる"
         },
         {
             "key": "card.trap_explosive.text",
-            "value": "<b>トラップ:</b> すべてに2ダメージ。"
+            "value": "<b>トラップ:</b> 敵が攻撃すると, すべての敵モンスターに2ダメージを与える"
         },
         {
             "key": "card.trap_fish.text",
-            "value": "<b>トラップ:</b> 魚に変身。"
+            "value": "<b>トラップ:</b> 敵プレイヤーが手札から次にプレイするモンスターを魚に変身させる。"
         },
         {
             "key": "card.trap_ice.text",
-            "value": "<b>トラップ:</b> 敵が攻撃したとき、対象を2ターン凍結する。"
+            "value": "<b>トラップ:</b>敵が攻撃すると, 対象を2ターン凍結する"
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>トラップ:</b> 次の攻撃者にポイズンと3ダメージ。"
+            "value": "<b>トラップ:</b> 敵が攻撃すると, 毒を与え3ダメージを与える"
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "次に攻撃してくる敵モンスターを1ターンの間操り、挑発を与える。"
+            "value": "敵モンスターが攻撃すると, このターンマインドコントロールし挑発を与える"
         },
         {
             "key": "card.trap_spike.text",
-            "value": "<b>トラップ:</b> 敵がプレイヤーを攻撃したとき、HPを4回復する。"
+            "value": "<b>トラップ:</b> 敵がプレイヤーを攻撃すると, 4 HP回復する"
         },
         {
             "key": "card.trats.text",
-            "value": "スペルをプレイした後、+2攻撃を獲得。"
+            "value": "スペルをプレイした後, +2攻撃を得る"
         },
         {
             "key": "card.turbowing.text",
-            "value": "ヘイスト\nフライング"
+            "value": "ヘイスト / 飛行"
         },
         {
             "key": "card.turtod.text",
@@ -1154,15 +1154,15 @@
         },
         {
             "key": "card.twii.text",
-            "value": "<b>死:</b> カードを1枚引く。\n挑発を無視できる。"
+            "value": "飛行\n<b>死亡:</b> カードを1枚ドローする"
         },
         {
             "key": "card.twiina.text",
-            "value": "アビリティ無効\n 挑発無視\n<b>死:</b> トゥイーを召喚。\n"
+            "value": "能力免疫 / 飛行\n<b>死亡:</b> Twiiを召喚する\n"
         },
         {
             "key": "card.urnog.text",
-            "value": "<b>プレイ</b>: 対象モンスターの攻撃力を3にする"
+            "value": "威嚇\n<b>プレイ</b>: 対象モンスターの攻撃を3に設定する"
         },
         {
             "key": "card.urogorth.text",
@@ -1170,147 +1170,147 @@
         },
         {
             "key": "card.venorus.text",
-            "value": "<b>プレイ:</b> 場のすべての敵を毒にする。"
+            "value": "威嚇\n<b>プレイ</b>: ゲーム内のすべての敵カードを毒する"
         },
         {
             "key": "card.venorus_full.text",
-            "value": "<b>プレイ:</b> 場のすべての敵を毒にする。"
+            "value": "<b>プレイ</b>: ゲーム内のすべての敵カードを毒する"
         },
         {
             "key": "card.vertron.text",
-            "value": "すべてのエレクトリックモンスターは2マナ少なくなる"
+            "value": "すべての電気モンスターのコストが2マナ少なくなる"
         },
         {
             "key": "card.vertron_full.text",
-            "value": "すべての電気モンスターのマナコストが2減少する "
+            "value": "すべての電気モンスターのコストが2マナ少なくなる"
         },
         {
             "key": "card.viborus.text",
-            "value": "ステルス\n 攻撃: ポイズン"
+            "value": "ステルス\n攻撃: 対象モンスターを毒する"
         },
         {
             "key": "card.virgo.text",
-            "value": "攻撃不可。ターン開始時に、ランダムな味方を眠らせる。"
+            "value": "攻撃できない\n あなたのターン開始時にランダムな同盟者を眠らせる\n<b>プレイ:</b> 自分を毒する\n"
         },
         {
             "key": "card.volcano.text",
-            "value": "火モンスターはすべて「1ダメージを受けて攻撃力+1を得る」を得る。使用ごとに1マナ。"
+            "value": "すべての火モンスターが得る: \"1ダメージを受けて+1攻撃を得る\" 使用ごとに1マナコスト"
         },
         {
             "key": "card.vorteru.text",
-            "value": "<b>プレイ</b>: 対象モンスターの攻撃力を1にする"
+            "value": "威嚇\n<b>プレイ</b>: 対象モンスターの攻撃を1に設定する"
         },
         {
             "key": "card.vulkong.text",
-            "value": "<b>プレイ:</b> すべてに1ダメージ。"
+            "value": "<b>プレイ:</b> 他のすべてのカードに1ダメージを与える"
         },
         {
             "key": "card.waazu.text",
-            "value": "<b>プレイ:</b> 対象カードを沈黙。"
+            "value": "<b>プレイ:</b> 対象モンスターを沈黙させる"
         },
         {
             "key": "card.warhammi.text",
-            "value": "各ターン、+1アーマーを獲得。"
+            "value": "各ターン, +1アーマーを得る"
         },
         {
             "key": "card.waru.text",
-            "value": "相手のターン中に+3攻撃。"
+            "value": "相手のターン中に+3攻撃を持つ"
         },
         {
             "key": "card.waru_mount.text",
-            "value": "敵モンスターは攻撃力-1。\n<b>アクション:</b> 味方の攻撃力+1。"
+            "value": "敵モンスターは-1攻撃を持つ\n<b>アクション:</b> 同盟者に+1攻撃"
         },
         {
             "key": "card.water_token.text",
-            "value": "ウォータートークンを任意のウォーターカードと交換する"
+            "value": "水トークンを任意の水カードと交換する"
         },
         {
             "key": "card.wido.text",
-            "value": "<b>ターン終了:</b> 他にモンスターがいる場合、ステルスになる。"
+            "value": "<b>ターン終了:</b> 他のモンスターがゲーム中にある場合, ステルスに入る"
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>ターン終了:</b> 他にモンスターがいる場合、ステルスになる。"
+            "value": "威嚇\n<b>ターン終了:</b> 他のモンスターがゲーム中にある場合, ステルスに入る"
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>プレイ:</b> 墓地からモンスターを1体手札に加える。"
+            "value": "<b>プレイ: </b> 捨て札からモンスターを手札に戻す"
         },
         {
             "key": "card.woodost.text",
-            "value": "<b>プレイ:</b> 挑発またはフューリーを獲得"
+            "value": "<b>選択: </b> 挑発または激怒"
         },
         {
             "key": "card.worpi.text",
-            "value": "<b>プレイ:</b> 盤面の中で最も高いアーマー値をこのモンスターに適用する。"
+            "value": "<b>プレイ:</b> ゲーム中の最高のアーマー値をこのモンスターに適用する"
         },
         {
             "key": "card.worpow.text",
-            "value": "<b>プレイ:</b> 盤面の中で最も高いアーマー値をこのモンスターに適用する。"
+            "value": "<b>プレイ:</b> ゲーム中の最高のアーマー値をこのモンスターに適用する"
         },
         {
             "key": "card.woshi.text",
-            "value": "攻撃すると、1マナを獲得。"
+            "value": "攻撃時に1マナを得る"
         },
         {
             "key": "card.yachan.text",
-            "value": "<b>ロケーションディスカウント</b>: 同じエレメントタイプのロケーションは1マナ割引。"
+            "value": "<b>場所割引</b>: 同元素タイプの任意の場所はマナ割引1を持つ"
         },
         {
             "key": "card.yochan.text",
-            "value": "同じエレメントタイプのプレイ中のロケーションごとに+2 HP。"
+            "value": "ゲーム中の同元素タイプの場所カードごとに+2 HPを得る"
         },
         {
             "key": "card.zaphyra.text",
-            "value": "呪文無効\n攻撃されるとカードを1枚引く"
+            "value": "スペル免疫\n攻撃されたときにカードを1枚ドローする"
         },
         {
             "key": "card.zaphyra_full.text",
-            "value": "呪文無効\n攻撃されたときカードを1枚引く"
+            "value": "スペル免疫\n攻撃されたときにカードを1枚ドローする"
         },
         {
             "key": "card.zargon.text",
-            "value": "アビリティ無効\n 再生\n<b>プレイ:</b> 捨て札からカードを手札に加える。"
+            "value": "能力免疫 / 再生\n<b>プレイ: </b> 捨て札からカードを手札に戻す"
         },
         {
             "key": "card.zargon_full.text",
-            "value": "アビリティ無効\n 再生\n<b>プレイ:</b> 捨て札からカードを手札に加える。"
+            "value": "能力免疫 / 再生\n<b>プレイ: </b> 捨て札からカードを手札に追加する"
         },
         {
             "key": "card.zarpas.text",
-            "value": "挑発\n シェル"
+            "value": "シェル / 挑発"
         },
         {
             "key": "card.zenphire.text",
-            "value": "スペルダメージ +4。\n フライング"
+            "value": "飛行\nスペルダメージ+4"
         },
         {
             "key": "card.zenphire_full.text",
-            "value": "スペルダメージ+4。\nフライング"
+            "value": "飛行\nスペルダメージ+4"
         },
         {
             "key": "card.zeras.text",
-            "value": "<b>プレイ:</b> 呪い\n<b>プレイ:</b> ハジコを召喚する"
+            "value": "威嚇\n<b>プレイ:</b> 呪う\n<b>プレイ:</b> Hajikoを召喚する"
         },
         {
             "key": "card.ziraffe.text",
-            "value": "他のモンスターが死ぬたびカードを2枚引く。"
+            "value": "他のモンスターが死亡するたび, 2枚のカードをドローする"
         },
         {
             "key": "card.zithex.text",
-            "value": "<b>プレイ:</b> 対象モンスターの攻撃力を1にする。"
+            "value": "<b>プレイ:</b> 敵モンスターの攻撃を1に減らす"
         },
         {
             "key": "card.ziwing.text",
-            "value": "ヘイスト\nフライング"
+            "value": "ヘイスト / 飛行"
         },
         {
             "key": "card.zorni.text",
-            "value": "各ターン開始時に、1枚のカードを引く。"
+            "value": "威嚇\n各ターンの開始時にカードを1枚ドローする"
         },
         {
             "key": "card.zortan.text",
-            "value": "他の同盟レプタイルは+2攻撃を獲得。"
+            "value": "威嚇\n他のすべての同盟爬虫類 +2攻撃"
         }
     ]
 }

@@ -2,451 +2,475 @@
     "entries": [
         {
             "key": "card.alfrost.text",
-            "value": "Serbuan\nDapat +1/+1 saat sebuah kartu dibekukan."
+            "value": "SERBU\nDapatkan +1/+1 ketika kartu dibekukan"
         },
         {
             "key": "card.antairy.text",
-            "value": "Amukan"
+            "value": "Kemarahan\nHancurkan monster terbang target"
         },
         {
             "key": "card.armoru.text",
-            "value": "Setiap giliran, dapatkan +1 perisai."
+            "value": "Kemarahan\nPilihan: Provokasi atau +2 Armor"
         },
         {
             "key": "card.aros.text",
-            "value": "<b>Serang</b>: Kutuk monster target"
+            "value": "Intimidasi\n<b>Serang</b>: Kutuk monster target"
         },
         {
             "key": "card.astor.text",
-            "value": "Bunuh: Ambil satu kartu\nDi awal setiap giliran, dapatkan 1 perisai."
+            "value": "Di awal setiap giliran, dapatkan 1 armor"
         },
         {
             "key": "card.astroguin.text",
-            "value": "Provokasi\n<b>Mainkan:</b> Panggil Igloo dua kali.\nIgloo tak terkalahkan."
+            "value": "Provokasi\n<b>Mainkan:</b> Panggil igloo dua kali\nKetidakmampuan Igloo"
         },
         {
             "key": "card.bashker.text",
-            "value": "<b>Menghindari Perangkap:</b> Tidak memicu perangkap saat menyerang.\nDapatkan +1 kerusakan untuk tiap perangkap musuh di arena."
+            "value": "<b>Pengelakan Perangkap:</b> Tidak memicu perangkap saat menyerang\nDapatkan +1 kerusakan untuk setiap perangkap musuh dalam permainan"
         },
         {
             "key": "card.bashko.text",
-            "value": "<b>Menghindari Perangkap:</b> Tidak memicu perangkap saat menyerang."
+            "value": "<b>Pengelakan Perangkap:</b> Tidak memicu perangkap saat menyerang"
         },
         {
             "key": "card.bay.text",
-            "value": "Saat monster Air milikmu mati, ambil satu kartu."
+            "value": "Ketika monster Air yang Anda miliki mati, tarik kartu"
         },
         {
             "key": "card.boilin.text",
-            "value": "<b>Kematian:</b> Ambil satu kartu."
+            "value": "<b>Kematian:</b> Tarik kartu"
         },
         {
             "key": "card.bora.text",
-            "value": "Menyelinap"
+            "value": "Sembunyi"
         },
         {
             "key": "card.burnibu.text",
-            "value": "<b>Mainkan:</b> Buang satu kartu acak dari tanganmu lalu ambil dua kartu baru."
+            "value": "<b>Mainkan:</b> Buang kartu acak dari tangan Anda dan tarik dua kartu baru"
         },
         {
             "key": "card.burnion.text",
-            "value": "<b>Mainkan:</b> Monster target mendapat bakar dan menerima 2 kerusakan tiap giliran."
+            "value": "<b>Mainkan:</b> Bakar monster target"
         },
         {
             "key": "card.burny.text",
-            "value": "<b>Mainkan:</b> Buang satu kartu acak dari tangan pemain lalu ambil dua kartu baru."
+            "value": "<b>Mainkan:</b> Buang kartu acak dari tangan Anda dan tarik dua kartu"
         },
         {
             "key": "card.buumi.text",
-            "value": "Menyelinap"
+            "value": "<b>Mainkan:</b> Hancurkan semua perangkap musuh dan dapatkan +2/+2 untuk setiap perangkap yang dihancurkan"
         },
         {
             "key": "card.cabyron.text",
-            "value": "<b>Lempar:</b> Berikan +2 perisai kepada semua sekutu di arena. Menghabiskan 5 mana dan memakai aksi."
+            "value": "Provokasi\n<b>Kematian:</b> Panggil Cabyron dengan Kemarahan II"
+        },
+        {
+            "key": "card.cabyron_basic_copy.text",
+            "value": "Kemarahan II"
         },
         {
             "key": "card.cabyron_full.text",
-            "value": "<b>Lempar:</b> Berikan +2 perisai kepada semua sekutu di arena. Menghabiskan 5 mana dan memakai aksi."
+            "value": "Provokasi\n<b>Kematian:</b> Panggil Cabyron dengan Kemarahan II"
         },
         {
             "key": "card.cabywara.text",
-            "value": "Di awal setiap giliran, ambil 1 kartu"
+            "value": "Ketika menerima kerusakan dan bertahan, tarik kartu"
         },
         {
             "key": "card.cactoon.text",
-            "value": "Gesit"
+            "value": "Cepat"
         },
         {
             "key": "card.cactuzzi.text",
-            "value": "Jangkauan: Monster Terbang harus menargetkan monster ini."
+            "value": "Jangkauan: Monster terbang harus menargetkan monster ini"
         },
         {
             "key": "card.calfire.text",
-            "value": "Kerusakan mantra +1."
+            "value": "Kerusakan mantra +1"
         },
         {
             "key": "card.cheetula.text",
-            "value": "<b>Mainkan</b>: Panggil seekor bayi Jagur.\nSemua Kucing mendapat +1 serangan."
+            "value": "<b>Mainkan</b>: Panggil bayi Jagur\nSemua Kucing sekutu lainnya +1 serangan"
         },
         {
             "key": "card.chewanha.text",
-            "value": "<b>Bunuh:</b> Ambil dua kartu."
+            "value": "<b>Bunuh:</b> Tarik dua kartu"
+        },
+        {
+            "key": "card.chocosaur.text",
+            "value": "Cangkang\nKemarahan II"
         },
         {
             "key": "card.clampion.text",
-            "value": "Tantang\nCangkang"
+            "value": "Cangkang / Provokasi"
         },
         {
             "key": "card.coin.text",
-            "value": "Dapatkan 1 mana."
+            "value": "Dapatkan 1 mana"
         },
         {
             "key": "card.cryonix.text",
-            "value": "<b>Mainkan:</b> Bekukan semua monster musuh dengan 4 atau kurang serangan.\nTerbang"
+            "value": "Terbang\n<b>Mainkan:</b> Bekukan semua monster musuh yang memiliki 4 atau kurang serangan"
         },
         {
             "key": "card.cyowl.text",
-            "value": "<b>Mainkan:</b> Bekukan satu monster musuh dengan 4 atau kurang serangan.\nTerbang"
+            "value": "Terbang\n<b>Mainkan:</b> Bekukan monster musuh dengan 4 atau kurang serangan"
         },
         {
             "key": "card.cypha.text",
-            "value": "Menyelinap"
+            "value": "Intimidasi / Sembunyi"
         },
         {
             "key": "card.cypha_full.text",
-            "value": "Menyelinap"
+            "value": "Intimidasi / Sembunyi"
         },
         {
             "key": "card.darcelia.text",
-            "value": "<b>Mainkan:</b> Kutuk."
+            "value": "Intimidasi\n<b>Mainkan:</b> Kutuk monster target"
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>Mainkan:</b> Kutuk semua monster di papan."
+            "value": "Intimidasi\n<b>Mainkan</b>: Kutuk semua monster dalam permainan"
         },
         {
             "key": "card.devastor.text",
-            "value": "Kebal Mantra / Cangkang\n<b>Mainkan:</b> Beri 2 kerusakan ke semua hal"
+            "value": "Imunitas Mantra / Cangkang\n<b>Mainkan:</b> Berikan 2 kerusakan pada segalanya yang lain"
         },
         {
             "key": "card.devastor_full.text",
-            "value": "Kebal Mantra / Cangkang\n<b>Mainkan:</b> Beri 2 kerusakan ke semua hal"
+            "value": "Imunitas Mantra / Cangkang\n<b>Mainkan:</b> Berikan 2 kerusakan pada segalanya yang lain"
         },
         {
             "key": "card.djinnas.text",
-            "value": "<b>Mainkan:</b> Tukar monster ini dengan monster musuh yang memiliki biaya 7 mana atau kurang."
+            "value": "<b>Mainkan:</b> Tukar monster ini dengan monster musuh yang memiliki biaya 7 atau kurang mana"
         },
         {
             "key": "card.djune.text",
-            "value": "<b>Mainkan:</b> Tukar monster ini dengan monster musuh yang memiliki biaya 3 mana atau kurang."
+            "value": "<b>Mainkan:</b> Tukar monster ini dengan monster musuh yang memiliki biaya 3 atau kurang mana"
         },
         {
             "key": "card.dobash.text",
-            "value": "Tantang"
+            "value": "Provokasi"
         },
         {
             "key": "card.dofurious.text",
-            "value": "Kebal Kemampuan\nGempur"
+            "value": "Imunitas Kemampuan / Injak"
         },
         {
             "key": "card.dolvi.text",
-            "value": "<b>Mainkan:</b> Racuni satu monster target"
+            "value": "Intimidasi\n<b>Mainkan:</b> Racuni monster target"
         },
         {
             "key": "card.domumu.text",
-            "value": "<b>Mainkan:</b> Berikan +2/2 sampai akhir giliran"
+            "value": "<b>Mainkan:</b> Berikan +2/+2 pada monster hingga giliran berikutnya Anda"
         },
         {
             "key": "card.doshoto.text",
-            "value": "<b>Serang:</b> Lempar D6, pada 4+ dapatkan +3 serangan sampai akhir giliran."
+            "value": "<b>Serang:</b>Gulung D6, pada 4+ dapatkan +3 serangan hingga akhir giliran"
         },
         {
             "key": "card.dothrow.text",
-            "value": "Tantang"
+            "value": "Provokasi"
         },
         {
             "key": "card.dracon.text",
-            "value": "Injak\nTerbang"
+            "value": "Injak / Terbang"
         },
         {
             "key": "card.dragin.text",
-            "value": "Amukan"
+            "value": "Kemarahan"
         },
         {
             "key": "card.dragon_egg.text",
-            "value": "Temukan seekor Naga."
+            "value": "Cari naga dari deck Anda"
         },
         {
             "key": "card.dragulp.text",
-            "value": "Tantang"
+            "value": "Provokasi"
         },
         {
             "key": "card.drion.text",
-            "value": "<b>Mainkan:</b> Bungkam monster target, lalu kutuk monster target"
+            "value": "Intimidasi\n<b>Mainkan</b>: Diamkan monster target, kutuk monster target"
         },
         {
             "key": "card.dryaow.text",
-            "value": "<b>Mainkan:</b> Kutuk semua monster di papan"
+            "value": "Intimidasi\n<b>Mainkan</b>: Kutuk semua monster dalam permainan"
         },
         {
             "key": "card.dulster.text",
-            "value": "<b>Serang</b>: Kutuk dan racuni monster target"
+            "value": "Intimidasi\n<b>Serang</b>: Kutuk dan racuni monster target"
         },
         {
             "key": "card.electric_token.text",
-            "value": "Tukar Token Listrik dengan satu Kartu Listrik apa pun"
+            "value": "Tukar Token Listrik dengan Kartu Listrik apa pun"
         },
         {
             "key": "card.electric_town.text",
-            "value": "Semua monster Listrik biayanya 2 mana lebih murah (termasuk milik musuh)"
+            "value": "Semua monster Listrik biaya 2 mana lebih rendah (termasuk musuh)"
         },
         {
             "key": "card.elegat.text",
-            "value": "<b>Mainkan:</b> Lawan membuang satu kartu acak"
+            "value": "<b>Mainkan:</b> Lawan buang kartu acak"
+        },
+        {
+            "key": "card.emberstorm.text",
+            "value": "Saat dimainkan dan di awal setiap giliran Anda, bakar semua monster non-api lainnya di papan"
+        },
+        {
+            "key": "card.emberstorm_full.text",
+            "value": "Saat dimainkan dan di awal setiap giliran Anda, bakar semua monster non-api lainnya di papan"
         },
         {
             "key": "card.envish.text",
-            "value": "<b>Mainkan:</b> Hancurkan monster dengan 3 atau kurang serangan."
+            "value": "<b>Mainkan:</b> Hancurkan monster dengan 3 atau kurang serangan"
         },
         {
             "key": "card.equip_psychic_ring.text",
-            "value": "Di awal setiap giliran, perlihatkan tangan lawan. Bertahan hingga 3 giliran. "
+            "value": "Di awal setiap giliran, ungkap tangan lawan."
         },
         {
             "key": "card.equip_shield.text",
-            "value": "Pembawa mendapat 2 perisai dan tantang."
+            "value": "Pemakai mendapatkan 2 armor dan provokasi"
         },
         {
             "key": "card.equip_sword_fire.text",
-            "value": "Serangan +1.\nPembawa tidak menerima kerusakan saat menyerang."
+            "value": "Serangan +1\nPemakai tidak menerima kerusakan saat menyerang"
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "Serangan +2\nBertahan selama dua serangan"
+            "value": "Serangan pemakai sama dengan HP saat ini"
         },
         {
             "key": "card.equip_water_ring.text",
-            "value": "Dapatkan 2 mana tambahan setiap giliran selama 4 giliran."
+            "value": "Dapatkan 2 mana ekstra per giliran."
         },
         {
             "key": "card.espe.text",
-            "value": "Kendalikan pikiran monster musuh target dengan biaya 5+ mana hingga monster itu meninggalkan papan"
+            "value": "<b>Mainkan:</b> Kontrol Pikiran pada monster musuh dengan biaya mana 5+"
         },
         {
             "key": "card.evira.text",
-            "value": "<b>Mainkan:</b> Berikan +2/2.\nSembuhkan pemain saat memberikan kerusakan."
+            "value": "Curian Hidup\n<b>Mainkan:</b> Berikan +2/+2 pada monster hingga giliran berikutnya Anda"
         },
         {
             "key": "card.exord.text",
-            "value": "<b>Mainkan:</b> Beri 2 kerusakan ke semua."
+            "value": "<b>Mainkan:</b> Berikan 2 kerusakan pada semua kartu lainnya dalam permainan"
         },
         {
             "key": "card.ezonea.text",
-            "value": "<b>Mainkan:</b> Kendalikan pikiran monster musuh dengan 5 atau kurang serangan"
+            "value": "<b>Mainkan:</b> Kontrol Pikiran pada monster musuh dengan 5 atau kurang serangan"
         },
         {
             "key": "card.fire_token.text",
-            "value": "Tukar Token Api dengan satu Kartu Api apa pun"
+            "value": "Tukar Token Api dengan Kartu Api apa pun"
         },
         {
             "key": "card.flamitto.text",
-            "value": "<b>Serang:</b> Bakar monster musuh. Mereka kehilangan 2 HP tiap giliran."
+            "value": "<b>Serang:</b> Bakar monster target"
         },
         {
             "key": "card.flifi.text",
-            "value": "<b>Mainkan:</b> Kendalikan pikiran monster target yang biayanya 2 mana atau kurang."
+            "value": "<b>Mainkan:</b> Kontrol Pikiran pada monster musuh dengan biaya mana 2 atau kurang"
         },
         {
             "key": "card.flozo.text",
-            "value": "<b>Mainkan:</b> Kendalikan pikiran monster target dengan 3 atau kurang serangan"
+            "value": "<b>Mainkan:</b> Kontrol Pikiran pada monster musuh dengan 3 atau kurang serangan"
         },
         {
             "key": "card.froggyo.text",
-            "value": "<b>Mainkan:</b> Pilih satu monster target dari kedua sisi dengan biaya 2 mana atau kurang, lalu kirim ke pemain lain."
+            "value": "Ketika lawan buang mantra, buat salinan di tangan Anda\n"
         },
         {
             "key": "card.frojest.text",
-            "value": "Saat lawan membuang kartu monster, monster ini menjadi salinan dari monster yang dibuang."
+            "value": "Ketika lawan buang monster, monster ini menjadi salinan monster yang dibuang"
         },
         {
             "key": "card.frojesti.text",
-            "value": "Saat lawan membuang kartu mantra, buat salinan berbiaya nol di tanganmu.\n"
+            "value": "Ketika lawan buang karakter, buat salinan dengan biaya nol mana di tangan Anda\n"
+        },
+        {
+            "key": "card.frojesti_full.text",
+            "value": "Ketika lawan buang karakter, buat salinan dengan biaya nol mana di tangan Anda\n"
         },
         {
             "key": "card.froster.text",
-            "value": "Serbuan\nDapat +1/+1 saat monster dibekukan."
+            "value": "SERBU\nDapatkan +1/+1 ketika monster dibekukan"
         },
         {
             "key": "card.galasu.text",
-            "value": "Dapat Imunitas Sihir atau Imunitas Kemampuan\nAbaikan Provokasi"
+            "value": "Terbang\nPilihan: Imunitas Mantra atau Imunitas Kemampuan"
         },
         {
             "key": "card.galasu_full.text",
-            "value": "Dapat Imunitas Sihir atau Imunitas Kemampuan\nAbaikan Provokasi"
+            "value": "Terbang\nPilihan: Imunitas Mantra atau Imunitas Kemampuan"
         },
         {
             "key": "card.gamud.text",
-            "value": "Di awal setiap giliran, ambil 1 kartu"
+            "value": "Ketika menerima kerusakan dan bertahan, tarik kartu"
         },
         {
             "key": "card.gargarm.text",
-            "value": "Setelah memainkan sihir, dapat +2 serangan.\nTerbang"
+            "value": "Terbang\nSetelah mainkan mantra, dapatkan +2 serangan"
         },
         {
             "key": "card.gargoli.text",
-            "value": "Setelah memainkan sebuah mantra, dapatkan +2 serangan."
+            "value": "Setelah mainkan mantra, dapatkan +2 serangan"
         },
         {
             "key": "card.geister.text",
-            "value": "<b>Serang:</b> Kutuk dan Racuni"
+            "value": "Intimidasi\n<b>Serang</b>: Kutuk dan racuni monster target"
         },
         {
             "key": "card.gemash.text",
-            "value": "Setiap giliran, dapatkan +1 perisai."
+            "value": "Pilihan: Provokasi atau +2 Armor"
         },
         {
             "key": "card.gizap.text",
-            "value": "Saat monster lain mati, ambil 1 kartu."
+            "value": "Setiap kali monster lain mati, tarik kartu"
         },
         {
             "key": "card.gizord.text",
-            "value": "Gesit"
+            "value": "Cepat"
+        },
+        {
+            "key": "card.gizord_full.text",
+            "value": "Cepat"
         },
         {
             "key": "card.glidara.text",
-            "value": "Pilihan: Provokasi atau Serbuan\n<b>Kematian:</b> Panggil sebuah Igloo."
+            "value": "Pilihan: Provokasi atau Serbu\n<b>Kematian:</b> Panggil Igloo"
         },
         {
             "key": "card.glummy.text",
-            "value": "<b>Serang:</b> Racun.\nTerbang"
+            "value": "Terbang\n<b>Serang:</b> Racuni monster target"
         },
         {
             "key": "card.gluttrats.text",
-            "value": "Setelah memainkan sebuah mantra, dapatkan +2 serangan."
+            "value": "Setelah mainkan mantra, dapatkan +2 serangan"
         },
         {
             "key": "card.goldape.text",
-            "value": "Di awal setiap giliran, dapatkan +1 serangan."
+            "value": "Di awal setiap giliran, dapatkan +1 serangan"
         },
         {
             "key": "card.gookie.text",
-            "value": "Cangkang"
+            "value": "Provokasi\n<b>Mainkan:</b> +1 Armor"
         },
         {
             "key": "card.gorupt.text",
-            "value": "<b>Mainkan:</b> Beri 2 kerusakan ke semua."
+            "value": "<b>Mainkan:</b> Berikan 2 kerusakan pada semua kartu lainnya dalam permainan"
         },
         {
             "key": "card.gracelia.text",
-            "value": "<b>Mainkan:</b> Sembuhkan monster dari semua efek negatif dan beri +2 HP"
+            "value": "<b>Mainkan:</b> Sembuhkan monster dari semua efek negatif dan berikan +2 HP"
         },
         {
             "key": "card.graceliaex.text",
-            "value": "<b>Lempar (2):</b> Sembuhkan pemain sebesar 3 HP. "
+            "value": "<b>Aksi (2):</b> Sembuhkan pemain 3 HP"
         },
         {
             "key": "card.grandcelia.text",
-            "value": "<b>Mainkan:</b> Berikan +2/2.\n<b>Aksi:</b> Pantulkan."
+            "value": "<b>Mainkan:</b> Berikan +2/+2\n<b>Aksi:</b> Pantul."
         },
         {
             "key": "card.grocelia.text",
-            "value": "<b>Mainkan:</b> Bungkam kartu target."
+            "value": "<b>Mainkan:</b> Diamkan monster target"
         },
         {
             "key": "card.gruthor.text",
-            "value": "<b>Provokasi</b>\n<b>Tiap giliran:</b> Bunuh monster dengan serangan terendah.\n"
+            "value": "<b>Provokasi</b>\nKetika menerima kerusakan dan bertahan, berikan +1 armor pada semua monster batu sekutu"
         },
         {
             "key": "card.hajiko.text",
-            "value": "<b>Mainkan:</b> Tambahkan Kutukan Penderitaan ke monster"
+            "value": "Intimidasi\n<b>Mainkan:</b> Tambahkan Kutuk Penderitaan pada monster"
         },
         {
             "key": "card.hammar.text",
-            "value": "Amukan\nSetiap giliran, dapatkan +1 perisai."
+            "value": "Kemarahan\n<b>Mainkan:</b> Dapatkan 1 armor\nSetelah serang pemain musuh, tarik kartu mantra batu dari deck Anda"
         },
         {
             "key": "card.hammark.text",
-            "value": "Saat monster lain mati, ambil 1 kartu.\nKebal kehilangan serangan"
+            "value": "Imunitas Kehilangan Serangan\nSetiap kali monster lain mati, tarik kartu"
         },
         {
             "key": "card.hammi.text",
-            "value": "<b>Kematian:</b> Ambil satu kartu."
+            "value": "Kemarahan III"
         },
         {
             "key": "card.hammiexplorer.text",
-            "value": "<b>Giliran:</b> Ambil satu kartu."
+            "value": "Kemarahan\nSetelah serang pemain musuh, tarik kartu mantra batu dari deck Anda"
         },
         {
             "key": "card.hammish.text",
-            "value": "Saat monster lain mati, ambil 1 kartu."
+            "value": "Setiap kali monster lain mati, tarik kartu"
         },
         {
             "key": "card.hato.text",
-            "value": "Dapatkan Cangkang setiap kali kamu memanggil lokasi.\nDapat +1/+1 jika ada lokasi es di arena."
+            "value": "Dapatkan cangkang setiap kali panggil lokasi\nDapatkan +1/+1 jika lokasi es dalam permainan"
         },
         {
             "key": "card.headrac.text",
-            "value": "Setiap giliran, dapatkan +1 serangan."
+            "value": "Setiap giliran, dapatkan +1 serangan"
         },
         {
             "key": "card.heara.text",
-            "value": "<b>Mainkan:</b> Serangan monster target dikurangi menjadi 1."
+            "value": "<b>Mainkan:</b> Serangan monster musuh target dikurangi menjadi 1"
         },
         {
             "key": "card.hero_electric.text",
-            "value": "Peri Fracctal Listrik kuno yang memberi gesit kepada monster listrik"
+            "value": "Peri Fracctal Listrik kuno yang memberikan cepat pada monster listrik"
         },
         {
             "key": "card.hero_fire.text",
-            "value": "Peri Fracctal Api kuno yang dapat memberikan 1 kerusakan ke kartu atau pemain mana pun."
+            "value": "Peri Fracctal Api kuno yang bisa memberikan 1 kerusakan pada kartu atau pemain apa pun"
         },
         {
             "key": "card.hero_ice.text",
-            "value": "Peri Fracctal Es kuno yang dapat membekukan kartu apa pun selama 1 giliran."
+            "value": "Peri Fracctal Es kuno yang bisa membekukan kartu apa pun selama 1 giliran"
         },
         {
             "key": "card.hero_plant.text",
-            "value": "Peri Fracctal Tumbuhan kuno yang menyembuhkan karakter dan pemain sebesar 2 HP"
+            "value": "Peri Fracctal Tanaman kuno yang menyembuhkan karakter dan pemain sebanyak 2 HP"
         },
         {
             "key": "card.hero_psychic.text",
-            "value": "Peri Fracctal Psikis kuno yang dapat memaksa lawanmu membuang satu kartu dari tangannya"
+            "value": "Peri Fracctal Psikis kuno yang memaksa lawan membuang kartu dari tangannya"
         },
         {
             "key": "card.hero_rock.text",
-            "value": "Peri Fracctal Batu kuno yang memberi +1 Perisai pada kartu mana pun di papan. "
+            "value": "Peri Fracctal Batu kuno yang memberikan +1 Armor pada kartu apa pun di papan"
         },
         {
             "key": "card.hero_shadow.text",
-            "value": "Peri Fracctal Bayangan kuno yang dapat mengutuk kartu apa pun di arena. "
+            "value": "Peri Fracctal Bayangan kuno yang bisa mengutuk kartu apa pun dalam permainan"
         },
         {
             "key": "card.hero_water.text",
-            "value": "Peri Fracctal Air kuno yang memungkinkan pemain mengambil satu kartu tambahan. "
+            "value": "Peri Fracctal Air kuno yang memungkinkan pemain menarik kartu ekstra"
         },
         {
             "key": "card.hippoh.text",
-            "value": "<b>Serang:</b> Bakar musuh. Mereka kehilangan 2 HP tiap giliran."
+            "value": "<b>Serang:</b> Bakar monster target"
         },
         {
             "key": "card.hito.text",
-            "value": "<b>Mainkan:</b> Ambil satu kartu.\nDapat +1/+1 jika ada lokasi es di arena."
+            "value": "<b>Kematian:</b> Tarik kartu\nDapatkan +1/+1 jika lokasi es dalam permainan"
         },
         {
             "key": "card.ice_token.text",
-            "value": "Tukar Token Es dengan satu Kartu Es apa pun"
+            "value": "Tukar Token Es dengan Kartu Es apa pun"
         },
         {
             "key": "card.ice_town_igloo.text",
-            "value": "Jika HP 2+ semua monster Es sekutu mendapat +0/+1\nJika HP 4+ semua monster Es sekutu mendapat +1/+0\nJika HP 6+ semua kartu Es di tangan berkurang 1 biaya."
+            "value": "Jika HP 2+ semua monster es sekutu dapatkan +0/+1\nJika HP 4+ semua monster es sekutu dapatkan +1/+0\nJika HP 6+ semua kartu Es biaya 1 lebih rendah dari tangan"
         },
         {
             "key": "card.ignitas.text",
-            "value": "Amukan"
+            "value": "Kemarahan"
         },
         {
             "key": "card.igniti.text",
-            "value": "<b>Kematian:</b> Beri 2 kerusakan ke pemain musuh."
+            "value": "<b>Kematian:</b> Berikan 2 kerusakan pada pemain musuh"
         },
         {
             "key": "card.insha.text",
@@ -454,87 +478,91 @@
         },
         {
             "key": "card.inuk.text",
-            "value": "Abaikan Tantang"
+            "value": "Terbang"
         },
         {
             "key": "card.kincactuz.text",
-            "value": "<b>Mainkan:</b> Dapatkan Tantang atau Amukan"
+            "value": "<b>Pilihan</b>: Provokasi atau Kemarahan"
         },
         {
             "key": "card.kinfish.text",
-            "value": "<b>Bunuh:</b> Ambil dua kartu.\n<b>Kematian:</b> Ambil satu kartu."
+            "value": "<b>Bunuh:</b> Tarik dua kartu\n<b>Kematian:</b> Tarik kartu"
         },
         {
             "key": "card.kuraigar.text",
-            "value": "Memiliki +3 serangan saat giliran lawan."
+            "value": "Memiliki +3 serangan selama giliran lawan"
         },
         {
             "key": "card.kuraigor.text",
-            "value": "Cangkang\nTantang"
+            "value": "Cangkang / Provokasi"
         },
         {
             "key": "card.lala.text",
-            "value": "<b>Serang:</b> Racun."
+            "value": "<b>Serang:</b> Racuni target"
         },
         {
             "key": "card.lampi.text",
-            "value": "Serbuan\nTerbang"
+            "value": "Cepat / Terbang"
         },
         {
             "key": "card.lizordo.text",
-            "value": "Sentuhan Kematian"
+            "value": "Sentuhan Mati"
         },
         {
             "key": "card.lizoru.text",
-            "value": "<b>Mainkan</b>: Panggil seekor Lizo\nSemua Reptil mendapat +1 serangan."
+            "value": "<b>Mainkan</b>: Panggil Lizo\nSemua reptil sekutu lainnya +1 serangan"
         },
         {
             "key": "card.lizorus.text",
-            "value": "<b>Mainkan</b>: Panggil seekor Lizo\nSemua Reptil mendapat +2 serangan."
+            "value": "<b>Mainkan</b>: Panggil Lizo\nSemua reptil sekutu lainnya +2 serangan"
         },
         {
             "key": "card.lizorus_full.text",
-            "value": "<b>Mainkan</b>: Panggil seekor Lizo\nSemua Reptil mendapat +2 serangan."
+            "value": "<b>Mainkan</b>: Panggil Lizo\nSemua reptil sekutu lainnya +2 serangan"
         },
         {
             "key": "card.lizteel.text",
-            "value": "Tantang"
+            "value": "Kemarahan II"
         },
         {
             "key": "card.loneguin.text",
-            "value": "Provokasi\n<b>Kematian:</b> Panggil sebuah Igloo."
+            "value": "Provokasi\n<b>Kematian:</b> Panggil Igloo"
         },
         {
             "key": "card.lumini.text",
-            "value": "<b>Mainkan:</b> Panggil sebuah Iglu\nTerbang"
+            "value": "<b>Mainkan:</b> Panggil Igloo\nTerbang"
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>Mainkan:</b> Beri +2/+2.\nTerbang"
+            "value": "<b>Mainkan:</b> Berikan +2/+2\nTerbang"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Mainkan:</b> Panggil Igloo dua kali dan bekukan satu monster musuh dengan 3 atau kurang serangan\nTerbang"
+            "value": "<b>Mainkan:</b> Panggil igloo dua kali dan bekukan monster musuh dengan serangan 3 atau kurang\nTerbang"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>Mainkan:</b> Beri +2/+2\n<b>Mainkan:</b> Sembuhkan pemain 4 HP\nTerbang"
+            "value": "<b>Mainkan:</b> Berikan +2/+2\n<b>Mainkan:</b> Sembuhkan pemain 4 HP\nTerbang"
+        },
+        {
+            "key": "card.lurian_full.text",
+            "value": "<b>Mainkan:</b> Berikan +2/+2\n<b>Mainkan:</b> Sembuhkan pemain 4 HP\nTerbang"
         },
         {
             "key": "card.marshland.text",
-            "value": "<b>Awal giliran: </b>Semua kartu Tumbuhan pulih 3 HP."
+            "value": "<b>Awal Giliran: </b>Semua kartu Tanaman sekutu sembuh 3 HP"
         },
         {
             "key": "card.meruza.text",
-            "value": "Semua karakter musuh memiliki -2 serangan."
+            "value": "Semua karakter musuh memiliki -2 serangan"
         },
         {
             "key": "card.mighto.text",
-            "value": "<b>Mainkan:</b> Dapat +1 serangan untuk tiap Iglu yang sudah kamu panggil di permainan ini.\nDapatkan Cangkang setiap kali kamu memanggil lokasi\nCangkang\n"
+            "value": "<b>Mainkan:</b> Dapatkan +1 serangan per Igloo yang dipanggil permainan ini\nDapatkan cangkang ketika panggil lokasi\nCangkang"
         },
         {
             "key": "card.mimi.text",
-            "value": "Di awal giliranmu, monster ini pulih sepenuhnya."
+            "value": "Regenerasi"
         },
         {
             "key": "card.minask.text",
@@ -542,19 +570,19 @@
         },
         {
             "key": "card.miraibow.text",
-            "value": "Saat monster lain mati, ambil 2 kartu."
+            "value": "Setiap kali monster lain mati, tarik 2 kartu"
         },
         {
             "key": "card.mirion.text",
-            "value": "Saat monster lain mati, ambil 2 kartu."
+            "value": "Setiap kali monster lain mati, tarik 2 kartu"
         },
         {
             "key": "card.momburn.text",
-            "value": "Kerusakan mantra +2.\n<b>Serang:</b> Bakar kartu yang diserang."
+            "value": "Kerusakan mantra +2\n<b>Serang:</b> Bakar monster target"
         },
         {
             "key": "card.mongold.text",
-            "value": "Di awal setiap giliran, dapatkan +2 serangan."
+            "value": "Setiap giliran, dapatkan +2 serangan"
         },
         {
             "key": "card.mosastrus.text",
@@ -562,7 +590,7 @@
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>Mainkan:</b> Kendalikan pikiran monster musuh target dengan biaya 3 mana atau kurang"
+            "value": "<b>Mainkan:</b> Kontrol Pikiran pada monster musuh dengan 3 atau kurang mana"
         },
         {
             "key": "card.mosheedark.text",
@@ -570,191 +598,199 @@
         },
         {
             "key": "card.mosslug.text",
-            "value": "Gempur"
+            "value": "Injak"
         },
         {
             "key": "card.mosslug_full.text",
-            "value": "Gempur"
+            "value": "Injak"
         },
         {
             "key": "card.mountough.text",
-            "value": "Kerusakan berlebih menyembuhkan HP monster ini sebesar selisihnya"
+            "value": "<b>Mainkan:</b> Dapatkan 3 armor\nDi akhir giliran tarik 1 kartu"
+        },
+        {
+            "key": "card.mountough_full.text",
+            "value": "<b>Mainkan:</b> Dapatkan 3 armor\nDi akhir giliran tarik 1 kartu"
         },
         {
             "key": "card.muni.text",
-            "value": "Saat dimainkan, perlihatkan tangan lawan dan ambil 1 kartu"
+            "value": "<b>Mainkan:</b> Ungkap tangan lawan dan tarik 1 kartu"
         },
         {
             "key": "card.murple.text",
-            "value": "Di awal giliranmu, monster ini pulih sepenuhnya."
+            "value": "Regenerasi"
         },
         {
             "key": "card.nadzu.text",
-            "value": "Amukan"
+            "value": "Kemarahan\nKemarahan"
         },
         {
             "key": "card.nhomnhom.text",
-            "value": "Saat menyerang dapatkan 2 mana."
+            "value": "Saat menyerang, dapatkan 2 mana"
         },
         {
             "key": "card.nobu.text",
-            "value": "Saat dimainkan, beri +2 HP pada monster lain hingga giliranmu berikutnya."
+            "value": "Provokasi\nMenerima maksimal 2 kerusakan per serangan/kontra serangan"
         },
         {
             "key": "card.nophulos.text",
-            "value": "Amukan"
+            "value": "Kemarahan / SERBU\nKemarahan"
         },
         {
             "key": "card.numind.text",
-            "value": "<b>Mainkan:</b> Perlihatkan tangan lawan\n<b>Aksi:</b> Buang satu kartu acak dari tangan lawan yang biayanya 3 mana atau kurang. Menghabiskan 2 mana. "
+            "value": "<b>Mainkan:</b> Ungkap tangan lawan\n<b>Aksi (2):</b> Buang kartu acak dari tangan lawan dengan biaya 3 atau kurang mana"
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>Akhir giliran:</b> Masuk menyelinap jika kamu memiliki monster lain."
+            "value": "<b>Akhir Giliran:</b> Masuk sembunyi jika Anda memiliki monster lain dalam permainan"
         },
         {
             "key": "card.operant.text",
-            "value": "<b>Mainkan:</b> Beri 1 kerusakan."
+            "value": "Kemarahan\n<b>Mainkan:</b> Berikan 1 kerusakan pada semua kartu dalam permainan"
         },
         {
             "key": "card.ophala.text",
-            "value": "Memiliki +3 serangan saat giliran lawan.\nTantang"
+            "value": "Memiliki +3 serangan selama giliran lawan\nProvokasi"
         },
         {
             "key": "card.ophalant.text",
-            "value": "Memiliki +3 serangan saat giliran lawan.\nTantang / Cangkang"
+            "value": "Memiliki +3 serangan selama giliran lawan\nProvokasi / Cangkang"
+        },
+        {
+            "key": "card.ophalant_full.text",
+            "value": "Memiliki +3 serangan selama giliran lawan\nProvokasi / Cangkang"
         },
         {
             "key": "card.oritoro.text",
-            "value": "Saat menyerang, lempar D6. Pada 4+ dapatkan +3 serangan."
+            "value": "Gulung D6, pada 4+ dapatkan +3 serangan hingga akhir giliran"
         },
         {
             "key": "card.owind.text",
-            "value": "Kebal Mantra\nAbaikan Tantang\n<b>Mainkan: </b> Bekukan satu target"
+            "value": "Imunitas Mantra\nAbaikan provokasi\n<b>Mainkan: </b> Bekukan target"
         },
         {
             "key": "card.owind_full.text",
-            "value": "Kebal Sihir\nAbaikan Provokasi\n<b>Mainkan: </b> Bekukan target"
+            "value": "Imunitas Mantra\nAbaikan provokasi\n<b>Mainkan: </b> Bekukan target"
         },
         {
             "key": "card.peafan.text",
-            "value": "<b>Mainkan:</b> Hancurkan monster dengan 4 atau kurang serangan."
+            "value": "<b>Mainkan:</b> Hancurkan monster dengan 4 atau kurang serangan"
         },
         {
             "key": "card.peafan_egg.text",
-            "value": "Setelah 3 giliran, berubah menjadi Peafan.\nPanggil Igloo."
+            "value": "Berubah menjadi Peafan setelah 3 giliran\nPanggil Igloo"
         },
         {
             "key": "card.peako.text",
-            "value": "<b>Mainkan:</b> Panggil sebuah Iglu.\nJika kamu sudah punya Iglu, ambil satu kartu."
+            "value": "<b>Mainkan:</b> Panggil Igloo\nJika sudah memiliki Igloo, tarik kartu"
         },
         {
             "key": "card.perllusion.text",
-            "value": "Menyelinap\n<b>Mainkan:</b> Lawan membuang satu kartu acak\nDapatkan +1 serangan saat lawan membuang kartu"
+            "value": "Sembunyi\n<b>Mainkan:</b> Lawan buang kartu acak\nKetika lawan buang, dapatkan +1 Serangan"
         },
         {
             "key": "card.petami.text",
-            "value": "Di awal giliranmu, monster ini pulih sepenuhnya."
+            "value": "Regenerasi"
         },
         {
             "key": "card.petili.text",
-            "value": "Saat dimainkan, beri +2/+2 pada monster lain hingga giliranmu berikutnya."
+            "value": "<b>Mainkan:</b> Berikan +2/+2 pada monster lain hingga giliran berikutnya Anda"
         },
         {
             "key": "card.phanti.text",
-            "value": "Setiap kali karakter lain mati, ambil 1 kartu."
+            "value": "Setiap kali monster lain mati, tarik 1 kartu"
         },
         {
             "key": "card.phyra.text",
-            "value": "<b>Lempar (3):</b> Beri 2 kerusakan.\n<b>Kematian:</b> Panggil sebuah telur."
+            "value": "<b>Aksi (3):</b> Berikan 2 kerusakan\n<b>Kematian:</b> Panggil telur Phyra"
         },
         {
             "key": "card.phyra_egg.text",
-            "value": "Setelah 3 giliran, berubah menjadi Phyra."
+            "value": "Berubah menjadi Phyra setelah 3 giliran"
         },
         {
             "key": "card.phyrox.text",
-            "value": "<b>Lempar (2):</b> Lempar D6, pada 4+ kembalikan target ke tangan."
+            "value": "<b>Aksi (2):</b> Gulung D6, pada 4+ kembalikan target ke tangan pemiliknya"
         },
         {
             "key": "card.picko.text",
-            "value": "<b>Mainkan:</b> Beri 1 kerusakan."
+            "value": "<b>Mainkan:</b> Berikan 1 kerusakan pada diri sendiri, lalu berikan 1 kerusakan pada monster target apa pun"
         },
         {
             "key": "card.plant_token.text",
-            "value": "Tukar Token Tumbuhan dengan satu Kartu Tumbuhan apa pun"
+            "value": "Tukar Token Tanaman dengan Kartu Tanaman apa pun"
         },
         {
             "key": "card.plator.text",
-            "value": "Saat kamu membunuh monster lain dengan monster ini, ambil 2 kartu."
+            "value": "Cangkang\nSetiap giliran, dapatkan +1 armor"
         },
         {
             "key": "card.polip.text",
-            "value": "<b>Mainkan:</b> Berikan +2 HP"
+            "value": "<b>Mainkan:</b> Berikan +2 HP pada monster target hingga giliran berikutnya Anda"
         },
         {
             "key": "card.potion_electric.text",
-            "value": "Monster target mendapat Amukan. Ia dapat menyerang dua kali per giliran."
+            "value": "Target dapatkan Kemarahan"
         },
         {
             "key": "card.potion_fire.text",
-            "value": "Target mendapat +1 serangan dan amukan."
+            "value": "Target dapatkan +1 serangan dan kemarahan"
         },
         {
             "key": "card.potion_green.text",
-            "value": "Target diselimuti aroma manis, mendapatkan +2 HP dan Tantang."
+            "value": "Target dibungkus aroma manis, dapatkan +2 HP dan Provokasi"
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Turunkan penghitung evolusi monster Es sebanyak 1; jika mencapai 0 ia akan berevolusi. "
+            "value": "Kurangi penghitung evolusi monster es sebesar 1, jika mencapai 0 evolusi"
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Kendalikan pikiran monster di papan dengan biaya 3 mana atau kurang selama 1 giliran. Target mendapat Serbuan. "
+            "value": "Kontrol Pikiran pada monster musuh dengan biaya 3 atau kurang mana selama 1 giliran, dapatkan Cepat"
         },
         {
             "key": "card.potion_rock.text",
-            "value": "Target mendapat perisai 2 yang mengurangi 2 kerusakan langsung dari monster."
+            "value": "Target dapatkan Provokasi tapi tidak bisa serang"
         },
         {
             "key": "card.potion_shadow.text",
-            "value": "Target mendapat Kutukan Penderitaan yang menyebabkan 3 kerusakan setiap kali menyerang."
+            "value": "Target dapatkan Kutuk Penderitaan, menerima 3 kerusakan sebelum setiap serangan"
         },
         {
             "key": "card.potion_water.text",
-            "value": "Ambil 2 kartu."
+            "value": "Tarik 2 kartu"
         },
         {
             "key": "card.prido.text",
-            "value": "Amukan\nSetiap giliran, dapatkan +1 serangan."
+            "value": "Kemarahan\nSetiap giliran, dapatkan +1 serangan"
         },
         {
             "key": "card.psony.text",
-            "value": "<b>Mainkan:</b> Pilih sekutu di bawah kendalimu, lalu kirim ke pemain lain dengan kemampuan: setiap giliran beri 2 kerusakan ke semua sekutu lainnya. "
+            "value": "<b>Mainkan:</b> Ganti kesetiaan, target dapatkan kemampuan: setiap giliran berikan 2 kerusakan pada semua sekutu lainnya"
         },
         {
             "key": "card.psychic_token.text",
-            "value": "Tukar Token Psikis dengan satu Kartu Psikis apa pun"
+            "value": "Tukar Token Psikis dengan Kartu Psikis apa pun"
         },
         {
             "key": "card.psylant.text",
-            "value": "<b>Mainkan:</b> Pilih sekutu di bawah kendalimu, lalu kirim ke pemain lain dengan kemampuan: di awal setiap giliran buang 2 kartu"
+            "value": "<b>Mainkan:</b> Ganti kesetiaan, target dapatkan kemampuan: setiap giliran buang 2 kartu dari tangan"
         },
         {
             "key": "card.psynkey.text",
-            "value": "<b>Mainkan:</b> Pilih sekutu di bawah kendalimu, lalu kirim ke pemain lain dengan kemampuan: karakter musuh mendapat +1/+2"
+            "value": "<b>Mainkan:</b> Ganti kesetiaan, target dapatkan kemampuan: monster musuh dapatkan +1/+2"
         },
         {
             "key": "card.pyro.text",
-            "value": "<b>Kematian:</b> Panggil sebuah telur."
+            "value": "<b>Kematian:</b> Panggil telur Phyra"
         },
         {
             "key": "card.rekrek.text",
-            "value": "<b>Mainkan:</b> Beri 1 kerusakan."
+            "value": "<b>Mainkan:</b> Berikan 1 kerusakan"
         },
         {
             "key": "card.rektar.text",
-            "value": "<b>Mainkan:</b> Beri 2 kerusakan."
+            "value": "<b>Mainkan:</b> Berikan 2 kerusakan"
         },
         {
             "key": "card.rektardark.text",
@@ -762,15 +798,19 @@
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>Tiap giliran:</b> Bunuh monster dengan serangan terendah (termasuk sekutu dan monster ini)."
+            "value": "<b>Setiap giliran:</b> Hancurkan semua monster dengan serangan terendah dalam permainan (termasuk milik Anda)"
         },
         {
             "key": "card.rock_cave.text",
-            "value": "Semua monster Batu mendapat: \"Terima 1 kerusakan untuk mendapat +1 serangan\". Biaya 1 mana tiap penggunaan."
+            "value": "Semua monster Batu dapatkan: \"Terima 1 kerusakan untuk dapatkan +1 serangan\" biaya 1 mana per penggunaan"
+        },
+        {
+            "key": "card.rock_golem_spawn.text",
+            "value": "Provokasi"
         },
         {
             "key": "card.rock_token.text",
-            "value": "Tukar Token Batu dengan satu Kartu Batu apa pun"
+            "value": "Tukar Token Batu dengan Kartu Batu apa pun"
         },
         {
             "key": "card.rootiny.text",
@@ -778,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>Serang:</b> Racun."
+            "value": "<b>Serang:</b> Racuni target"
         },
         {
             "key": "card.rootus.text",
@@ -786,35 +826,39 @@
         },
         {
             "key": "card.ropick.text",
-            "value": "Setiap giliran, dapatkan +1 perisai."
+            "value": "<b>Mainkan:</b> Dapatkan 2 armor"
         },
         {
             "key": "card.scarles.text",
-            "value": "Tiap giliran, dapat +1 serangan.\nTerbang"
+            "value": "Setiap giliran, dapatkan +1 serangan\nTerbang"
         },
         {
             "key": "card.shadow_token.text",
-            "value": "Tukar Token Bayangan dengan satu Kartu Bayangan apa pun"
+            "value": "Tukar Token Bayangan dengan Kartu Bayangan apa pun"
         },
         {
             "key": "card.shama.text",
-            "value": "Kerusakan mantra +1."
+            "value": "Kerusakan mantra +1"
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>Serang:</b> Racun."
+            "value": "<b>Serang:</b> Racuni target"
         },
         {
             "key": "card.skatrix.text",
-            "value": "Amukan / Serbuan / Terbang\n<b>Serang:</b> Bekukan target dan tidak menerima kerusakan balasan."
+            "value": "Kemarahan / SERBU\n<b>Serang:</b> Bekukan target dan tidak menerima kerusakan kontra serangan"
+        },
+        {
+            "key": "card.skatrix_full.text",
+            "value": "Kemarahan / SERBU\n<b>Serang:</b> Bekukan target dan tidak menerima kerusakan kontra serangan"
         },
         {
             "key": "card.skipo.text",
-            "value": "Tantang\n"
+            "value": "Provokasi\n"
         },
         {
             "key": "card.slime.text",
-            "value": "<b>Mainkan:</b> Kembalikan monster ke tanganmu."
+            "value": "<b>Mainkan:</b> Kembalikan monster dari buangan Anda ke tangan Anda"
         },
         {
             "key": "card.sneel.text",
@@ -822,7 +866,7 @@
         },
         {
             "key": "card.snowl.text",
-            "value": "Terbang\n<b>Mainkan:</b> Bekukan satu musuh dengan 2 atau kurang serangan."
+            "value": "Terbang\n<b>Mainkan:</b> Bekukan musuh dengan serangan 2 atau kurang"
         },
         {
             "key": "card.soligator.text",
@@ -830,123 +874,123 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "Terbang"
+            "value": "Terbang / Intimidasi"
         },
         {
             "key": "card.sovis.text",
-            "value": "Terbang"
+            "value": "Terbang / Intimidasi"
         },
         {
             "key": "card.sparkig.text",
-            "value": "Sentuhan Kematian"
+            "value": "Sentuhan Mati"
         },
         {
             "key": "card.spell_aerial_strike.text",
-            "value": "Panggil 3 Pyro ke tanganmu."
+            "value": "Tambahkan 3 kartu Pyro ke tangan Anda"
         },
         {
             "key": "card.spell_armageddon.text",
-            "value": "Hancurkan semua makhluk di papan"
+            "value": "Hancurkan semua kartu dalam permainan"
         },
         {
             "key": "card.spell_avalanche_ice.text",
-            "value": "Hancurkan target yang beku.\nHancurkan lokasi."
+            "value": "Hancurkan target yang dibekukan\nHancurkan lokasi"
         },
         {
             "key": "card.spell_boost_electric.text",
-            "value": "Semua monster Listrik di arena mendapat +2 serangan (termasuk milik musuh). "
+            "value": "Semua monster Listrik dalam permainan dapatkan +2 Serangan (termasuk musuh)"
         },
         {
             "key": "card.spell_burn.text",
-            "value": "Hancurkan target."
+            "value": "Hancurkan target"
         },
         {
             "key": "card.spell_cursed_potion.text",
-            "value": "Bungkam monster target, lalu kutuk monster target"
+            "value": "Diamkan monster target, kutuk monster target"
         },
         {
             "key": "card.spell_cursed_tree.text",
-            "value": "Kartu target mendapat: \"Saat monster sekutu masuk permainan, hancurkan monster ini.\""
+            "value": "Kartu target dapatkan \"Ketika monster sekutu dimainkan dari tangan, hancurkan monster ini\""
         },
         {
             "key": "card.spell_electric_ally.text",
-            "value": "Lihat 7 kartu berikutnya di dekmu, dan ambil 1 kartu listrik ke tanganmu."
+            "value": "Lihat 7 kartu berikutnya di deck Anda, dan tambahkan 1 kartu listrik di antaranya ke tangan Anda"
         },
         {
             "key": "card.spell_extinct.text",
-            "value": "Kartu target mendapat: \"Saat monster sekutu masuk permainan, hancurkan monster ini.\""
+            "value": "Kartu target dapatkan \"Ketika monster sekutu dimainkan dari tangan, hancurkan monster ini\""
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Beri 3 kerusakan.\nAmbil satu kartu."
+            "value": "Berikan 1 kerusakan pada monster sekutu, lalu berikan 2 kerusakan pada target musuh acak dua kali"
         },
         {
             "key": "card.spell_flood.text",
-            "value": "Turunkan HP semua monster menjadi 1."
+            "value": "Kurangi HP semua monster menjadi 1"
         },
         {
             "key": "card.spell_growth.text",
-            "value": "Semua monster Tanaman sekutu mendapat +2/+2"
+            "value": "Semua monster Tanaman sekutu dapatkan +2/+2"
         },
         {
             "key": "card.spell_hammi_strike.text",
-            "value": "Panggil 3 Hammi ke tanganmu."
+            "value": "Berikan 3 kerusakan pada target apa pun"
         },
         {
             "key": "card.spell_ice_storm.text",
-            "value": "Bekukan semua monster di papan.\nHancurkan monster yang sudah dibekukan. "
+            "value": "Bekukan semua monster dalam permainan\nHancurkan monster yang sudah dibekukan"
         },
         {
             "key": "card.spell_ice_treasure.text",
-            "value": "Bekukan monster target.\nAmbil satu kartu.\nPanggil Igloo"
+            "value": "Bekukan monster target\nTarik kartu\nPanggil Igloo"
         },
         {
             "key": "card.spell_ice_wave.text",
-            "value": "Bekukan satu target selama 1 giliran."
+            "value": "Bekukan target hingga giliran berikutnya Anda"
         },
         {
             "key": "card.spell_icy_rain.text",
-            "value": "Berikan 1 kerusakan ke semua monster, lalu 2 kerusakan ke semua monster yang dibekukan. "
+            "value": "Berikan 1 kerusakan pada semua monster, lalu berikan 2 kerusakan pada semua monster dibekukan"
         },
         {
             "key": "card.spell_lampi_electric_storm.text",
-            "value": "Panggil tiga Lampi 2/1 ke tanganmu."
+            "value": "Tambahkan tiga kartu Lampi ke tangan Anda"
         },
         {
             "key": "card.spell_lightning_bolts.text",
-            "value": "Memberikan 2 kerusakan ke semua monster musuh."
+            "value": "Berikan 2 kerusakan pada semua monster musuh"
         },
         {
             "key": "card.spell_meal.text",
-            "value": "Target mendapat +2/+2 permanen dan menyembuhkan semua efek negatif."
+            "value": "Target dapatkan +2/+2 dan sembuhkan efek negatif apa pun"
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "Beri 1 kerusakan ke kartu acak.\nUlangi X kali."
+            "value": "Berikan 1 kerusakan pada kartu musuh acak\nUlangi X kali"
         },
         {
             "key": "card.spell_psychic_rain.text",
-            "value": "Lawan membuang 3 kartu acak dari tangannya."
+            "value": "Lawan buang 3 kartu acak dari tangannya"
         },
         {
             "key": "card.spell_psychic_staff.text",
-            "value": "Ambil alih monster musuh selama 3 giliran, atau hingga ia berevolusi"
+            "value": "Ambil kendali monster musuh selama 3 giliran, atau hingga berevolusi"
         },
         {
             "key": "card.spell_rock_armageddon.text",
-            "value": "Hancurkan semua makhluk di papan"
+            "value": "Panggil golem batu dengan provokasi dan X serangan/X HP berdasarkan mana yang dibelanjakan"
         },
         {
             "key": "card.spell_rock_projectiles.text",
-            "value": "Hancurkan semua lokasi di arena. "
+            "value": "Berikan 1 kerusakan pada monster sekutu, lalu berikan 2 kerusakan pada target apa pun"
         },
         {
             "key": "card.spell_rock_shell.text",
-            "value": "Target mendapat cangkang, mengabaikan kerusakan pada pukulan berikutnya."
+            "value": "Monster target dapatkan +2 armor"
         },
         {
             "key": "card.spell_roots.text",
-            "value": "Lumpuhkan target selama 3 giliran."
+            "value": "Lumpuhkan target selama 3 giliran"
         },
         {
             "key": "card.spell_shadow_staff.text",
@@ -954,303 +998,319 @@
         },
         {
             "key": "card.spell_split.text",
-            "value": "Monster target mendapat: \"Terima 3 kerusakan sebelum menyerang\"."
+            "value": "Monster target dapatkan \"Terima 3 kerusakan sebelum serang\""
         },
         {
             "key": "card.spell_stomp.text",
-            "value": "Hancurkan monster dengan HP terendah."
+            "value": "Hancurkan monster dengan HP terendah dalam permainan (termasuk milik Anda, acak jika sama)"
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "Monster target mendapat: \"Terima 3 kerusakan sebelum menyerang\"."
+            "value": "Monster target tidak bisa serang dan terima 1 kerusakan di akhir setiap giliran"
         },
         {
             "key": "card.spell_stones.text",
-            "value": "Beri 1 kerusakan.\nAmbil satu kartu."
+            "value": "Berikan 1 kerusakan\nTarik kartu"
         },
         {
             "key": "card.spell_storm.text",
-            "value": "Semua kartu kembali ke tangan pemiliknya."
+            "value": "Semua kartu kembali ke tangan pemiliknya"
         },
         {
             "key": "card.spell_submerge.text",
-            "value": "Kartu target mendapatkan \"Saat diserang, lawan harus membuang 1 kartu acak\"."
+            "value": "Kartu target dapatkan \"Ketika diserang, lawan harus buang 1 kartu acak\""
         },
         {
             "key": "card.spell_toxic_rain.text",
-            "value": "Meracuni semua kartu di arena"
+            "value": "Racuni semua kartu dalam permainan"
         },
         {
             "key": "card.spell_treasure.text",
-            "value": "Lihat 7 kartu berikutnya di dekmu, dan pilih 1 kartu air."
+            "value": "Lihat 7 kartu berikutnya di deck Anda, dan tambahkan 1 kartu air di antaranya ke tangan Anda"
         },
         {
             "key": "card.spell_wave.text",
-            "value": "Kembalikan target musuh ke tangan pemiliknya."
+            "value": "Kembalikan target musuh ke tangan pemiliknya"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "Kembalikan target apa pun ke tangan pemiliknya, lalu lawan membuang satu kartu acak dari tangannya."
+            "value": "Kembalikan target apa pun ke tangan pemiliknya, lalu lawan buang kartu acak dari tangannya"
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>Mainkan:</b> Hancurkan monster dengan 2 atau kurang serangan."
+            "value": "<b>Mainkan:</b> Hancurkan monster dengan 2 atau kurang serangan"
         },
         {
             "key": "card.stingor.text",
-            "value": "<b>Serang:</b> Racuni target. "
+            "value": "<b>Serang:</b> Racuni target"
         },
         {
             "key": "card.stingy.text",
-            "value": "<b>Serang:</b> Racuni target. "
+            "value": "<b>Serang:</b> Racuni target"
         },
         {
             "key": "card.stormus.text",
-            "value": "Monster musuh memiliki -1 serangan.\nDapat mengabaikan provokasi."
+            "value": "Terbang\nMonster musuh memiliki -1 serangan"
         },
         {
             "key": "card.stormy.text",
-            "value": "Serbuan"
+            "value": "SERBU"
         },
         {
             "key": "card.swamp.text",
-            "value": "<b>Awal giliran:</b> Semua monster Bayangan sekutu mendapat +1 serangan."
+            "value": "<b>Awal Giliran: </b>Semua monster Bayangan sekutu dapatkan +1 serangan"
         },
         {
             "key": "card.tahlu.text",
-            "value": "Menyelinap\nSemua Kucing mendapat +1 serangan."
+            "value": "Sembunyi\nSemua Kucing sekutu lainnya +1 serangan"
         },
         {
             "key": "card.tailu.text",
-            "value": "<b>Slush Rush:</b> Dapatkan serbu jika ada lokasi es di arena."
+            "value": "Serbu Lumpur"
         },
         {
             "key": "card.tectan.text",
-            "value": "Semua monster Batu sekutu memiliki +1 HP.\nProvokasi"
+            "value": "Semua monster batu sekutu memiliki +2 Armor"
         },
         {
             "key": "card.tempish.text",
-            "value": "<b>Mainkan:</b> Kembalikan target mana pun ke tangan pemiliknya."
+            "value": "<b>Mainkan:</b> Kembalikan target apa pun ke tangan pemiliknya"
         },
         {
             "key": "card.tempish_full.text",
-            "value": "<b>Mainkan:</b> Kembalikan target mana pun ke tangan pemiliknya."
+            "value": "<b>Mainkan:</b> Kembalikan target apa pun ke tangan pemiliknya"
         },
         {
             "key": "card.tensei.text",
-            "value": "Amukan"
+            "value": "Provokasi\n<b>Mainkan:</b> +1 Armor"
         },
         {
             "key": "card.terrastrus.text",
-            "value": "<b>Mainkan:</b> Beri 1 kerusakan ke semua kartu lain di arena."
+            "value": "Kemarahan\n<b>Mainkan:</b> Berikan 1 kerusakan pada semua kartu dalam permainan, lalu sembuhkan semua kartu sekutu sebanyak 1 HP."
         },
         {
             "key": "card.town_darkwoods_shadow.text",
-            "value": "Semua kartu Bayangan sekutu memiliki +2 serangan."
+            "value": "Semua kartu Bayangan sekutu memiliki +2 Serangan"
         },
         {
             "key": "card.town_forest.text",
-            "value": "Semua kartu Tumbuhan sekutu memiliki +2 HP."
+            "value": "Semua kartu Tanaman sekutu memiliki +2 HP"
         },
         {
             "key": "card.town_psychic.text",
-            "value": "Saat kamu memainkan monster psikis, atau mengambil alih monster lawan, lawan membuang satu kartu acak. "
+            "value": "Ketika Anda mainkan monster psikis, atau ambil kendali monster musuh, lawan buang kartu acak dari tangannya"
         },
         {
             "key": "card.town_rock.text",
-            "value": "Semua monster Batu sekutu memiliki +2 HP."
+            "value": "Semua monster Batu sekutu dapatkan tumpukan kemarahan"
         },
         {
             "key": "card.town_volcano.text",
-            "value": "Semua monster Api sekutu memiliki +2 serangan."
+            "value": "Semua monster Api sekutu memiliki +2 serangan"
         },
         {
             "key": "card.town_water.text",
-            "value": "Kartu Air di tanganmu biayanya 1 lebih murah."
+            "value": "Kartu Air di tangan Anda biaya 1 lebih rendah"
         },
         {
             "key": "card.trap_bomb_electric.text",
-            "value": "<b>Perangkap:</b> Saat musuh menyerang, berikan 1 kerusakan ke semua monster musuh dan lumpuhkan mereka selama 1 giliran."
+            "value": "<b>Perangkap:</b> Ketika musuh serang, berikan 1 kerusakan pada semua monster musuh dan lumpuhkan semuanya selama 1 giliran"
         },
         {
             "key": "card.trap_explosive.text",
-            "value": "<b>Perangkap:</b> Beri 2 kerusakan ke semua."
+            "value": "<b>Perangkap:</b> Ketika musuh serang, Berikan 2 kerusakan pada semua monster musuh dalam permainan"
         },
         {
             "key": "card.trap_fish.text",
-            "value": "<b>Perangkap:</b> Ubah menjadi ikan."
+            "value": "<b>Perangkap:</b> Monster berikutnya yang pemain musuh mainkan dari tangan Berubah menjadi ikan."
         },
         {
             "key": "card.trap_ice.text",
-            "value": "<b>Perangkap:</b> Saat musuh menyerang, bekukan target selama 2 giliran."
+            "value": "<b>Perangkap:</b>Ketika musuh serang, bekukan target selama 2 giliran"
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Perangkap:</b> Racuni dan beri 3 kerusakan pada penyerang berikutnya."
+            "value": "<b>Perangkap:</b> Ketika musuh serang, Racuni dan berikan 3 kerusakan padanya"
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "Saat monster musuh berikutnya menyerang, kendalikan pikirannya selama 1 giliran dan beri provokasi. "
+            "value": "Ketika monster musuh serang, Kontrol Pikiran selama giliran ini dan berikan provokasi"
         },
         {
             "key": "card.trap_spike.text",
-            "value": "<b>Perangkap:</b> Saat musuh menyerang pemain, pulihkan 4 HP."
+            "value": "<b>Perangkap:</b> Ketika musuh serang pemain, sembuhkan 4 HP"
         },
         {
             "key": "card.trats.text",
-            "value": "Setelah memainkan sebuah mantra, dapatkan +2 serangan."
+            "value": "Setelah mainkan mantra, dapatkan +2 serangan"
         },
         {
             "key": "card.turbowing.text",
-            "value": "Gesit\nTerbang"
+            "value": "Cepat / Terbang"
         },
         {
             "key": "card.turtod.text",
-            "value": "Tantang"
+            "value": "Provokasi"
         },
         {
             "key": "card.twii.text",
-            "value": "<b>Kematian:</b> Ambil satu kartu.\nAbaikan Tantang."
+            "value": "Terbang\n<b>Kematian:</b> Tarik kartu"
         },
         {
             "key": "card.twiina.text",
-            "value": "Kebal Kemampuan\nAbaikan Tantang\n<b>Kematian:</b> Panggil seekor Twii.\n"
+            "value": "Imunitas Kemampuan / Terbang\n<b>Kematian:</b> Panggil Twii\n"
         },
         {
             "key": "card.urnog.text",
-            "value": "<b>Mainkan:</b> Atur serangan monster target menjadi 3"
+            "value": "Intimidasi\n<b>Mainkan</b>: Atur serangan monster target menjadi 3"
         },
         {
             "key": "card.urogorth.text",
-            "value": "Tantang"
+            "value": "Provokasi\n<b>Mainkan:</b> +2 Armor"
         },
         {
             "key": "card.venorus.text",
-            "value": "Saat dimainkan, racuni semua musuh di arena."
+            "value": "Intimidasi\n<b>Mainkan</b>: Racuni semua kartu musuh dalam permainan"
+        },
+        {
+            "key": "card.venorus_full.text",
+            "value": "<b>Mainkan</b>: Racuni semua kartu musuh dalam permainan"
         },
         {
             "key": "card.vertron.text",
-            "value": "Semua monster Listrik biayanya 2 mana lebih murah "
+            "value": "Semua monster Listrik biaya 2 mana lebih rendah"
         },
         {
             "key": "card.vertron_full.text",
-            "value": "Semua monster Listrik biayanya 2 mana lebih murah "
+            "value": "Semua monster Listrik biaya 2 mana lebih rendah"
         },
         {
             "key": "card.viborus.text",
-            "value": "Menyelinap\nSerangan: Racun"
+            "value": "Sembunyi\nSerang: Racuni monster target"
         },
         {
             "key": "card.virgo.text",
-            "value": "Tidak bisa menyerang. Di awal giliranmu, buat satu sekutu acak tertidur."
+            "value": "Tidak bisa serang\n Di awal giliran Anda, tidurkan sekutu acak\n<b>Mainkan:</b> Racuni diri sendiri\n"
         },
         {
             "key": "card.volcano.text",
-            "value": "Semua monster Api mendapat: \"Terima 1 kerusakan untuk mendapat +1 serangan\". Biaya 1 mana tiap penggunaan."
+            "value": "Semua monster Api dapatkan: \"Terima 1 kerusakan untuk dapatkan +1 serangan\" biaya 1 mana per penggunaan"
         },
         {
             "key": "card.vorteru.text",
-            "value": "<b>Mainkan:</b> Atur serangan monster target menjadi 1"
+            "value": "Intimidasi\n<b>Mainkan</b>: Atur serangan monster target menjadi 1"
         },
         {
             "key": "card.vulkong.text",
-            "value": "<b>Mainkan:</b> Beri 1 kerusakan ke semua."
+            "value": "<b>Mainkan:</b> Berikan 1 kerusakan pada semua kartu lainnya dalam permainan"
         },
         {
             "key": "card.waazu.text",
-            "value": "<b>Mainkan:</b> Bungkam satu kartu target."
+            "value": "<b>Mainkan:</b> Diamkan monster target"
         },
         {
             "key": "card.warhammi.text",
-            "value": "Setiap giliran, dapatkan +1 perisai."
+            "value": "Setiap giliran, dapatkan +1 armor"
         },
         {
             "key": "card.waru.text",
-            "value": "Memiliki +3 serangan saat giliran lawan."
+            "value": "Memiliki +3 serangan selama giliran lawan"
         },
         {
             "key": "card.waru_mount.text",
-            "value": "Monster musuh memiliki -1 serangan.\n<b>Aksi:</b> +1 serangan ke sekutu."
+            "value": "Monster musuh memiliki -1 serangan\n<b>Aksi:</b> +1 serangan pada sekutu"
         },
         {
             "key": "card.water_token.text",
-            "value": "Tukar Token Air dengan satu Kartu Air apa pun"
+            "value": "Tukar Token Air dengan Kartu Air apa pun"
         },
         {
             "key": "card.wido.text",
-            "value": "<b>Akhir giliran:</b> Masuk menyelinap jika kamu memiliki monster lain."
+            "value": "<b>Akhir Giliran:</b> Masuk sembunyi jika Anda memiliki monster lain dalam permainan"
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>Akhir giliran:</b> Masuk menyelinap jika kamu memiliki monster lain."
+            "value": "Intimidasi\n<b>Akhir Giliran:</b> Masuk sembunyi jika Anda memiliki monster lain dalam permainan"
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>Mainkan:</b> Tambahkan monster dari tumpukan buangan ke tanganmu."
+            "value": "<b>Mainkan: </b> Kembalikan monster dari buangan Anda ke tangan Anda"
         },
         {
             "key": "card.woodost.text",
-            "value": "<b>Mainkan:</b> Dapatkan Tantang atau Amukan"
+            "value": "<b>Pilihan: </b> Provokasi atau Kemarahan"
+        },
+        {
+            "key": "card.worpi.text",
+            "value": "<b>Mainkan:</b> Ambil jumlah armor tertinggi dalam permainan dan terapkan pada monster ini"
+        },
+        {
+            "key": "card.worpow.text",
+            "value": "<b>Mainkan:</b> Ambil jumlah armor tertinggi dalam permainan dan terapkan pada monster ini"
         },
         {
             "key": "card.woshi.text",
-            "value": "Saat menyerang dapatkan 1 mana."
+            "value": "Saat menyerang, dapatkan 1 mana"
         },
         {
             "key": "card.yachan.text",
-            "value": "<b>Diskon Lokasi</b>: Lokasi dengan tipe elemen yang sama mendapat potongan 1 mana. "
+            "value": "<b>Diskon Lokasi</b>: Lokasi apa pun dengan tipe elemen yang sama memiliki diskon mana 1"
         },
         {
             "key": "card.yochan.text",
-            "value": "Untuk setiap kartu lokasi dengan tipe elemen yang sama di arena dapatkan +2 HP. "
+            "value": "Untuk setiap kartu lokasi dalam permainan dengan tipe elemen yang sama dapatkan +2 HP"
         },
         {
             "key": "card.zaphyra.text",
-            "value": "Kebal Mantra\nSaat diserang ambil satu kartu"
+            "value": "Imunitas Mantra\nKetika diserang tarik kartu"
         },
         {
             "key": "card.zaphyra_full.text",
-            "value": "Kebal Mantra\nSaat diserang ambil satu kartu"
+            "value": "Imunitas Mantra\nKetika diserang tarik kartu"
         },
         {
             "key": "card.zargon.text",
-            "value": "Kebal Kemampuan\nRegenerasi\n<b>Mainkan: </b> Tambahkan satu kartu dari buangan ke tanganmu."
+            "value": "Imunitas Kemampuan / Regenerasi\n<b>Mainkan: </b> Kembalikan kartu dari buangan Anda ke tangan Anda"
+        },
+        {
+            "key": "card.zargon_full.text",
+            "value": "Imunitas Kemampuan / Regenerasi\n<b>Mainkan: </b> Tambahkan kartu dari buangan ke tangan Anda"
         },
         {
             "key": "card.zarpas.text",
-            "value": "Tantang\nCangkang"
+            "value": "Cangkang / Provokasi"
         },
         {
             "key": "card.zenphire.text",
-            "value": "Kerusakan mantra +4.\nTerbang"
+            "value": "Terbang\nKerusakan mantra +4"
         },
         {
             "key": "card.zenphire_full.text",
-            "value": "Kerusakan mantra +4.\nTerbang"
+            "value": "Terbang\nKerusakan mantra +4"
         },
         {
             "key": "card.zeras.text",
-            "value": "<b>Mainkan:</b> Kutuk\n<b>Mainkan:</b> Panggil Hajiko"
+            "value": "Intimidasi\n<b>Mainkan:</b> Kutuk\n<b>Mainkan:</b> Panggil Hajiko"
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Saat monster lain mati, ambil 2 kartu."
+            "value": "Setiap kali monster lain mati, tarik 2 kartu"
         },
         {
             "key": "card.zithex.text",
-            "value": "<b>Mainkan:</b> Serangan monster target dikurangi menjadi 1."
+            "value": "<b>Mainkan:</b> Serangan monster musuh target dikurangi menjadi 1"
         },
         {
             "key": "card.ziwing.text",
-            "value": "Gesit\nTerbang"
+            "value": "Cepat / Terbang"
         },
         {
             "key": "card.zorni.text",
-            "value": "Di awal setiap giliran, ambil 1 kartu."
+            "value": "Intimidasi\nDi awal setiap giliran, tarik kartu"
         },
         {
             "key": "card.zortan.text",
-            "value": "Semua reptil sekutu lainnya mendapat +2 serangan."
+            "value": "Intimidasi\nSemua reptil sekutu lainnya +2 serangan"
         }
     ]
 }

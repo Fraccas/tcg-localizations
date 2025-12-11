@@ -14,7 +14,7 @@
         },
         {
             "key": "card.aros.text",
-            "value": "<b>Attack</b>: Curse the target monster"
+            "value": "Intimidate\n<b>Attack</b>: Curse the target monster"
         },
         {
             "key": "card.astor.text",
@@ -118,19 +118,19 @@
         },
         {
             "key": "card.cypha.text",
-            "value": "Stealth"
+            "value": "Intimidate / Stealth"
         },
         {
             "key": "card.cypha_full.text",
-            "value": "Stealth"
+            "value": "Intimidate / Stealth"
         },
         {
             "key": "card.darcelia.text",
-            "value": "<b>Play:</b> Curse a target monster"
+            "value": "Intimidate\n<b>Play:</b> Curse a target monster"
         },
         {
             "key": "card.darkos.text",
-            "value": "<b>Play</b>: Curse all monsters in play"
+            "value": "Intimidate\n<b>Play</b>: Curse all monsters in play"
         },
         {
             "key": "card.devastor.text",
@@ -154,11 +154,11 @@
         },
         {
             "key": "card.dofurious.text",
-            "value": "Ability Immunity\nTrample"
+            "value": "Ability Immunity / Trample"
         },
         {
             "key": "card.dolvi.text",
-            "value": "<b>Play:</b> Poison a target monster"
+            "value": "Intimidate\n<b>Play:</b> Poison a target monster"
         },
         {
             "key": "card.domumu.text",
@@ -190,15 +190,15 @@
         },
         {
             "key": "card.drion.text",
-            "value": "<b>Play</b>: Silence a target monster, curse a target monster"
+            "value": "Intimidate\n<b>Play</b>: Silence a target monster, curse a target monster"
         },
         {
             "key": "card.dryaow.text",
-            "value": "<b>Play</b>: Curse all monsters in play"
+            "value": "Intimidate\n<b>Play</b>: Curse all monsters in play"
         },
         {
             "key": "card.dulster.text",
-            "value": "<b>Attack</b>: Curse and poison the target monster"
+            "value": "Intimidate\n<b>Attack</b>: Curse and poison the target monster"
         },
         {
             "key": "card.electric_token.text",
@@ -226,7 +226,7 @@
         },
         {
             "key": "card.equip_psychic_ring.text",
-            "value": "At the start of each turn, reveal the opponent's hand. Lasts up to 3 turns"
+            "value": "At the start of each turn, reveal the opponent's hand."
         },
         {
             "key": "card.equip_shield.text",
@@ -238,11 +238,11 @@
         },
         {
             "key": "card.equip_sword_rock.text",
-            "value": "Bearer's attack is equal to it's original max HP"
+            "value": "Bearer's attack is equal to it's current HP"
         },
         {
             "key": "card.equip_water_ring.text",
-            "value": "Gain 2 extra mana per turn for 4 turns"
+            "value": "Gain 2 extra mana per turn."
         },
         {
             "key": "card.espe.text",
@@ -318,7 +318,7 @@
         },
         {
             "key": "card.geister.text",
-            "value": "<b>Attack:</b> Curse and Poison the target monster"
+            "value": "Intimidate\n<b>Attack:</b> Curse and Poison the target monster"
         },
         {
             "key": "card.gemash.text",
@@ -382,7 +382,7 @@
         },
         {
             "key": "card.hajiko.text",
-            "value": "<b>Play:</b> Add Curse of Suffering to a monster"
+            "value": "Intimidate\n<b>Play:</b> Add Curse of Suffering to a monster"
         },
         {
             "key": "card.hammar.text",
@@ -414,7 +414,7 @@
         },
         {
             "key": "card.heara.text",
-            "value": "<b>Play:</b> Target monster's attack is reduced to 1"
+            "value": "<b>Play:</b> Target enemy monster's attack is reduced to 1"
         },
         {
             "key": "card.hero_electric.text",
@@ -474,11 +474,11 @@
         },
         {
             "key": "card.insha.text",
-            "value": "<b>Attack</b>: Curse the target monster"
+            "value": "Intimidate\n<b>Attack</b>: Curse the target monster"
         },
         {
             "key": "card.inuk.text",
-            "value": "Flying"
+            "value": "Flying / Intimidate"
         },
         {
             "key": "card.kincactuz.text",
@@ -538,7 +538,7 @@
         },
         {
             "key": "card.lunab.text",
-            "value": "Flying\n<b>Play:</b> Summon Igloo twice and freeze an enemy monster with 3 attack or less"
+            "value": "Flying\n<b>Play:</b> Summon Igloo and freeze an enemy monster with 3 attack or less"
         },
         {
             "key": "card.lurian.text",
@@ -554,11 +554,11 @@
         },
         {
             "key": "card.meruza.text",
-            "value": "All enemy characters have -2 attack"
+            "value": "Intimidate\nAll enemy characters have -2 attack"
         },
         {
             "key": "card.mighto.text",
-            "value": "<b>Play:</b> Gain +1 attack for each Igloo you have summoned this game\nGain Shell whenver you summon a location\nShell\n"
+            "value": "Shell\n<b>Play:</b> Gain +1 attack for each Igloo you have summoned this game\nGain Shell whenver you summon a location"
         },
         {
             "key": "card.mimi.text",
@@ -566,7 +566,7 @@
         },
         {
             "key": "card.minask.text",
-            "value": "Regeneration"
+            "value": "Intimidate / Regeneration"
         },
         {
             "key": "card.miraibow.text",
@@ -594,7 +594,7 @@
         },
         {
             "key": "card.mosheedark.text",
-            "value": "<b>Attack</b>: Curse the target monster"
+            "value": "Intimidate\n<b>Attack</b>: Curse the target monster"
         },
         {
             "key": "card.mosslug.text",
@@ -634,7 +634,7 @@
         },
         {
             "key": "card.nophulos.text",
-            "value": "Fury / Rush / Enrage"
+            "value": "Fury / Rush\nEnrage"
         },
         {
             "key": "card.numind.text",
@@ -702,7 +702,7 @@
         },
         {
             "key": "card.phyra.text",
-            "value": "<b>Action (3):</b> Deal 2 damage\n<b>Death:</b> Summon a Phyra egg"
+            "value": "<b>Action (3):</b> Deal 2 damage (Repeatable)\n<b>Death:</b> Summon a Phyra egg"
         },
         {
             "key": "card.phyra_egg.text",
@@ -742,7 +742,7 @@
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Lower the evolution counter of an ice monster by 1, if it reaches 0 it will evolve"
+            "value": "Lower the evolution counter of an allied ice monster by 1, if it reaches 0 it will evolve"
         },
         {
             "key": "card.potion_psychic.text",
@@ -782,7 +782,7 @@
         },
         {
             "key": "card.pyro.text",
-            "value": "<b>Death:</b> Summon a phyra egg"
+            "value": "Flying\n<b>Death:</b> Summon a phyra egg"
         },
         {
             "key": "card.rekrek.text",
@@ -794,7 +794,7 @@
         },
         {
             "key": "card.rektardark.text",
-            "value": "<b>Attack</b>: Curse the target monster"
+            "value": "Intimidate\n<b>Attack</b>: Curse the target monster"
         },
         {
             "key": "card.rektor.text",
@@ -842,11 +842,11 @@
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>Attack:</b> Poison the target monster"
+            "value": "Intimidate\n<b>Attack:</b> Poison the target monster"
         },
         {
             "key": "card.skatrix.text",
-            "value": "Flying / Rush\n<b>Attack:</b> Freeze the target and do not take counter damage"
+            "value": "Flying / Rush / Intimidate\n<b>Attack:</b> Freeze the target monster"
         },
         {
             "key": "card.skatrix_full.text",
@@ -874,11 +874,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "Flying"
+            "value": "Flying / Intimidate"
         },
         {
             "key": "card.sovis.text",
-            "value": "Flying"
+            "value": "Flying / Intimidate"
         },
         {
             "key": "card.sparkig.text",
@@ -990,7 +990,7 @@
         },
         {
             "key": "card.spell_roots.text",
-            "value": "Paralyse target for 3 turns"
+            "value": "Paralyze target for 3 turns"
         },
         {
             "key": "card.spell_shadow_staff.text",
@@ -1006,7 +1006,7 @@
         },
         {
             "key": "card.spell_stone_weights.text",
-            "value": "Target monster cannot attack and takes 1 damage at the end of it's turn"
+            "value": "Target monster cannot attack and takes 1 damage at the end of each of it's turn"
         },
         {
             "key": "card.spell_stones.text",
@@ -1118,11 +1118,11 @@
         },
         {
             "key": "card.trap_explosive.text",
-            "value": "<b>Trap:</b> Deal 2 damange to all enemy monsters in play"
+            "value": "<b>Trap:</b> When an enemy attacks, Deal 2 damange to all enemy monsters in play"
         },
         {
             "key": "card.trap_fish.text",
-            "value": "<b>Trap:</b> Transform into fish."
+            "value": "<b>Trap:</b> The next monster the enemy player plays from hand Transforms into fish."
         },
         {
             "key": "card.trap_ice.text",
@@ -1130,11 +1130,11 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Trap:</b> Poison and deal 3 damage to the next attacker"
+            "value": "<b>Trap:</b> When an enemy attacks, Poison and deal 3 damage to it"
         },
         {
             "key": "card.trap_psychic_pit.text",
-            "value": "When the next enemy monster attacks, Mind Control it for this turn and give it taunt"
+            "value": "When an enemy monster attacks, Mind Control it for this turn and give it taunt"
         },
         {
             "key": "card.trap_spike.text",
@@ -1162,7 +1162,7 @@
         },
         {
             "key": "card.urnog.text",
-            "value": "<b>Play</b>: Set attack of target monster to 3"
+            "value": "Intimidate\n<b>Play</b>: Set attack of target monster to 3"
         },
         {
             "key": "card.urogorth.text",
@@ -1170,7 +1170,7 @@
         },
         {
             "key": "card.venorus.text",
-            "value": "<b>Play</b>: Poison all enemy cards in play"
+            "value": "Intimidate\n<b>Play</b>: Poison all enemy cards in play"
         },
         {
             "key": "card.venorus_full.text",
@@ -1198,7 +1198,7 @@
         },
         {
             "key": "card.vorteru.text",
-            "value": "<b>Play</b>: Set attack of target monster to 1"
+            "value": "Intimidate\n<b>Play</b>: Set attack of target monster to 1"
         },
         {
             "key": "card.vulkong.text",
@@ -1230,11 +1230,11 @@
         },
         {
             "key": "card.wolvie.text",
-            "value": "<b>End Turn:</b> Go in stealth if you have other monsters in play"
+            "value": "Intimidate\n<b>End Turn:</b> Go in stealth if you have other monsters in play"
         },
         {
             "key": "card.woodo.text",
-            "value": "<b>Play: </b> Add a monster from discard to your hand"
+            "value": "<b>Play: </b> Return a monster from your discard to your hand"
         },
         {
             "key": "card.woodost.text",
@@ -1270,7 +1270,7 @@
         },
         {
             "key": "card.zargon.text",
-            "value": "Ability Immunity / Regeneration\n<b>Play: </b> Add a card from discard to your hand"
+            "value": "Ability Immunity / Regeneration\n<b>Play: </b> Return a card from your discard to your hand"
         },
         {
             "key": "card.zargon_full.text",
@@ -1290,7 +1290,7 @@
         },
         {
             "key": "card.zeras.text",
-            "value": "<b>Play:</b> Curse\n<b>Play:</b> Summon a Hajiko"
+            "value": "Intimidate\n<b>Play:</b> Curse\n<b>Play:</b> Summon a Hajiko"
         },
         {
             "key": "card.ziraffe.text",
@@ -1298,7 +1298,7 @@
         },
         {
             "key": "card.zithex.text",
-            "value": "<b>Play:</b> Target monster's attack is reduced to 1"
+            "value": "<b>Play:</b> Target enemy monster's attack is reduced to 1"
         },
         {
             "key": "card.ziwing.text",
@@ -1306,11 +1306,11 @@
         },
         {
             "key": "card.zorni.text",
-            "value": "At the start of each turn, draw a card"
+            "value": "Intimidate\nAt the start of each turn, draw a card"
         },
         {
             "key": "card.zortan.text",
-            "value": "All other allied reptiles +2 attack"
+            "value": "Intimidate\nAll other allied reptiles +2 attack"
         }
     ]
 }
