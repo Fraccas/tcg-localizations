@@ -3,16 +3,16 @@
         {
             "key": "ability.ability_immunity.desc",
             "value": "Cannot be targeted by monster card abilities",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.ability_immunity.title",
             "value": "Ability Immunity",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.ability_swap_characters_3ml.desc",
-            "value": "Replace this monster with an enemies' board monster that a mana cost of 3 or less.",
+            "value": "Swap this monster with an enemy monster that has a cost of 3 or less mana.",
             "hide": false
         },
         {
@@ -22,7 +22,7 @@
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "Replace this monster with an enemies' board monster that has a mana cost of 4.",
+            "value": "Swap this monster with an enemy monster that has a mana cost of 4.",
             "hide": false
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "key": "ability.ability_swap_characters_7ml.desc",
-            "value": "Replace this character with an enemies' board monster that a mana cost of 7 or less.",
+            "value": "Swap this monster with an enemy monster that has a cost of 7 or less mana.",
             "hide": false
         },
         {
@@ -192,7 +192,7 @@
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "Select a monster and roll a D6, on 4+ return it to its owner's hand. Cost 2 mana.",
+            "value": "Select a monster and roll a D6, on 4+ return it to its original owner's hand. Cost 2 mana.",
             "hide": false
         },
         {
@@ -202,7 +202,7 @@
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "Return a spell from your graveyard to your hand. Cost 2 mana.",
+            "value": "Return a spell from your discard to your hand. Cost 2 mana.",
             "hide": false
         },
         {
@@ -212,7 +212,7 @@
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "Return a monster to its owner's hand. Uses this monster's action.",
+            "value": "Return a monster to its original owner's hand. Uses this monster's action.",
             "hide": false
         },
         {
@@ -272,7 +272,7 @@
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Gain +1 HP and +1 Attack for every allied location of the same element type is in play.",
+            "value": "Gain +1 HP and +1 Attack if an allied location of the same element type is in play.",
             "hide": false
         },
         {
@@ -333,32 +333,32 @@
         {
             "key": "ability.attack_curse.desc",
             "value": "Attacked monsters gain curse. They lose 1 attack each turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.attack_curse.title",
             "value": "Curse",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.attack_freeze.desc",
             "value": "Attacked monster becomes frozen.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.attack_freeze.title",
             "value": "Freeze",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.attack_loss_immunity.desc",
             "value": "Protects monster's attack from being reduced.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.attack_loss_immunity.title",
             "value": "Attack Loss Immunity",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.attack_mana1.desc",
@@ -422,12 +422,12 @@
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "Attacked monsters gain poison. They lose 1 hp each turn.",
+            "value": "Attacked and counter attacked monsters gain poison.",
             "hide": false
         },
         {
             "key": "ability.attack_poison.title",
-            "value": "Poison",
+            "value": "Combat Poison",
             "hide": false
         },
         {
@@ -623,12 +623,12 @@
         {
             "key": "ability.bypass_trap.desc",
             "value": "This monster does not trigger traps. ",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.bypass_trap.title",
             "value": "Trap Evasion",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.chain_ice_treasure.desc",
@@ -752,7 +752,7 @@
         },
         {
             "key": "ability.death_egg.desc",
-            "value": "When this monster dies, summon a Phyra egg.",
+            "value": "When this monster dies, summon a 0/3 Phyra egg.",
             "hide": false
         },
         {
@@ -802,7 +802,7 @@
         },
         {
             "key": "ability.death_summon_cabyron_copy.desc",
-            "value": "When this monster dies, summon a Enrage 2 Cabyron.",
+            "value": "When this monster dies, summon an Enrage 2 Cabyron.",
             "hide": false
         },
         {
@@ -833,12 +833,12 @@
         {
             "key": "ability.deathtouch.desc",
             "value": "Kill any monster it damages.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.deathtouch.title",
             "value": "Deathtouch",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.defend_discard.desc",
@@ -953,12 +953,12 @@
         {
             "key": "ability.equip_armor2.desc",
             "value": "Bearer has +2 armor.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_armor2.title",
             "value": "Armor",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_attack_equals_current_hp.desc",
@@ -983,22 +983,22 @@
         {
             "key": "ability.equip_attack_no_damage.desc",
             "value": "When attacking, target does not counter-attack.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_attack_no_damage.title",
             "value": "Intimidate",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_attack_use.desc",
             "value": "Loses 1 durability after each attack.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_attack_use.title",
             "value": "Sword",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_attack1.desc",
@@ -1023,12 +1023,12 @@
         {
             "key": "ability.equip_defend_use.desc",
             "value": "Loses 1 durability when attacked.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_defend_use.title",
             "value": "Shield",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_gain_mana.desc",
@@ -1063,57 +1063,57 @@
         {
             "key": "ability.equip_taunt.desc",
             "value": "Bearer has taunt.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_taunt.title",
             "value": "Taunt",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.equip_turn_use.desc",
             "value": "Loses 1 durability after each turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.flying.desc",
             "value": "Can ignore Taunt.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.flying.title",
             "value": "Flying",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.fury.desc",
             "value": "Can attack twice per turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.fury.title",
             "value": "Fury",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
             "value": "Gain shell each time you summon a location.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
             "value": "Gain Shell",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.ghost.desc",
             "value": "Do not take damage when attacking.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.ghost.title",
             "value": "Ghost",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.haste.desc",
@@ -1128,12 +1128,12 @@
         {
             "key": "ability.ice punch.desc",
             "value": "Do not take damage when attacking.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.ice punch.title",
             "value": "Ice Punch",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.icy_buff1.desc",
@@ -1168,12 +1168,12 @@
         {
             "key": "ability.lifesteal.desc",
             "value": "Heal player when dealing damage.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.lifesteal.title",
             "value": "Life Steal",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.location_mana_discount.desc",
@@ -1187,7 +1187,7 @@
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
-            "value": "Take control of an enemy monster with 3 or less mana for 1 turn. Target gains Rush.",
+            "value": "Take control of an enemy monster with 3 or less mana cost for 1 turn. Target gains Rush.",
             "hide": false
         },
         {
@@ -1227,7 +1227,7 @@
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
-            "value": "Take control of an enemy monster with 4 or less mana cost for 3 turns, or until it evolves",
+            "value": "Take control of an enemy monster with 4 or less mana cost for 2 turns, or until it evolves",
             "hide": false
         },
         {
@@ -1237,7 +1237,7 @@
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.desc",
-            "value": "Take control of an enemy monster with 4 or less mana cost for 3 turns, or until it evolves",
+            "value": "Take control of an enemy monster with 4 or less mana cost for 2 turns, or until it evolves",
             "hide": false
         },
         {
@@ -1247,7 +1247,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.desc",
-            "value": "Take control of an enemy monster with 2 attack for 3 turns, or until it evolves or leaves the board",
+            "value": "Take control of an enemy monster with 2 attack or less for 2 turns, or until it evolves or leaves the board",
             "hide": false
         },
         {
@@ -1257,7 +1257,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
-            "value": "Take control of an enemy monster with 3 attack for 3 turns, or until it evolves or leaves the board",
+            "value": "Take control of an enemy monster with 3 attack or less for 2 turns, or until it evolves or this leaves the board",
             "hide": false
         },
         {
@@ -1267,7 +1267,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.desc",
-            "value": "Take control of an enemy monster with 5 attack for 2 turns, or until it evolves or leaves the board",
+            "value": "Take control of an enemy monster with 5 attack or less for 2 turns, or until it evolves or this monster leaves the board",
             "hide": false
         },
         {
@@ -1277,7 +1277,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.desc",
-            "value": "Take control of an enemy monster with 2 mana or less cost for 3 turns, or until it evolves / leaves play",
+            "value": "Take control of an enemy monster with 2 mana or less cost for 2 turns, or until it evolves / leaves play",
             "hide": false
         },
         {
@@ -1287,7 +1287,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.desc",
-            "value": "Take control of an enemy monster with 3 mana or less cost for 3 turns, or until it evolves / leaves play",
+            "value": "Take control of an enemy monster with 3 mana or less cost for 2 turns, or until it evolves / leaves play",
             "hide": false
         },
         {
@@ -1297,7 +1297,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.desc",
-            "value": "Take control of an enemy monster with 4 mana cost for 3 turns, or until it evolves",
+            "value": "Take control of an enemy monster with 4 mana cost for 2 turns, or until it evolves",
             "hide": false
         },
         {
@@ -1307,7 +1307,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.desc",
-            "value": "Take control of an enemy monster with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board",
+            "value": "Take control of an enemy monster with 5 mana cost or more for 2 turns, or until it evolves, or this card leaves the board",
             "hide": false
         },
         {
@@ -1317,7 +1317,7 @@
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.desc",
-            "value": "Take control of an enemy monster with 5 mana cost or more for 3 turns, or until it evolves, or this card leaves the board",
+            "value": "Take control of an enemy monster with 5 mana cost or more for 2 turns, or until it evolves, or this card leaves the board",
             "hide": false
         },
         {
@@ -1327,7 +1327,7 @@
         },
         {
             "key": "ability.mind_control_ability_m5l.desc",
-            "value": "Take control of an enemy monster with 5 or less mana cost for 3 turns, or until it evolves",
+            "value": "Take control of an enemy monster with 5 or less mana cost for 2 turns, or until it evolves",
             "hide": false
         },
         {
@@ -1358,52 +1358,52 @@
         {
             "key": "ability.play_add_armor1.desc",
             "value": "On play, gain 1 armor.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_add_armor1.title",
             "value": "Starting Armor 1",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_add_armor2.desc",
             "value": "On play, gain 2 armor.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_add_armor2.title",
             "value": "Starting Armor 2",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_add_armor3.desc",
             "value": "On play, gain 3 armor.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_add_armor3.title",
             "value": "Starting Armor 3",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_boost_hp_1.desc",
             "value": "On play, give +2 HP to another monster until your next turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_boost_hp_1.title",
             "value": "Bless HP",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_boost2.desc",
             "value": "On play, give +2/2 to another monster until your next turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_boost2.title",
             "value": "Bless",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_boost2_permanent.desc",
@@ -1428,32 +1428,32 @@
         {
             "key": "ability.play_burn.desc",
             "value": "Target monster gains burn. They lose 2 hp each turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_burn.title",
             "value": "Burn",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_burn_all.desc",
             "value": "On play, burn all other monsters in play.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_burn_all.title",
             "value": "Burn All",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_burn_all_minus_fire.desc",
             "value": "On play, burn all other non-fire monsters in play.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_burn_all_minus_fire.title",
             "value": "Burn All",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.desc",
@@ -1533,12 +1533,12 @@
         {
             "key": "ability.play_curse.desc",
             "value": "Target monster gains cursed. They lose 1 attack each turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_curse.title",
             "value": "Curse",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_curse_all.desc",
@@ -1692,7 +1692,7 @@
         },
         {
             "key": "ability.play_destroy_less4.desc",
-            "value": "On play, destroy a monster with 3 or less attack.",
+            "value": "On play, destroy a monster with 4 or less attack.",
             "hide": false
         },
         {
@@ -1763,42 +1763,42 @@
         {
             "key": "ability.play_freeze.desc",
             "value": "Target monster becomes frozen for 1 turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_freeze.title",
             "value": "Freeze",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_freeze_2al.desc",
             "value": "Target monster becomes frozen for 1 turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_freeze_2al.title",
             "value": "Freeze",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_freeze_3al.desc",
             "value": "Target monster becomes frozen for 1 turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_freeze_3al.title",
             "value": "Freeze",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_freeze_4al.desc",
             "value": "Target monster with 4 or less attack becomes frozen for 1 turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_freeze_4al.title",
             "value": "Targeted Freeze 4 Attack",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_freeze_all.desc",
@@ -1843,12 +1843,12 @@
         {
             "key": "ability.play_gain_rush_ice_location.desc",
             "value": "Gain Rush if an ice location is in play. Rush allows you to attack other cards on the same turn that it's played. ",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_gain_rush_ice_location.title",
             "value": "Slush Rush",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
@@ -1903,46 +1903,46 @@
         {
             "key": "ability.play_poison.desc",
             "value": "Target monster gains poison. They lose 1 hp each turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_poison.title",
             "value": "Poison",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_poison_all.desc",
             "value": "On play, poison all cards in play.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_poison_all.title",
             "value": "Poison All",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_poison_all_enemies.desc",
             "value": "On play, poison all enemy monsters in play.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_poison_all_enemies.title",
             "value": "Poison Enemies",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_poison_self.desc",
             "value": "Target monster gains poison. They lose 1 hp each turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_poison_self.title",
             "value": "Poison",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_return_target_hand.desc",
-            "value": "Return any target to owner's hand.",
+            "value": "Return any target to original owner's hand.",
             "hide": false
         },
         {
@@ -1962,7 +1962,7 @@
         },
         {
             "key": "ability.play_select_discard_any.desc",
-            "value": "On play, return a card from your graveyard to your hand.",
+            "value": "On play, return a card from your discard to your hand.",
             "hide": false
         },
         {
@@ -1972,7 +1972,7 @@
         },
         {
             "key": "ability.play_select_discard_character.desc",
-            "value": "On play, return a monster from your graveyard to your hand.",
+            "value": "On play, return a monster from your discard to your hand.",
             "hide": false
         },
         {
@@ -1982,7 +1982,7 @@
         },
         {
             "key": "ability.play_send_hand.desc",
-            "value": "On Play, return a monster to its owner's hand.",
+            "value": "On Play, return a monster to its original owner's hand.",
             "hide": false
         },
         {
@@ -1993,12 +1993,12 @@
         {
             "key": "ability.play_set_attack1.desc",
             "value": "On play, selected target's attack is reduced to 1.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_set_attack1.title",
             "value": "Electrify",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_set_attack3.desc",
@@ -2013,22 +2013,22 @@
         {
             "key": "ability.play_silence.desc",
             "value": "Target abilities are canceled.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_silence.title",
             "value": "Silence",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_silence_curse.desc",
             "value": "Target abilities are canceled and monster is cursed",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_silence_curse.title",
             "value": "Silenced Curse",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.play_suffer.desc",
@@ -2092,7 +2092,7 @@
         },
         {
             "key": "ability.play_summon_igloo1_freeze3al.desc",
-            "value": "On play summon an Igloo, then freeze an enemy character with 3 or less attack",
+            "value": "On play summon an Igloo, then freeze an enemy monster with 3 or less attack",
             "hide": false
         },
         {
@@ -2243,12 +2243,12 @@
         {
             "key": "ability.shell.desc",
             "value": "On the first hit, takes no damage.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.shell.title",
             "value": "Shell",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_add_attack_suffer.desc",
@@ -2342,7 +2342,7 @@
         },
         {
             "key": "ability.spell_ally_damage1_random_enemy_2_twice.desc",
-            "value": "Deal 1 damage to an ally monster, then deal 2 damage a random enemy target twice.",
+            "value": "Deal 1 damage to an ally monster, then deal 2 damage to a random enemy monster twice.",
             "hide": false
         },
         {
@@ -2363,12 +2363,12 @@
         {
             "key": "ability.spell_armor2.desc",
             "value": "Target gains armor 2 reducing direct damage from monsters by 2.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_armor2.title",
             "value": "Armor +2",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_attack1.desc",
@@ -2463,12 +2463,12 @@
         {
             "key": "ability.spell_destroy_flying.desc",
             "value": "Destroy a target flying monster.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_destroy_flying.title",
             "value": "Destroy Flying",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_destroy_frozen_all.desc",
@@ -2512,7 +2512,7 @@
         },
         {
             "key": "ability.spell_dragon_summon.desc",
-            "value": "Select a dragon from your deck to summon into your hand.",
+            "value": "Select a dragon from your deck and add it to your hand.",
             "hide": false
         },
         {
@@ -2558,22 +2558,22 @@
         {
             "key": "ability.spell_freeze.desc",
             "value": "Freeze target for 1 turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_freeze.title",
             "value": "Freeze",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_fury.desc",
             "value": "Target monster gains Fury. It can attack twice per turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_fury.title",
             "value": "Fury",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_haste.desc",
@@ -2638,12 +2638,12 @@
         {
             "key": "ability.spell_immunity.desc",
             "value": "Cannot be targeted or damaged by spells cards.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_immunity.title",
             "value": "Spell Immunity",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_kill_lowest_hp.desc",
@@ -2658,12 +2658,12 @@
         {
             "key": "ability.spell_paralyse.desc",
             "value": "Paralyze target monster for 3 turns.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_paralyse.title",
             "value": "Paralyze",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
@@ -2677,7 +2677,7 @@
         },
         {
             "key": "ability.spell_return_all.desc",
-            "value": "All cards on the board return to their owner's hand.",
+            "value": "All cards on the board return to their original owner's hand.",
             "hide": false
         },
         {
@@ -2687,7 +2687,7 @@
         },
         {
             "key": "ability.spell_send_hand_any.desc",
-            "value": "Return any played target to its owner's hand.",
+            "value": "Return any played target to its original owner's hand.",
             "hide": false
         },
         {
@@ -2697,7 +2697,7 @@
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.desc",
-            "value": "Return any played target to its owner's hand.",
+            "value": "Return any played target to its original owner's hand.",
             "hide": false
         },
         {
@@ -2707,7 +2707,7 @@
         },
         {
             "key": "ability.spell_send_hand_enemy.desc",
-            "value": "Return target to its owner's hand.",
+            "value": "Return target to its original owner's hand.",
             "hide": false
         },
         {
@@ -2828,12 +2828,12 @@
         {
             "key": "ability.stealth.desc",
             "value": "Cannot be targeted or attacked until it performs an action.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.stealth.title",
             "value": "Stealth",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.survive_damage_add_draw.desc",
@@ -2858,22 +2858,22 @@
         {
             "key": "ability.taunt.desc",
             "value": "Your other monsters cannot be attacked.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.taunt.title",
             "value": "Taunt",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.taunt_flying.desc",
             "value": "Your other monsters are protected from flying monsters.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.taunt_flying.title",
             "value": "Reach",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.town_aura_electric.desc",
@@ -2998,12 +2998,12 @@
         {
             "key": "ability.trample.desc",
             "value": "Excess damage is dealt to player hp.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.trample.title",
             "value": "Trample",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.transform_to_discarded_card.desc",
@@ -3108,12 +3108,12 @@
         {
             "key": "ability.trap_poison_attacker.desc",
             "value": "After an enemy monster attacks, poison it",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.trap_poison_attacker.title",
             "value": "Poison",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.trap_shock.desc",
@@ -3128,12 +3128,12 @@
         {
             "key": "ability.trap_shock_all.desc",
             "value": "When an enemy monster attacks, shock paralyze it for 1 turn.",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.trap_shock_all.title",
             "value": "Shock Paralyzed",
-            "hide": false
+            "hide": true
         },
         {
             "key": "ability.turn_add_armor1.desc",
@@ -3297,7 +3297,7 @@
         },
         {
             "key": "status.armor.desc",
-            "value": "Add Armor",
+            "value": "Reduces combat damage by armor amount",
             "hide": false
         },
         {
@@ -3307,7 +3307,7 @@
         },
         {
             "key": "status.attacklossimmunity.desc",
-            "value": "Protects character's attack from being reduced.",
+            "value": "Protects monster's attack from being reduced.",
             "hide": false
         },
         {
@@ -3327,7 +3327,7 @@
         },
         {
             "key": "status.characterabilityimmunity.desc",
-            "value": "Cannot be targeted by character abilities",
+            "value": "Cannot be targeted by monster abilities",
             "hide": false
         },
         {
@@ -3337,7 +3337,7 @@
         },
         {
             "key": "status.cursed.desc",
-            "value": "Each turn, will lose attack.",
+            "value": "Each turn, will lose 1 attack.",
             "hide": false
         },
         {
@@ -3357,7 +3357,7 @@
         },
         {
             "key": "status.deathtouch.desc",
-            "value": "Kill any creature it damages.",
+            "value": "Kill any monster it damages.",
             "hide": false
         },
         {
@@ -3427,7 +3427,7 @@
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "Heal yourself when dealing damage.",
+            "value": "Heal player when dealing damage.",
             "hide": false
         },
         {
@@ -3448,16 +3448,16 @@
         {
             "key": "status.paralysed.desc",
             "value": "Cannot perform any actions and has zero attack",
-            "hide": false
+            "hide": true
         },
         {
             "key": "status.paralysed.title",
-            "value": "Shock Paralysed",
-            "hide": false
+            "value": "Paralyzed",
+            "hide": true
         },
         {
             "key": "status.poisoned.desc",
-            "value": "Each turn, will lose hp.",
+            "value": "Each turn, will lose 1 hp.",
             "hide": false
         },
         {
@@ -3537,7 +3537,7 @@
         },
         {
             "key": "status.stealth.desc",
-            "value": "Cannot be targeted.",
+            "value": "Cannot be targeted or attacked until it performs an action.",
             "hide": false
         },
         {

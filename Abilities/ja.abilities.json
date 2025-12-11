@@ -2,2859 +2,3623 @@
     "entries": [
         {
             "key": "ability.ability_immunity.desc",
-            "value": "キャラクターカードの能力の対象にならない"
+            "value": "モンスターカードの能力で対象にできない",
+            "hide": true
         },
         {
             "key": "ability.ability_immunity.title",
-            "value": "能力耐性"
+            "value": "能力免疫",
+            "hide": true
         },
         {
             "key": "ability.ability_swap_characters_3ml.desc",
-            "value": "このキャラクターを、マナコスト3以下の敵のボード上のキャラクターと入れ替える"
+            "value": "このモンスターをマナコスト3以下の敵モンスターと交換する。",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_3ml.title",
-            "value": "サイキックスワップ"
+            "value": "サイキックスワップ",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "このキャラクターを、マナコスト4の敵のボード上のキャラクターと入れ替える"
+            "value": "このモンスターをマナコスト4の敵モンスターと交換する。",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
-            "value": "サイキックスワップ"
+            "value": "サイキックスワップ",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_7ml.desc",
-            "value": "このキャラクターを、マナコスト7以下の敵のボード上のキャラクターと入れ替える"
+            "value": "このモンスターをマナコスト7以下の敵モンスターと交換する。",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_7ml.title",
-            "value": "サイキックスワップ"
+            "value": "サイキックスワップ",
+            "hide": false
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "すべての味方クリーチャーが+2アーマーを得る。このクリーチャーの行動を使用し、5マナを消費する"
+            "value": "すべての味方モンスターが+2アーマーを得る。このモンスターの行動を使用し、5マナを消費する。",
+            "hide": false
         },
         {
             "key": "ability.activate_armor2.title",
-            "value": "アーマーサポート"
+            "value": "アーマーサポート",
+            "hide": false
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "すべての味方クリーチャーがターン終了時まで+1攻撃を得る。このクリーチャーの行動を使用する"
+            "value": "すべての味方モンスターがターン終了まで+1攻撃を得る。このモンスターの行動を使用する。",
+            "hide": false
         },
         {
             "key": "ability.activate_boost1.title",
-            "value": "咆哮"
+            "value": "咆哮",
+            "hide": false
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "すべての味方クリーチャーがターン終了時まで+3攻撃を得る。このクリーチャーの行動を使用する"
+            "value": "すべての味方モンスターがターン終了まで+3攻撃を得る。このモンスターの行動を使用する。",
+            "hide": false
         },
         {
             "key": "ability.activate_boost3.title",
-            "value": "サポート"
+            "value": "サポート",
+            "hide": false
         },
         {
             "key": "ability.activate_burst.desc",
-            "value": "1ダメージを受けて+1攻撃を得る"
+            "value": "1ダメージを受けて+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.activate_burst.title",
-            "value": "バースト"
+            "value": "バースト",
+            "hide": false
         },
         {
             "key": "ability.activate_damage2.desc",
-            "value": "2ダメージを与える。3マナを消費する。行動を疲弊させない"
+            "value": "2ダメージを与える。3マナ消費。行動を消費しない。",
+            "hide": false
         },
         {
             "key": "ability.activate_damage2.title",
-            "value": "追加攻撃"
+            "value": "エクストラアタック",
+            "hide": false
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "相手が手札からランダムな1枚を捨てる。このクリーチャーの行動を使用する"
+            "value": "相手が手札からランダムなカードを捨てる。このモンスターの行動を使用する。",
+            "hide": false
         },
         {
             "key": "ability.activate_discard.title",
-            "value": "捨札"
+            "value": "ディスカード",
+            "hide": false
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "相手が手札からランダムな1枚を捨てる。このクリーチャーの行動を使用する"
+            "value": "相手が手札からランダムなカードを捨てる。このモンスターの行動を使用する。",
+            "hide": false
         },
         {
             "key": "ability.activate_discard_random_3l.title",
-            "value": "捨札"
+            "value": "ディスカード",
+            "hide": false
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "対象にラッシュを付与する（電気モンスターのみ）"
+            "value": "対象がヘイストを得る（電気モンスターでなければならない）",
+            "hide": false
         },
         {
             "key": "ability.activate_electric.title",
-            "value": "電気"
+            "value": "エレクトリック",
+            "hide": false
         },
         {
             "key": "ability.activate_fire.desc",
-            "value": "1ダメージを与える"
+            "value": "1ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.activate_fire.title",
-            "value": "火"
+            "value": "ファイア",
+            "hide": false
         },
         {
             "key": "ability.activate_heal_player3.desc",
-            "value": "プレイヤーのHPを3回復する"
+            "value": "プレイヤーを3HP回復する。",
+            "hide": false
         },
         {
             "key": "ability.activate_heal_player3.title",
-            "value": "自己回復"
+            "value": "セルフヒール",
+            "hide": false
         },
         {
             "key": "ability.activate_ice.desc",
-            "value": "敵を1ターン凍らせる"
+            "value": "敵を1ターン凍結する",
+            "hide": false
         },
         {
             "key": "ability.activate_ice.title",
-            "value": "凍結"
+            "value": "フリーズ",
+            "hide": false
         },
         {
             "key": "ability.activate_plant.desc",
-            "value": "2HP回復する"
+            "value": "2HP回復する。",
+            "hide": false
         },
         {
             "key": "ability.activate_plant.title",
-            "value": "植物"
+            "value": "プラント",
+            "hide": false
         },
         {
             "key": "ability.activate_psychic.desc",
-            "value": "相手が手札からランダムな1枚を捨てる"
+            "value": "相手が手札からランダムなカードを捨てる。",
+            "hide": false
         },
         {
             "key": "ability.activate_psychic.title",
-            "value": "精神"
+            "value": "サイキック",
+            "hide": false
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "対象キャラクターが+1アーマーを得る"
+            "value": "対象モンスターが+1アーマーを得る",
+            "hide": false
         },
         {
             "key": "ability.activate_rock.title",
-            "value": "岩"
+            "value": "ロック",
+            "hide": false
         },
         {
             "key": "ability.activate_rock_hammi_old.desc",
-            "value": "1/1のハミを召喚する"
+            "value": "1/1のハンミを召喚する",
+            "hide": false
         },
         {
             "key": "ability.activate_rock_hammi_old.title",
-            "value": "岩"
+            "value": "ロック",
+            "hide": false
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "キャラクターを選びD6を振る。4以上なら持ち主の手札に戻す（マナ2消費）。"
+            "value": "モンスターを選択しD6を振る、4+で元の所有者の手札に戻す。2マナ消費。",
+            "hide": false
         },
         {
             "key": "ability.activate_roll_send_hand.title",
-            "value": "チャージ"
+            "value": "チャージ",
+            "hide": false
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "墓地から呪文を1枚手札に戻す。2マナを消費する"
+            "value": "ディスカードからスペルを手札に戻す。2マナ消費。",
+            "hide": false
         },
         {
             "key": "ability.activate_select_discard_spell.title",
-            "value": "魔法集中"
+            "value": "マジックフォーカス",
+            "hide": false
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "キャラクターを持ち主の手札に戻す。このクリーチャーの行動を使用する"
+            "value": "モンスターを元の所有者の手札に戻す。このモンスターの行動を使用する。",
+            "hide": false
         },
         {
             "key": "ability.activate_send_hand.title",
-            "value": "チャージ"
+            "value": "バウンス",
+            "hide": false
         },
         {
             "key": "ability.activate_shadow.desc",
-            "value": "対象を呪い状態にする"
+            "value": "対象が呪われる",
+            "hide": false
         },
         {
             "key": "ability.activate_shadow.title",
-            "value": "影"
+            "value": "シャドウ",
+            "hide": false
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "プレイ時、対象キャラクターを選択して陣営を切り替える"
+            "value": "プレイ時、対象モンスターを選択して側を切り替える",
+            "hide": false
         },
         {
             "key": "ability.activate_switch_sides.title",
-            "value": "忠誠の交換"
+            "value": "忠誠の交換",
+            "hide": false
         },
         {
             "key": "ability.activate_water.desc",
-            "value": "カードを1枚引く"
+            "value": "カードを1枚引く。",
+            "hide": false
         },
         {
             "key": "ability.activate_water.title",
-            "value": "水"
+            "value": "ウォーター",
+            "hide": false
         },
         {
             "key": "ability.add_attack_traps.desc",
-            "value": "敵のトラップ1枚につき攻撃力+1を得る"
+            "value": "+1ダメージを敵のトラップごとに得る",
+            "hide": false
         },
         {
             "key": "ability.add_attack_traps.title",
-            "value": "トラップブースト"
+            "value": "トラップブースト",
+            "hide": false
         },
         {
             "key": "ability.add_hp_location.desc",
-            "value": "同じ元素タイプの味方のロケーション1つにつき+2HPを得る"
+            "value": "同じ要素タイプの味方ロケーションごとに+2 HPを得る。",
+            "hide": false
         },
         {
             "key": "ability.add_hp_location.title",
-            "value": "ロケーションブースト"
+            "value": "ロケーションブースト",
+            "hide": false
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "同じ属性の味方ロケーションが場にあるごとに、HPと攻撃力をそれぞれ+1得る。"
+            "value": "同じ要素タイプの味方ロケーションがプレイ中なら+1 HPと+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "ロケーション強化"
+            "value": "ロケーションブースト",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage1.desc",
-            "value": "すべての呪文と能力が+1ダメージを与える"
+            "value": "すべてのあなたのスペルと能力が+1ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage1.title",
-            "value": "呪文ダメージ"
+            "value": "スペルダメージ",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage2.desc",
-            "value": "すべての呪文と能力が+2ダメージを与える"
+            "value": "すべてのあなたのスペルと能力が+2ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage2.title",
-            "value": "呪文ダメージ"
+            "value": "スペルダメージ",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage4.desc",
-            "value": "自分の呪文と能力が与えるダメージが+4される。"
+            "value": "すべてのあなたのスペルと能力が+4ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage4.title",
-            "value": "呪文ダメージ"
+            "value": "スペルダメージ",
+            "hide": false
         },
         {
             "key": "ability.after_spell_attack2.desc",
-            "value": "呪文をプレイした後、+2攻撃を得る"
+            "value": "スペルをプレイした後、+2攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.after_spell_attack2.title",
-            "value": "熱"
+            "value": "熱",
+            "hide": false
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "攻撃した相手を火傷状態にし、毎ターン2HP失わせる"
+            "value": "攻撃されたモンスターが燃える。毎ターン2 HPを失う。",
+            "hide": false
         },
         {
             "key": "ability.attack_burned.title",
-            "value": "燃焼"
+            "value": "燃焼",
+            "hide": false
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "攻撃した相手を呪い状態にし、毎ターン攻撃力を1失わせる"
+            "value": "攻撃されたモンスターが呪いを得る。毎ターン1攻撃を失う。",
+            "hide": true
         },
         {
             "key": "ability.attack_curse.title",
-            "value": "呪い"
+            "value": "呪い",
+            "hide": true
         },
         {
             "key": "ability.attack_freeze.desc",
-            "value": "攻撃したモンスターを凍結する。"
+            "value": "攻撃されたモンスターが凍結する。",
+            "hide": true
         },
         {
             "key": "ability.attack_freeze.title",
-            "value": "フリーズ"
+            "value": "凍結",
+            "hide": true
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "攻撃力が減少しない"
+            "value": "モンスターの攻撃を減少から保護する。",
+            "hide": true
         },
         {
             "key": "ability.attack_loss_immunity.title",
-            "value": "攻撃減少耐性"
+            "value": "攻撃損失免疫",
+            "hide": true
         },
         {
             "key": "ability.attack_mana1.desc",
-            "value": "攻撃後にマナを1得る。"
+            "value": "攻撃後1マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_mana1.title",
-            "value": "略奪"
+            "value": "略奪",
+            "hide": false
         },
         {
             "key": "ability.attack_mana2.desc",
-            "value": "攻撃後にマナを2得る。"
+            "value": "攻撃後2マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_mana2.title",
-            "value": "略奪"
+            "value": "略奪",
+            "hide": false
         },
         {
             "key": "ability.attack_player_draw_rock_spell.desc",
-            "value": "敵プレイヤーを攻撃した後、デッキから岩のスペルカードを1枚引く"
+            "value": "敵プレイヤーを攻撃した後、デッキからロックスペルカードを1枚引く",
+            "hide": false
         },
         {
             "key": "ability.attack_player_draw_rock_spell.title",
-            "value": "岩の宝物"
+            "value": "ロックの宝",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana1.desc",
-            "value": "相手プレイヤーを攻撃した後、1マナ得る。"
+            "value": "相手のライフを攻撃した後、1マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana1.title",
-            "value": "略奪"
+            "value": "略奪",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana2.desc",
-            "value": "相手プレイヤーを攻撃した後、2マナ得る。"
+            "value": "相手のライフを攻撃した後, 2マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana2.title",
-            "value": "略奪"
+            "value": "略奪",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana3.desc",
-            "value": "相手プレイヤーを攻撃した後、3マナ得る。"
+            "value": "相手のライフを攻撃した後, 3マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana3.title",
-            "value": "略奪"
+            "value": "略奪",
+            "hide": false
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "攻撃した相手を毒状態にし、毎ターン1HP失わせる"
+            "value": "攻撃され反撃されたモンスターが毒を得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_poison.title",
-            "value": "毒"
+            "value": "戦闘毒",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "攻撃前にD6を振り、4以上で攻撃力+3を得る"
+            "value": "攻撃前にD6を振る、4+で+3攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.title",
-            "value": "触手"
+            "value": "触手",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "攻撃前にD6を振り、4以上でターン終了時まで攻撃力+3を得る"
+            "value": "攻撃前にD6を振る、4+でターン終了まで+3攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
-            "value": "触手"
+            "value": "触手",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "攻撃前にD6を振り、4以上でターン終了時まで攻撃力+6を得る"
+            "value": "攻撃前にD6を振る、4+でターン終了まで+6攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
-            "value": "触手"
+            "value": "触手",
+            "hide": false
         },
         {
             "key": "ability.attack_suffer_damage.desc",
-            "value": "攻撃前に3ダメージを受ける"
+            "value": "攻撃前に3ダメージを受ける。",
+            "hide": false
         },
         {
             "key": "ability.attack_suffer_damage.title",
-            "value": "地割れ"
+            "value": "大地の分裂",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "すべての味方火クリーチャーが「1ダメージを受けて+1攻撃を得る」を得る"
+            "value": "すべての味方ファイアモンスターが：「1ダメージを受けて+1攻撃を得る」を得る。",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_red.title",
-            "value": "火のバースト"
+            "value": "ファイアバースト",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "すべての味方岩クリーチャーが「1ダメージを受けて+1攻撃を得る」を得る"
+            "value": "すべての味方ロックモンスターが：「1ダメージを受けて+1攻撃を得る」を得る。",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_rock.title",
-            "value": "岩のバースト"
+            "value": "ロックバースト",
+            "hide": false
         },
         {
             "key": "ability.aura_add_enrage.desc",
-            "value": "味方の岩モンスター全てが激昂スタックを1得る。"
+            "value": "すべての味方ロックモンスターがエンラージスタックを得る。",
+            "hide": false
         },
         {
             "key": "ability.aura_add_enrage.title",
-            "value": "岩の激昂オーラ"
+            "value": "ロックエンラージオーラ",
+            "hide": false
         },
         {
             "key": "ability.aura_armor_rock_2.desc",
-            "value": "すべての味方岩キャラクターは+2アーマーを得る。"
+            "value": "すべての味方ロックモンスターが+2アーマーを持つ。",
+            "hide": false
         },
         {
             "key": "ability.aura_armor_rock_2.title",
-            "value": "ストーンアーマー2"
+            "value": "ストーンアーマー 2",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "すべての敵キャラクターが-1攻撃"
+            "value": "すべての敵モンスターが-1攻撃を持つ。",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m1.title",
-            "value": "恐怖"
+            "value": "恐怖",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "すべての敵キャラクターが-2攻撃"
+            "value": "すべての敵モンスターが-2攻撃を持つ。",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m2.title",
-            "value": "恐怖"
+            "value": "恐怖",
+            "hide": false
         },
         {
             "key": "ability.aura_cat.desc",
-            "value": "他のすべての味方猫が+1攻撃を得る"
+            "value": "すべての他の味方猫が+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.aura_cat.title",
-            "value": "猫オーラ"
+            "value": "猫オーラ",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_attack1.desc",
-            "value": "すべての敵キャラクターが+1攻撃を得る"
+            "value": "すべての敵モンスターが+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_attack1.title",
-            "value": "裏切り"
+            "value": "裏切り",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_hp2.desc",
-            "value": "すべての敵キャラクターが+2HPを得る"
+            "value": "すべての敵モンスターが+2 HPを得る",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_hp2.title",
-            "value": "裏切り"
+            "value": "裏切り",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_1.desc",
-            "value": "すべての味方岩キャラクターが+1HP"
+            "value": "すべての味方ロックモンスターが+1 HPを持つ。",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_1.title",
-            "value": "石の味方"
+            "value": "ストーンアライ",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_2.desc",
-            "value": "すべての味方岩キャラクターはHP+2。"
+            "value": "すべての味方ロックモンスターが+2 HPを持つ。",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_2.title",
-            "value": "石の盟友2"
+            "value": "ストーンアライ 2",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_m1.desc",
-            "value": "すべての味方影キャラクターが+1HP"
+            "value": "すべての味方シャドウモンスターが+1 HPを持つ。",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_m1.title",
-            "value": "影の味方"
+            "value": "シャドウアライ",
+            "hide": false
         },
         {
             "key": "ability.aura_protect_igloo.desc",
-            "value": "イグルーが無敵になる。"
+            "value": "イグルーが無敵になる。",
+            "hide": false
         },
         {
             "key": "ability.aura_protect_igloo.title",
-            "value": "イグルー防護"
+            "value": "イグルー保護",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile.desc",
-            "value": "他のすべての味方爬虫類が+1攻撃を得る"
+            "value": "すべての他の味方爬虫類が+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile.title",
-            "value": "爬虫類"
+            "value": "爬虫類",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile_2.desc",
-            "value": "他のすべての味方爬虫類が+2攻撃を得る"
+            "value": "すべての他の味方爬虫類が+2攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile_2.title",
-            "value": "爬虫類"
+            "value": "爬虫類",
+            "hide": false
         },
         {
             "key": "ability.bypass_trap.desc",
-            "value": "このキャラクターはトラップをトリガーしない"
+            "value": "このモンスターはトラップをトリガーしない。",
+            "hide": true
         },
         {
             "key": "ability.bypass_trap.title",
-            "value": "トラップ回避"
+            "value": "トラップ回避",
+            "hide": true
         },
         {
             "key": "ability.chain_ice_treasure.desc",
-            "value": "デッキの次の7枚を見て、氷のカード2枚を手札に加える"
+            "value": "デッキの次の7枚のカードを見て、2枚のアイスカードを手札に加える。",
+            "hide": false
         },
         {
             "key": "ability.chain_ice_treasure.title",
-            "value": "氷の宝物"
+            "value": "アイストレジャー",
+            "hide": false
         },
         {
             "key": "ability.chain_water_treasure.desc",
-            "value": "デッキの次の7枚を見て、水のカード2枚を手札に加える"
+            "value": "デッキの次の7枚のカードを見て、2枚のウォーターカードを手札に加える。",
+            "hide": false
         },
         {
             "key": "ability.chain_water_treasure.title",
-            "value": "水の宝物"
+            "value": "ウォータートレジャー",
+            "hide": false
         },
         {
             "key": "ability.choice_ability_immunity.desc",
-            "value": "キャラクターの能力の対象にならない"
+            "value": "モンスターの能力で対象にできない",
+            "hide": false
         },
         {
             "key": "ability.choice_ability_immunity.title",
-            "value": "能力耐性"
+            "value": "能力免疫",
+            "hide": false
         },
         {
             "key": "ability.choice_armor2.desc",
-            "value": "召喚時に+2アーマーを得る。"
+            "value": "登場時に+2アーマーを得る。",
+            "hide": false
         },
         {
             "key": "ability.choice_armor2.title",
-            "value": "選択: アーマー2"
+            "value": "選択アーマー2",
+            "hide": false
         },
         {
             "key": "ability.choice_fury.desc",
-            "value": "ターンに2回攻撃できる"
+            "value": "ターンごとに2回攻撃できる。",
+            "hide": false
         },
         {
             "key": "ability.choice_fury.title",
-            "value": "狂戦士"
+            "value": "フューリー",
+            "hide": false
         },
         {
             "key": "ability.choice_rush.desc",
-            "value": "すぐに攻撃できるが、このターンは敵プレイヤーを攻撃できない。"
+            "value": "すぐに攻撃できるが、プレイされたターンに敵プレイヤーを対象にできない。",
+            "hide": false
         },
         {
             "key": "ability.choice_rush.title",
-            "value": "ラッシュ"
+            "value": "チャージ",
+            "hide": false
         },
         {
             "key": "ability.choice_spell_immunity.desc",
-            "value": "呪文カードの対象にならず、ダメージも受けない"
+            "value": "スペルカードで対象にしたりダメージを与えられない。",
+            "hide": false
         },
         {
             "key": "ability.choice_spell_immunity.title",
-            "value": "呪文耐性"
+            "value": "スペル免疫",
+            "hide": false
         },
         {
             "key": "ability.choice_taunt.desc",
-            "value": "他のあなたのキャラクターは攻撃されない"
+            "value": "他のモンスターは攻撃されない。",
+            "hide": false
         },
         {
             "key": "ability.choice_taunt.title",
-            "value": "挑発"
+            "value": "トーント",
+            "hide": false
         },
         {
             "key": "ability.damage_cap.desc",
-            "value": "攻撃/反撃時に受けるダメージは最大2。"
+            "value": "攻撃 / カウンター攻撃で最大2ダメージを受ける。",
+            "hide": false
         },
         {
             "key": "ability.damage_cap.title",
-            "value": "ダメージ上限"
+            "value": "ダメージキャップ",
+            "hide": false
         },
         {
             "key": "ability.death_blue_draw.desc",
-            "value": "あなたが所有する水のクリーチャーが死ぬと、カードを1枚引く"
+            "value": "所有するウォーターモンスターが死ぬとカードを1枚引く",
+            "hide": false
         },
         {
             "key": "ability.death_blue_draw.title",
-            "value": "ドロー"
+            "value": "ドロー",
+            "hide": false
         },
         {
             "key": "ability.death_damage2_player.desc",
-            "value": "このクリーチャーが死ぬと、敵プレイヤーにダメージを与える"
+            "value": "このモンスターが死ぬと敵プレイヤーにダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.death_damage2_player.title",
-            "value": "死のダメージ"
+            "value": "デスダメージ",
+            "hide": false
         },
         {
             "key": "ability.death_draw.desc",
-            "value": "このクリーチャーが死ぬと、カードを1枚引く"
+            "value": "このモンスターが死ぬとカードを1枚引く。",
+            "hide": false
         },
         {
             "key": "ability.death_draw.title",
-            "value": "ドロー"
+            "value": "ドロー",
+            "hide": false
         },
         {
             "key": "ability.death_egg.desc",
-            "value": "このクリーチャーが死ぬと、フィラの卵を召喚する"
+            "value": "このモンスターが死ぬとPhyraの卵0/3を召喚する",
+            "hide": false
         },
         {
             "key": "ability.death_egg.title",
-            "value": "卵召喚"
+            "value": "卵召喚",
+            "hide": false
         },
         {
             "key": "ability.death_heal2.desc",
-            "value": "このクリーチャーが死ぬと、2HP回復する"
+            "value": "このモンスターが死ぬと2 HP回復する。",
+            "hide": false
         },
         {
             "key": "ability.death_heal2.title",
-            "value": "回復"
+            "value": "ヒール",
+            "hide": false
         },
         {
             "key": "ability.death_heal3.desc",
-            "value": "このクリーチャーが死ぬと、3HP回復する"
+            "value": "このモンスターが死ぬと3 HP回復する。",
+            "hide": false
         },
         {
             "key": "ability.death_heal3.title",
-            "value": "回復"
+            "value": "ヒール",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw.desc",
-            "value": "他のキャラクターが死ぬたび、カードを1枚引く"
+            "value": "他のモンスターが死ぬたびにカードを1枚引く。",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw.title",
-            "value": "食べる"
+            "value": "食べる",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw2.desc",
-            "value": "他のキャラクターが死ぬたび、カードを2枚引く"
+            "value": "他のモンスターが死ぬたびにカードを2枚引く。",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw2.title",
-            "value": "食べる"
+            "value": "食べる",
+            "hide": false
         },
         {
             "key": "ability.death_summon_cabyron_copy.desc",
-            "value": "このクリーチャーが死んだとき、激昂IIのカビュロンを召喚する。"
+            "value": "このモンスターが死ぬとエンラージ2のCabyronを召喚する。",
+            "hide": false
         },
         {
             "key": "ability.death_summon_cabyron_copy.title",
-            "value": "カビュロンの複製召喚"
+            "value": "Cabyronコピー召喚",
+            "hide": false
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "戦闘不能になるとイグルーを1体召喚する。"
+            "value": "死ぬとイグルーを召喚する",
+            "hide": false
         },
         {
             "key": "ability.death_summon_igloo.title",
-            "value": "イグルー召喚"
+            "value": "イグルー召喚",
+            "hide": false
         },
         {
             "key": "ability.death_summon_twii.desc",
-            "value": "このクリーチャーが倒されたとき、トゥイーを召喚する。"
+            "value": "このモンスターが死ぬとTwiiを召喚する",
+            "hide": false
         },
         {
             "key": "ability.death_summon_twii.title",
-            "value": "トゥイー召喚"
+            "value": "Twii召喚",
+            "hide": false
         },
         {
             "key": "ability.deathtouch.desc",
-            "value": "ダメージを与えたクリーチャーを殺す"
+            "value": "ダメージを与えたモンスターを殺す。",
+            "hide": true
         },
         {
             "key": "ability.deathtouch.title",
-            "value": "死触"
+            "value": "デスタッチ",
+            "hide": true
         },
         {
             "key": "ability.defend_discard.desc",
-            "value": "攻撃された時、相手がランダムな1枚を捨てる"
+            "value": "攻撃された時、相手はランダムなカードを1枚捨てる。",
+            "hide": false
         },
         {
             "key": "ability.defend_discard.title",
-            "value": "潜水"
+            "value": "潜水",
+            "hide": false
         },
         {
             "key": "ability.defend_draw1.desc",
-            "value": "このキャラクターが攻撃されたとき、カードを1枚引く。"
+            "value": "このモンスターが攻撃されたらカードを1枚引く。",
+            "hide": false
         },
         {
             "key": "ability.defend_draw1.title",
-            "value": "ドロー"
+            "value": "ドロー",
+            "hide": false
         },
         {
             "key": "ability.defense_attack3.desc",
-            "value": "相手のターン中に+3攻撃"
+            "value": "相手のターン中に+3攻撃を持つ。",
+            "hide": false
         },
         {
             "key": "ability.defense_attack3.title",
-            "value": "防御"
+            "value": "防御",
+            "hide": false
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "相手のターンの間、攻撃力が+5される。"
+            "value": "相手のターン中に+5攻撃を持つ。",
+            "hide": false
         },
         {
             "key": "ability.defense_attack5.title",
-            "value": "防御"
+            "value": "防御",
+            "hide": false
         },
         {
             "key": "ability.discard_add_attack1.desc",
-            "value": "相手がカードを捨てるたび攻撃力+1を得る"
+            "value": "相手が強制的に捨てられるたびに+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.discard_add_attack1.title",
-            "value": "捨て札強化"
+            "value": "ディスカードゲイン",
+            "hide": false
         },
         {
             "key": "ability.egg_growth.desc",
-            "value": "3ターン後、フィラに変身する"
+            "value": "3ターン後、Phyraに変身する。",
+            "hide": false
         },
         {
             "key": "ability.egg_growth.title",
-            "value": "卵"
+            "value": "卵",
+            "hide": false
         },
         {
             "key": "ability.egg_transform.desc",
-            "value": "3ターン後、フィラに変身する"
+            "value": "3ターン後、Phyraに変身する。",
+            "hide": false
         },
         {
             "key": "ability.egg_transform.title",
-            "value": "フィラ変身"
+            "value": "Phyra変身",
+            "hide": false
         },
         {
             "key": "ability.enrage.desc",
-            "value": "このモンスターがダメージを受けるたび攻撃力+1。"
+            "value": "モンスターがダメージを受けるたびに+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.enrage.title",
-            "value": "激昂"
+            "value": "エンラージ",
+            "hide": false
         },
         {
             "key": "ability.enrage2.desc",
-            "value": "このモンスターがダメージを受けるたび攻撃力+2。"
+            "value": "モンスターがダメージを受けるたびに+2攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.enrage2.title",
-            "value": "激昂II"
+            "value": "エンラージ2",
+            "hide": false
         },
         {
             "key": "ability.enrage3.desc",
-            "value": "このモンスターがダメージを受けるたび攻撃力+3。"
+            "value": "モンスターがダメージを受けるたびに+3攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.enrage3.title",
-            "value": "激昂III"
+            "value": "エンラージ3",
+            "hide": false
         },
         {
             "key": "ability.enrage4.desc",
-            "value": "このモンスターがダメージを受けるたび攻撃力+4。"
+            "value": "モンスターがダメージを受けるたびに+4攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.enrage4.title",
-            "value": "激昂IV"
+            "value": "エンラージ4",
+            "hide": false
         },
         {
             "key": "ability.equip_armor2.desc",
-            "value": "装備者が+2アーマー"
+            "value": "着用者は+2アーマーを持つ。",
+            "hide": true
         },
         {
             "key": "ability.equip_armor2.title",
-            "value": "アーマー"
+            "value": "アーマー",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_equals_current_hp.desc",
-            "value": "装備者の攻撃力は現在のHPと同じになる"
+            "value": "着用者の攻撃が現在のHPと等しくなる",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_equals_current_hp.title",
-            "value": "イコライザー"
+            "value": "イコライザー",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_equals_max_hp.desc",
-            "value": "装備者の攻撃力は最大HPと同じになる"
+            "value": "着用者の攻撃が最大HPと等しくなる",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_equals_max_hp.title",
-            "value": "イコライザー"
+            "value": "イコライザー",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_no_damage.desc",
-            "value": "攻撃時、対象が反撃しない"
+            "value": "攻撃時、対象が反撃しない。",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_no_damage.title",
-            "value": "威嚇"
+            "value": "威嚇",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_use.desc",
-            "value": "各攻撃後に耐久度1失う"
+            "value": "各攻撃後に耐久性を1失う。",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_use.title",
-            "value": "剣"
+            "value": "剣",
+            "hide": true
         },
         {
             "key": "ability.equip_attack1.desc",
-            "value": "装備者が+1攻撃"
+            "value": "着用者が+1攻撃を持つ。",
+            "hide": false
         },
         {
             "key": "ability.equip_attack1.title",
-            "value": "攻撃"
+            "value": "攻撃",
+            "hide": false
         },
         {
             "key": "ability.equip_attack2.desc",
-            "value": "装備者が+2攻撃"
+            "value": "着用者が+2攻撃を持つ。",
+            "hide": false
         },
         {
             "key": "ability.equip_attack2.title",
-            "value": "攻撃"
+            "value": "攻撃",
+            "hide": false
         },
         {
             "key": "ability.equip_defend_use.desc",
-            "value": "攻撃された時に耐久度1失う"
+            "value": "攻撃されたときに耐久性を1失う。",
+            "hide": true
         },
         {
             "key": "ability.equip_defend_use.title",
-            "value": "盾"
+            "value": "盾",
+            "hide": true
         },
         {
             "key": "ability.equip_gain_mana.desc",
-            "value": "次の3ターン、ターンごとに2追加マナを得る"
+            "value": "次の3ターンごとに追加2マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.equip_gain_mana.title",
-            "value": "マナリング"
+            "value": "マナリング",
+            "hide": false
         },
         {
             "key": "ability.equip_mana_kill.desc",
-            "value": "装備者がカードを殺すと3マナを得る"
+            "value": "着用者がカードを殺すと3マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.equip_mana_kill.title",
-            "value": "マナリング"
+            "value": "マナリング",
+            "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "次の3ターン、ターンごとに2追加マナを得る"
+            "value": "次の3ターンごとに追加2マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "マナリング"
+            "value": "マナリング",
+            "hide": false
         },
         {
             "key": "ability.equip_taunt.desc",
-            "value": "装備者が挑発を得る"
+            "value": "着用者がトーントを持つ。",
+            "hide": true
         },
         {
             "key": "ability.equip_taunt.title",
-            "value": "挑発"
+            "value": "トーント",
+            "hide": true
         },
         {
             "key": "ability.equip_turn_use.desc",
-            "value": "各ターン後に耐久度1失う"
+            "value": "各ターン後に耐久性を1失う。",
+            "hide": true
         },
         {
             "key": "ability.flying.desc",
-            "value": "挑発を無視できる"
+            "value": "トーントを無視する。",
+            "hide": true
         },
         {
             "key": "ability.flying.title",
-            "value": "飛行"
+            "value": "飛行",
+            "hide": true
         },
         {
             "key": "ability.fury.desc",
-            "value": "ターンに2回攻撃できる"
+            "value": "ターンごとに2回攻撃できる。",
+            "hide": true
         },
         {
             "key": "ability.fury.title",
-            "value": "狂戦士"
+            "value": "フューリー",
+            "hide": true
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "ロケーションを召喚するたびにシェルを得る。"
+            "value": "ロケーションを召喚するたびにシェルを得る。",
+            "hide": true
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "シェル獲得"
+            "value": "シェルを得る",
+            "hide": true
         },
         {
             "key": "ability.ghost.desc",
-            "value": "攻撃時にダメージを受けない"
+            "value": "攻撃時にダメージを受けない。",
+            "hide": true
         },
         {
             "key": "ability.ghost.title",
-            "value": "幽霊"
+            "value": "ゴースト",
+            "hide": true
         },
         {
             "key": "ability.haste.desc",
-            "value": "すぐに攻撃できる"
+            "value": "すぐに攻撃できる。",
+            "hide": false
         },
         {
             "key": "ability.haste.title",
-            "value": "ヘイスト"
+            "value": "ヘイスト",
+            "hide": false
         },
         {
             "key": "ability.ice punch.desc",
-            "value": "攻撃時にダメージを受けない。"
+            "value": "攻撃時にダメージを受けない。",
+            "hide": true
         },
         {
             "key": "ability.ice punch.title",
-            "value": "れいとうパンチ"
+            "value": "アイスパンチ",
+            "hide": true
         },
         {
             "key": "ability.icy_buff1.desc",
-            "value": "敵が凍結していると攻撃力+1を得る。"
+            "value": "凍結された敵ごとに+1を得る。",
+            "hide": false
         },
         {
             "key": "ability.icy_buff1.title",
-            "value": "氷の強化"
+            "value": "アイシーブースト",
+            "hide": false
         },
         {
             "key": "ability.kill_draw1.desc",
-            "value": "このクリーチャーで別のキャラクターを倒したとき、カードを1枚引く。"
+            "value": "このモンスターで他のモンスターを殺すとカードを1枚引く。",
+            "hide": false
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "ドロー"
+            "value": "ドロー",
+            "hide": false
         },
         {
             "key": "ability.kill_draw2.desc",
-            "value": "このクリーチャーで別のキャラクターを倒すたび、カードを2枚引く"
+            "value": "このモンスターで他のモンスターを殺すとカードを2枚引く。",
+            "hide": false
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "ドロー"
+            "value": "ドロー",
+            "hide": false
         },
         {
             "key": "ability.lifesteal.desc",
-            "value": "ダメージを与えるたびにプレイヤーのHPを回復する"
+            "value": "ダメージを与えるとプレイヤーをヒールする。",
+            "hide": true
         },
         {
             "key": "ability.lifesteal.title",
-            "value": "ライフスティール"
+            "value": "ライフスティール",
+            "hide": true
         },
         {
             "key": "ability.location_mana_discount.desc",
-            "value": "同じ元素タイプのロケーションカードのコストが1下がる"
+            "value": "同じ要素タイプのロケーションカードがマナディスカウント1を得る。",
+            "hide": false
         },
         {
             "key": "ability.location_mana_discount.title",
-            "value": "ロケーションオーラ"
+            "value": "ロケーションオーラ",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
-            "value": "3マナ以下の敵キャラクターを1ターン制御。対象がラッシュを得る"
+            "value": "敵モンスターのコントロールを1ターン取り、3以下のマナコストのモンスターにラッシュを与える。",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.desc",
-            "value": "敵キャラクターを1ターン制御し、ラッシュを与える"
+            "value": "敵モンスターのコントロールを1ターン取り、ヘイストを与える",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_any.desc",
-            "value": "敵キャラクターを3ターンの間、または進化するまで支配する"
+            "value": "敵モンスターのコントロールを3ターン取り、または進化するまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_any.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_any_spell.desc",
-            "value": "敵キャラクターを3ターンの間、または進化するまで支配する"
+            "value": "敵モンスターのコントロールを3ターン取り、または進化するまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_any_spell.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
-            "value": "4マナ以下の敵キャラクターを3ターン制御、または進化するまで"
+            "value": "敵モンスターのコントロールを4以下のマナコストで2ターン取り、または進化するまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.desc",
-            "value": "4マナ以下の敵キャラクターを3ターン制御、または進化するまで"
+            "value": "敵モンスターのコントロールを4以下のマナコストで2ターン取り、または進化するまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.desc",
-            "value": "攻撃力2の敵キャラクターを3ターンの間、または進化するかボードを離れるまで支配する"
+            "value": "敵モンスターのコントロールを2攻撃以下で2ターン取り、または進化/ボードを離れるまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
-            "value": "3攻撃の敵キャラクターを3ターン制御、または進化/ボード離脱するまで"
+            "value": "敵モンスターのコントロールを3攻撃以下で2ターン取り、または進化/このカードがボードを離れるまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.desc",
-            "value": "攻撃力5の敵キャラクターを2ターンの間、または進化するかボードを離れるまで支配する"
+            "value": "敵モンスターのコントロールを5攻撃以下で2ターン取り、または進化/このカードがボードを離れるまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.desc",
-            "value": "2マナ以下の敵キャラクターを3ターン制御、または進化/離脱するまで"
+            "value": "敵モンスターのコントロールを2マナ以下で2ターン取り、または進化/ゲームを離れるまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.desc",
-            "value": "3マナ以下の敵キャラクターを3ターン制御、または進化/離脱するまで"
+            "value": "敵モンスターのコントロールを3マナ以下で2ターン取り、または進化/ゲームを離れるまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.desc",
-            "value": "4マナの敵キャラクターを3ターン制御、または進化するまで"
+            "value": "敵モンスターのコントロールを4マナコストで2ターン取り、または進化するまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.desc",
-            "value": "5マナ以上の敵キャラクターを3ターン制御、または進化/このカード離脱するまで"
+            "value": "敵モンスターのコントロールを5マナ以上で2ターン取り、または進化/このカードがボードを離れるまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.desc",
-            "value": "5マナ以上の敵キャラクターを3ターン制御、または進化/このカード離脱するまで"
+            "value": "敵モンスターのコントロールを5マナ以下で2ターン取り、または進化/このカードがボードを離れるまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_m5l.desc",
-            "value": "5マナ以下の敵キャラクターを3ターン制御、または進化するまで"
+            "value": "敵モンスターのコントロールを5以下のマナコストで2ターン取り、または進化するまで",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_m5l.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.ongoing_cannot_attack.desc",
-            "value": "このモンスターは敵の対象を攻撃できない"
+            "value": "このモンスターは敵の目標を攻撃できない。",
+            "hide": false
         },
         {
             "key": "ability.ongoing_cannot_attack.title",
-            "value": "攻撃不可"
+            "value": "攻撃不可",
+            "hide": false
         },
         {
             "key": "ability.overkill.desc",
-            "value": "余剰ダメージが攻撃者を回復する"
+            "value": "余剰ダメージが攻撃者をヒールする。",
+            "hide": false
         },
         {
             "key": "ability.overkill.title",
-            "value": "オーバーキル"
+            "value": "オーバーキル",
+            "hide": false
         },
         {
             "key": "ability.play_add_armor1.desc",
-            "value": "プレイ時にアーマーを1得る。"
+            "value": "プレイ時、1アーマーを得る。",
+            "hide": true
         },
         {
             "key": "ability.play_add_armor1.title",
-            "value": "初期アーマー1"
+            "value": "初期アーマー1",
+            "hide": true
         },
         {
             "key": "ability.play_add_armor2.desc",
-            "value": "プレイ時にアーマーを2得る。"
+            "value": "プレイ時、2アーマーを得る。",
+            "hide": true
         },
         {
             "key": "ability.play_add_armor2.title",
-            "value": "初期アーマー2"
+            "value": "初期アーマー2",
+            "hide": true
         },
         {
             "key": "ability.play_add_armor3.desc",
-            "value": "プレイ時にアーマーを3得る。"
+            "value": "プレイ時、3アーマーを得る。",
+            "hide": true
         },
         {
             "key": "ability.play_add_armor3.title",
-            "value": "初期アーマー3"
+            "value": "初期アーマー3",
+            "hide": true
         },
         {
             "key": "ability.play_boost_hp_1.desc",
-            "value": "プレイ時、他のクリーチャーに次のターンまで+2HPを与える"
+            "value": "プレイ時、他のモンスターに次のターンまで+2 HPを与える。",
+            "hide": true
         },
         {
             "key": "ability.play_boost_hp_1.title",
-            "value": "HP祝福"
+            "value": "HP祝福",
+            "hide": true
         },
         {
             "key": "ability.play_boost2.desc",
-            "value": "プレイ時、他のクリーチャーに次のターンまで+2/+2を与える"
+            "value": "プレイ時、他のモンスターに次のターンまで+2/2を与える。",
+            "hide": true
         },
         {
             "key": "ability.play_boost2.title",
-            "value": "祝福"
+            "value": "祝福",
+            "hide": true
         },
         {
             "key": "ability.play_boost2_permanent.desc",
-            "value": "プレイ時、次の自分のターンまで別のクリーチャーに+2/+2を与える。"
+            "value": "プレイ時、他のモンスターに次のターンまで+2/2を与える。",
+            "hide": false
         },
         {
             "key": "ability.play_boost2_permanent.title",
-            "value": "祝福"
+            "value": "祝福",
+            "hide": false
         },
         {
             "key": "ability.play_boost3.desc",
-            "value": "プレイ時、他のクリーチャーに3ターン+3/+3を与える"
+            "value": "プレイ時、他のモンスターに3ターン+3/3を与える",
+            "hide": false
         },
         {
             "key": "ability.play_boost3.title",
-            "value": "祝福"
+            "value": "植物祝福",
+            "hide": false
         },
         {
             "key": "ability.play_burn.desc",
-            "value": "対象のキャラクターに火傷を付与し、毎ターンHPを2失わせる"
+            "value": "対象モンスターがバーンを得る。毎ターン2 hpを失う。",
+            "hide": true
         },
         {
             "key": "ability.play_burn.title",
-            "value": "火傷"
+            "value": "バーン",
+            "hide": true
         },
         {
             "key": "ability.play_burn_all.desc",
-            "value": "プレイ時、場の他のモンスター全てを燃焼させる。"
+            "value": "プレイ時、ゲーム中の他のすべてのモンスターをバーンする。",
+            "hide": true
         },
         {
             "key": "ability.play_burn_all.title",
-            "value": "全体燃焼"
+            "value": "すべてバーン",
+            "hide": true
         },
         {
             "key": "ability.play_burn_all_minus_fire.desc",
-            "value": "プレイ時、場の他の非火属性モンスターすべてを燃焼させる。"
+            "value": "プレイ時、ゲーム中の他のすべての非ファイアモンスターをバーンする。",
+            "hide": true
         },
         {
             "key": "ability.play_burn_all_minus_fire.title",
-            "value": "全体燃焼"
+            "value": "すべてバーン",
+            "hide": true
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.desc",
-            "value": "呪文耐性または能力耐性を得る"
+            "value": "スペル免疫または能力免疫を得る",
+            "hide": false
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.title",
-            "value": "選択"
+            "value": "選択",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_armor2.desc",
-            "value": "挑発か2アーマーを得る"
+            "value": "トーントまたは2アーマーを得る",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_armor2.title",
-            "value": "挑発/アーマー選択"
+            "value": "選択トーントアーマー",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_fury.desc",
-            "value": "挑発または狂戦士を得る"
+            "value": "トーントまたはフューリーを得る",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
-            "value": "選択"
+            "value": "選択",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_rush.desc",
-            "value": "挑発かラッシュを得る"
+            "value": "トーントまたはチャージを得る",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_rush.title",
-            "value": "選択"
+            "value": "選択",
+            "hide": false
         },
         {
             "key": "ability.play_copy_highest_board_armor.desc",
-            "value": "盤面上のモンスターの中で最も高いアーマー値をコピーしてこのモンスターに付与する。"
+            "value": "ボード上の任意のモンスターの最高アーマーカウントをコピーしてこのモンスターに適用する。",
+            "hide": false
         },
         {
             "key": "ability.play_copy_highest_board_armor.title",
-            "value": "最高アーマーコピー"
+            "value": "最高アーマーコピー",
+            "hide": false
         },
         {
             "key": "ability.play_copy_sum_board_armor.title",
-            "value": "アーマーコピー"
+            "value": "アーマーコピー",
+            "hide": false
         },
         {
             "key": "ability.play_cure.desc",
-            "value": "プレイ時、他のキャラクターの負の状態異常をすべて回復する"
+            "value": "プレイ時、他のモンスターをすべての負の効果から治す。",
+            "hide": false
         },
         {
             "key": "ability.play_cure.title",
-            "value": "浄化"
+            "value": "キュア",
+            "hide": false
         },
         {
             "key": "ability.play_cure_bless2.desc",
-            "value": "プレイ時、他のキャラクターの負の状態異常をすべて回復し、HP+2を付与する"
+            "value": "プレイ時、他のモンスターをすべての負の効果から治し+2HPを与える",
+            "hide": false
         },
         {
             "key": "ability.play_cure_bless2.title",
-            "value": "浄化の祝福"
+            "value": "キュアブレス",
+            "hide": false
         },
         {
             "key": "ability.play_curse.desc",
-            "value": "対象のキャラクターに呪いを付与し、毎ターン攻撃力を1失わせる"
+            "value": "対象モンスターが呪いを得る。毎ターン1攻撃を失う。",
+            "hide": true
         },
         {
             "key": "ability.play_curse.title",
-            "value": "呪い"
+            "value": "カース",
+            "hide": true
         },
         {
             "key": "ability.play_curse_all.desc",
-            "value": "プレイ時、場のカードすべてを呪う"
+            "value": "プレイ時、ゲーム中のすべてのカードを呪う。",
+            "hide": false
         },
         {
             "key": "ability.play_curse_all.title",
-            "value": "全体呪い"
+            "value": "すべてカース",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all_players2.desc",
-            "value": "プレイ時、両方のプレイヤーに2ダメージを与える。"
+            "value": "プレイ時、両プレイヤーに2ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all_players2.title",
-            "value": "ダメージ"
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all1.desc",
-            "value": "プレイ時、他のカードすべてに1ダメージを与える"
+            "value": "プレイ時、ボード上のすべてのカードに1ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all1.title",
-            "value": "全体1ダメージ"
+            "value": "すべてダメージ",
+            "hide": false
+        },
+        {
+            "key": "ability.play_damage_all1_not_self.desc",
+            "value": "プレイ時、ボード上のすべてのカードに1ダメージを与える。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_damage_all1_not_self.title",
+            "value": "すべてダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all2.desc",
-            "value": "プレイ時、他のカードすべてに2ダメージを与える"
+            "value": "プレイ時、すべてのカードに2ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all2.title",
-            "value": "全体2ダメージ"
+            "value": "ダメージ",
+            "hide": false
+        },
+        {
+            "key": "ability.play_damage_all2_not_self.desc",
+            "value": "プレイ時、他のすべてのカードに2ダメージを与える。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_damage_all2_not_self.title",
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_damage_electric_all2.desc",
-            "value": "プレイ時、敵モンスターに2ダメージを与える"
+            "value": "プレイ時、敵モンスターに2ダメージを与える",
+            "hide": false
         },
         {
             "key": "ability.play_damage_electric_all2.title",
-            "value": "電撃"
+            "value": "エレクトリックダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "登場時、凍結しているキャラクターに2ダメージを与える。"
+            "value": "プレイ時、凍結されたモンスターに2ダメージを与える",
+            "hide": false
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "ダメージ"
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
-            "value": "プレイ時、任意の対象に1ダメージを与える。"
+            "value": "プレイ時、任意の対象に1ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage_cards_players2.title",
-            "value": "ダメージ"
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1.desc",
-            "value": "プレイ時、任意の対象に1ダメージを与える"
+            "value": "プレイ時、任意の対象に1ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1.title",
-            "value": "1点ダメージ"
+            "value": "ダメージ",
+            "hide": false
+        },
+        {
+            "key": "ability.play_deal_damage1_enemy_board_card.desc",
+            "value": "プレイ時、ボード上の敵対象に1ダメージを与える。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_deal_damage1_enemy_board_card.title",
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1_self.desc",
-            "value": "プレイ時、自身に1ダメージを与える。"
+            "value": "プレイ時、自分に1ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1_self.title",
-            "value": "自傷"
+            "value": "セルフダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage2.desc",
-            "value": "プレイ時、任意の対象に2ダメージを与える"
+            "value": "プレイ時、任意の対象に2ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage2.title",
-            "value": "2点ダメージ"
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less2.desc",
-            "value": "プレイ時、攻撃力2以下のキャラクターを破壊する。そうしたらカードを1枚引く"
+            "value": "プレイ時、2以下の攻撃を持つモンスターを破壊する。成功したらカードを1枚引く。",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less2.title",
-            "value": "キラー"
+            "value": "アサシン",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less3.desc",
-            "value": "プレイ時、攻撃力3以下のキャラクターを破壊する。そうしたらカードを1枚引く"
+            "value": "プレイ時, 3以下の攻撃を持つモンスターを破壊する。成功したらカードを1枚引く。",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less3.title",
-            "value": "キラー"
+            "value": "アサシン",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less4.desc",
-            "value": "プレイ時、攻撃力3以下のキャラクターを破壊する"
+            "value": "プレイ時, 4以下の攻撃を持つモンスターを破壊する。",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less4.title",
-            "value": "キラー"
-        },
-        {
-            "key": "ability.play_discard.desc",
-            "value": "相手は手札からランダムなカードを1枚捨てる"
-        },
-        {
-            "key": "ability.play_discard.title",
-            "value": "ディスカード"
-        },
-        {
-            "key": "ability.play_discard_draw.desc",
-            "value": "プレイ時、手札からランダムなカードを1枚捨て、新たに2枚引く"
-        },
-        {
-            "key": "ability.play_discard_draw.title",
-            "value": "ギャンブル"
-        },
-        {
-            "key": "ability.play_discard3.desc",
-            "value": "相手は手札からランダムなカードを3枚捨てる"
-        },
-        {
-            "key": "ability.play_discard3.title",
-            "value": "ディスカード"
-        },
-        {
-            "key": "ability.play_draw.desc",
-            "value": "カードを1枚引く"
-        },
-        {
-            "key": "ability.play_draw.title",
-            "value": "ドロー"
-        },
-        {
-            "key": "ability.play_draw_ice_location.desc",
-            "value": "イグルーが場にあるならカードを1枚引く。"
-        },
-        {
-            "key": "ability.play_draw_ice_location.title",
-            "value": "イグルードロー"
-        },
-        {
-            "key": "ability.play_enemy_discard.desc",
-            "value": "相手は手札からランダムなカードを1枚捨てる"
-        },
-        {
-            "key": "ability.play_enemy_discard.title",
-            "value": "ディスカード"
-        },
-        {
-            "key": "ability.play_freeze.desc",
-            "value": "対象のキャラクターを1ターン凍結する"
-        },
-        {
-            "key": "ability.play_freeze.title",
-            "value": "凍結"
-        },
-        {
-            "key": "ability.play_freeze_2al.desc",
-            "value": "対象のキャラクターを1ターン凍結する"
-        },
-        {
-            "key": "ability.play_freeze_2al.title",
-            "value": "凍結"
-        },
-        {
-            "key": "ability.play_freeze_3al.desc",
-            "value": "対象のキャラクターを1ターン凍結する"
-        },
-        {
-            "key": "ability.play_freeze_3al.title",
-            "value": "凍結"
-        },
-        {
-            "key": "ability.play_freeze_4al.desc",
-            "value": "攻撃力4以下の対象キャラクターを1ターンの間凍結する。"
-        },
-        {
-            "key": "ability.play_freeze_4al.title",
-            "value": "標的凍結（攻撃力4）"
+            "value": "強力な殺し屋",
+            "hide": false
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "すべてのキャラクターを凍結させる。"
+            "value": "プレイ時, すべての敵モンスターを凍結する。",
+            "hide": false
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "大吹雪"
-        },
-        {
-            "key": "ability.play_freeze_all_3al.desc",
-            "value": "攻撃力3以下の敵をすべて凍結する。"
-        },
-        {
-            "key": "ability.play_freeze_all_3al.title",
-            "value": "ブリザード"
-        },
-        {
-            "key": "ability.play_freeze_all_4al.desc",
-            "value": "攻撃力4以下の敵をすべて凍結する。"
-        },
-        {
-            "key": "ability.play_freeze_all_4al.title",
-            "value": "ブリザード"
-        },
-        {
-            "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "この対戦で出したイグルー1つにつき攻撃力+1を得る。"
-        },
-        {
-            "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "イグルーボーナス"
-        },
-        {
-            "key": "ability.play_gain_rush_ice_location.desc",
-            "value": "氷のロケーションが場にあるならラッシュを得る。ラッシュはプレイしたターンに他のカードを攻撃できる"
-        },
-        {
-            "key": "ability.play_gain_rush_ice_location.title",
-            "value": "スラッシュラッシュ"
+            "value": "大吹雪",
+            "hide": false
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "氷のロケーションが場にあるならラッシュを得る。ラッシュはプレイしたターンに他のカードを攻撃できる"
+            "value": "氷のロケーションがプレイされている場合、ラッシュを得る。ラッシュは、プレイしたターンに他のカードを攻撃できるようにする。",
+            "hide": false
         },
         {
             "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "スラッシュラッシュ"
+            "value": "氷のパワー",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_all_allies1.desc",
-            "value": "プレイ中の味方カードすべてのHPを1回復する。"
+            "key": "ability.play_gota_spawn.desc",
+            "value": "プレイ時, ゴタを召喚する。",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_all_allies1.title",
-            "value": "味方回復"
+            "key": "ability.play_gota_spawn.title",
+            "value": "ゴタ召喚",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player2.desc",
-            "value": "プレイ時、プレイヤーを4HP回復する"
+            "key": "ability.play_grow.desc",
+            "value": "プレイ時, +1/+1を得る。",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player2.title",
-            "value": "プレイヤー祝福"
+            "key": "ability.play_grow.title",
+            "value": "成長",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player4.desc",
-            "value": "プレイ時、プレイヤーを4HP回復する"
+            "key": "ability.play_harm_all_blue.desc",
+            "value": "プレイ時, すべての敵水モンスターに1ダメージを与える。",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player4.title",
-            "value": "プレイヤー祝福"
+            "key": "ability.play_harm_all_blue.title",
+            "value": "水質汚染",
+            "hide": false
         },
         {
-            "key": "ability.play_other_sacrifice.desc",
-            "value": "味方クリーチャーが場に出ると、このカードを破壊する"
+            "key": "ability.play_harm_red.desc",
+            "value": "プレイ時, ターゲットの火モンスターに3ダメージを与える。",
+            "hide": false
         },
         {
-            "key": "ability.play_other_sacrifice.title",
-            "value": "絶滅"
+            "key": "ability.play_harm_red.title",
+            "value": "消火",
+            "hide": false
+        },
+        {
+            "key": "ability.play_heal_if_blue.desc",
+            "value": "プレイ時, 味方の水モンスターがプレイされている場合、ターゲットに3 hpを回復する。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_heal_if_blue.title",
+            "value": "水の癒し",
+            "hide": false
+        },
+        {
+            "key": "ability.play_increase_max.desc",
+            "value": "プレイ時, ターゲットが+2最大hpを得る。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_increase_max.title",
+            "value": "強化",
+            "hide": false
+        },
+        {
+            "key": "ability.play_kabu_spawn.desc",
+            "value": "プレイ時, カブを召喚する。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_kabu_spawn.title",
+            "value": "カブ召喚",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_attack.desc",
+            "value": "プレイ時, ターゲットが-2攻撃を得る。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_attack.title",
+            "value": "弱体化",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_health.desc",
+            "value": "プレイ時, ターゲットが2最大hpを失う。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_health.title",
+            "value": "活力吸収",
+            "hide": false
+        },
+        {
+            "key": "ability.play_mulch.desc",
+            "value": "プレイ時, このカードを破壊する。2枚のカードを引く。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_mulch.title",
+            "value": "マルチ",
+            "hide": false
+        },
+        {
+            "key": "ability.play_poison_to_all.desc",
+            "value": "プレイ時, すべてのモンスターがポイズンを得る。毎ターン1 hpを失う。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_poison_to_all.title",
+            "value": "有毒な雲",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_all_but_1.desc",
+            "value": "プレイ時, ターゲットの現在のhpを1に設定する。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_all_but_1.title",
+            "value": "致命的な一撃",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_armor.desc",
+            "value": "プレイ時, ターゲットからすべてのアーマーを削除する。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_armor.title",
+            "value": "アーマー破壊",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_max.desc",
+            "value": "プレイ時, ターゲットが4最大hpを失う。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_max.title",
+            "value": "衰弱",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sapling_spawn.desc",
+            "value": "プレイ時, 苗木を召喚する。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sapling_spawn.title",
+            "value": "苗木召喚",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sho_spawn.desc",
+            "value": "プレイ時, ショウを召喚する。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sho_spawn.title",
+            "value": "ショウ召喚",
+            "hide": false
+        },
+        {
+            "key": "ability.play_shuffle_igloo.desc",
+            "value": "プレイ時, イグルーをデッキにシャッフルする。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_shuffle_igloo.title",
+            "value": "イグルー建設",
+            "hide": false
+        },
+        {
+            "key": "ability.play_spawn_kappa.desc",
+            "value": "プレイ時, カッパを召喚する。",
+            "hide": false
+        },
+        {
+            "key": "ability.play_spawn_kappa.title",
+            "value": "カッパ召喚",
+            "hide": false
         },
         {
             "key": "ability.play_poison.desc",
-            "value": "対象のキャラクターに毒を付与し、毎ターンHPを1失わせる"
+            "value": "対象がポイズンを得る。毎ターン1 hpを失う。",
+            "hide": true
         },
         {
             "key": "ability.play_poison.title",
-            "value": "毒"
+            "value": "ポイズン",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all.desc",
-            "value": "プレイ時、場のカードすべてを毒状態にする"
+            "value": "プレイ時, ゲーム中のすべてのカードをポイズンする。",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all.title",
-            "value": "全体毒"
+            "value": "すべてポイズン",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all_enemies.desc",
-            "value": "プレイ時、場にいるすべての敵を毒状態にする。"
+            "value": "プレイ時, ゲーム中のすべての敵モンスターをポイズンする。",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all_enemies.title",
-            "value": "敵を毒化"
+            "value": "敵ポイズン",
+            "hide": true
+        },
+        {
+            "key": "ability.play_poison_self.desc",
+            "value": "対象モンスターがポイズンを得る。毎ターン1 hpを失う。",
+            "hide": true
+        },
+        {
+            "key": "ability.play_poison_self.title",
+            "value": "ポイズン",
+            "hide": true
         },
         {
             "key": "ability.play_return_target_hand.desc",
-            "value": "任意の対象を持ち主の手札に戻す。"
+            "value": "任意の対象を元の所有者の手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.play_return_target_hand.title",
-            "value": "バウンス"
+            "value": "バウンス",
+            "hide": false
         },
         {
             "key": "ability.play_roll_attack.desc",
-            "value": "D6を振り、その出目分だけこのカードの攻撃力を上げる"
+            "value": "D6を振って、このカードの攻撃を結果で増加させる。",
+            "hide": false
         },
         {
             "key": "ability.play_roll_attack.title",
-            "value": "ランダム攻撃"
+            "value": "ランダム攻撃。",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_any.desc",
-            "value": "プレイ時、自分の墓地からカード1枚を手札に戻す。"
+            "value": "プレイ時, ディスカードからカードを手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_any.title",
-            "value": "深掘り"
+            "value": "深い発掘",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_character.desc",
-            "value": "プレイ時、自分の墓地からキャラクターカード1枚を手札に戻す。"
+            "value": "プレイ時, ディスカードからモンスターを手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_character.title",
-            "value": "発掘"
+            "value": "発掘",
+            "hide": false
         },
         {
             "key": "ability.play_send_hand.desc",
-            "value": "プレイ時、キャラクター1体を持ち主の手札に戻す。"
+            "value": "プレイ時, モンスターを元の所有者の手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.play_send_hand.title",
-            "value": "バウンス"
+            "value": "バウンス",
+            "hide": false
         },
         {
             "key": "ability.play_set_attack1.desc",
-            "value": "プレイ時、選択した対象の攻撃力を1に下げる"
+            "value": "プレイ時, 選択した対象の攻撃を1に減らす。",
+            "hide": true
         },
         {
             "key": "ability.play_set_attack1.title",
-            "value": "感電"
+            "value": "エレクトリファイ",
+            "hide": true
         },
         {
             "key": "ability.play_set_attack3.desc",
-            "value": "プレイ時、選択した対象の攻撃力を3に設定する"
+            "value": "プレイ時, 選択した対象の攻撃を3に設定する。",
+            "hide": false
         },
         {
             "key": "ability.play_set_attack3.title",
-            "value": "サイキック"
+            "value": "サイキック",
+            "hide": false
         },
         {
             "key": "ability.play_silence.desc",
-            "value": "対象の能力を無効化する"
+            "value": "対象の能力をキャンセルする。",
+            "hide": true
         },
         {
             "key": "ability.play_silence.title",
-            "value": "沈黙"
+            "value": "サイレンス",
+            "hide": true
         },
         {
             "key": "ability.play_silence_curse.desc",
-            "value": "対象の能力を無効化し、そのモンスターに呪いを付与する"
+            "value": "対象の能力をキャンセルし、モンスターを呪う",
+            "hide": true
         },
         {
             "key": "ability.play_silence_curse.title",
-            "value": "沈黙の呪い"
+            "value": "サイレンスカース",
+            "hide": true
         },
         {
             "key": "ability.play_suffer.desc",
-            "value": "対象のクリーチャーに「攻撃前に3ダメージを受ける」を付与する"
+            "value": "対象モンスターが「攻撃前に3ダメージを受ける」を得る。",
+            "hide": false
         },
         {
             "key": "ability.play_suffer.title",
-            "value": "地割れ"
+            "value": "大地の分裂",
+            "hide": false
         },
         {
             "key": "ability.play_summon_cat.desc",
-            "value": "プレイ時、隣接する空きマスに1/1のジャガーの子猫を召喚する"
+            "value": "プレイ時, 隣接する空きスペースにベビージャガ1/1を召喚する。",
+            "hide": false
         },
         {
             "key": "ability.play_summon_cat.title",
-            "value": "ジャガー召喚"
+            "value": "ジャガ召喚",
+            "hide": false
         },
         {
             "key": "ability.play_summon_fractail.desc",
-            "value": "プレイ時、隣接する空きマスにベビーリゾを召喚する"
+            "value": "プレイ時, 隣接する空きスペースにベビーリゾを召喚する。",
+            "hide": false
         },
         {
             "key": "ability.play_summon_fractail.title",
-            "value": "リゾ召喚"
+            "value": "リゾ召喚",
+            "hide": false
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "登場時にハジコを召喚する。"
+            "value": "プレイ時ハジコを召喚する",
+            "hide": false
         },
         {
             "key": "ability.play_summon_hajiko.title",
-            "value": "ハジコ召喚"
+            "value": "ハジコ召喚",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "登場時にイグルーを召喚する。"
+            "value": "プレイ時イグルーを召喚する",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo.title",
-            "value": "イグルー召喚"
+            "value": "イグルー召喚",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "場にイグルーがなければイグルーを召喚する。"
+            "value": "すでにイグルーがない場合イグルーを召喚する。",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "イグルー建造"
+            "value": "イグルー構築",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo1_freeze3al.desc",
+            "value": "プレイ時イグルーを召喚し、3以下の攻撃の敵モンスターを凍結する",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo1_freeze3al.title",
+            "value": "イグルー召喚 / フリーズ",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo2.desc",
-            "value": "プレイ時にイグルーを2体召喚する"
+            "value": "プレイ時2イグルーを召喚する",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo2.title",
-            "value": "イグルー召喚"
+            "value": "イグルー召喚",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo2_freeze3al.desc",
-            "value": "プレイ時にイグルーを2体召喚する"
+            "value": "プレイ時2イグルーを召喚する",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo2_freeze3al.title",
-            "value": "イグルー召喚"
+            "value": "イグルー召喚",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
-            "value": "プレイ時、マナコスト2以下の対象キャラクターを選び、陣営を入れ替える"
+            "value": "プレイ時、マナコスト2以下の対象モンスターを選択して側を切り替える",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_2ml.title",
-            "value": "忠誠交換"
+            "value": "忠誠交換",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_any.desc",
-            "value": "プレイ時、ボード上の任意のキャラクターを選び、相手側に送る"
+            "value": "プレイ時, ボード上の任意のモンスターを選択して他のプレイヤーに送る。",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_any.title",
-            "value": "忠誠交換"
+            "value": "忠誠交換",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
-            "value": "プレイ時、ボード上の任意のキャラクターを選び、相手側に送る"
+            "value": "プレイ時, ボード上の任意のモンスターを選択して他のプレイヤーに送る。",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.title",
-            "value": "忠誠交換"
+            "value": "忠誠交換",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.desc",
-            "value": "プレイ時、自分のキャラクターを選び、相手側に送る"
+            "value": "プレイ時, あなたのコントロール下のモンスターを選択して他のプレイヤーに送る。",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.title",
-            "value": "忠誠交換"
+            "value": "忠誠交換",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.desc",
-            "value": "プレイ時、自分のキャラクターを選び、毎ターン手札を2枚捨てる能力を持たせて相手に渡す"
+            "value": "プレイ時, あなたのコントロール下のモンスターを選択して他のプレイヤーに送り、能力で手札から2枚捨てる",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.title",
-            "value": "忠誠交換"
+            "value": "忠誠交換",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
-            "value": "プレイ時、自分のキャラクターを選び、毎ターン手札を2枚捨てる能力を持たせて相手に渡す"
+            "value": "プレイ時, あなたのコントロール下のモンスターを選択して他のプレイヤーに送り、能力で敵モンスターが+1/+2を得る",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
-            "value": "忠誠交換"
+            "value": "忠誠交換",
+            "hide": false
         },
         {
             "key": "ability.regen_all.desc",
-            "value": "ターン開始時、このクリーチャーは完全に回復する"
+            "value": "あなたのターン開始時にこのモンスターを完全に回復する。",
+            "hide": false
         },
         {
             "key": "ability.regen_all.title",
-            "value": "再生"
+            "value": "リジェネレーション",
+            "hide": false
         },
         {
             "key": "ability.regen3.desc",
-            "value": "ターン開始時、HPを3回復する"
+            "value": "あなたのターン開始時に3 hp回復する。",
+            "hide": false
         },
         {
             "key": "ability.regen3.title",
-            "value": "再生"
+            "value": "リジェネレーション",
+            "hide": false
         },
         {
             "key": "ability.rush.desc",
-            "value": "プレイしたターンにすぐ攻撃できるが、このターンは敵プレイヤーを攻撃できない"
+            "value": "すぐに攻撃できるが、プレイされたターンに敵プレイヤーを対象にできない。",
+            "hide": false
         },
         {
             "key": "ability.rush.title",
-            "value": "ラッシュ"
+            "value": "チャージ",
+            "hide": false
         },
         {
             "key": "ability.secret_return_hand.desc",
-            "value": "次に敵のクリーチャーがプレイされたとき、それを手札に戻す"
+            "value": "次の敵モンスターがプレイされた時、手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.secret_return_hand.title",
-            "value": "テレキネシス"
+            "value": "テレキネシス",
+            "hide": false
         },
         {
             "key": "ability.secret_silence.desc",
-            "value": "罠にかかったキャラクターの能力をすべて取り除く"
+            "value": "トラップされたモンスターの能力をすべてクリアする",
+            "hide": false
         },
         {
             "key": "ability.secret_silence.title",
-            "value": "沈黙"
+            "value": "サイレンス",
+            "hide": false
         },
         {
             "key": "ability.secret_transform_fish.desc",
-            "value": "次に敵のクリーチャーがプレイされたとき、それを1/1の魚に変化させる"
+            "value": "次の敵モンスターがプレイされた時, 1/1の魚に変身させる。",
+            "hide": false
         },
         {
             "key": "ability.secret_transform_fish.title",
-            "value": "魚変化"
+            "value": "魚に変身",
+            "hide": false
         },
         {
             "key": "ability.shell.desc",
-            "value": "最初のヒットでダメージを受けない"
+            "value": "最初のヒットでダメージを受けない。",
+            "hide": true
         },
         {
             "key": "ability.shell.title",
-            "value": "殻"
+            "value": "シェル",
+            "hide": true
         },
         {
             "key": "ability.spell_add_attack_suffer.desc",
-            "value": "対象クリーチャーが「攻撃前に3ダメージを受ける」を得る"
+            "value": "対象モンスターが「攻撃前に3ダメージを受ける」を得る。",
+            "hide": false
         },
         {
             "key": "ability.spell_add_attack_suffer.title",
-            "value": "苦痛の呪い"
+            "value": "苦痛の呪い",
+            "hide": false
         },
         {
             "key": "ability.spell_add_cant_attack.desc",
-            "value": "対象を攻撃不可にする。"
+            "value": "対象が攻撃できないようにする。",
+            "hide": false
         },
         {
             "key": "ability.spell_add_cant_attack.title",
-            "value": "攻撃禁止"
+            "value": "攻撃不可",
+            "hide": false
         },
         {
             "key": "ability.spell_add_cant_attack_bleed.desc",
-            "value": "対象モンスターは攻撃できず、ターン終了時に1ダメージを受ける。"
+            "value": "対象モンスターが攻撃できず、ターン終了時に1ダメージを受ける。",
+            "hide": false
         },
         {
             "key": "ability.spell_add_cant_attack_bleed.title",
-            "value": "石の重り"
+            "value": "ストーンウェイト",
+            "hide": false
         },
         {
             "key": "ability.spell_add_cant_attack_taunt.desc",
-            "value": "対象に挑発を付与し、攻撃できなくする。"
+            "value": "トーントを追加し、対象が攻撃できないようにする。",
+            "hide": false
         },
         {
             "key": "ability.spell_add_cant_attack_taunt.title",
-            "value": "攻撃禁止の挑発"
+            "value": "攻撃不可トーント",
+            "hide": false
         },
         {
             "key": "ability.spell_add_damage_per_turn1.desc",
-            "value": "対象モンスターはターンの終わりに1ダメージを受ける。"
+            "value": "対象モンスターがターン終了時に1ダメージを受ける。",
+            "hide": false
         },
         {
             "key": "ability.spell_add_damage_per_turn1.title",
-            "value": "流血"
+            "value": "ブリード",
+            "hide": false
         },
         {
             "key": "ability.spell_add_play_extinct.desc",
-            "value": "対象カードが「味方クリーチャーがプレイされるとこのカードを破壊」を得る"
+            "value": "対象カードが「味方モンスターが入場したらこのカードを破壊する」を得る。",
+            "hide": false
         },
         {
             "key": "ability.spell_add_play_extinct.title",
-            "value": "絶滅"
+            "value": "絶滅",
+            "hide": false
         },
         {
             "key": "ability.spell_add_submerge.desc",
-            "value": "対象カードが「攻撃された時、相手がランダムな1枚を捨てる」を得る"
+            "value": "対象カードが「攻撃された時、相手はランダムなカードを1枚捨てる」を得る。",
+            "hide": false
         },
         {
             "key": "ability.spell_add_submerge.title",
-            "value": "帰還"
+            "value": "リターン",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_attack_2.desc",
-            "value": "すべての味方キャラクターが+2/+2を得る"
+            "value": "すべての味方モンスターが+2/2を得る",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_attack_2.title",
-            "value": "成長"
+            "value": "グロース",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_damage1_any_damage2.desc",
-            "value": "味方モンスター1体に1ダメージを与え、その後任意の対象に2ダメージを与える。"
+            "value": "味方モンスターに1ダメージを与え、次に任意の対象に2ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_damage1_any_damage2.title",
-            "value": "岩の投射物"
+            "value": "ロックプロジェクタイル",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_damage1_random_enemy_2_twice.desc",
-            "value": "味方モンスター1体に1ダメージを与え、その後ランダムな敵対象に2ダメージを2回与える。"
+            "value": "味方モンスターに1ダメージを与え、次にランダムな敵モンスターに2ダメージを2回与える。",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_damage1_random_enemy_2_twice.title",
-            "value": "岩の投射物"
+            "value": "ロックプロジェクタイル",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_plant_attack_2.desc",
-            "value": "すべての味方キャラクターが+2/+2を得る"
+            "value": "すべての味方プラントモンスターが+2/2を得る",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_plant_attack_2.title",
-            "value": "成長"
+            "value": "グロース",
+            "hide": false
         },
         {
             "key": "ability.spell_armor2.desc",
-            "value": "対象がアーマー2を得て、キャラクターからの直接ダメージを2減少"
+            "value": "対象がアーマー2を得てモンスターからの直接ダメージを2減少させる。",
+            "hide": true
         },
         {
             "key": "ability.spell_armor2.title",
-            "value": "アーマー+2"
+            "value": "アーマー +2",
+            "hide": true
         },
         {
             "key": "ability.spell_attack1.desc",
-            "value": "対象が1攻撃を得る"
+            "value": "対象が1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.spell_attack1.title",
-            "value": "攻撃+1"
+            "value": "攻撃 +1",
+            "hide": false
         },
         {
             "key": "ability.spell_coin.desc",
-            "value": "このターン1マナを得る"
+            "value": "1マナを得る。",
+            "hide": false
         },
         {
             "key": "ability.spell_coin.title",
-            "value": "コイン"
+            "value": "コイン",
+            "hide": false
         },
         {
             "key": "ability.spell_cure_2_2.desc",
-            "value": "対象は永続的に+2/+2を得て、すべての悪い状態異常を回復する。"
+            "value": "対象が永久に+2/+2を得て負の効果を治す",
+            "hide": false
         },
         {
             "key": "ability.spell_cure_2_2.title",
-            "value": "治癒強化"
+            "value": "キュアブースト",
+            "hide": false
         },
         {
             "key": "ability.spell_damage_per_hand.desc",
-            "value": "ボード上のすべてのキャラクターのHPを1に下げる"
+            "value": "ボード上のすべてのモンスターのHPが1に低下する。",
+            "hide": false
         },
         {
             "key": "ability.spell_damage_per_hand.title",
-            "value": "洪水"
+            "value": "洪水",
+            "hide": false
         },
         {
             "key": "ability.spell_damage1.desc",
-            "value": "1ダメージを与える"
+            "value": "1ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.spell_damage1.title",
-            "value": "ダメージ"
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.spell_damage2_random.desc",
-            "value": "ランダムな敵に2ダメージを与える。"
+            "value": "ランダムな敵に2ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.spell_damage2_random.title",
-            "value": "ランダム敵ダメージ2"
+            "value": "ランダム敵ダメージ2",
+            "hide": false
         },
         {
             "key": "ability.spell_damage3.desc",
-            "value": "3ダメージを与える"
+            "value": "3ダメージを与える。",
+            "hide": false
         },
         {
             "key": "ability.spell_damage3.title",
-            "value": "ダメージ"
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy.desc",
-            "value": "対象のキャラクターまたはロケーションを破壊"
+            "value": "対象のモンスターまたはロケーションを破壊する。",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy.title",
-            "value": "破壊"
+            "value": "破壊",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "盤面のカードをすべて破壊する。"
+            "value": "ボード上のすべてのカードを破壊する",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_all.title",
-            "value": "アルマゲドン"
+            "value": "アーマゲドン",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_flying.desc",
-            "value": "飛行モンスター1体を破壊する。"
+            "value": "対象の飛行モンスターを破壊する。",
+            "hide": true
         },
         {
             "key": "ability.spell_destroy_flying.title",
-            "value": "飛行破壊"
+            "value": "飛行破壊",
+            "hide": true
         },
         {
             "key": "ability.spell_destroy_frozen_all.desc",
-            "value": "ボード上のすべての凍結カードを破壊"
+            "value": "ボード上のすべての凍結カードを破壊する",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_frozen_all.title",
-            "value": "凍結波"
+            "value": "フローズンウェーブ",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "凍結したキャラクターを対象にして破壊する。"
+            "value": "凍結されたモンスターを対象に破壊する。",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
-            "value": "アイスブレイカー"
+            "value": "アイスブレイカー",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_location_target.desc",
-            "value": "ロケーションを対象にして破壊する。"
+            "value": "ロケーションを対象に破壊する。",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_location_target.title",
-            "value": "アバランチ"
+            "value": "アバランチ",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_locations.desc",
-            "value": "ボード上のすべてのロケーションを破壊"
+            "value": "ボード上のすべてのロケーションを破壊する",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_locations.title",
-            "value": "地滑り"
+            "value": "ランドスライド",
+            "hide": false
         },
         {
             "key": "ability.spell_dragon_summon.desc",
-            "value": "デッキからドラゴンを選択して手札に召喚"
+            "value": "デッキからドラゴンを選択して手札に加える。",
+            "hide": false
         },
         {
             "key": "ability.spell_dragon_summon.title",
-            "value": "ドラゴン発見"
+            "value": "ドラゴン発見",
+            "hide": false
         },
         {
             "key": "ability.spell_draw1.desc",
-            "value": "1枚引く"
+            "value": "カードを1枚引く。",
+            "hide": false
         },
         {
             "key": "ability.spell_draw1.title",
-            "value": "ドロー"
+            "value": "ドロー",
+            "hide": false
         },
         {
             "key": "ability.spell_draw2.desc",
-            "value": "カードを2枚引く。"
+            "value": "カードを2枚引く。",
+            "hide": false
         },
         {
             "key": "ability.spell_draw2.title",
-            "value": "ドロー"
+            "value": "ドロー",
+            "hide": false
         },
         {
             "key": "ability.spell_electric_ally.desc",
-            "value": "デッキの次の7枚を見て、電気モンスター1体を手札に加える"
+            "value": "デッキの次の7枚のカードを見て、1枚のエレクトリックモンスターを手札に加える。",
+            "hide": false
         },
         {
             "key": "ability.spell_electric_ally.title",
-            "value": "電気味方"
+            "value": "エレクトリックアライ",
+            "hide": false
         },
         {
             "key": "ability.spell_electric_attack_2.desc",
-            "value": "すべての電気モンスターが+2攻撃を得る"
+            "value": "すべてのエレクトリックモンスターが+2攻撃を得る",
+            "hide": false
         },
         {
             "key": "ability.spell_freeze.desc",
-            "value": "対象を1ターン凍らせる"
+            "value": "敵を1ターン凍結する",
+            "hide": false
         },
         {
             "key": "ability.spell_freeze.title",
-            "value": "凍結"
+            "value": "フリーズ",
+            "hide": false
         },
         {
             "key": "ability.spell_fury.desc",
-            "value": "対象キャラクターが狂戦士を得る。ターンに2回攻撃可能"
+            "value": "対象モンスターがフューリーを得る。ターンごとに2回攻撃できる。",
+            "hide": false
         },
         {
             "key": "ability.spell_fury.title",
-            "value": "狂戦士"
+            "value": "フューリー",
+            "hide": false
         },
         {
             "key": "ability.spell_haste.desc",
-            "value": "対象キャラクターがヘイストを得る。即時攻撃可能"
+            "value": "対象モンスターがヘイストを得る。すぐに攻撃できる。",
+            "hide": false
         },
         {
             "key": "ability.spell_haste.title",
-            "value": "ヘイスト"
+            "value": "ヘイスト",
+            "hide": false
         },
         {
             "key": "ability.spell_heal_full.desc",
-            "value": "対象カードを完全に回復"
+            "value": "対象カードを完全に回復する。",
+            "hide": false
         },
         {
             "key": "ability.spell_heal_full.title",
-            "value": "回復"
+            "value": "ヒール",
+            "hide": false
         },
         {
             "key": "ability.spell_hibernate.desc",
-            "value": "対象キャラクターが+4/+4を得て、次の2ターン眠る"
+            "value": "対象モンスターが+4/4を得て次の2ターン眠る。",
+            "hide": false
         },
         {
             "key": "ability.spell_hibernate.title",
-            "value": "冬眠"
+            "value": "ハイバネート",
+            "hide": false
         },
         {
             "key": "ability.spell_hp2.desc",
-            "value": "対象が2HPを得る"
+            "value": "対象が2 hpを得る。",
+            "hide": false
         },
         {
             "key": "ability.spell_hp2.title",
-            "value": "HP+2"
+            "value": "Hp +2",
+            "hide": false
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "氷属性キャラクターの進化を1ターン早める。"
+            "value": "アイスモンスターの進化を1ターン加速する",
+            "hide": false
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "氷進化短縮"
+            "value": "アイス進化カウンター減少",
+            "hide": false
         },
         {
             "key": "ability.spell_ice_treasure.desc",
-            "value": "デッキの次の7枚を見て、氷のカード1枚を手札に加える"
+            "value": "デッキの次の7枚のカードを見て、1枚のアイスカードを手札に加える。",
+            "hide": false
         },
         {
             "key": "ability.spell_ice_treasure.title",
-            "value": "氷の宝物"
+            "value": "アイストレジャー",
+            "hide": false
         },
         {
             "key": "ability.spell_immunity.desc",
-            "value": "呪文カードの対象やダメージを受けない"
+            "value": "スペルカードで対象にしたりダメージを与えられない。",
+            "hide": true
         },
         {
             "key": "ability.spell_immunity.title",
-            "value": "呪文耐性"
+            "value": "スペル免疫",
+            "hide": true
         },
         {
             "key": "ability.spell_kill_lowest_hp.desc",
-            "value": "最も低いHPのプレイ中のキャラクターを殺す（自分のものも含む）"
+            "value": "ゲーム中の最低HPのモンスターを殺す（自分のを含む）。",
+            "hide": false
         },
         {
             "key": "ability.spell_kill_lowest_hp.title",
-            "value": "踏みつけ"
+            "value": "ストンプ",
+            "hide": false
         },
         {
             "key": "ability.spell_paralyse.desc",
-            "value": "対象キャラクターを3ターン麻痺させる"
+            "value": "対象モンスターを3ターン麻痺させる。",
+            "hide": true
         },
         {
             "key": "ability.spell_paralyse.title",
-            "value": "麻痺"
+            "value": "パラライズ",
+            "hide": true
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "ランダムな敵カードに1ダメージを与える。\nX回繰り返す"
+            "value": "ランダムな敵カードに1ダメージを与える。\nX回繰り返す。",
+            "hide": false
         },
         {
             "key": "ability.spell_projectile1_repeat.title",
-            "value": "投射物"
+            "value": "プロジェクタイル",
+            "hide": false
         },
         {
             "key": "ability.spell_return_all.desc",
-            "value": "ボード上のすべてのカードを持ち主の手札に戻す"
+            "value": "ボード上のすべてのカードを元の所有者の手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.spell_return_all.title",
-            "value": "海の嵐"
+            "value": "シーストーム",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_any.desc",
-            "value": "プレイされた任意の対象を持ち主の手札に戻す"
+            "value": "プレイされた任意の対象を元の所有者の手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_any.title",
-            "value": "任意の手札帰還"
+            "value": "任意の手札に戻す",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.desc",
-            "value": "プレイされた任意の対象を持ち主の手札に戻す"
+            "value": "プレイされた任意の対象を元の所有者の手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.title",
-            "value": "任意の手札帰還"
+            "value": "任意の手札に戻す",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_enemy.desc",
-            "value": "対象を持ち主の手札に戻す"
+            "value": "対象を元の所有者の手札に戻す。",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_enemy.title",
-            "value": "手札帰還"
+            "value": "手札に戻す",
+            "hide": false
         },
         {
             "key": "ability.spell_set_hp_attack_1.desc",
-            "value": "ボード上のすべてのキャラクターのHPと攻撃を1に下げる"
+            "value": "ボード上のすべてのモンスターのhpと攻撃が1に低下する。",
+            "hide": false
         },
         {
             "key": "ability.spell_set_hp_attack_1.title",
-            "value": "洪水"
+            "value": "洪水",
+            "hide": false
         },
         {
             "key": "ability.spell_set_hp_attack_3.desc",
-            "value": "ボード上のすべてのキャラクターのHPと攻撃を1に設定"
+            "value": "ボード上のすべてのモンスターのhpと攻撃が1に設定される。",
+            "hide": false
         },
         {
             "key": "ability.spell_set_hp_attack_3.title",
-            "value": "洪水"
+            "value": "洪水",
+            "hide": false
         },
         {
             "key": "ability.spell_set_stats_equal_mana_selector.desc",
-            "value": "支払ったマナに応じたX/Xの挑発持ちゴーレムを盤面に召喚する。"
+            "value": "消費したマナ量に基づいてX/Xのトーント付きゴーレムをボードに召喚する。",
+            "hide": false
         },
         {
             "key": "ability.spell_set_stats_equal_mana_selector.title",
-            "value": "ゴーレム生成"
+            "value": "ゴーレム生成",
+            "hide": false
         },
         {
             "key": "ability.spell_shell.desc",
-            "value": "対象が殻を得て、次のヒットでダメージを無視"
+            "value": "対象がシェルを得る、次のヒットでダメージを無視する。",
+            "hide": false
         },
         {
             "key": "ability.spell_shell.title",
-            "value": "殻"
+            "value": "シェル",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_golem_mana_cost.desc",
-            "value": "支払ったマナに応じたX/Xの挑発持ちゴーレムを盤面に召喚する。"
+            "value": "消費したマナ量に基づいてX/Xのトーント付きゴーレムをボードに召喚する。",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_golem_mana_cost.title",
-            "value": "ゴーレム生成"
+            "value": "ゴーレム生成",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_hammi.desc",
-            "value": "3体のハミを手札に召喚"
+            "value": "手札に3つのハンミを召喚する。",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_hammi.title",
-            "value": "ハミストライク"
+            "value": "ハンミアタック",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_lampi.desc",
-            "value": "3体の2/2ランピを手札に召喚"
+            "value": "手札に3つのランピ2/1を召喚する。",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_lampi.title",
-            "value": "ランピストーム"
+            "value": "ランピストーム",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_pyro.desc",
-            "value": "3体の卵能力付き1/1ピラを手札に召喚"
+            "value": "手札に卵能力付きの3つのパイロ1/1を召喚する。",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_pyro.title",
-            "value": "空中ストライク"
+            "value": "エアリアルアタック",
+            "hide": false
         },
         {
             "key": "ability.spell_taunt.desc",
-            "value": "対象キャラクターが挑発を得る。他のあなたのキャラクターは攻撃されない"
+            "value": "対象モンスターがトーントを得る。他のモンスターは攻撃されない。",
+            "hide": false
         },
         {
             "key": "ability.spell_taunt.title",
-            "value": "挑発"
+            "value": "トーント",
+            "hide": false
         },
         {
             "key": "ability.spell_trap_sweep.desc",
-            "value": "敵のトラップをすべて破壊し、破壊したトラップ1枚につき攻撃力とHPを+2する。"
+            "value": "すべての敵トラップを破壊し、破壊されたトラップごとに+2攻撃と+2 hpを得る。",
+            "hide": false
         },
         {
             "key": "ability.spell_trap_sweep.title",
-            "value": "トラップ掃討"
+            "value": "トラップスウィープ",
+            "hide": false
         },
         {
             "key": "ability.spell_water_treasure.desc",
-            "value": "デッキの次の7枚を見て、水のカード1枚を手札に加える"
+            "value": "デッキの次の7枚のカードを見て、1枚のウォーターカードを手札に加える。",
+            "hide": false
         },
         {
             "key": "ability.spell_water_treasure.title",
-            "value": "水の宝物"
+            "value": "ウォータートレジャー",
+            "hide": false
         },
         {
             "key": "ability.stealth.desc",
-            "value": "行動するまで対象や攻撃を受けない"
+            "value": "行動を行うまで対象にしたり攻撃できない。",
+            "hide": true
         },
         {
             "key": "ability.stealth.title",
-            "value": "隠密"
+            "value": "ステルス",
+            "hide": true
         },
         {
             "key": "ability.survive_damage_add_draw.desc",
-            "value": "各ターン開始時にカードを1枚引く"
+            "value": "ダメージを受けて生き残ったらカードを1枚引く",
+            "hide": false
         },
         {
             "key": "ability.survive_damage_add_draw.title",
-            "value": "探検家"
+            "value": "エクスプローラー",
+            "hide": false
         },
         {
             "key": "ability.survive_rock_allies_armor1.desc",
-            "value": "このモンスターが攻撃を生き延びたとき、味方の岩モンスター全てが+1アーマーを得る。"
+            "value": "このモンスターが攻撃を生き残ったら、すべてのアライが+1アーマーを得る。",
+            "hide": false
         },
         {
             "key": "ability.survive_rock_allies_armor1.title",
-            "value": "生存アーマー支援1"
+            "value": "サバイバルアーマーサポート1",
+            "hide": false
         },
         {
             "key": "ability.taunt.desc",
-            "value": "他のあなたのキャラクターは攻撃されない"
+            "value": "他のカードを保護する。",
+            "hide": true
         },
         {
             "key": "ability.taunt.title",
-            "value": "挑発"
+            "value": "トーント",
+            "hide": true
         },
         {
             "key": "ability.taunt_flying.desc",
-            "value": "他のあなたのキャラクターが飛行モンスターから守られる"
+            "value": "他のカードを飛行モンスターから保護する。",
+            "hide": true
         },
         {
             "key": "ability.taunt_flying.title",
-            "value": "射程"
+            "value": "リーチ",
+            "hide": true
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "すべての電気モンスターが2マナ少なくなる（敵も含む）"
+            "value": "すべてのエレクトリックモンスターが2マナ少なくなる（敵を含む）",
+            "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "電気オーラ"
+            "value": "エレクトリックオーラ",
+            "hide": false
         },
         {
             "key": "ability.town_aura_fire.desc",
-            "value": "すべての味方火クリーチャーが+2攻撃を得る"
+            "value": "すべての味方ファイアモンスターが+2攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_fire.title",
-            "value": "火オーラ"
+            "value": "ファイアオーラ",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "味方の氷クリーチャーがHP+1を得る。"
+            "value": "すべての味方アイスモンスターが+1 HPを得る。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
-            "value": "イグルーのオーラ"
+            "value": "イグルーオーラ",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "味方の氷クリーチャーが攻撃力+1を得る。"
+            "value": "すべての味方アイスモンスターが+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
-            "value": "イグルーのオーラ2"
+            "value": "イグルーオーラ2",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "味方の氷カードのコストが1減少する。"
+            "value": "すべての味方アイスカードが1少なくなる。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
-            "value": "イグルーのオーラ3"
+            "value": "イグルーオーラ3",
+            "hide": false
         },
         {
             "key": "ability.town_aura_plant.desc",
-            "value": "すべての味方植物キャラクターが+2HPを得る"
+            "value": "すべての味方プラントモンスターが+2 hpを得る。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_plant.title",
-            "value": "植物オーラ"
+            "value": "プラントオーラ",
+            "hide": false
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.desc",
-            "value": "相手のモンスターを制御すると、相手がランダムな1枚を捨てる"
+            "value": "敵モンスターのコントロールを取ったら、相手がランダムなカードを捨てる。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.title",
-            "value": "精神オーラ捨札"
+            "value": "サイキックオーラディスカード",
+            "hide": false
         },
         {
             "key": "ability.town_aura_psychic_played_discard.desc",
-            "value": "精神モンスターをプレイすると、相手がランダムな1枚を捨てる"
+            "value": "サイキックモンスターをプレイしたら相手がランダムなカードを捨てる。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_psychic_played_discard.title",
-            "value": "精神オーラ捨札"
+            "value": "サイキックオーラディスカード",
+            "hide": false
         },
         {
             "key": "ability.town_aura_rock.desc",
-            "value": "すべての味方岩クリーチャーが+2HPを得る"
+            "value": "すべての味方ロックモンスターが+2 HPを得る。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_rock.title",
-            "value": "岩オーラ"
+            "value": "ロックオーラ",
+            "hide": false
         },
         {
             "key": "ability.town_aura_shadow.desc",
-            "value": "すべての味方影キャラクターが+2攻撃を得る"
+            "value": "すべての味方シャドウモンスターが+2攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_shadow.title",
-            "value": "影オーラ"
+            "value": "シャドウオーラ",
+            "hide": false
         },
         {
             "key": "ability.town_aura_water.desc",
-            "value": "すべての味方水カードが1少なくなる"
+            "value": "すべての味方ウォーターカードが1少なくなる。",
+            "hide": false
         },
         {
             "key": "ability.town_aura_water.title",
-            "value": "青オーラ"
+            "value": "ブルーオーラ",
+            "hide": false
         },
         {
             "key": "ability.town_mystic_woods_psychic.desc",
-            "value": "すべての味方精神カードが1マナ少なくなる"
+            "value": "すべての味方サイキックカードが1マナ少なくなる。",
+            "hide": false
         },
         {
             "key": "ability.town_mystic_woods_psychic.title",
-            "value": "精神オーラ"
+            "value": "サイキックオーラ",
+            "hide": false
         },
         {
             "key": "ability.trample.desc",
-            "value": "超過ダメージがプレイヤーHPに与えられる"
+            "value": "余剰ダメージがプレイヤーに与えられる。",
+            "hide": true
         },
         {
             "key": "ability.trample.title",
-            "value": "トランプル"
+            "value": "トランプル",
+            "hide": true
         },
         {
             "key": "ability.transform_to_discarded_card.desc",
-            "value": "相手がキャラクターカードを捨てると、このキャラクターがそのコピーになる"
+            "value": "相手がモンスターカードを捨てたら、このモンスターはそのモンスターのコピーになる",
+            "hide": false
         },
         {
             "key": "ability.transform_to_discarded_card.title",
-            "value": "墓地クローン"
+            "value": "グレイブヤードクローン",
+            "hide": false
         },
         {
             "key": "ability.trap_all_damage1.desc",
-            "value": "敵全体に1ダメージを与える。"
+            "value": "敵に1 HPのダメージ",
+            "hide": false
         },
         {
             "key": "ability.trap_all_damage1.title",
-            "value": "全体ダメージ"
+            "value": "ボードダメージ",
+            "hide": false
         },
         {
             "key": "ability.trap_damage_all2.desc",
-            "value": "敵クリーチャーが攻撃すると、すべての敵クリーチャーに2ダメージ"
+            "value": "敵モンスターが攻撃したらゲーム中のすべての敵モンスターに2ダメージを与える",
+            "hide": false
         },
         {
             "key": "ability.trap_damage_all2.title",
-            "value": "ダメージ"
+            "value": "ダメージ",
+            "hide": false
         },
         {
             "key": "ability.trap_damage2.desc",
-            "value": "攻撃者に2HPダメージ"
+            "value": "攻撃者に2 HPのダメージ",
+            "hide": false
         },
         {
             "key": "ability.trap_damage2.title",
-            "value": "トラップ"
+            "value": "トラップ",
+            "hide": false
         },
         {
             "key": "ability.trap_damage3.desc",
-            "value": "攻撃者に3HPダメージ"
+            "value": "攻撃者に3 HPのダメージ",
+            "hide": false
         },
         {
             "key": "ability.trap_damage3.title",
-            "value": "トラップ"
+            "value": "トラップ",
+            "hide": false
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "敵のクリーチャーが攻撃した後、それを2ターンの間凍結する。"
+            "value": "敵モンスターが攻撃した後、2ターン凍結する。",
+            "hide": false
         },
         {
             "key": "ability.trap_freeze.title",
-            "value": "凍結"
+            "value": "凍結",
+            "hide": false
         },
         {
             "key": "ability.trap_heal4.desc",
-            "value": "敵がプレイヤーを攻撃したとき、HPを4回復する。"
+            "value": "敵がプレイヤーを攻撃したら4 HP回復する",
+            "hide": false
         },
         {
             "key": "ability.trap_heal4.title",
-            "value": "要塞化"
+            "value": "要塞化",
+            "hide": false
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
-            "value": "敵クリーチャーが攻撃した後、1ターン制御し挑発を与える"
+            "value": "敵モンスターが攻撃した後、このターンマインドコントロールしトーントを与える",
+            "hide": false
         },
         {
             "key": "ability.trap_mind_control_taunt.title",
-            "value": "マインドコントロール"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "ability.trap_paralyse3.desc",
-            "value": "敵クリーチャーが攻撃した後、3ターン麻痺させる"
+            "value": "敵モンスターが攻撃した後, 3ターン麻痺させる。",
+            "hide": false
         },
         {
             "key": "ability.trap_paralyse3.title",
-            "value": "麻痺"
+            "value": "パラライズ",
+            "hide": false
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "敵のクリーチャーが攻撃した後、それに毒を与える。"
+            "value": "敵モンスターが攻撃した後, ポイズンする",
+            "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "毒"
+            "value": "ポイズン",
+            "hide": false
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "敵のクリーチャーが攻撃した後、それに毒を与える。"
+            "value": "敵モンスターが攻撃した後, ポイズンする",
+            "hide": true
         },
         {
             "key": "ability.trap_poison_attacker.title",
-            "value": "毒"
+            "value": "ポイズン",
+            "hide": true
         },
         {
             "key": "ability.trap_shock.desc",
-            "value": "敵クリーチャーが攻撃した後、1ターンショック麻痺させる"
+            "value": "敵モンスターが攻撃した後, 1ターン麻痺させる。",
+            "hide": false
         },
         {
             "key": "ability.trap_shock.title",
-            "value": "ショック麻痺"
+            "value": "ショックパラライズ",
+            "hide": false
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "敵のモンスターが攻撃したとき、それを1ターン感電麻痺させる。"
+            "value": "敵モンスターが攻撃したら1ターン麻痺させる。",
+            "hide": true
         },
         {
             "key": "ability.trap_shock_all.title",
-            "value": "感電麻痺"
+            "value": "ショックパラライズ",
+            "hide": true
         },
         {
             "key": "ability.turn_add_armor1.desc",
-            "value": "各ターン開始時、+1アーマーを得る"
+            "value": "各ターン開始時に+1アーマーを得る。",
+            "hide": false
         },
         {
             "key": "ability.turn_add_armor1.title",
-            "value": "アーマー"
+            "value": "アーマー",
+            "hide": false
         },
         {
             "key": "ability.turn_add_armor2.desc",
-            "value": "各ターン開始時、+2アーマーを得る"
+            "value": "各ターン開始時に+2アーマーを得る。",
+            "hide": false
         },
         {
             "key": "ability.turn_add_armor2.title",
-            "value": "アーマー"
+            "value": "アーマー",
+            "hide": false
         },
         {
             "key": "ability.turn_add_attack1.desc",
-            "value": "各ターン開始時、+1攻撃を得る"
+            "value": "各ターン開始時に+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.turn_add_attack1.title",
-            "value": "猛烈"
+            "value": "フューリアス",
+            "hide": false
         },
         {
             "key": "ability.turn_add_attack2.desc",
-            "value": "各ターン開始時、+2攻撃を得る"
+            "value": "各ターン開始時に+2攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.turn_add_attack2.title",
-            "value": "猛烈"
+            "value": "フューリアス",
+            "hide": false
         },
         {
             "key": "ability.turn_burn_all_minus_fire.desc",
-            "value": "ターン開始時、場にいる他の非火属性モンスターをすべて燃焼させる。"
+            "value": "ターン開始時, ゲーム中の他のすべての非ファイアモンスターをバーンする。",
+            "hide": false
         },
         {
             "key": "ability.turn_burn_all_minus_fire.title",
-            "value": "全体燃焼"
+            "value": "すべてバーン",
+            "hide": false
         },
         {
             "key": "ability.turn_damage_allies1.desc",
-            "value": "各ターン開始時、すべての味方キャラクターに1ダメージ"
+            "value": "各ターン開始時にすべての味方モンスターに1ダメージを与える",
+            "hide": false
         },
         {
             "key": "ability.turn_damage_allies1.title",
-            "value": "裏切りダメージ"
+            "value": "裏切りダメージ",
+            "hide": false
         },
         {
             "key": "ability.turn_damage_allies2.desc",
-            "value": "各ターン開始時、すべての味方キャラクターに2ダメージ"
+            "value": "各ターン開始時にすべての味方モンスターに2ダメージを与える",
+            "hide": false
         },
         {
             "key": "ability.turn_damage_allies2.title",
-            "value": "裏切りダメージ"
+            "value": "裏切りダメージ",
+            "hide": false
         },
         {
             "key": "ability.turn_end_add_draw.desc",
-            "value": "各ターン終了時にカードを1枚引く"
+            "value": "各ターン終了時にカードを1枚引く",
+            "hide": false
         },
         {
             "key": "ability.turn_end_add_draw.title",
-            "value": "探検家II"
+            "value": "エクスプローラーII",
+            "hide": false
         },
         {
             "key": "ability.turn_green_heal.desc",
-            "value": "各ターン開始時、すべての味方緑クリーチャーとロケーションが3回復"
+            "value": "各ターン開始時にすべての味方プラントモンスターとロケーションを3回復する。",
+            "hide": false
         },
         {
             "key": "ability.turn_green_heal.title",
-            "value": "緑回復"
+            "value": "プラントヒール",
+            "hide": false
         },
         {
             "key": "ability.turn_kill_lowest.desc",
-            "value": "あなたのターン開始時、最低攻撃のプレイ中キャラクターを殺す（自分のものも含む）"
+            "value": "あなたのターン開始時に最低攻撃のモンスターを殺す（自分のを含む）。",
+            "hide": false
         },
         {
             "key": "ability.turn_kill_lowest.title",
-            "value": "死神"
+            "value": "リーパー",
+            "hide": false
         },
         {
             "key": "ability.turn_own_discard2.desc",
-            "value": "プレイヤーが手札から2枚ランダムに捨てる"
+            "value": "プレイヤーが手札からランダムな2枚のカードを捨てる。",
+            "hide": false
         },
         {
             "key": "ability.turn_own_discard2.title",
-            "value": "捨札"
+            "value": "ディスカード",
+            "hide": false
         },
         {
             "key": "ability.turn_shadow_add_attack1.desc",
-            "value": "各ターン開始時、すべての影モンスターが+1攻撃を得る"
+            "value": "各ターン開始時にすべてのシャドウモンスターが+1攻撃を得る。",
+            "hide": false
         },
         {
             "key": "ability.turn_shadow_add_attack1.title",
-            "value": "影ボーナス"
+            "value": "シャドウボーナス",
+            "hide": false
         },
         {
             "key": "ability.turn_start_add_draw.desc",
-            "value": "各ターン開始時にカードを1枚引く"
+            "value": "各ターン開始時にカードを1枚引く",
+            "hide": false
         },
         {
             "key": "ability.turn_start_add_draw.title",
-            "value": "探検家"
+            "value": "エクスプローラー",
+            "hide": false
         },
         {
             "key": "ability.turn_stealth.desc",
-            "value": "あなたのターン終了時、他のキャラクターが1体以上いれば隠密になる"
+            "value": "あなたのターン終了時に他のモンスターがいる場合ステルスに入る。",
+            "hide": false
         },
         {
             "key": "ability.turn_stealth.title",
-            "value": "隠密"
+            "value": "ステルス",
+            "hide": false
         },
         {
             "key": "status.addhp.desc",
-            "value": "ボーナスHP"
+            "value": "ボーナスhp。",
+            "hide": false
         },
         {
             "key": "status.addhp.title",
-            "value": "HPボーナス"
+            "value": "HPボーナス",
+            "hide": false
         },
         {
             "key": "status.addmanacost.desc",
-            "value": "マナコストが+1になる"
+            "value": "マナコストが今+1",
+            "hide": false
         },
         {
             "key": "status.addmanacost.title",
-            "value": "精神消耗"
+            "value": "メンタルドレイン",
+            "hide": false
         },
         {
             "key": "status.armor.desc",
-            "value": "アーマー追加"
+            "value": "戦闘ダメージをアーマー量分減少させる",
+            "hide": false
         },
         {
             "key": "status.armor.title",
-            "value": "アーマー"
+            "value": "アーマー",
+            "hide": false
         },
         {
             "key": "status.attacklossimmunity.desc",
-            "value": "キャラクターの攻撃を減少から守る"
+            "value": "モンスターの攻撃を減少から保護する。",
+            "hide": false
         },
         {
             "key": "status.attacklossimmunity.title",
-            "value": "攻撃減少耐性"
+            "value": "攻撃損失免疫",
+            "hide": false
         },
         {
             "key": "status.burned.desc",
-            "value": "毎ターン2HP失う"
+            "value": "毎ターン、2 hpを失う。",
+            "hide": false
         },
         {
             "key": "status.burned.title",
-            "value": "燃焼"
+            "value": "燃焼",
+            "hide": false
         },
         {
             "key": "status.characterabilityimmunity.desc",
-            "value": "キャラクター能力の対象にならない"
+            "value": "モンスターの能力で対象にできない",
+            "hide": false
         },
         {
             "key": "status.characterabilityimmunity.title",
-            "value": "能力耐性"
+            "value": "能力免疫",
+            "hide": false
         },
         {
             "key": "status.cursed.desc",
-            "value": "毎ターン攻撃を失う"
+            "value": "毎ターン、1攻撃を失う。",
+            "hide": false
         },
         {
             "key": "status.cursed.title",
-            "value": "呪い"
+            "value": "呪い",
+            "hide": false
         },
         {
             "key": "status.damagecap.desc",
-            "value": "攻撃/反撃時に受けるダメージは最大2。"
+            "value": "攻撃 / カウンター攻撃で最大2ダメージを受ける。",
+            "hide": false
         },
         {
             "key": "status.damagecap.title",
-            "value": "ダメージ上限"
+            "value": "ダメージキャップ",
+            "hide": false
         },
         {
             "key": "status.deathtouch.desc",
-            "value": "ダメージを与えたクリーチャーを殺す"
+            "value": "ダメージを与えたモンスターを殺す。",
+            "hide": false
         },
         {
             "key": "status.deathtouch.title",
-            "value": "死触"
+            "value": "デスタッチ",
+            "hide": false
         },
         {
             "key": "status.endturnbleed.desc",
-            "value": "ターンの終わりにダメージを受ける。"
+            "value": "ターン終了時にダメージを受ける。",
+            "hide": false
         },
         {
             "key": "status.endturnbleed.title",
-            "value": "ターン終了時の流血"
+            "value": "ターン終了ブリード",
+            "hide": false
         },
         {
             "key": "status.flying.desc",
-            "value": "挑発を無視"
+            "value": "トーントを無視する。",
+            "hide": false
         },
         {
             "key": "status.flying.title",
-            "value": "飛行"
+            "value": "飛行",
+            "hide": false
         },
         {
             "key": "status.frozen.desc",
-            "value": "1ターン行動不能"
+            "value": "1ターン何も行動できない。",
+            "hide": false
         },
         {
             "key": "status.frozen.title",
-            "value": "凍結"
+            "value": "凍結",
+            "hide": false
         },
         {
             "key": "status.fury.desc",
-            "value": "ターンに2回攻撃可能"
+            "value": "ターンごとに2回攻撃できる",
+            "hide": false
         },
         {
             "key": "status.fury.title",
-            "value": "狂戦士"
+            "value": "フューリー",
+            "hide": false
         },
         {
             "key": "status.intimidate.desc",
-            "value": "攻撃時、対象が反撃しない"
+            "value": "攻撃時、対象がカウンター攻撃しない。",
+            "hide": false
         },
         {
             "key": "status.intimidate.title",
-            "value": "威嚇"
+            "value": "威嚇",
+            "hide": false
         },
         {
             "key": "status.invincibility.desc",
-            "value": "破壊されない"
+            "value": "破壊できない。",
+            "hide": false
         },
         {
             "key": "status.invincibility.title",
-            "value": "無敵"
+            "value": "無敵",
+            "hide": false
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "ダメージを与えると自分を回復"
+            "value": "ダメージを与えるとプレイヤーをヒールする。",
+            "hide": false
         },
         {
             "key": "status.lifesteal.title",
-            "value": "ライフスティール"
+            "value": "ライフスティール",
+            "hide": false
         },
         {
             "key": "status.overkill.desc",
-            "value": "超過ダメージが攻撃者を回復"
+            "value": "余剰ダメージが攻撃者をヒールする。",
+            "hide": false
         },
         {
             "key": "status.overkill.title",
-            "value": "オーバーキル"
+            "value": "オーバーキル",
+            "hide": false
         },
         {
             "key": "status.paralysed.desc",
-            "value": "行動不能"
+            "value": "何も行動できず攻撃がゼロ",
+            "hide": true
         },
         {
             "key": "status.paralysed.title",
-            "value": "ショック麻痺"
+            "value": "麻痺",
+            "hide": true
         },
         {
             "key": "status.poisoned.desc",
-            "value": "毎ターンHPを失う"
+            "value": "毎ターン1 hpを失う。",
+            "hide": false
         },
         {
             "key": "status.poisoned.title",
-            "value": "毒"
+            "value": "中毒",
+            "hide": false
         },
         {
             "key": "status.protected.desc",
-            "value": "攻撃されない。挑発で守られる"
+            "value": "攻撃できない。トーントで保護される。",
+            "hide": false
         },
         {
             "key": "status.protected.title",
-            "value": "保護"
+            "value": "保護",
+            "hide": false
         },
         {
             "key": "status.protection.desc",
-            "value": "他のカードを守る"
+            "value": "他のカードを保護する。",
+            "hide": false
         },
         {
             "key": "status.protection.title",
-            "value": "挑発"
+            "value": "トーント",
+            "hide": false
         },
         {
             "key": "status.protectionflying.desc",
-            "value": "他のカードを飛行モンスターから守る"
+            "value": "他のカードを飛行モンスターから保護する。",
+            "hide": false
         },
         {
             "key": "status.protectionflying.title",
-            "value": "射程"
+            "value": "リーチ",
+            "hide": false
         },
         {
             "key": "status.shell.desc",
-            "value": "最初のヒットでダメージを受けない"
+            "value": "最初のヒットでダメージを受けない。",
+            "hide": false
         },
         {
             "key": "status.shell.title",
-            "value": "殻"
+            "value": "シェル",
+            "hide": false
         },
         {
             "key": "status.silenced.desc",
-            "value": "能力使用や進化不可"
+            "value": "能力を使用したり進化できない。",
+            "hide": false
         },
         {
             "key": "status.silenced.title",
-            "value": "沈黙"
+            "value": "サイレンスド",
+            "hide": false
         },
         {
             "key": "status.sleep.desc",
-            "value": "3分の1の確率で目覚める。攻撃されると除去"
+            "value": "3分の1の確率で目覚める。攻撃されたら除去される。",
+            "hide": false
         },
         {
             "key": "status.sleep.title",
-            "value": "睡眠"
+            "value": "スリープ",
+            "hide": false
         },
         {
             "key": "status.spellimmunity.desc",
-            "value": "呪文カードの対象やダメージを受けない"
+            "value": "スペルカードで対象にしたりダメージを与えられない",
+            "hide": false
         },
         {
             "key": "status.spellimmunity.title",
-            "value": "呪文耐性"
+            "value": "スペル免疫",
+            "hide": false
         },
         {
             "key": "status.stealth.desc",
-            "value": "対象にならない"
+            "value": "行動を行うまで対象にしたり攻撃できない。",
+            "hide": false
         },
         {
             "key": "status.stealth.title",
-            "value": "隠密"
+            "value": "ステルス",
+            "hide": false
         },
         {
             "key": "status.trample.desc",
-            "value": "追加ダメージがプレイヤーに与えられる"
+            "value": "余剰ダメージがプレイヤーに与えられる。",
+            "hide": false
         },
         {
             "key": "status.trample.title",
-            "value": "トランプル"
+            "value": "トランプル",
+            "hide": false
         },
         {
             "key": "status.trapevasion.desc",
-            "value": "この能力のモンスターはトラップをトリガーしない"
+            "value": "この能力を持つモンスターはトラップをトリガーしない。",
+            "hide": false
         },
         {
             "key": "status.trapevasion.title",
-            "value": "トラップ回避"
+            "value": "トラップ回避",
+            "hide": false
         },
         {
             "key": "trait.cat.title",
-            "value": "猫"
+            "value": "猫",
+            "hide": false
         },
         {
             "key": "trait.dragon.title",
-            "value": "ドラゴン"
+            "value": "ドラゴン",
+            "hide": false
         },
         {
             "key": "trait.evolution.title",
-            "value": "進化"
+            "value": "進化",
+            "hide": false
         },
         {
             "key": "trait.fish.title",
-            "value": "魚"
+            "value": "魚",
+            "hide": false
         },
         {
             "key": "trait.growth.title",
-            "value": "成長"
+            "value": "成長",
+            "hide": false
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "氷の性質"
+            "value": "アイスネイチャー",
+            "hide": false
         },
         {
             "key": "trait.igloo.title",
-            "value": "イグルー"
+            "value": "イグルー",
+            "hide": false
         },
         {
             "key": "trait.mind_control_counter.title",
-            "value": "精神制御"
+            "value": "マインドコントロール",
+            "hide": false
         },
         {
             "key": "trait.mind_control_link.title",
-            "value": "精神制御リンク"
+            "value": "マインドコントロールリンク",
+            "hide": false
         },
         {
             "key": "trait.reptile.title",
-            "value": "爬虫類"
+            "value": "爬虫類",
+            "hide": false
         },
         {
             "key": "trait.spell_damage.title",
-            "value": "呪文ダメージ"
+            "value": "スペルダメージ",
+            "hide": false
         }
     ]
 }

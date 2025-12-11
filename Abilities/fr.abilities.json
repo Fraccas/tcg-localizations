@@ -2,2543 +2,3623 @@
     "entries": [
         {
             "key": "ability.ability_immunity.desc",
-            "value": "Ne peut pas être ciblé par les capacités des cartes de personnages"
+            "value": "Ne peut pas être ciblé par les capacités de cartes de monstres",
+            "hide": true
         },
         {
             "key": "ability.ability_immunity.title",
-            "value": "Immunité aux Capacités"
+            "value": "Immunité aux Capacités",
+            "hide": true
         },
         {
             "key": "ability.ability_swap_characters_3ml.desc",
-            "value": "Remplace ce personnage par un personnage du plateau ennemi coûtant 3 mana ou moins."
+            "value": "Échangez ce monstre avec un monstre ennemi qui a un coût de 3 ou moins en mana.",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_3ml.title",
-            "value": "Échange Psychique"
+            "value": "Échange Psychique",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "Remplace ce personnage par un personnage du plateau ennemi coûtant 4 mana."
+            "value": "Échangez ce monstre avec un monstre ennemi qui a un coût en mana de 4.",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
-            "value": "Échange Psychique"
+            "value": "Échange Psychique",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_7ml.desc",
-            "value": "Remplace ce personnage par un personnage du plateau ennemi coûtant 7 mana ou moins."
+            "value": "Échangez ce monstre avec un monstre ennemi qui a un coût de 7 ou moins en mana.",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_7ml.title",
-            "value": "Échange Psychique"
+            "value": "Échange Psychique",
+            "hide": false
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "Toutes les créatures alliées gagnent +2 armure. Utilise l'action de cette créature et coûte 5 mana."
+            "value": "Tous les monstres alliés gagnent +2 armure. Utilise l'action de ce monstre et coûte 5 mana.",
+            "hide": false
         },
         {
             "key": "ability.activate_armor2.title",
-            "value": "Soutien Armure"
+            "value": "Soutien d'Armure",
+            "hide": false
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "Toutes les créatures alliées gagnent +1 attaque jusqu'à la fin du tour. Utilise l'action de cette créature."
+            "value": "Tous les monstres alliés gagnent +1 attaque jusqu'à la fin du tour. Utilise l'action de ce monstre.",
+            "hide": false
         },
         {
             "key": "ability.activate_boost1.title",
-            "value": "Rugissement"
+            "value": "Rugissement",
+            "hide": false
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "Toutes les créatures alliées gagnent +3 attaque jusqu'à la fin du tour. Utilise l'action de cette créature."
+            "value": "Tous les monstres alliés gagnent +3 attaque jusqu'à la fin du tour. Utilise l'action de ce monstre.",
+            "hide": false
         },
         {
             "key": "ability.activate_boost3.title",
-            "value": "Soutien"
+            "value": "Soutien",
+            "hide": false
         },
         {
             "key": "ability.activate_burst.desc",
-            "value": "Subit 1 dégât pour gagner +1 attaque."
+            "value": "Subissez 1 dégât pour gagner +1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.activate_burst.title",
-            "value": "Explosion"
+            "value": "Explosion",
+            "hide": false
         },
         {
             "key": "ability.activate_damage2.desc",
-            "value": "Inflige 2 dégâts. Coûte 3 mana. N'épuise pas l'action."
+            "value": "Infligez 2 dégâts. Coûte 3 mana. N'épuise pas l'action.",
+            "hide": false
         },
         {
             "key": "ability.activate_damage2.title",
-            "value": "Attaque Supplémentaire"
+            "value": "Attaque Supplémentaire",
+            "hide": false
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "L'adversaire défausse une carte aléatoire de sa main. Utilise l'action de cette créature."
+            "value": "L'adversaire défausse une carte aléatoire de sa main. Utilise l'action de ce monstre.",
+            "hide": false
         },
         {
             "key": "ability.activate_discard.title",
-            "value": "Défausse"
+            "value": "Défausser",
+            "hide": false
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "L'adversaire défausse une carte aléatoire de sa main. Utilise l'action de cette créature."
+            "value": "L'adversaire défausse une carte aléatoire de sa main. Utilise l'action de ce monstre.",
+            "hide": false
         },
         {
             "key": "ability.activate_discard_random_3l.title",
-            "value": "Défausse"
+            "value": "Défausser",
+            "hide": false
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "La cible gagne la force d'attaquer (doit être un monstre électrique)"
+            "value": "La cible gagne hâte (doit être un monstre électrique)",
+            "hide": false
         },
         {
             "key": "ability.activate_electric.title",
-            "value": "Électrique"
+            "value": "Électrique",
+            "hide": false
         },
         {
             "key": "ability.activate_fire.desc",
-            "value": "Inflige 1 dégât."
+            "value": "Infligez 1 dégât.",
+            "hide": false
         },
         {
             "key": "ability.activate_fire.title",
-            "value": "Feu"
+            "value": "Feu",
+            "hide": false
         },
         {
             "key": "ability.activate_heal_player3.desc",
-            "value": "Soigne le joueur de 3 PV."
+            "value": "Soignez le joueur pour 3 PV.",
+            "hide": false
         },
         {
             "key": "ability.activate_heal_player3.title",
-            "value": "Auto-Soin"
+            "value": "Auto-Soin",
+            "hide": false
         },
         {
             "key": "ability.activate_ice.desc",
-            "value": "Gèle un ennemi pour 1 tour"
+            "value": "Gelez un ennemi pour 1 tour",
+            "hide": false
         },
         {
             "key": "ability.activate_ice.title",
-            "value": "Gel"
+            "value": "Geler",
+            "hide": false
         },
         {
             "key": "ability.activate_plant.desc",
-            "value": "Soigne 2 PV."
+            "value": "Soignez 2 PV.",
+            "hide": false
         },
         {
             "key": "ability.activate_plant.title",
-            "value": "Plante"
+            "value": "Plante",
+            "hide": false
         },
         {
             "key": "ability.activate_psychic.desc",
-            "value": "L'adversaire défausse une carte aléatoire de sa main."
+            "value": "L'adversaire défausse une carte aléatoire de sa main.",
+            "hide": false
         },
         {
             "key": "ability.activate_psychic.title",
-            "value": "Psychique"
+            "value": "Psychique",
+            "hide": false
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "Le personnage cible gagne +1 Armure"
+            "value": "Le monstre cible gagne +1 Armure",
+            "hide": false
         },
         {
             "key": "ability.activate_rock.title",
-            "value": "Roche"
+            "value": "Roche",
+            "hide": false
         },
         {
             "key": "ability.activate_rock_hammi_old.desc",
-            "value": "Invoque un Hammi 1/1"
+            "value": "Invoquez un Hammi 1/1",
+            "hide": false
         },
         {
             "key": "ability.activate_rock_hammi_old.title",
-            "value": "Roche"
+            "value": "Roche",
+            "hide": false
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "Sélectionne un personnage et lance un D6, sur 4+ renvoie-le à la main de son propriétaire. Coûte 2 mana."
+            "value": "Sélectionnez un monstre et lancez un D6, sur 4+ renvoyez-le à la main de son propriétaire original. Coûte 2 mana.",
+            "hide": false
         },
         {
             "key": "ability.activate_roll_send_hand.title",
-            "value": "Ruée"
+            "value": "Charge",
+            "hide": false
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "Récupère un sort de ton cimetière dans ta main. Coûte 2 mana."
+            "value": "Renvoyez un sort de votre défausse à votre main. Coûte 2 mana.",
+            "hide": false
         },
         {
             "key": "ability.activate_select_discard_spell.title",
-            "value": "Focus Magique"
+            "value": "Focus Magique",
+            "hide": false
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "Renvoie un personnage à la main de son propriétaire. Utilise l'action de cette créature."
+            "value": "Renvoyez un monstre à la main de son propriétaire original. Utilise l'action de ce monstre.",
+            "hide": false
         },
         {
             "key": "ability.activate_send_hand.title",
-            "value": "Ruée"
+            "value": "Rebond",
+            "hide": false
         },
         {
             "key": "ability.activate_shadow.desc",
-            "value": "La cible devient Maudite"
+            "value": "La cible devient Maudite",
+            "hide": false
         },
         {
             "key": "ability.activate_shadow.title",
-            "value": "Ombre"
+            "value": "Ombre",
+            "hide": false
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "À la mise en jeu, sélectionne une cible pour changer de camp"
+            "value": "Au jeu, sélectionnez un monstre cible pour changer de côté",
+            "hide": false
         },
         {
             "key": "ability.activate_switch_sides.title",
-            "value": "Échange de Loyauté"
+            "value": "Échange de Loyauté",
+            "hide": false
         },
         {
             "key": "ability.activate_water.desc",
-            "value": "Pioche une carte."
+            "value": "Piochez une carte.",
+            "hide": false
         },
         {
             "key": "ability.activate_water.title",
-            "value": "Eau"
+            "value": "Eau",
+            "hide": false
         },
         {
             "key": "ability.add_attack_traps.desc",
-            "value": "Gagne +1 dégât pour chaque piège ennemi"
+            "value": "Gagnez +1 dégât pour chaque piège ennemi",
+            "hide": false
         },
         {
             "key": "ability.add_attack_traps.title",
-            "value": "Boost Pièges"
+            "value": "Boost de Piège",
+            "hide": false
         },
         {
             "key": "ability.add_hp_location.desc",
-            "value": "Gagne +2 PV pour chaque lieu allié du même type d'élément en jeu."
+            "value": "Gagnez +2 PV pour chaque emplacement allié du même type d'élément en jeu.",
+            "hide": false
         },
         {
             "key": "ability.add_hp_location.title",
-            "value": "Boost Lieu"
+            "value": "Boost d'Emplacement",
+            "hide": false
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Gagne +1 PV et +1 attaque pour chaque lieu allié du même type d'élément en jeu."
+            "value": "Gagnez +1 PV et +1 Attaque si un emplacement allié du même type d'élément est en jeu.",
+            "hide": false
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "Renfort de lieu"
+            "value": "Boost d'Emplacement",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage1.desc",
-            "value": "Tous tes sorts et capacités infligent +1 dégât."
+            "value": "Tous vos sorts et capacités infligent +1 dégât.",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage1.title",
-            "value": "Dégâts de Sort"
+            "value": "Dégâts de Sort",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage2.desc",
-            "value": "Tous tes sorts et capacités infligent +2 dégâts."
+            "value": "Tous vos sorts et capacités infligent +2 dégâts.",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage2.title",
-            "value": "Dégâts de Sort"
+            "value": "Dégâts de Sort",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage4.desc",
-            "value": "Tous vos sorts et capacités infligent +4 dégâts."
+            "value": "Tous vos sorts et capacités infligent +4 dégâts.",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage4.title",
-            "value": "Dégâts des sorts"
+            "value": "Dégâts de Sort",
+            "hide": false
         },
         {
             "key": "ability.after_spell_attack2.desc",
-            "value": "Après avoir joué un sort, gagne +2 attaque."
+            "value": "Après avoir joué un sort, gagnez +2 attaque.",
+            "hide": false
         },
         {
             "key": "ability.after_spell_attack2.title",
-            "value": "Chaleur"
+            "value": "Chaleur",
+            "hide": false
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "Le personnage attaqué est brûlé. Il perd 2 PV par tour."
+            "value": "Le monstre attaqué est brûlé. Il perd 2 PV chaque tour.",
+            "hide": false
         },
         {
             "key": "ability.attack_burned.title",
-            "value": "Brûlé"
+            "value": "Brûlé",
+            "hide": false
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "Les personnages attaqués gagnent malédiction. Ils perdent 1 attaque par tour."
+            "value": "Les monstres attaqués gagnent malédiction. Ils perdent 1 attaque chaque tour.",
+            "hide": true
         },
         {
             "key": "ability.attack_curse.title",
-            "value": "Malédiction"
+            "value": "Malédiction",
+            "hide": true
         },
         {
             "key": "ability.attack_freeze.desc",
-            "value": "Le monstre attaqué est gelé."
+            "value": "Le monstre attaqué devient gelé.",
+            "hide": true
         },
         {
             "key": "ability.attack_freeze.title",
-            "value": "Gel"
+            "value": "Geler",
+            "hide": true
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "Protège l'attaque du personnage d'être réduite."
+            "value": "Protège l'attaque du monstre contre la réduction.",
+            "hide": true
         },
         {
             "key": "ability.attack_loss_immunity.title",
-            "value": "Immunité à la Perte d'Attaque"
+            "value": "Immunité à la Perte d'Attaque",
+            "hide": true
         },
         {
             "key": "ability.attack_mana1.desc",
-            "value": "Après avoir attaqué, gagnez 1 mana."
+            "value": "Après avoir attaqué, gagnez 1 mana.",
+            "hide": false
         },
         {
             "key": "ability.attack_mana1.title",
-            "value": "Saccage"
+            "value": "Pillage",
+            "hide": false
         },
         {
             "key": "ability.attack_mana2.desc",
-            "value": "Après avoir attaqué, gagnez 2 mana."
+            "value": "Après avoir attaqué, gagnez 2 mana.",
+            "hide": false
         },
         {
             "key": "ability.attack_mana2.title",
-            "value": "Saccage"
+            "value": "Pillage",
+            "hide": false
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.desc",
+            "value": "Après avoir attaqué le joueur ennemi, piochez une carte de sort roche de votre deck",
+            "hide": false
+        },
+        {
+            "key": "ability.attack_player_draw_rock_spell.title",
+            "value": "Trésor de Roche",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana1.desc",
-            "value": "Après avoir attaqué la vie de l'adversaire, gagne 1 mana."
+            "value": "Après avoir attaqué la vie de l'adversaire, gagnez 1 mana.",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana1.title",
-            "value": "Saccage"
+            "value": "Pillage",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana2.desc",
-            "value": "Après avoir attaqué la vie de l'adversaire, gagne 2 mana."
+            "value": "Après avoir attaqué la vie de l'adversaire, gagnez 2 mana.",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana2.title",
-            "value": "Saccage"
+            "value": "Pillage",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana3.desc",
-            "value": "Après avoir attaqué la vie de l'adversaire, gagne 3 mana."
+            "value": "Après avoir attaqué la vie de l'adversaire, gagnez 3 mana.",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana3.title",
-            "value": "Saccage"
+            "value": "Pillage",
+            "hide": false
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "Les personnages attaqués gagnent poison. Ils perdent 1 PV par tour."
+            "value": "Les monstres attaqués et contre-attaquants gagnent poison.",
+            "hide": false
         },
         {
             "key": "ability.attack_poison.title",
-            "value": "Empoisonnement"
+            "value": "Poison de Combat",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "Avant d'attaquer, lance un D6, sur 4+ gagne +3 attaque."
+            "value": "Avant d'attaquer, lancez un D6, sur 4+ gagnez +3 attaque.",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.title",
-            "value": "Tentacules"
+            "value": "Tentacules",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "Avant d'attaquer, lance un D6, sur 4+ gagne +3 attaque jusqu'à la fin du tour."
+            "value": "Avant d'attaquer, lancez un D6, sur 4+ gagnez +3 attaque jusqu'à la fin du tour.",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
-            "value": "Tentacules"
+            "value": "Tentacules",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "Avant d'attaquer, lance un D6, sur 4+ gagne +6 attaque jusqu'à la fin du tour."
+            "value": "Avant d'attaquer, lancez un D6, sur 4+ gagnez +6 attaque jusqu'à la fin du tour.",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
-            "value": "Tentacules"
+            "value": "Tentacules",
+            "hide": false
         },
         {
             "key": "ability.attack_suffer_damage.desc",
-            "value": "Avant d'attaquer, subit 3 dégâts."
+            "value": "Avant d'attaquer, subissez 3 dégâts.",
+            "hide": false
         },
         {
             "key": "ability.attack_suffer_damage.title",
-            "value": "Fissure du Sol"
+            "value": "Division de Terre",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "Toutes les créatures alliées Feu gagnent : « Subit 1 dégât pour gagner +1 attaque »."
+            "value": "Tous les monstres de Feu alliés gagnent : « Subissez 1 dégât pour gagner +1 attaque ».",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_red.title",
-            "value": "Explosion de Feu"
+            "value": "Explosion de Feu",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "Toutes les créatures alliées Roche gagnent : « Subit 1 dégât pour gagner +1 attaque »."
+            "value": "Tous les monstres de Roche alliés gagnent : « Subissez 1 dégât pour gagner +1 attaque ».",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_rock.title",
-            "value": "Explosion de Roche"
+            "value": "Explosion de Roche",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_add_enrage.desc",
+            "value": "Tous les monstres de roche alliés gagnent une pile de Colère.",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_add_enrage.title",
+            "value": "Aura de Colère Roche",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_armor_rock_2.desc",
+            "value": "Tous les monstres de roche alliés ont +2 Armure.",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_armor_rock_2.title",
+            "value": "Armure de Pierre 2",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "Tous les personnages ennemis ont -1 attaque."
+            "value": "Tous les monstres ennemis ont -1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m1.title",
-            "value": "Peur"
+            "value": "Peur",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "Tous les personnages ennemis ont -2 attaque."
+            "value": "Tous les monstres ennemis ont -2 attaque.",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m2.title",
-            "value": "Peur"
+            "value": "Peur",
+            "hide": false
         },
         {
             "key": "ability.aura_cat.desc",
-            "value": "Tous les autres chats alliés gagnent +1 attaque."
+            "value": "Tous les autres chats alliés gagnent +1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.aura_cat.title",
-            "value": "Aura de Chat"
+            "value": "Aura de Chat",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_attack1.desc",
-            "value": "Tous les personnages ennemis gagnent +1 attaque."
+            "value": "Tous les monstres ennemis gagnent +1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_attack1.title",
-            "value": "Trahison"
+            "value": "Traîtrise",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_hp2.desc",
-            "value": "Tous les personnages ennemis gagnent +2 PV"
+            "value": "Tous les monstres ennemis gagnent +2 PV",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_hp2.title",
-            "value": "Trahison"
+            "value": "Traîtrise",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_1.desc",
-            "value": "Tous les personnages roche alliés ont +1 PV."
+            "value": "Tous les monstres de roche alliés ont +1 PV.",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_1.title",
-            "value": "Allié de Pierre"
+            "value": "Allié de Pierre",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_hp_rock_2.desc",
+            "value": "Tous les monstres de roche alliés ont +2 PV.",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_hp_rock_2.title",
+            "value": "Allié de Pierre 2",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_m1.desc",
-            "value": "Tous les personnages ombre alliés ont +1 PV."
+            "value": "Tous les monstres d'ombre alliés ont +1 PV.",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_m1.title",
-            "value": "Allié d'Ombre"
+            "value": "Allié d'Ombre",
+            "hide": false
         },
         {
             "key": "ability.aura_protect_igloo.desc",
-            "value": "Les igloos deviennent invincibles."
+            "value": "Les igloos deviennent invincibles.",
+            "hide": false
         },
         {
             "key": "ability.aura_protect_igloo.title",
-            "value": "Protection d'Igloo"
+            "value": "Protection d'Igloo",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile.desc",
-            "value": "Tous les autres reptiles alliés gagnent +1 attaque."
+            "value": "Tous les autres reptiles alliés gagnent +1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile.title",
-            "value": "Reptiles alliés"
+            "value": "Reptiles",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile_2.desc",
-            "value": "Tous les autres reptiles alliés gagnent +2 attaque."
+            "value": "Tous les autres reptiles alliés gagnent +2 attaque.",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile_2.title",
-            "value": "Reptiles alliés"
+            "value": "Reptiles",
+            "hide": false
         },
         {
             "key": "ability.bypass_trap.desc",
-            "value": "Ce personnage ne déclenche pas les pièges."
+            "value": "Ce monstre ne déclenche pas les pièges.",
+            "hide": true
         },
         {
             "key": "ability.bypass_trap.title",
-            "value": "Évasion de Pièges"
+            "value": "Évasion de Piège",
+            "hide": true
         },
         {
             "key": "ability.chain_ice_treasure.desc",
-            "value": "Regarde les 7 prochaines cartes de ton deck et prends 2 cartes glace dans ta main."
+            "value": "Regardez les 7 prochaines cartes dans votre deck et prenez 2 cartes de glace dans votre main.",
+            "hide": false
         },
         {
             "key": "ability.chain_ice_treasure.title",
-            "value": "Trésor Glace"
+            "value": "Trésor de Glace",
+            "hide": false
         },
         {
             "key": "ability.chain_water_treasure.desc",
-            "value": "Regarde les 7 prochaines cartes de ton deck et prends 2 cartes eau dans ta main."
+            "value": "Regardez les 7 prochaines cartes dans votre deck et prenez 2 cartes d'eau dans votre main.",
+            "hide": false
         },
         {
             "key": "ability.chain_water_treasure.title",
-            "value": "Trésor Eau"
+            "value": "Trésor d'Eau",
+            "hide": false
         },
         {
             "key": "ability.choice_ability_immunity.desc",
-            "value": "Ne peut pas être ciblé par les capacités des personnages."
+            "value": "Ne peut pas être ciblé par les capacités de monstres",
+            "hide": false
         },
         {
             "key": "ability.choice_ability_immunity.title",
-            "value": "Immunité aux Capacités"
+            "value": "Immunité aux Capacités",
+            "hide": false
+        },
+        {
+            "key": "ability.choice_armor2.desc",
+            "value": "Gagne +2 Armure au apparition.",
+            "hide": false
+        },
+        {
+            "key": "ability.choice_armor2.title",
+            "value": "Choix Armure 2",
+            "hide": false
         },
         {
             "key": "ability.choice_fury.desc",
-            "value": "Peut attaquer deux fois par tour."
+            "value": "Peut attaquer deux fois par tour.",
+            "hide": false
         },
         {
             "key": "ability.choice_fury.title",
-            "value": "Furie"
+            "value": "Fureur",
+            "hide": false
         },
         {
             "key": "ability.choice_rush.desc",
-            "value": "Peut attaquer immédiatement, mais ne peut pas cibler le joueur adverse pendant le tour où il est joué."
+            "value": "Peut attaquer immédiatement, mais ne peut pas cibler le joueur ennemi au tour où il est joué.",
+            "hide": false
         },
         {
             "key": "ability.choice_rush.title",
-            "value": "Ruée"
+            "value": "Charge",
+            "hide": false
         },
         {
             "key": "ability.choice_spell_immunity.desc",
-            "value": "Ne peut pas être ciblé ni subir de dégâts des cartes de sort."
+            "value": "Ne peut pas être ciblé ou endommagé par les cartes de sorts.",
+            "hide": false
         },
         {
             "key": "ability.choice_spell_immunity.title",
-            "value": "Immunité aux Sorts"
+            "value": "Immunité aux Sorts",
+            "hide": false
         },
         {
             "key": "ability.choice_taunt.desc",
-            "value": "Tes autres personnages ne peuvent pas être attaqués."
+            "value": "Vos autres monstres ne peuvent pas être attaqués.",
+            "hide": false
         },
         {
             "key": "ability.choice_taunt.title",
-            "value": "Provocation"
+            "value": "Provocation",
+            "hide": false
+        },
+        {
+            "key": "ability.damage_cap.desc",
+            "value": "Subit un maximum de 2 dégâts en attaque / contre-attaque.",
+            "hide": false
+        },
+        {
+            "key": "ability.damage_cap.title",
+            "value": "Limite de Dégâts",
+            "hide": false
         },
         {
             "key": "ability.death_blue_draw.desc",
-            "value": "Quand une créature Eau que tu possèdes meurt, pioche une carte."
+            "value": "Quand un monstre d'Eau que vous possédez meurt, piochez une carte.",
+            "hide": false
         },
         {
             "key": "ability.death_blue_draw.title",
-            "value": "Piocher"
+            "value": "Pioche",
+            "hide": false
         },
         {
             "key": "ability.death_damage2_player.desc",
-            "value": "Quand cette créature meurt, inflige des dégâts au joueur ennemi."
+            "value": "Quand ce monstre meurt, infligez des dégâts au joueur ennemi.",
+            "hide": false
         },
         {
             "key": "ability.death_damage2_player.title",
-            "value": "Dégâts de Mort"
+            "value": "Dégâts de Mort",
+            "hide": false
         },
         {
             "key": "ability.death_draw.desc",
-            "value": "Quand cette créature meurt, pioche une carte."
+            "value": "Quand ce monstre meurt, piochez une carte.",
+            "hide": false
         },
         {
             "key": "ability.death_draw.title",
-            "value": "Piocher"
+            "value": "Pioche",
+            "hide": false
         },
         {
             "key": "ability.death_egg.desc",
-            "value": "Quand cette créature meurt, invoque un œuf de Phyra."
+            "value": "Quand ce monstre meurt, invoquez un œuf de Phyra 0/3.",
+            "hide": false
         },
         {
             "key": "ability.death_egg.title",
-            "value": "Invoquer Œuf"
+            "value": "Invoquer Œuf",
+            "hide": false
         },
         {
             "key": "ability.death_heal2.desc",
-            "value": "Quand cette créature meurt, tu restaures 2 PV."
+            "value": "Quand ce monstre meurt, vous récupérez 2 PV.",
+            "hide": false
         },
         {
             "key": "ability.death_heal2.title",
-            "value": "Soin"
+            "value": "Soigner",
+            "hide": false
         },
         {
             "key": "ability.death_heal3.desc",
-            "value": "Quand cette créature meurt, tu restaures 3 PV."
+            "value": "Quand ce monstre meurt, vous récupérez 3 PV.",
+            "hide": false
         },
         {
             "key": "ability.death_heal3.title",
-            "value": "Soin"
+            "value": "Soigner",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw.desc",
-            "value": "Chaque fois qu'un autre personnage meurt, pioche une carte."
+            "value": "Chaque fois qu'un autre monstre meurt, piochez une carte.",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw.title",
-            "value": "Manger"
+            "value": "Manger",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw2.desc",
-            "value": "Chaque fois qu'un autre personnage meurt, pioche 2 cartes."
+            "value": "Chaque fois qu'un autre monstre meurt, piochez 2 cartes.",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw2.title",
-            "value": "Manger"
+            "value": "Manger",
+            "hide": false
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.desc",
+            "value": "Quand ce monstre meurt, invoquez un Cabyron avec Colère 2.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_summon_cabyron_copy.title",
+            "value": "Invoquer Copie de Cabyron",
+            "hide": false
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "Invoque un igloo à sa mort."
+            "value": "Au mort invoquez un Igloo",
+            "hide": false
         },
         {
             "key": "ability.death_summon_igloo.title",
-            "value": "Invoquer Igloo"
+            "value": "Invoquer Igloo",
+            "hide": false
         },
         {
             "key": "ability.death_summon_twii.desc",
-            "value": "Quand cette créature meurt, invoquez un Twii."
+            "value": "Quand ce monstre meurt, invoquez un Twii.",
+            "hide": false
         },
         {
             "key": "ability.death_summon_twii.title",
-            "value": "Invoquer Twii"
+            "value": "Invoquer Twii",
+            "hide": false
         },
         {
             "key": "ability.deathtouch.desc",
-            "value": "Tue n'importe quelle créature qu'il endommage."
+            "value": "Tue tout monstre qu'il endommage.",
+            "hide": true
         },
         {
             "key": "ability.deathtouch.title",
-            "value": "Contact Mortel"
+            "value": "Toucher de Mort",
+            "hide": true
         },
         {
             "key": "ability.defend_discard.desc",
-            "value": "Quand attaqué, l'adversaire doit défausser 1 carte aléatoire."
+            "value": "Quand il est attaqué, l'adversaire doit défausser 1 carte aléatoire.",
+            "hide": false
         },
         {
             "key": "ability.defend_discard.title",
-            "value": "Submergé"
+            "value": "Submergé",
+            "hide": false
         },
         {
             "key": "ability.defend_draw1.desc",
-            "value": "Quand ce personnage est attaqué, piochez une carte."
+            "value": "Quand ce monstre est attaqué piochez une carte.",
+            "hide": false
         },
         {
             "key": "ability.defend_draw1.title",
-            "value": "Pioche"
+            "value": "Pioche",
+            "hide": false
         },
         {
             "key": "ability.defense_attack3.desc",
-            "value": "A +3 attaque pendant le tour de l'adversaire."
+            "value": "A +3 attaque pendant le tour de l'adversaire.",
+            "hide": false
         },
         {
             "key": "ability.defense_attack3.title",
-            "value": "Défense"
+            "value": "Défense",
+            "hide": false
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "A +5 d'attaque pendant le tour de l'adversaire."
+            "value": "A +5 attaque pendant le tour de l'adversaire.",
+            "hide": false
         },
         {
             "key": "ability.defense_attack5.title",
-            "value": "Défense"
+            "value": "Défense",
+            "hide": false
         },
         {
             "key": "ability.discard_add_attack1.desc",
-            "value": "Chaque fois que l'adversaire est forcé à défausser, gagne +1 attaque."
+            "value": "Chaque fois que l'adversaire est forcé de défausser gagne +1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.discard_add_attack1.title",
-            "value": "Gain de Défausse"
+            "value": "Gain de Défausse",
+            "hide": false
         },
         {
             "key": "ability.egg_growth.desc",
-            "value": "Après 3 tours, se transforme en Phyra."
+            "value": "Après 3 tours, se transforme en Phyra.",
+            "hide": false
         },
         {
             "key": "ability.egg_growth.title",
-            "value": "Œuf"
+            "value": "Œuf",
+            "hide": false
         },
         {
             "key": "ability.egg_transform.desc",
-            "value": "Après 3 tours, se transforme en Phyra."
+            "value": "Après 3 tours, se transforme en Phyra.",
+            "hide": false
         },
         {
             "key": "ability.egg_transform.title",
-            "value": "Transformer Phyra"
+            "value": "Transformer Phyra",
+            "hide": false
+        },
+        {
+            "key": "ability.enrage.desc",
+            "value": "Gagne +1 attaque chaque fois que le monstre subit des dégâts.",
+            "hide": false
+        },
+        {
+            "key": "ability.enrage.title",
+            "value": "Colère",
+            "hide": false
+        },
+        {
+            "key": "ability.enrage2.desc",
+            "value": "Gagne +2 attaque chaque fois que le monstre subit des dégâts.",
+            "hide": false
+        },
+        {
+            "key": "ability.enrage2.title",
+            "value": "Colère 2",
+            "hide": false
+        },
+        {
+            "key": "ability.enrage3.desc",
+            "value": "Gagne +3 attaque chaque fois que le monstre subit des dégâts.",
+            "hide": false
+        },
+        {
+            "key": "ability.enrage3.title",
+            "value": "Colère 3",
+            "hide": false
+        },
+        {
+            "key": "ability.enrage4.desc",
+            "value": "Gagne +4 attaque chaque fois que le monstre subit des dégâts.",
+            "hide": false
+        },
+        {
+            "key": "ability.enrage4.title",
+            "value": "Colère 4",
+            "hide": false
         },
         {
             "key": "ability.equip_armor2.desc",
-            "value": "Le porteur a +2 armure."
+            "value": "Le porteur a +2 armure.",
+            "hide": true
         },
         {
             "key": "ability.equip_armor2.title",
-            "value": "Armure"
+            "value": "Armure",
+            "hide": true
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.desc",
+            "value": "L'attaque du porteur devient égale à ses PV actuels",
+            "hide": false
+        },
+        {
+            "key": "ability.equip_attack_equals_current_hp.title",
+            "value": "Égalisateur",
+            "hide": false
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.desc",
+            "value": "L'attaque du porteur devient égale à ses PV maximum",
+            "hide": false
+        },
+        {
+            "key": "ability.equip_attack_equals_max_hp.title",
+            "value": "Égalisateur",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_no_damage.desc",
-            "value": "En attaquant, la cible ne contre-attaque pas."
+            "value": "Quand il attaque, la cible ne contre-attaque pas.",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_no_damage.title",
-            "value": "Intimider"
+            "value": "Intimider",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_use.desc",
-            "value": "Perd 1 durabilité après chaque attaque."
+            "value": "Perd 1 durabilité après chaque attaque.",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_use.title",
-            "value": "Épée"
+            "value": "Épée",
+            "hide": true
         },
         {
             "key": "ability.equip_attack1.desc",
-            "value": "Le porteur a +1 attaque."
+            "value": "Le porteur a +1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.equip_attack1.title",
-            "value": "Attaque"
+            "value": "Attaque",
+            "hide": false
         },
         {
             "key": "ability.equip_attack2.desc",
-            "value": "Le porteur a +2 attaque."
+            "value": "Le porteur a +2 attaque.",
+            "hide": false
         },
         {
             "key": "ability.equip_attack2.title",
-            "value": "Attaque"
+            "value": "Attaque",
+            "hide": false
         },
         {
             "key": "ability.equip_defend_use.desc",
-            "value": "Perd 1 durabilité quand attaqué."
+            "value": "Perd 1 durabilité quand il est attaqué.",
+            "hide": true
         },
         {
             "key": "ability.equip_defend_use.title",
-            "value": "Bouclier"
+            "value": "Bouclier",
+            "hide": true
         },
         {
             "key": "ability.equip_gain_mana.desc",
-            "value": "Gagne 2 mana supplémentaires par tour pendant les 3 prochains tours."
+            "value": "Gagnez 2 mana supplémentaire par tour pendant les 3 prochains tours.",
+            "hide": false
         },
         {
             "key": "ability.equip_gain_mana.title",
-            "value": "Anneau de Mana"
+            "value": "Anneau de Mana",
+            "hide": false
         },
         {
             "key": "ability.equip_mana_kill.desc",
-            "value": "Quand le porteur tue une carte, gagne 3 mana."
+            "value": "Quand le porteur tue une carte, gagnez 3 mana.",
+            "hide": false
         },
         {
             "key": "ability.equip_mana_kill.title",
-            "value": "Anneau de Mana"
+            "value": "Anneau de Mana",
+            "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Gagne 2 mana supplémentaires par tour pendant les 3 prochains tours."
+            "value": "Gagnez 2 mana supplémentaire par tour pendant les 3 prochains tours.",
+            "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Anneau de Mana"
+            "value": "Anneau de Mana",
+            "hide": false
         },
         {
             "key": "ability.equip_taunt.desc",
-            "value": "Le porteur a provocation."
+            "value": "Le porteur a provocation.",
+            "hide": true
         },
         {
             "key": "ability.equip_taunt.title",
-            "value": "Provocation"
+            "value": "Provocation",
+            "hide": true
         },
         {
             "key": "ability.equip_turn_use.desc",
-            "value": "Perd 1 durabilité après chaque tour."
+            "value": "Perd 1 durabilité après chaque tour.",
+            "hide": true
         },
         {
             "key": "ability.flying.desc",
-            "value": "Peut ignorer la Provocation."
+            "value": "Ignore la Provocation.",
+            "hide": true
         },
         {
             "key": "ability.flying.title",
-            "value": "Vol"
+            "value": "Volant",
+            "hide": true
         },
         {
             "key": "ability.fury.desc",
-            "value": "Peut attaquer deux fois par tour."
+            "value": "Peut attaquer deux fois par tour.",
+            "hide": true
         },
         {
             "key": "ability.fury.title",
-            "value": "Furie"
+            "value": "Fureur",
+            "hide": true
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Gagne un bouclier à chaque fois que tu invoques un lieu."
+            "value": "Gagne coquille chaque fois que vous invoquez un emplacement.",
+            "hide": true
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Gain de bouclier"
+            "value": "Gagner Coquille",
+            "hide": true
         },
         {
             "key": "ability.ghost.desc",
-            "value": "Ne subit pas de dégâts en attaquant."
+            "value": "Ne subit pas de dégâts en attaquant.",
+            "hide": true
         },
         {
             "key": "ability.ghost.title",
-            "value": "Fantôme"
+            "value": "Fantôme",
+            "hide": true
         },
         {
             "key": "ability.haste.desc",
-            "value": "Peut attaquer immédiatement."
+            "value": "Peut attaquer immédiatement.",
+            "hide": false
         },
         {
             "key": "ability.haste.title",
-            "value": "Hâte"
+            "value": "Hâte",
+            "hide": false
         },
         {
             "key": "ability.ice punch.desc",
-            "value": "Ne subit pas de dégâts en attaquant."
+            "value": "Ne subit pas de dégâts en attaquant.",
+            "hide": true
         },
         {
             "key": "ability.ice punch.title",
-            "value": "Poing Glacé"
+            "value": "Poing de Glace",
+            "hide": true
         },
         {
             "key": "ability.icy_buff1.desc",
-            "value": "Gagne +1 attaque lorsqu'un ennemi est gelé."
+            "value": "Gagne +1 pour chaque ennemi gelé.",
+            "hide": false
         },
         {
             "key": "ability.icy_buff1.title",
-            "value": "Renfort glacé"
+            "value": "Boost Glacé",
+            "hide": false
         },
         {
             "key": "ability.kill_draw1.desc",
-            "value": "Quand vous tuez un autre personnage avec cette créature, piochez 1 carte."
+            "value": "Quand vous tuez un autre monstre avec ce monstre, piochez 1 carte.",
+            "hide": false
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Pioche"
+            "value": "Pioche",
+            "hide": false
         },
         {
             "key": "ability.kill_draw2.desc",
-            "value": "Quand tu tues un autre personnage avec cette créature, pioche 2 cartes."
+            "value": "Quand vous tuez un autre monstre avec ce monstre, piochez 2 cartes.",
+            "hide": false
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Piocher"
+            "value": "Pioche",
+            "hide": false
         },
         {
             "key": "ability.lifesteal.desc",
-            "value": "Soigne le joueur en infligeant des dégâts."
+            "value": "Soignez le joueur en infligeant des dégâts.",
+            "hide": true
         },
         {
             "key": "ability.lifesteal.title",
-            "value": "Vampirisme"
+            "value": "Vol de Vie",
+            "hide": true
         },
         {
             "key": "ability.location_mana_discount.desc",
-            "value": "Les cartes Lieu du même type élémentaire ont un rabais de 1 mana."
+            "value": "Les cartes d'emplacement du même type élémental ont un rabais de mana de 1.",
+            "hide": false
         },
         {
             "key": "ability.location_mana_discount.title",
-            "value": "Aura de Lieu"
+            "value": "Aura d'Emplacement",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi de 3 mana ou moins pour 1 tour. La cible gagne Charge."
+            "value": "Prenez le contrôle d'un monstre ennemi avec 3 ou moins en coût de mana pour 1 tour. La cible gagne Charge.",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.desc",
-            "value": "Prend le contrôle d'un personnage ennemi pour 1 tour et lui donne Charge"
+            "value": "Prenez le contrôle d'un monstre ennemi pour 1 tour et donnez-lui hâte",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_3_turns_3ml.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_any.desc",
-            "value": "Prend le contrôle d'un personnage ennemi pour 3 tours, ou jusqu'à ce qu'il évolue"
+            "value": "Prenez le contrôle d'un monstre ennemi pour 3 tours, ou jusqu'à ce qu'il évolue",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_any.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_any_spell.desc",
-            "value": "Prend le contrôle d'un personnage ennemi pendant 3 tours, ou jusqu'à ce qu'il évolue."
+            "value": "Prenez le contrôle d'un monstre ennemi pour 3 tours, ou jusqu'à ce qu'il évolue",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_any_spell.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi coûtant 4 mana ou moins pour 3 tours, ou jusqu'à ce qu'il évolue"
+            "value": "Prenez le contrôle d'un monstre ennemi avec 4 ou moins en coût de mana pour 2 tours, ou jusqu'à ce qu'il évolue",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_enemy_m2l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi coûtant 4 mana ou moins pour 3 tours, ou jusqu'à ce qu'il évolue"
+            "value": "Prenez le contrôle d'un monstre ennemi avec 4 ou moins en coût de mana pour 2 tours, ou jusqu'à ce qu'il évolue",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_enemy_m3l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi avec 2 d'attaque pendant 3 tours, ou jusqu'à ce qu'il évolue ou quitte le plateau."
+            "value": "Prenez le contrôle d'un monstre ennemi avec 2 attaque ou moins pour 2 tours, ou jusqu'à ce qu'il évolue ou quitte le plateau",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a2l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi avec 3 attaque pour 3 tours, ou jusqu'à ce qu'il évolue ou quitte le plateau"
+            "value": "Prenez le contrôle d'un monstre ennemi avec 3 attaque ou moins pour 2 tours, ou jusqu'à ce qu'il évolue ou ce monstre quitte le plateau",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a3l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi avec 5 d'attaque pendant 2 tours, ou jusqu'à ce qu'il évolue ou quitte le plateau."
+            "value": "Prenez le contrôle d'un monstre ennemi avec 5 attaque ou moins pour 2 tours, ou jusqu'à ce qu'il évolue ou ce monstre quitte le plateau",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_a5l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi coûtant 2 mana ou moins pour 3 tours, ou jusqu'à ce qu'il évolue / quitte le jeu"
+            "value": "Prenez le contrôle d'un monstre ennemi avec 2 mana ou moins pour 2 tours, ou jusqu'à ce qu'il évolue / quitte le jeu",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m2l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi coûtant 3 mana ou moins pour 3 tours, ou jusqu'à ce qu'il évolue / quitte le jeu"
+            "value": "Prenez le contrôle d'un monstre ennemi avec 3 mana ou moins pour 2 tours, ou jusqu'à ce qu'il évolue / quitte le jeu",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m3l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.desc",
-            "value": "Prend le contrôle d'un personnage ennemi coûtant 4 mana pour 3 tours, ou jusqu'à ce qu'il évolue"
+            "value": "Prenez le contrôle d'un monstre ennemi avec un coût de 4 mana pour 2 tours, ou jusqu'à ce qu'il évolue",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m4.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.desc",
-            "value": "Prend le contrôle d'un personnage ennemi coûtant 5 mana ou plus pour 3 tours, ou jusqu'à ce qu'il évolue, ou que cette carte quitte le plateau"
+            "value": "Prenez le contrôle d'un monstre ennemi avec un coût de 5 mana ou plus pour 2 tours, ou jusqu'à ce qu'il évolue, ou cette carte quitte le plateau",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m5+.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi coûtant 5 mana ou plus pour 3 tours, ou jusqu'à ce qu'il évolue, ou que cette carte quitte le plateau"
+            "value": "Prenez le contrôle d'un monstre ennemi avec un coût de 5 mana ou moins pour 2 tours, ou jusqu'à ce qu'il évolue, ou cette carte quitte le plateau",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_leaves_m5l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_m5l.desc",
-            "value": "Prend le contrôle d'un personnage ennemi coûtant 5 mana ou moins pour 3 tours, ou jusqu'à ce qu'il évolue"
+            "value": "Prenez le contrôle d'un monstre ennemi avec 5 ou moins en coût de mana pour 2 tours, ou jusqu'à ce qu'il évolue",
+            "hide": false
         },
         {
             "key": "ability.mind_control_ability_m5l.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.ongoing_cannot_attack.desc",
-            "value": "Ce monstre ne peut pas attaquer les cibles ennemies."
+            "value": "Ce monstre ne peut pas attaquer les objectifs ennemis.",
+            "hide": false
         },
         {
             "key": "ability.ongoing_cannot_attack.title",
-            "value": "Pas d'Attaque"
+            "value": "Pas d'Attaque",
+            "hide": false
         },
         {
             "key": "ability.overkill.desc",
-            "value": "Les dégâts excédentaires soignent l'attaquant."
+            "value": "Les dégâts en excès soignent l'attaquant.",
+            "hide": false
         },
         {
             "key": "ability.overkill.title",
-            "value": "Excès de Dégâts"
+            "value": "Surkill",
+            "hide": false
+        },
+        {
+            "key": "ability.play_add_armor1.desc",
+            "value": "Au jeu, gagne 1 armure.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor1.title",
+            "value": "Armure Initiale 1",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor2.desc",
+            "value": "Au jeu, gagne 2 armure.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor2.title",
+            "value": "Armure Initiale 2",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor3.desc",
+            "value": "Au jeu, gagne 3 armure.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor3.title",
+            "value": "Armure Initiale 3",
+            "hide": true
         },
         {
             "key": "ability.play_boost_hp_1.desc",
-            "value": "À la mise en jeu, donne +2 PV à une autre créature jusqu'à ton prochain tour."
+            "value": "Au jeu, donne +2 PV à un autre monstre jusqu'à votre prochain tour.",
+            "hide": true
         },
         {
             "key": "ability.play_boost_hp_1.title",
-            "value": "Bénédiction PV"
+            "value": "Bénédiction PV",
+            "hide": true
         },
         {
             "key": "ability.play_boost2.desc",
-            "value": "À la mise en jeu, donne +2/2 à une autre créature jusqu'à ton prochain tour."
+            "value": "Au jeu, donne +2/2 à un autre monstre jusqu'à votre prochain tour.",
+            "hide": true
         },
         {
             "key": "ability.play_boost2.title",
-            "value": "Bénédiction"
+            "value": "Bénédiction",
+            "hide": true
         },
         {
             "key": "ability.play_boost2_permanent.desc",
-            "value": "À l'entrée en jeu, donnez +2/+2 à une autre créature jusqu'à votre prochain tour."
+            "value": "Au jeu, donne +2/2 à un autre monstre jusqu'à votre prochain tour.",
+            "hide": false
         },
         {
             "key": "ability.play_boost2_permanent.title",
-            "value": "Bénédiction"
+            "value": "Bénédiction",
+            "hide": false
         },
         {
             "key": "ability.play_boost3.desc",
-            "value": "À la mise en jeu, donne +3/3 à une autre créature pour 3 tours"
+            "value": "Au jeu, donne +3/3 à un autre monstre pour 3 tours",
+            "hide": false
         },
         {
             "key": "ability.play_boost3.title",
-            "value": "Bénédiction"
+            "value": "Bénédiction de Plante",
+            "hide": false
         },
         {
             "key": "ability.play_burn.desc",
-            "value": "Le personnage ciblé gagne Brûlure. Il perd 2 PV à chaque tour."
+            "value": "Le monstre cible gagne brûlure. Ils perdent 2 pv chaque tour.",
+            "hide": true
         },
         {
             "key": "ability.play_burn.title",
-            "value": "Brûlure"
+            "value": "Brûler",
+            "hide": true
+        },
+        {
+            "key": "ability.play_burn_all.desc",
+            "value": "Au jeu, brûlez tous les autres monstres non-feu en jeu.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_burn_all.title",
+            "value": "Brûler Tout",
+            "hide": true
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.desc",
+            "value": "Au jeu, brûlez tous les autres monstres non-feu en jeu.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_burn_all_minus_fire.title",
+            "value": "Brûler Tout",
+            "hide": true
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.desc",
-            "value": "Gagne Immunité aux Sorts ou Immunité aux Capacités."
+            "value": "Gagne Immunité aux Sorts ou aux Capacités",
+            "hide": false
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.title",
-            "value": "Choix"
+            "value": "Choix",
+            "hide": false
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.desc",
+            "value": "Gagne Provocation ou 2 Armure",
+            "hide": false
+        },
+        {
+            "key": "ability.play_choice_taunt_armor2.title",
+            "value": "Choix Provocation Armure",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_fury.desc",
-            "value": "Gagne Provocation ou Furie."
+            "value": "Gagne Provocation ou Fureur",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
-            "value": "Choix"
+            "value": "Choix",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_rush.desc",
-            "value": "Gagne Provocation ou Ruée"
+            "value": "Gagne Provocation ou Charge",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_rush.title",
-            "value": "Choix"
+            "value": "Choix",
+            "hide": false
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.desc",
+            "value": "Copiez le compte d'armure le plus élevé de n'importe quel monstre sur le plateau et appliquez-le à ce monstre.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_copy_highest_board_armor.title",
+            "value": "Copier Armure la Plus Élevée",
+            "hide": false
+        },
+        {
+            "key": "ability.play_copy_sum_board_armor.title",
+            "value": "Copier Armure",
+            "hide": false
         },
         {
             "key": "ability.play_cure.desc",
-            "value": "À la mise en jeu, soigne un autre personnage de tous ses effets négatifs."
+            "value": "Au jeu, soignez un autre monstre de tous les effets négatifs.",
+            "hide": false
         },
         {
             "key": "ability.play_cure.title",
-            "value": "Purification"
+            "value": "Soigner",
+            "hide": false
         },
         {
             "key": "ability.play_cure_bless2.desc",
-            "value": "À la mise en jeu, soigne un autre personnage de tous ses effets négatifs et lui donne +2 PV."
+            "value": "Au jeu, soignez un autre monstre de tous les effets négatifs et accordez +2 PV",
+            "hide": false
         },
         {
             "key": "ability.play_cure_bless2.title",
-            "value": "Bénédiction Purificatrice"
+            "value": "Bénédiction de Soin",
+            "hide": false
         },
         {
             "key": "ability.play_curse.desc",
-            "value": "Le personnage ciblé est maudit. Il perd 1 attaque à chaque tour."
+            "value": "Le monstre cible gagne malédiction. Ils perdent 1 attaque chaque tour.",
+            "hide": true
         },
         {
             "key": "ability.play_curse.title",
-            "value": "Malédiction"
+            "value": "Malédiction",
+            "hide": true
         },
         {
             "key": "ability.play_curse_all.desc",
-            "value": "À la mise en jeu, maudit toutes les cartes en jeu."
+            "value": "Au jeu, maudissez toutes les cartes en jeu.",
+            "hide": false
         },
         {
             "key": "ability.play_curse_all.title",
-            "value": "Malédiction Totale"
+            "value": "Maudire Tout",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all_players2.desc",
-            "value": "À l'entrée en jeu, infligez 2 dégâts aux deux joueurs."
+            "value": "Au jeu, infligez 2 dégâts aux deux joueurs.",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all_players2.title",
-            "value": "Dégâts"
+            "value": "Dégâts",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all1.desc",
-            "value": "À la mise en jeu, inflige 1 dégât à toutes les autres cartes."
+            "value": "Au jeu, infligez 1 dégât à toutes les cartes sur le plateau.",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all1.title",
-            "value": "Dégâts de Zone"
+            "value": "Dégâts Tout",
+            "hide": false
+        },
+        {
+            "key": "ability.play_damage_all1_not_self.desc",
+            "value": "Au jeu, infligez 1 dégât à toutes les cartes sur le plateau.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_damage_all1_not_self.title",
+            "value": "Dégâts Tout",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all2.desc",
-            "value": "À la mise en jeu, inflige 2 dégâts à toutes les autres cartes."
+            "value": "Au jeu, infligez 2 dégâts à toutes les cartes.",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all2.title",
-            "value": "Dégâts"
+            "value": "Dégâts",
+            "hide": false
+        },
+        {
+            "key": "ability.play_damage_all2_not_self.desc",
+            "value": "Au jeu, infligez 2 dégâts à toutes les autres cartes.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_damage_all2_not_self.title",
+            "value": "Dégâts",
+            "hide": false
         },
         {
             "key": "ability.play_damage_electric_all2.desc",
-            "value": "À la mise en jeu, inflige 2 dégâts aux monstres ennemis."
+            "value": "Au jeu, infligez 2 dégâts aux monstres ennemis",
+            "hide": false
         },
         {
             "key": "ability.play_damage_electric_all2.title",
-            "value": "Dégâts Électriques"
+            "value": "Dégâts Électriques",
+            "hide": false
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "Inflige 2 dégâts aux personnages gelés en arrivant en jeu."
+            "value": "Au jeu, infligez 2 dégâts aux monstres gelés",
+            "hide": false
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "Dégâts"
+            "value": "Dégâts",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage_cards_players2.desc",
-            "value": "À l'entrée en jeu, infligez 1 dégât à n'importe quelle cible."
+            "value": "Au jeu, infligez 1 dégât à n'importe quel objectif.",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage_cards_players2.title",
-            "value": "Dégâts"
+            "value": "Dégâts",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1.desc",
-            "value": "À la mise en jeu, inflige 1 dégât à n'importe quelle cible."
+            "value": "Au jeu, infligez 1 dégât à n'importe quel objectif.",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1.title",
-            "value": "Dégât"
+            "value": "Dégâts",
+            "hide": false
+        },
+        {
+            "key": "ability.play_deal_damage1_enemy_board_card.desc",
+            "value": "Au jeu, infligez 1 dégât à un objectif ennemi sur le plateau.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_deal_damage1_enemy_board_card.title",
+            "value": "Dégâts",
+            "hide": false
+        },
+        {
+            "key": "ability.play_deal_damage1_self.desc",
+            "value": "Au jeu, infligez 1 dégât à soi-même.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_deal_damage1_self.title",
+            "value": "Dégâts Propres",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage2.desc",
-            "value": "À la mise en jeu, inflige 2 dégâts à n'importe quelle cible."
+            "value": "Au jeu, infligez 2 dégâts à n'importe quel objectif.",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage2.title",
-            "value": "Dégât"
+            "value": "Dégâts",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less2.desc",
-            "value": "À la mise en jeu, détruit un personnage avec 2 d'attaque ou moins. Si tu le fais, pioche une carte."
+            "value": "Au jeu, détruisez un monstre avec 2 ou moins attaque. Si vous le faites, piochez une carte.",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less2.title",
-            "value": "Assassin"
+            "value": "Assassin",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less3.desc",
-            "value": "À la mise en jeu, détruit un personnage avec 3 d'attaque ou moins. Si tu le fais, pioche une carte."
+            "value": "Au jeu, détruisez un monstre avec 3 ou moins attaque. Si vous le faites, piochez une carte.",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less3.title",
-            "value": "Assassin"
+            "value": "Assassin",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less4.desc",
-            "value": "À la mise en jeu, détruit un personnage avec 3 d'attaque ou moins."
+            "value": "Au jeu, détruisez un monstre avec 4 ou moins attaque.",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less4.title",
-            "value": "Assassin"
-        },
-        {
-            "key": "ability.play_discard.desc",
-            "value": "L'adversaire défausse une carte aléatoire de sa main."
-        },
-        {
-            "key": "ability.play_discard.title",
-            "value": "Défausse"
-        },
-        {
-            "key": "ability.play_discard_draw.desc",
-            "value": "Défausse une carte aléatoire de la main du joueur puis pioche deux nouvelles cartes."
-        },
-        {
-            "key": "ability.play_discard_draw.title",
-            "value": "Pari"
-        },
-        {
-            "key": "ability.play_discard3.desc",
-            "value": "L'adversaire défausse 3 cartes aléatoires de sa main."
-        },
-        {
-            "key": "ability.play_discard3.title",
-            "value": "Défausse"
-        },
-        {
-            "key": "ability.play_draw.desc",
-            "value": "Piochez une carte"
-        },
-        {
-            "key": "ability.play_draw.title",
-            "value": "Pioche"
-        },
-        {
-            "key": "ability.play_draw_ice_location.desc",
-            "value": "Si un igloo est en jeu, pioche une carte."
-        },
-        {
-            "key": "ability.play_draw_ice_location.title",
-            "value": "Pioche d'igloo"
-        },
-        {
-            "key": "ability.play_enemy_discard.desc",
-            "value": "L'adversaire défausse une carte aléatoire de sa main."
-        },
-        {
-            "key": "ability.play_enemy_discard.title",
-            "value": "Défausse"
-        },
-        {
-            "key": "ability.play_freeze.desc",
-            "value": "Le personnage ciblé est gelé pendant 1 tour."
-        },
-        {
-            "key": "ability.play_freeze.title",
-            "value": "Gel"
-        },
-        {
-            "key": "ability.play_freeze_2al.desc",
-            "value": "Le personnage ciblé est gelé pendant 1 tour."
-        },
-        {
-            "key": "ability.play_freeze_2al.title",
-            "value": "Gel"
-        },
-        {
-            "key": "ability.play_freeze_3al.desc",
-            "value": "Le personnage ciblé est gelé pendant 1 tour."
-        },
-        {
-            "key": "ability.play_freeze_3al.title",
-            "value": "Gel"
-        },
-        {
-            "key": "ability.play_freeze_4al.desc",
-            "value": "Un personnage ciblé ayant 4 d'attaque ou moins est gelé pendant 1 tour."
-        },
-        {
-            "key": "ability.play_freeze_4al.title",
-            "value": "Gel ciblé (4 Attaque)"
+            "value": "Tueur Puissant",
+            "hide": false
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "Tous les personnages deviennent gelés."
+            "value": "Au jeu, gelez tous les monstres ennemis.",
+            "hide": false
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "Grande tempête de neige"
-        },
-        {
-            "key": "ability.play_freeze_all_3al.desc",
-            "value": "Tous les ennemis ayant 3 d'attaque ou moins sont gelés."
-        },
-        {
-            "key": "ability.play_freeze_all_3al.title",
-            "value": "Blizzard total"
-        },
-        {
-            "key": "ability.play_freeze_all_4al.desc",
-            "value": "Tous les ennemis ayant 4 d'attaque ou moins sont gelés."
-        },
-        {
-            "key": "ability.play_freeze_all_4al.title",
-            "value": "Blizzard total"
-        },
-        {
-            "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Confère +1 attaque pour chaque igloo joué dans cette partie."
-        },
-        {
-            "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "Bonus d'igloo"
-        },
-        {
-            "key": "ability.play_gain_rush_ice_location.desc",
-            "value": "Gagne Ruée si un lieu de glace est en jeu. La Ruée permet d'attaquer d'autres cartes le tour où elle est jouée."
-        },
-        {
-            "key": "ability.play_gain_rush_ice_location.title",
-            "value": "Ruée Verglacée"
+            "value": "Grand Blizzard",
+            "hide": false
         },
         {
             "key": "ability.play_gain_rush_if_igloo.desc",
-            "value": "Gagne Ruée si un lieu de glace est en jeu. La Ruée permet d'attaquer d'autres cartes le tour où elle est jouée."
+            "value": "Gagne Ruée si un emplacement de glace est en jeu. La Ruée vous permet d'attaquer d'autres cartes le même tour où elle est jouée.",
+            "hide": false
         },
         {
             "key": "ability.play_gain_rush_if_igloo.title",
-            "value": "Ruée Verglacée"
+            "value": "Puissance de Glace",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player2.desc",
-            "value": "À la mise en jeu, soigne le joueur de 4 PV."
+            "key": "ability.play_gota_spawn.desc",
+            "value": "Au jeu, invoquez une Gota.",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player2.title",
-            "value": "Bénédiction du Joueur"
+            "key": "ability.play_gota_spawn.title",
+            "value": "Invocation Gota",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player4.desc",
-            "value": "À la mise en jeu, soigne le joueur de 4 PV."
+            "key": "ability.play_grow.desc",
+            "value": "Au jeu, gagnez +1/+1.",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player4.title",
-            "value": "Bénédiction du Joueur"
+            "key": "ability.play_grow.title",
+            "value": "Croissance",
+            "hide": false
         },
         {
-            "key": "ability.play_other_sacrifice.desc",
-            "value": "Quand une créature alliée arrive en jeu, détruis cette carte."
+            "key": "ability.play_harm_all_blue.desc",
+            "value": "Au jeu, infligez 1 dégât à tous les monstres d'Eau ennemis.",
+            "hide": false
         },
         {
-            "key": "ability.play_other_sacrifice.title",
-            "value": "Extinction totale"
+            "key": "ability.play_harm_all_blue.title",
+            "value": "Pollution de l'Eau",
+            "hide": false
+        },
+        {
+            "key": "ability.play_harm_red.desc",
+            "value": "Au jeu, infligez 3 dégâts à un monstre de Feu ciblé.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_harm_red.title",
+            "value": "Extinction",
+            "hide": false
+        },
+        {
+            "key": "ability.play_heal_if_blue.desc",
+            "value": "Au jeu, soignez 3 PV à une cible si un monstre d'Eau allié est en jeu.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_heal_if_blue.title",
+            "value": "Guérison Aquatique",
+            "hide": false
+        },
+        {
+            "key": "ability.play_increase_max.desc",
+            "value": "Au jeu, la cible gagne +2 maximum PV.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_increase_max.title",
+            "value": "Renforcement",
+            "hide": false
+        },
+        {
+            "key": "ability.play_kabu_spawn.desc",
+            "value": "Au jeu, invoquez un Kabu.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_kabu_spawn.title",
+            "value": "Invocation Kabu",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_attack.desc",
+            "value": "Au jeu, la cible gagne -2 attaque.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_attack.title",
+            "value": "Affaiblissement",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_health.desc",
+            "value": "Au jeu, la cible perd 2 PV maximum.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_health.title",
+            "value": "Drain Vital",
+            "hide": false
+        },
+        {
+            "key": "ability.play_mulch.desc",
+            "value": "Au jeu, détruisez cette carte. Piochez 2 cartes.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_mulch.title",
+            "value": "Paillis",
+            "hide": false
+        },
+        {
+            "key": "ability.play_poison_to_all.desc",
+            "value": "Au jeu, tous les monstres gagnent poison. Ils perdent 1 pv chaque tour.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_poison_to_all.title",
+            "value": "Nuage Toxique",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_all_but_1.desc",
+            "value": "Au jeu, réglez les PV actuels de la cible à 1.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_all_but_1.title",
+            "value": "Coup Fatal",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_armor.desc",
+            "value": "Au jeu, retirez toute l'Armure de la cible.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_armor.title",
+            "value": "Briser l'Armure",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_max.desc",
+            "value": "Au jeu, la cible perd 4 PV maximum.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_max.title",
+            "value": "Affaiblir",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sapling_spawn.desc",
+            "value": "Au jeu, invoquez un Pousse.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sapling_spawn.title",
+            "value": "Invocation Pousse",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sho_spawn.desc",
+            "value": "Au jeu, invoquez un Sho.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sho_spawn.title",
+            "value": "Invocation Sho",
+            "hide": false
+        },
+        {
+            "key": "ability.play_shuffle_igloo.desc",
+            "value": "Au jeu, mélangez un Igloo dans votre deck.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_shuffle_igloo.title",
+            "value": "Construction d'Igloo",
+            "hide": false
+        },
+        {
+            "key": "ability.play_spawn_kappa.desc",
+            "value": "Au jeu, invoquez un Kappa.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_spawn_kappa.title",
+            "value": "Invocation Kappa",
+            "hide": false
         },
         {
             "key": "ability.play_poison.desc",
-            "value": "Le personnage ciblé est empoisonné. Il perd 1 PV à chaque tour."
+            "value": "La cible gagne poison. Ils perdent 1 pv chaque tour.",
+            "hide": true
         },
         {
             "key": "ability.play_poison.title",
-            "value": "Empoisonnement"
+            "value": "Poison",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all.desc",
-            "value": "À la mise en jeu, empoisonne toutes les cartes en jeu."
+            "value": "Au jeu, empoisonnez toutes les cartes en jeu.",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all.title",
-            "value": "Poison de Masse"
+            "value": "Empoisonner Tout",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all_enemies.desc",
-            "value": "À l'entrée en jeu, empoisonnez tous les ennemis en jeu."
+            "value": "Au jeu, empoisonnez tous les monstres ennemis en jeu.",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all_enemies.title",
-            "value": "Empoisonner les ennemis"
+            "value": "Empoisonner Ennemis",
+            "hide": true
+        },
+        {
+            "key": "ability.play_poison_self.desc",
+            "value": "Le monstre cible gagne poison. Ils perdent 1 pv chaque tour.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_poison_self.title",
+            "value": "Poison",
+            "hide": true
         },
         {
             "key": "ability.play_return_target_hand.desc",
-            "value": "Renvoyez n'importe quelle cible dans la main de son propriétaire."
+            "value": "Renvoyez n'importe quel objectif à la main de son propriétaire original.",
+            "hide": false
         },
         {
             "key": "ability.play_return_target_hand.title",
-            "value": "Rebond"
+            "value": "Rebond",
+            "hide": false
         },
         {
             "key": "ability.play_roll_attack.desc",
-            "value": "Lance un D6 et augmente l'attaque de cette carte du résultat."
+            "value": "Lancez un D6, sur 4+ renvoyez-le à la main de son propriétaire original. Coûte 2 mana.",
+            "hide": false
         },
         {
             "key": "ability.play_roll_attack.title",
-            "value": "Attaque Aléatoire"
+            "value": "Attaque Aléatoire.",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_any.desc",
-            "value": "À l'entrée en jeu, renvoyez une carte de votre cimetière dans votre main."
+            "value": "Au jeu, renvoyez une carte de votre défausse à votre main.",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_any.title",
-            "value": "Fouille profonde"
+            "value": "Excavation Profonde",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_character.desc",
-            "value": "À l'entrée en jeu, renvoyez un personnage de votre cimetière dans votre main."
+            "value": "Au jeu, renvoyez un monstre de votre défausse à votre main.",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_character.title",
-            "value": "Excavation"
+            "value": "Excaver",
+            "hide": false
         },
         {
             "key": "ability.play_send_hand.desc",
-            "value": "À la mise en jeu, renvoyez un personnage dans la main de son propriétaire."
+            "value": "Au jeu, renvoyez un monstre à la main de son propriétaire original.",
+            "hide": false
         },
         {
             "key": "ability.play_send_hand.title",
-            "value": "Rebond"
+            "value": "Rebond",
+            "hide": false
         },
         {
             "key": "ability.play_set_attack1.desc",
-            "value": "À la mise en jeu, réduit l'attaque de la cible choisie à 1."
+            "value": "Au jeu, l'attaque de la cible sélectionnée est réduite à 1.",
+            "hide": true
         },
         {
             "key": "ability.play_set_attack1.title",
-            "value": "Électrisation"
+            "value": "Électrifier",
+            "hide": true
         },
         {
             "key": "ability.play_set_attack3.desc",
-            "value": "À la mise en jeu, fixe l'attaque de la cible choisie à 3."
+            "value": "Au jeu, l'attaque de la cible sélectionnée est définie à 3.",
+            "hide": false
         },
         {
             "key": "ability.play_set_attack3.title",
-            "value": "Psychique"
+            "value": "Psychique",
+            "hide": false
         },
         {
             "key": "ability.play_silence.desc",
-            "value": "Les capacités de la cible sont annulées."
+            "value": "Les capacités de la cible sont annulées.",
+            "hide": true
         },
         {
             "key": "ability.play_silence.title",
-            "value": "Silence magique"
+            "value": "Silence",
+            "hide": true
         },
         {
             "key": "ability.play_silence_curse.desc",
-            "value": "Les capacités de la cible sont annulées et le monstre est maudit."
+            "value": "Les capacités de la cible sont annulées et le monstre est maudit",
+            "hide": true
         },
         {
             "key": "ability.play_silence_curse.title",
-            "value": "Silence Maudit"
+            "value": "Malédiction Silencieuse",
+            "hide": true
         },
         {
             "key": "ability.play_suffer.desc",
-            "value": "La créature ciblée gagne « Subit 3 dégâts avant d'attaquer »."
+            "value": "Le monstre cible gagne « Subissez 3 dégâts avant d'attaquer ».",
+            "hide": false
         },
         {
             "key": "ability.play_suffer.title",
-            "value": "Fracture du Sol"
+            "value": "Division de Terre",
+            "hide": false
         },
         {
             "key": "ability.play_summon_cat.desc",
-            "value": "À la mise en jeu, invoque un chaton Jagur 1/1 sur une case adjacente vide."
+            "value": "Au jeu, invoquez un bébé Jagur 1/1 dans un espace vide adjacent.",
+            "hide": false
         },
         {
             "key": "ability.play_summon_cat.title",
-            "value": "Invocation de Jagur"
+            "value": "Invoquer Jagur",
+            "hide": false
         },
         {
             "key": "ability.play_summon_fractail.desc",
-            "value": "À la mise en jeu, invoque un bébé Lizo sur une case adjacente vide."
+            "value": "Au jeu, invoquez un bébé Lizo dans un espace vide adjacent.",
+            "hide": false
         },
         {
             "key": "ability.play_summon_fractail.title",
-            "value": "Invocation de Lizo"
+            "value": "Invoquer Lizo",
+            "hide": false
         },
         {
             "key": "ability.play_summon_hajiko.desc",
-            "value": "Invoque un Hajiko à son arrivée en jeu."
+            "value": "Au jeu invoquez un Hajiko",
+            "hide": false
         },
         {
             "key": "ability.play_summon_hajiko.title",
-            "value": "Invoquer Hajiko"
+            "value": "Invoquer Hajiko",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo.desc",
-            "value": "Invoque un igloo à son arrivée en jeu."
+            "value": "Au jeu invoquez un Igloo",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo.title",
-            "value": "Invoquer un igloo"
+            "value": "Invoquer Igloo",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Invoque un igloo s'il n'y en a pas déjà en jeu."
+            "value": "Invoquez un igloo si aucun n'est déjà en jeu.",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "Construire un igloo"
+            "value": "Construire Igloo",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo1_freeze3al.desc",
+            "value": "Au jeu invoquez un Igloo, puis gelez un monstre ennemi avec 3 ou moins attaque",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo1_freeze3al.title",
+            "value": "Invoquer Igloo / Geler",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo2.desc",
-            "value": "Invoque 2 igloos à son arrivée en jeu."
+            "value": "Au jeu invoquez 2 Igloos",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo2.title",
-            "value": "Invoquer un igloo"
+            "value": "Invoquer Igloo",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo2_freeze3al.desc",
-            "value": "À la mise en jeu, invoque 2 igloos."
+            "value": "Au jeu invoquez 2 Igloos",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo2_freeze3al.title",
-            "value": "Invoquer Igloo"
+            "value": "Invoquer Igloo",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_2ml.desc",
-            "value": "À la mise en jeu, sélectionne un personnage coûtant 2 mana ou moins pour le faire changer de camp."
+            "value": "Au jeu, sélectionnez un monstre cible avec coût en mana de 2 ou moins pour changer de côté",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_2ml.title",
-            "value": "Échange de Loyauté"
+            "value": "Échange de Loyauté",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_any.desc",
-            "value": "À la mise en jeu, sélectionne n'importe quel personnage du plateau et envoie-le chez l'autre joueur."
+            "value": "Au jeu, sélectionnez n'importe quel monstre sur le plateau et envoyez-le à l'autre joueur.",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_any.title",
-            "value": "Échange de Loyauté"
+            "value": "Échange de Loyauté",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
-            "value": "À la mise en jeu, sélectionne n'importe quel personnage du plateau et envoie-le chez l'autre joueur."
+            "value": "Au jeu, sélectionnez n'importe quel monstre sur le plateau et envoyez-le à l'autre joueur.",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_any_add_ally_damage2.title",
-            "value": "Échange de Loyauté"
+            "value": "Échange de Loyauté",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.desc",
-            "value": "À la mise en jeu, sélectionne un personnage que tu contrôles et envoie-le chez l'autre joueur."
+            "value": "Au jeu, sélectionnez un monstre sous votre contrôle et envoyez-le à l'autre joueur.",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_ally_damage2.title",
-            "value": "Échange de Loyauté"
+            "value": "Échange de Loyauté",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.desc",
-            "value": "À la mise en jeu, sélectionne un personnage que tu contrôles et envoie-le chez l'autre joueur avec la capacité « Défausse 2 cartes de ta main à chaque tour »."
+            "value": "Au jeu, sélectionnez un monstre sous votre contrôle et envoyez-le à l'autre joueur avec la capacité, défaussez 2 cartes de la main chaque tour",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_discard_2.title",
-            "value": "Échange de Loyauté"
+            "value": "Échange de Loyauté",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
-            "value": "À la mise en jeu, sélectionne un personnage que tu contrôles et envoie-le chez l'autre joueur avec la capacité « Défausse 2 cartes de ta main à chaque tour »."
+            "value": "Au jeu, sélectionnez un monstre sous votre contrôle et envoyez-le à l'autre joueur avec la capacité, monstres ennemis gagnent +1/+2",
+            "hide": false
         },
         {
             "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
-            "value": "Échange de Loyauté"
+            "value": "Échange de Loyauté",
+            "hide": false
         },
         {
             "key": "ability.regen_all.desc",
-            "value": "Au début de ton tour, cette créature se soigne entièrement."
+            "value": "Au début de chaque tour, ce monstre se soigne complètement.",
+            "hide": false
         },
         {
             "key": "ability.regen_all.title",
-            "value": "Régénération"
+            "value": "Régénération",
+            "hide": false
         },
         {
             "key": "ability.regen3.desc",
-            "value": "Au début de ton tour, soigne 3 PV."
+            "value": "Au début de chaque tour, soigne 3 pv.",
+            "hide": false
         },
         {
             "key": "ability.regen3.title",
-            "value": "Régénération"
+            "value": "Régénération",
+            "hide": false
         },
         {
             "key": "ability.rush.desc",
-            "value": "Peut attaquer immédiatement, mais ne peut pas viser le joueur ennemi le tour où elle est jouée."
+            "value": "Peut attaquer immédiatement, mais ne peut pas cibler le joueur ennemi au tour où il est joué.",
+            "hide": false
         },
         {
             "key": "ability.rush.title",
-            "value": "Ruée"
+            "value": "Charge",
+            "hide": false
         },
         {
             "key": "ability.secret_return_hand.desc",
-            "value": "Quand la prochaine créature ennemie est jouée, renvoie-la dans la main de son propriétaire."
+            "value": "Quand le prochain monstre ennemi est joué, renvoyez-le à la main.",
+            "hide": false
         },
         {
             "key": "ability.secret_return_hand.title",
-            "value": "Télékinésie"
+            "value": "Télékinésie",
+            "hide": false
         },
         {
             "key": "ability.secret_silence.desc",
-            "value": "Retire toutes les capacités du personnage piégé."
+            "value": "Nettoie toute capacité du monstre piégé",
+            "hide": false
         },
         {
             "key": "ability.secret_silence.title",
-            "value": "Silence magique"
+            "value": "Silence",
+            "hide": false
         },
         {
             "key": "ability.secret_transform_fish.desc",
-            "value": "Quand la prochaine créature ennemie est jouée, transforme-la en poisson 1/1."
+            "value": "Quand le prochain monstre ennemi est joué, transformez-le en un poisson 1/1.",
+            "hide": false
         },
         {
             "key": "ability.secret_transform_fish.title",
-            "value": "Transformation en Poisson"
+            "value": "Transformer en Poisson",
+            "hide": false
         },
         {
             "key": "ability.shell.desc",
-            "value": "Au premier coup, ne subit aucun dégât."
+            "value": "Au premier coup, ne subit pas de dégâts.",
+            "hide": true
         },
         {
             "key": "ability.shell.title",
-            "value": "Coquille"
+            "value": "Coquille",
+            "hide": true
         },
         {
             "key": "ability.spell_add_attack_suffer.desc",
-            "value": "La créature cible gagne « Subit 3 dégâts avant d'attaquer »."
+            "value": "Le monstre cible gagne « Subissez 3 dégâts avant d'attaquer ».",
+            "hide": false
         },
         {
             "key": "ability.spell_add_attack_suffer.title",
-            "value": "Malédiction de Souffrance"
+            "value": "Malédiction de Souffrance",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack.desc",
+            "value": "Empêche la cible d'attaquer.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack.title",
+            "value": "Pas d'Attaque",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.desc",
+            "value": "Le monstre cible ne peut pas attaquer et subit 1 dégât à la fin de son tour.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.title",
+            "value": "Poids de Pierre",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.desc",
+            "value": "Ajoute Provocation et empêche la cible d'attaquer.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.title",
+            "value": "Pas d'Attaque Provocation",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.desc",
+            "value": "Le monstre cible subit 1 dégât à la fin de son tour.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.title",
+            "value": "Saignement",
+            "hide": false
         },
         {
             "key": "ability.spell_add_play_extinct.desc",
-            "value": "La carte cible gagne « Quand une créature alliée entre en jeu, détruis cette carte »."
+            "value": "La carte cible gagne « Quand un monstre allié entre en jeu, détruisez cette carte ».",
+            "hide": false
         },
         {
             "key": "ability.spell_add_play_extinct.title",
-            "value": "Extinction"
+            "value": "Éteint",
+            "hide": false
         },
         {
             "key": "ability.spell_add_submerge.desc",
-            "value": "La carte cible gagne « Quand attaqué, l'adversaire doit défausser 1 carte aléatoire »."
+            "value": "La carte cible gagne « Quand attaqué, l'adversaire doit défausser 1 carte aléatoire ».",
+            "hide": false
         },
         {
             "key": "ability.spell_add_submerge.title",
-            "value": "Retour"
+            "value": "Retour",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_attack_2.desc",
-            "value": "Tous les personnages alliés gagnent +2/2"
+            "value": "Tous les monstres alliés gagnent +2/2",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_attack_2.title",
-            "value": "Croissance"
+            "value": "Croissance",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.desc",
+            "value": "Infligez 1 dégât à un monstre allié, puis infligez 2 dégâts à n'importe quel objectif.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.title",
+            "value": "Projectiles de Roche",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.desc",
+            "value": "Infligez 1 dégât à un monstre allié, puis infligez 2 dégâts à un monstre ennemi aléatoire deux fois.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.title",
+            "value": "Projectiles de Roche",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_plant_attack_2.desc",
-            "value": "Tous les personnages alliés gagnent +2/2"
+            "value": "Tous les monstres de plante alliés gagnent +2/2",
+            "hide": false
         },
         {
             "key": "ability.spell_ally_plant_attack_2.title",
-            "value": "Croissance"
+            "value": "Croissance",
+            "hide": false
         },
         {
             "key": "ability.spell_armor2.desc",
-            "value": "La cible gagne 2 armure réduisant les dégâts directs des personnages de 2."
+            "value": "Le objectif gagne armure 2 réduisant les dégâts de combat par 2",
+            "hide": true
         },
         {
             "key": "ability.spell_armor2.title",
-            "value": "Armure +2"
+            "value": "Armure +2",
+            "hide": true
         },
         {
             "key": "ability.spell_attack1.desc",
-            "value": "La cible gagne 1 attaque."
+            "value": "Le objectif gagne 1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.spell_attack1.title",
-            "value": "Attaque +1"
+            "value": "Attaque +1",
+            "hide": false
         },
         {
             "key": "ability.spell_coin.desc",
-            "value": "Gagne 1 mana ce tour."
+            "value": "Gagnez 1 mana",
+            "hide": false
         },
         {
             "key": "ability.spell_coin.title",
-            "value": "Pièce"
+            "value": "Pièce",
+            "hide": false
         },
         {
             "key": "ability.spell_cure_2_2.desc",
-            "value": "La cible gagne +2/+2 de façon permanente et dissipe tout effet négatif."
+            "value": "Le objectif gagne +2/+2 de manière permanente et soigne tout effet négatif",
+            "hide": false
         },
         {
             "key": "ability.spell_cure_2_2.title",
-            "value": "Boost de soin"
+            "value": "Boost de Soin",
+            "hide": false
         },
         {
             "key": "ability.spell_damage_per_hand.desc",
-            "value": "Les PV de tous les personnages sur le plateau sont réduits à 1."
+            "value": "Les PV de tous les monstres sur le plateau sont réduits à 1.",
+            "hide": false
         },
         {
             "key": "ability.spell_damage_per_hand.title",
-            "value": "Inondation"
+            "value": "Inondation",
+            "hide": false
         },
         {
             "key": "ability.spell_damage1.desc",
-            "value": "Inflige 1 dégât."
+            "value": "Infligez 1 dégât.",
+            "hide": false
         },
         {
             "key": "ability.spell_damage1.title",
-            "value": "Dégât"
+            "value": "Dégâts",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage2_random.desc",
+            "value": "Infligez 2 dégâts à un ennemi aléatoire.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage2_random.title",
+            "value": "Dégâts Ennemi Aléatoire 2",
+            "hide": false
         },
         {
             "key": "ability.spell_damage3.desc",
-            "value": "Inflige 3 dégâts."
+            "value": "Infligez 3 dégâts.",
+            "hide": false
         },
         {
             "key": "ability.spell_damage3.title",
-            "value": "Dégât"
+            "value": "Dégâts",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy.desc",
-            "value": "Détruit le personnage ou le lieu cible."
+            "value": "Détruisez monstre ou emplacement cible.",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy.title",
-            "value": "Détruire"
+            "value": "Détruire",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_all.desc",
-            "value": "Détruit toutes les cartes du plateau."
+            "value": "Détruisez tous les cartes sur le plateau",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_all.title",
-            "value": "Armaguedon"
+            "value": "Armageddon",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_flying.desc",
+            "value": "Détruisez un monstre volant cible.",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_destroy_flying.title",
+            "value": "Détruire Volant",
+            "hide": true
         },
         {
             "key": "ability.spell_destroy_frozen_all.desc",
-            "value": "Détruit toutes les cartes gelées sur le plateau"
+            "value": "Détruisez toutes les cartes gelées sur le plateau",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_frozen_all.title",
-            "value": "Vague Gelée"
+            "value": "Vague Gelée",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_frozen_target.desc",
-            "value": "Cible et détruit un personnage gelé."
+            "value": "Ciblez et détruisez un monstre gelé.",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_frozen_target.title",
-            "value": "Brise-glace"
+            "value": "Brise-Glace",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_location_target.desc",
-            "value": "Cible un lieu et détruis-le."
+            "value": "Ciblez un emplacement et détruisez-le.",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_location_target.title",
-            "value": "Avalanche fatale"
+            "value": "Avalanche",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_locations.desc",
-            "value": "Détruit tous les lieux sur le plateau"
+            "value": "Détruisez tous les emplacements sur le plateau",
+            "hide": false
         },
         {
             "key": "ability.spell_destroy_locations.title",
-            "value": "Glissement de Terrain"
+            "value": "Glissement de Terrain",
+            "hide": false
         },
         {
             "key": "ability.spell_dragon_summon.desc",
-            "value": "Sélectionne un dragon de ton deck pour l'invoquer dans ta main."
+            "value": "Sélectionnez un dragon de votre deck et ajoutez-le à votre main.",
+            "hide": false
         },
         {
             "key": "ability.spell_dragon_summon.title",
-            "value": "Découvrir Dragon"
+            "value": "Découvrir Dragon",
+            "hide": false
         },
         {
             "key": "ability.spell_draw1.desc",
-            "value": "Pioche 1 carte."
+            "value": "Piochez 1 carte.",
+            "hide": false
         },
         {
             "key": "ability.spell_draw1.title",
-            "value": "Piocher"
+            "value": "Pioche",
+            "hide": false
         },
         {
             "key": "ability.spell_draw2.desc",
-            "value": "Piochez 2 cartes."
+            "value": "Piochez 2 cartes.",
+            "hide": false
         },
         {
             "key": "ability.spell_draw2.title",
-            "value": "Pioche"
+            "value": "Pioche",
+            "hide": false
         },
         {
             "key": "ability.spell_electric_ally.desc",
-            "value": "Regarde les 7 prochaines cartes de ton deck et prends 1 Monstre Électrique dans ta main."
+            "value": "Regardez les 7 prochaines cartes dans votre deck et prenez 1 Monstre Électrique dans votre main.",
+            "hide": false
         },
         {
             "key": "ability.spell_electric_ally.title",
-            "value": "Allié Électrique"
+            "value": "Allié Électrique",
+            "hide": false
         },
         {
             "key": "ability.spell_electric_attack_2.desc",
-            "value": "Tous les monstres Électriques gagnent +2 attaque"
+            "value": "Tous les monstres Électriques gagnent +2 attaque",
+            "hide": false
         },
         {
             "key": "ability.spell_freeze.desc",
-            "value": "Gèle la cible pour 1 tour."
+            "value": "Gelez la cible pour 1 tour.",
+            "hide": true
         },
         {
             "key": "ability.spell_freeze.title",
-            "value": "Gel"
+            "value": "Geler",
+            "hide": true
         },
         {
             "key": "ability.spell_fury.desc",
-            "value": "Le personnage cible gagne Furie. Il peut attaquer deux fois par tour."
+            "value": "Le monstre cible gagne Fureur. Peut attaquer deux fois par tour.",
+            "hide": true
         },
         {
             "key": "ability.spell_fury.title",
-            "value": "Furie"
+            "value": "Fureur",
+            "hide": true
         },
         {
             "key": "ability.spell_haste.desc",
-            "value": "Le personnage cible gagne Hâte. Il peut attaquer immédiatement."
+            "value": "Le monstre cible gagne Hâte. Peut attaquer immédiatement.",
+            "hide": false
         },
         {
             "key": "ability.spell_haste.title",
-            "value": "Hâte"
+            "value": "Hâte",
+            "hide": false
         },
         {
             "key": "ability.spell_heal_full.desc",
-            "value": "La carte cible est complètement soignée."
+            "value": "La carte cible est soignée complètement.",
+            "hide": false
         },
         {
             "key": "ability.spell_heal_full.title",
-            "value": "Soin"
+            "value": "Soigner",
+            "hide": false
         },
         {
             "key": "ability.spell_hibernate.desc",
-            "value": "Le personnage cible gagne +4/4 et s'endort pour les 2 prochains tours."
+            "value": "Le monstre cible gagne +4/4 et dort pour les 2 prochains tours.",
+            "hide": false
         },
         {
             "key": "ability.spell_hibernate.title",
-            "value": "Hibernation"
+            "value": "Hibernation",
+            "hide": false
         },
         {
             "key": "ability.spell_hp2.desc",
-            "value": "La cible gagne 2 PV."
+            "value": "La cible gagne 2 pv.",
+            "hide": false
         },
         {
             "key": "ability.spell_hp2.title",
-            "value": "PV +2"
+            "value": "Pv +2",
+            "hide": false
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.desc",
-            "value": "Accélère de 1 tour l'évolution d'un personnage de glace."
+            "value": "Accélérez l'évolution de 1 tour pour un monstre de glace",
+            "hide": false
         },
         {
             "key": "ability.spell_ice_lower_evolution_counter1.title",
-            "value": "Réduction d'évolution de glace"
+            "value": "Diminution d'Évolution de Glace",
+            "hide": false
         },
         {
             "key": "ability.spell_ice_treasure.desc",
-            "value": "Regarde les 7 prochaines cartes de ton deck et prends 1 carte glace dans ta main."
+            "value": "Regardez les 7 prochaines cartes dans votre deck et prenez 1 carte de glace dans votre main.",
+            "hide": false
         },
         {
             "key": "ability.spell_ice_treasure.title",
-            "value": "Trésor Glace"
+            "value": "Trésor de Glace",
+            "hide": false
         },
         {
             "key": "ability.spell_immunity.desc",
-            "value": "Ne peut pas être ciblé ou endommagé par les cartes de sorts."
+            "value": "Ne peut pas être ciblé ou endommagé par les cartes de sorts.",
+            "hide": true
         },
         {
             "key": "ability.spell_immunity.title",
-            "value": "Immunité aux Sorts"
+            "value": "Immunité aux Sorts",
+            "hide": true
         },
         {
             "key": "ability.spell_kill_lowest_hp.desc",
-            "value": "Tue le personnage en jeu avec les PV les plus bas (y compris les tiens)."
+            "value": "Tuez le monstre en jeu avec les PV les plus bas (y compris les vôtres).",
+            "hide": false
         },
         {
             "key": "ability.spell_kill_lowest_hp.title",
-            "value": "Piétinement"
+            "value": "Piétinement",
+            "hide": false
         },
         {
             "key": "ability.spell_paralyse.desc",
-            "value": "Paralysie le personnage cible pour 3 tours."
+            "value": "Paralysez le monstre cible pour 3 tours.",
+            "hide": true
         },
         {
             "key": "ability.spell_paralyse.title",
-            "value": "Paralysie"
+            "value": "Paralyser",
+            "hide": true
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Inflige 1 dégât à une carte ennemie aléatoire.\nRépète X fois."
+            "value": "Subissez 1 dégât à une carte ennemie aléatoire.\nRépétez X fois.",
+            "hide": false
         },
         {
             "key": "ability.spell_projectile1_repeat.title",
-            "value": "Salve de projectiles"
+            "value": "Projectiles",
+            "hide": false
         },
         {
             "key": "ability.spell_return_all.desc",
-            "value": "Toutes les cartes sur le plateau retournent à la main de leur propriétaire."
+            "value": "Toutes les cartes sur le plateau retournent à la main de leur propriétaire original.",
+            "hide": false
         },
         {
             "key": "ability.spell_return_all.title",
-            "value": "Tempête Marine"
+            "value": "Tempête Marine",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_any.desc",
-            "value": "Renvoie n'importe quelle cible jouée à la main de son propriétaire."
+            "value": "Renvoyez n'importe quel objectif joué à la main de son propriétaire original.",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_any.title",
-            "value": "Retour Main N'importe"
+            "value": "Renvoyer Main N'importe Quel",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.desc",
-            "value": "Renvoie n'importe quelle cible jouée à la main de son propriétaire."
+            "value": "Renvoyez n'importe quel objectif joué à la main de son propriétaire original.",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_any_then_discard.title",
-            "value": "Retour Main N'importe"
+            "value": "Renvoyer Main N'importe Quel",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_enemy.desc",
-            "value": "Renvoie la cible à la main de son propriétaire."
+            "value": "Renvoyez la cible à la main de son propriétaire original.",
+            "hide": false
         },
         {
             "key": "ability.spell_send_hand_enemy.title",
-            "value": "Retour Main"
+            "value": "Renvoyer Main",
+            "hide": false
         },
         {
             "key": "ability.spell_set_hp_attack_1.desc",
-            "value": "Les PV et l'attaque de tous les personnages sur le plateau sont réduits à 1."
+            "value": "Les pv et attaque de tous les monstres sur le plateau sont réduits à 1.",
+            "hide": false
         },
         {
             "key": "ability.spell_set_hp_attack_1.title",
-            "value": "Inondation"
+            "value": "Inondation",
+            "hide": false
         },
         {
             "key": "ability.spell_set_hp_attack_3.desc",
-            "value": "Les PV et l'attaque de tous les personnages sur le plateau sont fixés à 1."
+            "value": "Les pv et attaque de tous les monstres sur le plateau sont définis à 1.",
+            "hide": false
         },
         {
             "key": "ability.spell_set_hp_attack_3.title",
-            "value": "Inondation"
+            "value": "Inondation",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.desc",
+            "value": "Invoquez un golem X/X avec provocation sur le plateau basé sur la quantité de mana dépensée.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.title",
+            "value": "Génération de Golem",
+            "hide": false
         },
         {
             "key": "ability.spell_shell.desc",
-            "value": "La cible gagne coquille, elle ignore les dégâts au prochain coup."
+            "value": "La cible gagne coquille, ignore les dégâts au prochain coup.",
+            "hide": false
         },
         {
             "key": "ability.spell_shell.title",
-            "value": "Coquille"
+            "value": "Coquille",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.desc",
+            "value": "Invoquez un golem X/X avec provocation sur le plateau basé sur la quantité de mana dépensée.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.title",
+            "value": "Génération de Golem",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_hammi.desc",
-            "value": "Invoque trois Hammi dans ta main."
+            "value": "Invoquez trois Hammi dans votre main.",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_hammi.title",
-            "value": "Coup de Hammi"
+            "value": "Attaque Hammi",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_lampi.desc",
-            "value": "Invoque trois Lampi 2/2 dans ta main."
+            "value": "Invoquez trois Lampi 2/1 dans votre main.",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_lampi.title",
-            "value": "Tempête de Lampi"
+            "value": "Tempête Lampi",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_pyro.desc",
-            "value": "Invoque trois Pyra 1/1 avec capacités Œuf dans ta main."
+            "value": "Invoquez trois Pyro 1/1 avec capacités d'Œuf dans votre main.",
+            "hide": false
         },
         {
             "key": "ability.spell_summon_pyro.title",
-            "value": "Attaque Aérienne"
+            "value": "Attaque Aérienne",
+            "hide": false
         },
         {
             "key": "ability.spell_taunt.desc",
-            "value": "Le personnage cible gagne Provocation. Tes autres personnages ne peuvent pas être attaqués."
+            "value": "Le monstre cible gagne Provocation. Vos autres monstres ne peuvent pas être attaqués.",
+            "hide": false
         },
         {
             "key": "ability.spell_taunt.title",
-            "value": "Provocation"
+            "value": "Provocation",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_trap_sweep.desc",
+            "value": "Détruisez tous les pièges ennemis et gagnez +2 attaque et +2 pv pour chaque piège détruit.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_trap_sweep.title",
+            "value": "Balayage de Pièges",
+            "hide": false
         },
         {
             "key": "ability.spell_water_treasure.desc",
-            "value": "Regarde les 7 prochaines cartes de ton deck et prends 1 carte eau dans ta main."
+            "value": "Regardez les 7 prochaines cartes dans votre deck et prenez 1 carte d'eau dans votre main.",
+            "hide": false
         },
         {
             "key": "ability.spell_water_treasure.title",
-            "value": "Trésor Eau"
+            "value": "Trésor d'Eau",
+            "hide": false
         },
         {
             "key": "ability.stealth.desc",
-            "value": "Ne peut pas être ciblé ou attaqué jusqu'à ce qu'il effectue une action."
+            "value": "Ne peut pas être ciblé ou attaqué jusqu'à ce qu'il effectue une action.",
+            "hide": true
         },
         {
             "key": "ability.stealth.title",
-            "value": "Furtivité"
+            "value": "Furtivité",
+            "hide": true
+        },
+        {
+            "key": "ability.survive_damage_add_draw.desc",
+            "value": "Quand subit des dégâts et survit, piochez 1 carte",
+            "hide": false
+        },
+        {
+            "key": "ability.survive_damage_add_draw.title",
+            "value": "Explorateur",
+            "hide": false
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.desc",
+            "value": "Si ce monstre survit à une attaque, tous les alliés gagnent +1 armure.",
+            "hide": false
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.title",
+            "value": "Soutien d'Armure de Survie 1",
+            "hide": false
         },
         {
             "key": "ability.taunt.desc",
-            "value": "Tes autres personnages ne peuvent pas être attaqués."
+            "value": "Vos autres monstres ne peuvent pas être attaqués.",
+            "hide": true
         },
         {
             "key": "ability.taunt.title",
-            "value": "Provocation"
+            "value": "Provocation",
+            "hide": true
         },
         {
             "key": "ability.taunt_flying.desc",
-            "value": "Tes autres personnages sont protégés par les monstres volants."
+            "value": "Vos autres monstres sont protégés des monstres volants.",
+            "hide": true
         },
         {
             "key": "ability.taunt_flying.title",
-            "value": "Portée"
+            "value": "Portée",
+            "hide": true
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Tous les monstres Électriques coûtent 2 mana de moins (inclut les ennemis)"
+            "value": "Tous les monstres Électriques coûtent 2 mana de moins (inclut les ennemis)",
+            "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Aura Électrique"
+            "value": "Aura Électrique",
+            "hide": false
         },
         {
             "key": "ability.town_aura_fire.desc",
-            "value": "Toutes les créatures alliées Feu gagnent +2 attaque."
+            "value": "Tous les monstres de Feu alliés gagnent +2 attaque.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_fire.title",
-            "value": "Aura de Feu"
+            "value": "Aura de Feu",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo1.desc",
-            "value": "Toutes les créatures de glace alliées gagnent +1 PV."
+            "value": "Tous les monstres de Glace alliés gagnent +1 PV.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo1.title",
-            "value": "Aura d'igloo"
+            "value": "Aura d'Igloo",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo2.desc",
-            "value": "Toutes les créatures de glace alliées gagnent +1 attaque."
+            "value": "Tous les monstres de Glace alliés gagnent +1 Attaque.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo2.title",
-            "value": "Aura d'igloo 2"
+            "value": "Aura d'Igloo 2",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo3.desc",
-            "value": "Toutes les cartes de glace alliées coûtent 1 de moins."
+            "value": "Toutes les cartes de Glace alliées coûtent 1 de moins.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_ice_igloo3.title",
-            "value": "Aura d'igloo 3"
+            "value": "Aura d'Igloo 3",
+            "hide": false
         },
         {
             "key": "ability.town_aura_plant.desc",
-            "value": "Tous les personnages alliés Plante gagnent +2 PV."
+            "value": "Tous les monstres de Plante alliés gagnent +2 pv.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_plant.title",
-            "value": "Aura de Plante"
+            "value": "Aura de Plante",
+            "hide": false
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.desc",
-            "value": "Quand tu prends le contrôle d'un monstre adverse, l'adversaire défausse une carte aléatoire."
+            "value": "Quand vous prenez le contrôle d'un monstre adverse, l'adversaire défausse une carte aléatoire.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_psychic_change_control_discard.title",
-            "value": "Aura Psychique Défausse"
+            "value": "Aura Psychique Défausse",
+            "hide": false
         },
         {
             "key": "ability.town_aura_psychic_played_discard.desc",
-            "value": "Quand tu joues un monstre psychique, l'adversaire défausse une carte aléatoire."
+            "value": "Quand vous jouez un monstre psychique l'adversaire défausse une carte aléatoire.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_psychic_played_discard.title",
-            "value": "Aura Psychique Défausse"
+            "value": "Aura Psychique Défausse",
+            "hide": false
         },
         {
             "key": "ability.town_aura_rock.desc",
-            "value": "Toutes les créatures alliées Roche gagnent +2 PV."
+            "value": "Tous les monstres de Roche alliés gagnent +2 PV.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_rock.title",
-            "value": "Aura de Roche"
+            "value": "Aura de Roche",
+            "hide": false
         },
         {
             "key": "ability.town_aura_shadow.desc",
-            "value": "Tous les personnages alliés Ombre gagnent +2 attaque."
+            "value": "Tous les monstres d'Ombre alliés gagnent +2 attaque.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_shadow.title",
-            "value": "Aura d'Ombre"
+            "value": "Aura d'Ombre",
+            "hide": false
         },
         {
             "key": "ability.town_aura_water.desc",
-            "value": "Toutes les cartes alliées Eau coûtent 1 de moins."
+            "value": "Toutes les cartes d'Eau alliées coûtent 1 de moins.",
+            "hide": false
         },
         {
             "key": "ability.town_aura_water.title",
-            "value": "Aura Bleue"
+            "value": "Aura Bleue",
+            "hide": false
         },
         {
             "key": "ability.town_mystic_woods_psychic.desc",
-            "value": "Toutes les cartes alliées Psychiques coûtent 1 mana de moins."
+            "value": "Toutes les cartes Psychiques alliées coûtent 1 mana de moins.",
+            "hide": false
         },
         {
             "key": "ability.town_mystic_woods_psychic.title",
-            "value": "Aura Psychique"
+            "value": "Aura Psychique",
+            "hide": false
         },
         {
             "key": "ability.trample.desc",
-            "value": "Les dégâts excédentaires sont infligés aux PV du joueur."
+            "value": "Les dégâts supplémentaires sont infligés au joueur.",
+            "hide": true
         },
         {
             "key": "ability.trample.title",
-            "value": "Piétinement"
+            "value": "Piétinement",
+            "hide": true
         },
         {
             "key": "ability.transform_to_discarded_card.desc",
-            "value": "Si l'adversaire défausse une carte de personnage, ce personnage devient une copie de ce personnage"
+            "value": "Si l'adversaire défausse une carte de monstre, ce monstre devient une copie de ce monstre",
+            "hide": false
         },
         {
             "key": "ability.transform_to_discarded_card.title",
-            "value": "Clone de Cimetière"
+            "value": "Clone de Cimetière",
+            "hide": false
         },
         {
             "key": "ability.trap_all_damage1.desc",
-            "value": "Infligez 1 dégât aux ennemis."
+            "value": "Dégâts aux ennemis pour 1 PV",
+            "hide": false
         },
         {
             "key": "ability.trap_all_damage1.title",
-            "value": "Dégâts de plateau"
+            "value": "Dégâts Plateau",
+            "hide": false
         },
         {
             "key": "ability.trap_damage_all2.desc",
-            "value": "Quand une créature ennemie attaque, endommage toutes les créatures ennemies de 2."
+            "value": "Quand un monstre ennemi attaque, infligez 2 dégâts à tous les monstres ennemis en jeu",
+            "hide": false
         },
         {
             "key": "ability.trap_damage_all2.title",
-            "value": "Dégât"
+            "value": "Dégâts",
+            "hide": false
         },
         {
             "key": "ability.trap_damage2.desc",
-            "value": "Endommage l'attaquant de 2 PV"
+            "value": "Dégâts à l'attaquant pour 2 PV",
+            "hide": false
         },
         {
             "key": "ability.trap_damage2.title",
-            "value": "Piège"
+            "value": "Piège",
+            "hide": false
         },
         {
             "key": "ability.trap_damage3.desc",
-            "value": "Endommage l'attaquant de 3 PV"
+            "value": "Dégâts à l'attaquant pour 3 PV",
+            "hide": false
         },
         {
             "key": "ability.trap_damage3.title",
-            "value": "Piège"
+            "value": "Piège",
+            "hide": false
         },
         {
             "key": "ability.trap_freeze.desc",
-            "value": "Après qu'une créature ennemie a attaqué, gèle-la pendant 2 tours."
+            "value": "Après qu'un monstre ennemi attaque, gelez-le pour 2 tours.",
+            "hide": false
         },
         {
             "key": "ability.trap_freeze.title",
-            "value": "Gelé"
+            "value": "Gelé",
+            "hide": false
         },
         {
             "key": "ability.trap_heal4.desc",
-            "value": "Quand un ennemi attaque le joueur, soignez 4 PV."
+            "value": "Quand un ennemi attaque le joueur, soignez 4 PV.",
+            "hide": false
         },
         {
             "key": "ability.trap_heal4.title",
-            "value": "Forteresse"
+            "value": "Fortification",
+            "hide": false
         },
         {
             "key": "ability.trap_mind_control_taunt.desc",
-            "value": "Après qu'une créature ennemie ait attaqué, Contrôle Mental pour 1 tour et accorde provocation"
+            "value": "Après qu'un monstre ennemi attaque, Contrôle Mental pour 1 tour et accordez provocation",
+            "hide": false
         },
         {
             "key": "ability.trap_mind_control_taunt.title",
-            "value": "Contrôle Mental"
+            "value": "Contrôle Mental",
+            "hide": false
         },
         {
             "key": "ability.trap_paralyse3.desc",
-            "value": "Après qu'une créature ennemie ait attaqué, paralyse-la pour 3 tours."
+            "value": "Après qu'un monstre ennemi attaque, paralysez-le pour 3 tours.",
+            "hide": false
         },
         {
             "key": "ability.trap_paralyse3.title",
-            "value": "Paralysie"
+            "value": "Paralysie",
+            "hide": false
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Après qu'une créature ennemie a attaqué, empoisonnez-la."
+            "value": "Après qu'un monstre ennemi attaque, empoisonnez-le",
+            "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Empoisonnement"
+            "value": "Poison",
+            "hide": false
         },
         {
             "key": "ability.trap_poison_attacker.desc",
-            "value": "Après qu'une créature ennemie a attaqué, empoisonnez-la."
+            "value": "Après qu'un monstre ennemi attaque, empoisonnez-le",
+            "hide": true
         },
         {
             "key": "ability.trap_poison_attacker.title",
-            "value": "Empoisonnement"
+            "value": "Poison",
+            "hide": true
         },
         {
             "key": "ability.trap_shock.desc",
-            "value": "Après qu'une créature ennemie ait attaqué, paralyse-la par choc pour 1 tour."
+            "value": "Après qu'un monstre ennemi attaque, paralysez-le pour 1 tour.",
+            "hide": false
         },
         {
             "key": "ability.trap_shock.title",
-            "value": "Paralysé par Choc"
+            "value": "Paralysie par Choc",
+            "hide": false
         },
         {
             "key": "ability.trap_shock_all.desc",
-            "value": "Après qu'une créature ennemie a attaqué, paralysez-la par choc pendant 1 tour."
+            "value": "Après qu'un monstre ennemi attaque, paralysez-le pour 1 tour.",
+            "hide": true
         },
         {
             "key": "ability.trap_shock_all.title",
-            "value": "Paralysé par Choc"
+            "value": "Paralysie par Choc",
+            "hide": true
         },
         {
             "key": "ability.turn_add_armor1.desc",
-            "value": "Au début de chaque tour, gagne +1 armure."
+            "value": "Au début de chaque tour, gagnez +1 armure.",
+            "hide": false
         },
         {
             "key": "ability.turn_add_armor1.title",
-            "value": "Armure"
+            "value": "Armure",
+            "hide": false
         },
         {
             "key": "ability.turn_add_armor2.desc",
-            "value": "Au début de chaque tour, gagne +2 armure."
+            "value": "Au début de chaque tour, gagnez +2 armure.",
+            "hide": false
         },
         {
             "key": "ability.turn_add_armor2.title",
-            "value": "Armure"
+            "value": "Armure",
+            "hide": false
         },
         {
             "key": "ability.turn_add_attack1.desc",
-            "value": "Au début de chaque tour, gagne +1 attaque."
+            "value": "Au début de chaque tour, gagnez +1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.turn_add_attack1.title",
-            "value": "Furieux"
+            "value": "Furieux",
+            "hide": false
         },
         {
             "key": "ability.turn_add_attack2.desc",
-            "value": "Au début de chaque tour, gagne +2 attaque."
+            "value": "Au début de chaque tour, gagnez +2 attaque.",
+            "hide": false
         },
         {
             "key": "ability.turn_add_attack2.title",
-            "value": "Furieux"
+            "value": "Furieux",
+            "hide": false
         },
         {
-            "key": "ability.turn_add_draw.desc",
-            "value": "Au début de chaque tour, pioche 1 carte"
+            "key": "ability.turn_burn_all_minus_fire.desc",
+            "value": "Début du tour, brûlez tous les autres monstres non-feu en jeu.",
+            "hide": false
         },
         {
-            "key": "ability.turn_add_draw.title",
-            "value": "Explorateur"
+            "key": "ability.turn_burn_all_minus_fire.title",
+            "value": "Brûler Tout",
+            "hide": false
         },
         {
             "key": "ability.turn_damage_allies1.desc",
-            "value": "Au début de chaque tour, inflige 1 dégât à tous les personnages alliés"
+            "value": "Au début de chaque tour, infligez 1 dégât à tous les monstres alliés",
+            "hide": false
         },
         {
             "key": "ability.turn_damage_allies1.title",
-            "value": "Dégâts de Trahison"
+            "value": "Dégâts de Trahison",
+            "hide": false
         },
         {
             "key": "ability.turn_damage_allies2.desc",
-            "value": "Au début de chaque tour, inflige 2 dégâts à tous les personnages alliés"
+            "value": "Au début de chaque tour, infligez 2 dégâts à tous les monstres alliés",
+            "hide": false
         },
         {
             "key": "ability.turn_damage_allies2.title",
-            "value": "Dégâts de Trahison"
+            "value": "Dégâts de Trahison",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_end_add_draw.desc",
+            "value": "À la fin de chaque tour, piochez 1 carte",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_end_add_draw.title",
+            "value": "Explorateur II",
+            "hide": false
         },
         {
             "key": "ability.turn_green_heal.desc",
-            "value": "Au début de chaque tour, toutes les créatures et lieux alliés verts se soignent de 3."
+            "value": "Au début de chaque tour, tous les monstres et emplacements de plante alliés se soignent de 3.",
+            "hide": false
         },
         {
             "key": "ability.turn_green_heal.title",
-            "value": "Soin Vert"
+            "value": "Soin de Plante",
+            "hide": false
         },
         {
             "key": "ability.turn_kill_lowest.desc",
-            "value": "Au début de ton tour, tue les personnages en jeu avec l'attaque la plus basse (y compris les tiens)."
+            "value": "Au début de votre tour, tuez les monstres en jeu avec l'attaque la plus basse (y compris les vôtres).",
+            "hide": false
         },
         {
             "key": "ability.turn_kill_lowest.title",
-            "value": "Faucheur"
+            "value": "Faucheur",
+            "hide": false
         },
         {
             "key": "ability.turn_own_discard2.desc",
-            "value": "Le joueur défausse 2 cartes aléatoires de sa main."
+            "value": "Le joueur défausse 2 cartes aléatoires de sa main.",
+            "hide": false
         },
         {
             "key": "ability.turn_own_discard2.title",
-            "value": "Défausse"
+            "value": "Défausser",
+            "hide": false
         },
         {
             "key": "ability.turn_shadow_add_attack1.desc",
-            "value": "Au début de chaque tour, tous les monstres Ombre gagnent +1 attaque."
+            "value": "Au début de chaque tour, tous les monstres d'Ombre gagnent +1 attaque.",
+            "hide": false
         },
         {
             "key": "ability.turn_shadow_add_attack1.title",
-            "value": "Bonus Ombre"
+            "value": "Bonus d'Ombre",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_start_add_draw.desc",
+            "value": "Au début de chaque tour, piochez 1 carte",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_start_add_draw.title",
+            "value": "Explorateur",
+            "hide": false
         },
         {
             "key": "ability.turn_stealth.desc",
-            "value": "À la fin de ton tour, si tu as au moins un autre personnage en jeu, entre en furtivité."
+            "value": "À la fin de votre tour, si vous avez au moins un autre monstre en jeu, passez en furtivité.",
+            "hide": false
         },
         {
             "key": "ability.turn_stealth.title",
-            "value": "Furtivité"
+            "value": "Furtivité",
+            "hide": false
         },
         {
             "key": "status.addhp.desc",
-            "value": "PV bonus."
+            "value": "PV bonus.",
+            "hide": false
         },
         {
             "key": "status.addhp.title",
-            "value": "Bonus PV"
+            "value": "Bonus PV",
+            "hide": false
         },
         {
             "key": "status.addmanacost.desc",
-            "value": "Coût en mana maintenant +1"
+            "value": "Le coût en mana est maintenant +1",
+            "hide": false
         },
         {
             "key": "status.addmanacost.title",
-            "value": "Drain Mental"
+            "value": "Drain Mental",
+            "hide": false
         },
         {
             "key": "status.armor.desc",
-            "value": "Ajouter Armure"
+            "value": "Réduit les dégâts de combat par le montant d'armure",
+            "hide": false
         },
         {
             "key": "status.armor.title",
-            "value": "Armure"
+            "value": "Armure",
+            "hide": false
         },
         {
             "key": "status.attacklossimmunity.desc",
-            "value": "Protège l'attaque du personnage d'être réduite."
+            "value": "Protège l'attaque du monstre contre la réduction.",
+            "hide": false
         },
         {
             "key": "status.attacklossimmunity.title",
-            "value": "Immunité à la Perte d'Attaque"
+            "value": "Immunité à la Perte d'Attaque",
+            "hide": false
         },
         {
             "key": "status.burned.desc",
-            "value": "Chaque tour, perdra 2 PV."
+            "value": "Chaque tour, perdra 2 pv.",
+            "hide": false
         },
         {
             "key": "status.burned.title",
-            "value": "Brûlé"
+            "value": "Brûlé",
+            "hide": false
         },
         {
             "key": "status.characterabilityimmunity.desc",
-            "value": "Ne peut pas être ciblé par les capacités de personnages"
+            "value": "Ne peut pas être ciblé par les capacités de monstres",
+            "hide": false
         },
         {
             "key": "status.characterabilityimmunity.title",
-            "value": "Immunité aux Capacités"
+            "value": "Immunité aux Capacités",
+            "hide": false
         },
         {
             "key": "status.cursed.desc",
-            "value": "Chaque tour, perdra de l'attaque."
+            "value": "Chaque tour, perdra 1 attaque.",
+            "hide": false
         },
         {
             "key": "status.cursed.title",
-            "value": "Maudi"
+            "value": "Maudit",
+            "hide": false
+        },
+        {
+            "key": "status.damagecap.desc",
+            "value": "Subit un max de 2 dégâts en attaque / contre-attaque.",
+            "hide": false
+        },
+        {
+            "key": "status.damagecap.title",
+            "value": "Limite de Dégâts",
+            "hide": false
         },
         {
             "key": "status.deathtouch.desc",
-            "value": "Tue n'importe quelle créature qu'il endommage."
+            "value": "Tue tout monstre qu'il endommage.",
+            "hide": false
         },
         {
             "key": "status.deathtouch.title",
-            "value": "Contact Mortel"
+            "value": "Toucher de Mort",
+            "hide": false
+        },
+        {
+            "key": "status.endturnbleed.desc",
+            "value": "À la fin du tour subissez des dégâts.",
+            "hide": false
+        },
+        {
+            "key": "status.endturnbleed.title",
+            "value": "Saignement Fin de Tour",
+            "hide": false
         },
         {
             "key": "status.flying.desc",
-            "value": "Ignore la Provocation."
+            "value": "Ignore la Provocation.",
+            "hide": false
         },
         {
             "key": "status.flying.title",
-            "value": "Vol"
+            "value": "Volant",
+            "hide": false
         },
         {
             "key": "status.frozen.desc",
-            "value": "Ne peut effectuer aucune action pour 1 tour."
+            "value": "Ne peut effectuer aucune action pour 1 tour.",
+            "hide": false
         },
         {
             "key": "status.frozen.title",
-            "value": "Gelé"
+            "value": "Gelé",
+            "hide": false
         },
         {
             "key": "status.fury.desc",
-            "value": "Peut attaquer deux fois par tour"
+            "value": "Peut attaquer deux fois par tour",
+            "hide": false
         },
         {
             "key": "status.fury.title",
-            "value": "Furie"
+            "value": "Fureur",
+            "hide": false
         },
         {
             "key": "status.intimidate.desc",
-            "value": "En attaquant, la cible ne contre-attaque pas."
+            "value": "Quand il attaque, la cible ne contre-attaque pas.",
+            "hide": false
         },
         {
             "key": "status.intimidate.title",
-            "value": "Intimider"
+            "value": "Intimider",
+            "hide": false
         },
         {
             "key": "status.invincibility.desc",
-            "value": "Ne peut pas être détruit."
+            "value": "Ne peut pas être détruit.",
+            "hide": false
         },
         {
             "key": "status.invincibility.title",
-            "value": "Invincibilité"
+            "value": "Invincible",
+            "hide": false
         },
         {
             "key": "status.lifesteal.desc",
-            "value": "Soigne-toi en infligeant des dégâts."
+            "value": "Soignez le joueur en infligeant des dégâts.",
+            "hide": false
         },
         {
             "key": "status.lifesteal.title",
-            "value": "Vampirisme"
+            "value": "Vol de Vie",
+            "hide": false
         },
         {
             "key": "status.overkill.desc",
-            "value": "Les dégâts excédentaires soignent l'attaquant."
+            "value": "Les dégâts en excès soignent l'attaquant.",
+            "hide": false
         },
         {
             "key": "status.overkill.title",
-            "value": "Excès de Dégâts"
+            "value": "Surkill",
+            "hide": false
         },
         {
             "key": "status.paralysed.desc",
-            "value": "Ne peut effectuer aucune action."
+            "value": "Ne peut effectuer aucune action et a zéro attaque",
+            "hide": true
         },
         {
             "key": "status.paralysed.title",
-            "value": "Paralysé par Choc"
+            "value": "Paralysé",
+            "hide": true
         },
         {
             "key": "status.poisoned.desc",
-            "value": "Chaque tour, perdra des PV."
+            "value": "Chaque tour, perdra 1 pv.",
+            "hide": false
         },
         {
             "key": "status.poisoned.title",
-            "value": "Empoisonné"
+            "value": "Empoisonné",
+            "hide": false
         },
         {
             "key": "status.protected.desc",
-            "value": "Ne peut pas être attaqué. Protégé par Provocation."
+            "value": "Ne peut pas être attaqué. Protégé par Provocation.",
+            "hide": false
         },
         {
             "key": "status.protected.title",
-            "value": "Protégé"
+            "value": "Protégé",
+            "hide": false
         },
         {
             "key": "status.protection.desc",
-            "value": "Protège les autres cartes."
+            "value": "Protège les autres cartes.",
+            "hide": false
         },
         {
             "key": "status.protection.title",
-            "value": "Provocation"
+            "value": "Provocation",
+            "hide": false
         },
         {
             "key": "status.protectionflying.desc",
-            "value": "Protège les autres cartes des monstres volants."
+            "value": "Protège les autres cartes des monstres volants.",
+            "hide": false
         },
         {
             "key": "status.protectionflying.title",
-            "value": "Portée"
+            "value": "Portée",
+            "hide": false
         },
         {
             "key": "status.shell.desc",
-            "value": "Au premier coup, ne subit aucun dégât."
+            "value": "Au premier coup, ne subit pas de dégâts.",
+            "hide": false
         },
         {
             "key": "status.shell.title",
-            "value": "Coquille"
+            "value": "Coquille",
+            "hide": false
         },
         {
             "key": "status.silenced.desc",
-            "value": "Ne peut utiliser de capacités ni évoluer."
+            "value": "Ne peut pas utiliser de capacités ou évoluer.",
+            "hide": false
         },
         {
             "key": "status.silenced.title",
-            "value": "Réduit au Silence"
+            "value": "Silencé",
+            "hide": false
         },
         {
             "key": "status.sleep.desc",
-            "value": "1 chance sur 3 de se réveiller. Enlevé si attaqué."
+            "value": "1 chance sur 3 de se réveiller. Retiré si attaqué.",
+            "hide": false
         },
         {
             "key": "status.sleep.title",
-            "value": "Sommeil"
+            "value": "Sommeil",
+            "hide": false
         },
         {
             "key": "status.spellimmunity.desc",
-            "value": "Ne peut pas être ciblé ou endommagé par les cartes de sorts"
+            "value": "Ne peut pas être ciblé ou endommagé par les cartes de sorts",
+            "hide": false
         },
         {
             "key": "status.spellimmunity.title",
-            "value": "Immunité aux Sorts"
+            "value": "Immunité aux Sorts",
+            "hide": false
         },
         {
             "key": "status.stealth.desc",
-            "value": "Ne peut pas être ciblé."
+            "value": "Ne peut pas être ciblé ou attaqué jusqu'à ce qu'il effectue une action.",
+            "hide": false
         },
         {
             "key": "status.stealth.title",
-            "value": "Furtivité"
+            "value": "Furtivité",
+            "hide": false
         },
         {
             "key": "status.trample.desc",
-            "value": "Dégâts extra infligés au joueur."
+            "value": "Dégâts supplémentaires infligés au joueur.",
+            "hide": false
         },
         {
             "key": "status.trample.title",
-            "value": "Piétinement"
+            "value": "Piétinement",
+            "hide": false
         },
         {
             "key": "status.trapevasion.desc",
-            "value": "Les monstres avec cette capacité ne déclenchent pas les pièges."
+            "value": "Les monstres avec cette capacité ne déclenchent pas les pièges.",
+            "hide": false
         },
         {
             "key": "status.trapevasion.title",
-            "value": "Évasion de Pièges"
+            "value": "Évasion de Piège",
+            "hide": false
         },
         {
             "key": "trait.cat.title",
-            "value": "Chat"
+            "value": "Chat",
+            "hide": false
         },
         {
             "key": "trait.dragon.title",
-            "value": "Dragon ancestral"
+            "value": "Dragon",
+            "hide": false
         },
         {
             "key": "trait.evolution.title",
-            "value": "Évolution"
+            "value": "Évolution",
+            "hide": false
         },
         {
             "key": "trait.fish.title",
-            "value": "Poisson"
+            "value": "Poisson",
+            "hide": false
         },
         {
             "key": "trait.growth.title",
-            "value": "Croissance"
+            "value": "Croissance",
+            "hide": false
         },
         {
             "key": "trait.ice_nature.title",
-            "value": "Nature de glace"
+            "value": "Nature de Glace",
+            "hide": false
         },
         {
             "key": "trait.igloo.title",
-            "value": "Iglou"
+            "value": "Igloo",
+            "hide": false
         },
         {
             "key": "trait.mind_control_counter.title",
-            "value": "Contrôlé Mentalement"
+            "value": "Contrôlé Mentalement",
+            "hide": false
         },
         {
             "key": "trait.mind_control_link.title",
-            "value": "Lien de Contrôle Mental"
+            "value": "Lien de Contrôle Mental",
+            "hide": false
         },
         {
             "key": "trait.reptile.title",
-            "value": "Reptilien"
+            "value": "Reptile",
+            "hide": false
         },
         {
             "key": "trait.spell_damage.title",
-            "value": "Dégâts de Sort"
+            "value": "Dégâts de Sort",
+            "hide": false
         }
     ]
 }

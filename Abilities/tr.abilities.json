@@ -2,1507 +2,3623 @@
     "entries": [
         {
             "key": "ability.ability_immunity.desc",
-            "value": "Canavar kartı yetenekleri tarafından hedef alınamaz."
+            "value": "Canavar kartı yetenekleri tarafından hedef alınamaz",
+            "hide": true
         },
         {
             "key": "ability.ability_immunity.title",
-            "value": "Yetenek Bağışıklığı"
+            "value": "Yetenek Bağışıklığı",
+            "hide": true
         },
         {
             "key": "ability.ability_swap_characters_3ml.desc",
-            "value": "Bu canavarı, maliyeti 3 veya daha az mana olan bir düşman tahta canavarıyla değiştir."
+            "value": "Bu canavarı maliyeti 3 veya daha az mana olan bir düşman canavarıyla değiştirin.",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_3ml.title",
-            "value": "Psikik Değişim"
+            "value": "Psişik Değişim",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_4m.desc",
-            "value": "Bu canavarı, maliyeti tam 4 mana olan bir düşman tahta canavarıyla değiştir."
+            "value": "Bu canavarı maliyeti 4 mana olan bir düşman canavarıyla değiştirin.",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_4m.title",
-            "value": "Psikik Değişim"
+            "value": "Psişik Değişim",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_7ml.desc",
-            "value": "Bu canavarı, maliyeti 7 veya daha az mana olan bir düşman tahta canavarıyla değiştir."
+            "value": "Bu canavarı maliyeti 7 veya daha az mana olan bir düşman canavarıyla değiştirin.",
+            "hide": false
         },
         {
             "key": "ability.ability_swap_characters_7ml.title",
-            "value": "Psikik Değişim"
+            "value": "Psişik Değişim",
+            "hide": false
         },
         {
             "key": "ability.activate_armor2.desc",
-            "value": "Tüm müttefik canavarlar +2 zırh kazanır. Bu canavarın eylemini kullanır ve 5 mana harcar."
+            "value": "Tüm müttefik canavarlar +2 zırh kazanır. Bu canavarın eylemini kullanır ve 5 mana harcar.",
+            "hide": false
         },
         {
             "key": "ability.activate_armor2.title",
-            "value": "Zırh Desteği"
+            "value": "Zırh Desteği",
+            "hide": false
         },
         {
             "key": "ability.activate_boost1.desc",
-            "value": "Tüm müttefik canavarlar tur sonuna kadar +1 saldırı kazanır. Bu canavarın eylemini kullanır."
+            "value": "Tüm müttefik canavarlar tur sonuna kadar +1 saldırı kazanır. Bu canavarın eylemini kullanır.",
+            "hide": false
         },
         {
             "key": "ability.activate_boost1.title",
-            "value": "Kükreme"
+            "value": "Kükreme",
+            "hide": false
         },
         {
             "key": "ability.activate_boost3.desc",
-            "value": "Tüm müttefik canavarlar tur sonuna kadar +3 saldırı kazanır. Bu canavarın eylemini kullanır."
+            "value": "Tüm müttefik canavarlar tur sonuna kadar +3 saldırı kazanır. Bu canavarın eylemini kullanır.",
+            "hide": false
         },
         {
             "key": "ability.activate_boost3.title",
-            "value": "Destek"
+            "value": "Destek",
+            "hide": false
         },
         {
             "key": "ability.activate_burst.desc",
-            "value": "1 hasar al karşılığında +1 saldırı kazan."
+            "value": "1 hasar alın +1 saldırı kazanın.",
+            "hide": false
         },
         {
             "key": "ability.activate_burst.title",
-            "value": "Patlama"
+            "value": "Patlama",
+            "hide": false
         },
         {
             "key": "ability.activate_damage2.desc",
-            "value": "2 hasar ver. 3 mana harcar. Eylemi tüketmez."
+            "value": "2 hasar verin. Maliyet 3 mana. Eylemi tüketmez.",
+            "hide": false
         },
         {
             "key": "ability.activate_damage2.title",
-            "value": "Ekstra Saldırı"
+            "value": "Ekstra Saldırı",
+            "hide": false
         },
         {
             "key": "ability.activate_discard.desc",
-            "value": "Rakip elinden rastgele bir kart atar. Bu canavarın eylemini kullanır."
+            "value": "Rakip elinden rastgele bir kart atar. Bu canavarın eylemini kullanır.",
+            "hide": false
         },
         {
             "key": "ability.activate_discard.title",
-            "value": "Atma"
+            "value": "At",
+            "hide": false
         },
         {
             "key": "ability.activate_discard_random_3l.desc",
-            "value": "Rakip elinden rastgele bir kart atar. Bu canavarın eylemini kullanır."
+            "value": "Rakip elinden rastgele bir kart atar. Bu canavarın eylemini kullanır.",
+            "hide": false
         },
         {
             "key": "ability.activate_discard_random_3l.title",
-            "value": "Atma"
+            "value": "At",
+            "hide": false
         },
         {
             "key": "ability.activate_electric.desc",
-            "value": "Hedef Elektrik canavarı Hız kazanır."
+            "value": "Hedef hız kazanır (elektrik canavarı olmalı)",
+            "hide": false
         },
         {
             "key": "ability.activate_electric.title",
-            "value": "Elektrik"
+            "value": "Elektrik",
+            "hide": false
         },
         {
             "key": "ability.activate_fire.desc",
-            "value": "1 hasar ver."
+            "value": "1 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.activate_fire.title",
-            "value": "Ateş"
+            "value": "Ateş",
+            "hide": false
         },
         {
             "key": "ability.activate_heal_player3.desc",
-            "value": "Oyuncuyu 3 can iyileştir."
+            "value": "Oyuncuyu 3 HP iyileştirin.",
+            "hide": false
         },
         {
             "key": "ability.activate_heal_player3.title",
-            "value": "Kendi İyileştirme"
+            "value": "Kendi Kendine İyileştirme",
+            "hide": false
         },
         {
             "key": "ability.activate_ice.desc",
-            "value": "Bir düşmanı 1 tur dondur."
+            "value": "Bir düşmanı 1 tur dondurun",
+            "hide": false
         },
         {
             "key": "ability.activate_ice.title",
-            "value": "Dondur"
+            "value": "Dondur",
+            "hide": false
         },
         {
             "key": "ability.activate_plant.desc",
-            "value": "2 can iyileştir."
+            "value": "2 HP iyileştirin.",
+            "hide": false
         },
         {
             "key": "ability.activate_plant.title",
-            "value": "Bitki"
+            "value": "Bitki",
+            "hide": false
         },
         {
             "key": "ability.activate_psychic.desc",
-            "value": "Rakip elinden rastgele bir kart atar."
+            "value": "Rakip elinden rastgele bir kart atar.",
+            "hide": false
         },
         {
             "key": "ability.activate_psychic.title",
-            "value": "Psikik"
+            "value": "Psişik",
+            "hide": false
         },
         {
             "key": "ability.activate_rock.desc",
-            "value": "Hedef canavar +1 Zırh kazanır."
+            "value": "Hedef canavar +1 Zırh kazanır",
+            "hide": false
         },
         {
             "key": "ability.activate_rock.title",
-            "value": "Kaya"
+            "value": "Kaya",
+            "hide": false
         },
         {
             "key": "ability.activate_rock_hammi_old.desc",
-            "value": "1/1 Hammi çağır."
+            "value": "Bir Hammi 1/1 çağırın",
+            "hide": false
         },
         {
             "key": "ability.activate_rock_hammi_old.title",
-            "value": "Kaya"
+            "value": "Kaya",
+            "hide": false
         },
         {
             "key": "ability.activate_roll_send_hand.desc",
-            "value": "Bir canavar seç ve Z6 at. 4+ gelirse onu sahibinin eline geri gönder. 2 mana harcar."
+            "value": "Bir canavar seçin ve D6 atın, 4+ ise orijinal sahibinin eline döndürün. Maliyet 2 mana.",
+            "hide": false
         },
         {
             "key": "ability.activate_roll_send_hand.title",
-            "value": "Şarj"
+            "value": "Şarj",
+            "hide": false
         },
         {
             "key": "ability.activate_select_discard_spell.desc",
-            "value": "Atık destenden bir büyü kartını eline geri al. 2 mana harcar."
+            "value": "Atılmış büyülerden birini elinize geri getirin. Maliyet 2 mana.",
+            "hide": false
         },
         {
             "key": "ability.activate_select_discard_spell.title",
-            "value": "Büyü Odaklanması"
+            "value": "Sihir Odak",
+            "hide": false
         },
         {
             "key": "ability.activate_send_hand.desc",
-            "value": "Bir canavarı sahibinin eline geri gönder. Bu canavarın eylemini kullanır."
+            "value": "Bir canavarı orijinal sahibinin eline geri getirin. Bu canavarın eylemini kullanır.",
+            "hide": false
         },
         {
             "key": "ability.activate_send_hand.title",
-            "value": "Geri Sektirme"
+            "value": "Yansıma",
+            "hide": false
         },
         {
             "key": "ability.activate_shadow.desc",
-            "value": "Hedef Lanetlenir."
+            "value": "Hedef Lanetlenmiş olur",
+            "hide": false
         },
         {
             "key": "ability.activate_shadow.title",
-            "value": "Gölge"
+            "value": "Gölge",
+            "hide": false
         },
         {
             "key": "ability.activate_switch_sides.desc",
-            "value": "Oyuna girerken bir hedef canavarı taraf değiştir."
+            "value": "Oynandığında, bir hedef canavarı seçerek taraf değiştirin",
+            "hide": false
         },
         {
             "key": "ability.activate_switch_sides.title",
-            "value": "Sadakat Değişimi"
+            "value": "Sadakat Değişimi",
+            "hide": false
         },
         {
             "key": "ability.activate_water.desc",
-            "value": "1 kart çek."
+            "value": "Bir kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.activate_water.title",
-            "value": "Su"
+            "value": "Su",
+            "hide": false
         },
         {
             "key": "ability.add_attack_traps.desc",
-            "value": "Her düşman tuzağı için +1 hasar kazan."
+            "value": "Her düşman tuzağı için +1 hasar kazanın",
+            "hide": false
         },
         {
             "key": "ability.add_attack_traps.title",
-            "value": "Tuzak Güçlendirmesi"
+            "value": "Tuzak Güçlendirme",
+            "hide": false
         },
         {
             "key": "ability.add_hp_location.desc",
-            "value": "Tahtada aynı elementte her müttefik konum için +2 can kazan."
+            "value": "Oyun içinde aynı element tipi müttefik konum başına +2 HP kazanın.",
+            "hide": false
         },
         {
             "key": "ability.add_hp_location.title",
-            "value": "Konum Güçlendirmesi"
+            "value": "Konum Güçlendirme",
+            "hide": false
         },
         {
             "key": "ability.add_hp1_attack1_location.desc",
-            "value": "Tahtada aynı elementte her müttefik konum için +1 can ve +1 saldırı kazan."
+            "value": "Aynı element tipi müttefik konum oyun içindeyse +1 HP ve +1 Saldırı kazanın.",
+            "hide": false
         },
         {
             "key": "ability.add_hp1_attack1_location.title",
-            "value": "Konum Güçlendirmesi"
+            "value": "Konum Güçlendirme",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage1.desc",
-            "value": "Tüm büyülerin ve yeteneklerin verdiği hasar +1 artar."
+            "value": "Tüm büyüleriniz ve yetenekleriniz +1 hasar verir.",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage1.title",
-            "value": "Büyü Hasarı"
+            "value": "Büyü Hasarı",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage2.desc",
-            "value": "Tüm büyülerin ve yeteneklerin verdiği hasar +2 artar."
+            "value": "Tüm büyüleriniz ve yetenekleriniz +2 hasar verir.",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage2.title",
-            "value": "Büyü Hasarı"
+            "value": "Büyü Hasarı",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage4.desc",
-            "value": "Tüm büyülerin ve yeteneklerin verdiği hasar +4 artar."
+            "value": "Tüm büyüleriniz ve yetenekleriniz +4 hasar verir.",
+            "hide": false
         },
         {
             "key": "ability.add_spell_damage4.title",
-            "value": "Büyü Hasarı"
+            "value": "Büyü Hasarı",
+            "hide": false
         },
         {
             "key": "ability.after_spell_attack2.desc",
-            "value": "Büyü oynadıktan sonra +2 saldırı kazan."
+            "value": "Büyü oynadıktan sonra +2 saldırı kazanın.",
+            "hide": false
         },
         {
             "key": "ability.after_spell_attack2.title",
-            "value": "Isı"
+            "value": "Isı",
+            "hide": false
         },
         {
             "key": "ability.attack_burned.desc",
-            "value": "Saldırılan canavar yanar. Her tur 2 can kaybeder."
+            "value": "Saldırılan canavar yanar. Her tur 2 hp kaybeder.",
+            "hide": false
         },
         {
             "key": "ability.attack_burned.title",
-            "value": "Yakma"
+            "value": "Yanmış",
+            "hide": false
         },
         {
             "key": "ability.attack_curse.desc",
-            "value": "Saldırılan canavar lanetlenir. Her tur 1 saldırı kaybeder."
+            "value": "Saldırılan canavarlar lanet kazanır. Her tur 1 saldırı kaybeder.",
+            "hide": true
         },
         {
             "key": "ability.attack_curse.title",
-            "value": "Lanet"
+            "value": "Lanet",
+            "hide": true
         },
         {
             "key": "ability.attack_freeze.desc",
-            "value": "Saldırılan canavar donar."
+            "value": "Saldırılan canavar donar.",
+            "hide": true
         },
         {
             "key": "ability.attack_freeze.title",
-            "value": "Dondurma"
+            "value": "Dondur",
+            "hide": true
         },
         {
             "key": "ability.attack_loss_immunity.desc",
-            "value": "Bu canavarın saldırısı azaltılamaz."
+            "value": "Canavarın saldırısını azalmadan korur.",
+            "hide": true
         },
         {
             "key": "ability.attack_loss_immunity.title",
-            "value": "Saldırı Kaybı Bağışıklığı"
+            "value": "Saldırı Kaybı Bağışıklığı",
+            "hide": true
         },
         {
             "key": "ability.attack_mana1.desc",
-            "value": "Saldırdıktan sonra 1 mana kazan."
+            "value": "Saldırıdan sonra 1 mana kazanın.",
+            "hide": false
         },
         {
             "key": "ability.attack_mana1.title",
-            "value": "Yağma"
+            "value": "Yağma",
+            "hide": false
         },
         {
             "key": "ability.attack_mana2.desc",
-            "value": "Saldırdıktan sonra 2 mana kazan."
+            "value": "Saldırıdan sonra 2 mana kazanın.",
+            "hide": false
         },
         {
             "key": "ability.attack_mana2.title",
-            "value": "Yağma"
+            "value": "Yağma",
+            "hide": false
         },
         {
             "key": "ability.attack_player_draw_rock_spell.desc",
-            "value": "Düşman oyuncuya saldırdıktan sonra destenden bir kaya büyüsü kartı çek."
+            "value": "Düşman oyuncuyu saldırdıktan sonra destenizden bir kaya büyü kartı çekin",
+            "hide": false
         },
         {
             "key": "ability.attack_player_draw_rock_spell.title",
-            "value": "Kaya Hazinesi"
+            "value": "Kaya Hazinesi",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana1.desc",
-            "value": "Rakibin canına saldırdıktan sonra 1 mana kazan."
+            "value": "Rakibin canını saldırdıktan sonra 1 mana kazanın.",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana1.title",
-            "value": "Yağma"
+            "value": "Yağma",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana2.desc",
-            "value": "Rakibin canına saldırdıktan sonra 2 mana kazan."
+            "value": "Rakibin canını saldırdıktan sonra 2 mana kazanın.",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana2.title",
-            "value": "Yağma"
+            "value": "Yağma",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana3.desc",
-            "value": "Rakibin canına saldırdıktan sonra 3 mana kazan."
+            "value": "Rakibin canını saldırdıktan sonra 3 mana kazanın.",
+            "hide": false
         },
         {
             "key": "ability.attack_player_mana3.title",
-            "value": "Yağma"
+            "value": "Yağma",
+            "hide": false
         },
         {
             "key": "ability.attack_poison.desc",
-            "value": "Saldırılan canavar zehirlenir. Her tur 1 can kaybeder."
+            "value": "Saldırılan ve karşı saldıran canavarlar zehir kazanır.",
+            "hide": false
         },
         {
             "key": "ability.attack_poison.title",
-            "value": "Zehir"
+            "value": "Savaş Zehiri",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_add_bonus_3.desc",
-            "value": "Saldırmadan önce Z6 at. 4+ gelirse +3 saldırı kazan."
+            "value": "Saldırıdan önce D6 atın, 4+ ise +3 saldırı kazanın.",
+            "hide": false
         },
         {
-            "key": "ability.attack_roll_attack_bonus_3.title",
-            "value": "Dokunaçlar"
+            "key": "ability.attack_roll_attack_add_bonus_3.title",
+            "value": "Dokunaçlar",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.desc",
-            "value": "Saldırmadan önce Z6 at. 4+ gelirse tur sonuna kadar +3 saldırı kazan."
+            "value": "Saldırıdan önce D6 atın, 4+ ise tur sonuna kadar +3 saldırı kazanın.",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_3.title",
-            "value": "Dokunaçlar"
+            "value": "Dokunaçlar",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.desc",
-            "value": "Saldırmadan önce Z6 at. 4+ gelirse tur sonuna kadar +6 saldırı kazan."
+            "value": "Saldırıdan önce D6 atın, 4+ ise tur sonuna kadar +6 saldırı kazanın.",
+            "hide": false
         },
         {
             "key": "ability.attack_roll_attack_bonus_6.title",
-            "value": "Dokunaçlar"
+            "value": "Dokunaçlar",
+            "hide": false
         },
         {
             "key": "ability.attack_suffer_damage.desc",
-            "value": "Saldırmadan önce 3 hasar al."
+            "value": "Saldırıdan önce 3 hasar alın.",
+            "hide": false
         },
         {
             "key": "ability.attack_suffer_damage.title",
-            "value": "Yer Yarılması"
+            "value": "Yer Bölünmesi",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_red.desc",
-            "value": "Tüm müttefik Ateş canavarları \"+1 saldırı kazanmak için 1 hasar al\" yeteneği kazanır."
+            "value": "Tüm müttefik ateş canavarları: \"1 hasar alın +1 saldırı kazanın\" kazanır.",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_red.title",
-            "value": "Ateş Patlaması"
+            "value": "Ateş Patlaması",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_rock.desc",
-            "value": "Tüm müttefik Kaya canavarları \"+1 saldırı kazanmak için 1 hasar al\" yeteneği kazanır."
+            "value": "Tüm müttefik kaya canavarları: \"1 hasar alın +1 saldırı kazanın\" kazanır.",
+            "hide": false
         },
         {
             "key": "ability.aura_ability_rock.title",
-            "value": "Kaya Patlaması"
+            "value": "Kaya Patlaması",
+            "hide": false
         },
         {
             "key": "ability.aura_add_enrage.desc",
-            "value": "Tüm müttefik kaya canavarları bir Öfke yığını kazanır."
+            "value": "Tüm müttefik kaya canavarları bir Öfke yığını kazanır.",
+            "hide": false
         },
         {
             "key": "ability.aura_add_enrage.title",
-            "value": "Kaya Öfkesi Aurası"
+            "value": "Kaya Öfke Aurası",
+            "hide": false
         },
         {
             "key": "ability.aura_armor_rock_2.desc",
-            "value": "Tüm müttefik kaya canavarları +2 Zırh kazanır."
+            "value": "Tüm müttefik kaya canavarlarının +2 Zırhı vardır.",
+            "hide": false
         },
         {
             "key": "ability.aura_armor_rock_2.title",
-            "value": "Taş Zırh 2"
+            "value": "Taş Zırh 2",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m1.desc",
-            "value": "Tüm düşman canavarları -1 saldırı."
+            "value": "Tüm düşman canavarlarının -1 saldırısı vardır.",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m1.title",
-            "value": "Korku"
+            "value": "Korku",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m2.desc",
-            "value": "Tüm düşman canavarları -2 saldırı."
+            "value": "Tüm düşman canavarlarının -2 saldırısı vardır.",
+            "hide": false
         },
         {
             "key": "ability.aura_attack_m2.title",
-            "value": "Korku"
+            "value": "Korku",
+            "hide": false
         },
         {
             "key": "ability.aura_cat.desc",
-            "value": "Diğer tüm müttefik kediler +1 saldırı kazanır."
+            "value": "Tüm diğer müttefik kediler +1 saldırı kazanır.",
+            "hide": false
         },
         {
             "key": "ability.aura_cat.title",
-            "value": "Kedi Aurası"
+            "value": "Kedi Aurası",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_attack1.desc",
-            "value": "Tüm düşman canavarları +1 saldırı kazanır."
+            "value": "Tüm düşman canavarları +1 saldırı kazanır.",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_attack1.title",
-            "value": "İhanet"
+            "value": "İhanet",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_hp2.desc",
-            "value": "Tüm düşman canavarları +2 can kazanır."
+            "value": "Tüm düşman canavarları +2 HP kazanır",
+            "hide": false
         },
         {
             "key": "ability.aura_enemy_hp2.title",
-            "value": "İhanet"
+            "value": "İhanet",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_1.desc",
-            "value": "Tüm müttefik kaya canavarları +1 can kazanır."
+            "value": "Tüm müttefik kaya canavarlarının +1 HP'si vardır.",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_1.title",
-            "value": "Taş Müttefik"
+            "value": "Taş Müttefik",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_2.desc",
-            "value": "Tüm müttefik kaya canavarları +2 can kazanır."
+            "value": "Tüm müttefik kaya canavarlarının +2 HP'si vardır.",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_2.title",
-            "value": "Taş Müttefik 2"
+            "value": "Taş Müttefik 2",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_m1.desc",
-            "value": "Tüm müttefik gölge canavarları +1 can kazanır."
+            "value": "Tüm müttefik gölge canavarlarının +1 HP'si vardır.",
+            "hide": false
         },
         {
             "key": "ability.aura_hp_rock_m1.title",
-            "value": "Gölge Müttefik"
+            "value": "Gölge Müttefik",
+            "hide": false
         },
         {
             "key": "ability.aura_protect_igloo.desc",
-            "value": "İglolar yenilmez olur."
+            "value": "Igloolar yenilmez hale gelir.",
+            "hide": false
         },
         {
             "key": "ability.aura_protect_igloo.title",
-            "value": "İglo Koruması"
+            "value": "Igloo Koruma",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile.desc",
-            "value": "Diğer tüm müttefik sürüngenler +1 saldırı kazanır."
+            "value": "Tüm diğer müttefik sürüngenler +1 saldırı kazanır.",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile.title",
-            "value": "Sürüngenler"
+            "value": "Sürüngenler",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile_2.desc",
-            "value": "Diğer tüm müttefik sürüngenler +2 saldırı kazanır."
+            "value": "Tüm diğer müttefik sürüngenler +2 saldırı kazanır.",
+            "hide": false
         },
         {
             "key": "ability.aura_reptile_2.title",
-            "value": "Sürüngenler"
+            "value": "Sürüngenler",
+            "hide": false
         },
         {
             "key": "ability.bypass_trap.desc",
-            "value": "Bu canavar tuzakları tetiklemez."
+            "value": "Bu canavar tuzakları tetiklemez.",
+            "hide": true
         },
         {
             "key": "ability.bypass_trap.title",
-            "value": "Tuzak Kaçınma"
+            "value": "Tuzak Kaçınma",
+            "hide": true
         },
         {
             "key": "ability.chain_ice_treasure.desc",
-            "value": "Destenin sonraki 7 kartına bak ve 2 buz kartını eline al."
+            "value": "Destedeki sonraki 7 kartı bakın ve 2 buz kartını elinize alın.",
+            "hide": false
         },
         {
             "key": "ability.chain_ice_treasure.title",
-            "value": "Buz Hazinesi"
+            "value": "Buz Hazinesi",
+            "hide": false
         },
         {
             "key": "ability.chain_water_treasure.desc",
-            "value": "Destenin sonraki 7 kartına bak ve 2 su kartını eline al."
+            "value": "Destedeki sonraki 7 kartı bakın ve 2 su kartını elinize alın.",
+            "hide": false
         },
         {
             "key": "ability.chain_water_treasure.title",
-            "value": "Su Hazinesi"
+            "value": "Su Hazinesi",
+            "hide": false
         },
         {
             "key": "ability.choice_ability_immunity.desc",
-            "value": "Canavar kartı yetenekleri tarafından hedef alınamaz."
+            "value": "Canavar yetenekleri tarafından hedef alınamaz",
+            "hide": false
         },
         {
             "key": "ability.choice_ability_immunity.title",
-            "value": "Yetenek Bağışıklığı"
+            "value": "Yetenek Bağışıklığı",
+            "hide": false
         },
         {
             "key": "ability.choice_armor2.desc",
-            "value": "Oyuna girerken +2 Zırh kazan."
+            "value": "Göründüğünde +2 Zırh kazanın.",
+            "hide": false
         },
         {
             "key": "ability.choice_armor2.title",
-            "value": "Seçim Zırhı 2"
+            "value": "Seçim Zırh 2",
+            "hide": false
         },
         {
             "key": "ability.choice_fury.desc",
-            "value": "Her tur iki kez saldırabilir."
+            "value": "Tur başına iki kez saldırabilir.",
+            "hide": false
         },
         {
             "key": "ability.choice_fury.title",
-            "value": "Öfke"
+            "value": "Öfke",
+            "hide": false
         },
         {
             "key": "ability.choice_rush.desc",
-            "value": "Hemen saldırabilir ama oynandığı tur rakip oyuncuya saldıramaz."
+            "value": "Hemen saldırabilir, ancak oynandığı turda düşman oyuncuyu hedef alamaz.",
+            "hide": false
         },
         {
             "key": "ability.choice_rush.title",
-            "value": "Hız"
+            "value": "Hücum",
+            "hide": false
         },
         {
             "key": "ability.choice_spell_immunity.desc",
-            "value": "Büyü kartları tarafından hedef alınamaz veya hasar göremez."
+            "value": "Büyü kartları tarafından hedef alınamaz veya hasar verilemez.",
+            "hide": false
         },
         {
             "key": "ability.choice_spell_immunity.title",
-            "value": "Büyü Bağışıklığı"
+            "value": "Büyü Bağışıklığı",
+            "hide": false
         },
         {
             "key": "ability.choice_taunt.desc",
-            "value": "Diğer canavarların saldırılamaz."
+            "value": "Diğer canavarlarınız saldırılmaz.",
+            "hide": false
         },
         {
             "key": "ability.choice_taunt.title",
-            "value": "Kalkan"
+            "value": "Alay",
+            "hide": false
         },
         {
             "key": "ability.damage_cap.desc",
-            "value": "Saldırı ve karşı saldırıdan en fazla 2 hasar alır."
+            "value": "Saldırı / karşı saldırı sırasında maksimum 2 hasar alır.",
+            "hide": false
         },
         {
             "key": "ability.damage_cap.title",
-            "value": "Hasar Sınırı"
+            "value": "Hasar Sınırı",
+            "hide": false
         },
         {
             "key": "ability.death_blue_draw.desc",
-            "value": "Sahip olduğun bir Su canavarı öldüğünde 1 kart çek."
+            "value": "Sahip olduğunuz bir su canavarı öldüğünde bir kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.death_blue_draw.title",
-            "value": "Çekme"
+            "value": "Çek",
+            "hide": false
         },
         {
             "key": "ability.death_damage2_player.desc",
-            "value": "Bu canavar öldüğünde düşman oyuncuya 2 hasar ver."
+            "value": "Bu canavar öldüğünde düşman oyuncuya hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.death_damage2_player.title",
-            "value": "Ölüm Hasarı"
+            "value": "Ölüm Hasarı",
+            "hide": false
         },
         {
             "key": "ability.death_draw.desc",
-            "value": "Bu canavar öldüğünde 1 kart çek."
+            "value": "Bu canavar öldüğünde bir kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.death_draw.title",
-            "value": "Çekme"
+            "value": "Çek",
+            "hide": false
         },
         {
             "key": "ability.death_egg.desc",
-            "value": "Bu canavar öldüğünde bir Phyra yumurtası çağır."
+            "value": "Bu canavar öldüğünde Phyra yumurtası 0/3 çağırın.",
+            "hide": false
         },
         {
             "key": "ability.death_egg.title",
-            "value": "Yumurta Çağır"
+            "value": "Yumurta Çağır",
+            "hide": false
         },
         {
             "key": "ability.death_heal2.desc",
-            "value": "Bu canavar öldüğünde 2 can iyileş."
+            "value": "Bu canavar öldüğünde 2 HP geri kazanın.",
+            "hide": false
         },
         {
             "key": "ability.death_heal2.title",
-            "value": "İyileştirme"
+            "value": "İyileştir",
+            "hide": false
         },
         {
             "key": "ability.death_heal3.desc",
-            "value": "Bu canavar öldüğünde 3 can iyileş."
+            "value": "Bu canavar öldüğünde 3 HP geri kazanın.",
+            "hide": false
         },
         {
             "key": "ability.death_heal3.title",
-            "value": "İyileştirme"
+            "value": "İyileştir",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw.desc",
-            "value": "Başka bir canavar öldüğünde 1 kart çek."
+            "value": "Başka bir canavar her öldüğünde bir kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw.title",
-            "value": "Yeme"
+            "value": "Yemek",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw2.desc",
-            "value": "Başka bir canavar öldüğünde 2 kart çek."
+            "value": "Başka bir canavar her öldüğünde 2 kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.death_other_draw2.title",
-            "value": "Yeme"
+            "value": "Yemek",
+            "hide": false
         },
         {
             "key": "ability.death_summon_cabyron_copy.desc",
-            "value": "Bu canavar öldüğünde Öfke 2'li bir Cabyron çağır."
+            "value": "Bu canavar öldüğünde Öfke 2 ile Cabyron çağırın.",
+            "hide": false
         },
         {
             "key": "ability.death_summon_cabyron_copy.title",
-            "value": "Cabyron Kopyası Çağır"
+            "value": "Cabyron Kopyası Çağır",
+            "hide": false
         },
         {
             "key": "ability.death_summon_igloo.desc",
-            "value": "Öldüğünde bir İglo çağır."
+            "value": "Öldüğünde bir Igloo çağırın",
+            "hide": false
         },
         {
             "key": "ability.death_summon_igloo.title",
-            "value": "İglo Çağır"
+            "value": "Igloo Çağır",
+            "hide": false
         },
         {
             "key": "ability.death_summon_twii.desc",
-            "value": "Bu canavar öldüğünde bir Twii çağır."
+            "value": "Bu canavar öldüğünde bir Twii çağırın.",
+            "hide": false
         },
         {
             "key": "ability.death_summon_twii.title",
-            "value": "Twii Çağır"
+            "value": "Twii Çağır",
+            "hide": false
         },
         {
             "key": "ability.deathtouch.desc",
-            "value": "Hasar verdiği herhangi bir canavarı öldürür."
+            "value": "Hasar verdiği her canavarı öldürür.",
+            "hide": true
         },
         {
             "key": "ability.deathtouch.title",
-            "value": "Ölüm Dokunuşu"
+            "value": "Ölüm Dokunuşu",
+            "hide": true
         },
         {
             "key": "ability.defend_discard.desc",
-            "value": "Saldırılandığında rakip rastgele 1 kart atmak zorundadır."
+            "value": "Saldırıldığında rakip rastgele 1 kart atar.",
+            "hide": false
         },
         {
             "key": "ability.defend_discard.title",
-            "value": "Bataklık"
+            "value": "Batık",
+            "hide": false
         },
         {
             "key": "ability.defend_draw1.desc",
-            "value": "Bu canavar saldırılandığında 1 kart çek."
+            "value": "Bu canavar saldırıldığında bir kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.defend_draw1.title",
-            "value": "Çekme"
+            "value": "Çek",
+            "hide": false
         },
         {
             "key": "ability.defense_attack3.desc",
-            "value": "Rakibin turunda +3 saldırı."
+            "value": "Rakip turunda +3 saldırısı vardır.",
+            "hide": false
         },
         {
             "key": "ability.defense_attack3.title",
-            "value": "Savunma"
+            "value": "Savunma",
+            "hide": false
         },
         {
             "key": "ability.defense_attack5.desc",
-            "value": "Rakibin turunda +5 saldırı."
+            "value": "Rakip turunda +5 saldırısı vardır.",
+            "hide": false
         },
         {
             "key": "ability.defense_attack5.title",
-            "value": "Savunma"
+            "value": "Savunma",
+            "hide": false
         },
         {
             "key": "ability.discard_add_attack1.desc",
-            "value": "Rakip zorla kart attırıldığında +1 saldırı kazan."
+            "value": "Rakip her zorla atıldığında +1 saldırı kazanın.",
+            "hide": false
         },
         {
             "key": "ability.discard_add_attack1.title",
-            "value": "Atım Gücü"
+            "value": "Atma Kazancı",
+            "hide": false
         },
         {
             "key": "ability.egg_growth.desc",
-            "value": "3 tur sonra Phyra'ya dönüşür."
+            "value": "3 tur sonra Phyra'ya dönüşür.",
+            "hide": false
         },
         {
             "key": "ability.egg_growth.title",
-            "value": "Yumurta"
+            "value": "Yumurta",
+            "hide": false
         },
         {
             "key": "ability.egg_transform.desc",
-            "value": "3 tur sonra Phyra'ya dönüşür."
+            "value": "3 tur sonra Phyra'ya dönüşür.",
+            "hide": false
         },
         {
             "key": "ability.egg_transform.title",
-            "value": "Phyraya Dönüş"
+            "value": "Phyra Dönüştür",
+            "hide": false
         },
         {
             "key": "ability.enrage.desc",
-            "value": "Her hasar aldığında +1 saldırı kazanır."
+            "value": "Canavar hasar aldıkça +1 saldırı kazanır.",
+            "hide": false
         },
         {
             "key": "ability.enrage.title",
-            "value": "Öfke"
+            "value": "Öfke",
+            "hide": false
         },
         {
             "key": "ability.enrage2.desc",
-            "value": "Her hasar aldığında +2 saldırı kazanır."
+            "value": "Canavar hasar aldıkça +2 saldırı kazanır.",
+            "hide": false
         },
         {
             "key": "ability.enrage2.title",
-            "value": "Öfke 2"
+            "value": "Öfke 2",
+            "hide": false
         },
         {
             "key": "ability.enrage3.desc",
-            "value": "Her hasar aldığında +3 saldırı kazanır."
+            "value": "Canavar hasar aldıkça +3 saldırı kazanır.",
+            "hide": false
         },
         {
             "key": "ability.enrage3.title",
-            "value": "Öfke 3"
+            "value": "Öfke 3",
+            "hide": false
         },
         {
             "key": "ability.enrage4.desc",
-            "value": "Her hasar aldığında +4 saldırı kazanır."
+            "value": "Canavar hasar aldıkça +4 saldırı kazanır.",
+            "hide": false
         },
         {
             "key": "ability.enrage4.title",
-            "value": "Öfke 4"
+            "value": "Öfke 4",
+            "hide": false
         },
         {
             "key": "ability.equip_armor2.desc",
-            "value": "Taşıyıcı +2 zırh kazanır."
+            "value": "Taşıyıcı +2 zırhı vardır.",
+            "hide": true
         },
         {
             "key": "ability.equip_armor2.title",
-            "value": "Zırh"
+            "value": "Zırh",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_equals_current_hp.desc",
-            "value": "Taşıyıcının saldırısı mevcut canına eşit olur."
+            "value": "Taşıyıcının saldırısı mevcut HP'sine eşit olur",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_equals_current_hp.title",
-            "value": "Eşitleyici"
+            "value": "Eşitleyici",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_equals_max_hp.desc",
-            "value": "Taşıyıcının saldırısı maksimum canına eşit olur."
+            "value": "Taşıyıcının saldırısı maksimum HP'sine eşit olur",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_equals_max_hp.title",
-            "value": "Eşitleyici"
+            "value": "Eşitleyici",
+            "hide": false
         },
         {
             "key": "ability.equip_attack_no_damage.desc",
-            "value": "Saldırırken hedef karşı saldırı yapamaz."
+            "value": "Saldırırken hedef karşı saldırı yapmaz.",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_no_damage.title",
-            "value": "Gözdağı"
+            "value": "Korkut",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_use.desc",
-            "value": "Her saldırıdan sonra 1 dayanıklılık kaybeder."
+            "value": "Her saldırıdan sonra 1 dayanıklılık kaybeder.",
+            "hide": true
         },
         {
             "key": "ability.equip_attack_use.title",
-            "value": "Kılıç"
+            "value": "Kılıç",
+            "hide": true
         },
         {
             "key": "ability.equip_attack1.desc",
-            "value": "Taşıyıcı +1 saldırı kazanır."
+            "value": "Taşıyıcı +1 saldırısı vardır.",
+            "hide": false
         },
         {
             "key": "ability.equip_attack1.title",
-            "value": "Saldırı"
+            "value": "Saldırı",
+            "hide": false
         },
         {
             "key": "ability.equip_attack2.desc",
-            "value": "Taşıyıcı +2 saldırı kazanır."
+            "value": "Taşıyıcı +2 saldırısı vardır.",
+            "hide": false
         },
         {
             "key": "ability.equip_attack2.title",
-            "value": "Saldırı"
+            "value": "Saldırı",
+            "hide": false
         },
         {
             "key": "ability.equip_defend_use.desc",
-            "value": "Saldırılandığında 1 dayanıklılık kaybeder."
+            "value": "Saldırıldığında 1 dayanıklılık kaybeder.",
+            "hide": true
         },
         {
             "key": "ability.equip_defend_use.title",
-            "value": "Kalkan"
+            "value": "Kalkan",
+            "hide": true
         },
         {
             "key": "ability.equip_gain_mana.desc",
-            "value": "Sonraki 3 tur boyunca her tur 2 ekstra mana kazan."
+            "value": "Sonraki 3 tur boyunca tur başına ekstra 2 mana kazanın.",
+            "hide": false
         },
         {
             "key": "ability.equip_gain_mana.title",
-            "value": "Mana Yüzüğü"
+            "value": "Mana Yüzüğü",
+            "hide": false
         },
         {
             "key": "ability.equip_mana_kill.desc",
-            "value": "Taşıyıcı bir kart öldürdüğünde 3 mana kazan."
+            "value": "Taşıyıcı bir kart öldürdüğünde 3 mana kazanın.",
+            "hide": false
         },
         {
             "key": "ability.equip_mana_kill.title",
-            "value": "Mana Yüzüğü"
+            "value": "Mana Yüzüğü",
+            "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Sonraki 3 tur boyunca her tur 2 ekstra mana kazan."
+            "value": "Sonraki 3 tur boyunca tur başına ekstra 2 mana kazanın.",
+            "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Mana Yüzüğü"
+            "value": "Mana Yüzüğü",
+            "hide": false
         },
         {
             "key": "ability.equip_taunt.desc",
-            "value": "Taşıyıcı kalkan kazanır."
+            "value": "Taşıyıcı alay eder.",
+            "hide": true
         },
         {
             "key": "ability.equip_taunt.title",
-            "value": "Kalkan"
+            "value": "Alay",
+            "hide": true
         },
         {
             "key": "ability.equip_turn_use.desc",
-            "value": "Her tur sonunda 1 dayanıklılık kaybeder."
-        },
-        {
-            "key": "ability.equip_turn_use.title",
-            "value": "Eşya"
+            "value": "Her turdan sonra 1 dayanıklılık kaybeder.",
+            "hide": true
         },
         {
             "key": "ability.flying.desc",
-            "value": "Kalkanı yok sayabilir."
+            "value": "Alay'ı yoksayar.",
+            "hide": true
         },
         {
             "key": "ability.flying.title",
-            "value": "Uçma"
+            "value": "Uçan",
+            "hide": true
         },
         {
             "key": "ability.fury.desc",
-            "value": "Her tur iki kez saldırabilir."
+            "value": "Tur başına iki kez saldırabilir.",
+            "hide": true
         },
         {
             "key": "ability.fury.title",
-            "value": "Öfke"
+            "value": "Öfke",
+            "hide": true
         },
         {
             "key": "ability.gain_shell_on_artifact_play.desc",
-            "value": "Her konum çağırdığında Kabuk kazan."
+            "value": "Her konum çağırdığınızda kabuk kazanın.",
+            "hide": true
         },
         {
             "key": "ability.gain_shell_on_artifact_play.title",
-            "value": "Kabuk Kazan"
+            "value": "Kabuk Kazan",
+            "hide": true
         },
         {
             "key": "ability.ghost.desc",
-            "value": "Saldırırken hasar almaz."
+            "value": "Saldırırken hasar almaz.",
+            "hide": true
         },
         {
             "key": "ability.ghost.title",
-            "value": "Hayalet"
+            "value": "Hayalet",
+            "hide": true
         },
         {
             "key": "ability.haste.desc",
-            "value": "Hemen saldırabilir."
+            "value": "Hemen saldırabilir.",
+            "hide": false
         },
         {
             "key": "ability.haste.title",
-            "value": "Hız"
+            "value": "Hız",
+            "hide": false
         },
         {
             "key": "ability.ice punch.desc",
-            "value": "Saldırırken hasar almaz."
+            "value": "Saldırırken hasar almaz.",
+            "hide": true
         },
         {
             "key": "ability.ice punch.title",
-            "value": "Buz Yumruğu"
+            "value": "Buz Yumruğu",
+            "hide": true
         },
         {
             "key": "ability.icy_buff1.desc",
-            "value": "Bir düşman donduğunda +1/+1 kazan."
+            "value": "Her donmuş düşman için +1 kazanın.",
+            "hide": false
         },
         {
-            "key": "ability.d5cy_buff1.title",
-            "value": "Buz Güçlendirmesi"
+            "key": "ability.icy_buff1.title",
+            "value": "Buzlu Güçlendirme",
+            "hide": false
         },
         {
             "key": "ability.kill_draw1.desc",
-            "value": "Bu canavarla başka bir canavar öldürdüğünde 1 kart çek."
+            "value": "Bu canavarla başka bir canavarı öldürdüğünüzde 1 kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Çekme"
+            "value": "Çek",
+            "hide": false
         },
         {
             "key": "ability.kill_draw2.desc",
-            "value": "Bu canavarla başka bir canavar öldürdüğünde 2 kart çek."
+            "value": "Bu canavarla başka bir canavarı öldürdüğünüzde 2 kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Çekme"
+            "value": "Çek",
+            "hide": false
         },
         {
             "key": "ability.lifesteal.desc",
-            "value": "Hasar verdikçe oyuncuyu iyileştirir."
+            "value": "Hasar verirken oyuncuyu iyileştirin.",
+            "hide": true
         },
         {
             "key": "ability.lifesteal.title",
-            "value": "Yaşam Çalma"
+            "value": "Yaşam Çalma",
+            "hide": true
         },
         {
             "key": "ability.location_mana_discount.desc",
-            "value": "Aynı elementteki konum kartları 1 mana daha ucuza oynanır."
+            "value": "Aynı element tipi konum kartları 1 mana indirimi alır.",
+            "hide": false
         },
         {
             "key": "ability.location_mana_discount.title",
-            "value": "Konum Aurası"
+            "value": "Konum Aurası",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_1_turn_rush_a3l.desc",
+            "value": "3 veya daha az mana maliyeti olan düşman canavarın kontrolünü 1 tur alın. Hedef hücum kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_1_turn_rush_a3l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_3_turns_3ml.desc",
+            "value": "Düşman canavarın kontrolünü 1 tur alın ve hız verin",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_3_turns_3ml.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_any.desc",
+            "value": "Düşman canavarın kontrolünü 3 tur alın veya evrimleşene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_any.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_any_spell.desc",
+            "value": "Düşman canavarın kontrolünü 3 tur alın veya evrimleşene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_any_spell.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m2l.desc",
+            "value": "4 veya daha az mana maliyeti olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m2l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m3l.desc",
+            "value": "4 veya daha az mana maliyeti olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_enemy_m3l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a2l.desc",
+            "value": "2 saldırı veya daha az olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene veya tahtayı terk edene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a2l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a3l.desc",
+            "value": "3 saldırı veya daha az olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene veya bu kart tahtayı terk edene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a3l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a5l.desc",
+            "value": "5 saldırı veya daha az olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene veya bu kart tahtayı terk edene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_a5l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m2l.desc",
+            "value": "2 mana veya daha az olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene / oyunu terk edene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m2l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m3l.desc",
+            "value": "3 mana veya daha az olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene / oyunu terk edene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m3l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m4.desc",
+            "value": "4 mana maliyeti olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m4.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5+.desc",
+            "value": "5 mana veya daha fazla maliyeti olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene veya bu kart tahtayı terk edene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5+.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5l.desc",
+            "value": "5 mana veya daha az maliyeti olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene veya bu kart tahtayı terk edene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_leaves_m5l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_m5l.desc",
+            "value": "5 veya daha az mana maliyeti olan düşman canavarın kontrolünü 2 tur alın veya evrimleşene kadar",
+            "hide": false
+        },
+        {
+            "key": "ability.mind_control_ability_m5l.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.ongoing_cannot_attack.desc",
+            "value": "Bu canavar düşman hedefleri saldıramaz.",
+            "hide": false
+        },
+        {
+            "key": "ability.ongoing_cannot_attack.title",
+            "value": "Saldırı Yok",
+            "hide": false
+        },
+        {
+            "key": "ability.overkill.desc",
+            "value": "Fazla hasar saldıranı iyileştirir.",
+            "hide": false
+        },
+        {
+            "key": "ability.overkill.title",
+            "value": "Aşırı Öldürme",
+            "hide": false
+        },
+        {
+            "key": "ability.play_add_armor1.desc",
+            "value": "Oynandığında 1 zırh kazanın.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor1.title",
+            "value": "Başlangıç Zırhı 1",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor2.desc",
+            "value": "Oynandığında 2 zırh kazanın.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor2.title",
+            "value": "Başlangıç Zırhı 2",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor3.desc",
+            "value": "Oynandığında 3 zırh kazanın.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_add_armor3.title",
+            "value": "Başlangıç Zırhı 3",
+            "hide": true
         },
         {
             "key": "ability.play_boost_hp_1.desc",
-            "value": "Oyuna girerken başka bir canavara bir sonraki turuna kadar +2 can ver."
+            "value": "Oynandığında başka bir canavara sonraki turunuza kadar +2 HP verin.",
+            "hide": true
         },
         {
             "key": "ability.play_boost_hp_1.title",
-            "value": "Can Kutsaması"
+            "value": "HP Kutsama",
+            "hide": true
         },
         {
             "key": "ability.play_boost2.desc",
-            "value": "Oyuna girerken başka bir canavara bir sonraki turuna kadar +2/+2 ver."
+            "value": "Oynandığında başka bir canavara sonraki turunuza kadar +2/2 verin.",
+            "hide": true
         },
         {
             "key": "ability.play_boost2.title",
-            "value": "Kutsama"
+            "value": "Kutsama",
+            "hide": true
         },
         {
             "key": "ability.play_boost2_permanent.desc",
-            "value": "Oyuna girerken başka bir canavara bir sonraki turuna kadar +2/+2 ver."
+            "value": "Oynandığında başka bir canavara sonraki turunuza kadar +2/2 verin.",
+            "hide": false
         },
         {
             "key": "ability.play_boost2_permanent.title",
-            "value": "Kutsama"
+            "value": "Kutsama",
+            "hide": false
         },
         {
             "key": "ability.play_boost3.desc",
-            "value": "Oyuna girerken başka bir canavara 3 tur boyunca +3/+3 ver."
+            "value": "Oynandığında başka bir canavara 3 tur +3/3 verin",
+            "hide": false
         },
         {
             "key": "ability.play_boost3.title",
-            "value": "Bitki Kutsaması"
+            "value": "Bitki Kutsaması",
+            "hide": false
         },
         {
             "key": "ability.play_burn.desc",
-            "value": "Hedef canavar yanar. Her tur 2 can kaybeder."
+            "value": "Hedef canavar yanma kazanır. Her tur 2 hp kaybeder.",
+            "hide": true
         },
         {
             "key": "ability.play_burn.title",
-            "value": "Yakma"
+            "value": "Yak",
+            "hide": true
         },
         {
             "key": "ability.play_burn_all.desc",
-            "value": "Oyuna girerken tahtadaki diğer tüm canavarları yak."
+            "value": "Oynandığında oyundaki diğer tüm kartları yak.",
+            "hide": true
         },
         {
             "key": "ability.play_burn_all.title",
-            "value": "Herkesi Yak"
+            "value": "Hepsini Yak",
+            "hide": true
         },
         {
             "key": "ability.play_burn_all_minus_fire.desc",
-            "value": "Oyuna girerken tahtadaki Ateş olmayan tüm canavarları yak."
+            "value": "Oynandığında oyundaki diğer tüm ateş dışı canavarları yak.",
+            "hide": true
         },
         {
             "key": "ability.play_burn_all_minus_fire.title",
-            "value": "Herkesi Yak"
+            "value": "Hepsini Yak",
+            "hide": true
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.desc",
-            "value": "Büyü veya Yetenek Bağışıklığı kazan"
+            "value": "Büyü Bağışıklığı veya Yetenek Bağışıklığı kazanın",
+            "hide": false
         },
         {
             "key": "ability.play_choice_spell_ability_immunity.title",
-            "value": "Seçim"
+            "value": "Seçim",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_armor2.desc",
-            "value": "Kalkan veya +2 Zırh kazan"
+            "value": "Alay veya 2 Zırh kazanın",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_armor2.title",
-            "value": "Kalkan/Zırh Seçimi"
+            "value": "Seçim Alay Zırh",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_fury.desc",
-            "value": "Kalkan veya Öfke kazan"
+            "value": "Alay veya Öfke kazanın",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_fury.title",
-            "value": "Seçim"
+            "value": "Seçim",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_rush.desc",
-            "value": "Kalkan veya Hız kazan"
+            "value": "Alay veya Hücum kazanın",
+            "hide": false
         },
         {
             "key": "ability.play_choice_taunt_rush.title",
-            "value": "Seçim"
+            "value": "Seçim",
+            "hide": false
         },
         {
             "key": "ability.play_copy_highest_board_armor.desc",
-            "value": "Tahtadaki en yüksek zırh değerini kopyalar ve bu canavara verir."
+            "value": "Tahtadaki herhangi bir canavarın en yüksek zırh sayısını kopyalayın ve bu canavara uygulayın.",
+            "hide": false
         },
         {
             "key": "ability.play_copy_highest_board_armor.title",
-            "value": "En Yüksek Zırhı Kopyala"
+            "value": "En Yüksek Zırhı Kopyala",
+            "hide": false
+        },
+        {
+            "key": "ability.play_copy_sum_board_armor.title",
+            "value": "Zırh Kopyala",
+            "hide": false
         },
         {
             "key": "ability.play_cure.desc",
-            "value": "Oyuna girerken başka bir canavarın tüm olumsuz durumlarını temizle."
+            "value": "Oynandığında başka bir canavarı tüm olumsuz etkilerden iyileştirin.",
+            "hide": false
         },
         {
             "key": "ability.play_cure.title",
-            "value": "Arındırma"
+            "value": "İyileştir",
+            "hide": false
         },
         {
             "key": "ability.play_cure_bless2.desc",
-            "value": "Oyuna girerken başka bir canavarın tüm olumsuz durumlarını temizle ve +2 can ver."
+            "value": "Oynandığında başka bir canavarı tüm olumsuz etkilerden iyileştirin ve +2 HP verin",
+            "hide": false
         },
         {
             "key": "ability.play_cure_bless2.title",
-            "value": "Arındırma Kutsaması"
+            "value": "İyileştirme Kutsaması",
+            "hide": false
         },
         {
             "key": "ability.play_curse.desc",
-            "value": "Hedef canavar lanetlenir. Her tur 1 saldırı kaybeder."
+            "value": "Hedef canavar lanetlenir. Her tur 1 saldırı kaybeder.",
+            "hide": true
         },
         {
             "key": "ability.play_curse.title",
-            "value": "Lanet"
+            "value": "Lanet",
+            "hide": true
         },
         {
             "key": "ability.play_curse_all.desc",
-            "value": "Oyuna girerken tahtadaki tüm kartları lanetle."
+            "value": "Oynandığında oyundaki tüm kartları lanetleyin.",
+            "hide": false
         },
         {
             "key": "ability.play_curse_all.title",
-            "value": "Herkesi Lanetle"
+            "value": "Hepsini Lanetle",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all_players2.desc",
-            "value": "Oyuna girerken her iki oyuncuya da 2 hasar ver."
+            "value": "Oynandığında her iki oyuncuya 2 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all_players2.title",
-            "value": "Hasar"
+            "value": "Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all1.desc",
-            "value": "Oyuna girerken tahtadaki tüm kartlara 1 hasar ver."
+            "value": "Oynandığında tahtadaki tüm kartlara 1 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all1.title",
-            "value": "Herkese Hasar"
+            "value": "Tüm Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all1_not_self.desc",
-            "value": "Oyuna girerken diğer tüm kartlara 1 hasar ver."
+            "value": "Oynandığında tahtadaki tüm kartlara 1 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all1_not_self.title",
-            "value": "Herkese Hasar"
+            "value": "Tüm Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all2.desc",
-            "value": "Oyuna girerken tüm kartlara 2 hasar ver."
+            "value": "Oynandığında tüm kartlara 2 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all2.title",
-            "value": "Hasar"
+            "value": "Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all2_not_self.desc",
-            "value": "Oyuna girerken diğer tüm kartlara 2 hasar ver."
+            "value": "Oynandığında diğer tüm kartlara 2 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_damage_all2_not_self.title",
-            "value": "Hasar"
+            "value": "Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_damage_electric_all2.desc",
-            "value": "Oyuna girerken tüm düşman canavarlara 2 hasar ver."
+            "value": "Oynandığında düşman canavarlara 2 hasar verin",
+            "hide": false
         },
         {
             "key": "ability.play_damage_electric_all2.title",
-            "value": "Elektrik Hasarı"
+            "value": "Elektrik Hasarı",
+            "hide": false
         },
         {
             "key": "ability.play_damage_frozen2.desc",
-            "value": "Oyuna girerken donmuş tüm canavarlara 2 hasar ver."
+            "value": "Oynandığında donmuş canavarlara 2 hasar verin",
+            "hide": false
         },
         {
             "key": "ability.play_damage_frozen2.title",
-            "value": "Hasar"
+            "value": "Hasar",
+            "hide": false
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.desc",
+            "value": "Oynandığında herhangi bir hedefe 1 hasar verin.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_deal_damage_cards_players2.title",
+            "value": "Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1.desc",
-            "value": "Oyuna girerken herhangi bir hedefe 1 hasar ver."
+            "value": "Oynandığında herhangi bir hedefe 1 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1.title",
-            "value": "Hasar"
+            "value": "Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1_enemy_board_card.desc",
-            "value": "Oyuna girerken düşman tahtasındaki bir hedefe 1 hasar ver."
+            "value": "Oynandığında tahtadaki düşman hedefe 1 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1_enemy_board_card.title",
-            "value": "Hasar"
+            "value": "Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1_self.desc",
-            "value": "Oyuna girerken kendine 1 hasar ver."
+            "value": "Oynandığında kendinize 1 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage1_self.title",
-            "value": "Kendi Hasarı"
+            "value": "Kendi Hasarı",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage2.desc",
-            "value": "Oyuna girerken herhangi bir hedefe 2 hasar ver."
+            "value": "Oynandığında herhangi bir hedefe 2 hasar verin.",
+            "hide": false
         },
         {
             "key": "ability.play_deal_damage2.title",
-            "value": "Hasar"
+            "value": "Hasar",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less2.desc",
-            "value": "Oyuna girerken saldırı değeri 2 veya daha az olan bir canavarı yok et. Yaparsan 1 kart çek."
+            "value": "Oynandığında 2 veya daha az saldırısı olan bir canavarı yok edin. Yaparsanız bir kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less2.title",
-            "value": "Katil"
+            "value": "Suikastçı",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less3.desc",
-            "value": "Oyuna girerken saldırı değeri 3 veya daha az olan bir canavarı yok et. Yaparsan 1 kart çek."
+            "value": "Oynandığında 3 veya daha az saldırısı olan bir canavarı yok edin. Yaparsanız bir kart çekin.",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less3.title",
-            "value": "Katil"
+            "value": "Suikastçı",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less4.desc",
-            "value": "Oyuna girerken saldırı değeri 3 veya daha az olan bir canavarı yok et."
+            "value": "Oynandığında 4 veya daha az saldırısı olan bir canavarı yok edin.",
+            "hide": false
         },
         {
             "key": "ability.play_destroy_less4.title",
-            "value": "Katil"
-        },
-        {
-            "key": "ability.play_discard.desc",
-            "value": "Rakip elinden rastgele bir kart atar."
-        },
-        {
-            "key": "ability.play_discard.title",
-            "value": "Atma"
-        },
-        {
-            "key": "ability.play_discard_draw.desc",
-            "value": "Elinden rastgele bir kart at ve 2 yeni kart çek."
-        },
-        {
-            "key": "ability.play_discard_draw.title",
-            "value": "Kumar"
-        },
-        {
-            "key": "ability.play_discard3.desc",
-            "value": "Rakip elinden rastgele 3 kart atar."
-        },
-        {
-            "key": "ability.play_discard3.title",
-            "value": "Atma"
-        },
-        {
-            "key": "ability.play_draw.desc",
-            "value": "1 kart çek."
-        },
-        {
-            "key": "ability.play_draw.title",
-            "value": "Çekme"
-        },
-        {
-            "key": "ability.play_draw_ice_location.desc",
-            "value": "Tahtada İglo varsa 1 kart çek."
-        },
-        {
-            "key": "ability.play_draw_ice_location.title",
-            "value": "İglo Çekimi"
-        },
-        {
-            "key": "ability.play_enemy_discard.desc",
-            "value": "Rakip elinden rastgele bir kart atar."
-        },
-        {
-            "key": "ability.play_enemy_discard.title",
-            "value": "Atma"
-        },
-        {
-            "key": "ability.play_freeze.desc",
-            "value": "Hedef canavar 1 tur donar."
-        },
-        {
-            "key": "ability.play_freeze.title",
-            "value": "Dondur"
+            "value": "Güçlü Katil",
+            "hide": false
         },
         {
             "key": "ability.play_freeze_all.desc",
-            "value": "Tüm canavarlar donar."
+            "value": "Oynandığında tüm düşman canavarları dondurun.",
+            "hide": false
         },
         {
             "key": "ability.play_freeze_all.title",
-            "value": "Büyük Kar Fırtınası"
+            "value": "Büyük Kar Fırtınası",
+            "hide": false
         },
         {
-            "key": "ability.play_freeze_all_3al.desc",
-            "value": "Saldırı değeri 3 veya daha az olan tüm düşmanlar donar."
+            "key": "ability.play_gain_rush_if_igloo.desc",
+            "value": "Bir buz konumu oyunda ise Hücum kazanın. Hücum, oynandığı turda diğer kartlara saldırmanızı sağlar.",
+            "hide": false
         },
         {
-            "key": "ability.play_freeze_all_3al.title",
-            "value": "Fırtına"
+            "key": "ability.play_gain_rush_if_igloo.title",
+            "value": "Buz Gücü",
+            "hide": false
         },
         {
-            "key": "ability.play_freeze_all_4al.desc",
-            "value": "Saldırı değeri 4 veya daha az olan tüm düşmanlar donar."
+            "key": "ability.play_gota_spawn.desc",
+            "value": "Oynandığında bir Gota çağırın.",
+            "hide": false
         },
         {
-            "key": "ability.play_freeze_all_4al.title",
-            "value": "Fırtına"
+            "key": "ability.play_gota_spawn.title",
+            "value": "Gota Çağrısı",
+            "hide": false
         },
         {
-            "key": "ability.play_gain_attack1_ice_location_played.desc",
-            "value": "Bu oyunda oynanan her İglo için +1 saldırı kazanır."
+            "key": "ability.play_grow.desc",
+            "value": "Oynandığında +1/+1 kazanın.",
+            "hide": false
         },
         {
-            "key": "ability.play_gain_attack1_ice_location_played.title",
-            "value": "İglo Bonusu"
+            "key": "ability.play_grow.title",
+            "value": "Büyüme",
+            "hide": false
         },
         {
-            "key": "ability.play_gain_rush_ice_location.desc",
-            "value": "Tahtada buz konumu varsa Hız kazanır. Hız sayesinde oynandığı tur diğer kartlara saldırabilir."
+            "key": "ability.play_harm_all_blue.desc",
+            "value": "Oynandığında tüm düşman Su canavarlarına 1 hasar verin.",
+            "hide": false
         },
         {
-            "key": "ability.play_gain_rush_ice_location.title",
-            "value": "Buz Hızı"
+            "key": "ability.play_harm_all_blue.title",
+            "value": "Su Kirliliği",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_all_allies1.desc",
-            "value": "Tahtadaki tüm müttefik kartları 1 can iyileştir."
+            "key": "ability.play_harm_red.desc",
+            "value": "Oynandığında hedef Ateş canavarına 3 hasar verin.",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_all_allies1.title",
-            "value": "Müttefik İyileştirme"
+            "key": "ability.play_harm_red.title",
+            "value": "Söndürme",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player2.desc",
-            "value": "Oyuna girerken oyuncuya 4 can iyileştir."
+            "key": "ability.play_heal_if_blue.desc",
+            "value": "Oynandığında müttefik bir Su canavarı oyunda ise hedefe 3 hp iyileştirin.",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player2.title",
-            "value": "Oyuncu Kutsaması"
+            "key": "ability.play_heal_if_blue.title",
+            "value": "Su İyileşmesi",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player4.desc",
-            "value": "Oyuna girerken oyuncuya 4 can iyileştir."
+            "key": "ability.play_increase_max.desc",
+            "value": "Oynandığında hedef +2 maksimum hp kazanır.",
+            "hide": false
         },
         {
-            "key": "ability.play_heal_player4.title",
-            "value": "Oyuncu Kutsaması"
+            "key": "ability.play_increase_max.title",
+            "value": "Güçlendirme",
+            "hide": false
+        },
+        {
+            "key": "ability.play_kabu_spawn.desc",
+            "value": "Oynandığında bir Kabu çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_kabu_spawn.title",
+            "value": "Kabu Çağrısı",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_attack.desc",
+            "value": "Oynandığında hedef -2 saldırı kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_attack.title",
+            "value": "Zayıflatma",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_health.desc",
+            "value": "Oynandığında hedef 2 maksimum hp kaybeder.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_less_health.title",
+            "value": "Canlılık Emme",
+            "hide": false
+        },
+        {
+            "key": "ability.play_mulch.desc",
+            "value": "Oynandığında bu kartı yok edin. 2 kart çekin.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_mulch.title",
+            "value": "Malç",
+            "hide": false
+        },
+        {
+            "key": "ability.play_poison_to_all.desc",
+            "value": "Oynandığında tüm canavarlar zehir kazanır. Her tur 1 hp kaybederler.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_poison_to_all.title",
+            "value": "Zehirli Bulut",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_all_but_1.desc",
+            "value": "Oynandığında hedefin mevcut hp'sini 1'e ayarlayın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_all_but_1.title",
+            "value": "Ölümcül Darbe",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_armor.desc",
+            "value": "Oynandığında hedeften tüm Zırhı kaldırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_armor.title",
+            "value": "Zırh Kırma",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_max.desc",
+            "value": "Oynandığında hedef 4 maksimum hp kaybeder.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_remove_max.title",
+            "value": "Güçsüzleştirme",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sapling_spawn.desc",
+            "value": "Oynandığında bir Fidan çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sapling_spawn.title",
+            "value": "Fidan Çağrısı",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sho_spawn.desc",
+            "value": "Oynandığında bir Sho çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_sho_spawn.title",
+            "value": "Sho Çağrısı",
+            "hide": false
+        },
+        {
+            "key": "ability.play_shuffle_igloo.desc",
+            "value": "Oynandığında bir İglo'yu desteye karıştırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_shuffle_igloo.title",
+            "value": "İglo İnşası",
+            "hide": false
+        },
+        {
+            "key": "ability.play_spawn_kappa.desc",
+            "value": "Oynandığında bir Kappa çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_spawn_kappa.title",
+            "value": "Kappa Çağrısı",
+            "hide": false
         },
         {
             "key": "ability.play_poison.desc",
-            "value": "Hedef canavar zehirlenir. Her tur 1 can kaybeder."
+            "value": "Hedef zehir kazanır. Her tur 1 hp kaybeder.",
+            "hide": true
         },
         {
             "key": "ability.play_poison.title",
-            "value": "Zehir"
+            "value": "Zehir",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all.desc",
-            "value": "Oyuna girerken tahtadaki tüm kartları zehirle."
+            "value": "Oynandığında oyundaki tüm kartları zehirleyin.",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all.title",
-            "value": "Herkesi Zehirle"
+            "value": "Hepsini Zehirle",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all_enemies.desc",
-            "value": "Oyuna girerken tüm düşman canavarları zehirle."
+            "value": "Oynandığında oyundaki tüm düşman canavarları zehirleyin.",
+            "hide": true
         },
         {
             "key": "ability.play_poison_all_enemies.title",
-            "value": "Düşmanları Zehirle"
+            "value": "Düşmanları Zehirle",
+            "hide": true
+        },
+        {
+            "key": "ability.play_poison_self.desc",
+            "value": "Hedef canavar zehir kazanır. Her tur 1 hp kaybeder.",
+            "hide": true
+        },
+        {
+            "key": "ability.play_poison_self.title",
+            "value": "Zehir",
+            "hide": true
         },
         {
             "key": "ability.play_return_target_hand.desc",
-            "value": "Herhangi bir hedefi sahibinin eline geri gönder."
+            "value": "Herhangi bir hedefi orijinal sahibinin eline döndürün.",
+            "hide": false
         },
         {
             "key": "ability.play_return_target_hand.title",
-            "value": "Geri Sektirme"
+            "value": "Yansıma",
+            "hide": false
         },
         {
             "key": "ability.play_roll_attack.desc",
-            "value": "Z6 at, bu kartın saldırı değerini sonuç kadar artır."
+            "value": "D6 atın, bu kartın saldırısını sonuçla artırın.",
+            "hide": false
         },
         {
             "key": "ability.play_roll_attack.title",
-            "value": "Rastgele Saldırı"
+            "value": "Rastgele Saldırı.",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_any.desc",
-            "value": "Oyuna girerken atık destenden bir kartı eline geri al."
+            "value": "Oynandığında atılmış kartlardan birini elinize geri getirin.",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_any.title",
-            "value": "Derin Kazı"
+            "value": "Derin Kazı",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_character.desc",
-            "value": "Oyuna girerken atık destenden bir canavarı eline geri al."
+            "value": "Oynandığında atılmış canavarlardan birini elinize geri getirin.",
+            "hide": false
         },
         {
             "key": "ability.play_select_discard_character.title",
-            "value": "Kazı"
+            "value": "Kaz",
+            "hide": false
         },
         {
             "key": "ability.play_send_hand.desc",
-            "value": "Oyuna girerken bir canavarı sahibinin eline geri gönder."
+            "value": "Oynandığında bir canavarı orijinal sahibinin eline döndürün.",
+            "hide": false
         },
         {
             "key": "ability.play_send_hand.title",
-            "value": "Geri Sektirme"
+            "value": "Yansıma",
+            "hide": false
         },
         {
             "key": "ability.play_set_attack1.desc",
-            "value": "Oyuna girerken seçilen hedefin saldırı değerini 1'e düşür."
+            "value": "Oynandığında seçilen hedefin saldırısı 1'e düşer.",
+            "hide": true
         },
         {
             "key": "ability.play_set_attack1.title",
-            "value": "Elektrikleme"
+            "value": "Elektriklendir",
+            "hide": true
+        },
+        {
+            "key": "ability.play_set_attack3.desc",
+            "value": "Oynandığında seçilen hedefin saldırısı 3'e ayarlanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_set_attack3.title",
+            "value": "Psişik",
+            "hide": false
         },
         {
             "key": "ability.play_silence.desc",
-            "value": "Hedefin yetenekleri iptal edilir."
+            "value": "Hedefin yetenekleri iptal edilir.",
+            "hide": true
         },
         {
             "key": "ability.play_silence.title",
-            "value": "Susturma"
+            "value": "Sessizlik",
+            "hide": true
         },
         {
             "key": "ability.play_silence_curse.desc",
-            "value": "Hedefin yetenekleri iptal edilir ve lanetlenir."
+            "value": "Hedefin yetenekleri iptal edilir ve canavar lanetlenir",
+            "hide": true
         },
         {
             "key": "ability.play_silence_curse.title",
-            "value": "Susturulmuş Lanet"
+            "value": "Sessiz Lanet",
+            "hide": true
+        },
+        {
+            "key": "ability.play_suffer.desc",
+            "value": "Hedef canavar \"Saldırıdan önce 3 hasar alın\" kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_suffer.title",
+            "value": "Yer Bölünmesi",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_cat.desc",
+            "value": "Oynandığında bitişik boş alana bebek Jagur 1/1 çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_cat.title",
+            "value": "Jagur Çağır",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_fractail.desc",
+            "value": "Oynandığında bitişik boş alana bebek Lizo çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_fractail.title",
+            "value": "Lizo Çağır",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_hajiko.desc",
+            "value": "Oynandığında Hajiko çağırın",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_hajiko.title",
+            "value": "Hajiko Çağır",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo.desc",
+            "value": "Oynandığında Igloo çağırın",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo.title",
+            "value": "Igloo Çağır",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo_if_none.desc",
-            "value": "Tahtada İglo yoksa bir İglo çağır."
+            "value": "Zaten yoksa bir Igloo çağırın.",
+            "hide": false
         },
         {
             "key": "ability.play_summon_igloo_if_none.title",
-            "value": "İglo İnşa Et"
+            "value": "Igloo İnşa Et",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo1_freeze3al.desc",
+            "value": "Oynandığında bir Igloo çağırın, sonra 3 veya daha az saldırısı olan düşman canavarı dondurun",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo1_freeze3al.title",
+            "value": "Igloo Çağır / Dondur",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo2.desc",
+            "value": "Oynandığında 2 Igloo çağırın",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo2.title",
+            "value": "Igloo Çağır",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.desc",
+            "value": "Oynandığında 2 Igloo çağırın",
+            "hide": false
+        },
+        {
+            "key": "ability.play_summon_igloo2_freeze3al.title",
+            "value": "Igloo Çağır",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_2ml.desc",
+            "value": "Oynandığında maliyeti 2 veya daha az mana olan hedef canavarı seçerek taraf değiştirin",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_2ml.title",
+            "value": "Sadakat Değişimi",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_any.desc",
+            "value": "Oynandığında tahtadaki herhangi bir canavarı seçerek diğer oyuncuya gönderin.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_any.title",
+            "value": "Sadakat Değişimi",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_any_add_ally_damage2.desc",
+            "value": "Oynandığında tahtadaki herhangi bir canavarı seçerek diğer oyuncuya gönderin.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_any_add_ally_damage2.title",
+            "value": "Sadakat Değişimi",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_give_ally_damage2.desc",
+            "value": "Oynandığında kontrolünüz altındaki bir canavarı seçerek diğer oyuncuya gönderin.",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_give_ally_damage2.title",
+            "value": "Sadakat Değişimi",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_give_discard_2.desc",
+            "value": "Oynandığında kontrolünüz altındaki bir canavarı seçerek diğer oyuncuya gönderin ve yetenekle her tur elden 2 kart atın",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_give_discard_2.title",
+            "value": "Sadakat Değişimi",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.desc",
+            "value": "Oynandığında kontrolünüz altındaki bir canavarı seçerek diğer oyuncuya gönderin ve yetenekle düşman canavarlar +1/+2 kazanır",
+            "hide": false
+        },
+        {
+            "key": "ability.play_switch_sides_give_enemy_perks_a1hp2.title",
+            "value": "Sadakat Değişimi",
+            "hide": false
         },
         {
             "key": "ability.regen_all.desc",
-            "value": "Her tur başında tamamen iyileşir."
+            "value": "Her tur başlangıcında bu canavar tamamen iyileşir.",
+            "hide": false
         },
         {
             "key": "ability.regen_all.title",
-            "value": "Yenilenme"
+            "value": "Yenilenme",
+            "hide": false
         },
         {
             "key": "ability.regen3.desc",
-            "value": "Her tur başında 3 can iyileşir."
+            "value": "Her tur başlangıcında 3 hp iyileşir.",
+            "hide": false
         },
         {
             "key": "ability.regen3.title",
-            "value": "Yenilenme"
+            "value": "Yenilenme",
+            "hide": false
         },
         {
             "key": "ability.rush.desc",
-            "value": "Hemen saldırabilir ama oynandığı tur oyuncuya saldıramaz."
+            "value": "Hemen saldırabilir, ancak oynandığı turda düşman oyuncuyu hedef alamaz.",
+            "hide": false
         },
         {
             "key": "ability.rush.title",
-            "value": "Hız"
+            "value": "Hücum",
+            "hide": false
         },
         {
             "key": "ability.secret_return_hand.desc",
-            "value": "Bir sonraki düşman canavarı oynandığında onu eline geri gönder."
+            "value": "Sonraki düşman canavar oynandığında eline döndürün.",
+            "hide": false
         },
         {
             "key": "ability.secret_return_hand.title",
-            "value": "Telekinezi"
+            "value": "Telekinezi",
+            "hide": false
         },
         {
             "key": "ability.secret_silence.desc",
-            "value": "Tuzak tetiklendiğinde hedefin tüm yeteneklerini iptal eder."
+            "value": "Yakalanan canavarın yeteneklerini temizleyin",
+            "hide": false
         },
         {
             "key": "ability.secret_silence.title",
-            "value": "Susturma"
+            "value": "Sessizlik",
+            "hide": false
         },
         {
             "key": "ability.secret_transform_fish.desc",
-            "value": "Bir sonraki düşman canavarı oynandığında onu 1/1 balığa dönüştür."
+            "value": "Sonraki düşman canavar oynandığında 1/1 balığa dönüştürün.",
+            "hide": false
         },
         {
             "key": "ability.secret_transform_fish.title",
-            "value": "Balığa Dönüştür"
+            "value": "Balığa Dönüştür",
+            "hide": false
         },
         {
             "key": "ability.shell.desc",
-            "value": "İlk vuruşta hiç hasar almaz."
+            "value": "İlk vuruşta hasar almaz.",
+            "hide": true
         },
         {
             "key": "ability.shell.title",
-            "value": "Kabuk"
+            "value": "Kabuk",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_add_attack_suffer.desc",
+            "value": "Hedef canavar \"Saldırıdan önce 3 hasar alın\" kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_attack_suffer.title",
+            "value": "Acı Laneti",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack.desc",
+            "value": "Hedefin saldırmasını engeller.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack.title",
+            "value": "Saldırı Yok",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.desc",
+            "value": "Hedef canavar saldırmaz ve tur sonunda 1 hasar alır.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack_bleed.title",
+            "value": "Taş Ağırlıkları",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.desc",
+            "value": "Alay ekler ve hedefin saldırmasını engeller.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_cant_attack_taunt.title",
+            "value": "Saldırı Yok Alay",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.desc",
+            "value": "Hedef canavar tur sonunda 1 hasar alır.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_damage_per_turn1.title",
+            "value": "Kanama",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_play_extinct.desc",
+            "value": "Hedef kart \"Müttefik canavar oyuna girdiğinde bu kartı yok et\" kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_play_extinct.title",
+            "value": "Soyu Tükendi",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_submerge.desc",
+            "value": "Hedef kart \"Saldırıldığında rakip rastgele 1 kart atar\" kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_add_submerge.title",
+            "value": "Geri Dön",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_attack_2.desc",
+            "value": "Tüm müttefik canavarlar +2/2 kazanır",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_attack_2.title",
+            "value": "Büyüme",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.desc",
+            "value": "Müttefik canavara 1 hasar verin, sonra herhangi bir hedefe 2 hasar verin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_damage1_any_damage2.title",
+            "value": "Kaya Mermileri",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.desc",
+            "value": "Müttefik canavara 1 hasar verin, sonra rastgele düşman canavara iki kez 2 hasar verin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_damage1_random_enemy_2_twice.title",
+            "value": "Kaya Mermileri",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_plant_attack_2.desc",
+            "value": "Tüm müttefik bitki canavarlar +2/2 kazanır",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ally_plant_attack_2.title",
+            "value": "Büyüme",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_armor2.desc",
+            "value": "Hedef 2 zırh kazanır ve canavarlardan gelen doğrudan hasarı 2 azaltır.",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_armor2.title",
+            "value": "Zırh +2",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_attack1.desc",
+            "value": "Hedef 1 saldırı kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_attack1.title",
+            "value": "Saldırı +1",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_coin.desc",
+            "value": "1 mana kazanın",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_coin.title",
+            "value": "Madeni Para",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_cure_2_2.desc",
+            "value": "Hedef kalıcı olarak +2/+2 kazanır ve tüm olumsuz etkileri iyileştirir",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_cure_2_2.title",
+            "value": "İyileştirme Güçlendirme",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage_per_hand.desc",
+            "value": "Tahtadaki tüm canavarların pv'si 1'e düşer.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage_per_hand.title",
+            "value": "Sel",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage1.desc",
+            "value": "1 hasar verin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage1.title",
+            "value": "Hasar",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage2_random.desc",
+            "value": "Rastgele bir düşmana 2 hasar verin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage2_random.title",
+            "value": "Rastgele Düşman Hasarı 2",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage3.desc",
+            "value": "3 hasar verin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_damage3.title",
+            "value": "Hasar",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy.desc",
+            "value": "Hedef canavarı veya konumu yok edin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy.title",
+            "value": "Yok Et",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_all.desc",
+            "value": "Tahtadaki tüm kartları yok edin",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_all.title",
+            "value": "Kıyamet",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_flying.desc",
+            "value": "Hedef uçan canavarı yok edin.",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_destroy_flying.title",
+            "value": "Uçanı Yok Et",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_destroy_frozen_all.desc",
+            "value": "Tahtadaki tüm donmuş kartları yok edin",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_frozen_all.title",
+            "value": "Donmuş Dalga",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_frozen_target.desc",
+            "value": "Donmuş bir canavarı hedef alıp yok edin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_frozen_target.title",
+            "value": "Buz Kırıcı",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_location_target.desc",
+            "value": "Bir konumu hedef alıp yok edin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_location_target.title",
+            "value": "Çığ",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_locations.desc",
+            "value": "Tahtadaki tüm konumları yok edin",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_destroy_locations.title",
+            "value": "Toprak Kayması",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_dragon_summon.desc",
+            "value": "Destenizden bir ejderha seçin ve elinize ekleyin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_dragon_summon.title",
+            "value": "Ejderha Keşfet",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_draw1.desc",
+            "value": "1 kart çekin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_draw1.title",
+            "value": "Çek",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_draw2.desc",
+            "value": "2 kart çekin.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_draw2.title",
+            "value": "Çek",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_electric_ally.desc",
+            "value": "Destenizdeki sonraki 7 kartı bakın ve 1 Elektrik Canavarı elinize alın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_electric_ally.title",
+            "value": "Elektrik Müttefik",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_electric_attack_2.desc",
+            "value": "Tüm Elektrik Canavarlar +2 saldırı kazanır",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_freeze.desc",
+            "value": "Hedefi 1 tur dondurun.",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_freeze.title",
+            "value": "Dondur",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_fury.desc",
+            "value": "Hedef canavar Öfke kazanır. Tur başına iki kez saldırabilir.",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_fury.title",
+            "value": "Öfke",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_haste.desc",
+            "value": "Hedef canavar Hız kazanır. Hemen saldırabilir.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_haste.title",
+            "value": "Hız",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_heal_full.desc",
+            "value": "Hedef kart tamamen iyileşir.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_heal_full.title",
+            "value": "İyileştir",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_hibernate.desc",
+            "value": "Hedef canavar +4/4 kazanır ve sonraki 2 tur uyur.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_hibernate.title",
+            "value": "Kış Uykusu",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_hp2.desc",
+            "value": "Hedef 2 hp kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_hp2.title",
+            "value": "Hp +2",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ice_lower_evolution_counter1.desc",
+            "value": "Buz canavarı için evrimi 1 tur hızlandırın",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ice_lower_evolution_counter1.title",
+            "value": "Buz Evrim Sayacı Azaltma",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ice_treasure.desc",
+            "value": "Destenizdeki sonraki 7 kartı bakın ve 1 buz kartını elinize alın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_ice_treasure.title",
+            "value": "Buz Hazinesi",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_immunity.desc",
+            "value": "Büyü kartları tarafından hedef alınamaz veya hasar verilemez.",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_immunity.title",
+            "value": "Büyü Bağışıklığı",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_kill_lowest_hp.desc",
+            "value": "Oyundaki en düşük HP'li canavarı öldürün (sizinkiler dahil).",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_kill_lowest_hp.title",
+            "value": "Ezmek",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_paralyse.desc",
+            "value": "Hedef canavarı 3 tur felç edin.",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_paralyse.title",
+            "value": "Felç",
+            "hide": true
+        },
+        {
+            "key": "ability.spell_projectile1_repeat.desc",
+            "value": "Rastgele düşman kartına 1 hasar verin.\nX kez tekrarlayın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_projectile1_repeat.title",
+            "value": "Mermiler",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_return_all.desc",
+            "value": "Tahtadaki tüm kartlar orijinal sahibinin eline döner.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_return_all.title",
+            "value": "Deniz Fırtınası",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_send_hand_any.desc",
+            "value": "Oynanan herhangi bir hedefi orijinal sahibinin eline döndürün.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_send_hand_any.title",
+            "value": "Herhangi Eli Gönder",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_send_hand_any_then_discard.desc",
+            "value": "Oynanan herhangi bir hedefi orijinal sahibinin eline döndürün.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_send_hand_any_then_discard.title",
+            "value": "Herhangi Eli Gönder",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_send_hand_enemy.desc",
+            "value": "Hedefi orijinal sahibinin eline döndürün.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_send_hand_enemy.title",
+            "value": "Eli Gönder",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_set_hp_attack_1.desc",
+            "value": "Tahtadaki tüm canavarların pv ve saldırısı 1'e düşer.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_set_hp_attack_1.title",
+            "value": "Sel",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_set_hp_attack_3.desc",
+            "value": "Tahtadaki tüm canavarların pv ve saldırısı 1'e ayarlanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_set_hp_attack_3.title",
+            "value": "Sel",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.desc",
+            "value": "Harcanan mana miktarına göre tahtaya X/X alay gollemi çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_set_stats_equal_mana_selector.title",
+            "value": "Golem Üretimi",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_shell.desc",
+            "value": "Hedef kabuk kazanır, sonraki vuruşta hasarı yoksayar.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_shell.title",
+            "value": "Kabuk",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.desc",
+            "value": "Harcanan mana miktarına göre tahtaya X/X alay gollemi çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_golem_mana_cost.title",
+            "value": "Golem Üretimi",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_hammi.desc",
+            "value": "Elinize üç Hammi çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_hammi.title",
+            "value": "Hammi Saldırısı",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_lampi.desc",
+            "value": "Elinize üç Lampi 2/1 çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_lampi.title",
+            "value": "Lampi Fırtınası",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_pyro.desc",
+            "value": "Elinize yumurta yetenekli üç Pyro 1/1 çağırın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_summon_pyro.title",
+            "value": "Hava Saldırısı",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_taunt.desc",
+            "value": "Hedef canavar Alay kazanır. Diğer canavarlarınız saldırılmaz.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_taunt.title",
+            "value": "Alay",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_trap_sweep.desc",
+            "value": "Tüm düşman tuzaklarını yok edin ve yok edilen her tuzak için +2 saldırı ve +2 hp kazanın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_trap_sweep.title",
+            "value": "Tuzak Temizleme",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_water_treasure.desc",
+            "value": "Destenizdeki sonraki 7 kartı bakın ve 1 su kartını elinize alın.",
+            "hide": false
+        },
+        {
+            "key": "ability.spell_water_treasure.title",
+            "value": "Su Hazinesi",
+            "hide": false
         },
         {
             "key": "ability.stealth.desc",
-            "value": "Eylem yapana kadar hedef alınamaz ve saldıramaz."
+            "value": "Eylem gerçekleştirene kadar hedef alınamaz veya saldırılmaz.",
+            "hide": true
         },
         {
             "key": "ability.stealth.title",
-            "value": "Gizlilik"
+            "value": "Gizlilik",
+            "hide": true
+        },
+        {
+            "key": "ability.survive_damage_add_draw.desc",
+            "value": "Hasar alıp hayatta kaldığında 1 kart çekin",
+            "hide": false
+        },
+        {
+            "key": "ability.survive_damage_add_draw.title",
+            "value": "Kaşif",
+            "hide": false
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.desc",
+            "value": "Bu canavar saldırıyı atlatırsa tüm müttefikler +1 zırh kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.survive_rock_allies_armor1.title",
+            "value": "Hayatta Kalma Zırh Desteği 1",
+            "hide": false
+        },
+        {
+            "key": "ability.taunt.desc",
+            "value": "Diğer canavarlarınız saldırılmaz.",
+            "hide": true
+        },
+        {
+            "key": "ability.taunt.title",
+            "value": "Alay",
+            "hide": true
+        },
+        {
+            "key": "ability.taunt_flying.desc",
+            "value": "Diğer canavarlarınız uçan canavarlardan korunur.",
+            "hide": true
+        },
+        {
+            "key": "ability.taunt_flying.title",
+            "value": "Ulaşma",
+            "hide": true
+        },
+        {
+            "key": "ability.town_aura_electric.desc",
+            "value": "Tüm elektrik canavarları 2 mana daha az maliyetlidir (düşmanlar dahil)",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_electric.title",
+            "value": "Elektrik Aurası",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_fire.desc",
+            "value": "Tüm müttefik ateş canavarları +2 saldırı kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_fire.title",
+            "value": "Ateş Aurası",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_ice_igloo1.desc",
+            "value": "Tüm müttefik buz canavarları +1 HP kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_ice_igloo1.title",
+            "value": "Igloo Aurası",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_ice_igloo2.desc",
+            "value": "Tüm müttefik buz canavarları +1 Saldırı kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_ice_igloo2.title",
+            "value": "Igloo Aurası 2",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_ice_igloo3.desc",
+            "value": "Tüm müttefik buz kartları 1 daha az maliyetlidir.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_ice_igloo3.title",
+            "value": "Igloo Aurası 3",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_plant.desc",
+            "value": "Tüm müttefik bitki canavarları +2 hp kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_plant.title",
+            "value": "Bitki Aurası",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_psychic_change_control_discard.desc",
+            "value": "Düşman canavarının kontrolünü aldığınızda rakip elinden rastgele bir kart atar.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_psychic_change_control_discard.title",
+            "value": "Psişik Aura Atma",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_psychic_played_discard.desc",
+            "value": "Psişik canavar oynadığınızda rakip elinden rastgele bir kart atar.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_psychic_played_discard.title",
+            "value": "Psişik Aura Atma",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_rock.desc",
+            "value": "Tüm müttefik kaya canavarları +2 HP kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_rock.title",
+            "value": "Kaya Aurası",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_shadow.desc",
+            "value": "Tüm müttefik gölge canavarları +2 saldırı kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_shadow.title",
+            "value": "Gölge Aurası",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_water.desc",
+            "value": "Tüm müttefik su kartları 1 daha az maliyetlidir.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_aura_water.title",
+            "value": "Mavi Aura",
+            "hide": false
+        },
+        {
+            "key": "ability.town_mystic_woods_psychic.desc",
+            "value": "Tüm müttefik psişik kartlar 1 mana daha az maliyetlidir.",
+            "hide": false
+        },
+        {
+            "key": "ability.town_mystic_woods_psychic.title",
+            "value": "Psişik Aura",
+            "hide": false
         },
         {
             "key": "ability.trample.desc",
-            "value": "Fazla hasar oyuncunun canına gider."
+            "value": "Fazla hasar oyuncuya verilir.",
+            "hide": true
         },
         {
             "key": "ability.trample.title",
-            "value": "Ezme"
+            "value": "Ezmek",
+            "hide": true
+        },
+        {
+            "key": "ability.transform_to_discarded_card.desc",
+            "value": "Rakip bir canavar kartı attığında bu canavar o canavarın kopyası olur",
+            "hide": false
+        },
+        {
+            "key": "ability.transform_to_discarded_card.title",
+            "value": "Mezar Klonu",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1.desc",
+            "value": "Düşmanlara 1 HP hasar",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1.title",
+            "value": "Tahta Hasarı",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_damage_all2.desc",
+            "value": "Düşman canavar saldırdığında oyundaki tüm düşman canavarlara 2 hasar verin",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_damage_all2.title",
+            "value": "Hasar",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_damage2.desc",
+            "value": "Saldırana 2 HP hasar",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_damage2.title",
+            "value": "Tuzak",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_damage3.desc",
+            "value": "Saldırana 3 HP hasar",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_damage3.title",
+            "value": "Tuzak",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_freeze.desc",
+            "value": "Düşman canavar saldırdıktan sonra 2 tur dondurun.",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_freeze.title",
+            "value": "Donmuş",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_heal4.desc",
+            "value": "Düşman oyuncuyu saldırdığında 4 HP iyileştirin.",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_heal4.title",
+            "value": "Tahkimat",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_mind_control_taunt.desc",
+            "value": "Düşman canavar saldırdıktan sonra 1 tur Zihin Kontrolü ve alay verin",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_mind_control_taunt.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_paralyse3.desc",
+            "value": "Düşman canavar saldırdıktan sonra 3 tur felç edin.",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_paralyse3.title",
+            "value": "Felç",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_poison_all.desc",
+            "value": "Düşman canavar saldırdıktan sonra zehirleyin",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_poison_all.title",
+            "value": "Zehir",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_poison_attacker.desc",
+            "value": "Düşman canavar saldırdıktan sonra zehirleyin",
+            "hide": true
+        },
+        {
+            "key": "ability.trap_poison_attacker.title",
+            "value": "Zehir",
+            "hide": true
+        },
+        {
+            "key": "ability.trap_shock.desc",
+            "value": "Düşman canavar saldırdıktan sonra 1 tur felç edin.",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_shock.title",
+            "value": "Şok Felci",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_shock_all.desc",
+            "value": "Düşman canavar saldırdığında 1 tur felç edin.",
+            "hide": true
+        },
+        {
+            "key": "ability.trap_shock_all.title",
+            "value": "Şok Felci",
+            "hide": true
+        },
+        {
+            "key": "ability.turn_add_armor1.desc",
+            "value": "Her tur başlangıcında +1 zırh kazanın.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_add_armor1.title",
+            "value": "Zırh",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_add_armor2.desc",
+            "value": "Her tur başlangıcında +2 zırh kazanın.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_add_armor2.title",
+            "value": "Zırh",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_add_attack1.desc",
+            "value": "Her tur başlangıcında +1 saldırı kazanın.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_add_attack1.title",
+            "value": "Öfkeli",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_add_attack2.desc",
+            "value": "Her tur başlangıcında +2 saldırı kazanın.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_add_attack2.title",
+            "value": "Öfkeli",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.desc",
+            "value": "Tur başlangıcında oyundaki diğer tüm ateş dışı canavarları yak.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_burn_all_minus_fire.title",
+            "value": "Hepsini Yak",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_damage_allies1.desc",
+            "value": "Her tur başlangıcında tüm müttefik canavarlara 1 hasar verin",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_damage_allies1.title",
+            "value": "İhanet Hasarı",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_damage_allies2.desc",
+            "value": "Her tur başlangıcında tüm müttefik canavarlara 2 hasar verin",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_damage_allies2.title",
+            "value": "İhanet Hasarı",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_end_add_draw.desc",
+            "value": "Her tur sonunda 1 kart çekin",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_end_add_draw.title",
+            "value": "Kaşif II",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_green_heal.desc",
+            "value": "Her tur başlangıcında tüm müttefik bitki canavarları ve konumlar 3 iyileşir.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_green_heal.title",
+            "value": "Bitki İyileştirmesi",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_kill_lowest.desc",
+            "value": "Turunuzun başlangıcında oyundaki en düşük saldırılı canavarları öldürün (sizinkiler dahil).",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_kill_lowest.title",
+            "value": "Orakçı",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_own_discard2.desc",
+            "value": "Oyuncu elinden rastgele 2 kart atar.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_own_discard2.title",
+            "value": "At",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.desc",
+            "value": "Her tur başlangıcında tüm gölge canavarlar +1 saldırı kazanır.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_shadow_add_attack1.title",
+            "value": "Gölge Bonusu",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_start_add_draw.desc",
+            "value": "Her tur başlangıcında 1 kart çekin",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_start_add_draw.title",
+            "value": "Kaşif",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_stealth.desc",
+            "value": "Turunuzun sonunda oyunda en az bir başka canavar varsa gizliliğe girin.",
+            "hide": false
+        },
+        {
+            "key": "ability.turn_stealth.title",
+            "value": "Gizlilik",
+            "hide": false
+        },
+        {
+            "key": "status.addhp.desc",
+            "value": "Bonus hp.",
+            "hide": false
+        },
+        {
+            "key": "status.addhp.title",
+            "value": "HP Bonusu",
+            "hide": false
+        },
+        {
+            "key": "status.addmanacost.desc",
+            "value": "Mana maliyeti şimdi +1",
+            "hide": false
+        },
+        {
+            "key": "status.addmanacost.title",
+            "value": "Zihin Boşaltma",
+            "hide": false
+        },
+        {
+            "key": "status.armor.desc",
+            "value": "Savaş hasarını zırh miktarı kadar azaltır",
+            "hide": false
+        },
+        {
+            "key": "status.armor.title",
+            "value": "Zırh",
+            "hide": false
+        },
+        {
+            "key": "status.attacklossimmunity.desc",
+            "value": "Canavarın saldırısını azalmadan korur.",
+            "hide": false
+        },
+        {
+            "key": "status.attacklossimmunity.title",
+            "value": "Saldırı Kaybı Bağışıklığı",
+            "hide": false
+        },
+        {
+            "key": "status.burned.desc",
+            "value": "Her tur 2 hp kaybeder.",
+            "hide": false
+        },
+        {
+            "key": "status.burned.title",
+            "value": "Yanmış",
+            "hide": false
+        },
+        {
+            "key": "status.characterabilityimmunity.desc",
+            "value": "Canavar yetenekleri tarafından hedef alınamaz",
+            "hide": false
+        },
+        {
+            "key": "status.characterabilityimmunity.title",
+            "value": "Yetenek Bağışıklığı",
+            "hide": false
+        },
+        {
+            "key": "status.cursed.desc",
+            "value": "Her tur 1 saldırı kaybeder.",
+            "hide": false
+        },
+        {
+            "key": "status.cursed.title",
+            "value": "Lanetlenmiş",
+            "hide": false
+        },
+        {
+            "key": "status.damagecap.desc",
+            "value": "Saldırı / karşı saldırı sırasında maksimum 2 hasar alır.",
+            "hide": false
+        },
+        {
+            "key": "status.damagecap.title",
+            "value": "Hasar Sınırı",
+            "hide": false
+        },
+        {
+            "key": "status.deathtouch.desc",
+            "value": "Hasar verdiği her canavarı öldürür.",
+            "hide": false
+        },
+        {
+            "key": "status.deathtouch.title",
+            "value": "Ölüm Dokunuşu",
+            "hide": false
+        },
+        {
+            "key": "status.endturnbleed.desc",
+            "value": "Tur sonunda hasar alın.",
+            "hide": false
+        },
+        {
+            "key": "status.endturnbleed.title",
+            "value": "Tur Sonu Kanama",
+            "hide": false
+        },
+        {
+            "key": "status.flying.desc",
+            "value": "Alay'ı yoksayar.",
+            "hide": false
+        },
+        {
+            "key": "status.flying.title",
+            "value": "Uçan",
+            "hide": false
+        },
+        {
+            "key": "status.frozen.desc",
+            "value": "1 tur hiçbir eylem yapamaz.",
+            "hide": false
+        },
+        {
+            "key": "status.frozen.title",
+            "value": "Donmuş",
+            "hide": false
+        },
+        {
+            "key": "status.fury.desc",
+            "value": "Tur başına iki kez saldırabilir",
+            "hide": false
+        },
+        {
+            "key": "status.fury.title",
+            "value": "Öfke",
+            "hide": false
+        },
+        {
+            "key": "status.intimidate.desc",
+            "value": "Saldırırken hedef karşı saldırı yapmaz.",
+            "hide": false
+        },
+        {
+            "key": "status.intimidate.title",
+            "value": "Korkut",
+            "hide": false
+        },
+        {
+            "key": "status.invincibility.desc",
+            "value": "Yok edilemez.",
+            "hide": false
+        },
+        {
+            "key": "status.invincibility.title",
+            "value": "Yenilmez",
+            "hide": false
+        },
+        {
+            "key": "status.lifesteal.desc",
+            "value": "Hasar verirken oyuncuyu iyileştirin.",
+            "hide": false
+        },
+        {
+            "key": "status.lifesteal.title",
+            "value": "Yaşam Çalma",
+            "hide": false
+        },
+        {
+            "key": "status.overkill.desc",
+            "value": "Fazla hasar saldıranı iyileştirir.",
+            "hide": false
+        },
+        {
+            "key": "status.overkill.title",
+            "value": "Aşırı Öldürme",
+            "hide": false
+        },
+        {
+            "key": "status.paralysed.desc",
+            "value": "Hiçbir eylem yapamaz ve saldırı sıfırdır",
+            "hide": true
+        },
+        {
+            "key": "status.paralysed.title",
+            "value": "Felçli",
+            "hide": true
+        },
+        {
+            "key": "status.poisoned.desc",
+            "value": "Her tur 1 hp kaybeder.",
+            "hide": false
+        },
+        {
+            "key": "status.poisoned.title",
+            "value": "Zehirlenmiş",
+            "hide": false
+        },
+        {
+            "key": "status.protected.desc",
+            "value": "Saldırılmaz. Alay tarafından korunur.",
+            "hide": false
+        },
+        {
+            "key": "status.protected.title",
+            "value": "Korunmuş",
+            "hide": false
+        },
+        {
+            "key": "status.protection.desc",
+            "value": "Diğer kartları korur.",
+            "hide": false
+        },
+        {
+            "key": "status.protection.title",
+            "value": "Alay",
+            "hide": false
+        },
+        {
+            "key": "status.protectionflying.desc",
+            "value": "Diğer kartları uçan canavarlardan korur.",
+            "hide": false
+        },
+        {
+            "key": "status.protectionflying.title",
+            "value": "Ulaşma",
+            "hide": false
+        },
+        {
+            "key": "status.shell.desc",
+            "value": "İlk vuruşta hasar almaz.",
+            "hide": false
+        },
+        {
+            "key": "status.shell.title",
+            "value": "Kabuk",
+            "hide": false
+        },
+        {
+            "key": "status.silenced.desc",
+            "value": "Yetenekleri kullanamaz veya evrimleşemez.",
+            "hide": false
+        },
+        {
+            "key": "status.silenced.title",
+            "value": "Sessizleştirilmiş",
+            "hide": false
+        },
+        {
+            "key": "status.sleep.desc",
+            "value": "3'te 1 uyanma şansı. Saldırılırsa kaldırılır.",
+            "hide": false
+        },
+        {
+            "key": "status.sleep.title",
+            "value": "Uyku",
+            "hide": false
+        },
+        {
+            "key": "status.spellimmunity.desc",
+            "value": "Büyü kartları tarafından hedef alınamaz veya hasar verilemez",
+            "hide": false
+        },
+        {
+            "key": "status.spellimmunity.title",
+            "value": "Büyü Bağışıklığı",
+            "hide": false
+        },
+        {
+            "key": "status.stealth.desc",
+            "value": "Eylem gerçekleştirene kadar hedef alınamaz veya saldırılmaz.",
+            "hide": false
+        },
+        {
+            "key": "status.stealth.title",
+            "value": "Gizlilik",
+            "hide": false
+        },
+        {
+            "key": "status.trample.desc",
+            "value": "Fazla hasar oyuncuya verilir.",
+            "hide": false
+        },
+        {
+            "key": "status.trample.title",
+            "value": "Ezmek",
+            "hide": false
+        },
+        {
+            "key": "status.trapevasion.desc",
+            "value": "Bu yeteneğe sahip canavarlar tuzakları tetiklemez.",
+            "hide": false
+        },
+        {
+            "key": "status.trapevasion.title",
+            "value": "Tuzak Kaçınma",
+            "hide": false
         },
         {
             "key": "trait.cat.title",
-            "value": "Kedi"
+            "value": "Kedi",
+            "hide": false
         },
         {
             "key": "trait.dragon.title",
-            "value": "Ejderha"
+            "value": "Ejderha",
+            "hide": false
         },
         {
             "key": "trait.evolution.title",
-            "value": "Evrim"
+            "value": "Evrim",
+            "hide": false
         },
         {
             "key": "trait.fish.title",
-            "value": "Balık"
+            "value": "Balık",
+            "hide": false
+        },
+        {
+            "key": "trait.growth.title",
+            "value": "Büyüme",
+            "hide": false
+        },
+        {
+            "key": "trait.ice_nature.title",
+            "value": "Buz Doğası",
+            "hide": false
+        },
+        {
+            "key": "trait.igloo.title",
+            "value": "Igloo",
+            "hide": false
+        },
+        {
+            "key": "trait.mind_control_counter.title",
+            "value": "Zihin Kontrolü",
+            "hide": false
+        },
+        {
+            "key": "trait.mind_control_link.title",
+            "value": "Zihin Kontrol Bağlantısı",
+            "hide": false
         },
         {
             "key": "trait.reptile.title",
-            "value": "Sürüngen"
+            "value": "Sürüngen",
+            "hide": false
         },
         {
             "key": "trait.spell_damage.title",
-            "value": "Büyü Hasarı"
+            "value": "Büyü Hasarı",
+            "hide": false
         }
     ]
 }
