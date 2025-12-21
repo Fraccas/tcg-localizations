@@ -118,7 +118,7 @@
         },
         {
             "key": "card.cypha.text",
-            "value": "Intimidate / Stealth"
+            "value": "Intimidate\nStealth"
         },
         {
             "key": "card.cypha_full.text",
@@ -206,7 +206,7 @@
         },
         {
             "key": "card.electric_town.text",
-            "value": "All Electric monsters cost 2 mana less (includes enemies)"
+            "value": "All Electric monsters cost 1 mana less (includes enemies)"
         },
         {
             "key": "card.elegat.text",
@@ -286,11 +286,11 @@
         },
         {
             "key": "card.frojesti.text",
-            "value": "When opponent discards a character, create a zero mana cost copy in your hand\n"
+            "value": "When opponent discards a monster card, create a copy in your hand\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "When opponent discards a character, create a zero mana cost copy in your hand\n"
+            "value": "When opponent discards a monster card, create a copy in your hand"
         },
         {
             "key": "card.froster.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "Whenever another monster dies, draw a card"
+            "value": "Whenever an ally monster dies, draw a card"
         },
         {
             "key": "card.gizord.text",
@@ -342,7 +342,7 @@
         },
         {
             "key": "card.glummy.text",
-            "value": "Flying\n<b>Attack:</b> Poison the target monster"
+            "value": "Flying\n<b>Combat:</b> Poison the target monster"
         },
         {
             "key": "card.gluttrats.text",
@@ -390,7 +390,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "Attack Loss Immunity\nWhenever another monster dies, draw a card"
+            "value": "Attack Loss Immunity\nKill: draw a card"
         },
         {
             "key": "card.hammi.text",
@@ -402,7 +402,7 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "Whenever another monster dies, draw a card"
+            "value": "Attack loss immunity\nKill: Draw a card"
         },
         {
             "key": "card.hato.text",
@@ -478,7 +478,7 @@
         },
         {
             "key": "card.inuk.text",
-            "value": "Flying / Intimidate"
+            "value": "Flying\nIntimidate"
         },
         {
             "key": "card.kincactuz.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lala.text",
-            "value": "<b>Attack:</b> Poison the target monster"
+            "value": "<b>Combat:</b> Poison the target monster"
         },
         {
             "key": "card.lampi.text",
@@ -566,15 +566,15 @@
         },
         {
             "key": "card.minask.text",
-            "value": "Intimidate / Regeneration"
+            "value": "Intimidate\nRegeneration"
         },
         {
             "key": "card.miraibow.text",
-            "value": "Whenever another monster dies, draw 2 cards"
+            "value": "Whenever an enemy monster dies, draw 2 cards"
         },
         {
             "key": "card.mirion.text",
-            "value": "Whenever another monster dies, draw 2 cards"
+            "value": "Whenever an enemy monster dies, draw a card"
         },
         {
             "key": "card.momburn.text",
@@ -698,7 +698,7 @@
         },
         {
             "key": "card.phanti.text",
-            "value": "Whenever another character dies, draw a card"
+            "value": "Taunt\nHas +2 attack during the opponent's turn"
         },
         {
             "key": "card.phyra.text",
@@ -818,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>Attack:</b> Poison the target monster"
+            "value": "<b>Combat:</b> Poison the target monster"
         },
         {
             "key": "card.rootus.text",
@@ -842,7 +842,7 @@
         },
         {
             "key": "card.shawla.text",
-            "value": "Intimidate\n<b>Attack:</b> Poison the target monster"
+            "value": "Intimidate\n<b>Combat:</b> Poison the target monster"
         },
         {
             "key": "card.skatrix.text",
@@ -874,11 +874,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "Flying / Intimidate"
+            "value": "Flying\nIntimidate"
         },
         {
             "key": "card.sovis.text",
-            "value": "Flying / Intimidate"
+            "value": "Flying\nIntimidate"
         },
         {
             "key": "card.sparkig.text",
@@ -922,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Deal 1 damage to an allied monster, then deal 2 damage to a random enemy target twice "
+            "value": "Deal 1 damage to an allied monster, then deal 2 damage to a random enemy monster twice "
         },
         {
             "key": "card.spell_flood.text",
@@ -966,7 +966,7 @@
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "Deal 1 damage to a random enemy card\nRepeat X times"
+            "value": "Deal 1 damage to a random enemy card\nRepeat X-1 times"
         },
         {
             "key": "card.spell_psychic_rain.text",
@@ -1030,11 +1030,11 @@
         },
         {
             "key": "card.spell_wave.text",
-            "value": "Return enemy target to owner's hand"
+            "value": "Return enemy target to original owner's hand"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "Return any target to owner's hand, then the opponent discards a random card from their hand"
+            "value": "Return any target to original owner's hand, then the opponent discards a random card from their hand"
         },
         {
             "key": "card.spiky.text",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Trap:</b> When an enemy attacks, Poison and deal 3 damage to it"
+            "value": "<b>Trap:</b> When an enemy attacks, deal 3 damage to it and poison all enemy monsters"
         },
         {
             "key": "card.trap_psychic_pit.text",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "card.vertron.text",
-            "value": "All Electric monsters cost 2 mana less"
+            "value": "All Electric monsters cost 2 mana less (includes enemies)"
         },
         {
             "key": "card.vertron_full.text",
@@ -1186,7 +1186,7 @@
         },
         {
             "key": "card.viborus.text",
-            "value": "Stealth\nAttack: Poison the target monster"
+            "value": "Stealth\nCombat: Poison the target monster"
         },
         {
             "key": "card.virgo.text",
@@ -1294,7 +1294,7 @@
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Whenever another monster dies, draw 2 cards"
+            "value": "Whenever an ally monster dies, draw 2 cards"
         },
         {
             "key": "card.zithex.text",

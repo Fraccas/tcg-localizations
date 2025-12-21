@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Whenever another ally monster dies, draw a card.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Eat",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Whenever another ally monster dies, draw 2  cards.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Eat",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "When a Water monster you own dies, draw a card.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Summon Egg",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Whenever another enemy monster dies, draw a card.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Eat",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Whenever another enemy monster dies, draw 2 cards.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Eat",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Draw",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "Has +3 attack during the opponent's turn.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Defense",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Gain 2 extra mana per turn for the next 3 turns.",
+            "value": "At the start of each turn, reveal the opponent's hand.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Mana Ring",
+            "value": "Psychic Ring",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Draw",
+            "value": "Kill",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Draw",
+            "value": "Kill",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Deal 1 damage to a random enemy card.\nRepeat X times.",
+            "value": "Deal 1 damage to a random enemy card.\nRepeat X-1 times.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Damage enemies for 1 HP",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Damage Board Electric",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "When an enemy monster attacks, damage all enemy monsters by 2.",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "After an enemy monster attacks, poison it",
+            "value": "After an enemy monster attacks, poison all enemy monsters",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Poison",
+            "value": "Poison all enemy",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "Cannot perform any actions and has zero attack",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Paralyzed",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Cannot use abilities or evolve.",
+            "value": "Remove buffs, debuffs, abilities, and can no longer evolve.",
             "hide": false
         },
         {
