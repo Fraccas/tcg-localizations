@@ -118,7 +118,7 @@
         },
         {
             "key": "card.cypha.text",
-            "value": "威嚇 / ステルス"
+            "value": "威嚇\nステルス"
         },
         {
             "key": "card.cypha_full.text",
@@ -206,7 +206,7 @@
         },
         {
             "key": "card.electric_town.text",
-            "value": "すべての電気モンスターのコストが2マナ少なくなる（敵を含む）"
+            "value": "すべてのエレクトリックモンスターはマナコストが1少なくなる（敵も含む）"
         },
         {
             "key": "card.elegat.text",
@@ -286,11 +286,11 @@
         },
         {
             "key": "card.frojesti.text",
-            "value": "相手がキャラクターを捨てるとき、0マナコストのコピーを手札に作成する\n"
+            "value": "相手がモンスターカードを捨てると、手札にコピーを作成する\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "相手がキャラクターを捨てるとき, 0マナコストのコピーを手札に作成する\n"
+            "value": "相手がモンスターカードを捨てると、手札にコピーを作成する"
         },
         {
             "key": "card.froster.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "他のモンスターが死亡するたび, カードを1枚ドローする"
+            "value": "味方モンスターが死ぬたび、カードを1枚引く"
         },
         {
             "key": "card.gizord.text",
@@ -342,7 +342,7 @@
         },
         {
             "key": "card.glummy.text",
-            "value": "飛行\n<b>攻撃:</b> 対象モンスターを毒する"
+            "value": "飛行\n<b>戦闘:</b> 対象モンスターを毒状態にする"
         },
         {
             "key": "card.gluttrats.text",
@@ -390,7 +390,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "攻撃損失免疫\n他のモンスターが死亡するたび, カードを1枚ドローする"
+            "value": "攻撃減少免疫\nキル：カードを1枚引く"
         },
         {
             "key": "card.hammi.text",
@@ -402,7 +402,7 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "他のモンスターが死亡するたび, カードを1枚ドローする"
+            "value": "攻撃減少免疫\nキル：カードを1枚引く"
         },
         {
             "key": "card.hato.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lala.text",
-            "value": "<b>攻撃:</b> 対象を毒する"
+            "value": "<b>戦闘:</b> 対象モンスターを毒状態にする"
         },
         {
             "key": "card.lampi.text",
@@ -566,15 +566,15 @@
         },
         {
             "key": "card.minask.text",
-            "value": "再生"
+            "value": "威圧\n再生"
         },
         {
             "key": "card.miraibow.text",
-            "value": "他のモンスターが死亡するたび, 2枚のカードをドローする"
+            "value": "敵モンスターが死ぬたび、カードを2枚引く"
         },
         {
             "key": "card.mirion.text",
-            "value": "他のモンスターが死亡するたび, 2枚のカードをドローする"
+            "value": "敵モンスターが死ぬたび、カードを1枚引く"
         },
         {
             "key": "card.momburn.text",
@@ -698,7 +698,7 @@
         },
         {
             "key": "card.phanti.text",
-            "value": "他のモンスターが死亡するたび, 1枚のカードをドローする"
+            "value": "挑発\n相手のターン中に+2攻撃を持つ"
         },
         {
             "key": "card.phyra.text",
@@ -818,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>攻撃:</b> 対象を毒する"
+            "value": "<b>戦闘:</b> 対象モンスターを毒状態にする"
         },
         {
             "key": "card.rootus.text",
@@ -842,7 +842,7 @@
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>攻撃:</b> 対象を毒する"
+            "value": "威圧\n<b>戦闘:</b> 対象モンスターを毒状態にする"
         },
         {
             "key": "card.skatrix.text",
@@ -874,11 +874,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "飛行 / 威嚇"
+            "value": "飛行\n威嚇"
         },
         {
             "key": "card.sovis.text",
-            "value": "飛行 / 威嚇"
+            "value": "飛行\n威嚇"
         },
         {
             "key": "card.sparkig.text",
@@ -922,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "同盟モンスターに1ダメージを与え, 次にランダムな敵対象に2回2ダメージを与える"
+            "value": "味方モンスターに1ダメージを与え、その後ランダムな敵モンスターに2ダメージを2回与える "
         },
         {
             "key": "card.spell_flood.text",
@@ -966,7 +966,7 @@
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "ランダムな敵カードに1ダメージを与える\nX回繰り返す"
+            "value": "ランダムな敵カードに1ダメージを与える\nX-1回繰り返す"
         },
         {
             "key": "card.spell_psychic_rain.text",
@@ -1030,11 +1030,11 @@
         },
         {
             "key": "card.spell_wave.text",
-            "value": "敵対象を所有者の手札に戻す"
+            "value": "敵の対象を元の所有者の手札に戻す"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "任意の対象を所有者の手札に戻し, 次に相手が手札からランダムなカードを捨てる"
+            "value": "任意の対象を元の所有者の手札に戻し、その後相手は手札からランダムに1枚捨てる"
         },
         {
             "key": "card.spiky.text",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>トラップ:</b> 敵が攻撃すると, 毒を与え3ダメージを与える"
+            "value": "<b>トラップ:</b> 敵が攻撃したとき、それに3ダメージを与え、すべての敵モンスターを毒状態にする"
         },
         {
             "key": "card.trap_psychic_pit.text",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "card.vertron.text",
-            "value": "すべての電気モンスターのコストが2マナ少なくなる"
+            "value": "すべてのエレクトリックモンスターはマナコストが2少なくなる（敵も含む）"
         },
         {
             "key": "card.vertron_full.text",
@@ -1186,7 +1186,7 @@
         },
         {
             "key": "card.viborus.text",
-            "value": "ステルス\n攻撃: 対象モンスターを毒する"
+            "value": "ステルス\n戦闘: 対象モンスターを毒状態にする"
         },
         {
             "key": "card.virgo.text",
@@ -1294,7 +1294,7 @@
         },
         {
             "key": "card.ziraffe.text",
-            "value": "他のモンスターが死亡するたび, 2枚のカードをドローする"
+            "value": "味方モンスターが死ぬたび、カードを2枚引く"
         },
         {
             "key": "card.zithex.text",

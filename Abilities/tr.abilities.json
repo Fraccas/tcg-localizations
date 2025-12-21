@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Başka bir müttefik canavar öldüğünde, bir kart çek.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Yeme",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Başka bir müttefik canavar öldüğünde, 2 kart çek.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Yeme",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "Sahip olduğunuz bir su canavarı öldüğünde bir kart çekin.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Yumurta Çağır",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Başka bir düşman canavar öldüğünde, bir kart çek.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Yeme",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Başka bir düşman canavar öldüğünde, 2 kart çek.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Yeme",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Çek",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "Rakip turunda +3 saldırısı vardır.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Savunma",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Sonraki 3 tur boyunca tur başına ekstra 2 mana kazanın.",
+            "value": "Her tur başında rakibin elini göster.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Mana Yüzüğü",
+            "value": "Psişik Yüzük",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Çek",
+            "value": "Öldür",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Çek",
+            "value": "Öldür",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Rastgele düşman kartına 1 hasar verin.\nX kez tekrarlayın.",
+            "value": "Rastgele bir düşman karta 1 hasar ver.\nX-1 kez tekrarla.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Düşmanlara 1 HP hasar",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Elektrikli Tahta Hasarı",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Düşman canavar saldırdığında oyundaki tüm düşman canavarlara 2 hasar verin",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Düşman canavar saldırdıktan sonra zehirleyin",
+            "value": "Düşman canavar saldırdıktan sonra, tüm düşman canavarları zehirle",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Zehir",
+            "value": "Tüm düşmanları zehirle",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "Hiçbir eylem yapamaz ve saldırı sıfırdır",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Felçli",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Yetenekleri kullanamaz veya evrimleşemez.",
+            "value": "Güçlendirmeleri, zayıflatmaları, yetenekleri kaldırır ve artık evrimleşemez.",
             "hide": false
         },
         {

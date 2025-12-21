@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "每当另一个友方怪物死亡时，抽一张牌。",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "吞噬",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "每当另一个友方怪物死亡时，抽两张牌。",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "吞噬",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "当你拥有的水怪物死亡时，抽一张牌。",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "召唤蛋",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "每当另一个敌方怪物死亡时，抽一张牌。",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "吞噬",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "每当另一个敌方怪物死亡时，抽两张牌。",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "吞噬",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "抽牌",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "在对手回合中有+3攻击。",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "防御",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "接下来的3回合每回合获得额外2法力。",
+            "value": "每个回合开始时，揭示对手的手牌。",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "法力戒指",
+            "value": "心灵之环",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "抽牌",
+            "value": "击杀",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "抽牌",
+            "value": "击杀",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "对随机敌牌造成1伤害。\n重复X次。",
+            "value": "对随机敌方卡牌造成1点伤害。\n重复X-1次。",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "对敌人造成1 hp伤害",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "棋盘伤害（电）",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "当敌怪物攻击时，对游戏中所有敌怪物造成2伤害",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "敌怪物攻击后，下毒",
+            "value": "在敌方怪物攻击后，毒化所有敌方怪物",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "毒药",
+            "value": "毒化所有敌人",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "无法执行行动并有零攻击",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "麻痹",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "无法使用能力或进化。",
+            "value": "移除增益、减益、技能，且无法再进化。",
             "hide": false
         },
         {

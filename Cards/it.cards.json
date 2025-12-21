@@ -118,7 +118,7 @@
         },
         {
             "key": "card.cypha.text",
-            "value": "Intimidire / Furtività"
+            "value": "Intimidire\nFurtività"
         },
         {
             "key": "card.cypha_full.text",
@@ -206,7 +206,7 @@
         },
         {
             "key": "card.electric_town.text",
-            "value": "Tutti i mostri Elettrici costano 2 mana in meno (include i nemici)"
+            "value": "Tutti i mostri Elettrici costano 1 mana in meno (include i nemici)"
         },
         {
             "key": "card.elegat.text",
@@ -286,11 +286,11 @@
         },
         {
             "key": "card.frojesti.text",
-            "value": "Quando l'avversario scarta un personaggio, crea una copia a costo zero mana nella tua mano\n"
+            "value": "Quando l'avversario scarta una carta mostro, crea una copia nella tua mano\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "Quando l'avversario scarta un personaggio, crea una copia a costo zero mana nella tua mano\n"
+            "value": "Quando l'avversario scarta una carta mostro, crea una copia nella tua mano"
         },
         {
             "key": "card.froster.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "Ogni volta che un altro mostro muore, pesca una carta"
+            "value": "Ogni volta che un mostro alleato muore, pesca una carta"
         },
         {
             "key": "card.gizord.text",
@@ -342,7 +342,7 @@
         },
         {
             "key": "card.glummy.text",
-            "value": "Volante\n<b>Attacco</b>: Avvelena il mostro bersaglio"
+            "value": "Volare\n<b>Combattimento:</b> Avvelena il mostro bersaglio"
         },
         {
             "key": "card.gluttrats.text",
@@ -390,7 +390,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "Immunità alla Perdita di Attacco\nOgni volta che un altro mostro muore, pesca una carta"
+            "value": "Immunità alla Perdita di Attacco\nUccidi: pesca una carta"
         },
         {
             "key": "card.hammi.text",
@@ -402,7 +402,7 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "Ogni volta che un altro mostro muore, pesca una carta"
+            "value": "Immunità alla Perdita di Attacco\nUccidi: Pesca una carta"
         },
         {
             "key": "card.hato.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lala.text",
-            "value": "<b>Attacco:</b> Avvelena il bersaglio"
+            "value": "<b>Combattimento:</b> Avvelena il mostro bersaglio"
         },
         {
             "key": "card.lampi.text",
@@ -566,15 +566,15 @@
         },
         {
             "key": "card.minask.text",
-            "value": "Rigenerazione"
+            "value": "Intimidazione\nRigenerazione"
         },
         {
             "key": "card.miraibow.text",
-            "value": "Ogni volta che un altro mostro muore, pesca 2 carte"
+            "value": "Ogni volta che un mostro nemico muore, pesca 2 carte"
         },
         {
             "key": "card.mirion.text",
-            "value": "Ogni volta che un altro mostro muore, pesca 2 carte"
+            "value": "Ogni volta che un mostro nemico muore, pesca una carta"
         },
         {
             "key": "card.momburn.text",
@@ -698,7 +698,7 @@
         },
         {
             "key": "card.phanti.text",
-            "value": "Ogni volta che un altro mostro muore, pesca 1 carta"
+            "value": "Provocazione\nHa +2 attacco durante il turno dell'avversario"
         },
         {
             "key": "card.phyra.text",
@@ -818,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>Attacco:</b> Avvelena il bersaglio"
+            "value": "<b>Combattimento:</b> Avvelena il mostro bersaglio"
         },
         {
             "key": "card.rootus.text",
@@ -842,7 +842,7 @@
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>Attacco:</b> Avvelena il bersaglio"
+            "value": "Intimidazione\n<b>Combattimento:</b> Avvelena il mostro bersaglio"
         },
         {
             "key": "card.skatrix.text",
@@ -874,11 +874,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "Volante / Intimidire"
+            "value": "Volante\nIntimidire"
         },
         {
             "key": "card.sovis.text",
-            "value": "Volante / Intimidire"
+            "value": "Volante\nIntimidire"
         },
         {
             "key": "card.sparkig.text",
@@ -922,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Infliggi 1 danno a un mostro alleato, poi infliggi 2 danni a un bersaglio nemico casuale due volte"
+            "value": "Infliggi 1 danno a un mostro alleato, poi infliggi 2 danni a un mostro nemico casuale due volte "
         },
         {
             "key": "card.spell_flood.text",
@@ -966,7 +966,7 @@
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "Infliggi 1 danno a una carta nemica casuale\nRipeti X volte"
+            "value": "Infliggi 1 danno a una carta nemica casuale\nRipeti X-1 volte"
         },
         {
             "key": "card.spell_psychic_rain.text",
@@ -1030,11 +1030,11 @@
         },
         {
             "key": "card.spell_wave.text",
-            "value": "Ritorna bersaglio nemico alla mano del proprietario"
+            "value": "Rimanda il bersaglio nemico nella mano del proprietario originale"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "Ritorna qualsiasi bersaglio alla mano del proprietario, poi l'avversario scarta una carta casuale dalla mano"
+            "value": "Rimanda qualsiasi bersaglio nella mano del proprietario originale, poi l'avversario scarta una carta casuale dalla sua mano"
         },
         {
             "key": "card.spiky.text",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Trappola:</b> Quando un nemico attacca, Avvelena e infliggi 3 danni a esso"
+            "value": "<b>Trappola:</b> Quando un nemico attacca, infliggi 3 danni e avvelena tutti i mostri nemici"
         },
         {
             "key": "card.trap_psychic_pit.text",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "card.vertron.text",
-            "value": "Tutti i mostri Elettrici costano 2 mana in meno"
+            "value": "Tutti i mostri Elettrici costano 2 mana in meno (include i nemici)"
         },
         {
             "key": "card.vertron_full.text",
@@ -1186,7 +1186,7 @@
         },
         {
             "key": "card.viborus.text",
-            "value": "Furtività\nAttacco: Avvelena il mostro bersaglio"
+            "value": "Furtività\nCombattimento: Avvelena il mostro bersaglio"
         },
         {
             "key": "card.virgo.text",
@@ -1294,7 +1294,7 @@
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Ogni volta che un altro mostro muore, pesca 2 carte"
+            "value": "Ogni volta che un mostro alleato muore, pesca 2 carte"
         },
         {
             "key": "card.zithex.text",

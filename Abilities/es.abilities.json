@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Cuando otro monstruo aliado muere, roba una carta.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Comer",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Cuando otro monstruo aliado muere, roba 2 cartas.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Comer",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "Cuando un monstruo de Agua que posees muere, roba una carta.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Invocar Huevo",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Cuando otro monstruo enemigo muere, roba una carta.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Comer",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Cuando otro monstruo enemigo muere, roba 2 cartas.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Comer",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Robar",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "Tiene +3 ataque durante el turno del oponente.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Defensa",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Gana 2 maná extra por turno durante los próximos 3 turnos.",
+            "value": "Al inicio de cada turno, revela la mano del oponente.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Anillo de Maná",
+            "value": "Anillo Psíquico",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Robar",
+            "value": "Matar",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Robar",
+            "value": "Matar",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Inflige 1 daño a una carta enemiga aleatoria.\nRepite X veces.",
+            "value": "Inflige 1 daño a una carta enemiga aleatoria.\nRepite X-1 veces.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Daño a enemigos por 1 PS",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Daño Tablero Eléctrico",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Cuando un monstruo enemigo ataca, daña todos los monstruos enemigos por 2.",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Después de que un monstruo enemigo ataca, envenénalo",
+            "value": "Después de que un monstruo enemigo ataca, envenena a todos los monstruos enemigos",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Veneno",
+            "value": "Envenenar a todos los enemigos",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "No puede realizar acciones y tiene cero ataque",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Paralizado",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "No puede usar habilidades o evolucionar.",
+            "value": "Elimina beneficios, perjuicios, habilidades y ya no puede evolucionar.",
             "hide": false
         },
         {

@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "他の味方モンスターが死ぬたび、カードを1枚引く。",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "捕食",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "他の味方モンスターが死ぬたび、カードを2枚引く。",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "捕食",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "所有するウォーターモンスターが死ぬとカードを1枚引く",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "卵召喚",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "他の敵モンスターが死ぬたび、カードを1枚引く。",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "捕食",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "他の敵モンスターが死ぬたび、カードを2枚引く。",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "捕食",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "ドロー",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "相手のターン中に+3攻撃を持つ。",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "防御",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "次の3ターンごとに追加2マナを得る。",
+            "value": "各ターン開始時に相手の手札を公開する。",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "マナリング",
+            "value": "サイキックリング",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "ドロー",
+            "value": "キル",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "ドロー",
+            "value": "キル",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "ランダムな敵カードに1ダメージを与える。\nX回繰り返す。",
+            "value": "ランダムな敵カードに1ダメージを与える。\nX-1回繰り返す。",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "敵に1 HPのダメージ",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "ボードダメージ（電気）",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "敵モンスターが攻撃したらゲーム中のすべての敵モンスターに2ダメージを与える",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "敵モンスターが攻撃した後, ポイズンする",
+            "value": "敵モンスターが攻撃した後、すべての敵モンスターをポイズンする",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "ポイズン",
+            "value": "敵全体ポイズン",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "何も行動できず攻撃がゼロ",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "麻痺",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "能力を使用したり進化できない。",
+            "value": "バフ、デバフ、能力を解除し、進化できなくなる。",
             "hide": false
         },
         {

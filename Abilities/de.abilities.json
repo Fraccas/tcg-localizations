@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Immer wenn ein anderes verbündetes Monster stirbt, ziehe eine Karte.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Fressen",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Immer wenn ein anderes verbündetes Monster stirbt, ziehe 2 Karten.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Fressen",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "Wenn ein Wasser-Monster stirbt, das du besitzt, ziehe eine Karte.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Ei beschwören",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Immer wenn ein anderes gegnerisches Monster stirbt, ziehe eine Karte.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Fressen",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Immer wenn ein anderes gegnerisches Monster stirbt, ziehe 2 Karten.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Fressen",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Ziehen",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "Hat +3 Angriff während des gegnerischen Zuges.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Verteidigung",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Erhalte 2 zusätzliches Mana pro Zug für die nächsten 3 Züge.",
+            "value": "Zu Beginn jedes Zuges die Hand des Gegners enthüllen.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Mana-Ring",
+            "value": "Psychischer Ring",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Ziehen",
+            "value": "Töten",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Ziehen",
+            "value": "Töten",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Füge einer gegnerischen Karte 1 Schaden zu.\nWiederhole X-mal.",
+            "value": "Füge einer gegnerischen Karte 1 Schaden zu.\nWiederhole X-1-mal.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Schade Gegnern um 1 LP",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Feldschaden Elektrisch",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Wenn ein gegnerisches Monster angreift, schade allen gegnerischen Monstern um 2.",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Nach Angriff eines gegnerischen Monsters vergifte es",
+            "value": "Nachdem ein gegnerisches Monster angreift, vergifte alle gegnerischen Monster",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Gift",
+            "value": "Alle Gegner vergiften",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "Kann keine Aktionen ausführen und hat null Angriff",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Gelähmt",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Kann keine Fähigkeiten nutzen oder sich entwickeln.",
+            "value": "Entfernt Buffs, Debuffs, Fähigkeiten und kann sich nicht mehr entwickeln.",
             "hide": false
         },
         {

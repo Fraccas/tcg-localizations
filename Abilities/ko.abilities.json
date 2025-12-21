@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "다른 아군 몬스터가 죽을 때마다 카드를 1장 뽑습니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "포식",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "다른 아군 몬스터가 죽을 때마다 카드를 2장 뽑습니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "포식",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "당신이 소유한 물 몬스터가 죽을 때 카드를 뽑습니다.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "알 소환",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "다른 적 몬스터가 죽을 때마다 카드를 1장 뽑습니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "포식",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "다른 적 몬스터가 죽을 때마다 카드를 2장 뽑습니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "포식",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "뽑기",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "상대 턴 동안 +3 공격을 가집니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "방어",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "다음 3 턴 동안 턴당 추가 2 마나를 얻습니다.",
+            "value": "매 턴 시작 시 상대 손패 공개.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "마나 반지",
+            "value": "사이킥 링",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "뽑기",
+            "value": "처치",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "뽑기",
+            "value": "처치",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "랜덤 적 카드에 1 데미지를 줍니다.\nX 번 반복합니다.",
+            "value": "무작위 적 카드에 1 데미지를 줍니다.\nX-1번 반복합니다.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "적에게 1 HP 데미지",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "보드 데미지 전기",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "적 몬스터가 공격할 때 게임 중 모든 적 몬스터에게 2 데미지를 줍니다",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "적 몬스터가 공격한 후 독을 줍니다",
+            "value": "적 몬스터가 공격한 후, 모든 적 몬스터를 중독시킵니다",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "독",
+            "value": "적 전체 중독",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "아무런 행동도 할 수 없고 공격이 0입니다",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "마비됨",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "능력을 사용하거나 진화할 수 없습니다.",
+            "value": "버프, 디버프, 능력을 제거하고 더 이상 진화할 수 없습니다.",
             "hide": false
         },
         {

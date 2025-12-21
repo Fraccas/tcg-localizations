@@ -118,7 +118,7 @@
         },
         {
             "key": "card.cypha.text",
-            "value": "위협 / 은신"
+            "value": "위협\n은신"
         },
         {
             "key": "card.cypha_full.text",
@@ -206,7 +206,7 @@
         },
         {
             "key": "card.electric_town.text",
-            "value": "모든 전기 몬스터 비용 2 마나 적음 (적 포함)"
+            "value": "모든 전기 몬스터는 마나 비용이 1 감소합니다 (적 포함)"
         },
         {
             "key": "card.elegat.text",
@@ -286,11 +286,11 @@
         },
         {
             "key": "card.frojesti.text",
-            "value": "상대가 캐릭터 버릴 때 0 마나 비용 복사본을 손패에 생성\n"
+            "value": "상대가 몬스터 카드를 버리면 손에 복사본을 생성합니다\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "상대가 캐릭터 버릴 때 0 마나 비용 복사본을 손패에 생성\n"
+            "value": "상대가 몬스터 카드를 버리면 손에 복사본을 생성합니다"
         },
         {
             "key": "card.froster.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "다른 몬스터가 죽을 때마다 카드 1장 뽑음"
+            "value": "아군 몬스터가 죽을 때마다 카드 1장을 뽑습니다"
         },
         {
             "key": "card.gizord.text",
@@ -342,7 +342,7 @@
         },
         {
             "key": "card.glummy.text",
-            "value": "비행\n<b>공격:</b> 대상 몬스터 독"
+            "value": "비행\n<b>전투:</b> 대상 몬스터를 중독시킵니다"
         },
         {
             "key": "card.gluttrats.text",
@@ -390,7 +390,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "공격 손실 면역\n다른 몬스터가 죽을 때마다 카드 1장 뽑음"
+            "value": "공격 감소 면역\n처치: 카드 1장 뽑기"
         },
         {
             "key": "card.hammi.text",
@@ -402,7 +402,7 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "다른 몬스터가 죽을 때마다 카드 1장 뽑음"
+            "value": "공격 감소 면역\n처치: 카드 1장 뽑기"
         },
         {
             "key": "card.hato.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lala.text",
-            "value": "<b>공격:</b> 대상 독"
+            "value": "<b>전투:</b> 대상 몬스터를 중독시킵니다"
         },
         {
             "key": "card.lampi.text",
@@ -566,15 +566,15 @@
         },
         {
             "key": "card.minask.text",
-            "value": "재생"
+            "value": "위협\n재생"
         },
         {
             "key": "card.miraibow.text",
-            "value": "다른 몬스터가 죽을 때마다 2장 카드 뽑음"
+            "value": "적 몬스터가 죽을 때마다 카드 2장을 뽑습니다"
         },
         {
             "key": "card.mirion.text",
-            "value": "다른 몬스터가 죽을 때마다 2장 카드 뽑음"
+            "value": "적 몬스터가 죽을 때마다 카드 1장을 뽑습니다"
         },
         {
             "key": "card.momburn.text",
@@ -698,7 +698,7 @@
         },
         {
             "key": "card.phanti.text",
-            "value": "다른 몬스터가 죽을 때마다 1장 카드 뽑음"
+            "value": "도발\n상대 턴 동안 공격력 +2"
         },
         {
             "key": "card.phyra.text",
@@ -818,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>공격:</b> 대상 독"
+            "value": "<b>전투:</b> 대상 몬스터를 중독시킵니다"
         },
         {
             "key": "card.rootus.text",
@@ -842,7 +842,7 @@
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>공격:</b> 대상 독"
+            "value": "위협\n<b>전투:</b> 대상 몬스터를 중독시킵니다"
         },
         {
             "key": "card.skatrix.text",
@@ -874,11 +874,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "비행 / 위협"
+            "value": "비행\n위협"
         },
         {
             "key": "card.sovis.text",
-            "value": "비행 / 위협"
+            "value": "비행\n위협"
         },
         {
             "key": "card.sparkig.text",
@@ -922,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "동맹 몬스터에 1 피해, 그 다음 랜덤 적 대상에 두 번 2 피해"
+            "value": "아군 몬스터에게 1 데미지를 준 뒤, 무작위 적 몬스터에게 2 데미지를 두 번 줍니다 "
         },
         {
             "key": "card.spell_flood.text",
@@ -966,7 +966,7 @@
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "랜덤 적 카드에 1 피해\nX번 반복"
+            "value": "무작위 적 카드에 1 데미지를 줍니다\nX-1번 반복합니다"
         },
         {
             "key": "card.spell_psychic_rain.text",
@@ -1030,11 +1030,11 @@
         },
         {
             "key": "card.spell_wave.text",
-            "value": "적 target을 소유자 손패로 반환"
+            "value": "적 대상물을 원래 소유자의 손으로 되돌립니다"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "임의 target을 소유자 손패로 반환, 그 다음 상대 손패에서 랜덤 카드 버림"
+            "value": "어떤 대상이든 원래 소유자의 손으로 되돌린 뒤, 상대는 손에서 무작위 카드를 버립니다"
         },
         {
             "key": "card.spiky.text",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>함정:</b> 적 공격 시 독과 3 피해"
+            "value": "<b>함정:</b> 적이 공격하면 3 데미지를 주고 모든 적 몬스터를 중독시킵니다"
         },
         {
             "key": "card.trap_psychic_pit.text",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "card.vertron.text",
-            "value": "모든 전기 몬스터 비용 2 마나 적음"
+            "value": "모든 전기 몬스터는 마나 비용이 2 감소합니다 (적 포함)"
         },
         {
             "key": "card.vertron_full.text",
@@ -1186,7 +1186,7 @@
         },
         {
             "key": "card.viborus.text",
-            "value": "은신\n공격: 대상 몬스터 독"
+            "value": "은신\n전투: 대상 몬스터를 중독시킵니다"
         },
         {
             "key": "card.virgo.text",
@@ -1294,7 +1294,7 @@
         },
         {
             "key": "card.ziraffe.text",
-            "value": "다른 몬스터가 죽을 때마다 2장 카드 뽑음"
+            "value": "아군 몬스터가 죽을 때마다 카드 2장을 뽑습니다"
         },
         {
             "key": "card.zithex.text",
