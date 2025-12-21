@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Sempre que outro monstro aliado morrer, compre uma carta.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Devorar",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Sempre que outro monstro aliado morrer, compre 2 cartas.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Devorar",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "Quando um monstro de Água que você possui morre, compre uma carta.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Invoque Ovo",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Sempre que outro monstro inimigo morrer, compre uma carta.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Devorar",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Sempre que outro monstro inimigo morrer, compre 2 cartas.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Devorar",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Comprar",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "Tem +3 ataque durante o turno do oponente.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Defesa",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Ganhe 2 mana extra por turno pelos próximos 3 turnos.",
+            "value": "No início de cada turno, revele a mão do oponente.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Anel de Mana",
+            "value": "Anel Psíquico",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Comprar",
+            "value": "Matar",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Comprar",
+            "value": "Matar",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Cause 1 de dano a uma carta inimiga aleatória.\nRepita X vezes.",
+            "value": "Cause 1 de dano a uma carta inimiga aleatória.\nRepita X-1 vezes.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Dano aos inimigos por 1 pv",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Dano ao Tabuleiro Elétrico",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Quando um monstro inimigo ataca, cause 2 de dano a todos os monstros inimigos em jogo",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Após um monstro inimigo atacar, envenene-o",
+            "value": "Depois que um monstro inimigo ataca, envenene todos os monstros inimigos",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Veneno",
+            "value": "Envenenar todos os inimigos",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "Não pode realizar ações e tem ataque zero",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Paralisado",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Não pode usar habilidades ou evoluir.",
+            "value": "Remove bônus, penalidades, habilidades e não pode mais evoluir.",
             "hide": false
         },
         {

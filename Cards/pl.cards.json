@@ -118,7 +118,7 @@
         },
         {
             "key": "card.cypha.text",
-            "value": "Zastraszenie / Ukrycie"
+            "value": "Zastraszenie\nUkrycie"
         },
         {
             "key": "card.cypha_full.text",
@@ -206,7 +206,7 @@
         },
         {
             "key": "card.electric_town.text",
-            "value": "Wszystkie potwory Elektryczne kosztują 2 many mniej (w tym wrogie)"
+            "value": "Wszystkie elektryczne potwory kosztują o 1 manę mniej (wliczając wrogów)"
         },
         {
             "key": "card.elegat.text",
@@ -286,11 +286,11 @@
         },
         {
             "key": "card.frojesti.text",
-            "value": "Gdy przeciwnik odrzuci postać, utwórz kopię o koszcie zero many w twojej ręce\n"
+            "value": "Gdy przeciwnik odrzuci kartę potwora, stwórz kopię na swojej ręce\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "Gdy przeciwnik odrzuci postać, utwórz kopię o koszcie zero many w twojej ręce\n"
+            "value": "Gdy przeciwnik odrzuci kartę potwora, stwórz kopię na swojej ręce"
         },
         {
             "key": "card.froster.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "Za każdym razem, gdy inny potwór umrze, dobierz kartę"
+            "value": "Za każdym razem, gdy sojuszniczy potwór zginie, dobierz kartę"
         },
         {
             "key": "card.gizord.text",
@@ -342,7 +342,7 @@
         },
         {
             "key": "card.glummy.text",
-            "value": "Latający\n<b>Atak</b>: Zatruwaj celowego potwora"
+            "value": "Latanie\n<b>Walka:</b> Zatruj docelowego potwora"
         },
         {
             "key": "card.gluttrats.text",
@@ -390,7 +390,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "Odporność na Utratę Ataku\nZa każdym razem, gdy inny potwór umrze, dobierz kartę"
+            "value": "Odporność na utratę ataku\nZabij: dobierz kartę"
         },
         {
             "key": "card.hammi.text",
@@ -402,7 +402,7 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "Za każdym razem, gdy inny potwór umrze, dobierz kartę"
+            "value": "Odporność na utratę ataku\nZabij: Dobierz kartę"
         },
         {
             "key": "card.hato.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lala.text",
-            "value": "<b>Atak:</b> Zatruwaj cel"
+            "value": "<b>Walka:</b> Zatruj docelowego potwora"
         },
         {
             "key": "card.lampi.text",
@@ -566,15 +566,15 @@
         },
         {
             "key": "card.minask.text",
-            "value": "Regeneracja"
+            "value": "Onieśmielenie\nRegeneracja"
         },
         {
             "key": "card.miraibow.text",
-            "value": "Za każdym razem, gdy inny potwór umrze, dobierz 2 karty"
+            "value": "Za każdym razem, gdy wrogi potwór zginie, dobierz 2 karty"
         },
         {
             "key": "card.mirion.text",
-            "value": "Za każdym razem, gdy inny potwór umrze, dobierz 2 karty"
+            "value": "Za każdym razem, gdy wrogi potwór zginie, dobierz kartę"
         },
         {
             "key": "card.momburn.text",
@@ -698,7 +698,7 @@
         },
         {
             "key": "card.phanti.text",
-            "value": "Za każdym razem, gdy inny potwór umrze, dobierz 1 kartę"
+            "value": "Prowokacja\nMa +2 ataku podczas tury przeciwnika"
         },
         {
             "key": "card.phyra.text",
@@ -818,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>Atak:</b> Zatruwaj cel"
+            "value": "<b>Walka:</b> Zatruj docelowego potwora"
         },
         {
             "key": "card.rootus.text",
@@ -842,7 +842,7 @@
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>Atak:</b> Zatruwaj cel"
+            "value": "Onieśmielenie\n<b>Walka:</b> Zatruj docelowego potwora"
         },
         {
             "key": "card.skatrix.text",
@@ -874,11 +874,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "Latający / Zastraszenie"
+            "value": "Latający\nZastraszenie"
         },
         {
             "key": "card.sovis.text",
-            "value": "Latający / Zastraszenie"
+            "value": "Latający\nZastraszenie"
         },
         {
             "key": "card.sparkig.text",
@@ -922,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "Zadaj 1 obrażenie sprzymierzonemu potworowi, potem zadaj 2 obrażenia losowemu wrogiemu celowi dwa razy"
+            "value": "Zadaj 1 obrażenie sojuszniczemu potworowi, a następnie zadaj 2 obrażenia losowemu wrogiemu potworowi dwa razy "
         },
         {
             "key": "card.spell_flood.text",
@@ -966,7 +966,7 @@
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "Zadaj 1 obrażenie losowej karcie wroga\nPowtórz X razy"
+            "value": "Zadaj 1 obrażenie losowej wrogiej karcie\nPowtórz X-1 razy"
         },
         {
             "key": "card.spell_psychic_rain.text",
@@ -1030,11 +1030,11 @@
         },
         {
             "key": "card.spell_wave.text",
-            "value": "Zwróć wrogi cel do ręki właściciela"
+            "value": "Zwróć wrogi cel do ręki jego pierwotnego właściciela"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "Zwróć dowolny cel do ręki właściciela, potem przeciwnik odrzuca losową kartę z ręki"
+            "value": "Zwróć dowolny cel do ręki jego pierwotnego właściciela, a następnie przeciwnik odrzuca losową kartę ze swojej ręki"
         },
         {
             "key": "card.spiky.text",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Pułapka:</b> Gdy wróg atakuje, Zatruwaj i zadaj 3 obrażenia mu"
+            "value": "<b>Pułapka:</b> Gdy wróg atakuje, zadaj mu 3 obrażenia i zatruj wszystkie wrogie potwory"
         },
         {
             "key": "card.trap_psychic_pit.text",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "card.vertron.text",
-            "value": "Wszystkie potwory Elektryczne kosztują 2 many mniej"
+            "value": "Wszystkie elektryczne potwory kosztują o 2 manę mniej (wliczając wrogów)"
         },
         {
             "key": "card.vertron_full.text",
@@ -1186,7 +1186,7 @@
         },
         {
             "key": "card.viborus.text",
-            "value": "Ukrycie\nAtak: Zatruwaj celowego potwora"
+            "value": "Ukrycie\nWalka: Zatruj docelowego potwora"
         },
         {
             "key": "card.virgo.text",
@@ -1294,7 +1294,7 @@
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Za każdym razem, gdy inny potwór umrze, dobierz 2 karty"
+            "value": "Za każdym razem, gdy sojuszniczy potwór zginie, dobierz 2 karty"
         },
         {
             "key": "card.zithex.text",

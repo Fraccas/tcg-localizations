@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Chaque fois qu'un autre monstre allié meurt, piochez une carte.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Dévorer",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Chaque fois qu'un autre monstre allié meurt, piochez 2 cartes.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Dévorer",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "Quand un monstre d'Eau que vous possédez meurt, piochez une carte.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Invoquer Œuf",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Chaque fois qu'un autre monstre ennemi meurt, piochez une carte.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Dévorer",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Chaque fois qu'un autre monstre ennemi meurt, piochez 2 cartes.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Dévorer",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Pioche",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "A +3 attaque pendant le tour de l'adversaire.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Défense",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Gagnez 2 mana supplémentaire par tour pendant les 3 prochains tours.",
+            "value": "Au début de chaque tour, révélez la main de l'adversaire.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Anneau de Mana",
+            "value": "Anneau Psychique",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Pioche",
+            "value": "Tuer",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Pioche",
+            "value": "Tuer",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Subissez 1 dégât à une carte ennemie aléatoire.\nRépétez X fois.",
+            "value": "Infligez 1 dégât à une carte ennemie aléatoire.\nRépétez X-1 fois.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Dégâts aux ennemis pour 1 PV",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Dégâts Plateau Électrique",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Quand un monstre ennemi attaque, infligez 2 dégâts à tous les monstres ennemis en jeu",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Après qu'un monstre ennemi attaque, empoisonnez-le",
+            "value": "Après qu'un monstre ennemi attaque, empoisonnez tous les monstres ennemis",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Poison",
+            "value": "Empoisonner tous les ennemis",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "Ne peut effectuer aucune action et a zéro attaque",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Paralysé",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Ne peut pas utiliser de capacités ou évoluer.",
+            "value": "Retire les buffs, debuffs, capacités et ne peut plus évoluer.",
             "hide": false
         },
         {

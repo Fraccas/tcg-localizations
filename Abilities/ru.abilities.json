@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Каждый раз, когда другой союзный монстр умирает, возьмите карту.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Пожирать",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Каждый раз, когда другой союзный монстр умирает, возьмите 2 карты.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Пожирать",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "Когда монстр воды, которым вы владеете, умирает, возьмите карту.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Призвать яйцо",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Каждый раз, когда другой вражеский монстр умирает, возьмите карту.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Пожирать",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Каждый раз, когда другой вражеский монстр умирает, возьмите 2 карты.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Пожирать",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Взять",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "Имеет +3 атаки во время хода противника.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Оборона",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Получите 2 дополнительной маны за ход на следующие 3 хода.",
+            "value": "В начале каждого хода раскрыть руку противника.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Кольцо маны",
+            "value": "Психическое кольцо",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Взять",
+            "value": "Убийство",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Взять",
+            "value": "Убийство",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Нанесите 1 урон случайной вражеской карте.\nПовторите X раз.",
+            "value": "Нанесите 1 урон случайной вражеской карте.\nПовторите X-1 раз.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Урон врагам за 1 hp",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Урон доски (Электрический)",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Когда вражеский монстр атакует, нанесите 2 урона всем вражеским монстрам в игре",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "После атаки вражеского монстра отравите его",
+            "value": "После того как вражеский монстр атакует, отравите всех вражеских монстров",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Яд",
+            "value": "Отравить всех врагов",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "Не может выполнять действия и имеет нулевую атаку",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Парализованный",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Не может использовать способности или эволюционировать.",
+            "value": "Снимает баффы, дебаффы, способности и больше не может эволюционировать.",
             "hide": false
         },
         {

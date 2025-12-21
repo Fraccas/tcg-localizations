@@ -118,7 +118,7 @@
         },
         {
             "key": "card.cypha.text",
-            "value": "EINSCHÜCHTERN / VERSTOHLENHEIT"
+            "value": "EINSCHÜCHTERN\nVERSTOHLENHEIT"
         },
         {
             "key": "card.cypha_full.text",
@@ -206,7 +206,7 @@
         },
         {
             "key": "card.electric_town.text",
-            "value": "Alle Elektrischen Monster kosten 2 Mana weniger (einschließlich gegnerischer)"
+            "value": "Alle Elektrischen Monster kosten 1 Mana weniger (einschließlich gegnerischer)"
         },
         {
             "key": "card.elegat.text",
@@ -286,11 +286,11 @@
         },
         {
             "key": "card.frojesti.text",
-            "value": "Wenn der Gegner einen Charakter abwirft, eine Kopie mit 0 Mana-Kosten in deine Hand legen\n"
+            "value": "Wenn der Gegner eine Monsterkarte abwirft, lege eine Kopie in deine Hand\n"
         },
         {
             "key": "card.frojesti_full.text",
-            "value": "Wenn der Gegner einen Charakter abwirft, eine Kopie mit 0 Mana-Kosten in deine Hand legen\n"
+            "value": "Wenn der Gegner eine Monsterkarte abwirft, lege eine Kopie in deine Hand"
         },
         {
             "key": "card.froster.text",
@@ -326,7 +326,7 @@
         },
         {
             "key": "card.gizap.text",
-            "value": "Immer wenn ein anderes Monster stirbt, eine Karte ziehen"
+            "value": "Immer wenn ein anderes verbündetes Monster stirbt, ziehe eine Karte"
         },
         {
             "key": "card.gizord.text",
@@ -342,7 +342,7 @@
         },
         {
             "key": "card.glummy.text",
-            "value": "FLIEGEND\n<b>Angriff:</b> Zielmonster vergiften"
+            "value": "FLIEGEND\n<b>Kampf:</b> Zielmonster vergiften"
         },
         {
             "key": "card.gluttrats.text",
@@ -390,7 +390,7 @@
         },
         {
             "key": "card.hammark.text",
-            "value": "Immun gegen Angriffsverlust\nImmer wenn ein anderes Monster stirbt, eine Karte ziehen"
+            "value": "ANGRIFFSVERLUST-IMMUNITÄT\nTöten: ziehe eine Karte"
         },
         {
             "key": "card.hammi.text",
@@ -402,7 +402,7 @@
         },
         {
             "key": "card.hammish.text",
-            "value": "Immer wenn ein anderes Monster stirbt, eine Karte ziehen"
+            "value": "ANGRIFFSVERLUST-IMMUNITÄT\nTöten: Ziehe eine Karte"
         },
         {
             "key": "card.hato.text",
@@ -498,7 +498,7 @@
         },
         {
             "key": "card.lala.text",
-            "value": "<b>Angriff:</b> Ziel vergiften"
+            "value": "<b>Kampf:</b> Zielmonster vergiften"
         },
         {
             "key": "card.lampi.text",
@@ -566,15 +566,15 @@
         },
         {
             "key": "card.minask.text",
-            "value": "REGENERATION"
+            "value": "EINSCHÜCHTERN\nREGENERATION"
         },
         {
             "key": "card.miraibow.text",
-            "value": "Immer wenn ein anderes Monster stirbt, 2 Karten ziehen"
+            "value": "Immer wenn ein gegnerisches Monster stirbt, ziehe 2 Karten"
         },
         {
             "key": "card.mirion.text",
-            "value": "Immer wenn ein anderes Monster stirbt, 2 Karten ziehen"
+            "value": "Immer wenn ein gegnerisches Monster stirbt, ziehe eine Karte"
         },
         {
             "key": "card.momburn.text",
@@ -698,7 +698,7 @@
         },
         {
             "key": "card.phanti.text",
-            "value": "Immer wenn ein anderes Monster stirbt, 1 Karte ziehen"
+            "value": "SPOTT\nHat +2 Angriff während des gegnerischen Zuges"
         },
         {
             "key": "card.phyra.text",
@@ -818,7 +818,7 @@
         },
         {
             "key": "card.rootulp.text",
-            "value": "<b>Angriff:</b> Ziel vergiften"
+            "value": "<b>Kampf:</b> Zielmonster vergiften"
         },
         {
             "key": "card.rootus.text",
@@ -842,7 +842,7 @@
         },
         {
             "key": "card.shawla.text",
-            "value": "<b>Angriff:</b> Ziel vergiften"
+            "value": "EINSCHÜCHTERN\n<b>Kampf:</b> Zielmonster vergiften"
         },
         {
             "key": "card.skatrix.text",
@@ -874,11 +874,11 @@
         },
         {
             "key": "card.sostar.text",
-            "value": "FLIEGEND / EINSCHÜCHTERN"
+            "value": "FLIEGEND\nEINSCHÜCHTERN"
         },
         {
             "key": "card.sovis.text",
-            "value": "FLIEGEND / EINSCHÜCHTERN"
+            "value": "FLIEGEND\nEINSCHÜCHTERN"
         },
         {
             "key": "card.sparkig.text",
@@ -922,7 +922,7 @@
         },
         {
             "key": "card.spell_falling_stones.text",
-            "value": "1 Schaden an ein verbündetes Monster, dann zweimal 2 Schaden an ein zufälliges gegnerisches Ziel"
+            "value": "Füge einem verbündeten Monster 1 Schaden zu, dann füge einem zufälligen gegnerischen Monster zweimal 2 Schaden zu "
         },
         {
             "key": "card.spell_flood.text",
@@ -966,7 +966,7 @@
         },
         {
             "key": "card.spell_projectiles_fire.text",
-            "value": "1 Schaden an eine zufällige gegnerische Karte\nX-mal wiederholen"
+            "value": "Füge einer zufälligen gegnerischen Karte 1 Schaden zu\nWiederhole X-1-mal"
         },
         {
             "key": "card.spell_psychic_rain.text",
@@ -1030,11 +1030,11 @@
         },
         {
             "key": "card.spell_wave.text",
-            "value": "Gegnerisches Ziel in die Hand des Besitzers zurückkehren"
+            "value": "Gegnerisches Ziel auf die Hand seines ursprünglichen Besitzers zurückgeben"
         },
         {
             "key": "card.spell_wave_psychic.text",
-            "value": "Beliebiges Ziel in die Hand des Besitzers zurückkehren, dann wirft der Gegner eine zufällige Karte ab"
+            "value": "Beliebiges Ziel auf die Hand seines ursprünglichen Besitzers zurückgeben, dann wirft der Gegner eine zufällige Karte aus seiner Hand ab"
         },
         {
             "key": "card.spiky.text",
@@ -1130,7 +1130,7 @@
         },
         {
             "key": "card.trap_poison_spike.text",
-            "value": "<b>Falle:</b> Wenn ein Gegner angreift, vergiften und 3 Schaden verursachen"
+            "value": "<b>Falle:</b> Wenn ein Gegner angreift, füge ihm 3 Schaden zu und vergifte alle gegnerischen Monster"
         },
         {
             "key": "card.trap_psychic_pit.text",
@@ -1178,7 +1178,7 @@
         },
         {
             "key": "card.vertron.text",
-            "value": "Alle Elektrischen Monster kosten 2 Mana weniger"
+            "value": "Alle Elektrischen Monster kosten 2 Mana weniger (einschließlich gegnerischer)"
         },
         {
             "key": "card.vertron_full.text",
@@ -1186,7 +1186,7 @@
         },
         {
             "key": "card.viborus.text",
-            "value": "VERSTOHLENHEIT\nAngriff: Zielmonster vergiften"
+            "value": "VERSTOHLENHEIT\nKampf: Zielmonster vergiften"
         },
         {
             "key": "card.virgo.text",
@@ -1294,7 +1294,7 @@
         },
         {
             "key": "card.ziraffe.text",
-            "value": "Immer wenn ein anderes Monster stirbt, 2 Karten ziehen"
+            "value": "Immer wenn ein verbündetes Monster stirbt, ziehe 2 Karten"
         },
         {
             "key": "card.zithex.text",

@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Za każdym razem, gdy inny sojuszniczy potwór zginie, dobierz kartę.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Pożeranie",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Za każdym razem, gdy inny sojuszniczy potwór zginie, dobierz 2 karty.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Pożeranie",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "Gdy potwór Wody, który posiadasz umiera, dobierz kartę",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Przywołaj Jajo",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Za każdym razem, gdy inny wrogi potwór zginie, dobierz kartę.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Pożeranie",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Za każdym razem, gdy inny wrogi potwór zginie, dobierz 2 karty.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Pożeranie",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Dobierz",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "Ma +3 ataku podczas tury przeciwnika.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Obrona",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Zyskaj 2 dodatkowej many na turę przez następne 3 tury.",
+            "value": "Na początku każdej tury, ujawnij rękę przeciwnika.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Pierścień Many",
+            "value": "Pierścień Psychiczny",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Dobierz",
+            "value": "Zabij",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Dobierz",
+            "value": "Zabij",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Zadaj 1 obrażeń losowej karcie wroga.\nPowtórz X razy.",
+            "value": "Zadaj 1 obrażenie losowej wrogiej karcie.\nPowtórz X-1 razy.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Obrażenia wrogom za 1 hp",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Obrażenia Planszy Elektryczne",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Gdy wrogi potwór atakuje, zadaj 2 obrażeń wszystkim wrogim potworom w grze",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Po ataku wrogiego potwora, otruj go",
+            "value": "Po tym jak wrogi potwór atakuje, zatruj wszystkie wrogie potwory",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Trucizna",
+            "value": "Zatrucie wszystkich wrogów",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "Nie może wykonywać żadnych akcji i ma zero ataku",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Sparaliżowany",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Nie może używać zdolności ani ewoluować.",
+            "value": "Usuń wzmocnienia, osłabienia, umiejętności i nie może już ewoluować.",
             "hide": false
         },
         {

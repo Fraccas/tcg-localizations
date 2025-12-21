@@ -721,6 +721,26 @@
             "hide": false
         },
         {
+            "key": "ability.death_ally_draw.desc",
+            "value": "Ogni volta che un altro mostro alleato muore, pesca una carta.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw.title",
+            "value": "Divorare",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.desc",
+            "value": "Ogni volta che un altro mostro alleato muore, pesca 2 carte.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_ally_draw2.title",
+            "value": "Divorare",
+            "hide": false
+        },
+        {
             "key": "ability.death_blue_draw.desc",
             "value": "Quando un mostro d'Acqua che possiedi muore, pesca una carta.",
             "hide": false
@@ -758,6 +778,26 @@
         {
             "key": "ability.death_egg.title",
             "value": "Evoca Uovo",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.desc",
+            "value": "Ogni volta che un altro mostro nemico muore, pesca una carta.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw.title",
+            "value": "Divorare",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.desc",
+            "value": "Ogni volta che un altro mostro nemico muore, pesca 2 carte.",
+            "hide": false
+        },
+        {
+            "key": "ability.death_enemy_draw2.title",
+            "value": "Divorare",
             "hide": false
         },
         {
@@ -858,6 +898,16 @@
         {
             "key": "ability.defend_draw1.title",
             "value": "Pesca",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.desc",
+            "value": "Ha +3 attacco durante il turno dell'avversario.",
+            "hide": false
+        },
+        {
+            "key": "ability.defense_attack2.title",
+            "value": "Difesa",
             "hide": false
         },
         {
@@ -1052,12 +1102,12 @@
         },
         {
             "key": "ability.equip_reveal_opponent_hand.desc",
-            "value": "Guadagna 2 mana extra per turno per i prossimi 3 turni.",
+            "value": "All'inizio di ogni turno, rivela la mano dell'avversario.",
             "hide": false
         },
         {
             "key": "ability.equip_reveal_opponent_hand.title",
-            "value": "Anello Mana",
+            "value": "Anello Psichico",
             "hide": false
         },
         {
@@ -1152,7 +1202,7 @@
         },
         {
             "key": "ability.kill_draw1.title",
-            "value": "Pesca",
+            "value": "Uccidere",
             "hide": false
         },
         {
@@ -1162,7 +1212,7 @@
         },
         {
             "key": "ability.kill_draw2.title",
-            "value": "Pesca",
+            "value": "Uccidere",
             "hide": false
         },
         {
@@ -2667,7 +2717,7 @@
         },
         {
             "key": "ability.spell_projectile1_repeat.desc",
-            "value": "Subisci 1 danno a una carta nemica casuale.\nRipeti X volte.",
+            "value": "Infliggi 1 danno a una carta nemica casuale.\nRipeti X-1 volte.",
             "hide": false
         },
         {
@@ -3026,6 +3076,16 @@
             "hide": false
         },
         {
+            "key": "ability.trap_all_damage1_electric.desc",
+            "value": "Danno ai nemici per 1 pv",
+            "hide": false
+        },
+        {
+            "key": "ability.trap_all_damage1_electric.title",
+            "value": "Danno Tavolo Elettrico",
+            "hide": false
+        },
+        {
             "key": "ability.trap_damage_all2.desc",
             "value": "Quando un mostro nemico attacca, infliggi 2 danni a tutti i mostri nemici in gioco",
             "hide": false
@@ -3097,12 +3157,12 @@
         },
         {
             "key": "ability.trap_poison_all.desc",
-            "value": "Dopo che un mostro nemico attacca, avvelenalo",
+            "value": "Dopo che un mostro nemico attacca, avvelena tutti i mostri nemici",
             "hide": false
         },
         {
             "key": "ability.trap_poison_all.title",
-            "value": "Veleno",
+            "value": "Avvelena tutti i nemici",
             "hide": false
         },
         {
@@ -3448,12 +3508,12 @@
         {
             "key": "status.paralysed.desc",
             "value": "Non può eseguire azioni e ha attacco zero",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.paralysed.title",
             "value": "Paralizzato",
-            "hide": true
+            "hide": false
         },
         {
             "key": "status.poisoned.desc",
@@ -3507,7 +3567,7 @@
         },
         {
             "key": "status.silenced.desc",
-            "value": "Non può usare abilità o evolvere.",
+            "value": "Rimuove buff, debuff, abilità e non può più evolversi.",
             "hide": false
         },
         {
