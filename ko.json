@@ -2507,6 +2507,58 @@
         {
             "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
             "value": "랭크 멀티플레이에서 다른 플레이어와 대결하세요.\n  \n   내비게이션 바 상단의 버튼으로 PvP 순위를 확인할 수 있습니다. "
+        },
+        {
+            "key": "settings_languages",
+            "value": "언어"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "전체 화면"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "테두리 없는 창"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "창 모드"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "끔"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "매 V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "두 번째 V-Blank마다"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "횟수"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "무제한"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "끔"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "최소"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "전체"
         }
     ]
 }

@@ -2507,6 +2507,58 @@
         {
             "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
             "value": "在排位多人模式中与其他玩家对战。\n\n你可以通过导航栏顶部的按钮查看你的 PvP 排名。"
+        },
+        {
+            "key": "settings_languages",
+            "value": "语言"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "全屏"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "无边框窗口"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "窗口化"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "关闭"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "每次垂直同步"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "每隔一次垂直同步"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "计数"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "帧"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "无限制"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "关闭"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "最低"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "完整"
         }
     ]
 }

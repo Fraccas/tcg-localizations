@@ -2503,6 +2503,58 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "COMPETE IN DAILY AUTOMATED TOURNAMENTS AGAINST OTHER PLAYERS IN OUR TOURNAMENT MODE.\n  EARN ESSENCE CURRENCY, ACCOUNT XP, PACKS, AND GUILD POINTS IN THESE COMPETITIONS!"
+        },
+        {
+            "key": "settings_languages",
+            "value": "Languages"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "Fullscreen"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "Borderless Windowed"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "Windowed"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "Off"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "Every V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "Every Second V-Blank"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "Count"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "Unlimited"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "Off"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "Minimal"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "Full"
         }
     ]
 }

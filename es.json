@@ -2583,6 +2583,58 @@
         {
             "key": "deckbuilder.error.save_failed.title",
             "value": "ERROR AL GUARDAR"
+        },
+        {
+            "key": "settings_languages",
+            "value": "Idiomas"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "Pantalla completa"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "Ventana sin bordes"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "Ventana"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "Desactivado"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "Cada V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "Cada segundo V-Blank"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "Cantidad"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "Sin límite"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "Desactivado"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "Mínimo"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "Completo"
         }
     ]
 }

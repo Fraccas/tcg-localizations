@@ -2507,6 +2507,58 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "TURNUVA MODUMUZDA DİĞER OYUNCULARLA GÜNLÜK OTOMATİK TURNUVALARDA YARIŞ.\nBU YARIŞMALARDA ÖZ PARA BİRİMİ, HESAP TP'Sİ, PAKET VE LONCA PUANI KAZAN!"
+        },
+        {
+            "key": "settings_languages",
+            "value": "Diller"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "Tam ekran"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "Kenarlıksız pencere"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "Pencereli"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "Kapalı"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "Her V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "Her İkinci V-Blank"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "Sayı"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "Sınırsız"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "Kapalı"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "Minimal"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "Tam"
         }
     ]
 }

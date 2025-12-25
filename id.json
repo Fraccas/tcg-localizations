@@ -2503,6 +2503,58 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "IKUTI TURNAMEN OTOMATIS HARIAN MELAWAN PEMAIN LAIN DI MODE TURNAMEN KAMI.\n  DAPATKAN MATA UANG ESSENCE, XP AKUN, PAK DAN POIN GUILD DALAM KOMPETISI INI!"
+        },
+        {
+            "key": "settings_languages",
+            "value": "Bahasa"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "Layar Penuh"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "Jendela Tanpa Batas"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "Jendela"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "Mati"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "Setiap V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "Setiap V-Blank Kedua"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "Jumlah"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "Tidak Terbatas"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "Mati"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "Minimal"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "Penuh"
         }
     ]
 }

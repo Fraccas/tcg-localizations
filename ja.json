@@ -2507,6 +2507,58 @@
         {
             "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
             "value": "ランク制マルチプレイヤーで他のプレイヤーと戦おう。\n  \n   画面上部のナビゲーションバーにあるボタンからPvPランキングを確認できます。 "
+        },
+        {
+            "key": "settings_languages",
+            "value": "言語"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "フルスクリーン"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "ボーダーレスウィンドウ"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "ウィンドウ"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "オフ"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "毎V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "2回に1回のV-Blank"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "カウント"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "無制限"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "オフ"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "最小"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "フル"
         }
     ]
 }

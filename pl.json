@@ -2503,6 +2503,58 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "BIERZ UDZIAŁ W CODZIENNYCH AUTOMATYCZNYCH TURNIEJACH PRZECIWKO INNYM GRACZOM W NASZYM TRYBIE TURNIEJOWYM.\n  ZDOBYWAJ WALUTĘ ESSENCE, PD KONTA, PAKIETY I PUNKTY GILDII W TYCH ROZGRYWKACH!"
+        },
+        {
+            "key": "settings_languages",
+            "value": "Języki"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "Pełny ekran"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "Okno bez ramki"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "Okno"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "Wyłączony"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "Każdy V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "Co drugi V-Blank"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "Liczba"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "Bez limitu"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "Wyłączone"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "Minimalne"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "Pełne"
         }
     ]
 }

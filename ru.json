@@ -2503,6 +2503,58 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "СОРЕВНУЙТЕСЬ В ЕЖЕДНЕВНЫХ АВТОМАТИЧЕСКИХ ТУРНИРАХ ПРОТИВ ДРУГИХ ИГРОКОВ В НАШЕМ ТУРНИРНОМ РЕЖИМЕ.\n  \n  ВЫИГРЫВАЙТЕ ВАЛЮТУ ЭССЕНЦИИ, ОПЫТ АККАУНТА, НАБОРЫ И ОЧКИ ГИЛЬДИИ В ЭТИХ СОРЕВНОВАНИЯХ!"
+        },
+        {
+            "key": "settings_languages",
+            "value": "Языки"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "Полный экран"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "Окно без рамки"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "Оконный режим"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "Выкл."
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "Каждый V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "Каждый второй V-Blank"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "Количество"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "Без ограничений"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "Выкл."
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "Минимальные"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "Полные"
         }
     ]
 }

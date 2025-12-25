@@ -2506,7 +2506,59 @@
         },
         {
             "key": "battle_against_other_players_in_ranked_multiplayer._you_can_check_your_pvp_ranking_using_the_button_at_the_top_of_the_nav_bar.",
-            "value": "AFFRONTEZ D’AUTRES JOUEURS EN MULTIJOUEUR CLASSÉ.\n  \n   Vous pouvez consulter votre classement JcJ avec le bouton en haut de la barre de navigation. "
+            "value": "AFFRONTEZ D'AUTRES JOUEURS EN MULTIJOUEUR CLASSÉ.\n  \n   Vous pouvez consulter votre classement JcJ avec le bouton en haut de la barre de navigation. "
+        },
+        {
+            "key": "settings_languages",
+            "value": "Langues"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "Plein écran"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "Fenêtré sans bordure"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "Fenêtré"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "Désactivé"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "Chaque V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "Chaque deuxième V-Blank"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "Nombre"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "Illimité"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "Désactivé"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "Minimal"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "Complet"
         }
     ]
 }

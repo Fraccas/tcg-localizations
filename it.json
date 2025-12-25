@@ -2503,6 +2503,58 @@
         {
             "key": "compete_in_daily_automated_tournaments_against_other_players_in_our_tournament_m...",
             "value": "PARTECIPA AI TORNEI AUTOMATIZZATI GIORNALIERI CONTRO ALTRI GIOCATORI NELLA NOSTRA MODALITÀ TORNEO.\n  OTTIENI VALUTA ESSENCE, XP DELL'ACCOUNT, BUSTE E PUNTI GILDA IN QUESTE COMPETIZIONI!"
+        },
+        {
+            "key": "settings_languages",
+            "value": "Lingue"
+        },
+        {
+            "key": "settings_screen_fullscreen",
+            "value": "Schermo intero"
+        },
+        {
+            "key": "settings_screen_borderless",
+            "value": "Finestra senza bordi"
+        },
+        {
+            "key": "settings_screen_windowed",
+            "value": "Finestra"
+        },
+        {
+            "key": "settings_vsync_off",
+            "value": "Disattivato"
+        },
+        {
+            "key": "settings_vsync_every",
+            "value": "Ogni V-Blank"
+        },
+        {
+            "key": "settings_vsync_every_second",
+            "value": "Ogni secondo V-Blank"
+        },
+        {
+            "key": "settings_vsync_count",
+            "value": "Conteggio"
+        },
+        {
+            "key": "settings_fps_unit",
+            "value": "FPS"
+        },
+        {
+            "key": "settings_fps_unlimited",
+            "value": "Illimitato"
+        },
+        {
+            "key": "settings_vfx_off",
+            "value": "Disattivato"
+        },
+        {
+            "key": "settings_vfx_minimal",
+            "value": "Minimo"
+        },
+        {
+            "key": "settings_vfx_full",
+            "value": "Completo"
         }
     ]
 }
