@@ -2555,6 +2555,38 @@
         {
             "key": "settings_vfx_full",
             "value": "Full"
+        },
+        {
+            "key": "auto_spectate_start",
+            "value": "AUTO SPECTATE"
+        },
+        {
+            "key": "auto_spectate_stop",
+            "value": "STOP SPECTATE"
+        },
+        {
+            "key": "auto_spectate_searching",
+            "value": "Searching for matches..."
+        },
+        {
+            "key": "auto_spectate_joining",
+            "value": "Joining match..."
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "Select {0} Fairy Power"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "Points"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "{0} Fairy Powers"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "Click to select a fairy power from this team."
         }
     ]
 }

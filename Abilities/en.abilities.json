@@ -91,6 +91,16 @@
             "hide": false
         },
         {
+            "key": "ability.activate_damage4.desc",
+            "value": "Deal 4 damage. Cost 5 mana. ",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_damage4.title",
+            "value": "Side Attack",
+            "hide": false
+        },
+        {
             "key": "ability.activate_discard.desc",
             "value": "Opponent discard a random card from their hand. Uses this monster's action.",
             "hide": false
@@ -111,22 +121,62 @@
             "hide": false
         },
         {
-            "key": "ability.activate_electric.desc",
+            "key": "ability.activate_electric_1.desc",
             "value": "Target gains haste (must be electric monster)",
             "hide": false
         },
         {
-            "key": "ability.activate_electric.title",
+            "key": "ability.activate_electric_1.title",
             "value": "Electric",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.desc",
+            "key": "ability.activate_electric_2.desc",
+            "value": "Target become paralyzed for 2 turns",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_2.title",
+            "value": "Shock Paralyzed",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.desc",
+            "value": "All electric allies gain +1 attack",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.title",
+            "value": "Electric Ally Boost",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_1.desc",
             "value": "Deal 1 damage.",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.title",
+            "key": "ability.activate_fire_1.title",
+            "value": "Fire",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.desc",
+            "value": "Deal 1 damage.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.title",
+            "value": "Fire",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.desc",
+            "value": "Discard a card from your hand and draw a card.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.title",
             "value": "Fire",
             "hide": false
         },
@@ -141,42 +191,132 @@
             "hide": false
         },
         {
-            "key": "ability.activate_ice.desc",
+            "key": "ability.activate_ice_1.desc",
             "value": "Freeze an enemy for 1 turn",
             "hide": false
         },
         {
-            "key": "ability.activate_ice.title",
+            "key": "ability.activate_ice_1.title",
             "value": "Freeze",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.desc",
+            "key": "ability.activate_ice_2.desc",
+            "value": "Summon a Lumini.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_2.title",
+            "value": "Ice",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.desc",
+            "value": "Reduce the evolve counter of an Ice monster by 1.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.title",
+            "value": "Ice",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_1.desc",
             "value": "Heal 2 HP.",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.title",
+            "key": "ability.activate_plant_1.title",
             "value": "Plant",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.desc",
+            "key": "ability.activate_plant_2.desc",
+            "value": "Silence a monster.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_2.title",
+            "value": "Plant",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.desc",
+            "value": "Summon a 1/3 Scalepaw.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.title",
+            "value": "Plant",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_1.desc",
             "value": "Opponent discards a random card from their hand.",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.title",
+            "key": "ability.activate_psychic_1.title",
             "value": "Psychic",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.desc",
+            "key": "ability.activate_psychic_2.desc",
+            "value": "Take control of a minion with 4 or less attack.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_2.title",
+            "value": "Psychic",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.desc",
+            "value": "Give a Monster Stealth.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.title",
+            "value": "Psychic",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_1.desc",
             "value": "Target monster gains +1 Armor",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.title",
+            "key": "ability.activate_rock_1.title",
+            "value": "Rock",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.desc",
+            "value": "Deal 1 damage to everything.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.title",
+            "value": "Rock Blast",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.desc",
+            "value": "Deal 1 damage to everything.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.title",
+            "value": "Rock Blast",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.desc",
+            "value": "Give a monster Taunt, Ability Immunity, and force Flying monsters to target it until your next turn.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.title",
             "value": "Rock",
             "hide": false
         },
@@ -231,6 +371,36 @@
             "hide": false
         },
         {
+            "key": "ability.activate_shadow_1.desc",
+            "value": "Target becomes Cursed",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_1.title",
+            "value": "Shadow",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.desc",
+            "value": "Discard a card and curse all enemy minions for its mana cost",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.title",
+            "value": "Shadow Mass Curse",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.desc",
+            "value": "Summon a monster from your discard pile to the board",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.title",
+            "value": "Shadow Resurrection",
+            "hide": false
+        },
+        {
             "key": "ability.activate_switch_sides.desc",
             "value": "On play, select a target monster to switch sides",
             "hide": false
@@ -241,12 +411,32 @@
             "hide": false
         },
         {
-            "key": "ability.activate_water.desc",
+            "key": "ability.activate_water_1.desc",
             "value": "Draw a card.",
             "hide": false
         },
         {
-            "key": "ability.activate_water.title",
+            "key": "ability.activate_water_1.title",
+            "value": "Water",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.desc",
+            "value": "Transform an enemy monster into a Boilin.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.title",
+            "value": "Water",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.desc",
+            "value": "Gain 2 Mana this turn.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.title",
             "value": "Water",
             "hide": false
         },

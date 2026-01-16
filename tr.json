@@ -2559,6 +2559,22 @@
         {
             "key": "settings_vfx_full",
             "value": "Tam"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "{0} Peri Gücü Seç"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "Puan"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "{0} Peri Güçleri"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "Bu takımdan bir peri gücü seçmek için tıklayın."
         }
     ]
 }

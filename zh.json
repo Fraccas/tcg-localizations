@@ -2559,6 +2559,22 @@
         {
             "key": "settings_vfx_full",
             "value": "完整"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "选择{0}仙灵之力"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "点数"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "{0}仙灵之力"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "点击从该队伍中选择一个仙灵之力。"
         }
     ]
 }

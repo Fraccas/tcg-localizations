@@ -417,36 +417,100 @@
             "value": "<b>Play:</b> Target enemy monster's attack is reduced to 1"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "An ancient Electric Fracctal Fairy that grants haste to an electric monster"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "An ancient Electric Fracctal Fairy that can paralyze a target for 2 turns"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "An ancient Electric Fracctal Fairy that grants +1 attack to all electric allies"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "An ancient Fire Fracctal Fairy that can deal 1 damage to any card or player"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "An ancient Fire Fracctal Fairy that can burn a enemy monster"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "An ancient Fire Fracctal Fairy that can discard a card from your hand and draw a new card"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "An ancient Ice Fracctal Fairy that can freeze any card for 1 turn"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "An ancient Ice Fracctal Fairy that can summon a Lumini"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "An ancient Ice Fracctal Fairy that can reduce the evolve counter of an Ice monster"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "An ancient Plant Fracctal Fairy that heals characters and players for 2 HP"
         },
         {
-            "key": "card.hero_psychic.text",
+            "key": "card.hero_plant_2.text",
+            "value": "An ancient Plant Fracctal Fairy that can silence a monster"
+        },
+        {
+            "key": "card.hero_plant_3.text",
+            "value": "An ancient Plant Fracctal Fairy that can summon a Scalepaw"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
             "value": "An ancient Psychic Fracctal Fairy that can force your opponent to discard a card from their hand"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_psychic_2.text",
+            "value": "An ancient Psychic Fracctal Fairy that can take control of a weak enemy minion"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "An ancient Psychic Fracctal Fairy that can grant Stealth to a monster"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "An ancient Rock Fracctal Fairy that grants +1 Armor to any card on the board"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "An ancient Shadow Fracctal Fairy that can curse any card in play"
+            "key": "card.hero_rock_2.text",
+            "value": "An ancient Rock Fracctal Fairy that deals 1 damage to everything"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "An ancient Rock Fracctal Fairy that grants a monster Taunt, Ability Immunity, and forces Flying monsters to target it"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "An ancient Shadow Fracctal Fairy that can curse any monster in play"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "An ancient Shadow Fracctal Fairy that can mass curse enemies"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "An ancient Shadow Fracctal Fairy that can resurrect fallen monsters"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "An ancient Water Fracctal Fairy that allows the player to draw an extra card"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "An ancient Water Fracctal Fairy that can transform an enemy monster into a Boilin"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "An ancient Water Fracctal Fairy that can grant 2 extra Mana this turn"
         },
         {
             "key": "card.hippoh.text",
@@ -702,7 +766,7 @@
         },
         {
             "key": "card.phyra.text",
-            "value": "<b>Action (3):</b> Deal 2 damage (Repeatable)\n<b>Death:</b> Summon a Phyra egg"
+            "value": "<b>Action (5):</b> Deal 4 damage\n<b>Death:</b> Summon a Phyra egg"
         },
         {
             "key": "card.phyra_egg.text",

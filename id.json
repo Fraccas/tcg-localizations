@@ -2555,6 +2555,22 @@
         {
             "key": "settings_vfx_full",
             "value": "Penuh"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "Pilih Kekuatan Peri {0}"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "Poin"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "Kekuatan Peri {0}"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "Klik untuk memilih kekuatan peri dari tim ini."
         }
     ]
 }

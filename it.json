@@ -2555,6 +2555,22 @@
         {
             "key": "settings_vfx_full",
             "value": "Completo"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "Seleziona Potere Fatato {0}"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "Punti"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "Poteri Fatati {0}"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "Clicca per selezionare un potere fatato di questa squadra."
         }
     ]
 }

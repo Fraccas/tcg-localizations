@@ -2555,6 +2555,22 @@
         {
             "key": "settings_vfx_full",
             "value": "Pełne"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "Wybierz moc wróżki {0}"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "Punkty"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "Moce wróżek {0}"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "Kliknij, aby wybrać moc wróżki z tej drużyny."
         }
     ]
 }

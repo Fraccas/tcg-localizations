@@ -2559,6 +2559,22 @@
         {
             "key": "settings_vfx_full",
             "value": "전체"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "{0} 요정 파워 선택"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "포인트"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "{0} 요정 파워"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "이 팀의 요정 파워를 선택하려면 클릭하세요."
         }
     ]
 }

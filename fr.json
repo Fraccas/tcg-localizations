@@ -2559,6 +2559,22 @@
         {
             "key": "settings_vfx_full",
             "value": "Complet"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "Sélectionner le Pouvoir de Fée {0}"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "Points"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "Pouvoirs de Fée {0}"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "Cliquez pour sélectionner un pouvoir de fée de cette équipe."
         }
     ]
 }

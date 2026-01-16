@@ -2555,6 +2555,22 @@
         {
             "key": "settings_vfx_full",
             "value": "Полные"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "Выбрать силу феи {0}"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "Очки"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "Силы фей {0}"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "Нажмите, чтобы выбрать силу феи этой команды."
         }
     ]
 }

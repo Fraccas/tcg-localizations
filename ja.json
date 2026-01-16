@@ -2559,6 +2559,22 @@
         {
             "key": "settings_vfx_full",
             "value": "フル"
+        },
+        {
+            "key": "fairy_power_select.title",
+            "value": "{0}フェアリーパワーを選択"
+        },
+        {
+            "key": "fairy_power_select.points",
+            "value": "ポイント"
+        },
+        {
+            "key": "fairy_power_hover.title",
+            "value": "{0}フェアリーパワー"
+        },
+        {
+            "key": "fairy_power_hover.subtitle",
+            "value": "クリックしてこのチームのフェアリーパワーを選択してください。"
         }
     ]
 }
