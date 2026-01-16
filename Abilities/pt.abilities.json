@@ -111,22 +111,62 @@
             "hide": false
         },
         {
-            "key": "ability.activate_electric.desc",
+            "key": "ability.activate_electric_1.desc",
             "value": "O alvo ganha pressa (deve ser um monstro elétrico)",
             "hide": false
         },
         {
-            "key": "ability.activate_electric.title",
+            "key": "ability.activate_electric_1.title",
             "value": "Elétrico",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.desc",
+            "key": "ability.activate_electric_2.desc",
+            "value": "O alvo fica paralisado por 2 turnos",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_2.title",
+            "value": "Paralisia de Choque",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.desc",
+            "value": "Todos os aliados elétricos ganham +1 de ataque",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.title",
+            "value": "Impulso de Aliado Elétrico",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_1.desc",
             "value": "Cause 1 de dano.",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.title",
+            "key": "ability.activate_fire_1.title",
+            "value": "Fogo",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.desc",
+            "value": "Cause 1 de dano.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.title",
+            "value": "Fogo",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.desc",
+            "value": "Descarte uma carta da sua mão e compre uma carta.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.title",
             "value": "Fogo",
             "hide": false
         },
@@ -141,42 +181,132 @@
             "hide": false
         },
         {
-            "key": "ability.activate_ice.desc",
+            "key": "ability.activate_ice_1.desc",
             "value": "Congele um inimigo por 1 turno",
             "hide": false
         },
         {
-            "key": "ability.activate_ice.title",
+            "key": "ability.activate_ice_1.title",
             "value": "Congelar",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.desc",
+            "key": "ability.activate_ice_2.desc",
+            "value": "Invoque um Lumini.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_2.title",
+            "value": "Congelar",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.desc",
+            "value": "Reduza o contador de evolução de um monstro de Gelo em 1.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.title",
+            "value": "Congelar",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_1.desc",
             "value": "Cure 2 HP.",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.title",
+            "key": "ability.activate_plant_1.title",
             "value": "Planta",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.desc",
+            "key": "ability.activate_plant_2.desc",
+            "value": "Silencie um monstro.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_2.title",
+            "value": "Planta",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.desc",
+            "value": "Invoque um Scalepaw 1/3.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.title",
+            "value": "Planta",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_1.desc",
             "value": "O oponente descarta uma carta aleatória da mão.",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.title",
+            "key": "ability.activate_psychic_1.title",
             "value": "Psíquico",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.desc",
+            "key": "ability.activate_psychic_2.desc",
+            "value": "Assuma o controle de um lacaio com 4 ou menos de ataque.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_2.title",
+            "value": "Psíquico",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.desc",
+            "value": "Dê Furtividade a um Monstro.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.title",
+            "value": "Psíquico",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_1.desc",
             "value": "O monstro alvo ganha +1 de Armadura",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.title",
+            "key": "ability.activate_rock_1.title",
+            "value": "Rocha",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.desc",
+            "value": "Cause 1 de dano a tudo.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.title",
+            "value": "Explosão de Rocha",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.desc",
+            "value": "Cause 1 de dano a tudo.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.title",
+            "value": "Explosão de Rocha",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.desc",
+            "value": "Dê a um monstro Provocar, Imunidade a Habilidades e force monstros Voadores a atacá-lo até seu próximo turno.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.title",
             "value": "Rocha",
             "hide": false
         },
@@ -231,6 +361,36 @@
             "hide": false
         },
         {
+            "key": "ability.activate_shadow_1.desc",
+            "value": "O alvo fica Amaldiçoado",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_1.title",
+            "value": "Sombra",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.desc",
+            "value": "Descarte uma carta e amaldiçoe todos os lacaios inimigos pelo custo de mana dela",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.title",
+            "value": "Maldição em Massa das Sombras",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.desc",
+            "value": "Invoque um monstro do seu descarte para o campo",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.title",
+            "value": "Ressurreição das Sombras",
+            "hide": false
+        },
+        {
             "key": "ability.activate_switch_sides.desc",
             "value": "Ao jogar, selecione um monstro alvo para trocar de lado",
             "hide": false
@@ -241,12 +401,32 @@
             "hide": false
         },
         {
-            "key": "ability.activate_water.desc",
+            "key": "ability.activate_water_1.desc",
             "value": "Compre uma carta.",
             "hide": false
         },
         {
-            "key": "ability.activate_water.title",
+            "key": "ability.activate_water_1.title",
+            "value": "Água",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.desc",
+            "value": "Transforme um monstro inimigo em um Boilin.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.title",
+            "value": "Água",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.desc",
+            "value": "Ganhe 2 Mana neste turno.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.title",
             "value": "Água",
             "hide": false
         },

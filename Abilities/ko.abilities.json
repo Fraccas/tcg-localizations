@@ -91,6 +91,16 @@
             "hide": false
         },
         {
+            "key": "ability.activate_damage4.desc",
+            "value": "4 데미지를 줍니다. 5 마나 비용.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_damage4.title",
+            "value": "측면 공격",
+            "hide": false
+        },
+        {
             "key": "ability.activate_discard.desc",
             "value": "상대가 손패에서 랜덤 카드를 버립니다. 이 몬스터의 행동을 사용합니다.",
             "hide": false
@@ -111,22 +121,62 @@
             "hide": false
         },
         {
-            "key": "ability.activate_electric.desc",
+            "key": "ability.activate_electric_1.desc",
             "value": "대상이 헤이스트를 얻습니다 (전기 몬스터여야 함)",
             "hide": false
         },
         {
-            "key": "ability.activate_electric.title",
+            "key": "ability.activate_electric_1.title",
             "value": "전기",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.desc",
+            "key": "ability.activate_electric_2.desc",
+            "value": "대상이 2턴 동안 마비됩니다",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_2.title",
+            "value": "쇼크 마비",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.desc",
+            "value": "모든 전기 아군이 +1 공격을 얻습니다",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.title",
+            "value": "전기 아군 부스트",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_1.desc",
             "value": "1 데미지를 줍니다.",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.title",
+            "key": "ability.activate_fire_1.title",
+            "value": "불",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.desc",
+            "value": "1 데미지를 줍니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.title",
+            "value": "불",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.desc",
+            "value": "손패에서 카드를 버리고 카드를 뽑습니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.title",
             "value": "불",
             "hide": false
         },
@@ -141,42 +191,132 @@
             "hide": false
         },
         {
-            "key": "ability.activate_ice.desc",
+            "key": "ability.activate_ice_1.desc",
             "value": "적을 1 턴 동안 동결합니다",
             "hide": false
         },
         {
-            "key": "ability.activate_ice.title",
+            "key": "ability.activate_ice_1.title",
             "value": "동결",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.desc",
+            "key": "ability.activate_ice_2.desc",
+            "value": "루미니를 소환합니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_2.title",
+            "value": "동결",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.desc",
+            "value": "얼음 몬스터의 진화 카운터를 1 감소시킵니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.title",
+            "value": "동결",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_1.desc",
             "value": "2 HP를 회복합니다.",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.title",
+            "key": "ability.activate_plant_1.title",
             "value": "식물",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.desc",
+            "key": "ability.activate_plant_2.desc",
+            "value": "몬스터를 침묵시킵니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_2.title",
+            "value": "식물",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.desc",
+            "value": "1/3 스케일포우를 소환합니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.title",
+            "value": "식물",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_1.desc",
             "value": "상대가 손패에서 랜덤 카드를 버립니다.",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.title",
+            "key": "ability.activate_psychic_1.title",
             "value": "사이킥",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.desc",
+            "key": "ability.activate_psychic_2.desc",
+            "value": "공격력 4 이하의 미니언을 지배합니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_2.title",
+            "value": "사이킥",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.desc",
+            "value": "몬스터에게 은신을 부여합니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.title",
+            "value": "사이킥",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_1.desc",
             "value": "대상 몬스터가 +1 아머를 얻습니다",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.title",
+            "key": "ability.activate_rock_1.title",
+            "value": "바위",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.desc",
+            "value": "모든 것에 1 데미지를 줍니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.title",
+            "value": "바위",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.desc",
+            "value": "모든 것에 1 데미지를 줍니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.title",
+            "value": "바위",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.desc",
+            "value": "몬스터에게 도발, 능력 면역을 부여하고 비행 몬스터가 다음 턴까지 해당 몬스터를 대상으로 삼도록 강제합니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.title",
             "value": "바위",
             "hide": false
         },
@@ -231,6 +371,36 @@
             "hide": false
         },
         {
+            "key": "ability.activate_shadow_1.desc",
+            "value": "대상이 저주받습니다",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_1.title",
+            "value": "그림자",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.desc",
+            "value": "카드를 버리고 적 미니언 전체를 해당 카드의 마나 비용만큼 저주합니다",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.title",
+            "value": "그림자",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.desc",
+            "value": "버린 카드 더미에서 몬스터를 보드에 소환합니다",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.title",
+            "value": "그림자",
+            "hide": false
+        },
+        {
             "key": "ability.activate_switch_sides.desc",
             "value": "플레이 시 대상 몬스터를 선택하여 측면을 전환합니다",
             "hide": false
@@ -241,12 +411,32 @@
             "hide": false
         },
         {
-            "key": "ability.activate_water.desc",
+            "key": "ability.activate_water_1.desc",
             "value": "카드를 뽑습니다.",
             "hide": false
         },
         {
-            "key": "ability.activate_water.title",
+            "key": "ability.activate_water_1.title",
+            "value": "물",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.desc",
+            "value": "적 몬스터를 보일린으로 변환합니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.title",
+            "value": "물",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.desc",
+            "value": "이번 턴에 마나 2를 얻습니다.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.title",
             "value": "물",
             "hide": false
         },

@@ -417,36 +417,100 @@
             "value": "<b>Играть:</b> Атака вражеского монстра-цели снижается до 1"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "Древняя Электрическая Фея Fracctal, которая дает скорость электрическому монстру"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "Древняя Электрическая Фея Fracctal, которая может парализовать цель на 2 хода"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "Древняя Электрическая Фея Fracctal, которая дает +1 к атаке всем электрическим союзникам"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "Древняя Огненная Фея Fracctal, которая может нанести 1 урон любой карте или игроку"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "Древняя Огненная Фея Fracctal, которая может поджечь вражеского монстра"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "Древняя Огненная Фея Fracctal, которая может сбросить карту из руки и взять новую"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "Древняя Ледяная Фея Fracctal, которая может заморозить любую карту на 1 ход"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "Древняя Ледяная Фея Fracctal, которая может призвать Люмини"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Древняя Ледяная Фея Fracctal, которая может уменьшить счетчик эволюции ледяного монстра"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "Древняя Растительная Фея Fracctal, которая исцеляет персонажей и игроков на 2 ОЗ"
         },
         {
-            "key": "card.hero_psychic.text",
+            "key": "card.hero_plant_2.text",
+            "value": "Древняя Растительная Фея Fracctal, которая может заглушить монстра"
+        },
+        {
+            "key": "card.hero_plant_3.text",
+            "value": "Древняя Растительная Фея Fracctal, которая может призвать Скейлпо"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
             "value": "Древняя Психическая Фея Fracctal, которая заставляет противника сбросить карту из руки"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_psychic_2.text",
+            "value": "Древняя Психическая Фея Fracctal, которая может взять под контроль слабого вражеского прислужника"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Древняя Психическая Фея Fracctal, которая может дать монстру Скрытность"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "Древняя Каменная Фея Fracctal, которая дает +1 Броню любой карте на поле"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Древняя Теневая Фея Fracctal, которая может проклясть любую карту в игре"
+            "key": "card.hero_rock_2.text",
+            "value": "Древняя Каменная Фея Fracctal, которая наносит 1 урон всему"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "Древняя Каменная Фея Fracctal, которая дает монстру Провокацию, Иммунитет к способностям и заставляет летающих монстров атаковать его"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Древняя Теневая Фея Fracctal, которая может проклясть любого монстра в игре"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Древняя Теневая Фея Fracctal, которая может массово проклинать врагов"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Древняя Теневая Фея Fracctal, которая может воскресить павших монстров"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "Древняя Водная Фея Fracctal, которая позволяет игроку взять дополнительную карту"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Древняя Водная Фея Fracctal, которая может превратить вражеского монстра в Бойлина"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Древняя Водная Фея Fracctal, которая может дать 2 дополнительные Маны в этом ходу"
         },
         {
             "key": "card.hippoh.text",

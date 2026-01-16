@@ -91,6 +91,16 @@
             "hide": false
         },
         {
+            "key": "ability.activate_damage4.desc",
+            "value": "Verursache 4 Schaden. Kostet 5 Mana.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_damage4.title",
+            "value": "Seitenangriff",
+            "hide": false
+        },
+        {
             "key": "ability.activate_discard.desc",
             "value": "Gegner wirft eine zufällige Karte aus seiner Hand ab. Verbraucht die Aktion dieses Monsters.",
             "hide": false
@@ -111,22 +121,62 @@
             "hide": false
         },
         {
-            "key": "ability.activate_electric.desc",
+            "key": "ability.activate_electric_1.desc",
             "value": "Ziel erhält Eile (muss ein Elektro-Monster sein)",
             "hide": false
         },
         {
-            "key": "ability.activate_electric.title",
+            "key": "ability.activate_electric_1.title",
             "value": "Elektro",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.desc",
+            "key": "ability.activate_electric_2.desc",
+            "value": "Ziel wird für 2 Züge gelähmt",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_2.title",
+            "value": "Schock-Lähmung",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.desc",
+            "value": "Alle Elektro-Verbündeten erhalten +1 Angriff",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.title",
+            "value": "Elektro-Verbündeten-Boost",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_1.desc",
             "value": "Verursache 1 Schaden.",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.title",
+            "key": "ability.activate_fire_1.title",
+            "value": "Feuer",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.desc",
+            "value": "Verursache 1 Schaden.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.title",
+            "value": "Feuer",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.desc",
+            "value": "Wirf eine Karte aus deiner Hand ab und ziehe eine Karte.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.title",
             "value": "Feuer",
             "hide": false
         },
@@ -141,42 +191,132 @@
             "hide": false
         },
         {
-            "key": "ability.activate_ice.desc",
+            "key": "ability.activate_ice_1.desc",
             "value": "Friere einen Gegner für 1 Zug ein",
             "hide": false
         },
         {
-            "key": "ability.activate_ice.title",
+            "key": "ability.activate_ice_1.title",
             "value": "Einfrieren",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.desc",
+            "key": "ability.activate_ice_2.desc",
+            "value": "Beschwöre einen Lumini.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_2.title",
+            "value": "Eis",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.desc",
+            "value": "Reduziere den Entwicklungszähler eines Eis-Monsters um 1.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.title",
+            "value": "Eis",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_1.desc",
             "value": "Heile 2 LP.",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.title",
+            "key": "ability.activate_plant_1.title",
             "value": "Pflanze",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.desc",
+            "key": "ability.activate_plant_2.desc",
+            "value": "Verstumme ein Monster.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_2.title",
+            "value": "Pflanze",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.desc",
+            "value": "Beschwöre einen 1/3 Scalepaw.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.title",
+            "value": "Pflanze",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_1.desc",
             "value": "Gegner wirft eine zufällige Karte aus seiner Hand ab.",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.title",
+            "key": "ability.activate_psychic_1.title",
             "value": "Psycho",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.desc",
+            "key": "ability.activate_psychic_2.desc",
+            "value": "Übernimm die Kontrolle über einen Diener mit 4 oder weniger Angriff.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_2.title",
+            "value": "Psycho",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.desc",
+            "value": "Gib einem Monster Tarnung.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.title",
+            "value": "Psycho",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_1.desc",
             "value": "Ziel-Monster erhält +1 Rüstung",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.title",
+            "key": "ability.activate_rock_1.title",
+            "value": "Fels",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.desc",
+            "value": "Verursache 1 Schaden an allem.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.title",
+            "value": "Felsexplosion",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.desc",
+            "value": "Verursache 1 Schaden an allem.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.title",
+            "value": "Felsexplosion",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.desc",
+            "value": "Gib einem Monster Spott, Fähigkeitsimmunität und zwinge fliegende Monster, es bis zu deinem nächsten Zug anzugreifen.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.title",
             "value": "Fels",
             "hide": false
         },
@@ -231,6 +371,36 @@
             "hide": false
         },
         {
+            "key": "ability.activate_shadow_1.desc",
+            "value": "Ziel wird verflucht",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_1.title",
+            "value": "Schatten",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.desc",
+            "value": "Wirf eine Karte ab und verfluche alle feindlichen Diener für deren Manakosten",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.title",
+            "value": "Schatten-Massenfluch",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.desc",
+            "value": "Beschwöre ein Monster aus deinem Ablagestapel auf das Spielfeld",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.title",
+            "value": "Schatten-Auferstehung",
+            "hide": false
+        },
+        {
             "key": "ability.activate_switch_sides.desc",
             "value": "Beim Spielen wähle ein Ziel-Monster, um die Seiten zu wechseln",
             "hide": false
@@ -241,12 +411,32 @@
             "hide": false
         },
         {
-            "key": "ability.activate_water.desc",
+            "key": "ability.activate_water_1.desc",
             "value": "Ziehe eine Karte.",
             "hide": false
         },
         {
-            "key": "ability.activate_water.title",
+            "key": "ability.activate_water_1.title",
+            "value": "Wasser",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.desc",
+            "value": "Verwandle ein feindliches Monster in einen Boilin.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.title",
+            "value": "Wasser",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.desc",
+            "value": "Erhalte 2 Mana in diesem Zug.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.title",
             "value": "Wasser",
             "hide": false
         },

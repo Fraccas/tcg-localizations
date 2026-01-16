@@ -111,22 +111,62 @@
             "hide": false
         },
         {
-            "key": "ability.activate_electric.desc",
+            "key": "ability.activate_electric_1.desc",
             "value": "Цель получает ускорение (должен быть электрическим монстром)",
             "hide": false
         },
         {
-            "key": "ability.activate_electric.title",
+            "key": "ability.activate_electric_1.title",
             "value": "Электрический",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.desc",
+            "key": "ability.activate_electric_2.desc",
+            "value": "Цель становится парализованной на 2 хода",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_2.title",
+            "value": "Шоковый Паралич",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.desc",
+            "value": "Все электрические союзники получают +1 атаку",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.title",
+            "value": "Усиление Электрических Союзников",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_1.desc",
             "value": "Нанесите 1 урон.",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.title",
+            "key": "ability.activate_fire_1.title",
+            "value": "Огонь",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.desc",
+            "value": "Нанесите 1 урон.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.title",
+            "value": "Огонь",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.desc",
+            "value": "Сбросьте карту из руки и возьмите карту.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.title",
             "value": "Огонь",
             "hide": false
         },
@@ -141,42 +181,132 @@
             "hide": false
         },
         {
-            "key": "ability.activate_ice.desc",
+            "key": "ability.activate_ice_1.desc",
             "value": "Заморозьте врага на 1 ход",
             "hide": false
         },
         {
-            "key": "ability.activate_ice.title",
+            "key": "ability.activate_ice_1.title",
             "value": "Заморозка",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.desc",
+            "key": "ability.activate_ice_2.desc",
+            "value": "Призовите Lumini.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_2.title",
+            "value": "Заморозка",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.desc",
+            "value": "Уменьшите счётчик эволюции ледяного монстра на 1.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.title",
+            "value": "Заморозка",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_1.desc",
             "value": "Вылечите на 2 HP.",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.title",
+            "key": "ability.activate_plant_1.title",
             "value": "Растение",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.desc",
+            "key": "ability.activate_plant_2.desc",
+            "value": "Заглушите монстра.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_2.title",
+            "value": "Растение",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.desc",
+            "value": "Призовите Scalepaw 1/3.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.title",
+            "value": "Растение",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_1.desc",
             "value": "Противник сбрасывает случайную карту из руки.",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.title",
+            "key": "ability.activate_psychic_1.title",
             "value": "Психический",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.desc",
+            "key": "ability.activate_psychic_2.desc",
+            "value": "Возьмите под контроль существо с атакой 4 или меньше.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_2.title",
+            "value": "Психический",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.desc",
+            "value": "Дайте монстру Скрытность.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.title",
+            "value": "Психический",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_1.desc",
             "value": "Целевой монстр получает +1 брони",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.title",
+            "key": "ability.activate_rock_1.title",
+            "value": "Камень",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.desc",
+            "value": "Нанесите 1 урон всему.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.title",
+            "value": "Каменный Взрыв",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.desc",
+            "value": "Нанесите 1 урон всему.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.title",
+            "value": "Каменный Взрыв",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.desc",
+            "value": "Дайте монстру Провокацию, Иммунитет к Способностям и заставьте летающих монстров атаковать его до вашего следующего хода.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.title",
             "value": "Камень",
             "hide": false
         },
@@ -231,6 +361,36 @@
             "hide": false
         },
         {
+            "key": "ability.activate_shadow_1.desc",
+            "value": "Цель получает проклятие",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_1.title",
+            "value": "Тень",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.desc",
+            "value": "Сбросьте карту и проклянте всех вражеских существ на количество маны карты",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.title",
+            "value": "Массовое Проклятие Тени",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.desc",
+            "value": "Призовите монстра из вашего сброса на поле",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.title",
+            "value": "Воскрешение Тени",
+            "hide": false
+        },
+        {
             "key": "ability.activate_switch_sides.desc",
             "value": "При игре выберите целевого монстра, чтобы сменить сторону",
             "hide": false
@@ -241,12 +401,32 @@
             "hide": false
         },
         {
-            "key": "ability.activate_water.desc",
+            "key": "ability.activate_water_1.desc",
             "value": "Возьмите карту.",
             "hide": false
         },
         {
-            "key": "ability.activate_water.title",
+            "key": "ability.activate_water_1.title",
+            "value": "Вода",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.desc",
+            "value": "Превратите вражеского монстра в Boilin.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.title",
+            "value": "Вода",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.desc",
+            "value": "Получите 2 Маны в этом ходу.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.title",
             "value": "Вода",
             "hide": false
         },

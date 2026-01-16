@@ -417,36 +417,100 @@
             "value": "<b>プレイ:</b> 敵モンスターの攻撃を1に減らす"
         },
         {
-            "key": "card.hero_electric.text",
-            "value": "電気モンスターにラッシュを与える古代の電気Fracctal妖精"
+            "key": "card.hero_electric_1.text",
+            "value": "電気モンスターにヘイストを与える古代の電気Fracctal妖精"
         },
         {
-            "key": "card.hero_fire.text",
-            "value": "任意のカードまたはプレイヤーに1ダメージを与える古代の火Fracctal妖精"
+            "key": "card.hero_electric_2.text",
+            "value": "対象を2ターン麻痺させることができる古代の電気Fracctal妖精"
         },
         {
-            "key": "card.hero_ice.text",
-            "value": "任意のカードを1ターン凍結する古代の氷Fracctal妖精"
+            "key": "card.hero_electric_3.text",
+            "value": "すべての電気味方に+1攻撃を与える古代の電気Fracctal妖精"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_fire_1.text",
+            "value": "任意のカードまたはプレイヤーに1ダメージを与えることができる古代の火Fracctal妖精"
+        },
+        {
+            "key": "card.hero_fire_2.text",
+            "value": "敵モンスターを燃やすことができる古代の火Fracctal妖精"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "手札からカードを捨てて新しいカードをドローできる古代の火Fracctal妖精"
+        },
+        {
+            "key": "card.hero_ice_1.text",
+            "value": "任意のカードを1ターン凍結できる古代の氷Fracctal妖精"
+        },
+        {
+            "key": "card.hero_ice_2.text",
+            "value": "Luminiを召喚できる古代の氷Fracctal妖精"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "氷モンスターの進化カウンターを減少させることができる古代の氷Fracctal妖精"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "キャラクターとプレイヤーを2 HP回復する古代の植物Fracctal妖精"
         },
         {
-            "key": "card.hero_psychic.text",
-            "value": "相手に手札からカードを捨てさせる古代の精神Fracctal妖精"
+            "key": "card.hero_plant_2.text",
+            "value": "モンスターを沈黙させることができる古代の植物Fracctal妖精"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_plant_3.text",
+            "value": "Scalepawを召喚できる古代の植物Fracctal妖精"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
+            "value": "相手に手札からカードを捨てさせることができる古代の精神Fracctal妖精"
+        },
+        {
+            "key": "card.hero_psychic_2.text",
+            "value": "弱い敵ミニオンのコントロールを奪うことができる古代の精神Fracctal妖精"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "モンスターにステルスを与えることができる古代の精神Fracctal妖精"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "ボード上の任意のカードに+1アーマーを与える古代の岩Fracctal妖精"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "ゲーム中の任意のカードを呪う古代の影Fracctal妖精"
+            "key": "card.hero_rock_2.text",
+            "value": "すべてに1ダメージを与える古代の岩Fracctal妖精"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "モンスターに挑発、能力免疫を与え、飛行モンスターにそれを対象にさせる古代の岩Fracctal妖精"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "ゲーム中の任意のモンスターを呪うことができる古代の影Fracctal妖精"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "敵を一斉に呪うことができる古代の影Fracctal妖精"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "倒れたモンスターを復活させることができる古代の影Fracctal妖精"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "プレイヤーに余分なカードをドローさせる古代の水Fracctal妖精"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "敵モンスターをBoilinに変身させることができる古代の水Fracctal妖精"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "このターン2追加マナを与えることができる古代の水Fracctal妖精"
         },
         {
             "key": "card.hippoh.text",

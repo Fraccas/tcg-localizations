@@ -417,36 +417,100 @@
             "value": "<b>Jogar:</b> O ataque do monstro inimigo alvo é reduzido para 1"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "Uma antiga Fada Fracctal Elétrica que concede rapidez a um monstro elétrico"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "Uma antiga Fada Fracctal Elétrica que pode paralisar um alvo por 2 turnos"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "Uma antiga Fada Fracctal Elétrica que concede +1 de ataque a todos os aliados elétricos"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "Uma antiga Fada Fracctal de Fogo que pode infligir 1 dano a qualquer carta ou jogador"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "Uma antiga Fada Fracctal de Fogo que pode queimar um monstro inimigo"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "Uma antiga Fada Fracctal de Fogo que pode descartar uma carta da mão e comprar uma nova"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "Uma antiga Fada Fracctal de Gelo que pode congelar qualquer carta por 1 turno"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "Uma antiga Fada Fracctal de Gelo que pode invocar um Lumini"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Uma antiga Fada Fracctal de Gelo que pode reduzir o contador de evolução de um monstro de Gelo"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "Uma antiga Fada Fracctal de Planta que cura personagens e jogadores por 2 PV"
         },
         {
-            "key": "card.hero_psychic.text",
+            "key": "card.hero_plant_2.text",
+            "value": "Uma antiga Fada Fracctal de Planta que pode silenciar um monstro"
+        },
+        {
+            "key": "card.hero_plant_3.text",
+            "value": "Uma antiga Fada Fracctal de Planta que pode invocar um Scalepaw"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
             "value": "Uma antiga Fada Fracctal Psíquica que força o oponente a descartar uma carta da mão"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_psychic_2.text",
+            "value": "Uma antiga Fada Fracctal Psíquica que pode assumir o controle de um lacaio inimigo fraco"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Uma antiga Fada Fracctal Psíquica que pode conceder Furtividade a um monstro"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "Uma antiga Fada Fracctal de Rocha que concede +1 Armadura a qualquer carta no tabuleiro"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Uma antiga Fada Fracctal de Sombra que pode amaldiçoar qualquer carta em jogo"
+            "key": "card.hero_rock_2.text",
+            "value": "Uma antiga Fada Fracctal de Rocha que inflige 1 dano a tudo"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "Uma antiga Fada Fracctal de Rocha que concede Provocar, Imunidade a Habilidades e força monstros Voadores a atacá-lo"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Uma antiga Fada Fracctal de Sombra que pode amaldiçoar qualquer monstro em jogo"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Uma antiga Fada Fracctal de Sombra que pode amaldiçoar inimigos em massa"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Uma antiga Fada Fracctal de Sombra que pode ressuscitar monstros caídos"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "Uma antiga Fada Fracctal de Água que permite ao jogador comprar uma carta extra"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Uma antiga Fada Fracctal de Água que pode transformar um monstro inimigo em um Boilin"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Uma antiga Fada Fracctal de Água que pode conceder 2 Manas extras neste turno"
         },
         {
             "key": "card.hippoh.text",

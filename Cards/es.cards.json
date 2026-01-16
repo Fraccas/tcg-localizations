@@ -417,36 +417,100 @@
             "value": "<b>Jugar:</b> El ataque del monstruo enemigo objetivo se reduce a 1"
         },
         {
-            "key": "card.hero_electric.text",
-            "value": "Un antiguo Hada Fracctal Eléctrica que otorga prisa a un monstruo eléctrico"
+            "key": "card.hero_electric_1.text",
+            "value": "Una antigua Hada Fracctal Eléctrica que otorga prisa a un monstruo eléctrico"
         },
         {
-            "key": "card.hero_fire.text",
-            "value": "Un antiguo Hada Fracctal de Fuego que puede infligir 1 daño a cualquier carta o jugador"
+            "key": "card.hero_electric_2.text",
+            "value": "Una antigua Hada Fracctal Eléctrica que puede paralizar un objetivo por 2 turnos"
         },
         {
-            "key": "card.hero_ice.text",
-            "value": "Un antiguo Hada Fracctal de Hielo que puede congelar cualquier carta por 1 turno"
+            "key": "card.hero_electric_3.text",
+            "value": "Una antigua Hada Fracctal Eléctrica que otorga +1 ataque a todos los aliados eléctricos"
         },
         {
-            "key": "card.hero_plant.text",
-            "value": "Un antiguo Hada Fracctal de Planta que cura personajes y jugadores por 2 PV"
+            "key": "card.hero_fire_1.text",
+            "value": "Una antigua Hada Fracctal de Fuego que puede infligir 1 daño a cualquier carta o jugador"
         },
         {
-            "key": "card.hero_psychic.text",
-            "value": "Un antiguo Hada Fracctal Psíquica que puede forzar al oponente a descartar una carta de su mano"
+            "key": "card.hero_fire_2.text",
+            "value": "Una antigua Hada Fracctal de Fuego que puede quemar un monstruo enemigo"
         },
         {
-            "key": "card.hero_rock.text",
-            "value": "Un antiguo Hada Fracctal de Roca que otorga +1 Armadura a cualquier carta en el tablero"
+            "key": "card.hero_fire_3.text",
+            "value": "Una antigua Hada Fracctal de Fuego que puede descartar una carta de tu mano y robar una nueva"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Un antiguo Hada Fracctal de Sombra que puede maldecir cualquier carta en juego"
+            "key": "card.hero_ice_1.text",
+            "value": "Una antigua Hada Fracctal de Hielo que puede congelar cualquier carta por 1 turno"
         },
         {
-            "key": "card.hero_water.text",
-            "value": "Un antiguo Hada Fracctal de Agua que permite al jugador robar una carta extra"
+            "key": "card.hero_ice_2.text",
+            "value": "Una antigua Hada Fracctal de Hielo que puede invocar un Lumini"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Una antigua Hada Fracctal de Hielo que puede reducir el contador de evolución de un monstruo de Hielo"
+        },
+        {
+            "key": "card.hero_plant_1.text",
+            "value": "Una antigua Hada Fracctal de Planta que cura personajes y jugadores por 2 PV"
+        },
+        {
+            "key": "card.hero_plant_2.text",
+            "value": "Una antigua Hada Fracctal de Planta que puede silenciar un monstruo"
+        },
+        {
+            "key": "card.hero_plant_3.text",
+            "value": "Una antigua Hada Fracctal de Planta que puede invocar un Scalepaw"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
+            "value": "Una antigua Hada Fracctal Psíquica que puede forzar al oponente a descartar una carta de su mano"
+        },
+        {
+            "key": "card.hero_psychic_2.text",
+            "value": "Una antigua Hada Fracctal Psíquica que puede tomar control de un esbirro enemigo débil"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Una antigua Hada Fracctal Psíquica que puede otorgar Sigilo a un monstruo"
+        },
+        {
+            "key": "card.hero_rock_1.text",
+            "value": "Una antigua Hada Fracctal de Roca que otorga +1 Armadura a cualquier carta en el tablero"
+        },
+        {
+            "key": "card.hero_rock_2.text",
+            "value": "Una antigua Hada Fracctal de Roca que inflige 1 daño a todo"
+        },
+        {
+            "key": "card.hero_rock_3.text",
+            "value": "Una antigua Hada Fracctal de Roca que otorga a un monstruo Provocar, Inmunidad a Habilidades y obliga a los monstruos Voladores a atacarlo"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Una antigua Hada Fracctal de Sombra que puede maldecir cualquier monstruo en juego"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Una antigua Hada Fracctal de Sombra que puede maldecir masivamente a los enemigos"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Una antigua Hada Fracctal de Sombra que puede resucitar monstruos caídos"
+        },
+        {
+            "key": "card.hero_water_1.text",
+            "value": "Una antigua Hada Fracctal de Agua que permite al jugador robar una carta extra"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Una antigua Hada Fracctal de Agua que puede transformar un monstruo enemigo en un Boilin"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Una antigua Hada Fracctal de Agua que puede otorgar 2 Maná extra este turno"
         },
         {
             "key": "card.hippoh.text",

@@ -417,36 +417,100 @@
             "value": "<b>Gioca:</b> L'attacco del mostro nemico bersaglio è ridotto a 1"
         },
         {
-            "key": "card.hero_electric.text",
-            "value": "Una antica Fata Fracctal Elettrica che concede fretta a un mostro elettrico"
+            "key": "card.hero_electric_1.text",
+            "value": "Una antica Fata Fracctal Elettrica che concede rapidità a un mostro elettrico"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "Una antica Fata Fracctal Elettrica che può paralizzare un bersaglio per 2 turni"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "Una antica Fata Fracctal Elettrica che concede +1 attacco a tutti gli alleati elettrici"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "Una antica Fata Fracctal di Fuoco che può infliggere 1 danno a qualsiasi carta o giocatore"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "Una antica Fata Fracctal di Fuoco che può bruciare un mostro nemico"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "Una antica Fata Fracctal di Fuoco che può scartare una carta dalla tua mano e pescarne una nuova"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "Una antica Fata Fracctal di Ghiaccio che può congelare qualsiasi carta per 1 turno"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "Una antica Fata Fracctal di Ghiaccio che può evocare un Lumini"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Una antica Fata Fracctal di Ghiaccio che può ridurre il contatore di evoluzione di un mostro Ghiaccio"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "Una antica Fata Fracctal di Pianta che cura personaggi e giocatori di 2 PV"
         },
         {
-            "key": "card.hero_psychic.text",
-            "value": "Una antica Fata Fracctal Psichica che forza l'avversario a scartare una carta dalla mano"
+            "key": "card.hero_plant_2.text",
+            "value": "Una antica Fata Fracctal di Pianta che può silenziare un mostro"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_plant_3.text",
+            "value": "Una antica Fata Fracctal di Pianta che può evocare uno Scalepaw"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
+            "value": "Una antica Fata Fracctal Psichica che può forzare l'avversario a scartare una carta dalla mano"
+        },
+        {
+            "key": "card.hero_psychic_2.text",
+            "value": "Una antica Fata Fracctal Psichica che può prendere il controllo di un servitore nemico debole"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Una antica Fata Fracctal Psichica che può concedere Furtività a un mostro"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "Una antica Fata Fracctal di Roccia che concede +1 Armatura a qualsiasi carta sul campo"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Una antica Fata Fracctal di Ombra che può maledire qualsiasi carta in gioco"
+            "key": "card.hero_rock_2.text",
+            "value": "Una antica Fata Fracctal di Roccia che infligge 1 danno a tutto"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "Una antica Fata Fracctal di Roccia che concede a un mostro Provocazione, Immunità alle Abilità e forza i mostri Volanti a bersagliarlo"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Una antica Fata Fracctal di Ombra che può maledire qualsiasi mostro in gioco"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Una antica Fata Fracctal di Ombra che può maledire in massa i nemici"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Una antica Fata Fracctal di Ombra che può resuscitare i mostri caduti"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "Una antica Fata Fracctal di Acqua che permette al giocatore di pescare una carta extra"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Una antica Fata Fracctal di Acqua che può trasformare un mostro nemico in un Boilin"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Una antica Fata Fracctal di Acqua che può concedere 2 Mana extra questo turno"
         },
         {
             "key": "card.hippoh.text",

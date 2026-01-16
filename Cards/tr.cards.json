@@ -417,36 +417,100 @@
             "value": "<b>Oyna:</b> Hedef canavarın saldırısı 1'e düşürülür"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "Elektrik canavarına Hız veren antik bir Elektrik Fracctal Perisi"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "Bir hedefi 2 tur felç edebilen antik bir Elektrik Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "Tüm elektrik müttefiklerine +1 saldırı veren antik bir Elektrik Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "Herhangi bir karta veya oyuncuya 1 hasar verebilen antik bir Ateş Fracctal Perisi"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "Düşman bir canavarı yakabilen antik bir Ateş Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "Elinden bir kart atıp yeni bir kart çekebilen antik bir Ateş Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "Herhangi bir kartı 1 tur dondurabilen antik bir Buz Fracctal Perisi"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "Bir Lumini çağırabilen antik bir Buz Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Bir Buz canavarının evrim sayacını azaltabilen antik bir Buz Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "Karakterleri ve oyuncuları 2 can iyileştiren antik bir Bitki Fracctal Perisi"
         },
         {
-            "key": "card.hero_psychic.text",
+            "key": "card.hero_plant_2.text",
+            "value": "Bir canavarı susturabilir antik bir Bitki Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_plant_3.text",
+            "value": "Bir Scalepaw çağırabilen antik bir Bitki Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
             "value": "Rakibin elinden bir kart attırabilen antik bir Psikik Fracctal Perisi"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_psychic_2.text",
+            "value": "Zayıf bir düşman uşağının kontrolünü ele geçirebilen antik bir Psikik Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Bir canavara Gizlilik verebilen antik bir Psikik Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "Tahtadaki herhangi bir karta +1 Zırh veren antik bir Kaya Fracctal Perisi"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Tahtadaki herhangi bir kartı lanetleyebilen antik bir Gölge Fracctal Perisi"
+            "key": "card.hero_rock_2.text",
+            "value": "Her şeye 1 hasar veren antik bir Kaya Fracctal Perisi"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "Bir canavara Tahrik, Yetenek Bağışıklığı veren ve Uçan canavarları onu hedef almaya zorlayan antik bir Kaya Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Oyundaki herhangi bir canavarı lanetleyebilen antik bir Gölge Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Düşmanları toplu olarak lanetleyebilen antik bir Gölge Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Düşmüş canavarları diriltebilen antik bir Gölge Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "Oyuncuya fazladan kart çektiren antik bir Su Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Düşman bir canavarı Boilin'e dönüştürebilen antik bir Su Fracctal Perisi"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Bu turda 2 fazladan Mana verebilen antik bir Su Fracctal Perisi"
         },
         {
             "key": "card.hippoh.text",

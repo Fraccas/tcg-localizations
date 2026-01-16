@@ -417,36 +417,100 @@
             "value": "<b>Mainkan:</b> Serangan monster musuh target dikurangi menjadi 1"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "Peri Fracctal Listrik kuno yang memberikan cepat pada monster listrik"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "Peri Fracctal Listrik kuno yang dapat melumpuhkan target selama 2 giliran"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "Peri Fracctal Listrik kuno yang memberikan +1 serangan pada semua sekutu listrik"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "Peri Fracctal Api kuno yang bisa memberikan 1 kerusakan pada kartu atau pemain apa pun"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "Peri Fracctal Api kuno yang bisa membakar monster musuh"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "Peri Fracctal Api kuno yang bisa membuang kartu dari tangan dan menarik kartu baru"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "Peri Fracctal Es kuno yang bisa membekukan kartu apa pun selama 1 giliran"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "Peri Fracctal Es kuno yang bisa memanggil Lumini"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Peri Fracctal Es kuno yang bisa mengurangi penghitung evolusi monster Es"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "Peri Fracctal Tanaman kuno yang menyembuhkan karakter dan pemain sebanyak 2 HP"
         },
         {
-            "key": "card.hero_psychic.text",
-            "value": "Peri Fracctal Psikis kuno yang memaksa lawan membuang kartu dari tangannya"
+            "key": "card.hero_plant_2.text",
+            "value": "Peri Fracctal Tanaman kuno yang bisa membungkam monster"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_plant_3.text",
+            "value": "Peri Fracctal Tanaman kuno yang bisa memanggil Scalepaw"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
+            "value": "Peri Fracctal Psikis kuno yang bisa memaksa lawan membuang kartu dari tangannya"
+        },
+        {
+            "key": "card.hero_psychic_2.text",
+            "value": "Peri Fracctal Psikis kuno yang bisa mengambil kendali pelayan musuh yang lemah"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Peri Fracctal Psikis kuno yang bisa memberikan Sembunyi pada monster"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "Peri Fracctal Batu kuno yang memberikan +1 Armor pada kartu apa pun di papan"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Peri Fracctal Bayangan kuno yang bisa mengutuk kartu apa pun dalam permainan"
+            "key": "card.hero_rock_2.text",
+            "value": "Peri Fracctal Batu kuno yang memberikan 1 kerusakan pada segalanya"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "Peri Fracctal Batu kuno yang memberikan monster Provokasi, Imunitas Kemampuan, dan memaksa monster Terbang untuk menargetkannya"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Peri Fracctal Bayangan kuno yang bisa mengutuk monster apa pun dalam permainan"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Peri Fracctal Bayangan kuno yang bisa mengutuk massal musuh"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Peri Fracctal Bayangan kuno yang bisa membangkitkan monster yang gugur"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "Peri Fracctal Air kuno yang memungkinkan pemain menarik kartu ekstra"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Peri Fracctal Air kuno yang bisa mengubah monster musuh menjadi Boilin"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Peri Fracctal Air kuno yang bisa memberikan 2 Mana ekstra giliran ini"
         },
         {
             "key": "card.hippoh.text",

@@ -417,36 +417,100 @@
             "value": "<b>Zagraj:</b> Atak wrogiego potwora bersaglio jest zredukowany do 1"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "Starożytna Wróżka Fracctal Elektryczna, która daje pośpiech potworowi elektrycznemu"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "Starożytna Wróżka Fracctal Elektryczna, która może sparaliżować cel na 2 tury"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "Starożytna Wróżka Fracctal Elektryczna, która daje +1 do ataku wszystkim sojusznikom elektrycznym"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "Starożytna Wróżka Fracctal Ognia, która może zadać 1 obrażenia dowolnej karcie lub graczowi"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "Starożytna Wróżka Fracctal Ognia, która może spalić wrogiego potwora"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "Starożytna Wróżka Fracctal Ognia, która może odrzucić kartę z ręki i dobrać nową"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "Starożytna Wróżka Fracctal Lodu, która może zamrozić dowolną kartę na 1 turę"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "Starożytna Wróżka Fracctal Lodu, która może przywołać Lumini"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Starożytna Wróżka Fracctal Lodu, która może zmniejszyć licznik ewolucji potwora Lodu"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "Starożytna Wróżka Fracctal Rośliny, która leczy postacie i graczy o 2 PW"
         },
         {
-            "key": "card.hero_psychic.text",
+            "key": "card.hero_plant_2.text",
+            "value": "Starożytna Wróżka Fracctal Rośliny, która może uciszyć potwora"
+        },
+        {
+            "key": "card.hero_plant_3.text",
+            "value": "Starożytna Wróżka Fracctal Rośliny, która może przywołać Scalepaw"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
             "value": "Starożytna Wróżka Fracctal Psychiczna, która zmusza przeciwnika do odrzucenia karty z ręki"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_psychic_2.text",
+            "value": "Starożytna Wróżka Fracctal Psychiczna, która może przejąć kontrolę nad słabym wrogim sługą"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Starożytna Wróżka Fracctal Psychiczna, która może dać Ukrycie potworowi"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "Starożytna Wróżka Fracctal Skały, która daje +1 Zbroję dowolnej karcie na polu"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Starożytna Wróżka Fracctal Cienia, która może przekląć dowolną kartę w grze"
+            "key": "card.hero_rock_2.text",
+            "value": "Starożytna Wróżka Fracctal Skały, która zadaje 1 obrażenia wszystkiemu"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "Starożytna Wróżka Fracctal Skały, która daje potworowi Prowokację, Odporność na Umiejętności i zmusza Latające potwory do atakowania go"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Starożytna Wróżka Fracctal Cienia, która może przekląć dowolnego potwora w grze"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Starożytna Wróżka Fracctal Cienia, która może masowo przeklinać wrogów"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Starożytna Wróżka Fracctal Cienia, która może wskrzesić poległe potwory"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "Starożytna Wróżka Fracctal Wody, która pozwala graczowi dobrać dodatkową kartę"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Starożytna Wróżka Fracctal Wody, która może przemienić wrogiego potwora w Boilin"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Starożytna Wróżka Fracctal Wody, która może dać 2 dodatkowe Many w tej turze"
         },
         {
             "key": "card.hippoh.text",

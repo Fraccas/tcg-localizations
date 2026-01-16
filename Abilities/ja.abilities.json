@@ -91,6 +91,16 @@
             "hide": false
         },
         {
+            "key": "ability.activate_damage4.desc",
+            "value": "4ダメージを与える。5マナ消費。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_damage4.title",
+            "value": "サイドアタック",
+            "hide": false
+        },
+        {
             "key": "ability.activate_discard.desc",
             "value": "相手が手札からランダムなカードを捨てる。このモンスターの行動を使用する。",
             "hide": false
@@ -111,22 +121,62 @@
             "hide": false
         },
         {
-            "key": "ability.activate_electric.desc",
+            "key": "ability.activate_electric_1.desc",
             "value": "対象がヘイストを得る（電気モンスターでなければならない）",
             "hide": false
         },
         {
-            "key": "ability.activate_electric.title",
+            "key": "ability.activate_electric_1.title",
             "value": "エレクトリック",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.desc",
+            "key": "ability.activate_electric_2.desc",
+            "value": "対象が2ターン麻痺する",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_2.title",
+            "value": "ショック麻痺",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.desc",
+            "value": "すべての電気の味方が+1攻撃を得る",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.title",
+            "value": "電気味方ブースト",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_1.desc",
             "value": "1ダメージを与える。",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.title",
+            "key": "ability.activate_fire_1.title",
+            "value": "ファイア",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.desc",
+            "value": "1ダメージを与える。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.title",
+            "value": "ファイア",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.desc",
+            "value": "手札からカードを捨ててカードを1枚引く。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.title",
             "value": "ファイア",
             "hide": false
         },
@@ -141,42 +191,132 @@
             "hide": false
         },
         {
-            "key": "ability.activate_ice.desc",
+            "key": "ability.activate_ice_1.desc",
             "value": "敵を1ターン凍結する",
             "hide": false
         },
         {
-            "key": "ability.activate_ice.title",
+            "key": "ability.activate_ice_1.title",
             "value": "フリーズ",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.desc",
+            "key": "ability.activate_ice_2.desc",
+            "value": "ルミニを召喚する。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_2.title",
+            "value": "アイス",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.desc",
+            "value": "氷モンスターの進化カウンターを1減らす。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.title",
+            "value": "アイス",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_1.desc",
             "value": "2HP回復する。",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.title",
+            "key": "ability.activate_plant_1.title",
             "value": "プラント",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.desc",
+            "key": "ability.activate_plant_2.desc",
+            "value": "モンスターを沈黙させる。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_2.title",
+            "value": "プラント",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.desc",
+            "value": "1/3のスケイルポーを召喚する。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.title",
+            "value": "プラント",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_1.desc",
             "value": "相手が手札からランダムなカードを捨てる。",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.title",
+            "key": "ability.activate_psychic_1.title",
             "value": "サイキック",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.desc",
+            "key": "ability.activate_psychic_2.desc",
+            "value": "攻撃力4以下のミニオンを支配する。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_2.title",
+            "value": "サイキック",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.desc",
+            "value": "モンスターにステルスを与える。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.title",
+            "value": "サイキック",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_1.desc",
             "value": "対象モンスターが+1アーマーを得る",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.title",
+            "key": "ability.activate_rock_1.title",
+            "value": "ロック",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.desc",
+            "value": "すべてに1ダメージを与える。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.title",
+            "value": "ロックブラスト",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.desc",
+            "value": "すべてに1ダメージを与える。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.title",
+            "value": "ロックブラスト",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.desc",
+            "value": "モンスターに挑発、能力免疫を与え、次のターンまで飛行モンスターがそれを攻撃するよう強制する。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.title",
             "value": "ロック",
             "hide": false
         },
@@ -231,6 +371,36 @@
             "hide": false
         },
         {
+            "key": "ability.activate_shadow_1.desc",
+            "value": "対象が呪われる",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_1.title",
+            "value": "シャドウ",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.desc",
+            "value": "カードを捨てて、そのマナコスト分だけ敵のミニオン全員を呪う",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.title",
+            "value": "シャドウ大量呪い",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.desc",
+            "value": "ディスカードからモンスターをボードに召喚する",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.title",
+            "value": "シャドウ復活",
+            "hide": false
+        },
+        {
             "key": "ability.activate_switch_sides.desc",
             "value": "プレイ時、対象モンスターを選択して側を切り替える",
             "hide": false
@@ -241,12 +411,32 @@
             "hide": false
         },
         {
-            "key": "ability.activate_water.desc",
+            "key": "ability.activate_water_1.desc",
             "value": "カードを1枚引く。",
             "hide": false
         },
         {
-            "key": "ability.activate_water.title",
+            "key": "ability.activate_water_1.title",
+            "value": "ウォーター",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.desc",
+            "value": "敵モンスターをボイリンに変身させる。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.title",
+            "value": "ウォーター",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.desc",
+            "value": "このターンに2マナを得る。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.title",
             "value": "ウォーター",
             "hide": false
         },

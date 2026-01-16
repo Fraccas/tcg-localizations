@@ -417,36 +417,100 @@
             "value": "<b>使用:</b> 敌方怪物目标的攻击减少到1"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "一个古老的电力Fracctal仙女，给电力怪物急速"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "一个古老的电力Fracctal仙女，可以麻痹目标2回合"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "一个古老的电力Fracctal仙女，给所有电力盟友+1攻击"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "一个古老的火Fracctal仙女，可以对任意卡或玩家造成1伤害"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "一个古老的火Fracctal仙女，可以燃烧敌方怪物"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "一个古老的火Fracctal仙女，可以丢弃一张手牌并抽取一张新牌"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "一个古老的冰Fracctal仙女，可以冻结任意卡1回合"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "一个古老的冰Fracctal仙女，可以召唤一个Lumini"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "一个古老的冰Fracctal仙女，可以减少冰怪物的进化计数器"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "一个古老的植物Fracctal仙女，治愈角色和玩家2生命值"
         },
         {
-            "key": "card.hero_psychic.text",
+            "key": "card.hero_plant_2.text",
+            "value": "一个古老的植物Fracctal仙女，可以沉默一个怪物"
+        },
+        {
+            "key": "card.hero_plant_3.text",
+            "value": "一个古老的植物Fracctal仙女，可以召唤一个Scalepaw"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
             "value": "一个古老的精神Fracctal仙女，迫使对手从手中丢弃一张牌"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_psychic_2.text",
+            "value": "一个古老的精神Fracctal仙女，可以控制一个弱小的敌方随从"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "一个古老的精神Fracctal仙女，可以给怪物潜行"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "一个古老的岩Fracctal仙女，给板上任意卡+1护甲"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "一个古老的影Fracctal仙女，可以诅咒游戏中任意卡"
+            "key": "card.hero_rock_2.text",
+            "value": "一个古老的岩Fracctal仙女，对所有东西造成1伤害"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "一个古老的岩Fracctal仙女，给怪物嘲讽、技能免疫，并迫使飞行怪物攻击它"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "一个古老的影Fracctal仙女，可以诅咒游戏中任意怪物"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "一个古老的影Fracctal仙女，可以群体诅咒敌人"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "一个古老的影Fracctal仙女，可以复活死亡的怪物"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "一个古老的水Fracctal仙女，允许玩家抽取额外一张牌"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "一个古老的水Fracctal仙女，可以将敌方怪物变成Boilin"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "一个古老的水Fracctal仙女，本回合可以给予2额外法力值"
         },
         {
             "key": "card.hippoh.text",

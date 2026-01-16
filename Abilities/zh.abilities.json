@@ -111,22 +111,62 @@
             "hide": false
         },
         {
-            "key": "ability.activate_electric.desc",
+            "key": "ability.activate_electric_1.desc",
             "value": "目标获得加速（必须是电怪物）",
             "hide": false
         },
         {
-            "key": "ability.activate_electric.title",
+            "key": "ability.activate_electric_1.title",
             "value": "电",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.desc",
+            "key": "ability.activate_electric_2.desc",
+            "value": "目标被麻痹2回合",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_2.title",
+            "value": "电击麻痹",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.desc",
+            "value": "所有电系盟友获得+1攻击",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.title",
+            "value": "电系盟友强化",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_1.desc",
             "value": "造成1点伤害。",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.title",
+            "key": "ability.activate_fire_1.title",
+            "value": "火",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.desc",
+            "value": "造成1点伤害。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.title",
+            "value": "火",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.desc",
+            "value": "从手牌丢弃一张牌并抽一张牌。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.title",
             "value": "火",
             "hide": false
         },
@@ -141,42 +181,132 @@
             "hide": false
         },
         {
-            "key": "ability.activate_ice.desc",
+            "key": "ability.activate_ice_1.desc",
             "value": "冻结敌人1回合",
             "hide": false
         },
         {
-            "key": "ability.activate_ice.title",
+            "key": "ability.activate_ice_1.title",
             "value": "冰",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.desc",
+            "key": "ability.activate_ice_2.desc",
+            "value": "召唤一个Lumini。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_2.title",
+            "value": "冰",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.desc",
+            "value": "将一个冰系怪物的进化计数器减少1。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.title",
+            "value": "冰",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_1.desc",
             "value": "治疗2 HP。",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.title",
+            "key": "ability.activate_plant_1.title",
             "value": "植物",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.desc",
+            "key": "ability.activate_plant_2.desc",
+            "value": "沉默一个怪物。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_2.title",
+            "value": "植物",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.desc",
+            "value": "召唤一个1/3 Scalepaw。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.title",
+            "value": "植物",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_1.desc",
             "value": "对手从手中随机丢弃一张牌。",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.title",
+            "key": "ability.activate_psychic_1.title",
             "value": "心灵",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.desc",
+            "key": "ability.activate_psychic_2.desc",
+            "value": "控制一个攻击力4或以下的随从。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_2.title",
+            "value": "心灵",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.desc",
+            "value": "给一个怪物潜行。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.title",
+            "value": "心灵",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_1.desc",
             "value": "目标怪物获得+1护甲",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.title",
+            "key": "ability.activate_rock_1.title",
+            "value": "岩石",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.desc",
+            "value": "对所有目标造成1点伤害。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.title",
+            "value": "岩石爆破",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.desc",
+            "value": "对所有目标造成1点伤害。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.title",
+            "value": "岩石爆破",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.desc",
+            "value": "给一个怪物嘲讽、技能免疫，并强迫飞行怪物攻击它直到你的下一回合。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.title",
             "value": "岩石",
             "hide": false
         },
@@ -231,6 +361,36 @@
             "hide": false
         },
         {
+            "key": "ability.activate_shadow_1.desc",
+            "value": "目标被诅咒",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_1.title",
+            "value": "阴影",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.desc",
+            "value": "丢弃一张牌并诅咒所有敌方随从其法力消耗回合",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.title",
+            "value": "阴影群体诅咒",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.desc",
+            "value": "从你的弃牌堆召唤一个怪物到场上",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.title",
+            "value": "阴影复活",
+            "hide": false
+        },
+        {
             "key": "ability.activate_switch_sides.desc",
             "value": "玩时，选择目标怪物切换侧面",
             "hide": false
@@ -241,12 +401,32 @@
             "hide": false
         },
         {
-            "key": "ability.activate_water.desc",
+            "key": "ability.activate_water_1.desc",
             "value": "抽一张牌。",
             "hide": false
         },
         {
-            "key": "ability.activate_water.title",
+            "key": "ability.activate_water_1.title",
+            "value": "水",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.desc",
+            "value": "将敌方怪物变成Boilin。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.title",
+            "value": "水",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.desc",
+            "value": "本回合获得2法力。",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.title",
             "value": "水",
             "hide": false
         },

@@ -417,36 +417,100 @@
             "value": "<b>Jouer :</b> L'attaque du monstre ennemi cible est réduite à 1"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "Une ancienne Fée Fracctal Électrique qui accorde hâte à un monstre électrique"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "Une ancienne Fée Fracctal Électrique qui peut paralyser une cible pendant 2 tours"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "Une ancienne Fée Fracctal Électrique qui accorde +1 attaque à tous les alliés électriques"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "Une ancienne Fée Fracctal de Feu qui peut infliger 1 dégât à n'importe quelle carte ou joueur"
         },
         {
-            "key": "card.hero_ice.text",
-            "value": "Une ancienne Fée Fracctal de Glace qui peut geler n'importe quelle carte pour 1 tour"
+            "key": "card.hero_fire_2.text",
+            "value": "Une ancienne Fée Fracctal de Feu qui peut brûler un monstre ennemi"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_fire_3.text",
+            "value": "Une ancienne Fée Fracctal de Feu qui peut défausser une carte de votre main et en piocher une nouvelle"
+        },
+        {
+            "key": "card.hero_ice_1.text",
+            "value": "Une ancienne Fée Fracctal de Glace qui peut geler n'importe quelle carte pendant 1 tour"
+        },
+        {
+            "key": "card.hero_ice_2.text",
+            "value": "Une ancienne Fée Fracctal de Glace qui peut invoquer un Lumini"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Une ancienne Fée Fracctal de Glace qui peut réduire le compteur d'évolution d'un monstre Glace"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "Une ancienne Fée Fracctal de Plante qui guérit personnages et joueurs de 2 PV"
         },
         {
-            "key": "card.hero_psychic.text",
-            "value": "Une ancienne Fée Fracctal Psychique qui force l'adversaire à défausser une carte de sa main"
+            "key": "card.hero_plant_2.text",
+            "value": "Une ancienne Fée Fracctal de Plante qui peut silencer un monstre"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_plant_3.text",
+            "value": "Une ancienne Fée Fracctal de Plante qui peut invoquer un Scalepaw"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
+            "value": "Une ancienne Fée Fracctal Psychique qui peut forcer l'adversaire à défausser une carte de sa main"
+        },
+        {
+            "key": "card.hero_psychic_2.text",
+            "value": "Une ancienne Fée Fracctal Psychique qui peut prendre le contrôle d'un serviteur ennemi faible"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Une ancienne Fée Fracctal Psychique qui peut accorder Furtivité à un monstre"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "Une ancienne Fée Fracctal de Roche qui accorde +1 Armure à n'importe quelle carte sur le plateau"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Une ancienne Fée Fracctal d'Ombre qui peut maudire n'importe quelle carte en jeu"
+            "key": "card.hero_rock_2.text",
+            "value": "Une ancienne Fée Fracctal de Roche qui inflige 1 dégât à tout"
         },
         {
-            "key": "card.hero_water.text",
+            "key": "card.hero_rock_3.text",
+            "value": "Une ancienne Fée Fracctal de Roche qui accorde à un monstre Provocation, Immunité aux capacités et force les monstres Volants à le cibler"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Une ancienne Fée Fracctal d'Ombre qui peut maudire n'importe quel monstre en jeu"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Une ancienne Fée Fracctal d'Ombre qui peut maudire en masse les ennemis"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Une ancienne Fée Fracctal d'Ombre qui peut ressusciter les monstres tombés"
+        },
+        {
+            "key": "card.hero_water_1.text",
             "value": "Une ancienne Fée Fracctal d'Eau qui permet au joueur de piocher une carte supplémentaire"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Une ancienne Fée Fracctal d'Eau qui peut transformer un monstre ennemi en Boilin"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Une ancienne Fée Fracctal d'Eau qui peut accorder 2 Mana supplémentaire ce tour"
         },
         {
             "key": "card.hippoh.text",

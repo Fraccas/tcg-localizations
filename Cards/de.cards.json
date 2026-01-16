@@ -417,36 +417,100 @@
             "value": "<b>Spielen:</b> Angriff des gegnerischen Zielmonsters auf 1 reduzieren"
         },
         {
-            "key": "card.hero_electric.text",
+            "key": "card.hero_electric_1.text",
             "value": "Eine uralte Elektro-Fracctal-Fee, die einem Elektro-Monster Eile gewährt"
         },
         {
-            "key": "card.hero_fire.text",
+            "key": "card.hero_electric_2.text",
+            "value": "Eine uralte Elektro-Fracctal-Fee, die ein Ziel für 2 Züge lähmen kann"
+        },
+        {
+            "key": "card.hero_electric_3.text",
+            "value": "Eine uralte Elektro-Fracctal-Fee, die allen Elektro-Verbündeten +1 Angriff gewährt"
+        },
+        {
+            "key": "card.hero_fire_1.text",
             "value": "Eine uralte Feuer-Fracctal-Fee, die 1 Schaden an beliebige Karte oder Spieler verursachen kann"
         },
         {
-            "key": "card.hero_ice.text",
+            "key": "card.hero_fire_2.text",
+            "value": "Eine uralte Feuer-Fracctal-Fee, die ein gegnerisches Monster verbrennen kann"
+        },
+        {
+            "key": "card.hero_fire_3.text",
+            "value": "Eine uralte Feuer-Fracctal-Fee, die eine Karte aus deiner Hand abwerfen und eine neue ziehen kann"
+        },
+        {
+            "key": "card.hero_ice_1.text",
             "value": "Eine uralte Eis-Fracctal-Fee, die jede Karte für 1 Zug einfrieren kann"
         },
         {
-            "key": "card.hero_plant.text",
+            "key": "card.hero_ice_2.text",
+            "value": "Eine uralte Eis-Fracctal-Fee, die ein Lumini beschwören kann"
+        },
+        {
+            "key": "card.hero_ice_3.text",
+            "value": "Eine uralte Eis-Fracctal-Fee, die den Evolutionszähler eines Eis-Monsters reduzieren kann"
+        },
+        {
+            "key": "card.hero_plant_1.text",
             "value": "Eine uralte Pflanzen-Fracctal-Fee, die Charaktere und Spieler um 2 LP heilt"
         },
         {
-            "key": "card.hero_psychic.text",
-            "value": "Eine uralte Psionik-Fracctal-Fee, die den Gegner zwingt, eine Karte aus der Hand abzulegen"
+            "key": "card.hero_plant_2.text",
+            "value": "Eine uralte Pflanzen-Fracctal-Fee, die ein Monster verstummen lassen kann"
         },
         {
-            "key": "card.hero_rock.text",
+            "key": "card.hero_plant_3.text",
+            "value": "Eine uralte Pflanzen-Fracctal-Fee, die einen Scalepaw beschwören kann"
+        },
+        {
+            "key": "card.hero_psychic_1.text",
+            "value": "Eine uralte Psionik-Fracctal-Fee, die den Gegner zwingen kann, eine Karte aus seiner Hand abzulegen"
+        },
+        {
+            "key": "card.hero_psychic_2.text",
+            "value": "Eine uralte Psionik-Fracctal-Fee, die die Kontrolle über einen schwachen gegnerischen Diener übernehmen kann"
+        },
+        {
+            "key": "card.hero_psychic_3.text",
+            "value": "Eine uralte Psionik-Fracctal-Fee, die einem Monster Verstohlenheit gewähren kann"
+        },
+        {
+            "key": "card.hero_rock_1.text",
             "value": "Eine uralte Fels-Fracctal-Fee, die jeder Karte auf dem Feld +1 Rüstung gewährt"
         },
         {
-            "key": "card.hero_shadow.text",
-            "value": "Eine uralte Schatten-Fracctal-Fee, die jede Karte im Spiel verfluchen kann"
+            "key": "card.hero_rock_2.text",
+            "value": "Eine uralte Fels-Fracctal-Fee, die 1 Schaden an alles verursacht"
         },
         {
-            "key": "card.hero_water.text",
-            "value": "Eine uralte Wasser-Fracctal-Fee, die dem Spieler eine zusätzliche Karte ziehen lässt"
+            "key": "card.hero_rock_3.text",
+            "value": "Eine uralte Fels-Fracctal-Fee, die einem Monster Spott und Fähigkeitsimmunität gewährt und fliegende Monster zwingt, es anzugreifen"
+        },
+        {
+            "key": "card.hero_shadow_1.text",
+            "value": "Eine uralte Schatten-Fracctal-Fee, die jedes Monster im Spiel verfluchen kann"
+        },
+        {
+            "key": "card.hero_shadow_2.text",
+            "value": "Eine uralte Schatten-Fracctal-Fee, die Gegner massenhaft verfluchen kann"
+        },
+        {
+            "key": "card.hero_shadow_3.text",
+            "value": "Eine uralte Schatten-Fracctal-Fee, die gefallene Monster wiederbeleben kann"
+        },
+        {
+            "key": "card.hero_water_1.text",
+            "value": "Eine uralte Wasser-Fracctal-Fee, die dem Spieler erlaubt, eine zusätzliche Karte zu ziehen"
+        },
+        {
+            "key": "card.hero_water_2.text",
+            "value": "Eine uralte Wasser-Fracctal-Fee, die ein gegnerisches Monster in einen Boilin verwandeln kann"
+        },
+        {
+            "key": "card.hero_water_3.text",
+            "value": "Eine uralte Wasser-Fracctal-Fee, die in diesem Zug 2 zusätzliches Mana gewähren kann"
         },
         {
             "key": "card.hippoh.text",

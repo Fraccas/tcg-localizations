@@ -91,6 +91,16 @@
             "hide": false
         },
         {
+            "key": "ability.activate_damage4.desc",
+            "value": "Infliggi 4 danni. Costa 5 mana.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_damage4.title",
+            "value": "Attacco Laterale",
+            "hide": false
+        },
+        {
             "key": "ability.activate_discard.desc",
             "value": "L'avversario scarta una carta casuale dalla sua mano. Usa l'azione di questo mostro.",
             "hide": false
@@ -111,22 +121,62 @@
             "hide": false
         },
         {
-            "key": "ability.activate_electric.desc",
+            "key": "ability.activate_electric_1.desc",
             "value": "Il target guadagna fretta (deve essere un mostro elettrico)",
             "hide": false
         },
         {
-            "key": "ability.activate_electric.title",
+            "key": "ability.activate_electric_1.title",
             "value": "Elettrico",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.desc",
+            "key": "ability.activate_electric_2.desc",
+            "value": "Il target viene paralizzato per 2 turni",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_2.title",
+            "value": "Paralisi da Shock",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.desc",
+            "value": "Tutti gli alleati elettrici guadagnano +1 attacco",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_electric_3.title",
+            "value": "Boost Alleato Elettrico",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_1.desc",
             "value": "Infliggi 1 danno.",
             "hide": false
         },
         {
-            "key": "ability.activate_fire.title",
+            "key": "ability.activate_fire_1.title",
+            "value": "Fuoco",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.desc",
+            "value": "Infliggi 1 danno.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_2.title",
+            "value": "Fuoco",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.desc",
+            "value": "Scarta una carta dalla tua mano e pesca una carta.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_fire_3.title",
             "value": "Fuoco",
             "hide": false
         },
@@ -141,42 +191,132 @@
             "hide": false
         },
         {
-            "key": "ability.activate_ice.desc",
+            "key": "ability.activate_ice_1.desc",
             "value": "Congela un nemico per 1 turno",
             "hide": false
         },
         {
-            "key": "ability.activate_ice.title",
+            "key": "ability.activate_ice_1.title",
             "value": "Congelare",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.desc",
+            "key": "ability.activate_ice_2.desc",
+            "value": "Evoca un Lumini.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_2.title",
+            "value": "Ghiaccio",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.desc",
+            "value": "Riduci il contatore di evoluzione di un mostro di Ghiaccio di 1.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_ice_3.title",
+            "value": "Ghiaccio",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_1.desc",
             "value": "Cura 2 HP.",
             "hide": false
         },
         {
-            "key": "ability.activate_plant.title",
+            "key": "ability.activate_plant_1.title",
             "value": "Pianta",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.desc",
+            "key": "ability.activate_plant_2.desc",
+            "value": "Silenzia un mostro.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_2.title",
+            "value": "Pianta",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.desc",
+            "value": "Evoca uno Scalepaw 1/3.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_plant_3.title",
+            "value": "Pianta",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_1.desc",
             "value": "L'avversario scarta una carta casuale dalla sua mano.",
             "hide": false
         },
         {
-            "key": "ability.activate_psychic.title",
+            "key": "ability.activate_psychic_1.title",
             "value": "Psichico",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.desc",
+            "key": "ability.activate_psychic_2.desc",
+            "value": "Prendi il controllo di un servitore con 4 o meno attacco.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_2.title",
+            "value": "Psichico",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.desc",
+            "value": "Dai Furtività a un mostro.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_psychic_3.title",
+            "value": "Psichico",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_1.desc",
             "value": "Il mostro target guadagna +1 Armatura",
             "hide": false
         },
         {
-            "key": "ability.activate_rock.title",
+            "key": "ability.activate_rock_1.title",
+            "value": "Roccia",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.desc",
+            "value": "Infliggi 1 danno a tutto.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2.title",
+            "value": "Esplosione di Roccia",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.desc",
+            "value": "Infliggi 1 danno a tutto.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_2_players.title",
+            "value": "Esplosione di Roccia",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.desc",
+            "value": "Dai a un mostro Provocazione, Immunità alle abilità e forza i mostri Volanti a prenderlo di mira fino al tuo prossimo turno.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_rock_3.title",
             "value": "Roccia",
             "hide": false
         },
@@ -231,6 +371,36 @@
             "hide": false
         },
         {
+            "key": "ability.activate_shadow_1.desc",
+            "value": "Il target diventa Maledetto",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_1.title",
+            "value": "Ombra",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.desc",
+            "value": "Scarta una carta e maledici tutti i servitori nemici per il suo costo in mana",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_2.title",
+            "value": "Maledizione di Massa d'Ombra",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.desc",
+            "value": "Evoca un mostro dalla tua pila degli scarti sul campo",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_shadow_3.title",
+            "value": "Resurrezione d'Ombra",
+            "hide": false
+        },
+        {
             "key": "ability.activate_switch_sides.desc",
             "value": "Al gioco, seleziona un mostro target per cambiare lato",
             "hide": false
@@ -241,12 +411,32 @@
             "hide": false
         },
         {
-            "key": "ability.activate_water.desc",
+            "key": "ability.activate_water_1.desc",
             "value": "Pesca una carta.",
             "hide": false
         },
         {
-            "key": "ability.activate_water.title",
+            "key": "ability.activate_water_1.title",
+            "value": "Acqua",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.desc",
+            "value": "Trasforma un mostro nemico in un Boilin.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_2.title",
+            "value": "Acqua",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.desc",
+            "value": "Guadagna 2 Mana questo turno.",
+            "hide": false
+        },
+        {
+            "key": "ability.activate_water_3.title",
             "value": "Acqua",
             "hide": false
         },
