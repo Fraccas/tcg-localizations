@@ -566,7 +566,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "ヘイスト / 飛行"
+            "value": "チャージ / 飛行"
         },
         {
             "key": "card.lizordo.text",
@@ -810,7 +810,7 @@
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "マナ3以下の敵モンスターに1ターンマインドコントロール, ラッシュを得る"
+            "value": "マナ3以下の敵モンスターに1ターンマインドコントロール, チャージを得る"
         },
         {
             "key": "card.potion_rock.text",
@@ -910,11 +910,11 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "激怒 / ラッシュ\n<b>攻撃:</b> 対象を凍結し, 反撃ダメージを受けない"
+            "value": "飛行 / チャージ / 威嚇\n<b>攻撃:</b> 対象モンスターを凍結する"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "激怒 / ラッシュ\n<b>攻撃:</b> 対象を凍結し, 反撃ダメージを受けない"
+            "value": "飛行 / チャージ\n<b>攻撃:</b> 対象を凍結し, 反撃ダメージを受けない"
         },
         {
             "key": "card.skipo.text",

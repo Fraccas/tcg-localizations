@@ -566,7 +566,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "Prisa / Volador"
+            "value": "Embestida / Volador"
         },
         {
             "key": "card.lizordo.text",
@@ -810,7 +810,7 @@
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Control Mental a un monstruo enemigo con costo de 3 o menos maná por 1 turno, gana Prisa"
+            "value": "Control Mental a un monstruo enemigo con costo de 3 o menos maná por 1 turno, gana Embestida"
         },
         {
             "key": "card.potion_rock.text",
@@ -910,11 +910,11 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "Furia / CARGA\n<b>Ataque:</b> Congela al objetivo y no recibe daño de contraataque"
+            "value": "Volador / Embestida / Intimidar\n<b>Ataque:</b> Congela al monstruo objetivo"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "Furia / CARGA\n<b>Ataque:</b> Congela al objetivo y no recibe daño de contraataque"
+            "value": "Volador / Embestida\n<b>Ataque:</b> Congela al objetivo y no recibe daño de contraataque"
         },
         {
             "key": "card.skipo.text",

@@ -566,7 +566,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "Rapidità / Volante"
+            "value": "Carica / Volante"
         },
         {
             "key": "card.lizordo.text",
@@ -810,7 +810,7 @@
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Controllo Mentale su un mostro nemico con costo 3 o meno mana per 1 turno, guadagna Rapidità"
+            "value": "Controllo Mentale su un mostro nemico con costo 3 o meno mana per 1 turno, guadagna Carica"
         },
         {
             "key": "card.potion_rock.text",
@@ -910,11 +910,11 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "Furia / ASSALTO\n<b>Attacco:</b> Congela il bersaglio e non riceve danni di controattacco"
+            "value": "Volante / Carica / Intimidire\n<b>Attacco:</b> Congela il mostro bersaglio"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "Furia / ASSALTO\n<b>Attacco:</b> Congela il bersaglio e non riceve danni di controattacco"
+            "value": "Volante / Carica\n<b>Attacco:</b> Congela il bersaglio e non riceve danni di controattacco"
         },
         {
             "key": "card.skipo.text",

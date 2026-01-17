@@ -566,7 +566,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "Hız / Uçan"
+            "value": "Hücum / Uçan"
         },
         {
             "key": "card.lizordo.text",
@@ -810,7 +810,7 @@
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Maliyeti 3 veya daha az mana olan bir düşman canavarını 1 tur zihin kontrolüyle al, Hız kazanır"
+            "value": "Maliyeti 3 veya daha az mana olan bir düşman canavarını 1 tur zihin kontrolüyle al, Hücum kazanır"
         },
         {
             "key": "card.potion_rock.text",
@@ -910,11 +910,11 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "Öfke / HIZ\n<b>Saldırı:</b> Hedefi dondur ve karşı saldırı hasarı alma"
+            "value": "Uçan / Hücum / Korkut\n<b>Saldırı:</b> Hedef canavarı dondur"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "Öfke / HIZ\n<b>Saldırı:</b> Hedefi dondur ve karşı saldırı hasarı alma"
+            "value": "Uçan / Hücum\n<b>Saldırı:</b> Hedefi dondur ve karşı saldırı hasarı alma"
         },
         {
             "key": "card.skipo.text",

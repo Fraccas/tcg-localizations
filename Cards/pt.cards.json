@@ -566,7 +566,7 @@
         },
         {
             "key": "card.lampi.text",
-            "value": "Rapidez / Voador"
+            "value": "Carga / Voador"
         },
         {
             "key": "card.lizordo.text",
@@ -574,59 +574,59 @@
         },
         {
             "key": "card.lizoru.text",
-            "value": "<b>Gioca</b>: Evoca un Lizo\nTutti gli altri Rettili alleati +1 attacco"
+            "value": "<b>Jogar</b>: Invoque um Lizo\nTodos os outros Répteis aliados +1 ataque"
         },
         {
             "key": "card.lizorus.text",
-            "value": "<b>Gioca</b>: Evoca un Lizo\nTutti gli altri Rettili alleati +2 attacco"
+            "value": "<b>Jogar</b>: Invoque um Lizo\nTodos os outros Répteis aliados +2 ataque"
         },
         {
             "key": "card.lizorus_full.text",
-            "value": "<b>Gioca</b>: Evoca un Lizo\nTutti gli altri Rettili alleati +2 attacco"
+            "value": "<b>Jogar</b>: Invoque um Lizo\nTodos os outros Répteis aliados +2 ataque"
         },
         {
             "key": "card.lizteel.text",
-            "value": "Infuriato II"
+            "value": "Enfurecer II"
         },
         {
             "key": "card.loneguin.text",
-            "value": "Provocazione\n<b>Morte:</b> Evoca un Igloo"
+            "value": "Provocação\n<b>Morte:</b> Invoque um Igloo"
         },
         {
             "key": "card.lumini.text",
-            "value": "<b>Gioca:</b> Evoca un Igloo\nVolante"
+            "value": "Voador\n<b>Jogar:</b> Invoque um Igloo"
         },
         {
             "key": "card.luminus.text",
-            "value": "<b>Gioca:</b> Dai +2/+2\nVolante"
+            "value": "Voador\n<b>Jogar:</b> Dê +2/+2 a um monstro até o seu próximo turno"
         },
         {
             "key": "card.lunab.text",
-            "value": "<b>Gioca:</b> Evoca igloo due volte e congela un mostro nemico con attacco 3 o meno\nVolante"
+            "value": "Voador\n<b>Jogar:</b> Invoque um Igloo e congele um monstro inimigo com 3 de ataque ou menos"
         },
         {
             "key": "card.lurian.text",
-            "value": "<b>Gioca:</b> Dai +2/+2\n<b>Gioca:</b> Cura il giocatore di 4 PV\nVolante"
+            "value": "Voador\n<b>Jogar:</b> Dê +2/+2 a um monstro até o seu próximo turno\n<b>Jogar:</b> Cure o jogador em 4 PV"
         },
         {
             "key": "card.lurian_full.text",
-            "value": "<b>Gioca:</b> Dai +2/+2\n<b>Gioca:</b> Cura il giocatore di 4 PV\nVolante"
+            "value": "Voador\n<b>Jogar:</b> Dê +2/+2 a um monstro até o seu próximo turno\n<b>Jogar:</b> Cure o jogador em 4 PV"
         },
         {
             "key": "card.marshland.text",
-            "value": "<b>Inizio turno: </b>Tutte le carte Pianta alleate guariscono 3 PV"
+            "value": "<b>Início do turno: </b>Todas as cartas Planta curam 3 PV"
         },
         {
             "key": "card.meruza.text",
-            "value": "Tutti i personaggi nemici hanno -2 attacco"
+            "value": "Intimidar\nTodos os personagens inimigos têm -2 ataque"
         },
         {
             "key": "card.mighto.text",
-            "value": "<b>Gioca:</b> Guadagna +1 attacco per ogni Igloo evocato in questa partita\nGuadagna guscio quando evochi un luogo\nGuscio"
+            "value": "Carapaça\n<b>Jogar:</b> Ganhe +1 ataque para cada Igloo invocado nesta partida\nGanhe Carapaça sempre que invocar um local"
         },
         {
             "key": "card.mimi.text",
-            "value": "Rigenerazione"
+            "value": "Regeneração"
         },
         {
             "key": "card.minask.text",
@@ -642,123 +642,123 @@
         },
         {
             "key": "card.momburn.text",
-            "value": "Danno incantesimo +2\n<b>Attacco:</b> Brucia il mostro bersaglio"
+            "value": "Dano de feitiço +2\n<b>Ataque:</b> Queime o monstro alvo"
         },
         {
             "key": "card.mongold.text",
-            "value": "Ogni turno, guadagna +2 attacco"
+            "value": "No início de cada turno, ganhe +2 ataque"
         },
         {
             "key": "card.mosastrus.text",
-            "value": "INVESTIDA"
+            "value": "CARGA"
         },
         {
             "key": "card.moshe.text",
-            "value": "<b>Gioca:</b> Controllo Mentale su un mostro nemico con costo 3 o meno mana"
+            "value": "<b>Jogar:</b> Controle Mental em um monstro inimigo com custo de 3 ou menos mana"
         },
         {
             "key": "card.mosheedark.text",
-            "value": "<b>Attacco</b>: Maledici il mostro bersaglio"
+            "value": "Intimidar\n<b>Ataque</b>: Amaldiçoe o monstro alvo"
         },
         {
             "key": "card.mosslug.text",
-            "value": "Travolgere"
+            "value": "Atropelar"
         },
         {
             "key": "card.mosslug_full.text",
-            "value": "Travolgere"
+            "value": "Atropelar"
         },
         {
             "key": "card.mountough.text",
-            "value": "<b>Gioca:</b> Guadagna 3 armatura\nAlla fine del turno pesca 1 carta"
+            "value": "<b>Jogar:</b> Ganhe 3 Armadura\nNo final do seu turno, compre uma carta"
         },
         {
             "key": "card.mountough_full.text",
-            "value": "<b>Gioca:</b> Guadagna 3 armatura\nAlla fine del turno pesca 1 carta"
+            "value": "<b>Jogar:</b> Ganhe 3 Armadura\nNo final do seu turno, compre uma carta"
         },
         {
             "key": "card.muni.text",
-            "value": "<b>Gioca:</b> Rivela la mano dell'avversario e pesca 1 carta"
+            "value": "<b>Jogar:</b> Revele a mão do oponente e compre uma carta"
         },
         {
             "key": "card.murple.text",
-            "value": "Rigenerazione"
+            "value": "Regeneração"
         },
         {
             "key": "card.nadzu.text",
-            "value": "Infuriato\nFuria"
+            "value": "Fúria / Enfurecer"
         },
         {
             "key": "card.nhomnhom.text",
-            "value": "Quando attacca, guadagna 2 mana"
+            "value": "Ao atacar, ganhe 2 mana"
         },
         {
             "key": "card.nobu.text",
-            "value": "Provocazione\nRiceve un massimo di 2 danni per attacco/controattacco"
+            "value": "Provocação\nRecebe no máximo 2 de dano por ataque/contra-ataque"
         },
         {
             "key": "card.nophulos.text",
-            "value": "Furia / INVESTIDA\nInfuriato"
+            "value": "Fúria / Carga\nEnfurecer"
         },
         {
             "key": "card.numind.text",
-            "value": "<b>Gioca:</b> Rivela la mano dell'avversario\n<b>Azione (2):</b> Scarta una carta casuale dalla mano dell'avversario con costo 3 o meno mana"
+            "value": "<b>Jogar:</b> Revele a mão do oponente\n<b>Ação (2):</b> Descarte uma carta aleatória da mão do oponente com custo de 3 ou menos mana"
         },
         {
             "key": "card.nutsu.text",
-            "value": "<b>Fine Turno:</b> Entra in furtività se hai altri mostri in gioco"
+            "value": "<b>Fim do Turno:</b> Entre em furtividade se você tiver outros monstros em jogo"
         },
         {
             "key": "card.operant.text",
-            "value": "Infuriato\n<b>Gioca:</b> Infliggi 1 danno a tutte le carte in gioco"
+            "value": "Enfurecer\n<b>Jogar:</b> Cause 1 de dano a todas as cartas em jogo"
         },
         {
             "key": "card.ophala.text",
-            "value": "Ha +3 attacco durante il turno dell'avversario\nProvocazione"
+            "value": "Provocação\nTem +3 ataque durante o turno do oponente"
         },
         {
             "key": "card.ophalant.text",
-            "value": "Ha +3 attacco durante il turno dell'avversario\nProvocazione / Guscio"
+            "value": "Carapaça / Provocação\nTem +3 ataque durante o turno do oponente"
         },
         {
             "key": "card.ophalant_full.text",
-            "value": "Ha +3 attacco durante il turno dell'avversario\nProvocazione / Guscio"
+            "value": "Carapaça / Provocação\nTem +3 ataque durante o turno do oponente"
         },
         {
             "key": "card.oritoro.text",
-            "value": "Tira un D6, su 4+ guadagna +3 attacco fino alla fine del turno"
+            "value": "Ao atacar, role um D6. Em 4+ ganhe +3 ataque"
         },
         {
             "key": "card.owind.text",
-            "value": "Immunità agli Incantesimi\nIgnora provocazione\n<b>Gioca: </b> Congela il bersaglio"
+            "value": "Imunidade a Feitiços / Voador\n<b>Jogar:</b> Congele um alvo"
         },
         {
             "key": "card.owind_full.text",
-            "value": "Immunità agli Incantesimi\nIgnora provocazione\n<b>Gioca: </b> Congela il bersaglio"
+            "value": "Imunidade a Feitiços / Voador\n<b>Jogar:</b> Congele um alvo"
         },
         {
             "key": "card.peafan.text",
-            "value": "<b>Gioca:</b> Distruggi un mostro con 4 o meno attacco"
+            "value": "<b>Jogar:</b> Destrua um monstro com 4 ou menos de ataque"
         },
         {
             "key": "card.peafan_egg.text",
-            "value": "Si trasforma in Peafan dopo 3 turni\nEvoca un Igloo"
+            "value": "Após 3 turnos, transforma-se em um Peafan\nInvoque um Igloo"
         },
         {
             "key": "card.peako.text",
-            "value": "<b>Gioca:</b> Evoca un Igloo\nSe hai già un Igloo, pesca una carta"
+            "value": "<b>Jogar:</b> Invoque um Igloo\nSe você já tiver um Igloo, compre uma carta"
         },
         {
             "key": "card.perllusion.text",
-            "value": "Furtività\n<b>Gioca:</b> L'avversario scarta una carta casuale\nQuando l'avversario scarta, guadagna +1 Attacco"
+            "value": "Furtividade\n<b>Jogar:</b> O oponente descarta uma carta aleatória\nGanhe +1 Ataque quando o oponente descartar uma carta"
         },
         {
             "key": "card.petami.text",
-            "value": "Rigenerazione"
+            "value": "Regeneração"
         },
         {
             "key": "card.petili.text",
-            "value": "<b>Gioca:</b> Dai +2/+2 a un altro mostro fino al tuo prossimo turno"
+            "value": "<b>Jogar:</b> Dê +2/+2 a um monstro até o seu próximo turno"
         },
         {
             "key": "card.phanti.text",
@@ -766,119 +766,119 @@
         },
         {
             "key": "card.phyra.text",
-            "value": "<b>Azione (3):</b> Infliggi 2 danni\n<b>Morte:</b> Evoca un uovo di Phyra"
+            "value": "<b>Ação (5):</b> Cause 4 de dano\n<b>Morte:</b> Invoque um ovo de Phyra"
         },
         {
             "key": "card.phyra_egg.text",
-            "value": "Si trasforma in Phyra dopo 3 turni"
+            "value": "Após 3 turnos, transforma-se em uma Phyra"
         },
         {
             "key": "card.phyrox.text",
-            "value": "<b>Azione (2):</b> Tira un D6, su 4+ rimanda il bersaglio alla mano del proprietario"
+            "value": "<b>Ação (2):</b> Role um D6, em 4+ devolva o alvo para a mão"
         },
         {
             "key": "card.picko.text",
-            "value": "<b>Gioca:</b> Infliggi 1 danno a te stesso, poi infliggi 1 danno a un mostro bersaglio qualsiasi"
+            "value": "Enfurecer\n<b>Jogar:</b> Cause 1 de dano a si mesmo, depois cause 1 de dano a qualquer monstro alvo"
         },
         {
             "key": "card.plant_token.text",
-            "value": "Scambia Token Pianta per qualsiasi Carta Pianta"
+            "value": "Troque Token Planta por qualquer Carta Planta"
         },
         {
             "key": "card.plator.text",
-            "value": "Guscio\nOgni turno, guadagna +1 armatura"
+            "value": "Carapaça\nNo início de cada turno, ganhe 1 armadura"
         },
         {
             "key": "card.polip.text",
-            "value": "<b>Gioca:</b> Dai +2 PV a un mostro bersaglio fino al tuo prossimo turno"
+            "value": "<b>Jogar:</b> Dê +2 PV a um monstro alvo até o seu próximo turno"
         },
         {
             "key": "card.potion_electric.text",
-            "value": "Il bersaglio guadagna Furia"
+            "value": "O monstro alvo ganha Fúria"
         },
         {
             "key": "card.potion_fire.text",
-            "value": "Il bersaglio guadagna +1 attacco e furia"
+            "value": "O alvo ganha +1 ataque e fúria"
         },
         {
             "key": "card.potion_green.text",
-            "value": "Il bersaglio è avvolto in un dolce aroma, guadagna +2 PV e Provocazione"
+            "value": "O alvo é envolto em um doce aroma, ganha +2 PV e Provocação"
         },
         {
             "key": "card.potion_ice.text",
-            "value": "Riduci di 1 il contatore di evoluzione di un mostro ghiaccio, se raggiunge 0 evolve"
+            "value": "Reduza o contador de evolução de um monstro de gelo aliado em 1, se chegar a 0 ele evolui"
         },
         {
             "key": "card.potion_psychic.text",
-            "value": "Controllo Mentale su un mostro nemico con costo 3 o meno mana per 1 turno, guadagna Rapidità"
+            "value": "Controle Mental em um monstro inimigo com custo de 3 ou menos mana por 1 turno, ganha Carga"
         },
         {
             "key": "card.potion_rock.text",
-            "value": "Il bersaglio guadagna Provocazione ma non può attaccare"
+            "value": "O alvo ganha Provocação, mas não pode atacar"
         },
         {
             "key": "card.potion_shadow.text",
-            "value": "Il bersaglio guadagna Maledizione della Sofferenza, subisce 3 danni prima di ogni attacco"
+            "value": "O alvo ganha Maldição do Sofrimento que causa 3 de dano cada vez que atacar"
         },
         {
             "key": "card.potion_water.text",
-            "value": "Pesca 2 carte"
+            "value": "Compre 2 cartas"
         },
         {
             "key": "card.prido.text",
-            "value": "Infuriato\nOgni turno, guadagna +1 attacco"
+            "value": "Enfurecer\nNo início de cada turno, ganhe +1 ataque"
         },
         {
             "key": "card.psony.text",
-            "value": "<b>Gioca:</b> Cambia lealtà, il bersaglio guadagna l'abilità: ogni turno infligge 2 danni a tutti gli altri alleati"
+            "value": "<b>Jogar:</b> Mude a lealdade, o alvo ganha a habilidade: a cada turno causa 2 de dano a todos os outros aliados"
         },
         {
             "key": "card.psychic_token.text",
-            "value": "Scambia Token Psichico per qualsiasi Carta Psichica"
+            "value": "Troque Token Psíquico por qualquer Carta Psíquica"
         },
         {
             "key": "card.psylant.text",
-            "value": "<b>Gioca:</b> Cambia lealtà, il bersaglio guadagna l'abilità: ogni turno scarta 2 carte dalla mano"
+            "value": "<b>Jogar:</b> Mude a lealdade, o alvo ganha a habilidade: a cada turno descarte 2 cartas da mão"
         },
         {
             "key": "card.psynkey.text",
-            "value": "<b>Gioca:</b> Cambia lealtà, il bersaglio guadagna l'abilità: i mostri nemici guadagnano +1/+2"
+            "value": "<b>Jogar:</b> Mude a lealdade, o alvo ganha a habilidade: monstros inimigos ganham +1/+2"
         },
         {
             "key": "card.pyro.text",
-            "value": "<b>Morte:</b> Evoca un uovo di Phyra"
+            "value": "<b>Morte:</b> Invoque um ovo de Phyra"
         },
         {
             "key": "card.rekrek.text",
-            "value": "<b>Gioca:</b> Infliggi 1 danno"
+            "value": "<b>Jogar:</b> Cause 1 de dano"
         },
         {
             "key": "card.rektar.text",
-            "value": "<b>Gioca:</b> Infliggi 2 danni"
+            "value": "<b>Jogar:</b> Cause 2 de dano"
         },
         {
             "key": "card.rektardark.text",
-            "value": "<b>Attacco</b>: Maledici il mostro bersaglio"
+            "value": "<b>Ataque</b>: Amaldiçoe o monstro alvo"
         },
         {
             "key": "card.rektor.text",
-            "value": "<b>Ogni turno:</b> Distruggi tutti i mostri con l'attacco più basso in gioco (inclusi i tuoi)"
+            "value": "<b>A cada turno:</b> Destrua todos os monstros com o menor ataque em jogo (incluindo os seus)"
         },
         {
             "key": "card.rock_cave.text",
-            "value": "Tutti i mostri Roccia guadagnano: \"Subisci 1 danno per guadagnare +1 attacco\" costo 1 mana per uso"
+            "value": "Todos os monstros Rocha ganham: \"Receba 1 de dano para ganhar +1 ataque\" custo 1 mana por uso"
         },
         {
             "key": "card.rock_golem_spawn.text",
-            "value": "Provocazione"
+            "value": "Provocação"
         },
         {
             "key": "card.rock_token.text",
-            "value": "Scambia Token Roccia per qualsiasi Carta Roccia"
+            "value": "Troque Token Rocha por qualquer Carta Rocha"
         },
         {
             "key": "card.rootiny.text",
-            "value": "Rigenerazione"
+            "value": "Regeneração"
         },
         {
             "key": "card.rootulp.text",
@@ -886,23 +886,23 @@
         },
         {
             "key": "card.rootus.text",
-            "value": "Rigenerazione"
+            "value": "Regeneração"
         },
         {
             "key": "card.ropick.text",
-            "value": "<b>Gioca:</b> Guadagna 2 armatura"
+            "value": "<b>Jogar:</b> Ganhe 2 armadura"
         },
         {
             "key": "card.scarles.text",
-            "value": "Ogni turno, guadagna +1 attacco\nVolante"
+            "value": "No início de cada turno, ganhe +1 ataque\nVoador"
         },
         {
             "key": "card.shadow_token.text",
-            "value": "Scambia Token Ombra per qualsiasi Carta Ombra"
+            "value": "Troque Token Sombra por qualquer Carta Sombra"
         },
         {
             "key": "card.shama.text",
-            "value": "Danno incantesimo +1"
+            "value": "Dano de feitiço +1"
         },
         {
             "key": "card.shawla.text",
@@ -910,43 +910,43 @@
         },
         {
             "key": "card.skatrix.text",
-            "value": "Furia / INVESTIDA\n<b>Attacco:</b> Congela il bersaglio e non riceve danni di controattacco"
+            "value": "Voador / Carga / Intimidar\n<b>Ataque:</b> Congela o monstro alvo"
         },
         {
             "key": "card.skatrix_full.text",
-            "value": "Furia / INVESTIDA\n<b>Attacco:</b> Congela il bersaglio e non riceve danni di controattacco"
+            "value": "Voador / Carga\n<b>Ataque:</b> Congela o alvo e não recebe dano de contra-ataque"
         },
         {
             "key": "card.skipo.text",
-            "value": "Provocazione\n"
+            "value": "Provocação\n"
         },
         {
             "key": "card.slime.text",
-            "value": "<b>Gioca:</b> Ritorna un mostro dal tuo scarto alla tua mano"
+            "value": "<b>Jogar:</b> Retorne um monstro do seu descarte para a sua mão"
         },
         {
             "key": "card.sneel.text",
-            "value": "Guscio"
+            "value": "Carapaça"
         },
         {
             "key": "card.snowl.text",
-            "value": "Volante\n<b>Gioca:</b> Congela un nemico con attacco 2 o meno"
+            "value": "Voador\n<b>Jogar:</b> Congele um inimigo com 2 ou menos de ataque"
         },
         {
             "key": "card.soligator.text",
-            "value": "INVESTIDA"
+            "value": "CARGA"
         },
         {
             "key": "card.sostar.text",
-            "value": "Volante\nIntimidire"
+            "value": "Voador\nIntimidar"
         },
         {
             "key": "card.sovis.text",
-            "value": "Volante\nIntimidire"
+            "value": "Voador\nIntimidar"
         },
         {
             "key": "card.sparkig.text",
-            "value": "Tocco Letale"
+            "value": "Toque de Morte"
         },
         {
             "key": "card.spell_aerial_strike.text",
@@ -1102,7 +1102,7 @@
         },
         {
             "key": "card.spiky.text",
-            "value": "<b>Gioca:</b> Distruggi un mostro con 2 o meno attacco"
+            "value": "<b>Jogar:</b> Destrua um monstro com 2 ou menos de ataque"
         },
         {
             "key": "card.stingor.text",
