@@ -142,12 +142,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "Alle Elektro-Verbündeten erhalten +1 Angriff",
+            "value": "Beschwöre einen 2/1 Lampi mit Sturmangriff und Fliegend",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Elektro-Verbündeten-Boost",
+            "value": "Lampi beschwören",
             "hide": false
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "Verursache 1 Schaden.",
+            "value": "Verbrenne ein Ziel-Monster.",
             "hide": false
         },
         {

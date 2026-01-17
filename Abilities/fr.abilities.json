@@ -142,12 +142,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "Tous les alliés électriques gagnent +1 attaque",
+            "value": "Invoque un Lampi 2/1 avec Charge et Volant",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Boost Allié Électrique",
+            "value": "Invoquer Lampi",
             "hide": false
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "Infligez 1 dégât.",
+            "value": "Brûlez un monstre cible.",
             "hide": false
         },
         {

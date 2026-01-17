@@ -142,12 +142,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "Semua sekutu elektrik mendapatkan +1 serangan",
+            "value": "Panggil Lampi 2/1 dengan Serbuan dan Terbang",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Boost Sekutu Elektrik",
+            "value": "Panggil Lampi",
             "hide": false
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "Berikan 1 kerusakan.",
+            "value": "Bakar monster target.",
             "hide": false
         },
         {

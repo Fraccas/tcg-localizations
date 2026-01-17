@@ -142,12 +142,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "Tutti gli alleati elettrici guadagnano +1 attacco",
+            "value": "Evoca un Lampi 2/1 con Carica e Volante",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Boost Alleato Elettrico",
+            "value": "Evoca Lampi",
             "hide": false
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "Infliggi 1 danno.",
+            "value": "Brucia un mostro bersaglio.",
             "hide": false
         },
         {

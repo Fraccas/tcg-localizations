@@ -142,12 +142,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "Todos los aliados eléctricos ganan +1 ataque",
+            "value": "Invoca un Lampi 2/1 con Embestida y Volador",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Impulso de Aliado Eléctrico",
+            "value": "Invocar Lampi",
             "hide": false
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "Inflige 1 daño.",
+            "value": "Quema un monstruo objetivo.",
             "hide": false
         },
         {

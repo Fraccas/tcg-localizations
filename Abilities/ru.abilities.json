@@ -132,12 +132,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "Все электрические союзники получают +1 атаку",
+            "value": "Призовите Lampi 2/1 со Штурмом и Летающий",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Усиление Электрических Союзников",
+            "value": "Призыв Lampi",
             "hide": false
         },
         {
@@ -152,7 +152,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "Нанесите 1 урон.",
+            "value": "Сожгите целевого монстра.",
             "hide": false
         },
         {

@@ -142,12 +142,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "모든 전기 아군이 +1 공격을 얻습니다",
+            "value": "돌격과 비행을 가진 2/1 Lampi를 소환",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "전기 아군 부스트",
+            "value": "Lampi 소환",
             "hide": false
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "1 데미지를 줍니다.",
+            "value": "대상 몬스터를 불태웁니다.",
             "hide": false
         },
         {

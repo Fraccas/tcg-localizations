@@ -132,12 +132,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "Tüm elektrik müttefikleri +1 saldırı kazanır",
+            "value": "Hücum ve Uçan özellikli 2/1 Lampi çağır",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Elektrik Müttefik Desteği",
+            "value": "Lampi Çağır",
             "hide": false
         },
         {
@@ -152,7 +152,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "1 hasar verin.",
+            "value": "Bir hedef canavarı yak.",
             "hide": false
         },
         {

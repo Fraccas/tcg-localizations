@@ -142,12 +142,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "すべての電気の味方が+1攻撃を得る",
+            "value": "チャージと飛行を持つ2/1のLampiを召喚",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "電気味方ブースト",
+            "value": "Lampi召喚",
             "hide": false
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "1ダメージを与える。",
+            "value": "対象のモンスターを燃やす。",
             "hide": false
         },
         {

@@ -132,12 +132,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "Todos os aliados elétricos ganham +1 de ataque",
+            "value": "Invoca um Lampi 2/1 com Carga e Voador",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Impulso de Aliado Elétrico",
+            "value": "Invocar Lampi",
             "hide": false
         },
         {
@@ -152,7 +152,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "Cause 1 de dano.",
+            "value": "Queime um monstro alvo.",
             "hide": false
         },
         {

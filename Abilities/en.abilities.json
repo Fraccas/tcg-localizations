@@ -142,12 +142,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "All electric allies gain +1 attack",
+            "value": "Summon a 2/1 Lampi with Rush and Flying",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "Electric Ally Boost",
+            "value": "Summon Lampi",
             "hide": false
         },
         {
@@ -162,7 +162,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "Deal 1 damage.",
+            "value": "Burn a target monster.",
             "hide": false
         },
         {

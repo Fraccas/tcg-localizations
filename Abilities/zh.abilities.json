@@ -132,12 +132,12 @@
         },
         {
             "key": "ability.activate_electric_3.desc",
-            "value": "所有电系盟友获得+1攻击",
+            "value": "召唤一只2/1的带有冲锋和飞行的Lampi",
             "hide": false
         },
         {
             "key": "ability.activate_electric_3.title",
-            "value": "电系盟友强化",
+            "value": "召唤Lampi",
             "hide": false
         },
         {
@@ -152,7 +152,7 @@
         },
         {
             "key": "ability.activate_fire_2.desc",
-            "value": "造成1点伤害。",
+            "value": "灼烧一个目标怪物。",
             "hide": false
         },
         {
