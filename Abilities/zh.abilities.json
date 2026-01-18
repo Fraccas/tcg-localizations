@@ -721,6 +721,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "所有电怪物消耗2法力更少（包括敌人）",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "电光环 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "所有敌怪物获得+1攻击。",
             "hide": false
@@ -3107,12 +3117,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "所有电怪物消耗2法力更少（包括敌人）",
+            "value": "所有电怪物消耗1法力更少（包括敌人）",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "电光环",
+            "value": "电城光环",
             "hide": false
         },
         {

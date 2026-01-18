@@ -731,6 +731,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "모든 전기 몬스터가 2 마나 적게 듭니다 (적 포함)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "전기 아우라 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "모든 적 몬스터가 +1 공격을 얻습니다.",
             "hide": false
@@ -3117,12 +3127,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "모든 전기 몬스터가 2 마나 적게 듭니다 (적 포함)",
+            "value": "모든 전기 몬스터가 1 마나 적게 듭니다 (적 포함)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "전기 아우라",
+            "value": "전기 타운 아우라",
             "hide": false
         },
         {

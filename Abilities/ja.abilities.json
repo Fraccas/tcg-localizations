@@ -731,6 +731,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "すべてのエレクトリックモンスターが2マナ少なくなる（敵を含む）",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "エレクトリックオーラ 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "すべての敵モンスターが+1攻撃を得る。",
             "hide": false
@@ -3117,12 +3127,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "すべてのエレクトリックモンスターが2マナ少なくなる（敵を含む）",
+            "value": "すべてのエレクトリックモンスターが1マナ少なくなる（敵を含む）",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "エレクトリックオーラ",
+            "value": "エレクトリックタウンオーラ",
             "hide": false
         },
         {

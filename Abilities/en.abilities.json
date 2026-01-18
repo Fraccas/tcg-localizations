@@ -731,6 +731,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "All Electric monsters cost 2 mana less (includes enemies)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "Electric Aura 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "All enemy monsters gain +1 attack.",
             "hide": false
@@ -3117,12 +3127,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "All Electric monsters cost 2 mana less (includes enemies)",
+            "value": "All Electric monsters cost 1 mana less (includes enemies)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Electric Aura",
+            "value": "Electric Town Aura",
             "hide": false
         },
         {

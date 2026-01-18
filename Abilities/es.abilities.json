@@ -731,6 +731,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "Todos los monstruos Eléctricos cuestan 2 maná menos (incluye enemigos)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "Aura Eléctrica 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "Todos los monstruos enemigos ganan +1 ataque.",
             "hide": false
@@ -3117,12 +3127,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Todos los monstruos Eléctricos cuestan 2 maná menos (incluye enemigos)",
+            "value": "Todos los monstruos Eléctricos cuestan 1 maná menos (incluye enemigos)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Aura Eléctrica",
+            "value": "Aura de Ciudad Eléctrica",
             "hide": false
         },
         {

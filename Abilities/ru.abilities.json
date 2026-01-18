@@ -721,6 +721,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "Все электрические монстры стоят на 2 маны меньше (включая врагов)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "Электрическая аура 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "Все вражеские монстры получают +1 атаки.",
             "hide": false
@@ -3107,12 +3117,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Все электрические монстры стоят на 2 маны меньше (включая врагов)",
+            "value": "Все электрические монстры стоят на 1 ману меньше (включая врагов)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Электрическая аура",
+            "value": "Электрическая аура города",
             "hide": false
         },
         {

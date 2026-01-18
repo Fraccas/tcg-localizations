@@ -731,6 +731,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "Wszystkie potwory Elektryczne kosztują 2 many mniej (w tym wrogie)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "Aura Elektryczna 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "Wszyscy wrogowie potwory zyskują +1 ataku.",
             "hide": false
@@ -3117,12 +3127,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Wszystkie potwory Elektryczne kosztują 2 many mniej (w tym wrogie)",
+            "value": "Wszystkie potwory Elektryczne kosztują 1 manę mniej (w tym wrogie)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Aura Elektryczna",
+            "value": "Aura Elektrycznego Miasta",
             "hide": false
         },
         {

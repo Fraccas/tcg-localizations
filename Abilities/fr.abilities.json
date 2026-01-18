@@ -731,6 +731,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "Tous les monstres Électriques coûtent 2 mana de moins (inclut les ennemis)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "Aura Électrique 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "Tous les monstres ennemis gagnent +1 attaque.",
             "hide": false
@@ -3117,12 +3127,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Tous les monstres Électriques coûtent 2 mana de moins (inclut les ennemis)",
+            "value": "Tous les monstres Électriques coûtent 1 mana de moins (inclut les ennemis)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Aura Électrique",
+            "value": "Aura de Ville Électrique",
             "hide": false
         },
         {

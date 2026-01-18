@@ -721,6 +721,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "Tüm elektrik canavarları 2 mana daha az maliyetlidir (düşmanlar dahil)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "Elektrik Aurası 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "Tüm düşman canavarları +1 saldırı kazanır.",
             "hide": false
@@ -3107,12 +3117,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Tüm elektrik canavarları 2 mana daha az maliyetlidir (düşmanlar dahil)",
+            "value": "Tüm elektrik canavarları 1 mana daha az maliyetlidir (düşmanlar dahil)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Elektrik Aurası",
+            "value": "Elektrik Şehir Aurası",
             "hide": false
         },
         {

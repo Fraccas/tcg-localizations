@@ -731,6 +731,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "Semua monster Elektrik biaya 2 mana kurang (termasuk musuh)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "Aura Elektrik 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "Semua monster musuh mendapatkan +1 serangan.",
             "hide": false
@@ -3117,12 +3127,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Semua monster Elektrik biaya 2 mana kurang (termasuk musuh)",
+            "value": "Semua monster Elektrik biaya 1 mana kurang (termasuk musuh)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Aura Elektrik",
+            "value": "Aura Kota Elektrik",
             "hide": false
         },
         {

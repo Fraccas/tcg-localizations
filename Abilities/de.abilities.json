@@ -731,6 +731,16 @@
             "hide": false
         },
         {
+            "key": "ability.aura_electric2.desc",
+            "value": "Alle Elektro-Monster kosten 2 Mana weniger (auch gegnerische)",
+            "hide": false
+        },
+        {
+            "key": "ability.aura_electric2.title",
+            "value": "Elektro-Aura 2",
+            "hide": false
+        },
+        {
             "key": "ability.aura_enemy_attack1.desc",
             "value": "Alle gegnerischen Monster erhalten +1 Angriff.",
             "hide": false
@@ -3117,12 +3127,12 @@
         },
         {
             "key": "ability.town_aura_electric.desc",
-            "value": "Alle Elektro-Monster kosten 2 Mana weniger (auch gegnerische)",
+            "value": "Alle Elektro-Monster kosten 1 Mana weniger (auch gegnerische)",
             "hide": false
         },
         {
             "key": "ability.town_aura_electric.title",
-            "value": "Elektro-Aura",
+            "value": "Elektro-Stadt-Aura",
             "hide": false
         },
         {
